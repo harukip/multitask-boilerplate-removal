@@ -1,0 +1,148 @@
+tag,content,label,depth
+html body text title span span  ,Fertilizer Interpretation,0,6
+html body text h1 font span  ,Fertilizer Interpretation,0,6
+html body text p font font span  ,"Fertilizer formulations are defined and listed by manufacturers in percentages, and termed the ""guaranteed analysis"". The law requires these values be presented in a somewhat ambiguous fashion, for reasons nobody seems to remember. First on the label, are the percentages for the nitrogen, phosphorus, and potassium (NPK). They are rounded down to the next whole number. The nitrogen (N) is given as total combined elemental nitrogen, and is further defined as nitrate (NO3) or ammonium (NH4). Phosphorus is listed as phosphoric anhydride (P2O5), when the actual phosphorus (P) is less than 44% of that figure. The remaining 56% of that molecule is oxygen. Example: 10% P2O5 is only 4.4% as P. Potassium is listed as potash (potassium oxide) or (K2O), and only 83% of the listed value is actual elemental potassium (K). All other minerals are listed as elemental and should represent actual content. Below the guaranteed analysis, will be a list of compounds which were used in this formula and contain, at minimum, the values listed. However, just because a mineral is in content, does not assure that it is in a form free and available to the plant. These must otherwise be defined as water soluble. Inferior or improperly combined nutrient compounds can render some of the listed elements useless for immediate assimilation.",0,7
+html body text p font span  ,"Nutrient values, though listed as percentages, are generally measured in parts per million (ppm). This is to say, that there is one part of a given substance to each 999,999 parts of all other content. In other words, if you divide what ever you have into one million pieces, one of them would be one ppm. To convert percentage to ppm, multiply by 10,000, or move the decimal 4 spaces to the right. Example: 1% = 10,000 ppm.",0,6
+html body text h2 font font a span  ,Nutrient Solutions,1,8
+html body text p font span  ,"Check solution level. Sufficient quantity must be available to maintain stable solution properties. A small reservoir will require more frequent amendments to keep the nutrient concentrations and pH within the acceptable range. The two most important of these properties is, ionic strength and acid balance. Respectively, the concentration of soluble salts (nutrient elements) and the pH, which is the acid/ base balance that regulates the interactions and availability of these elements.",1,6
+html body text h2 font font a span  ,Fertilizer Concentration,1,8
+html body text p font span  ,"Fertilizer concentrations can be easily measured with inexpensive electronic meters. Element concentrations can be measured by their ability to conduct electricity through a solution. Since every element in a multi-element solution has a different conductivity factor, these measurements are only approximate. Pure water will not conduct current, but as you add elemental salts ( mostly metals ) conductivity increases proportionately. Simple electronic meters can measure this value and interpret it as total dissolved solids ( TDS ). Nutrient solution concentrations suitable for plant nourishment generally range between 500 and 2000 parts per million ( ppm ).If the solution concentration is to high, the internal osmotic systems can reverse and actually dehydrate the plant. For general purpose, try to maintain a moderate value of approximately 800 to 1200 ppm. These levels can be effected by plant absorption or by water evaporation. As the plants use the nutrients, the solution weakens, but as the water evaporates from the solution, the salt concentration increases. Adjust values by either adding fertilizer or diluting with water. Use luke warm water and try to maintain a solution temperature between 60 and 80 degrees. Use a complete and soluble high quality hydroponic fertilizer according to recommendations on label.",1,6
+html body text h2 font font a span  ,Nutrient Solution pH,1,8
+html body text p font span  ,"Solution pH ( potential hydrogen ) is extremely critical and must be checked often to maintain a nearly neutral balance. Variations either way will effect the breakdown and solubility of the nutrient compounds. Acceptable values vary slightly with different plants, grow mediums, and hydroponic systems. Generally desirable readings range from 5.5 ( slightly acid ) to 7.0 ( neutral ). For general purposes, try to maintain a value of 6.5 and make a correction if readings vary +/- a half point. The tolerance range therefore is 6.0 to 7.0 . Use pH up and down adjusters carefully and mix in slowly and completely. Fertilizers, when added will usually lower the solutions pH value. Most of the time, as solutions are used by plants, the pH will raise, and additions of fertilizer, or a pH down adjuster will be needed. It is preferable to adjust water pH before adding fertilizer, once you are familiar with what adjustments will be required. Solution pH can be determined either by a reagent color comparison method or with an electronic test meter.",1,6
+html body text h2 font font a span  ,Solution Maintenance,1,8
+html body text p font font span  ,"Solutions can be topped off and corrected in a casual routine (usually for about 30 days) at which point they should be replenished with a fresh supply. Meanwhile, keep the solution water level constant and use an electronic conductivity meter to determine how much additional fertilizer will need to be provided. Tanks, trays and plumbing should be cleaned and rinsed periodically to remove algae, excess nutrient salts, and possible viral or fungal pathogens. A 5% sodium hypochlorite solution (bleach) should be used to sterilize the system between crops. Monthly leaching ( rinsing ) of substrate (grow medium) by clear watering is advised to reduce accumulation of soluble salts, and avoid a toxic build up of immobile trace elements.",1,7
+html body text h2 font font a span  ,Solution pH,1,8
+html body text p font font span  ,"Solution pH (potential hydrogen) controls the availability of ions to be assimilated into the plant. Solution pH is displayed on a scale from 0 to 14 with 7 being neutral. All values less are considered acidic, and all values greater are alkaline. Plant solutions are generally considered desirable between 6.0 and 7.0 pH.",1,7
+html body text h2 font font a span  ,Nutrient Solution Composition,1,8
+html body text font p font span  ,The values below provide a guideline of acceptable limits. Values deficient or in excess of those shown could result in poor plant health.,1,7
+html body text h4 font font span  ,Values generally considered desirable for elements in nutrient solutions as ppm,1,7
+html body text h4 font span  ,.,1,6
+html body text font div center table tbody tr td p font span  ,ELEMENT,1,13
+html body text font div center table tbody tr td p font span  ,Nitrogen,1,13
+html body text font div center table tbody tr td p font span  ,Calcium,1,13
+html body text font div center table tbody tr td p font span  ,Magnesium,1,13
+html body text font div center table tbody tr td p font span  ,Phosphorus,1,13
+html body text font div center table tbody tr td p font span  ,Potassium,1,13
+html body text font div center table tbody tr td p font span  ,Sulfur,1,13
+html body text font div center table tbody tr td p font span  ,Copper,1,13
+html body text font div center table tbody tr td p font span  ,Boron,1,13
+html body text font div center table tbody tr td p font span  ,Iron,1,13
+html body text font div center table tbody tr td p font span  ,Manganese,1,13
+html body text font div center table tbody tr td p font span  ,Molybdenum,1,13
+html body text font div center table tbody tr td p font span  ,Zinc,1,13
+html body text font div center table tbody tr td p font span  ,LIMITS,1,13
+html body text font div center table tbody tr td p font span  ,150-1000,1,13
+html body text font div center table tbody tr td p font span  ,100-500,1,13
+html body text font div center table tbody tr td p font span  ,50-100,1,13
+html body text font div center table tbody tr td p font span  ,50-100,1,13
+html body text font div center table tbody tr td p font span  ,100-400,1,13
+html body text font div center table tbody tr td p font span  ,200-1000,1,13
+html body text font div center table tbody tr td p font span  ,0.1-0.5,1,13
+html body text font div center table tbody tr td p font span  ,0.5-5.0,1,13
+html body text font div center table tbody tr td p font span  ,2.0-10,1,13
+html body text font div center table tbody tr td p font span  ,0.5-5.0,1,13
+html body text font div center table tbody tr td p font span  ,0.01-0.05,1,13
+html body text font div center table tbody tr td p font span  ,0.5-1.0,1,13
+html body text font div center table tbody tr td p font span  ,AVERAGE,1,13
+html body text font div center table tbody tr td p font span  ,250,1,13
+html body text font div center table tbody tr td p font span  ,200,1,13
+html body text font div center table tbody tr td p font span  ,75,1,13
+html body text font div center table tbody tr td p font span  ,80,1,13
+html body text font div center table tbody tr td p font span  ,300,1,13
+html body text font div center table tbody tr td p font span  ,400,1,13
+html body text font div center table tbody tr td p font span  ,.05,1,13
+html body text font div center table tbody tr td p font span  ,1.0,1,13
+html body text font div center table tbody tr td p font span  ,5.0,1,13
+html body text font div center table tbody tr td p font span  ,2.0,1,13
+html body text font div center table tbody tr td p font span  ,0.02,1,13
+html body text font div center table tbody tr td p font span  ,0.5,1,13
+html body text h3 font a span  ,Soluble Salts Range Chart,1,7
+html body text p font span  ,Electrical conductivity (EC)as millisiemen (mS) and total dissolved solids (TDS) as parts per million (PPM),1,6
+html body text font div center table tbody tr td p font span  ,RANGE,1,13
+html body text font div center table tbody tr td p font span  ,DESIRABLE,1,13
+html body text font div center table tbody tr td p font span  ,PERMISSIBLE (with potential for concern),1,13
+html body text font div center table tbody tr td p font span  ,PROBABLE SALT DAMAGE,1,13
+html body text font div center table tbody tr td p font span  ,EC as mS,1,13
+html body text font div center table tbody tr td p font span  ,0.75 to 2.0,1,13
+html body text font div center table tbody tr td p font span  ,2.0 to 3.0,1,13
+html body text font div center table tbody tr td p font span  ,3.0 and up,1,13
+html body text font div center table tbody tr td p font span  ,TDS as PPM,1,13
+html body text font div center table tbody tr td p font span  ,500 to 1300,1,13
+html body text font div center table tbody tr td p font span  ,1300 to 2000,1,13
+html body text font div center table tbody tr td p font span  ,2000 and up,1,13
+html body text font p font span  ,For nutrient solutions determinations one (1) mS (millisiemen) or one mMho/cm2 is equivalent to approximately 650 ppm total dissolved solids.,1,7
+html body text h1 a font span  ,Deficiencies and Toxicity,1,7
+html body text p font b u span  ,Mobile elements,1,8
+html body text p strong font span  ,"Mobile elements are more likely to exibit visual deficiencies in the older leaves, because during demand these elements will be exported to the new growth.",1,7
+html body text h2 font a span  ,Nitrogen,1,7
+html body text p font font b span  ,Deficiency:,1,8
+html body text p font font span  ,"Plants will exhibit lack of vigor as older leaves become yellow (chlorotic) from lack of chlorophyll. Chlorosis will eventually spread throughout the plant. Stems, petioles and lower leaf surfaces may turn purple.",1,7
+html body text p font font b span  ,Toxicity:,1,8
+html body text p font font span  ,"Leaves are often dark green and in the early stages abundant with foliage. If excess is severe, leaves will dry and begin to fall off. Root system will remain under developed or deteriorate after time. Fruit and flower set will be inhibited or deformed.",1,7
+html body text h2 font a span  ,Phosphorus,1,7
+html body text p font font b span  ,Deficiency:,1,8
+html body text p font font span  ,"Plants are stunted and older leaves often dark dull green in color. Stems, petioles may turn purple. Plant maturity is often delayed.",1,7
+html body text p font font font b span  ,Toxicity:,1,9
+html body text p font font font span  ,This condition is rare and usually buffered by pH limitations. Excess phosphorus can interfere with the availability of copper and zinc.,1,8
+html body text h2 font a span  ,Potassium,1,7
+html body text font p font font b span  ,Deficiency:,1,9
+html body text font p font font span  ,Older leaves are initially chlorotic but soon develop dark necrotic lesions (dead tissue). First apparent on the tips and margins of the leaves. Stem and branches may become weak and easily broken.,1,8
+html body text p font b span  ,Toxicity:,1,7
+html body text p font span  ,"Usually not absorbed excessively by plants. Excess potassium can aggravate the uptake of magnesium, manganese, zinc and iron.",1,6
+html body text h2 font a span  ,Magnesium,1,7
+html body text font p font b span  ,Deficiency:,1,8
+html body text font p font span  ,The older leaves will be the first to develop interveinal chlorosis. Starting at leaf margin or tip and progressing inward between the veins.,1,7
+html body text p font font b span  ,Toxicity:,1,8
+html body text p font font span  ,Magnesium toxicity is rare and not generally exhibited visibly.,1,7
+html body text h2 font a span  ,Zinc,1,7
+html body text font p font b span  ,Deficiency:,1,8
+html body text font p font span  ,Chlorosis may accompany reduction of leaf size and a shortening between internodes. Leaf margins are often distorted or wrinkled.,1,7
+html body text font p font b span  ,Toxicity:,1,8
+html body text font p font span  ,Zinc in excess is extremely toxic and will cause rapid death. Excess zinc interferes with iron causing chlorosis from iron deficiency.,1,7
+html body text p b font u span  ,Immobile elements,1,8
+html body text p b font span  ,Immobile elements will show their first symptoms on younger leaves and progress to the whole plant.,1,7
+html body text h2 font a span  ,Sulfur,1,7
+html body text font p font b span  ,Deficiency:,1,8
+html body text font p font span  ,The initial symptoms are the yellowing of the entire leaf including veins usually starting with the younger leaves. Leaf tips may yellow and curl downward.,1,7
+html body text font p font b span  ,Toxicity:,1,8
+html body text font p font span  ,Leaf size will be reduced and overall growth will be stunted. Leaves yellowing or scorched at edges.,1,7
+html body text h2 font a span  ,Calcium,1,7
+html body text font p font b span  ,Deficiency:,1,8
+html body text font p font span  ,"Young leaves are affected first and become small and distorted or chlorotic with irregular margins, spotting or necrotic areas. Bud development is inhibited and root may be under developed or die back. Fruit may be stunted or deformed.",1,7
+html body text font p font b span  ,Toxicity:,1,8
+html body text font p font span  ,Difficult to distinguish visually. May precipitate with sulfur in solution and cause clouding or residue in tank.,1,7
+html body text h2 font a span  ,Iron,1,7
+html body text font p font b span  ,Deficiency:,1,8
+html body text font p font span  ,Pronounced interveinal chlorosis similar to that caused by magnesium deficiency but on the younger leaves.,1,7
+html body text font p font b span  ,Toxicity:,1,8
+html body text font p font span  ,Excess accumulation is rare but could cause bronzing or tiny brown spots on leaf surface.,1,7
+html body text h2 font a span  ,Manganese,1,7
+html body text font p font b span  ,Deficiency:,1,8
+html body text font p font span  ,Interveinal chlorosis on younger or older leaves followed by necrotic lesions or leaf shedding. Restricted growth and failure to mature normally can also result.,1,7
+html body text font p font b span  ,Toxicity:,1,8
+html body text font p font span  ,"Chlorosis, or blotchy leaf tissue due to insufficient chlorophyll synthesis. Growth rate will slow and vigor will decline.",1,7
+html body text h2 font a span  ,Chlorine,1,7
+html body text font p font b span  ,Deficiency:,1,8
+html body text font p font span  ,Wilted chlorotic leaves become bronze in color. Roots become stunted and thickened near tips.,1,7
+html body text font p font b span  ,Toxicity:,1,8
+html body text font p font span  ,"Burning of leaf tip or margins. Bronzing, yellowing and leaf splitting. Reduced leaf size and lower growth rate.",1,7
+html body text h2 font a span  ,Boron,1,7
+html body text font p font b span  ,Deficiency:,1,8
+html body text font p font span  ,"Stem and root apical meristems often die. Root tips often become swollen and discolored. Internal tissues may rot and become host to fungal disease. Leaves show various symptoms which include drying, thickening, distorting, wilting, and chlorotic or necrotic spotting.",1,7
+html body text font p font b span  ,Toxicity:,1,8
+html body text font p font span  ,Yellowing of leaf tip followed by necrosis of the leaves beginning at tips or margins and progressing inward. Some plants are especially sensitive to boron accumulation.,1,7
+html body text h2 font a span  ,Copper,1,7
+html body text font p font b span  ,Deficiency:,1,8
+html body text font p font span  ,Young leaves often become dark green and twisted. They may die back or just exhibit necrotic spots. Growth and yield will be deficient as well.,1,7
+html body text font p font b span  ,Toxicity:,1,8
+html body text font p font span  ,"Reduced growth followed by symptoms of iron chlorosis, stunting, reduced branching, abnormal darkening and thickening of roots. This element is essential but extremely toxic in excess.",1,7
+html body text h2 font a span  ,Molybdenum,1,7
+html body text font p font b span  ,Deficiency:,1,8
+html body text font p font span  ,"Often interveinal chlorosis which occurs first on older leaves, then progressing to the entire plant. Developing severely twisted younger leaves which eventually die.",1,7
+html body text font p font b span  ,Toxicity:,1,8
+html body text font p font span  ,Excess may cause discoloration of leaves depending on plant species. This condition is rare but could occur from accumulation by continuous application. Used by the plant in very small quantities.,1,7
+html body text font p font a span  ,Genesis Formula,0,8
+html body text font p font a span  ,Nutrient Properties,0,8
+html body text font p font a span  ,Plant Nutrition,0,8
+html body text p font a span  ,Fertilizer Application,0,7
+html body text font p font a span  ,Return to Home Page,0,8

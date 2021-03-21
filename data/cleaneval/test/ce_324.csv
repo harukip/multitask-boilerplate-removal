@@ -1,0 +1,440 @@
+tag,content,label,depth
+html body text form table tbody tr th h3 font span  ,Aromaticity,1,11
+html body text form center h2 font span  ,Benzene and Other Aromatic Compounds,1,8
+html body text form p span  ,"The adjective ""aromatic"" is used by organic chemists in a rather different way than it is normally applied. It has its origin in the observation that certain natural substances, such as cinnamon bark, wintergreen leaves, vanilla beans and anise seeds, contained fragrant compounds having common but unexpected properties. Cinnamon bark, for example, yielded a pleasant smelling compound, formula C",1,6
+html body text form p sub span  ,9,0,7
+html body text form p span  ,H,0,6
+html body text form p sub span  ,8,0,7
+html body text form p span  ,"O, named cinnamaldehyde. Because of the low hydrogen to carbon ratio in this and other aromatic compounds (note that the H:C ratio in an alkane is >2), chemists expected their structural formulas would contain a large number of double or triple bonds. Since double bonds are easily cleaved by oxidative reagents such as potassium permanganate or ozone, and rapidly add bromine and chlorine, these reactions were applied to these aromatic compounds. Surprisingly, products that appeared to retain many of the double bonds were obtained, and these compounds exhibited a high degree of chemical stability compared with known alkenes and cycloalkenes (",1,6
+html body text form p a span  ,aliphatic compounds,1,7
+html body text form p span  ,"). On treatment with hot permanganate solution, cinnamaldehyde gave a stable, crystalline C",1,6
+html body text form p sub span  ,7,0,7
+html body text form p span  ,H,0,6
+html body text form p sub span  ,6,0,7
+html body text form p span  ,O,0,6
+html body text form p sub span  ,2,0,7
+html body text form p span  ,"compound, now called benzoic acid. The H:C ratio in benzoic acid is <1, again suggesting the presence of several double bonds. Benzoic acid was eventually converted to the stable hydrocarbon benzene, C",1,6
+html body text form p sub span  ,6,0,7
+html body text form p span  ,H,0,6
+html body text form p sub span  ,6,0,7
+html body text form p span  ,", which also proved unreacive to common double bond transformations, as shown below. For comparison, reactions of cyclohexene, a typical alkene, with these reagents are also shown (green box). As experimental evidence for a wide assortment of compounds was acquired, those incorporating this exceptionally stable six-carbon core came to be called ""aromatic"".",1,6
+html body text form p span  ,"If benzene is forced to react by increasing the temperature and/or by addition of a catalyst, It undergoes",1,6
+html body text form p b span  ,substitution reactions,1,7
+html body text form p span  ,"rather than the addition reactions that are typical of alkenes. This further confirms the previous indication that the six-carbon benzene core is unusually stable to chemical modification. The conceptual contradiction presented by a high degree of unsaturation (low H:C ratio) and high chemical stability for benzene and related compounds remained an unsolved puzzle for many years. Eventually, the presently accepted structure of a regular-hexagonal, planar ring of carbons was adopted, and the exceptional thermodynamic and chemical stability of this system was attributed to",1,6
+html body text form p a span  ,resonance stabilization,1,7
+html body text form p span  ,of a conjugated cyclic triene.,1,6
+html body text form center table tbody tr th h3 span  ,Benzene:,0,11
+html body text form p span  ,"Here, two structurally and energetically equivalent electronic structures for a stable compound are written, but no single structure provides an accurate or even an adequate representation of the true molecule. The six-membered ring in benzene is a perfect hexagon (all carbon-carbon bonds have an identical length of 1.40 �). The cyclohexatriene contributors would be expected to show alternating bond lengths, the double bonds being shorter (1.34 �) than the single bonds (1.54 �). An alternative representation for benzene (circle within a hexagon) emphasizes the pi-electron delocalization in this molecule, and has the advantage of being a single diagram. In cases such as these, the electron delocalization described by resonance enhances the stability of the molecules, and compounds composed of such molecules often show exceptional stability and related properties.",1,6
+html body text form p span  ,"Evidence for the enhanced thermodynamic stability of benzene was obtained from measurements of the heat released when double bonds in a six-carbon ring are hydrogenated (hydrogen is added catalytically) to give cyclohexane as a common product. In the following diagram cyclohexane represents a low-energy reference point. Addition of hydrogen to cyclohexene produces cyclohexane and releases heat amounting to 28.6 kcal per mole. If we take this value to represent the energy cost of introducing one double bond into a six-carbon ring, we would expect a cyclohexadiene to release 57.2 kcal per mole on complete hydrogenation, and 1,3,5-cyclohexatriene to release 85.8 kcal per mole. These",1,6
+html body text form p b span  ,heats of hydrogenation,1,7
+html body text form p span  ,"would reflect the relative thermodynamic stability of the compounds. In practice, 1,3-cyclohexadiene is slightly more stable than expected, by about 2 kcal, presumably due to conjugation of the double bonds.",1,6
+html body text form p b span  ,"Benzene, however, is an extraordinary 36 kcal/mole more stable than expected",1,7
+html body text form p span  ,. This sort of stability enhancement is now accepted as a characteristic of all aromatic compounds.,1,6
+html body text form p span  ,A,1,6
+html body text form p a span  ,molecular orbital description,1,7
+html body text form p span  ,"of benzene provides a more satisfying and more general treatment of ""aromaticity"". We know that benzene has a planar hexagonal structure in which all the carbon atoms are sp",1,6
+html body text form p sup span  ,2,1,7
+html body text form p span  ,"hybridized, and all the carbon-carbon bonds are equal in length. As shown below, the remaining cyclic array of six p-orbitals ( one on each carbon) overlap to generate six molecular orbitals, three bonding and three antibonding. The plus and minus signs shown in the diagram do not represent electrostatic charge, but refer to phase signs in the equations that describe these orbitals (in the diagram the phases are also color coded). When the phases correspond, the orbitals overlap to generate a common region of like phase, with those orbitals having the greatest overlap (e.g. ?",1,6
+html body text form p sub span  ,1,0,7
+html body text form p span  ,") being lowest in energy. The remaining carbon valence electrons then occupy these molecular orbitals in pairs, resulting in a fully occupied (6 electrons) set of bonding molecular orbitals. It is this completely filled set of bonding orbitals, or",1,6
+html body text form p b span  ,closed shell,1,7
+html body text form p span  ,", that gives the benzene ring its thermodynamic and chemical stability, just as a filled valence shell octet confers stability on the inert gases.",1,6
+html body text form center h4 span  ,The Molecular Orbitals of Benzene,0,7
+html body text form p font span  ,To see an animated model of the benzene pi-molecular orbitals,0,7
+html body text form p font span  ,To examine a Chime model of the p-orbital components of these benzene pi-orbitals.,0,7
+html body text form h3 span  ,Fused Benzene Ring Compounds,1,6
+html body text form p span  ,"Benzene rings may be joined together (fused) to give larger polycyclic aromatic compounds. A few examples are drawn below, together with the approved numbering scheme for substituted derivatives. The peripheral carbon atoms (numbered in all but the last three examples) are all bonded to hydrogen atoms. The six benzene rings in coronene are fused in a planar ring; whereas the six rings in hexahelicene are not joined in a larger ring, but assume a helical turn, due to the crowding together of the terminal ring atoms. This helical configuration renders the hexihelicene molecule chiral, and it has been resolved into stable enantiomers having",1,6
+html body text form p a span  ,specific rotations,1,7
+html body text form p span  ,of 3700�.,1,6
+html body text form p font span  ,"Chime models of corannulene, coronene and hexahelicene may be examined by clicking on the appropriate structure in the diagram",1,7
+html body text form p span  ,.,1,6
+html body text form p span  ,"As these extended aromatic compounds become larger, the ratio of hydrogen to carbon decreases. For example, the symmetrical hexacyclic compound coronene has a H/C ratio =1/2, compared with 1 for benzene. If we were to imagine fused ring systems of this kind to be further extended in space, the H/C ratio would approach zero, and the resulting compound would be a form of carbon. Such a carbon allotrope exists and is called",1,6
+html body text form p b span  ,graphite,1,7
+html body text form p span  ,. Another well-characterised carbon allotrope is,1,6
+html body text form p b span  ,diamond,1,7
+html body text form p span  ,". The structures for these two forms of carbon are very different, and are displayed below. Diamond is an extended array of sp",1,6
+html body text form p sup span  ,3,1,7
+html body text form p span  ,"hybridized carbon atoms; whereas, graphite consists of overlapping sheets of sp",1,6
+html body text form p sup span  ,2,1,7
+html body text form p span  ,hybridized carbon atoms arranged in a hexagonal pattern.,1,6
+html body text form p font span  ,You may examine Chime models of partial diamond and graphite structures by clicking on the appropriate structure below,1,7
+html body text form p span  ,.,1,6
+html body text form center table tbody tr th span  ,Diamond,0,10
+html body text form center table tbody tr th span  ,Graphite,0,10
+html body text form p span  ,"A comparison of the coronene and corannulene models discloses an interesting difference in their shapes. Coronene is absolutely flat and, aside from the peripheral hydrogens, resembles a layer of graphite. Its very high melting point reflects this resemblance. Corannulene, on the other hand, is slightly curved, resulting in a bowl-like shape.",1,6
+html body text form p span  ,"If we extend the structure of corannulene by adding similar cycles of five benzene rings, the curvature of the resulting molecule should increase, and eventually close into a sphere of carbon atoms. The archtypical compound of this kind (C",1,6
+html body text form p sub span  ,60,1,7
+html body text form p span  ,) has been named,1,6
+html body text form p b span  ,buckminsterfullerene,1,7
+html body text form p span  ,because of its resemblance to the geodesic structures created by Buckminster Fuller. It is a member of a family of similar carbon structures that are called,1,6
+html body text form p b span  ,fullerenes,1,7
+html body text form p span  ,. These materials represent a third class of carbon allotropes. Alternating views of the C,1,6
+html body text form p sub span  ,60,1,7
+html body text form p span  ,"fullerene structure are shown on the right, together with a soccer ball-like representation of the 12 five and 20 six-membered rings composing its surface.",1,6
+html body text form p font span  ,"By clicking on this graphic, a Chime model of C",1,7
+html body text form p font sub span  ,60,1,8
+html body text form p font span  ,will be displayed,1,7
+html body text form p span  ,.,1,6
+html body text form p span  ,Although C,1,6
+html body text form p sub span  ,60,1,7
+html body text form p span  ,"is composed of fused benzene rings its chemical reactivity resembles that of the cycloalkenes more than benzene. Indeed, exposure to light and oxygen slowly degrade fullerenes to cage opened products. Most of the reactions thus far reported for C",1,6
+html body text form p sub span  ,60,1,7
+html body text form p span  ,"involve addition to, rather than substitution of, the core structure. These reactions include hydrogenation, bromination and hydroxylation. Strain introduced by the curvature of the surface may be responsible for the enhanced reactivity of C",1,6
+html body text form p sub span  ,60,1,7
+html body text form p span  ,.,1,6
+html body text form p span  ,". Larger fullerenes, such as C",1,6
+html body text form p sub span  ,70,1,7
+html body text form p span  ,", C",1,6
+html body text form p sub span  ,76,1,7
+html body text form p span  ,", C",1,6
+html body text form p sub span  ,82,1,7
+html body text form p span  ,& C,0,6
+html body text form p sub span  ,84,1,7
+html body text form p span  ,"have elipsoidal or distorted spherical structures, and fullerene-like assemblies up to C",1,6
+html body text form p sub span  ,240,1,7
+html body text form p span  ,"have been detected. A fascinating aspect of these structures is that the space within the carbon cage may hold atoms, ions or small molecules. Such species are called",1,6
+html body text form p b span  ,endohedral fullerenes,1,7
+html body text form p span  ,. The cavity of C,1,6
+html body text form p sub span  ,60,1,7
+html body text form p span  ,"is relatively small, but encapsulated helium, lithium and atomic nitrogen compounds have been observed. Larger fullerenes are found to encapsulate lanthanide metal atoms.",1,6
+html body text form p span  ,"Interest in the fullerenes has led to the discovery of a related group of carbon structures referred to as nanotubes. As shown in the following illustration, nanotubes may be viewed as rolled up segments of graphite. The chief structural components are six-membered rings, but changes in tube diameter, branching into side tubes and the capping of tube ends is accomplished by fusion with five and seven-membered rings. Many interesting applications of these unusual structures have been proposed.",1,6
+html body text form h3 span  ,Other Aromatic Systems,1,6
+html body text form p span  ,"Many unsaturated cyclic compounds have exceptional properties that we now consider characteristic of ""aromatic"" systems. The following cases are illustrative:",1,6
+html body text form center table tbody tr th span  ,Compound,0,10
+html body text form center table tbody tr th span  ,Structural,0,10
+html body text form center table tbody tr th span  ,Formula,0,10
+html body text form center table tbody tr th span  ,Reaction,0,10
+html body text form center table tbody tr th span  ,with Br,0,10
+html body text form center table tbody tr th sub span  ,2,0,11
+html body text form center table tbody tr th span  ,Thermodynamic,0,10
+html body text form center table tbody tr th span  ,Stabilization,0,10
+html body text form center table tbody tr td span  ,"1,3-Cyclopentadiene",0,10
+html body text form center table tbody tr td span  ,Addition ( 0 �C ),0,10
+html body text form center table tbody tr td span  ,Slight,0,10
+html body text form center table tbody tr td span  ,"1,3,5-Cycloheptatriene",0,10
+html body text form center table tbody tr td span  ,Addition ( 0 �C ),0,10
+html body text form center table tbody tr td span  ,Slight,0,10
+html body text form center table tbody tr td span  ,"1,3,5,7-Cyclooctatetraene",0,10
+html body text form center table tbody tr td span  ,Addition ( 0 �C ),0,10
+html body text form center table tbody tr td span  ,Slight,0,10
+html body text form center table tbody tr td span  ,Benzene,0,10
+html body text form center table tbody tr td span  ,Substitution,0,10
+html body text form center table tbody tr td span  ,Large,0,10
+html body text form center table tbody tr td span  ,Pyridine,0,10
+html body text form center table tbody tr td span  ,Substitution,0,10
+html body text form center table tbody tr td span  ,Large,0,10
+html body text form center table tbody tr td span  ,Furan,0,10
+html body text form center table tbody tr td span  ,Substitution ( 0 �C ),0,10
+html body text form center table tbody tr td span  ,Moderate,0,10
+html body text form center table tbody tr td span  ,Pyrrole,0,10
+html body text form center table tbody tr td span  ,Substitution,0,10
+html body text form center table tbody tr td span  ,Moderate,0,10
+html body text form p span  ,"The first three compounds (cyclic polyenes) have properties associated with alkenes in general. Each reacts readily with bromine to give addition products, as do most alkenes. The thermodynamic change on introducing double bonds into the carbon atom ring is also typical of alkenes (a destabilization of ca. 26 kcal/mol for each double bond). Conjugation offsets this increase in energy by a small amount (4-6 kcal/mol).",1,6
+html body text form p span  ,"The remaining four compounds exhibit very different properties, and are considered aromatic. Benzene and pyridine are relatively unreactive with bromine, requiring heat and/or catalysts to force reaction, the result of which is substitution rather than addition. Furan and pyrrole react more rapidly with bromine, but they also give substitution products. This tendency to favor substitution rather than addition suggests that the parent unsaturated ring system has exceptional stability. Thermodynamic measurements support this conclusion. The enhanced stability, often referred to as",1,6
+html body text form p b span  ,aromatic stabilization,1,7
+html body text form p span  ,", ranges (in the above cases) from a low of 16 kcal/mol for furan to 36 kcal/mol for benzene.",1,6
+html body text form center h4 font span  ,Factors Required for Aromaticity,1,8
+html body text form ul li p span  ,A planar (or near planar) cycle of sp,1,8
+html body text form ul li p sup span  ,2,1,9
+html body text form ul li p span  ,"hybridized atoms, the p-orbitals of which are oriented parallel to each other. These overlapping p-orbitals generate an array of ?-molecular orbitals.",1,8
+html body text form ul li p span  ,These ?-orbitals are occupied by 4n+2 electrons (where n is an integer or zero). This requirement is known as,1,8
+html body text form ul li p b span  ,The H�ckel Rule,1,9
+html body text form ul li p span  ,. All the aromatic compounds discussed above have 6 ?-electrons (n=1).,1,8
+html body text form p span  ,"1,3-Cyclopentadiene and 1,3,5-cycloheptatriene both fail to meet the first requirement, since one carbon atom of each ring is sp",1,6
+html body text form p sup span  ,3,1,7
+html body text form p span  ,"hybridized and has no p-orbital. Cyclooctatetraene fails both requirements, although it has a ring of sp",1,6
+html body text form p sup span  ,2,1,7
+html body text form p span  ,"hybridized atoms. This molecule is not planar ( a geometry that would have 135� bond angles ). Angle strain is relieved by adopting a tub-shaped conformation; consequently, the p-orbitals can only overlap as isolated pairs, not over the entire ring. Furthermore, cyclooctatetraene has 8 ?-electrons, a number not consistent with the H�ckel Rule.",1,6
+html body text form p span  ,"Benzene is the archetypical aromatic compound. It is planar, bond angles=120�, all carbon atoms in the ring are sp",1,6
+html body text form p sup span  ,2,1,7
+html body text form p span  ,"hybridized, and the pi-orbitals are occupied by 6 electrons. Pyridine is similar to benzene, but it is essential to recognize that the non-bonding electron pair on nitrogen occupies a sp",1,6
+html body text form p sup span  ,2,1,7
+html body text form p span  ,"orbital lying in the plane of the ring, and is not part of the ?-electron system. Thus pyridine has 6 ?-electrons and 2 non-bonding sp",1,6
+html body text form p sup span  ,2,1,7
+html body text form p span  ,electrons.,1,6
+html body text form p span  ,"Furan and pyrrole have five-membered rings, in which one atom is not carbon (a heteroatom) and has at least one pair of non-bonding valence shell electrons. By hybridizing this heteroatom to a sp",1,6
+html body text form p sup span  ,2,1,7
+html body text form p span  ,"state, a p-orbital occupied by a pair of electrons and oriented parallel to the carbon p-orbitals is created. The resulting planar ring meets the first requirement for aromaticity, and the ?-system is occupied by 6 electrons, 4 from the two double bonds and 2 from the heteroatom, thus satisfying the H�ckel Rule.",1,6
+html body text form p span  ,Four other examples of aromatic compounds are shown above. The sp,1,6
+html body text form p sup span  ,2,1,7
+html body text form p span  ,"hybridized ring atoms are connected by brown bonds, the ?-electron pairs and bonds that constitute the aromatic ring are colored blue. Bonds and electron pairs that are not part of the aromatic annulene are black. The first example is imidazole, a heterocycle having two nitrogen atoms. Note that only one of the nitrogen non-bonding electron pairs is used for the aromatic ?-electron sextet. The other electron pair (colored black) behaves similarly to the electron pair in pyridine. The second and third compounds have ten-membered rings, which are forced to be planar, or nearly planar, by the bridging bond or methylene group. These are 10 ?-electron systems that fit the aromaticity requirements. Finally, the last example has a fourteen-membered ring with 7 double bonds. The bridging atoms and bonds force it to be planar. The number of ?-electrons in this aromatic system is 14.",1,6
+html body text form p span  ,Monocyclic compounds made up of alternating conjugated double bonds are called,1,6
+html body text form p b span  ,annulenes,1,7
+html body text form p span  ,". Benzene and 1,3,5,7-cyclooctatetraene are examples of annulenes; they are named [6]annulene and [8]annulene respectively, according to a general nomenclature system in which the number of pi-electrons in an annulene is designated by a number in brackets. Some annulenes are aromatic (e.g. benzene), but many are not due to non-planarity or a failure to satisfy the H�ckel Rule. Non-planarity of a simple ring may be corrected by bridging bonds or atoms, as noted above.",1,6
+html body text form center h4 font span  ,Aromatic Ions,1,8
+html body text form p span  ,Carbanions and carbocations may also show aromatic stabilization. Some examples are:,1,6
+html body text form p span  ,"The three-membered ring cation has 2 ?-electrons and is surprisingly stable, considering its ring strain. Cyclopentadiene is as acidic as ethanol, reflecting the stability of its 6 ?-electron conjugate base. Salts of cycloheptatrienyl cation (tropylium ion) are stable in water solution, again reflecting the stability of this 6 ?-electron cation.",1,6
+html body text form h3 span  ,Antiaromaticity,1,6
+html body text form p span  ,"Conjugated ring systems having 4n ?-electrons (e.g. 4, 8, 12 etc. electrons) not only fail to show any aromatic properties, but appear to be less stable and more reactive than expected. As noted above, 1,3,5,7-cyclooctatetraene is non-planar and adopts a tub-shaped conformation. The compound is readily prepared, and undergoes addition reactions typical of alkenes. Catalytic hydrogenation of this tetraene produces cyclooctane. Planar bridged annulenes having 4n ?-electrons have proven to be relatively unstable. Examples of 8 and 12-?-electron systems are shown below, together with a similar 10 ?-electron aromatic compound.",1,6
+html body text form p span  ,The simple C,1,6
+html body text form p sub span  ,8,0,7
+html body text form p span  ,H,0,6
+html body text form p sub span  ,6,0,7
+html body text form p span  ,"hydrocarbon pentalene does not exist as a stable compound, and its hexaphenyl derivative is air sensitive. The 12-?-electron analog heptalene has been prepared, but is also extremely reactive (more so than cyclooctatetraene). On the other hand, azulene is a stable 10-?-electron hydrocarbon that incorporates structural features of both pentalene and heptalene. Azuleneis a stable blue crystalline solid that undergoes a number of typical aromatic substitution reactions. The unexpected instability of 4n ?-electron annulenes has been termed """,1,6
+html body text form p b span  ,antiaromaticity,1,7
+html body text form p span  ,""".",1,6
+html body text form p span  ,"Other examples may be cited. Thus, all attempts to isolate 1,3-cyclobutadiene have yielded its dimer, or products from reactions with other compounds introduced into the reaction system. Similarly, cyclopentadienyl cation (4 ?-electrons) and cycloheptatrienyl anion (8 ?-electrons) show very high reactivity when forced to form.",1,6
+html body text form table tbody tr th p span  ,Cyclooctatetraene is a fascinating compound. To see more of its chemistry,0,10
+html body text form table tbody tr th p a span  ,Click Here,0,11
+html body text form table tbody tr th p span  ,.,0,10
+html body text form table tbody tr th h4 font span  ,Practice Problems,0,11
+html body text form table tbody tr td select option span  ,Choose a Problem,0,11
+html body text form table tbody tr td select option span  ,Identifying Aromatic Rings I,0,11
+html body text form table tbody tr td select option span  ,Identifying Aromatic Rings II,0,11
+html body text form center table tbody tr th a span  ,Return to Table of Contents,0,11
+html body text form table tbody tr th h3 font span  ,Nucleophilicity & Basicity,1,11
+html body text form center h2 font span  ,Nucleophilicity and Basicity Factors in Organic Reactions,1,8
+html body text form h3 span  ,General Principals,1,6
+html body text form p span  ,Recall the definitions of electrophile and nucleophile:,1,6
+html body text form table tbody tr td p b font span  ,Electrophile,1,12
+html body text form table tbody tr td p b span  ,:,1,11
+html body text form table tbody tr td p span  ,"An electron deficient atom, ion or molecule that has an affinity for an electron pair, and will bond to a base or nucleophile.",1,10
+html body text form table tbody tr td p b font span  ,Nucleophile,1,12
+html body text form table tbody tr td p b span  ,:,1,11
+html body text form table tbody tr td p span  ,"An atom, ion or molecule that has an electron pair that may be donated in bonding to an electrophile (or Lewis acid).",1,10
+html body text form a i span  ,"Definitions and examples of acids and bases were provided earlier in this text, and should be reviewed if the reader is not comfortable with this subject.",1,7
+html body text form p span  ,Many functional groups have weakly electrophilic carbon atoms (colored red in the following examples). These include,1,6
+html body text form p i span  ,alkyl halides,1,7
+html body text form p span  ,and,1,6
+html body text form p i span  ,sulfonate esters,1,7
+html body text form p span  ,{,1,6
+html body text form p font b span  ,C,1,8
+html body text form p span  ,-X and,1,6
+html body text form p font b span  ,C,1,8
+html body text form p span  ,-OSO,1,6
+html body text form p sub span  ,2,1,7
+html body text form p span  ,"R},as well as carbonyl compounds such as",1,6
+html body text form p i span  ,aldehydes,1,7
+html body text form p span  ,and,1,6
+html body text form p i span  ,ketones,1,7
+html body text form p span  ,{,1,6
+html body text form p font b span  ,C,1,8
+html body text form p span  ,=O}. These electrophilic functions may react with nucleophiles (bases) in two distinct ways:,1,6
+html body text form table tbody tr td p b span  ,(i),0,11
+html body text form table tbody tr td p span  ,Substitution or addition at carbon (this reflectsnucleophilicity),1,10
+html body text form table tbody tr td p b span  ,(ii),0,11
+html body text form table tbody tr td p span  ,?-Elimination or enolateanion formation (this reflects basicity),1,10
+html body text form p span  ,"Because these electrophilic reactants are weak, such reactions normally require strong nucleophiles or bases to proceed. However, if a preliminary ionization to a strongly electrophilic carbocation occurs: [ C-X",1,6
+html body text form p font span  ,��,0,7
+html body text form p b span  ,>,0,7
+html body text form p span  ,C,1,6
+html body text form p sup font span  ,(+),1,8
+html body text form p span  ,+ X,1,6
+html body text form p sup font span  ,(�),1,8
+html body text form p span  ,],1,6
+html body text form p span  ,or if the carbonyl group is converted to its more electrophilic conjugate acid: [ C=O + A,1,6
+html body text form p sup font span  ,(+),0,8
+html body text form p font span  ,��,0,7
+html body text form p b span  ,>,0,7
+html body text form p sup font span  ,(+),1,8
+html body text form p span  ,C-O-A],1,6
+html body text form p span  ,then reactions with much weaker nucleophiles or bases may take place.,1,6
+html body text form p span  ,Some confusion in distinguishing basicity (base strength) and nucleophilicity (nucleophile strength) is inevitable. Since basicityis a less troublesome concept; it is convenient to start with it.,1,6
+html body text form p b span  ,Basicity,1,7
+html body text form p span  ,refers to the ability of a base to accept a,1,6
+html body text form p b span  ,proton,1,7
+html body text form p span  ,. Basicity may be related to the pK,1,6
+html body text form p sub span  ,a,0,7
+html body text form p span  ,"of the corresponding conjugate acid, as shown below. The strongest bases have the weakest conjugate acids and",1,6
+html body text form p i span  ,vice versa,1,7
+html body text form p span  ,". The range of basicities included in the following table is remarkable, covering over fifty powers of ten!",1,6
+html body text form p span  ,In an acid-base equilibrium the weakest acid and the weakest base will predominate (they will necessarily be on the same side of the equilibrium). Learning the pK,1,6
+html body text form p sub span  ,a,0,7
+html body text form p span  ,values for common compounds provides a useful foundation on which to build an understanding of acid-base factors in reaction mechanisms.,1,6
+html body text form center table tbody tr th span  ,Base,0,10
+html body text form center table tbody tr td span  ,I,0,10
+html body text form center table tbody tr td sup span  ,(�),0,11
+html body text form center table tbody tr td span  ,Cl,0,10
+html body text form center table tbody tr td sup span  ,(�),0,11
+html body text form center table tbody tr td span  ,H,0,10
+html body text form center table tbody tr td sub span  ,2,0,11
+html body text form center table tbody tr td span  ,O,0,10
+html body text form center table tbody tr td span  ,CH,0,10
+html body text form center table tbody tr td sub span  ,3,0,11
+html body text form center table tbody tr td span  ,CO,0,10
+html body text form center table tbody tr td sub span  ,2,0,11
+html body text form center table tbody tr td sup span  ,(�),0,11
+html body text form center table tbody tr td span  ,RS,0,10
+html body text form center table tbody tr td sup span  ,(�),0,11
+html body text form center table tbody tr td span  ,CN,0,10
+html body text form center table tbody tr td sup span  ,(�),0,11
+html body text form center table tbody tr td span  ,RO,0,10
+html body text form center table tbody tr td sup span  ,(�),0,11
+html body text form center table tbody tr td span  ,NH,0,10
+html body text form center table tbody tr td sub span  ,2,0,11
+html body text form center table tbody tr td sup span  ,(�),0,11
+html body text form center table tbody tr td span  ,CH,0,10
+html body text form center table tbody tr td sub span  ,3,0,11
+html body text form center table tbody tr td sup span  ,(�),0,11
+html body text form center table tbody tr th span  ,Conj. Acid,0,10
+html body text form center table tbody tr td span  ,HI,0,10
+html body text form center table tbody tr td span  ,HCl,0,10
+html body text form center table tbody tr td span  ,H,0,10
+html body text form center table tbody tr td sub span  ,3,0,11
+html body text form center table tbody tr td span  ,O,0,10
+html body text form center table tbody tr td sup span  ,(+),0,11
+html body text form center table tbody tr td span  ,CH,0,10
+html body text form center table tbody tr td sub span  ,3,0,11
+html body text form center table tbody tr td span  ,CO,0,10
+html body text form center table tbody tr td sub span  ,2,0,11
+html body text form center table tbody tr td span  ,H,0,10
+html body text form center table tbody tr td span  ,RSH,0,10
+html body text form center table tbody tr td span  ,HCN,0,10
+html body text form center table tbody tr td span  ,ROH,0,10
+html body text form center table tbody tr td span  ,NH,0,10
+html body text form center table tbody tr td sub span  ,3,0,11
+html body text form center table tbody tr td span  ,CH,0,10
+html body text form center table tbody tr td sub span  ,4,0,11
+html body text form center table tbody tr th span  ,pK,0,10
+html body text form center table tbody tr th sub span  ,a,0,11
+html body text form center table tbody tr td span  ,-9,0,10
+html body text form center table tbody tr td span  ,-7,0,10
+html body text form center table tbody tr td span  ,-1.7,0,10
+html body text form center table tbody tr td span  ,4.8,0,10
+html body text form center table tbody tr td span  ,8,0,10
+html body text form center table tbody tr td span  ,9.1,0,10
+html body text form center table tbody tr td span  ,16,0,10
+html body text form center table tbody tr td span  ,33,0,10
+html body text form center table tbody tr td span  ,48,0,10
+html body text form p b span  ,Nucleophilicity,1,7
+html body text form p span  ,is a more complex property. It commonly refers to the rate of substitution reactions at the halogen-bearing,1,6
+html body text form p b span  ,carbon atom,1,7
+html body text form p span  ,"of a reference alkyl halide, such as CH",1,6
+html body text form p sub span  ,3,0,7
+html body text form p span  ,-Br. Thus the nucleophilicity of the Nu:,1,6
+html body text form p sup span  ,(�),0,7
+html body text form p span  ,reactant in the following substitution reaction varies as shown in the chart below:,1,6
+html body text form table tbody tr td p b font span  ,Nucleophilicity:,0,12
+html body text form table tbody tr td p span  ,CH,0,10
+html body text form table tbody tr td p sub span  ,3,0,11
+html body text form table tbody tr td p span  ,CO,0,10
+html body text form table tbody tr td p sub span  ,2,0,11
+html body text form table tbody tr td p sup span  ,(�),0,11
+html body text form table tbody tr td p span  ,< Cl,0,10
+html body text form table tbody tr td p sup span  ,(�),0,11
+html body text form table tbody tr td p span  ,< Br,0,10
+html body text form table tbody tr td p sup span  ,(�),0,11
+html body text form table tbody tr td p span  ,< N,0,10
+html body text form table tbody tr td p sub span  ,3,0,11
+html body text form table tbody tr td p sup span  ,(�),0,11
+html body text form table tbody tr td p span  ,< CH,0,10
+html body text form table tbody tr td p sub span  ,3,0,11
+html body text form table tbody tr td p span  ,O,0,10
+html body text form table tbody tr td p sup span  ,(�),0,11
+html body text form table tbody tr td p span  ,< CN,0,10
+html body text form table tbody tr td p sup span  ,(�),0,11
+html body text form table tbody tr td p span  ,< I,0,10
+html body text form table tbody tr td p sup span  ,(�),0,11
+html body text form table tbody tr td p span  ,< CH,0,10
+html body text form table tbody tr td p sub span  ,3,0,11
+html body text form table tbody tr td p span  ,S,0,10
+html body text form table tbody tr td p sup span  ,(�),0,11
+html body text form p span  ,"The reactivity range encompassed by these reagents is over 5,000 fold, thiolate being the most reactive. Clearly, there are significant differences between these nucleophilicities and the basicities discussed above.",1,6
+html body text form table tbody tr td p b font span  ,Some useful trends have been documented:,1,12
+html body text form table tbody tr td p b span  ,(i),0,11
+html body text form table tbody tr td p span  ,"For a given element, negatively charged species aremore nucleophilic (and basic) than are equivalent neutral species.",1,10
+html body text form table tbody tr td p b span  ,(ii),0,11
+html body text form table tbody tr td p span  ,"For a given period of the periodic table, nucleophilicity (and basicity) decreases on moving from left to right.",1,10
+html body text form table tbody tr td p b span  ,(iii),0,11
+html body text form table tbody tr td p span  ,"For a given group of the periodic table, nucleophilicityincreases from top to bottom (",1,10
+html body text form table tbody tr td p i span  ,i.e.,1,11
+html body text form table tbody tr td p span  ,"with increasing size),",1,10
+html body text form table tbody tr td p span  ,although there is a solvent dependence due to hydrogen bonding.,1,10
+html body text form table tbody tr td p i span  ,Basicity varies in the opposite manner.,1,11
+html body text form p span  ,"For two or more molecules incorporating nucleophilic atoms of the same kind and charge, the stronger base is usually the stronger nucleophile. Thus, 2,2,2-trifluroethoxide (pK",1,6
+html body text form p sub span  ,a,0,7
+html body text form p span  ,12) is a weaker base and nucleophile than ethoxide (pK,1,6
+html body text form p sub span  ,a,0,7
+html body text form p span  ,"16). A notable exception to this rule occurs when a vicinal (adjacent) atom carries a non-bonding electron pair. Two common examples of this exception, called",1,6
+html body text form p b span  ,the alpha effect,1,7
+html body text form p span  ,", are hydroxide ion (pK",1,6
+html body text form p sub span  ,a,0,7
+html body text form p span  ,15.7) compared with hydroperoxide ion (pK,1,6
+html body text form p sub span  ,a,0,7
+html body text form p span  ,"11.6), and ammonia (pK",1,6
+html body text form p sub span  ,a,0,7
+html body text form p span  ,9.3) compared with hydrazine (pK,1,6
+html body text form p sub span  ,a,0,7
+html body text form p span  ,8.0). In each of these pairs the weaker base is the stronger nucleophile.,1,6
+html body text form h3 span  ,Solvent Effects,1,6
+html body text form p b span  ,Solvation,1,7
+html body text form p span  ,"of nucleophilic anions markedly influences their reactivity. The nucleophilicities cited above were obtained from reactions in methanol solution. Polar, protic solvents such as water and alcohols solvate anions by hydrogen bonding interactions, as shown in the diagram on the right. These solvated species are more stable and less reactive than the unsolvated ""naked"" anions. Polar, aprotic solvents such as DMSO (dimethyl sulfoxide), DMF (dimethylformamide) and acetonitrile do not solvate anions nearly as well as methanol, but provide good solvation of the accompanying cations. Consequently, most of the nucleophiles discussed here react more rapidly in solutions prepared from these solvents. These solvent effects are more pronounced for small basic anions than for large weakly basic anions. Thus, for reaction in DMSO solution we observe the following reactivity order:",1,6
+html body text form table tbody tr td p b font span  ,Nucleophilicity:,0,12
+html body text form table tbody tr td p span  ,I,0,10
+html body text form table tbody tr td p sup span  ,(�),0,11
+html body text form table tbody tr td p span  ,< Br,0,10
+html body text form table tbody tr td p sup span  ,(�),0,11
+html body text form table tbody tr td p span  ,< Cl,0,10
+html body text form table tbody tr td p sup span  ,(�),0,11
+html body text form table tbody tr td p span  ,~ N,0,10
+html body text form table tbody tr td p sub span  ,3,0,11
+html body text form table tbody tr td p sup span  ,(�),0,11
+html body text form table tbody tr td p span  ,< CH,0,10
+html body text form table tbody tr td p sub span  ,3,0,11
+html body text form table tbody tr td p span  ,CO,0,10
+html body text form table tbody tr td p sub span  ,2,0,11
+html body text form table tbody tr td p sup span  ,(�),0,11
+html body text form table tbody tr td p span  ,< CN,0,10
+html body text form table tbody tr td p sup span  ,(�),0,11
+html body text form table tbody tr td p span  ,~ CH,0,10
+html body text form table tbody tr td p sub span  ,3,0,11
+html body text form table tbody tr td p span  ,S,0,10
+html body text form table tbody tr td p sup span  ,(�),0,11
+html body text form table tbody tr td p span  ,< CH,0,10
+html body text form table tbody tr td p sub span  ,3,0,11
+html body text form table tbody tr td p span  ,O,0,10
+html body text form table tbody tr td p sup span  ,(�),0,11
+html body text form p span  ,Note that this order is roughly the order of increasing basicity (see above).,1,6
+html body text form table tbody tr th h3 font span  ,Acid-Base Catalysis,0,11
+html body text form center h2 font span  ,Acid-Base Catalysis,1,8
+html body text form p span  ,"As we have noted, many common organic reactions proceed by bonding between nucleophilic and electrophilic sites in the reactant molecules. Three examples are shown in equations 1 through 3; electrophiles are colored red, and nucleophiles are colored blue.",1,6
+html body text form p span  ,Reaction #1 is an example of a S,1,6
+html body text form p sub span  ,N,0,7
+html body text form p span  ,2 substitutionreaction. The electrophilic carbon of 1-chlorobutane is attackedby the nucleophilic bromide anion in a single-step displacementprocess. The curly brackets enclose a structure for the transitionstate in this reaction.,1,6
+html body text form p span  ,"Reactions #2 and #3 are two-step sequences. In the former addition reaction,bromine (an electrophile) attacks the nucleophilic double bondof 1-butene to give an electrophilic cyclic-bromonium intermediate (enclosedin square brackets) accompanied by a nucleophilic bromide ion. This ion-pair is very short-lived, another nucleophile-electrophilebonding reaction leads to the product (1,2-dibromobutane). Inreaction #3 (a substitution reaction) the electrophilic carbonyl carbon atom bonds to thenucleophilic oxygen atom of ethyl alcohol to give an intermediate (insquare brackets) that eliminates HCl, yielding the ester ethyl acetate. Inall of these examples the reactivity of the electrophiles andnucleophiles is sufficient to allow reaction to proceed spontaneouslyat room temperature.",1,6
+html body text form p span  ,"It is not difficult, however, to find very similar combinations of compounds that either fail to react at all, or do so extremely slowly. Equations 4 through 6 illustrate this behavior for analogs of the first three reactions.",1,6
+html body text form p span  ,"The factors that influence such differences in reactivity may be complex, but in the above cases are largely due to a poor anionic leaving group (eq. 4); aromatic stabilization and reduced nucleophilicity of a conjugated ?-electron system (eq. 5); and reduced electrophilic character of a substituted carbonyl group (eq. 6).",1,6
+html body text form p span  ,"First, compare reaction #4 with #1. Since oxygen is slightlymore electronegative than chlorine (3.5 vs. 2.8 on the Pauling scale), we might expecta C-O bond to be more polar than a C-Cl bond. A bettermeasure of the electrophilic character of a carbon atom in a compoundcomes from nmr chemical shifts (both",1,6
+html body text form p sup span  ,1,0,7
+html body text form p span  ,H &,0,6
+html body text form p sup span  ,13,1,7
+html body text form p span  ,"C), and these indicate that oxygen and chlorinesubstituents exert similar effects when bonded to sp",1,6
+html body text form p sup span  ,3,1,7
+html body text form p span  ,"hybridized carbon atoms. In any event, the failure ofreaction #4 cannot be due to differences in the electrophilicityand nucleophilicity of the reactants.",1,6
+html body text form p span  ,"The key factor here is the stability of the leaving anion (chloridevs. hydroxide). We know that HCl is a much stronger acid thanwater (by more than 15 powers of ten), and this difference willbe reflected in reactions that generate their conjugate bases. Thus, chloride anion is much more stable and less reactive than is hydroxide anion, so the former is a better and more common leaving group. Indeed,the failure of alcohols to undergo S",1,6
+html body text form p sub span  ,N,0,7
+html body text form p span  ,"2 substitutionreactions makes them useful solvents for many such reactions, including #1.",1,6
+html body text form p span  ,"In the case of reaction #5, the aromatic stabilization of the benzenering makes it less susceptible to attack by electrophiles thanare simple alkenes. Thus, elemental bromine is not sufficientlyelectrophilic to induce a reaction with benzene, even though thelatter is nucleophilic.",1,6
+html body text form p span  ,"Lastly, reactions #3 and #6 illustrate differences in the reactivity ofcarbonyl compounds. We know that the carbon atom of a carbonylgroup is electrophilic and undergoes reaction with a variety ofnucleophiles. However, this electrophilic character may be enhancedor diminished by substituents. If we take saturated aldehydes (RCH=O) as a reference, the additional alkyl substituent present in ketonesslightly reduces this electrophilicity, but the general reactivitypattern of these classes is similar. On the other hand, a chlorinesubstituent is inductively electron withdrawing and increasesthe electrophilicity of the carbonyl carbon significantly. Thus,acid chlorides are very reactive with a wide range of nucleophiles,including water and alcohols (eq. 3).",1,6
+html body text form p span  ,"The oxygen and nitrogen substituents present in esters and amideshave a similar inductive effect, but also a pronounced electrondonating character through a resonance interaction. Consequently, the carbonyl carbon atom becomes less electrophilic, and these functional groups are less reactive than other carbonylcompounds. Thus, the failure of ethyl acetateto react with water (eq. 6) reflects the reduced electrophilic character of its carbonyl group.",1,6
+html body text form p span  ,"Fortunately, these retarding factors can often be overcome by acid or base catalysis, which in general enhances electrophilicity (acids) or nucleophilicity (bases). Equations 7 through 9 show how this tactic may be effectively applied to the unreactive examples given above.",1,6
+html body text form p span  ,"In strong acid, reaction #4 proceeds nicely, as shown in equation 7. This is becausethe leaving group has changed from hydroxide anion to water (theacidity of the conjugate acid H",1,6
+html body text form p sub span  ,3,0,7
+html body text form p span  ,O,0,6
+html body text form p sup span  ,(+),1,7
+html body text form p span  ,is nearlythat of HCl).,1,6
+html body text form p span  ,"In the second example, there are two obvious ways of circumventingthe failure of benzene to react with bromine:",1,6
+html body text form p b span  ,�,0,7
+html body text form p span  ,The bromine can be made more electrophilic,1,6
+html body text form p b span  ,�,0,7
+html body text form p span  ,The benzene ring can be made more nucleophilic.,1,6
+html body text form p span  ,"The first tactic can be implemented by mixing bromine with ferric bromide,a Lewis acid catalyst. This generates the bromonium cation, Br",1,6
+html body text form p sup span  ,(+),1,7
+html body text form p span  ,",a powerful electrophile. Equation #8 illustrates this approach.",1,6
+html body text form p span  ,The second tactic requires that the benzene ring be activated(made more nucleophilic) by substitution with an electron donatinggroup such as OH or NH,1,6
+html body text form p sub span  ,2,0,7
+html body text form p span  ,". For example, wefind that phenol (hydroxybenzene) reacts rapidly with brominein the absence of any catalyst.",1,6
+html body text form p span  ,"Finally, we can see that there are two ways of facilitating theester hydrolysis reaction.:",1,6
+html body text form p b span  ,�,0,7
+html body text form p span  ,"We can use a stronger nucleophile than water, such as hydroxide anion.",1,6
+html body text form p b span  ,�,0,7
+html body text form p span  ,"We can increase the electrophile reactivity by converting the esterto its conjugate acid, CH",1,6
+html body text form p sub span  ,3,0,7
+html body text form p span  ,C(OH)OC,1,6
+html body text form p sub span  ,2,1,7
+html body text form p span  ,H,1,6
+html body text form p sub span  ,5,1,7
+html body text form p sup span  ,(+),1,7
+html body text form p span  ,.,1,6
+html body text form p span  ,"Equation #9 shows the former approach, which is an example of base catalysis. Acid catalysis of the reaction also works well.",1,6
+html body text form center table tbody tr th a span  ,Return to Table of Contents,0,11

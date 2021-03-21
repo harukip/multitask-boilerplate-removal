@@ -1,0 +1,292 @@
+tag,content,label,depth
+html body text title span span  ,Postgraduate Dissertations,0,6
+html body text table tbody tr td table tbody tr td em font span  ,Department of Historical Studies,1,14
+html body text table tbody tr td p strong a span  ,Home,0,11
+html body text table tbody tr td p strong a span  ,Undergraduates,0,11
+html body text table tbody tr td p strong a span  ,Postgraduates,0,11
+html body text table tbody tr td p strong a span  ,Staff,0,11
+html body text table tbody tr td p strong a span  ,Research,0,11
+html body text table tbody tr td p strong a span  ,News,0,11
+html body text table tbody tr td p span  ,University of Bristol,0,9
+html body text table tbody tr td p span  ,Dept of Historical Studies,0,9
+html body text table tbody tr td p span  ,13 Woodland Road,0,9
+html body text table tbody tr td p span  ,Bristol BS8 1TB,0,9
+html body text table tbody tr td p span  ,United Kingdom,0,9
+html body text table tbody tr td p span  ,T: 0117 928 7934/36,0,9
+html body text table tbody tr td p span  ,F: 0117 928 8276,0,9
+html body text table tbody tr td p a strong span  ,Webmaste,0,11
+html body text table tbody tr td p a b span  ,r,0,11
+html body text table tbody tr td div p span  ,Updated:,0,10
+html body text table tbody tr td div p i span  ,26-Aug-2005,0,11
+html body text table tbody tr td p a span  ,W3C: Valid,0,10
+html body text table tbody tr td p a span  ,XHTML 1.0,0,10
+html body text table tbody tr td table tbody tr td h1 span  ,Postgraduates,1,13
+html body text table tbody tr td table tbody tr td h2 span  ,Dissertation Conventions,1,13
+html body text table tbody tr td table tbody tr td p span  ,"This style-sheet contains advice about recommended conventions bearing on how to set out the dissertation and to refer to material in notes and the bibliography. These conventions must also be followed in your assessed essays, which you should use,",1,13
+html body text table tbody tr td table tbody tr td p i span  ,inter alia,1,14
+html body text table tbody tr td table tbody tr td p span  ,", to practise presentational skills. Presentation and accuracy are important for more than stylistic reasons. Examiners will be concerned to scrutinise text layout, notes and bibliography in order to form an impression of your research technique.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"This cannot be a comprehensive guide. If you identify omissions or areas which need clarification, please report them to Robert Bickers so that they may be incorporated into later versions of this booklet. Your comments and suggestions will be very much appreciated.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"It is important to note that there is no universally accepted series of conventions. Most British academic presses (for example Oxford University Press (OUP),",1,13
+html body text table tbody tr td table tbody tr td p a span  ,Cambridge University Press,1,14
+html body text table tbody tr td table tbody tr td p span  ,"(CUP) and Blackwell) have their own idiosyncratic rules which cannot always be reconciled (and which they do not always manage to follow consistently from book to book). North American presses are generally more consistent in their conventions, but their annotation tends to be elaborate by British standards: for example, it is necessary to give the publisher of a book as well as the place of publication, and the authors' first names are given in full. So it is best not to follow American usage simply because it increases the amount of information which needs to be recorded and checked. Among the British presses, Blackwell stands out for the clarity and consistency of its annotation system. The recommendations below are substantially based on its practice. The point to emphasise is that you have some latitude in the choice of conventions:",1,13
+html body text table tbody tr td table tbody tr td p u span  ,internal consistency,1,14
+html body text table tbody tr td table tbody tr td p span  ,within the dissertation is what matters above all else.,1,13
+html body text table tbody tr td table tbody tr td h3 span  ,Contents:,0,13
+html body text table tbody tr td table tbody tr td ul li a span  ,Books,0,15
+html body text table tbody tr td table tbody tr td ul li span  ,(short title system),0,14
+html body text table tbody tr td table tbody tr td ul li a span  ,Harvard system,0,15
+html body text table tbody tr td table tbody tr td ul li a span  ,Articles,0,15
+html body text table tbody tr td table tbody tr td ul li a span  ,Abbreviations,0,15
+html body text table tbody tr td table tbody tr td ul li a span  ,Manuscripts,0,15
+html body text table tbody tr td table tbody tr td ul li a span  ,Page extents,0,15
+html body text table tbody tr td table tbody tr td ul li a span  ,Arranging the bibliography,0,15
+html body text table tbody tr td table tbody tr td ul li a span  ,Quotations,0,15
+html body text table tbody tr td table tbody tr td ul li a span  ,Web citations,0,15
+html body text table tbody tr td table tbody tr td ul li a span  ,Miscellaneous,0,15
+html body text table tbody tr td table tbody tr td h3 span  ,Books,1,13
+html body text table tbody tr td table tbody tr td p a span  ,(Return to Contents),0,14
+html body text table tbody tr td table tbody tr td p span  ,In the,1,13
+html body text table tbody tr td table tbody tr td p u span  ,bibliography,1,14
+html body text table tbody tr td table tbody tr td p span  ,"books should be cited by their full title (including subtitle, if there is one, after a colon) together with place of publication and date. Thus:",1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Lewis, Jane,",0,14
+html body text table tbody tr td table tbody tr td blockquote p i span  ,"The Politics of Motherhood: Child and Maternal Welfare in England, 1900-1939",0,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"(London, 1980).",0,14
+html body text table tbody tr td table tbody tr td p span  ,"N.B. Underlined text may be used instead of italics, provided of course that your usage is wholly consistent. If you are able to use italics, they do look more professional.",1,13
+html body text table tbody tr td table tbody tr td p span  ,In the,1,13
+html body text table tbody tr td table tbody tr td p u span  ,notes,1,14
+html body text table tbody tr td table tbody tr td p span  ,"the first reference to a book should give its full title, place of publication and date, just as it appears in the Bibliography. Note, however, that the initials or given name now come before the surname. Thus:",1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Jane Lewis,",0,14
+html body text table tbody tr td table tbody tr td blockquote p i span  ,"The Politics of Motherhood: Child and Maternal Welfare in England, 1900-1939",0,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"(London, 1980).",0,14
+html body text table tbody tr td table tbody tr td p span  ,"How does one establish what the title actually is? It sometimes happens that there are slightly different versions of the title in various parts of the book. Disregard the dust-jacket (if there is one, of course) and go by the internal title page. This is not the very first page, which usually has just the title on it, but the page which is overleaf. (It will usually have the author's name and the name of the press on it as well.) Follow what this title page says; the only addition which need be made routinely is supplying a colon to separate the title and the subtitle. Look out for minor variations. For example, there is sometimes a comma before the dates at the end of a title, sometimes not.",1,13
+html body text table tbody tr td table tbody tr td ul li span  ,Volumes with multiple authors:,1,14
+html body text table tbody tr td table tbody tr td ul li p span  ,"Jane Lewis, David Clark and David H.J. Morgan,",0,15
+html body text table tbody tr td table tbody tr td ul li p i span  ,'Whom God Hath Joined Together': The Work of Marriage Guidance,0,16
+html body text table tbody tr td table tbody tr td ul li p span  ,"(London, 1992).",0,15
+html body text table tbody tr td table tbody tr td ul li p span  ,(use the order of authors given on the title page),0,15
+html body text table tbody tr td table tbody tr td ul li span  ,Edited volumes:,1,14
+html body text table tbody tr td table tbody tr td ul li p span  ,"Jane Lewis (ed.),",0,15
+html body text table tbody tr td table tbody tr td ul li p i span  ,Lone Mothers in European Welfare Regimes: Shifting Policy Logics,0,16
+html body text table tbody tr td table tbody tr td ul li p span  ,"(London, 1997).",0,15
+html body text table tbody tr td table tbody tr td ul li p span  ,"Jane Lewis, Marilyn Porter and Mark Shrimpton (eds),",0,15
+html body text table tbody tr td table tbody tr td ul li p i span  ,"Women, Work and Family in the British, Canadian and Norwegian Offshore Oilfields",0,16
+html body text table tbody tr td table tbody tr td ul li p span  ,"(Basingstoke, 1988).",0,15
+html body text table tbody tr td table tbody tr td p u span  ,After the first reference,1,14
+html body text table tbody tr td table tbody tr td p span  ,the title should be abbreviated. A good rule of thumb is that when abbreviating you should:,1,13
+html body text table tbody tr td table tbody tr td ul li span  ,Drop the definite or indefinite article if this is the first word of the title.,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Retain all the words up to and including the first noun.,1,14
+html body text table tbody tr td table tbody tr td p span  ,Thus:,0,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Lewis,",0,14
+html body text table tbody tr td table tbody tr td blockquote p i span  ,Politics of Motherhood,0,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,. Lewis,0,14
+html body text table tbody tr td table tbody tr td blockquote p i span  ,et al,0,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,",",0,14
+html body text table tbody tr td table tbody tr td blockquote p i span  ,'Whom God Hath Joined Together',0,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,. Lewis,0,14
+html body text table tbody tr td table tbody tr td blockquote p i span  ,et al,0,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"(eds),",0,14
+html body text table tbody tr td table tbody tr td blockquote p i span  ,"Women, Work and Family",0,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,.,0,14
+html body text table tbody tr td table tbody tr td p span  ,"It is not uncommon that an author has produced several works with similar titles. If this is the case, expand the abbreviated reference until you reach the first noun which makes the title you mean unambiguous.",1,13
+html body text table tbody tr td table tbody tr td p span  ,Short titles are much better than using,1,13
+html body text table tbody tr td table tbody tr td p i span  ,op. cit.,1,14
+html body text table tbody tr td table tbody tr td p span  ,('the work mentioned'). This can be very confusing because it obliges the reader to trawl back through the earlier notes.,1,13
+html body text table tbody tr td table tbody tr td p span  ,"Similarly, you should be very sparing in the use of",1,13
+html body text table tbody tr td table tbody tr td p i span  ,ibid.,1,14
+html body text table tbody tr td table tbody tr td p span  ,"('the same work') when you find yourself having to refer to the same title in consecutive notes. Only do this when only one title is mentioned in both notes, so that there is no uncertainty about what the 'same work' refers to. If in doubt, do not use ibid. at all; simply repeat shortened titles.",1,13
+html body text table tbody tr td table tbody tr td p span  ,Avoid,1,13
+html body text table tbody tr td table tbody tr td p i span  ,id.,1,14
+html body text table tbody tr td table tbody tr td p span  ,/,1,13
+html body text table tbody tr td table tbody tr td p i span  ,ead.,1,14
+html body text table tbody tr td table tbody tr td p span  ,('the same male/female author'). Repeat the name.,1,13
+html body text table tbody tr td table tbody tr td p span  ,"If a book is part of a series it is up to you whether to cite this. Generally speaking, it is not necessary to give series titles if they are not numbered: e.g. Oxford Historical Monographs. If the series is numbered, it can be an awkward decision where to include it without making the whole reference rather cumbersome. One technique is to tuck the series, not italicised, inside the brackets and separated from the place and date by means of a semicolon. Thus:",1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"M. Atkins,",0,14
+html body text table tbody tr td table tbody tr td blockquote p i span  ,"Informal Empire in Crisis: British Diplomacy and the Chinese Customs Succession, 1927-1929",0,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"(Cornell East Asia Series, 74; Ithaca, N.Y., 1995).",0,14
+html body text table tbody tr td table tbody tr td p span  ,"When referring to a multi-volume single work, it is a good idea to give the volume number as a lower-case roman numeral. This prevents any confusion with page references. Thus:",1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"J. K. Fairbank, K. F. Bruner and E. M. Matheson (eds),",0,14
+html body text table tbody tr td table tbody tr td blockquote p i span  ,"The I. G. in Peking: Letters of Robert Hart, Chinese Maritime Customs 1868-1907",0,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,", 2 vols. (Cambridge, Mass., 1975), i. 6-12, 34-42; ii. 96-100.",0,14
+html body text table tbody tr td table tbody tr td p span  ,Note two things about this reference:,1,13
+html body text table tbody tr td table tbody tr td ul li span  ,the use of the semicolon to separate page numbers in the different volumes,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,the use of a full point rather than a comma between the volume number and the first page extent - this looks better when there is a juxtaposition of lower-case roman numerals and arabic numerals.,1,14
+html body text table tbody tr td table tbody tr td p span  ,"When abbreviating book titles, use acronym-type abbreviations very sparingly. Only do so if the title is referred to very often.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"To discover the place of publication of a book, use the internal title page and the page which gives details of,",1,13
+html body text table tbody tr td table tbody tr td p i span  ,inter alia,1,14
+html body text table tbody tr td table tbody tr td p span  ,", the ISBN number. The place of publication is",1,13
+html body text table tbody tr td table tbody tr td p u span  ,not,1,14
+html body text table tbody tr td table tbody tr td p span  ,"necessarily the same as the place where the book was set and/or printed. If two or more places of publication are given, confine your reference to the first place mentioned: this applies even if one of the other places is in the UK. So, University of Chicago Press = Chicago and London = for our purposes Chicago. To avoid confusing Cambridge (USA), home of Harvard University Press, and Cambridge (UK), home of Cambridge University Press, the state in which Cambridge (USA) is located is added to the place of publication. Thus:",1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"J. K. Fairbank, K. F. Bruner and E. M. Matheson (eds),",0,14
+html body text table tbody tr td table tbody tr td blockquote p i span  ,"The I. G. in Peking: Letters of Robert Hart, Chinese Maritime Customs 1868-1907",0,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,", 2 vols. (Cambridge, Mass., 1975).",0,14
+html body text table tbody tr td table tbody tr td p a span  ,(Return to Contents),0,14
+html body text table tbody tr td table tbody tr td h3 span  ,The Harvard System,1,13
+html body text table tbody tr td table tbody tr td p span  ,There is another convention for bibliographies and notes which is sometimes known as the Harvard System. Here the title in the,1,13
+html body text table tbody tr td table tbody tr td p u span  ,bibliography,1,14
+html body text table tbody tr td table tbody tr td p span  ,"is listed in the form: Hennessy, Peter. 1992.",1,13
+html body text table tbody tr td table tbody tr td p i span  ,"Never Again: Britain, 1946-51",1,14
+html body text table tbody tr td table tbody tr td p span  ,. London. All references in the,1,13
+html body text table tbody tr td table tbody tr td p u span  ,notes,1,14
+html body text table tbody tr td table tbody tr td p span  ,", including the first, then become: Hennessy 1992, 23-7. If an author has produced more than one item in the same year, the works are distinguished by lower-case letters immediately after the date, with no spacing. Thus: Hennessy 1992a, 27. It is also possible to insert Harvard System references into the body of the text, where you might otherwise use a footnote, placing the citation in brackets. For example: ...Its flaws have become familiar (Bose 1990a, 36-8; Cooper et al. 1990, 1-9)... The advantage of the Harvard System is that it is very neat. The disadvantage is that it makes footnotes look rather bleak, or else it breaks up the text, and it obliges the reader to refer constantly to the bibliography, whereas with the normal method one tells the reader what the full title is and then provides constant reminders by means of abbreviated titles.",1,13
+html body text table tbody tr td table tbody tr td p a span  ,(Return to Contents),0,14
+html body text table tbody tr td table tbody tr td h3 span  ,Articles,1,13
+html body text table tbody tr td table tbody tr td p span  ,"In the case of articles, it is the title of the journal which must be italicised/underlined. Thus",1,13
+html body text table tbody tr td table tbody tr td p u span  ,in the notes,1,14
+html body text table tbody tr td table tbody tr td p span  ,:,0,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"W. R. Louis, 'Hong Kong: the Critical Phase, 1945-1949',",0,14
+html body text table tbody tr td table tbody tr td blockquote p i span  ,American Historical Review,0,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,", 102 (1997), 1052-84.",0,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Christopher Thorne, 'Racial Aspects of the Far Eastern War of 1941-45,",0,14
+html body text table tbody tr td table tbody tr td blockquote p i span  ,Proceedings of the British Academy,0,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,", 66 (1980), 329-77.",0,14
+html body text table tbody tr td table tbody tr td p span  ,Note the position of the commas and the use of,1,13
+html body text table tbody tr td table tbody tr td p u span  ,single,1,14
+html body text table tbody tr td table tbody tr td p span  ,inverted commas. Double inverted commas are reserved for quotation marks within the title: e.g.:,1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Robert A. Bickers, '""Coolie work"": Sir Reginald Johnston at the School of Oriental Studies, 1931-1937',",0,14
+html body text table tbody tr td table tbody tr td blockquote p i span  ,Journal of the Royal Asiatic Society,0,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,", Series III, 5 (1995), 385-401.",0,14
+html body text table tbody tr td table tbody tr td p span  ,Like book references the order of author surname/given name in the citation is different in bibliographies. The entry,1,13
+html body text table tbody tr td table tbody tr td p u span  ,in the bibliography,1,14
+html body text table tbody tr td table tbody tr td p span  ,will read:,1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Louis, W. R., 'Hong Kong: the Critical Phase, 1945-1949',",0,14
+html body text table tbody tr td table tbody tr td blockquote p i span  ,American Historical Review,0,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,", 102 (1997), 1052-84.",0,14
+html body text table tbody tr td table tbody tr td p span  ,"When the title of a journal starts with the definite article, this is not reproduced. So",1,13
+html body text table tbody tr td table tbody tr td p i span  ,English Historical Review,1,14
+html body text table tbody tr td table tbody tr td p span  ,", not",1,13
+html body text table tbody tr td table tbody tr td p i span  ,The English Historical Review,1,14
+html body text table tbody tr td table tbody tr td p span  ,.,1,13
+html body text table tbody tr td table tbody tr td p span  ,For articles in edited collections:,1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"N. Cox, 'Public Records', in A. Seldon (ed.),",0,14
+html body text table tbody tr td table tbody tr td blockquote p i span  ,Contemporary History: Practice and Method,0,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"(Oxford, 1988), 70-88.",0,14
+html body text table tbody tr td table tbody tr td p span  ,Abbreviated as:,1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Cox, 'Public Records'.",0,14
+html body text table tbody tr td table tbody tr td p span  ,If there are two or more editors use (eds.).,1,13
+html body text table tbody tr td table tbody tr td p span  ,"Some journals list the titles of their articles with no upper-case letters other than the beginning of the first word and, of course, proper nouns. Here you have a choice.",1,13
+html body text table tbody tr td table tbody tr td p u span  ,Either,1,14
+html body text table tbody tr td table tbody tr td p span  ,scrupulously follow the conventions of each particular journal,1,13
+html body text table tbody tr td table tbody tr td p u span  ,or,1,14
+html body text table tbody tr td table tbody tr td p span  ,"standardise by having capital letters throughout. On balance, the second method is preferable because otherwise the notes can appear uneven.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"It is impossible to provide unambiguous rules about the use of capitals in titles. The general rule is that important words take a capital. You will not go far wrong if you use a capital for the following: nouns, adjectives, adverbs and most verbs. The following do",1,13
+html body text table tbody tr td table tbody tr td p u span  ,not,1,14
+html body text table tbody tr td table tbody tr td p span  ,"take a capital: conjunctions, prepositions, verbs expressing a state (esp. 'to be'), modal verbs (e.g. 'might', 'should', 'could'), pronouns, and the (in)definite article. The first letter of the first word of a title is always a capital.",1,13
+html body text table tbody tr td table tbody tr td p a span  ,(Return to Contents),0,14
+html body text table tbody tr td table tbody tr td h3 span  ,Abbreviations,1,13
+html body text table tbody tr td table tbody tr td p span  ,"Works referred to frequently may conveniently be cited by an abbreviation, provided a List of Abbreviations is included at the beginning of the dissertation. Thus:",1,13
+html body text table tbody tr td table tbody tr td blockquote p i span  ,AHR American Historical Review,0,15
+html body text table tbody tr td table tbody tr td blockquote p i span  ,EHR English Historical Review,0,15
+html body text table tbody tr td table tbody tr td blockquote p i span  ,JCH Journal of Contemporary History,0,15
+html body text table tbody tr td table tbody tr td p span  ,You will become familiar with the journals and series that crop up regularly in your chosen subject area: look at the List of Abbreviations in the books you use.,1,13
+html body text table tbody tr td table tbody tr td p span  ,Be fairly sparing with abbreviations. A good rule of thumb is that a journal may be abbreviated if you have references to three or more different articles appearing in it.,1,13
+html body text table tbody tr td table tbody tr td p span  ,"One- or two-word journal titles should not be abbreviated. So,",1,13
+html body text table tbody tr td table tbody tr td p i span  ,Contemporary History,1,14
+html body text table tbody tr td table tbody tr td p span  ,does not become,1,13
+html body text table tbody tr td table tbody tr td p i span  ,CH,1,14
+html body text table tbody tr td table tbody tr td p span  ,", nor",1,13
+html body text table tbody tr td table tbody tr td p i span  ,Albion A.,1,14
+html body text table tbody tr td table tbody tr td p span  ,"You may also conveniently cite abbreviations for organisations referred to frequently in the text, provided that they are included in the List of Abbreviations. It is customary and helpful to name the organisation in full the first time it is referred to, and indicate the abbreviation to be used.",1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"'The Shanghai Municipal Council (SMC) had had a police force since 1854, and as over the years it had arrogated to itself more powers, and more land, so the Shanghai Municipal Police (SMP) had become a more and more important instrument of control.'",1,14
+html body text table tbody tr td table tbody tr td p a span  ,(Return to Contents),0,14
+html body text table tbody tr td table tbody tr td h3 span  ,Manuscripts and Archival Records,1,13
+html body text table tbody tr td table tbody tr td p span  ,"Here conventions vary because of the wide variety of documentation preserved in many different places. Most archives will have guidelines available indicating the conventions they prefer, or will be able to tell you when you ask. You should also consult your supervisor about the most suitable conventions for the particular material you are studying.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"The general rule is that manuscript material is cited by city and location, with no underlining. Thus:",1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"London, Bank of England, ADM 16, Misc. Papers Charles Addis. Oxford, Angus Library, Regents Park College, Baptist Missionary Society Archives.",0,14
+html body text table tbody tr td table tbody tr td p span  ,"The full description of the depository need only be given once, and a short title used thereafter:",1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Maurice Tinkler to Edith Wharton, 21 Dec. 1921, London, Imperial War Museum, Department of Documents, R. M. Tinkler papers, Box 2 (hereafter Tinkler papers).",0,14
+html body text table tbody tr td table tbody tr td p span  ,"Where applicable, manuscripts are cited by folio number + r (for recto, the front - equivalent to an odd-numbered page in a book) or v (for verso, the back - equivalent to an even-numbered page). Thus:",1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Paris, Biblioth�que Nationale, MS lat. 44, fo. 76r.",0,14
+html body text table tbody tr td table tbody tr td p span  ,"Interviews if conducted by the author are cited by name of interviewee, place and date of interview. Thus:",1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Interview with Frank Peasgood, Brighton, 21 September, 1996.",0,14
+html body text table tbody tr td table tbody tr td p span  ,Oral history references taken from existing collections are usually treated as manuscript material and may be cited according:,1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"John Swire and Sons Ltd., Company Archives, Oral History Transcripts, Interview with Jack Fisher, 23 June, 1967, p. 12.",0,14
+html body text table tbody tr td table tbody tr td p a span  ,(Return to Contents),0,14
+html body text table tbody tr td table tbody tr td h3 span  ,World Wide Web,1,13
+html body text table tbody tr td table tbody tr td p span  ,Pages are cited thus:,1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Limb, Peter. 'Alliance Strengthened or Diminished?: Relationships between Labour & African Nationalist/Liberation Movements in Southern Africa'. <",0,14
+html body text table tbody tr td table tbody tr td blockquote p a span  ,http://www.neal.ctstateu.edu/history/world_history/archives/limb-l.html,0,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,> May 1992.,0,14
+html body text table tbody tr td table tbody tr td p span  ,"A comprehensive guide to such conventions can be found at: Melvin E. Page,",1,13
+html body text table tbody tr td table tbody tr td p a span  ,'A brief citation guide for internet sources in history and the humanities',1,14
+html body text table tbody tr td table tbody tr td p span  ,"prepared for H-AFRICA Humanities On-Line, and History Department, East Tennessee State University. (Version 2.1) 20 February 1996.",1,13
+html body text table tbody tr td table tbody tr td p a span  ,(Return to Contents),0,14
+html body text table tbody tr td table tbody tr td h3 span  ,Page Extents,1,13
+html body text table tbody tr td table tbody tr td p span  ,"It is not necessary to preface page references with 'p.' or 'pp.', though you may do so. But when material is not conventionally paginated, you should draw attention to this by means of, for example, 'col.'/'cols.' for column(s).",1,13
+html body text table tbody tr td table tbody tr td p span  ,Be precise in giving page extents. Avoid,1,13
+html body text table tbody tr td table tbody tr td p i span  ,passim,1,14
+html body text table tbody tr td table tbody tr td p span  ,"('throughout the work'/'everywhere') because it looks lazy and leads the examiner to wonder whether you have read the work carefully. Similarly, avoid",1,13
+html body text table tbody tr td table tbody tr td p i span  ,et seq,1,14
+html body text table tbody tr td table tbody tr td p span  ,. ('and what follows'). Equally unsatisfactory are 'f.' ('and the next few pages') and 'ff.' ('and the following pages') after a page reference.,1,13
+html body text table tbody tr td table tbody tr td p span  ,You should take care to provide meaningful page extents in your notes. One sometimes reads a sentence advancing a broad proposition which is supported by a reference to only one or two pages of secondary work. This is inadequate. You should refer to the whole run of pages where the point you are making is discussed. And you should try to refer to more than one work: important points made on the back of just one book or article look rather thin.,1,13
+html body text table tbody tr td table tbody tr td p span  ,"When giving page extents some contraction is preferable. (But see below about roman numerals.) The general rule is that one counts from the units up through the tens, hundreds etc. until there is no repetition. Thus:",1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,147-149 = 147-9 147-168 = 147-68 147-213 = 147-213,0,14
+html body text table tbody tr td table tbody tr td p span  ,There is one slight exception to this rule: page extents involving teens keep the tens figure. Thus:,1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"113-117, not 113-7.",0,14
+html body text table tbody tr td table tbody tr td p span  ,"This is easy to remember because page extents are written virtually as they are pronounced, and 'one hundred and thirteen-to-seven' is ridiculous.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"When referring to roman-numeral page extents (for example in an introduction or preface), use lower case: e.g. xxii-xxiv. Note that the arabic equivalent 22-24 should be expressed as 22-4 whereas roman numerals cannot be shortened; xxii-iv is impossible.",1,13
+html body text table tbody tr td table tbody tr td p a span  ,(Return to Contents),0,14
+html body text table tbody tr td table tbody tr td h3 span  ,Arrangement of the Bibliography,1,13
+html body text table tbody tr td table tbody tr td p span  ,The Bibliography should be split into either two or three parts depending on the types of primary material you have used:,1,13
+html body text table tbody tr td table tbody tr td ul li span  ,Primary Manuscript Sources,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Primary Printed Sources,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Secondary Works (note that the term 'Secondary Sources' is a solecism),1,14
+html body text table tbody tr td table tbody tr td p span  ,Or:,1,13
+html body text table tbody tr td table tbody tr td ul li span  ,Primary Sources,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Secondary Works,1,14
+html body text table tbody tr td table tbody tr td p span  ,Primary sources are listed alphabetically by location. Printed sources are also listed alphabetically. The listing of secondary works is quite straightforward. Go alphabetically by author.,1,13
+html body text table tbody tr td table tbody tr td p span  ,"When listing several works by one author, you should list them by date, starting with the first to be published.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"If a work is anonymous, or if one is dealing with a collection of sources where there is no imputed authorship (e.g. a collection of documents), it is listed alphabetically by the title. Ignore definite/indefinite articles. Thus",1,13
+html body text table tbody tr td table tbody tr td p i span  ,Documents on British Foreign Policy,1,14
+html body text table tbody tr td table tbody tr td p span  ,would be listed under the letter,1,13
+html body text table tbody tr td table tbody tr td p u span  ,D,1,14
+html body text table tbody tr td table tbody tr td p span  ,. And,1,13
+html body text table tbody tr td table tbody tr td p i span  ,The Yi Ho Tuan Movement of 1900,1,14
+html body text table tbody tr td table tbody tr td p span  ,under the letter,1,13
+html body text table tbody tr td table tbody tr td p u span  ,Y,1,14
+html body text table tbody tr td table tbody tr td p span  ,.,1,13
+html body text table tbody tr td table tbody tr td p a span  ,(Return to Contents),0,14
+html body text table tbody tr td table tbody tr td h3 span  ,Quotations,1,13
+html body text table tbody tr td table tbody tr td p span  ,Long quotations (two sentences or more) should be rendered as a block of text indented on both the left- and right-hand margins.,1,13
+html body text table tbody tr td table tbody tr td p span  ,"The normal way to preface an indented quotation is with a colon. No punctuation is used, however, if the quotation runs grammatically from the immediately preceding portion of text.",1,13
+html body text table tbody tr td table tbody tr td p span  ,Inverted commas are,1,13
+html body text table tbody tr td table tbody tr td p u span  ,not,1,14
+html body text table tbody tr td table tbody tr td p span  ,used around indented quotations.,1,13
+html body text table tbody tr td table tbody tr td p span  ,With shorter quotations use,1,13
+html body text table tbody tr td table tbody tr td p u span  ,SINGLE,1,14
+html body text table tbody tr td table tbody tr td p span  ,inverted commas. Double inverted commas are only used when a quotation appears within another. Thus:,1,13
+html body text table tbody tr td table tbody tr td blockquote p span  ,"He first wrote, 'I heard the minister say ""What!""'.",1,14
+html body text table tbody tr td table tbody tr td p a span  ,(Return to Contents),0,14
+html body text table tbody tr td table tbody tr td h3 span  ,Miscellaneous Points,1,13
+html body text table tbody tr td table tbody tr td p span  ,"Different works are separated in notes by a semicolon. Romance-language (French, Spanish, Italian) titles seldom use capitals other than for the first word and proper nouns. If capitals are not used, they should not be supplied. Note that this advice is contrary to the conventions of the CUP and OUP, which insist that Romance titles take capitals up to and including the first noun; this system makes notes look lop-sided and should be avoided. For spelling conventions (e.g.",1,13
+html body text table tbody tr td table tbody tr td p i span  ,ise,1,14
+html body text table tbody tr td table tbody tr td p span  ,or,1,13
+html body text table tbody tr td table tbody tr td p i span  ,ize,1,14
+html body text table tbody tr td table tbody tr td p span  ,",",1,13
+html body text table tbody tr td table tbody tr td p i span  ,erred,1,14
+html body text table tbody tr td table tbody tr td p span  ,or,1,13
+html body text table tbody tr td table tbody tr td p i span  ,ered,1,14
+html body text table tbody tr td table tbody tr td p span  ,") as well as for much else, you should consult",1,13
+html body text table tbody tr td table tbody tr td p i span  ,The Oxford Writers' Dictionary,1,14
+html body text table tbody tr td table tbody tr td p span  ,", comp. R. E. Allen, which is widely available in paperback (Oxford Reference). This is an invaluable book. See also",1,13
+html body text table tbody tr td table tbody tr td p i span  ,Fowler's Modern English Usage,1,14
+html body text table tbody tr td table tbody tr td p span  ,", ed. R. W. Burfield, another paperback in the Oxford Reference series.",1,13
+html body text table tbody tr td table tbody tr td p i span  ,Hart's Rules for Compositors and Readers at the University Press Oxford,1,14
+html body text table tbody tr td table tbody tr td p span  ,"(39th edn.) is very useful too, but be warned that it uses OUP conventions which sometimes depart from what is recommended here.",1,13
+html body text table tbody tr td table tbody tr td ul li span  ,Be alert to the fact that some American university names are,1,14
+html body text table tbody tr td table tbody tr td ul li u span  ,not,1,15
+html body text table tbody tr td table tbody tr td ul li span  ,"the place of publication. Thus Yale = New Haven; Harvard = Cambridge, Mass.; Cornell = Ithaca, NY. But Princeton = Princeton.",1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Do,1,14
+html body text table tbody tr td table tbody tr td ul li u span  ,not,1,15
+html body text table tbody tr td table tbody tr td ul li span  ,rely solely on the spellcheck facility of your software. It can mangle proper nouns and more often than not uses American spellings.,1,14
+html body text table tbody tr td table tbody tr td ul li u span  ,Beware,1,15
+html body text table tbody tr td table tbody tr td ul li span  ,also the auto-correct function: in the first draft of these guidelines,1,14
+html body text table tbody tr td table tbody tr td ul li i span  ,EHR,1,15
+html body text table tbody tr td table tbody tr td ul li span  ,was routinely corrected to,1,14
+html body text table tbody tr td table tbody tr td ul li i span  ,HER,1,15
+html body text table tbody tr td table tbody tr td ul li span  ,.,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,The superscript numbers of notes appear,1,14
+html body text table tbody tr td table tbody tr td ul li u span  ,after,1,15
+html body text table tbody tr td table tbody tr td ul li span  ,"the punctuation. Thus .1 ;2 ,3 and so on.",1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Translations of foreign terms should be give in the text in brackets after their first appearance.,1,14
+html body text table tbody tr td table tbody tr td p span  ,"These guidelines are adapted, with thanks, from those compiled by Marcus Bull for use in the MA in Medieval Studies",1,13
+html body text table tbody tr td table tbody tr td p a span  ,(Return to top of page),0,14

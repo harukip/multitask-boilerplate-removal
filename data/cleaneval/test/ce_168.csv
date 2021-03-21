@@ -1,0 +1,68 @@
+tag,content,label,depth
+html body text title span span  ,"S.O.N. | Magnetosphere | From Observatories | Tromso, Norway",0,6
+html body text div div div a span  ,Skip Navigation (press 2),0,8
+html body text div div div ul li span  ,+,0,9
+html body text div div div ul li a span  ,Visit the NASA Portal,0,10
+html body text div div div ul li span  ,+,0,9
+html body text div div div ul li a span  ,S.O.N. Home,0,10
+html body text div div ul li a span  ,TaSS HOME,0,9
+html body text div div ul li a span  ,SUN-EARTH VIEWER,0,9
+html body text div div ul li a span  ,TRACKING THE PERFECT STORM,0,9
+html body text div div ul li a span  ,SPACE WEATHER RESOURCES,0,9
+html body text div table tbody tr td div a span  ,SUNSPOT REGIONS,0,11
+html body text div table tbody tr td div a span  ,STORM SIGNALS,0,11
+html body text div table tbody tr td div a span  ,MAGNETOSPHERE,0,11
+html body text div table tbody tr td div a span  ,AURORAS,0,11
+html body text div h1 a span  ,MAGNETOSPHERE,1,7
+html body text div div div div h3 span  ,TEACHER'S EDITION,0,9
+html body text div div div div h3 span  ,Grades 10th and up,0,9
+html body text div div div ul li a span  ,+ From Students,0,10
+html body text div div div ul li a span  ,+ From Observatories,0,10
+html body text div div div ul li a span  ,- Kp Index,0,10
+html body text div div div ul li a span  ,"- Kiruna, Sweden",0,10
+html body text div div div ul li a span  ,"- Baker Lake, Canada",0,10
+html body text div div div ul li a span  ,- Canada,0,10
+html body text div div div ul li a span  ,"- Tromso, Norway",0,10
+html body text div div div ul li a span  ,- Alaska,0,10
+html body text div div div ul li a span  ,- U.S. Observatories,0,10
+html body text div div div ul li a span  ,"- Tixie Bay, Russia",0,10
+html body text div div div ul li a span  ,+ From Satellites,0,10
+html body text div div div div h2 span  ,Live Data,0,9
+html body text div div div div h3 a span  ,"Tromso, Norway (real-time)",0,10
+html body text div div div div p span  ,A complete list of real-time data links is located in the,0,9
+html body text div div div div p a span  ,Space Weather Resources,0,10
+html body text div div div div p span  ,section.,0,9
+html body text div div div h2 span  ,"From Observatories: Tromso, Norway",1,8
+html body text div div div p span  ,"The plots that are produced by Tromso offer information in a slightly different format. These plots are a little more complicated than the Kiruna plot because these scientists elected not to subtract the average Earth field from the data before plotting it. Like the Kiruna Observatory data, the Tromso Geophysical Observatory shows three curves in each plot - but these curves represent different quantities that define the magnetic field.",1,8
+html body text div div div p span  ,The Blue curve is for the horizontal intensity (H). It includes the north-south and east-west values. The Green is for the vertical intensity (Z). The vertical axis on the left shows values for the horizontal magnetic field (blue numbers) and for the vertical magnetic field (green numbers).,1,8
+html body text div div div p span span  ,The horizontal green and blue lines indicate the normal or undisturbed strength of the magnetic fields.,1,9
+html body text div div div div h3 span  ,TEACHER'S NOTE,1,9
+html body text div div div div p span  ,"A magnetic field is a vector + it has direction and magnitude (or size). The magnetic field around Earth is separated into a horizontal (H) vector and a vertical vector (Z). The horizontal vector can be further separated into X and Y components. The X is the north-south vector and the Y is the east-west part. Notice that X, Y and Z components of the magnetic field are vectors. They give the direction (X is north-south, Y is east-west, and Z is vertical) and the size of the magnetic field. In these graphs H is the size of the vector sum of the X and Y components of the magnetic field found by the Pythagorean Theorem - H",1,9
+html body text div div div div p sup span  ,2,1,10
+html body text div div div div p span  ,= X,1,9
+html body text div div div div p sup span  ,2,1,10
+html body text div div div div p span  ,+ Y,1,9
+html body text div div div div p sup span  ,2,1,10
+html body text div div div div p span  ,.,1,9
+html body text div div div p span  ,The Red curve gives the value of the angle between the north geographic and north magnetic pole (D).,1,8
+html body text div div div p span span  ,The horizontal red line indicates the normal or undisturbed angle between north geographic and north magnetic pole at this location.,1,9
+html body text div div div p span  ,The vertical axis on the,1,8
+html body text div div div p em span span  ,right,1,10
+html body text div div div p span  ,is the angle in degrees (red numbers),1,8
+html body text div div div div h3 span  ,TEACHER'S NOTE,1,9
+html body text div div div div p span  ,This can be a difficult graph for students. There are two different scales on the left (blue and green). It is as if the green graph was stacked on top of the blue graph. Then the scale on the right is for the red line.,1,9
+html body text div div div p span  ,"It is easy to see just how 'stormy' things are by looking at the curve compared to its horizontal line (i.e. the green curve compared to the green line) . When there is a big difference between the current and average measurements, a magnetic storm is in progress in Tromso. It is also interesting to look at how complicated these magnetic storms can be with all the jumps and wiggles that happen! The sample graph above for the magnetic storm of May 30, 2003 shows that the strength of the horizontal (H) part of the magnetic field changed, the strength of the vertical (Z) part of the field changed and the direction of the horizontal part changed.",1,8
+html body text div div div p span span  ,"When you click on the ""Live Data"" link for Tromso, you will see four plots like the above from different magnetometers operated by the University of Tromso. These plots are updated every 4 minutes.",1,9
+html body text div div div div h3 span  ,TEACHER'S NOTE,1,9
+html body text div div div div p span  ,"Your students may wish to get archive data from the Tromso site. This data can be accessed by clicking ""Back"" at the bottom of the Tromso page and selecting ""Plot Archive Data"". The archive site is difficult to use; you should visit this site and experiment with it so you can assist students.",1,9
+html body text div div div p a strong span  ,Next Step: Alaska ï¿½,0,10
+html body text div div ul li a span  ,Content Enhancement,0,9
+html body text div div ul li a span  ,Student's Edition,0,9
+html body text div div div ul li span  ,+,0,9
+html body text div div div ul li a span  ,Privacy Policy,0,10
+html body text div div div ul li span  ,NASA Official:,0,9
+html body text div div div ul li a span  ,Dr. James Thieman,0,10
+html body text div div div ul li span  ,Project Manager:,0,9
+html body text div div div ul li a span  ,Don Robinson-Boonstra,0,10
+html body text div div div ul li span  ,Website Manager:,0,9
+html body text div div div ul li a span  ,Bryan Stephenson,0,10

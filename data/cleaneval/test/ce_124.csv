@@ -1,0 +1,385 @@
+tag,content,label,depth
+html body text div div div div div a span  ,Log in,0,10
+html body text div div div div div span  ,|,0,9
+html body text div div div div div a span  ,Sign up,0,10
+html body text div div div div a span  ,Why join?,0,9
+html body text div div div form div label span  ,Remember me,0,10
+html body text div div div form div span  ,|,0,9
+html body text div div div form div a span  ,Forgot password?,0,10
+html body text div div div div span span  ,Welcome,0,9
+html body text div div div div span span  ,(,0,9
+html body text div div div div span a span  ,log out,0,10
+html body text div div div div span span  ,),0,9
+html body text div div div div a span  ,View profile,0,9
+html body text div div div div div form div span  ,Search:,0,11
+html body text div div div div div form select option span  ,News,0,12
+html body text div div div div div form select option span  ,All CNET,0,12
+html body text div div div div div form select option span  ,The Web,0,12
+html body text div div div div div form div a span  ,Advanced,0,12
+html body text div div div div div form div a span  ,search,0,12
+html body text div div div div a span  ,Today on CNET,0,9
+html body text div div div div a span  ,Reviews,0,9
+html body text div div div div a span  ,News,0,9
+html body text div div div div a span  ,Downloads,0,9
+html body text div div div div a span  ,Tips & Tricks,0,9
+html body text div div div div a span  ,CNET TV,0,9
+html body text div div div div a span  ,Compare Prices,0,9
+html body text div div div div div div a span  ,Today on News,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Business Tech,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Cutting Edge,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Access,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Threats,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Media 2.0,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Markets,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Digital Life,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Blogs,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Extra,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,My News,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,RSS,0,11
+html body text div div div div div h1 span  ,Supreme Court rules against file swapping,1,10
+html body text div div div div div div span  ,"In unanimous decision, justices say Grokster and others could be held responsible for widespread copyright infringement.",0,10
+html body text div div div div div div div div div div span  ,By,1,14
+html body text div div div div div div div div div div a span  ,John Borland,1,15
+html body text div div div div div div div div div div span  ,"Staff Writer, CNET News.com",1,14
+html body text div div div div div div div div div div span  ,"Published: June 27, 2005, 9:04 AM PDT",1,14
+html body text div div div div div div div div div div div span  ,"Last modified: June 27, 2005, 2:35 PM PDT",1,15
+html body text div div div div div div div div div div a span  ,TalkBack,0,15
+html body text div div div div div div div div div div a span  ,E-mail,0,15
+html body text div div div div div div div div div div a span  ,Print,0,15
+html body text div div div div div div div div div div a span  ,del.icio.us,0,15
+html body text div div div div div div div div div div a span  ,Digg this,0,15
+html body text div div div div div div div div p span b span  ,update,1,15
+html body text div div div div div div div div p b span  ,"The Supreme Court has handed movie studios and record labels a sweeping victory against file swapping, ruling that peer-to-peer companies such as Grokster could be held responsible for the copyright piracy on their networks.",1,14
+html body text div div div div div div div div p span  ,"In a unanimous decision issued Monday, the nine justices said companies that build businesses with the active intent of encouraging copyright infringement should be held liable for their customers' illegal actions.",1,13
+html body text div div div div div div div div p span  ,"""We hold that one who distributes a device with the object of promoting its use to infringe copyright, as shown by clear expression or other affirmative steps taken to foster infringement, is liable for the resulting acts of infringement,"" Justice David Souter wrote in the majority opinion.",1,13
+html body text div div div div div div div div div h3 span  ,News.com Poll,0,14
+html body text div div div div div div div div div div form b span  ,Do you agree with the Supreme Court decision in the Grokster case?,0,16
+html body text div div div div div div div div div div form p span  ,Yes,0,16
+html body text div div div div div div div div div div form p span  ,No,0,16
+html body text div div div div div div div div div div form p a span  ,View results,0,17
+html body text div div div div div div div div p span  ,The decision comes as a surprisingly strong victory for copyright companies and stands to reshape an Internet landscape in which file swapping has become commonplace.,1,13
+html body text div div div div div div div div p span  ,"The ruling will give the recording industry and Hollywood immediate ammunition to file lawsuits against other file-trading companies. It could also be a boon for legal music services such as Apple Computer's iTunes, which could see their strongest competitor--freely downloadable songs--driven further underground.",1,13
+html body text div div div div div div div div p span  ,"It won't immediately shut down access to the trading networks, however. The court's ruling sends the case back to the lower courts, which will review the evidence against Grokster and co-defendant StreamCast in the light of Monday's decision.",1,13
+html body text div div div div div div div div p span  ,Record labels and movie studios immediately hailed the decision as an unambiguous victory.,1,13
+html body text div div div div div div div div p span  ,"""The most important message from today's historic decision is that progress and innovation do not have to come at the expense of recording artists, songwriters and the people who make their living in the entertainment industry,"" Warner Music Group CEO Edgar Bronfman said in a statement. ""This important decision will allow artists and the creative community to prosper side by side with the technology industry.""",1,13
+html body text div div div div div div div div p span  ,"The peer-to-peer companies involved warned that the high court had opened the floodgates to litigation against a wide variety of technology companies, but said that they would continue to distribute their software and that they expected to be cleared of any wrongdoing.",1,13
+html body text div div div div div div div div p span  ,"""We are confident that it will be proven that Morpheus does not promote or encourage copyright infringement,"" said StreamCast Chief Executive Officer Michael Weiss. ""We're staying in this for the fight. We're going to continue to innovate and come out with new products.""",1,13
+html body text div div div div div div div div p b span  ,Cloud over Silicon Valley?,1,14
+html body text div div div div div div div div p span  ,The justices were reviewing a pair of lower-court decisions in which both courts said that file-swapping companies such as Grokster,1,13
+html body text div div div div div div div div p a span  ,were not liable,1,14
+html body text div div div div div div div div p span  ,for the copyright infringement of people using their software. The nation's top court heard oral arguments on the case in late March.,1,13
+html body text div div div div div div div div p span  ,With the potential to rewrite the Supreme Court's,1,13
+html body text div div div div div div div div p a span  ,1984 Sony Betamax ruling,1,14
+html body text div div div div div div div div p span  ,"that made VCRs--and by extension any technology with ""substantial noninfringing use""--legal to sell, the decision has been closely watched across Silicon Valley.",1,13
+html body text div div div div div div div div p span  ,"Technology companies have feared that a new copyright-focused standard aimed at controlling peer-to-peer networks might result in a rise in lawsuits aimed at blocking new products. The Betamax ruling had protected generations of products, ranging from CD burners to Apple's iPod to personal computers.",1,13
+html body text div div div div div div div div p span  ,"In its majority ruling Monday, the court did not make any detailed changes or clarifications to that 1984 decision. However, Souter did write that the Betamax decision had not been meant as a shield for companies that actively induced or encouraged their customers to infringe copyrights. The peer-to-peer companies appeared to fall into that category, he wrote.",1,13
+html body text div div div div div div div div p span  ,"""There is no evidence that either company (Grokster or StreamCast) made an effort to filter copyrighted material from users' downloads or otherwise impede the sharing of copyrighted files,"" Souter wrote. ""Each company showed itself to be aiming to satisfy a known source of demand for copyright infringement, the market comprising former Napster users.""",1,13
+html body text div div div div div div div div p span  ,"Essentially that means the Betamax ruling's protections still will apply in most cases, lawyers said. However, the ruling does dispel the most expansive interpretation of that decision, under which any product with any legal use, no matter how minimal, was viewed as necessarily legal, said Thelen Reid & Priest attorney Michael Elkin.",1,13
+html body text div div div div div div div div p span  ,"""I don't think the Sony Betamax decision ever gave a get-out-of-jail-free pass to anyone,"" Elkin said.",1,13
+html body text div div div div div div div div p span  ,"Critics of the ruling said that the court provided no clear standard or test to define inducement, aside from noting several instances in which the peer-to-peer companies appeared to cross the line.",1,13
+html body text div div div div div div div div p span  ,Some in the technology world said the result could lead to more litigation against young companies with new technologies.,1,13
+html body text div div div div div div div div div b span  ,special coverage,0,14
+html body text div div div div div div div div div a span  ,File-swap fallout,0,14
+html body text div div div div div div div div div div span  ,Read all of News.com's stories on the Supreme Court's landmark decision and how it affects companies such as Grokster.,0,14
+html body text div div div div div div div div span  ,"""This is a very dangerous decision for technology and innovation,"" said Ed Black, chief executive officer of the Computer and Communications Industry Association. ""If you think of the Sony decision as a shield or an umbrella, we're afraid some holes have been punctured in that umbrella.""",1,12
+html body text div div div div div div div div p span  ,"Added Michael Petricone, vice president of technology policy for the Consumer Electronics Association: ""It is a real concern for the entire industry. We are faced with competitors in China and India who do not face the same litigation burden that companies will with this decision.""",1,13
+html body text div div div div div div div div p span  ,"Not everyone in Silicon Valley took a bleak view of the ruling, however. An Intel spokeswoman said the company was still studying the ruling, but noted that the court seemed to have upheld the most important aspects of the Betamax decision.",1,13
+html body text div div div div div div div div p b span  ,Changed landscape for digital content?,1,14
+html body text div div div div div div div div p span  ,The decision isn't likely to eliminate file swapping. Many of the most popular services are decentralized enough that they can exist even if a parent company disappears. Many peer-to-peer services also are based outside the United States or have been created by overseas programmers.,1,13
+html body text div div div div div div div div p span  ,"U.S. courts have shown their willingness to reach overseas companies in some cases, however. Already, a Los Angeles court has ruled that Kazaa parent Sharman Networks, based in Australia, maintains enough business connections in the United States to be",1,13
+html body text div div div div div div div div p a span  ,sued in American courts,1,14
+html body text div div div div div div div div p span  ,.,1,13
+html body text div div div div div div div div p span  ,"If the decision--and subsequent lower court actions--pushes file-swapping services further underground, it can only help companies such as Apple that are selling music and movies online, music service executives said.",1,13
+html body text div div div div div div div div p span  ,"""I think the Supreme Court did the right thing, in a lucid way,"" said Rob Glaser, CEO of RealNetworks. ""I think it will make a difference in the long slog to convert the industry over to legitimacy, by not allowing businesses to do this kind of nudge-nudge wink-wink marketing.""",1,13
+html body text div div div div div div div div p span  ,"Apple, Napster and other digital music services also hailed the ruling as a vindication of their business models.",1,13
+html body text div div div div div div div div p span  ,"The decision could also be a boost for companies such as Shawn Fanning's Snocap or Audible Magic, which offer technology for filtering copyrighted files out of peer-to-peer swaps, or turning those swaps into transactions. Today that available filtering technology focuses only on music files, but tools are being developed to",1,13
+html body text div div div div div div div div p a span  ,identify and block movie downloads,1,14
+html body text div div div div div div div div p span  ,.,1,13
+html body text div div div div div div div div p span  ,"""To the P2P operators, the LimeWires and the eDonkeys: We want to work with you,"" said Mitch Bainwol, chief executive officer of the Recording Industry Association of America. ""This is time to come forward and start filtering. We can build a better digital age together.""",1,13
+html body text div div div div div div div div p span  ,"Although the decision technically leaves the file-swapping companies' fate to the lower court, it could hold the seeds of a quick decision in favor of Hollywood and the record labels. Souter's ruling noted that the original trial judge granted summary judgment to Grokster, but said the lower court should instead immediately reconsider the copyright companies' request for summary judgment.",1,13
+html body text div div div div div div div div p span  ,"Souter was supported unanimously in his decision by all nine justices, a rare level of agreement on controversial cases. Justice Ruth Bader Ginsburg wrote one concurring decision that was joined by Justices Anthony Kennedy and William Rehnquist. Justice Stephen Breyer wrote a second concurrence, joined by Justices John Paul Stevens and Sandra Day O'Connor.",1,13
+html body text div div div div div div div div p i span  ,CNET News.com's Declan McCullagh and Anne Broache contributed to this report.,1,14
+html body text div div div div div div div div div div a span  ,TalkBack,0,15
+html body text div div div div div div div div div div a span  ,E-mail,0,15
+html body text div div div div div div div div div div a span  ,Print,0,15
+html body text div div div div div div div div div div a span  ,del.icio.us,0,15
+html body text div div div div div div div div div div a span  ,Digg this,0,15
+html body text div div div div div div div div div div h3 span  ,Read more on this story's topics and companies,0,15
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,0,18
+html body text div div div div div div div div div div ul li span span  ,|,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,0,18
+html body text div div div div div div div div div div ul li a span  ,Digital rights management (DRM),0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,0,18
+html body text div div div div div div div div div div ul li span span  ,|,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,0,18
+html body text div div div div div div div div div div ul li a span  ,Copyright,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,0,18
+html body text div div div div div div div div div div ul li span span  ,|,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,0,18
+html body text div div div div div div div div div div ul li a span  ,Peer to peer,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,0,18
+html body text div div div div div div div div div div ul li span span  ,|,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,0,18
+html body text div div div div div div div div div div ul li a span  ,Lawsuits,0,17
+html body text div div div div div div div div div span  ,106 comments,0,13
+html body text div div div div div div div div div a span  ,Post a comment,0,14
+html body text div div div div div div div div h3 span  ,TalkBack,0,13
+html body text div div div div div div div div div h4 a span  ,This is not about copyright infringement,0,15
+html body text div div div div div div div div div p span  ,Cat Wild,0,14
+html body text div div div div div div div div div p span  ,"Jun 28, 2005, 5:13 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,P2P,0,15
+html body text div div div div div div div div div p span  ,Cat Wild,0,14
+html body text div div div div div div div div div p span  ,"Jun 28, 2005, 4:49 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,Effects on BitTorrent?,0,15
+html body text div div div div div div div div div p span  ,Michael Basil,0,14
+html body text div div div div div div div div div p span  ,"Jun 28, 2005, 11:41 AM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,Boycott the RIAA and others of their ilk,0,15
+html body text div div div div div div div div div p span  ,J Tzu,0,14
+html body text div div div div div div div div div p span  ,"Jun 28, 2005, 9:48 AM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,Gun makers still not held responsible,0,15
+html body text div div div div div div div div div p span  ,bobby_brady,0,14
+html body text div div div div div div div div div p span  ,"Jun 28, 2005, 8:45 AM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,What does this ruling do to Tivo like devices?,0,15
+html body text div div div div div div div div div p span  ,bobby_brady,0,14
+html body text div div div div div div div div div p span  ,"Jun 28, 2005, 8:42 AM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,"Only a fool... Or, someone who lives in a vacuum...",0,15
+html body text div div div div div div div div div p span  ,Raife,0,14
+html body text div div div div div div div div div p span  ,"Jun 28, 2005, 3:59 AM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,Mmmhmmm...,0,15
+html body text div div div div div div div div div p span  ,paintedover26k,0,14
+html body text div div div div div div div div div p span  ,"Jun 28, 2005, 1:44 AM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,Does the same go for weapons manufacturers?,0,15
+html body text div div div div div div div div div p span  ,Ian Barnett,0,14
+html body text div div div div div div div div div p span  ,"Jun 28, 2005, 1:09 AM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,"TIme to SUE, Ye Haw.",0,15
+html body text div div div div div div div div div p span  ,System Tyrant,0,14
+html body text div div div div div div div div div p span  ,"Jun 27, 2005, 8:24 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,Perhaps...,0,15
+html body text div div div div div div div div div p span  ,techoguy,0,14
+html body text div div div div div div div div div p span  ,"Jun 27, 2005, 7:38 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,"Protect ISP's, shoot P2P networks?",0,15
+html body text div div div div div div div div div p span  ,Alexander Moore,0,14
+html body text div div div div div div div div div p span  ,"Jun 27, 2005, 4:08 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,"Look at the law, not your emotions...",0,15
+html body text div div div div div div div div div p span  ,rdean,0,14
+html body text div div div div div div div div div p span  ,"Jun 27, 2005, 3:32 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,Glad to someone think' s right,0,15
+html body text div div div div div div div div div p span  ,Earl,0,14
+html body text div div div div div div div div div p span  ,"Jun 27, 2005, 3:14 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,this ruling is good,0,15
+html body text div div div div div div div div div p span  ,Sam Papelbon,0,14
+html body text div div div div div div div div div p span  ,"Jun 27, 2005, 3:09 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,Good,0,15
+html body text div div div div div div div div div p span  ,Earl,0,14
+html body text div div div div div div div div div p span  ,"Jun 27, 2005, 2:54 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,Re: The Supreme Court ruling about music,0,15
+html body text div div div div div div div div div p span  ,Lloyd Marion,0,14
+html body text div div div div div div div div div p span  ,"Jun 27, 2005, 2:44 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,One of the best statements made.,0,15
+html body text div div div div div div div div div p span  ,Earl,0,14
+html body text div div div div div div div div div p span  ,"Jun 27, 2005, 2:08 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,One of the best statements made.,0,15
+html body text div div div div div div div div div p span  ,Earl,0,14
+html body text div div div div div div div div div p span  ,"Jun 27, 2005, 2:07 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,Very Good Statment,0,15
+html body text div div div div div div div div div p span  ,Earl,0,14
+html body text div div div div div div div div div p span  ,"Jun 27, 2005, 1:52 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,That's just it!,0,15
+html body text div div div div div div div div div p span  ,Earl,0,14
+html body text div div div div div div div div div p span  ,"Jun 27, 2005, 1:29 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,So should we hold music industry liable...,0,15
+html body text div div div div div div div div div p span  ,Adi None,0,14
+html body text div div div div div div div div div p span  ,"Jun 27, 2005, 1:21 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,won't this affect the manufacturers of CD and DVD burning components?,0,15
+html body text div div div div div div div div div p span  ,Andy Melchior,0,14
+html body text div div div div div div div div div p span  ,"Jun 27, 2005, 12:44 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,Typically shortsighted,0,15
+html body text div div div div div div div div div p span  ,Bill Dautrive,0,14
+html body text div div div div div div div div div p span  ,"Jun 27, 2005, 12:16 PM PDT",0,14
+html body text div div div div div div div div div h4 a span  ,Meaningless,0,15
+html body text div div div div div div div div div p span  ,Willie Winkie,0,14
+html body text div div div div div div div div div p span  ,"Jun 27, 2005, 11:59 AM PDT",0,14
+html body text div div div div div div div div div a span  ,Read more comments >,0,14
+html body text div div div div div div div div div a span  ,Related stories,0,14
+html body text div div div div div div div div div div div h4 span  ,Related news,0,16
+html body text div div div div div div div div div div div ul li a span  ,Supreme Court may redefine file swapping,0,18
+html body text div div div div div div div div div div div ul li div span  ,"March 29, 2005",0,18
+html body text div div div div div div div div div div div ul li a span  ,FAQ: Betamax--tech's favorite ruling,0,18
+html body text div div div div div div div div div div div ul li div span  ,"March 28, 2005",0,18
+html body text div div div div div div div div div div div ul li a span  ,P2P companies ask high court for help,0,18
+html body text div div div div div div div div div div div ul li div span  ,"March 1, 2005",0,18
+html body text div div div div div div div div div div div ul li a span  ,Judges rule file-sharing software legal,0,18
+html body text div div div div div div div div div div div ul li div span  ,"August 19, 2004",0,18
+html body text div div div div div div div div div div div a span  ,"Get this story's ""Big Picture"" >",0,16
+html body text div div div div div div div div div div div h4 span  ,Related videos,0,16
+html body text div div div div div div div div div div div div a span  ,"""Anytime change is required, some people will resist it""",0,17
+html body text div div div div div div div div div div div div span span  ,"October 23, 2006",0,17
+html body text div div div div div div div div div div div div a span  ,Trials and tribulations of being a female CEO in a man's world,0,17
+html body text div div div div div div div div div div div div span span  ,"October 20, 2006",0,17
+html body text div div div div div div div div div div div div a span  ,"From secretary to CEO and beyond, it's been a long ride",0,17
+html body text div div div div div div div div div div div div span span  ,"October 20, 2006",0,17
+html body text div div div div div div div div div div div a span  ,Watch more videos >,0,16
+html body text div div div div div div div div div div div h5 span  ,From News.com Extra,0,16
+html body text div div div div div div div div div div div ul li a span  ,Waiting for Grokster,0,18
+html body text div div div div div div div div div div div ul li span  ,from,0,17
+html body text div div div div div div div div div div div ul li cite span  ,Technology Review,0,18
+html body text div div div div div div div div div div div ul li a span  ,"As Grokster Decision Nears, Hollywood Talks Tough",0,18
+html body text div div div div div div div div div div div ul li span  ,from,0,17
+html body text div div div div div div div div div div div ul li cite span  ,InternetNews.com,0,18
+html body text div div div div div div div div div div div ul li a span  ,File-Sharing Is the Latest Battleground in the Clash of Technology and Copyright,0,18
+html body text div div div div div div div div div div div ul li span  ,from,0,17
+html body text div div div div div div div div div div div ul li cite span  ,The New York Times,0,18
+html body text div div div div div div div div div div div a span  ,Get more news around the Web with News.com Extra >,0,16
+html body text div div div div div div div div div div div h5 span  ,Related white papers,0,16
+html body text div div div div div div div div div div div ul li a span  ,How To Use the Six Laws of Persuasion during a Negotiation,0,18
+html body text div div div div div div div div div div div ul li span  ,Global Knowledge Network,0,17
+html body text div div div div div div div div div div div ul li a span  ,Settling Conflict Without Drawing Blood - Use Mediation,0,18
+html body text div div div div div div div div div div div ul li span  ,EzineArticles.com,0,17
+html body text div div div div div div div div div div div ul li a span  ,Enhancing Corporate Governance for Banking Organisations,0,18
+html body text div div div div div div div div div div div ul li span  ,Bank for International Settlements,0,17
+html body text div div div div div div div div div div div ul li a span  ,New HSR Rules Regarding the Treatment of Unincorporated Entities,0,18
+html body text div div div div div div div div div div div ul li span  ,White & Case,0,17
+html body text div div div div div div div div div div div ul li a span  ,The SEC's Bid to Re-Engineer Corporate Culture,0,18
+html body text div div div div div div div div div div div ul li span  ,White & Case,0,17
+html body text div div div div div div div div div div div span span  ,More results for,0,16
+html body text div div div div div div div div div div div span a span  ,copyright,0,17
+html body text div div div div div div div div div div div span span  ,>,0,16
+html body text div div div div div div div div h3 span  ,Resource center,0,13
+html body text div div div div div div div div h3 span span  ,from News.com sponsors,0,14
+html body text div div div div div div div div div h4 span  ,Aligning CIO & CEO visions,0,14
+html body text div div div div div div div div div div h5 span  ,What CIOs need to know,0,15
+html body text div div div div div div div div div div p span  ,"It's a simple truth. The closer you and your CEO see things, the greater your chance for success. Our exclusive report can help you get there—and help your business grow. Get the report featuring the views of 765 CEOs on innovation.",0,15
+html body text div div div div div div div div div div p a span  ,learn more,0,16
+html body text div div div div div div div div div div ul li a span  ,What CEOs think: Innovation Insights for CIOs,0,17
+html body text div div div div div div div div div div ul li a span span  ,Learn How CIOs can deliver strategic success for their enterprises,0,18
+html body text div div div div div div div div div div ul li a span  ,The New CIO: Beyond Technology,0,17
+html body text div div div div div div div div div div ul li a span span  ,Learn how CIOs become heroes,0,18
+html body text div div div div div div div div div div ul li a span  ,Podcast: Chris Gorog of Napster,0,17
+html body text div div div div div div div div div div ul li a span span  ,Learn about the impact of technology in strategy execution,0,18
+html body text div div div div div div div div div div ul li a span  ,The future of the Enterprise,0,17
+html body text div div div div div div div div div div ul li a span span  ,Read more about tomorrow's organization,0,18
+html body text div div div div div div div div div div ul li a span  ,CIO Vision Series:Innovating within a retail industry disrupted by the Web,0,17
+html body text div div div div div div div div div div ul li a span span  ,"Video: CIO of Virgin Entertainment Group, Robert Fort",0,18
+html body text div div div div div div div div div div ul li a span  ,CIO Vision Series: Innovating around social search,0,17
+html body text div div div div div div div div div div ul li a span span  ,Video: Yahoo CIO Lars Rabbe,0,18
+html body text div div div div div div div div div h3 span  ,Top picks from News.com readers,0,14
+html body text div div div div div div div div div div p span  ,Readers who read,0,15
+html body text div div div div div div div div div div p strong span  ,Supreme Court rules against file swapping,0,16
+html body text div div div div div div div div div div p span  ,also read...,0,15
+html body text div div div div div div div div div div ul li a span  ,File-swap fallout in Supreme Court ruling,0,17
+html body text div div div div div div div div div div a span  ,More Info,0,15
+html body text div div div div div div div div h3 span  ,Markets,0,13
+html body text div div div div div div div div p a span  ,"Market news, charts, SEC filings, and more",0,14
+html body text div div div div div div div div h4 span  ,Related quotes,0,13
+html body text div div div div div div div div table tbody tr td a span  ,DJIA,0,17
+html body text div div div div div div div div table tbody tr td span  ,"12,407.63",0,16
+html body text div div div div div div div div table tbody tr td span  ,64.41,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.52%),0,16
+html body text div div div div div div div div table tbody tr td a span  ,S&P 500,0,17
+html body text div div div div div div div div table tbody tr td span  ,"1,416.90",0,16
+html body text div div div div div div div div table tbody tr td span  ,6.14,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.44%),0,16
+html body text div div div div div div div div table tbody tr td a span  ,NASDAQ,0,17
+html body text div div div div div div div div table tbody tr td span  ,"2,413.51",0,16
+html body text div div div div div div div div table tbody tr td span  ,12.33,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.51%),0,16
+html body text div div div div div div div div table tbody tr td a span  ,CNET TECH,0,17
+html body text div div div div div div div div table tbody tr td span  ,"1,590.52",0,16
+html body text div div div div div div div div table tbody tr td span  ,7.81,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.49%),0,16
+html body text div div div div div div div div form a span  ,Symbol Lookup,0,14
+html body text div div div div div div div a span  ,Site map,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Help center,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Corrections,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Newsletters,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Send tips,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,News.com mobile,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Content licensing,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,RSS feeds,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div form div span  ,Search:,0,13
+html body text div div div div div div div form select option span  ,News,0,14
+html body text div div div div div div div form select option span  ,All CNET,0,14
+html body text div div div div div div div form select option span  ,The Web,0,14
+html body text div div div div div div span  ,Popular topics:,0,10
+html body text div div div div div div a span  ,Camcorders,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Desktops,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,DVD Players,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Internet Explorer 7,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,iPod Nano,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,iPod Shuffle,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Nikon D80,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Notebooks,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Projectors,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Speed Test,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Web Hosting,0,11
+html body text div div div div div div div a span  ,Today on CNET,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Reviews,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,News,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Compare prices,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Tips & Tricks,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Downloads,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,CNET TV,0,12
+html body text div div div div span  ,Popular on CNET Networks:,0,8
+html body text div div div div a span  ,PS3,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Wii,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Xbox 360,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Pussycat Dolls,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Free Music Videos,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,TV Listings,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Prison Break,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Game Cheats,0,9
+html body text div div div div a span  ,About CNET Networks,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Jobs,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Advertise,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Partnerships,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Site map,0,9
+html body text div div div div span  ,"Copyright ©2006 CNET Networks, Inc. All rights reserved.",0,8
+html body text div div div div a span  ,Privacy policy,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Terms of use,0,9

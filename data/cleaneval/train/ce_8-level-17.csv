@@ -1,0 +1,356 @@
+tag,content,label,depth
+html body text div div h1 a span  ,Amarok Blog,1,8
+html body text div div h2 a span  ,Amarok developers at work,1,8
+html body text div table tbody tr td div h3 span  ,"Wednesday, December 13. 2006",1,11
+html body text div table tbody tr td div h4 a span  ,markey: Amarok reviewed on Sourcetrunk podcast,1,12
+html body text div table tbody tr td div div div span  ,Here's a really nice,1,12
+html body text div table tbody tr td div div div a span  ,review,1,13
+html body text div table tbody tr td div div div span  ,"of Amarok 1.4.4. The reviewer goes into great detail and presents many of Amarok's features, including the recently added Magnatune store.",1,12
+html body text div table tbody tr td div div div span  ,Check it out over at,1,12
+html body text div table tbody tr td div div div a span  ,Sourcetrunk,1,13
+html body text div table tbody tr td div div div span  ,.,1,12
+html body text div table tbody tr td div div div span  ,Posted by,1,12
+html body text div table tbody tr td div div div a span  ,Mark Kretschmann,1,13
+html body text div table tbody tr td div div div span  ,in,1,12
+html body text div table tbody tr td div div div a span  ,markey,1,13
+html body text div table tbody tr td div div div span  ,at,1,12
+html body text div table tbody tr td div div div a span  ,05:46,1,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Comments (0),0,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),0,13
+html body text div table tbody tr td div h3 span  ,"Monday, December 11. 2006",1,11
+html body text div table tbody tr td div h4 a span  ,markey: New server to replace pwsp.net,1,12
+html body text div table tbody tr td div div div span  ,"Good news, everyone!",1,12
+html body text div table tbody tr td div div div span  ,Thanks to the generous donations from our last,1,12
+html body text div table tbody tr td div div div a span  ,fundraiser,1,13
+html body text div table tbody tr td div div div span  ,", the Amarok project will soon move to a much better web server. As some of you have probably noticed, our current hosting (AMD Duron, 512MB RAM) is hopelessly underpowered for the growing traffic on",1,12
+html body text div table tbody tr td div div div a span  ,amarok.kde.org,1,13
+html body text div table tbody tr td div div div span  ,". We've had a lot of downtime over the last months, especially when the site was hammered by digg.com, heise.de, etc.",1,12
+html body text div table tbody tr td div div div span  ,"The new server will be a dedicated AMD Athlon 64 X2 4200+, 2 gigs of RAM, 2 x 300 GB SATA HDD, from Hetzner.de. This should provide us with enough power to survive the slashdot/digg-effect. Paleo (Olivier Bédard) will continue to be the main administrator, and, in other good news, we will continue to host a number of other KDE projects (Konversation, Akregator..) for free",1,12
+html body text div table tbody tr td div div div span  ,"We will try to make the migration over the next few weeks as smooth as possible, by running the old server in parallel until everything is ready to go.",1,12
+html body text div table tbody tr td div div div span  ,Posted by,1,12
+html body text div table tbody tr td div div div a span  ,Mark Kretschmann,1,13
+html body text div table tbody tr td div div div span  ,in,1,12
+html body text div table tbody tr td div div div a span  ,markey,1,13
+html body text div table tbody tr td div div div span  ,at,1,12
+html body text div table tbody tr td div div div a span  ,04:16,1,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Comments (5),0,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),0,13
+html body text div table tbody tr td div h3 span  ,"Thursday, December 7. 2006",1,11
+html body text div table tbody tr td div h4 a span  ,muesli: Schnauze voll,1,12
+html body text div table tbody tr td div div div span  ,Koennten Frauen bitte einfach mal ihre beschissene Fresse halten? Danke.,1,12
+html body text div table tbody tr td div div div span  ,Posted by,1,12
+html body text div table tbody tr td div div div span  ,in,1,12
+html body text div table tbody tr td div div div a span  ,muesli,1,13
+html body text div table tbody tr td div div div span  ,at,1,12
+html body text div table tbody tr td div div div a span  ,15:45,1,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Comments (0),0,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),0,13
+html body text div table tbody tr td div h3 span  ,"Wednesday, December 6. 2006",1,11
+html body text div table tbody tr td div h4 a span  ,sebr: visiting kde turkey,1,12
+html body text div table tbody tr td div div div p span  ,"I’m now in Istanbul, and was able to meet up with the infamous ‘cartman’, aka ismail. or maybe its the other way around, i’m not sure! we went out the the hip center of the city, taksim, to visit some of the cool water-holes. there, we were joined by local lug member, arda. if you want to read more about what i’ve been up to in the country, you can read my blog; i don’t need to spam you all!",1,13
+html body text div table tbody tr td div div div p span  ,"However, heres a photo to prove myself!",1,13
+html body text div table tbody tr td div div div div span  ,"Arda, Myself and Ismail (cartman)",1,13
+html body text div table tbody tr td div div div span  ,Posted by,1,12
+html body text div table tbody tr td div div div a span  ,Seb Ruiz,1,13
+html body text div table tbody tr td div div div span  ,in,1,12
+html body text div table tbody tr td div div div a span  ,sebr,1,13
+html body text div table tbody tr td div div div span  ,at,1,12
+html body text div table tbody tr td div div div a span  ,15:39,1,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Comments (3),0,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),0,13
+html body text div table tbody tr td div h3 span  ,"Monday, December 4. 2006",1,11
+html body text div table tbody tr td div h4 a span  ,mxcl: A Job at Last FM,1,12
+html body text div table tbody tr td div div div p span  ,Well I’m really pleased,1,13
+html body text div table tbody tr td div div div p span  ,From January I can work at,1,13
+html body text div table tbody tr td div div div p a span  ,Last FM,1,14
+html body text div table tbody tr td div div div p span  ,", and they’ll pay me too! How sweet is that?",1,13
+html body text div table tbody tr td div div div span  ,Posted by,1,12
+html body text div table tbody tr td div div div a span  ,Max Howell,1,13
+html body text div table tbody tr td div div div span  ,in,1,12
+html body text div table tbody tr td div div div a span  ,mxcl,1,13
+html body text div table tbody tr td div div div span  ,at,1,12
+html body text div table tbody tr td div div div a span  ,14:32,1,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Comments (6),0,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),0,13
+html body text div table tbody tr td div h3 span  ,"Friday, December 1. 2006",1,11
+html body text div table tbody tr td div h4 a span  ,markey: KDE Misfeature,1,12
+html body text div table tbody tr td div div div span  ,"Please look at the above screenshot. Yes, I know, it hurts. No, I did not draw this with The Gimp. This is an actual Amarok screenshot, running under KDE 3.5.5. How the hell did those ugly squares appear all over the screen, is it a virus? No, it's a KDE feature!",1,12
+html body text div table tbody tr td div div div span  ,"How to reproduce: Fire up a KDE application (Konqueror, Amarok, or KMail will do) and press the ctrl key. It's not even a new feature; it has been there since KDE 3.3 or somesuch. And this feature even has a name, which I can't be bothered to look up.",1,12
+html body text div table tbody tr td div div div span  ,Questions naturally coming to my mind:,1,12
+html body text div table tbody tr td div div div ul li span  ,"How the hell could this ""feature"" pass the KDE usability team?",1,14
+html body text div table tbody tr td div div div ul li span  ,Is the person who invented it ashamed of it?,1,14
+html body text div table tbody tr td div div div span  ,"In Amarok development, whenever someone comes up with an idea like that, we'd go like: ""Dude, are you out of your mind?""",1,12
+html body text div table tbody tr td div div div span  ,Food for thought?,1,12
+html body text div table tbody tr td div div div span  ,Posted by,1,12
+html body text div table tbody tr td div div div a span  ,Mark Kretschmann,1,13
+html body text div table tbody tr td div div div span  ,in,1,12
+html body text div table tbody tr td div div div a span  ,markey,1,13
+html body text div table tbody tr td div div div span  ,at,1,12
+html body text div table tbody tr td div div div a span  ,18:19,1,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Comments (50),0,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),0,13
+html body text div table tbody tr td div h3 span  ,"Monday, November 27. 2006",1,11
+html body text div table tbody tr td div h4 a span  ,sebr: Holidays be upon me!,1,12
+html body text div table tbody tr td div div div p span  ,"I’ve had a week of freedom from the entanglements of university and it has been great. Europe and America should be jealous of me, because I’ve been spending days on end at the beach browning up. I’ve had some much needed time to finish of Splinter Cell, and get back into the coding routine - especially now that I have my motherboard back after five weeks of awol maintenance. At least it all works now.",1,13
+html body text div table tbody tr td div div div p span  ,"Today my house was attacked by a kookaburra, and after trying to get it out of the house i realised i’d never been so close one before. A pair of the birds live in the gum tree out the back, and they come back every year to have babies and get fed chicken by us. If you’ve never seen one before, here’s a photo I took of it trying to understand how something could be so transparent but so solid.",1,13
+html body text div table tbody tr td div div div p span  ,"In other news, in 6 days I’ll be leaving for my next adventure, to the wonders of Turkey, Egypt & Israel. I’ll be gone for 7 weeks to grab some fresh (or very polluted) air for my clogged up head. Very exciting!",1,13
+html body text div table tbody tr td div div div span  ,Posted by,1,12
+html body text div table tbody tr td div div div a span  ,Seb Ruiz,1,13
+html body text div table tbody tr td div div div span  ,in,1,12
+html body text div table tbody tr td div div div a span  ,sebr,1,13
+html body text div table tbody tr td div div div span  ,at,1,12
+html body text div table tbody tr td div div div a span  ,02:50,1,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Comments (2),0,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),0,13
+html body text div table tbody tr td div h3 span  ,"Sunday, November 26. 2006",1,11
+html body text div table tbody tr td div h4 a span  ,eean: New Laptop; Kubuntu Review,1,12
+html body text div table tbody tr td div div div h3 span  ,Laptop,1,13
+html body text div table tbody tr td div div div span  ,"For Black Friday I got an early Christmas present, a Toshiba Satellite. Its innards are all Intel, so everything works fine in Linux. Its nice coming from the hassle and incomplete support of ndiswrapper to the open source drivers that Intel apparently helps support.",1,12
+html body text div table tbody tr td div div div h3 span  ,Kubuntu,1,13
+html body text div table tbody tr td div div div span  ,"My main desktop is Gentoo and has been for the past 4 years. I'm rather happy with it: I know how it all works, its continuously updated, has good support for commercial software. However this laptop has only 512 of RAM (rather painful for compiling) and I had heard that Kubuntu has good laptop support.",1,12
+html body text div table tbody tr td div div div span  ,"And indeed thats pretty much the case. All of my hardware was recognized: the dual-core, the wireless, the Intel graphics chip and power saving and status features are all working without any configuration. It was the easiest install I've ever done. And I'm happy with the result too, Kubuntu does a good job of putting everything together. The complaints I'm about to go into don't take away too much from this fact.",1,12
+html body text div table tbody tr td div div div span  ,"The problem with Kubuntu and Ubuntu are their defaults for the repos. I'm pretty sure the fact that the default repos get better support then the 'universe' 'multiverse' etc. repos is something that is only understood by only a few. And apparently thats the entire reason for not having them on by default. So when I wanted to install kdevelop, I was a little puzzled at first. Gentoo currently shines in this area, I've only ever had to use an ""overlay"" if I wanted to install unreleased software.",1,12
+html body text div table tbody tr td div div div span  ,"The other issue I've had is with wireless network configuration (at least its not wireless driver configuration!) If there's a Kubuntu equivalent to Gentoo's /etc/conf.d/wireless I haven't found it. Right now wireless works if I run wlassistant (a GUI interface to configure the wireless) try to connect, it fails, and then I restart /etc/init.d/networking. That doesn't make too much sense, I know.",1,12
+html body text div table tbody tr td div div div span  ,"In general their startup scripts seem to be all pretty unorganized. All written in plain /bin/sh and with no clear design (like instead of a general dependency system, there are scripts that are run before and after specifically network goes up and down). Gentoo's startup and configuration system is hardly revolutionary which I suppose makes Kubuntu's antiquated system that much more frustrating.",1,12
+html body text div table tbody tr td div div div h3 span  ,x2x,1,13
+html body text div table tbody tr td div div div span  ,x2x is a cool little utility. It lets you control two computers easily with one mouse/keyboard. I made an icon in my quick launch to the following:,1,12
+html body text div table tbody tr td div div div tt span  ,"ssh -X ian@`kdialog --inputbox 'Connect with what host?' some.host` ""x2x -west -from :0.""",1,13
+html body text div table tbody tr td div div div span  ,And with that I can just set my laptop down and start using my desktop's mouse and keyboard to control both.,1,12
+html body text div table tbody tr td div div div h3 span  ,Kirksville,1,13
+html body text div table tbody tr td div div div span  ,"I'm returning to Kirksville, Missouri tomorrow. Its felt like a long time even though it was only a half week: it will be good to be back.",1,12
+html body text div table tbody tr td div div div span  ,Posted by,1,12
+html body text div table tbody tr td div div div a span  ,Ian Monroe,1,13
+html body text div table tbody tr td div div div span  ,in,1,12
+html body text div table tbody tr td div div div a span  ,eean,1,13
+html body text div table tbody tr td div div div span  ,at,1,12
+html body text div table tbody tr td div div div a span  ,00:06,1,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Comment (1),0,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),0,13
+html body text div table tbody tr td div h3 span  ,"Sunday, November 19. 2006",1,11
+html body text div table tbody tr td div h4 a span  ,eean: dang it Jeff,1,12
+html body text div table tbody tr td div div div span  ,--> jefferai has joined this channel (n=jeff@amarok/developer/mitchell).,1,12
+html body text div table tbody tr td div div div span  ,"*** jefferai sets the channel topic to ""jefferai got his Wii -- see all you suckaz l8tr :: We're pulling a Linus: 1.4 will be our 2.6. Add features!"".",1,12
+html body text div table tbody tr td div div div span jefferai  ,Wiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii,1,13
+html body text div table tbody tr td div div div span span  ,I've also noticed that my friend Josh is uncharacteristically not signed into AIM. I think I might know why.,1,13
+html body text div table tbody tr td div div div span  ,Posted by,1,12
+html body text div table tbody tr td div div div a span  ,Ian Monroe,1,13
+html body text div table tbody tr td div div div span  ,in,1,12
+html body text div table tbody tr td div div div a span  ,eean,1,13
+html body text div table tbody tr td div div div span  ,at,1,12
+html body text div table tbody tr td div div div a span  ,14:16,1,13
+html body text div table tbody tr td div div div span  ,|,1,12
+html body text div table tbody tr td div div div a span  ,Comments (0),1,13
+html body text div table tbody tr td div div div span  ,|,1,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),1,13
+html body text div table tbody tr td div h3 span  ,"Tuesday, November 14. 2006",1,11
+html body text div table tbody tr td div h4 a span  ,"muesli: Know C++, Maybe Even Love Qt4?",1,12
+html body text div table tbody tr td div div div span  ,Someone out there looking for a new job opportunity? Enjoy accessing a huge music-library? Even more important: always wanted a red user-icon on Last.fm?,1,12
+html body text div table tbody tr td div div div a span  ,"There you go, start working at Last.fm as a C++ Developer.",1,13
+html body text div table tbody tr td div div div span  ,"You will be working on the Last.fm Client, a Qt4-driven piece of software for Windows, Linux and OS X. Want more info? Click the link. It's worth it. Oh, and it's fun.",1,12
+html body text div table tbody tr td div div div span  ,Now I wanna see you guys applying,1,12
+html body text div table tbody tr td div div div span  ,"cheers,",1,12
+html body text div table tbody tr td div div div span  ,muesli,1,12
+html body text div table tbody tr td div div div span  ,Posted by,1,12
+html body text div table tbody tr td div div div span  ,in,1,12
+html body text div table tbody tr td div div div a span  ,muesli,1,13
+html body text div table tbody tr td div div div span  ,at,1,12
+html body text div table tbody tr td div div div a span  ,17:38,1,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Comments (0),0,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),0,13
+html body text div table tbody tr td div h3 span  ,"Friday, November 10. 2006",1,11
+html body text div table tbody tr td div h4 a span  ,sebr: Announcing Tripod,1,12
+html body text div table tbody tr td div div div p span  ,"I am proud to announce the first release of Tripod, the premier application for managing photos on your iPod.",1,13
+html body text div table tbody tr td div div div p a span  ,http://www.sebruiz.net/tripod/,1,14
+html body text div table tbody tr td div div div p span  ,"Tripod is targeted towards a KDE environment, but requires only kdelibs and libgpod (cvs), so it is easy to use in any environment. Currently, Tripod allows for creating, removing, renaming of photo albums, as well as adding and removing of photos to albums.",1,13
+html body text div table tbody tr td div div div p span  ,"The application is very stable, but released as beta software since it is the first public offering",1,13
+html body text div table tbody tr td div div div p span  ,.,1,13
+html body text div table tbody tr td div div div p span  ,Enjoy!,1,13
+html body text div table tbody tr td div div div span  ,Posted by,1,12
+html body text div table tbody tr td div div div a span  ,Seb Ruiz,1,13
+html body text div table tbody tr td div div div span  ,in,1,12
+html body text div table tbody tr td div div div a span  ,sebr,1,13
+html body text div table tbody tr td div div div span  ,at,1,12
+html body text div table tbody tr td div div div a span  ,08:41,1,13
+html body text div table tbody tr td div div div span  ,|,1,12
+html body text div table tbody tr td div div div a span  ,Comments (0),1,13
+html body text div table tbody tr td div div div span  ,|,1,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),1,13
+html body text div table tbody tr td div h3 span  ,"Thursday, November 2. 2006",1,11
+html body text div table tbody tr td div h4 a span  ,apachelogger: Timeoutlogger,1,12
+html body text div table tbody tr td div div div span  ,"Some people might know that since about a month I'm suffering from no, or actually very low, motivation to do anything. As result of this I decided to take a timeout from Amarok, KDE and FOSS development/management, for a not yet known period of time.",1,12
+html body text div table tbody tr td div div div span  ,This will most likely start after release of Amarok 1.4.4,1,12
+html body text div table tbody tr td div div div span  ,"I will unsubscribe from every mailing list, not aggregate planets or blogs or IT related news, not join any IRC channel, not log into my jabber account @ kdetalk, not answer any mail about Amarok, KDE or FOSS (as long as it's not really important to do so) and probably some more I didn't think of as I also stopped drinking coffee (doctor's advice).",1,12
+html body text div table tbody tr td div div div span  ,"Now, why do I do this?",1,12
+html body text div table tbody tr td div div div span  ,"Mainly because I have far too much responsibilities right now (not only in FOSS), and this is putting a lot of pressure on me, but also because I want to get an all new view at the whole open source movement, and last but not least, because I want to spend more time on learning French",1,12
+html body text div table tbody tr td div div div span  ,"So, watch out for Amarok 1.4.4",1,12
+html body text div table tbody tr td div div div span  ,Posted by,1,12
+html body text div table tbody tr td div div div a span  ,Harald Sitter,1,13
+html body text div table tbody tr td div div div span  ,in,1,12
+html body text div table tbody tr td div div div a span  ,apachelogger,1,13
+html body text div table tbody tr td div div div span  ,at,1,12
+html body text div table tbody tr td div div div a span  ,14:32,1,13
+html body text div table tbody tr td div div div span  ,|,1,12
+html body text div table tbody tr td div div div a span  ,Comments (4),1,13
+html body text div table tbody tr td div div div span  ,|,1,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),1,13
+html body text div table tbody tr td div h4 a span  ,apachelogger: aKademy - Hoooray!,1,12
+html body text div table tbody tr td div div div span  ,Arrr.....,1,12
+html body text div table tbody tr td div div div span  ,"aKademy is starting in some days, and I'm kinda busy with doing last organization for the trip (even forgot to learn for the french test tomorrow",1,12
+html body text div table tbody tr td div div div span  ,- it's not that easy to go to Vienna (Duesseldor,1,12
+html body text div table tbody tr td div div div span  ,f was easier at least,1,12
+html body text div table tbody tr td div div div span  ,I will arrive on Firday 13:55 @ Dublin Airport (check,1,12
+html body text div table tbody tr td div div div a span  ,the wiki,1,13
+html body text div table tbody tr td div div div span  ,) and will le,1,12
+html body text div table tbody tr td div div div span  ,ave on 7:30 the following M,1,12
+html body text div table tbody tr td div div div span  ,onday - and currently have no clue how to go to hostel or college or anywhere,1,12
+html body text div table tbody tr td div div div span  ,"Anyway, to make it easy for everyone to recognize and lead me to the right direction, here's a short description: tux cap on my head, big Kay on my black t-shirt, black trouser, black shoes, laptop bag on the righten side, (sliver colored) backpack on the back, a Kay pin on my jacket and no clue of anything but location of next coffee shop...",1,12
+html body text div table tbody tr td div div div span  ,If you still have no idea how I look like:,1,12
+html body text div table tbody tr td div div div span  ,O,1,12
+html body text div table tbody tr td div div div span a span  ,my school,1,14
+html body text div table tbody tr td div div div span span  ,"for making it possible to travel on Firday and Monday, so that I can at least enjoy the weekend of this year's KDE Conference.",1,13
+html body text div table tbody tr td div div div span span span span  ,"(BTW: there will be no Amarok release, live from aKademy - 1.4.3 was just too ASAP and .4 is not finished - maybe a special aKademy snapshot, though I wonder about the sense...)",1,15
+html body text div table tbody tr td div div div span  ,Posted by,1,12
+html body text div table tbody tr td div div div a span  ,Harald Sitter,1,13
+html body text div table tbody tr td div div div span  ,in,1,12
+html body text div table tbody tr td div div div a span  ,apachelogger,1,13
+html body text div table tbody tr td div div div span  ,at,1,12
+html body text div table tbody tr td div div div a span  ,14:32,1,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Comments (0),0,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),0,13
+html body text div table tbody tr td div h4 a span  ,"apachelogger: Re: the kay, the dee, the ee on the tee vee",1,12
+html body text div table tbody tr td div div div span  ,"So,",1,12
+html body text div table tbody tr td div div div a span  ,Aaron,1,13
+html body text div table tbody tr td div div div span  ,"asked in first of his latest tripple-blog-post-mode-action (?) for visitor bump on march 15, 2005.",1,12
+html body text div table tbody tr td div div div span  ,As we didn't use Urchin analytics back then (as we usually only use Google services if KDE doesn't offer them,1,12
+html body text div table tbody tr td div div div span  ,"- and only Google services in that case) I can't show lovely graphics and big load of background information, but I guess Webalizer also does a good job",1,12
+html body text div table tbody tr td div div div span  ,In particular:,1,12
+html body text div table tbody tr td div div div span  ,Posted by,1,12
+html body text div table tbody tr td div div div a span  ,Harald Sitter,1,13
+html body text div table tbody tr td div div div span  ,in,1,12
+html body text div table tbody tr td div div div a span  ,apachelogger,1,13
+html body text div table tbody tr td div div div span  ,at,1,12
+html body text div table tbody tr td div div div a span  ,14:32,1,13
+html body text div table tbody tr td div div div span  ,|,1,12
+html body text div table tbody tr td div div div a span  ,Comments (0),1,13
+html body text div table tbody tr td div div div span  ,|,1,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),1,13
+html body text div table tbody tr td div h4 a span  ,apachelogger: Dublin - something to look fwd...,1,12
+html body text div table tbody tr td div div div div span  ,"A friend recently went to Dublin for some days, and he brought interessting information with him.",1,13
+html body text div table tbody tr td div div div div span  ,"As we can see here, MS Windows wants to welcome everybody with a well known look, which just reminds on home. In fact, this is a research done by the government, to find out whether it is possible to control the amount of visitors with such welcome messages. I can tell you, since they started to welcome visitors like this, the amount of visitors got unhalved.",1,13
+html body text div table tbody tr td div div div div span  ,"Now, I, as an free desktop enthusiast, think we should prepare for the worst when entering the plain/train to Dublin. So, don't forget your",1,13
+html body text div table tbody tr td div div div div a span  ,Kubuntu CD's,1,14
+html body text div table tbody tr td div div div div span  ,", your",1,13
+html body text div table tbody tr td div div div div a span  ,Kay-Shirts,1,14
+html body text div table tbody tr td div div div div span  ,and last but not least the,1,13
+html body text div table tbody tr td div div div div a span  ,Kay's,1,14
+html body text div table tbody tr td div div div div span  ,. Also make sure you know,1,13
+html body text div table tbody tr td div div div div a span  ,every single detail,1,14
+html body text div table tbody tr td div div div div span  ,"about KDE, people usually take you more serious, if they notice you know what you're talking about",1,13
+html body text div table tbody tr td div div div span  ,Posted by,1,12
+html body text div table tbody tr td div div div a span  ,Harald Sitter,1,13
+html body text div table tbody tr td div div div span  ,in,1,12
+html body text div table tbody tr td div div div a span  ,apachelogger,1,13
+html body text div table tbody tr td div div div span  ,at,1,12
+html body text div table tbody tr td div div div a span  ,14:32,1,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Comments (0),0,13
+html body text div table tbody tr td div div div span  ,|,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),0,13
+html body text div table tbody tr td div span  ,"(Page 1 of 18, totaling 257 entries)",0,10
+html body text div table tbody tr td div a span  ,» next page,0,11
+html body text div table tbody tr td div h3 span  ,Amarok Links,0,11
+html body text div table tbody tr td div div a span  ,Amarok Website,0,12
+html body text div table tbody tr td div div a span  ,Amarok Wiki,0,12
+html body text div table tbody tr td div div a span  ,Amarok Forum,0,12
+html body text div table tbody tr td div h3 span  ,Calendar,0,11
+html body text div table tbody tr td div div table tbody tr td b a span, December '06,0,17
+html body text div table tbody tr td div div table tbody tr td span  ,Mon,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,Tue,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,Wed,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,Thu,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,Fri,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,Sat,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,Sun,0,15
+html body text div table tbody tr td div div table tbody tr td a span  ,1,0,16
+html body text div table tbody tr td div div table tbody tr td span  ,2,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,3,0,15
+html body text div table tbody tr td div div table tbody tr td a span  ,4,0,16
+html body text div table tbody tr td div div table tbody tr td span  ,5,0,15
+html body text div table tbody tr td div div table tbody tr td a span  ,6,0,16
+html body text div table tbody tr td div div table tbody tr td a span  ,7,0,16
+html body text div table tbody tr td div div table tbody tr td span  ,8,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,9,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,10,0,15
+html body text div table tbody tr td div div table tbody tr td a span  ,11,0,16
+html body text div table tbody tr td div div table tbody tr td span  ,12,0,15
+html body text div table tbody tr td div div table tbody tr td a span  ,13,0,16
+html body text div table tbody tr td div div table tbody tr td span  ,14,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,15,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,16,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,18,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,19,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,20,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,21,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,22,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,23,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,24,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,25,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,26,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,27,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,28,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,29,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,30,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,31,0,15
+html body text div table tbody tr td div h3 span  ,Quicksearch,0,11
+html body text div table tbody tr td div h3 span  ,Archives,0,11
+html body text div table tbody tr td div div a span  ,December 2006,0,12
+html body text div table tbody tr td div div a span  ,November 2006,0,12
+html body text div table tbody tr td div div a span  ,October 2006,0,12
+html body text div table tbody tr td div div a span  ,Recent...,0,12
+html body text div table tbody tr td div div a span  ,Older...,0,12
+html body text div table tbody tr td div h3 span  ,Categories,0,11
+html body text div table tbody tr td div div form div ul li a span  ,apachelogger,0,16
+html body text div table tbody tr td div div form div ul li a span  ,aumuell,0,16
+html body text div table tbody tr td div div form div ul li a span  ,eean,0,16
+html body text div table tbody tr td div div form div ul li a span  ,jefferai,0,16
+html body text div table tbody tr td div div form div ul li a span  ,leinir,0,16
+html body text div table tbody tr td div div form div ul li a span  ,madpenguin8,0,16
+html body text div table tbody tr td div div form div ul li a span  ,markey,0,16
+html body text div table tbody tr td div div form div ul li a span  ,muesli,0,16
+html body text div table tbody tr td div div form div ul li a span  ,mxcl,0,16
+html body text div table tbody tr td div div form div ul li a span  ,oggb4mp3,0,16
+html body text div table tbody tr td div div form div ul li a span  ,sebr,0,16
+html body text div table tbody tr td div div form div ul li a span  ,shanachie,0,16
+html body text div table tbody tr td div div form div div a span  ,All categories,0,15
+html body text div table tbody tr td div h3 span  ,Syndicate This Blog,0,11
+html body text div table tbody tr td div div div a span  ,RSS 0.91 feed,0,13
+html body text div table tbody tr td div div div a span  ,RSS 1.0 feed,0,13
+html body text div table tbody tr td div div div a span  ,RSS 2.0 feed,0,13
+html body text div table tbody tr td div div div a span  ,ATOM 0.3 feed,0,13
+html body text div table tbody tr td div div div a span  ,ATOM 1.0 feed,0,13
+html body text div table tbody tr td div div div a span span  ,RSS 2.0 Comments,0,14
+html body text div table tbody tr td div h3 span  ,Blog Administration,0,11
+html body text div table tbody tr td div div a span  ,Open login screen,0,12
+html body text div table tbody tr td div h3 span  ,We Listen To...,0,11
+html body text div table tbody tr td div h3 span  ,Powered by,0,11

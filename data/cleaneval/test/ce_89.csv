@@ -1,0 +1,159 @@
+tag,content,label,depth
+html body text title span span  ,"Mechanism Description: Analyzing the Function, Appearance and Operation of an Object (Dennis G. Jerz, Seton Hill University)",0,6
+html body text div h2 span  ,Writing a Mechanism Description,1,6
+html body text div h2 span span  ,"Analyzing the Function, Appearance and Operation of an Object",1,7
+html body text div p span  ,>,0,6
+html body text div p a span  ,Resources,0,7
+html body text div p span  ,>,0,6
+html body text div p a span  ,Writing,0,7
+html body text div p span  ,>,0,6
+html body text div p a span  ,Technical,0,7
+html body text div p span  ,>,0,6
+html body text div blockquote p span  ,This document describes how to write a,1,7
+html body text div blockquote p b span  ,mechanism description,1,8
+html body text div blockquote p span  ,(also called an,1,7
+html body text div blockquote p b span  ,object description,1,8
+html body text div blockquote p span  ,). A mechanism description is a,1,7
+html body text div blockquote p a span  ,short report,1,8
+html body text div blockquote p span  ,designed to convey to the reader a technical understanding of the,1,7
+html body text div blockquote p b span  ,function,1,8
+html body text div blockquote p span  ,",",1,7
+html body text div blockquote p b span  ,appearance,1,8
+html body text div blockquote p span  ,", and",1,7
+html body text div blockquote p b span  ,operation,1,8
+html body text div blockquote p span  ,"of a particular object. In one or two sentences, give the reader a quick overview of these three elements, before you lauch into the details.",1,7
+html body text div table tbody tr td span font span  ,1998; first posted by,0,11
+html body text div table tbody tr td span font font a span  ,Dennis G. Jerz,0,13
+html body text div table tbody tr td p span  ,"A mechanism description analyzes (that is, subdivides into components for futher scrutiny) an object in space. Among the rhetorical patterns you might employ are",1,10
+html body text div table tbody tr td p a span  ,definition,1,11
+html body text div table tbody tr td p span  ,",",1,10
+html body text div table tbody tr td p a span  ,partition,1,11
+html body text div table tbody tr td p span  ,",",1,10
+html body text div table tbody tr td p a span  ,classification,1,11
+html body text div table tbody tr td p span  ,", and",1,10
+html body text div table tbody tr td p a span  ,comparison/contrast,1,11
+html body text div table tbody tr td p span  ,". When nothing else seems appropriate, you can always fall back on the",1,10
+html body text div table tbody tr td p a span  ,more-important-to-less-important,1,11
+html body text div table tbody tr td p span  ,strategy.,1,10
+html body text div table tbody tr td ul li b span  ,D,1,12
+html body text div table tbody tr td ul li strong span  ,on't,1,12
+html body text div table tbody tr td ul li strong em span  ,sell,1,13
+html body text div table tbody tr td ul li strong span  ,the object.,1,12
+html body text div table tbody tr td ul li span  ,"A technical writer is not required to persuade the reader that the object is wonderful, or valuable, or scary. But do mention the details. While you shouldn't say an object is ""adorably cute,"" you could mention that it ""resembles a cartoon cow wearing a pink ruffled skirt,"" and let your readers make the value judgment for themselves.",1,11
+html body text div table tbody tr td ul li strong span  ,Just,1,12
+html body text div table tbody tr td ul li strong em span  ,describe,1,13
+html body text div table tbody tr td ul li strong span  ,it.,1,12
+html body text div table tbody tr td ul li span  ,"Provide whatever level of detail your reader requires. Know your audience. A child safety organization may require an extremely detailed description of a simple toy (along with a separate process description for the manufacture of each component), while a military recruitment office might require only a few paragraphs about a complex nuclear submarine.",1,11
+html body text div table tbody tr td h3 span  ,Introduction,1,10
+html body text div table tbody tr td span  ,Your introduction should first,1,9
+html body text div table tbody tr td b span  ,state the purpose and scope of your document,1,10
+html body text div table tbody tr td span  ,". If your document is longer than a few paragraphs, the first paragraph should be a stand-alone summary, which briefly defines the object and explains its function, appearance, and operation.",1,9
+html body text div table tbody tr td table tbody tr td span  ,"Throughout the ages, mankind has found many uses for salt. Ancient tribes used it preserve meat; around the world it adds flavor to food; the Bible uses it as a symbol of zest for life. Salt became such an important part of people's diet that a way was needed to allow early nomads to carry salt with them on their perilous travels; such a device ideally also helped ancient gormandizers to distribute portions of the precious flavor enhancer onto their foods. Thus was born the salt shaker.",1,13
+html body text div table tbody tr td table tbody tr td font span  ,"Some beginning technical writers, who remember using grandiose words to please their high school English teachers, mistakenly believe that an introduction should provide a sort of cosmic overview. But a technical writer does not need to amuse or impress a reader -- somebody who wants to know exactly how much this salt shaker weighs does not need an ancient history lesson. Just provide the necessary information as efficiently as possible.",1,14
+html body text div table tbody tr td table tbody tr td span  ,"This document provides the manufacturing specifications for the entire line of Happy Homemaker ""Praying Cow"" salt shakers (Divine Bovine Industries model #00045). A hand-painted ceramic collector's item, the ""Praying Cow"" salt shaker represents a plump, cartoon-like cow, her head bowed as if in prayer. A blue flower-print skirt is painted onto the body of the animal. The salt is dispensed through the cow's matching bonnet, via a circular array of six small holes. The bonnet twists off to allow the consumer to fill the dispenser cavity.",1,13
+html body text div table tbody tr td table tbody tr td ul li font span  ,Note that this writer correctly begins by,1,16
+html body text div table tbody tr td table tbody tr td ul li font b span  ,introducing the reader to the document,1,17
+html body text div table tbody tr td table tbody tr td ul li font span  ,". We can assume that the rest of the document provides the measurements and other technical details, as promised by the opening sentence.",1,16
+html body text div table tbody tr td table tbody tr td ul li font span  ,The summary paragraph assumes that the reader already knows the definition and function of a salt shaker; this is permissible.,1,16
+html body text div table tbody tr td table tbody tr td ul li font span  ,"In this case, it would",1,16
+html body text div table tbody tr td table tbody tr td ul li font b span  ,not,1,17
+html body text div table tbody tr td table tbody tr td ul li font span  ,"be wise to omit a description of the appearance, and almost unforgivable not to include a picture.",1,16
+html body text div table tbody tr td table tbody tr td ul li font span  ,"Fortunately for civilization as we know it, this product is completely imaginary.",1,16
+html body text div table tbody tr td h3 span  ,Function,1,10
+html body text div table tbody tr td font span  ,A,1,10
+html body text div table tbody tr td span  ,"nswer the question, ""What does it do?"" If the object participates in a process, then you may need to write a brief process description as well. Keep this section brief -- chance are, if your reader is interested in a full mechanism description, he or she already has some idea what the object is for. Of course, if the object will be so unfamiliar to your reader that the rest of the document won't make sense, then provide whatever background information your reader is likely to need. (Sometimes the only way to do this is to show a prototype of your mechanism description to a test user... see """,1,9
+html body text div table tbody tr td a span  ,Usability Testing,0,10
+html body text div table tbody tr td span  ,"."")",0,9
+html body text div table tbody tr td h3 span  ,Appearance,1,10
+html body text div table tbody tr td span  ,"Answer the question, ""What does it look like?"" You may have to use",1,9
+html body text div table tbody tr td a span  ,classification,1,10
+html body text div table tbody tr td span  ,"to break the object up into its various components, and describe each in sequence.",1,9
+html body text div table tbody tr td table tbody tr td span  ,The original,1,13
+html body text div table tbody tr td table tbody tr td i span  ,Star Trek,1,14
+html body text div table tbody tr td table tbody tr td span  ,"Enterprise, TV's most famous fictional starship, has a saucer shaped primary hull, a cigar-shaped secondary hull, and two cylindrical warp pods. A horizontal strut suspends the secondary hull behind and below the saucer. At the flat, front of the suspended section is the deflector dish, and at the tapered back are clamshell doors that open to reveal a shuttle bay. Each of the two cylindrical power units is supported by a long pylon connected near the rear of the secondary hull. The pylons raise the power units above the plane of the horizontal dish, and extend them outwards roughly to the same width of the saucer. The pods themselves have red semicircular half-spheres on the front, and tapered cylindrical fixtures on the rear.",1,13
+html body text div table tbody tr td table tbody tr td span  ,"The content of the above section is fine, but it's a little hard to read. If you were to go in to any more detail, you should break it up into smaller paragraphs... If you start to break your object up into multiple nested layers of components, you should consider a",1,13
+html body text div table tbody tr td table tbody tr td b span  ,bulleted list,1,14
+html body text div table tbody tr td table tbody tr td span  ,", formatted so that your reader can more easily identify the level of detail you are describing in any given section. (See below.)",1,13
+html body text div table tbody tr td table tbody tr td span  ,The primary hull contains the following visible features:,1,13
+html body text div table tbody tr td table tbody tr td ul li b span  ,The bridge,1,16
+html body text div table tbody tr td table tbody tr td ul li span  ,"(a circular, domed structure at the center of the upper surface of the saucer).",1,15
+html body text div table tbody tr td table tbody tr td ul ul li span  ,"The first pilot episode, ""The Cage"" featured a special effects shot of the camera zooming in on the model to reveal the characters arranged on the bridge; the same shot also appeared as a kind of flashback in the later episode, ""The Menagerie, Part I.""",1,16
+html body text div table tbody tr td table tbody tr td ul ul li span  ,The set for the bridge on,1,16
+html body text div table tbody tr td table tbody tr td ul ul li i span  ,Star Trek: The Next Generation,1,17
+html body text div table tbody tr td table tbody tr td ul ul li span  ,"featured a ceiling window that revealed a starry backdrop, but no such window ever appeared in the original series.",1,16
+html body text div table tbody tr td table tbody tr td ul li b span  ,Lighting effects,1,16
+html body text div table tbody tr td table tbody tr td ul li span  ,"(including blinking running lights, as well as smaller lights representing windows)",1,15
+html body text div table tbody tr td table tbody tr td ul li b span  ,Vessel identification,1,16
+html body text div table tbody tr td table tbody tr td ul li span  ,"(black painted capital letters on the upper and lower surfaces of the saucer, reading ""U.S.S. Enterprise"" and ""NCC-1701"")",1,15
+html body text div table tbody tr td table tbody tr td ul li b span  ,Phasers and photon torpedoes,1,16
+html body text div table tbody tr td table tbody tr td ul li span  ,(usually depicted as emanating from a spot near the center of the underside of the saucer),1,15
+html body text div table tbody tr td h3 span  ,Operation,1,10
+html body text div table tbody tr td span  ,"Answer the question, ""How does it work?""",1,9
+html body text div table tbody tr td p span  ,You could also productively think of this section as the,1,10
+html body text div table tbody tr td p b span  ,conclusion,1,11
+html body text div table tbody tr td p span  ,"to your paper. Rarely will you gain anything by writing a lame, strained conclusion like, ""Therefore, this paper has shown that the PickMaster 2000 Electric Toothpick Dispenser can be an exciting part of the environment around the cash register in any restaurant.""",1,10
+html body text div table tbody tr td p span  ,"Even if an object does not have an exciting or visible method of operating (such as a decorative item or a simple brick), you should still explain",1,10
+html body text div table tbody tr td p b span  ,how its design helps it to fulfill its function,1,11
+html body text div table tbody tr td p span  ,.,1,10
+html body text div table tbody tr td p font span  ,"Fall, 1998 -- written by",0,11
+html body text div table tbody tr td p font a span  ,Dennis G. Jerz,0,12
+html body text div table tbody tr td p font span  ,14 Feb 2001 -- posted in ORR,0,11
+html body text div table tbody tr td p font span  ,12 Sep 2003 -- minor updates,0,11
+html body text div p a span  ,D.G. Jerz,0,7
+html body text div p span  ,>,0,6
+html body text div p a span  ,Resources,0,7
+html body text div p span  ,>,0,6
+html body text div p a span  ,Writing,0,7
+html body text div p span  ,>,0,6
+html body text div p a span  ,Technical,0,7
+html body text div p span  ,>,0,6
+html body text div table tbody tr td a strong font span  ,D.G. Jerz,0,12
+html body text div table tbody tr td font strong a font span  ,Seton Hill University,0,13
+html body text div table tbody tr td table tbody tr td div strong font a span  ,Contact,0,17
+html body text div table tbody tr td table tbody tr td div strong font a span  ,About,0,17
+html body text div table tbody tr td table tbody tr td div strong font a span  ,F.A.Q.,0,17
+html body text div table tbody tr td strong a font span  ,Weblog,0,12
+html body text div table tbody tr td div strong a font span  ,Teaching,0,13
+html body text div table tbody tr td table tbody tr td div a span  ,LA100,0,15
+html body text div table tbody tr td table tbody tr td div a span  ,EL200,0,15
+html body text div table tbody tr td table tbody tr td div a span  ,EL236,0,15
+html body text div table tbody tr td table tbody tr td div a span  ,EL405,0,15
+html body text div table tbody tr td strong a font font span  ,Resources,0,13
+html body text div table tbody tr td table tbody tr td div strong font a span  ,Writing,0,17
+html body text div table tbody tr td table tbody tr td div strong font a span  ,Design,0,17
+html body text div table tbody tr td table tbody tr td div strong font a span  ,iFiction,0,17
+html body text div table tbody tr td table tbody tr td div strong font a span  ,Lit/Drama,0,17
+html body text div table tbody tr td div font strong span  ,On Jerz's Site,0,12
+html body text div table tbody tr td p strong a font span  ,Blurbs,0,13
+html body text div table tbody tr td p font span  ,:,0,11
+html body text div table tbody tr td p font font span  ,Short previews help online readers evaluate links.,0,12
+html body text div table tbody tr td p font strong a font span  ,E-Mail Tips,0,14
+html body text div table tbody tr td p font span  ,"Polite, effective, professional writing.",0,11
+html body text div table tbody tr td p font a strong span  ,Academic Blogging,0,13
+html body text div table tbody tr td p font a strong span  ,First Amendment,0,13
+html body text div table tbody tr td p font a b span  ,Memes & Weblogs,0,13
+html body text div table tbody tr td p font a b span  ,What If There Were No Interactive Fiction?,0,13
+html body text div table tbody tr td p font span  ,"Alternate gaming history, without text adventures.",0,11
+html body text div table tbody tr td p font a strong span  ,New Media Journalism,0,13
+html body text div table tbody tr td p font span  ,Seton Hill University's weblog aggregator.,0,11
+html body text div table tbody tr td center b font span  ,For Students,0,12
+html body text div table tbody tr td p font strong a span  ,MLA Style B,0,13
+html body text div table tbody tr td p font strong a font span  ,ibliography,0,14
+html body text div table tbody tr td p font strong a span  ,B,0,13
+html body text div table tbody tr td p font strong a font span  ,uilder,0,14
+html body text div table tbody tr td p font strong a font span  ,Taking Notes,0,14
+html body text div table tbody tr td p font font span  ,Tips for college success.,0,12
+html body text div table tbody tr td p font strong a font span  ,R,0,14
+html body text div table tbody tr td p font strong a font font span  ,esearch,0,15
+html body text div table tbody tr td p font strong a font span  ,P,0,14
+html body text div table tbody tr td p font strong a font font span  ,apers,0,15
+html body text div table tbody tr td p font span  ,Begin with good sources.,0,11
+html body text div table tbody tr td p font a font strong span  ,Timed Essays,0,14
+html body text div table tbody tr td p font span  ,Crunch-time survival tips.,0,11
+html body text div table tbody tr td p font strong a font span  ,Writing Tips,0,14
+html body text div table tbody tr td p font a span  ,Active,0,12
+html body text div table tbody tr td p font a font span  ,and,0,13
+html body text div table tbody tr td p font a span  ,Passive Verbs,0,12
+html body text div table tbody tr td p font a span  ,"Show, Don't (Just) Tell",0,12
+html body text div table tbody tr td p font a span  ,Thesis Statements,0,12
+html body text div table tbody tr td p font a span  ,MLA Style,0,12

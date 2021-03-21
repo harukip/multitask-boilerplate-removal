@@ -1,0 +1,1228 @@
+tag,content,label,depth
+html body text title span span  ,"SoftLookup.com - Welcome to one of the world's biggest and fastest download site. lot of shareware, freeware, utilities, Internet, and desktop software.",0,6
+html body text table tbody tr td table tbody tr td font b span  ,Free Tutorials,0,14
+html body text table tbody tr td table tbody tr td b a font span  ,HTML,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn HTML,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn CSS,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn XML,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn WML,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Database,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn Access,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn Data-VB,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn Oracle,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn SQL,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Programming,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn C++,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn JavaScript,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn Vbscript,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn VisualBasic,0,15
+html body text table tbody tr td table tbody tr td center table tbody tr td center h1 font span  ,- Chapter 3 -,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td center h1 font span  ,"Expressions, Conditions, and Operators",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h2 font span  ,Objectives,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"On Chapter 2, ""Introduction to the Query: The",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Statement,""you used",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FROM,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,to manipulate data in interesting (anduseful) ways. ToChapter you learn more about,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FROM,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"and expandthe basic query with some new terms to go with query, table, and row, as well asa new clause and a group of handy items called operators. When the sun sets on Day3, you will",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td ul li span  ,Know what an expression is and how to use it,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td ul li span  ,Know what a condition is and how to use it,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td ul li span  ,Be familiar with the basic uses of the,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td ul li tt span  ,WHERE,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td ul li span  ,clause,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td ul li span  ,"Be able to use arithmetic, comparison, character, logical, and set operators",1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td ul li span  ,Have a working knowledge of some miscellaneous operators,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,"We used Oracle's Personal Oracle7 to generate today's examples. Other implementations of SQL may differ slightly in the way in which commands are entered or output is displayed, but the results are basically the same for all implementations that conform to the ANSI standard.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h2 font span  ,Expressions,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The definition of an expression is simple: An,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p i span  ,expression,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"returns a value.Expression types are very broad, covering different data types such as String, Numeric,and Boolean. In fact, pretty much anything following a clause (",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,or,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FROM,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", for example) is an expression. In the following example",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,amount,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is an expression that returns the value contained in the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,amount,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,column.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SELECT amount FROM checks;,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,In the following statement,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,"NAME, ADDRESS, PHONE",1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,ADDRESSguide,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,are expressions:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,"SELECT NAME, ADDRESS, PHONEFROM ADDRESSguide;",1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Now, examine the following expression:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,WHERE NAME = 'BROWN',1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"It contains a condition,",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NAME = 'BROWN',1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", which is an example of a Booleanexpression.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NAME = 'BROWN',1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,will be either,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,TRUE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,or,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FALSE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,",depending on the condition",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,=,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h2 font span  ,Conditions,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"If you ever want to find a particular item or group of items in your database,you need one or more conditions. Conditions are contained in the",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"clause.In the preceding example, the condition is",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME = 'BROWN',1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,To find everyone in your organization who worked more than,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,100,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"hourslast month, your condition would be",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NUMBEROFHOURS > 100,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Conditions enable you to make selective queries. In their most common form, conditionscomprise a variable, a constant, and a comparison operator. In the first examplethe variable is",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NAME,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", the constant is",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,'BROWN',1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", and the comparisonoperator is",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,=,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. In the second example the variable is,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NUMBEROFHOURS,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,",the constant is",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,100,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", and the comparison operator is",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,>,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. You needto know about two more elements before you can write conditional queries: the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause and operators.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,The WHERE Clause,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The syntax of the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause is,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,SYNTAX:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,WHERE,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,",",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FROM,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", and",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,are the three most frequentlyused clauses in SQL.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,simply causes your queries to be more selective.Without the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"clause, the most useful thing you could do with a queryis display all records in the selected table(s). For example:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM BIKES;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,lists all rows of data in the table,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,BIKES,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME FRAMESIZE COMPOSITION MILESRIDDEN TYPE-------------- --------- ------------ ----------- -------TREK 2300 22.5 CARBON FIBER 3500 RACINGBURLEY 22 STEEL 2000 TANDEMGIANT 19 STEEL 1500 COMMUTERFUJI 20 STEEL 500 TOURINGSPECIALIZED 16 STEEL 100 MOUNTAINCANNONDALE 22.5 ALUMINUM 3000 RACING,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"If you wanted a particular bike, you could type",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM BIKES WHERE NAME = 'BURLEY';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,which would yield only one record:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME FRAMESIZE COMPOSITION MILESRIDDEN TYPE-------------- --------- -------------- ----------- -------BURLEY 22 STEEL 2000 TANDEM,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,This simple example shows how you can place a condition on the data that you wantto retrieve.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h2 font span  ,Operators,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Operators are the elements you use inside an expression to articulate how youwant specified conditions to retrieve data. Operators fall into six groups: arithmetic,comparison, character, logical, set, and miscellaneous.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,Arithmetic Operators,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The arithmetic operators are plus (,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,+,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"), minus (-), divide (",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,/,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"),multiply (",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,*,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"), and modulo (",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,%,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,). The first four are self-explanatory.Modulo returns the integer remainder of a division. Here are two examples:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,5 % 2 = 16 % 2 = 0,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"The modulo operator does not work with data types that have decimals, such asReal or Number.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"If you place several of these arithmetic operators in an expression without anyparentheses, the operators are resolved in this order: multiplication, division,modulo, addition, and subtraction. For example, the expression",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2*6+9/3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,equals,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,12 + 3 = 15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"However, the expression",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2 * (6 + 9) / 3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,equals,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2 * 15 / 3 = 10,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Watch where you put those parentheses! Sometimes the expression does exactly whatyou tell it to do, rather than what you want it to do.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The following sections examine the arithmetic operators in some detail and giveyou a chance to write some queries.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Plus (+),1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,You can use the plus sign in several ways. Type the following statement to displaythe,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,PRICE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,table:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PRICE;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ----------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45CHEESE .89APPLES .23,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Now type:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT ITEM, WHOLESALE, WHOLESALE + 0.15 FROM PRICE;",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Here the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,+,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,adds 15 cents to each price to produce the following:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE WHOLESALE+0.15-------------- --------- --------------TOMATOES .34 .49POTATOES .51 .66BANANAS .67 .82TURNIPS .45 .60CHEESE .89 1.04APPLES .23 .38,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,What is this last column with the unattractive column heading,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHOLESALE+0.15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"?It's not in the original table. (Remember, you used",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,*,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,in the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"clause, which causes all the columns to be shown.) SQL allows you to create a virtualor derived column by combining or modifying existing columns.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Retype the original entry:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PRICE;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The following table results:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ---------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45CHEESE .89APPLES .23,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The output confirms that the original data has not been changed and that the columnheading,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHOLESALE+0.15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"is not a permanent part of it. In fact, the columnheading is so unattractive that you should do something about it.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Type the following:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT ITEM, WHOLESALE, (WHOLESALE + 0.15) RETAIL FROM PRICE;",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Here's the result:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE RETAIL-------------- --------- ------TOMATOES .34 .49POTATOES .51 .66BANANAS .67 .82TURNIPS .45 .60CHEESE .89 1.04APPLES .23 .38,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"This is wonderful! Not only can you create new columns, but you can also renamethem on the fly. You can rename any of the columns using the syntax",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,column_namealias,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,(note the space between,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,column_name,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,alias,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,).,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"For example, the query",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT ITEM PRODUCE, WHOLESALE, WHOLESALE + 0.25 RETAIL FROM PRICE;",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,renames the columns as follows:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,PRODUCE WHOLESALE RETAIL-------------- --------- ---------TOMATOES .34 .59POTATOES .51 .76BANANAS .67 .92TURNIPS .45 .70CHEESE .89 1.14APPLES .23 .48,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,Some implementations of SQL use the syntax,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,. The preceding example would be written as follows:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,SQL>,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font b span  ,"SELECT ITEM = PRODUCE, WHOLESALE, WHOLESALE + 0.25 = RETAIL, FROM PRICE;",1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote p span  ,Check your implementation for the exact syntax.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"You might be wondering what use aliasing is if you are not using command-lineSQL. Fair enough. Have you ever wondered how report builders work? Someday, whenyou are asked to write a report generator, you'll remember this and not spend weeksreinventing what Dr. Codd and IBM have wrought.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"So far, you have seen two uses of the plus sign. The first instance was the useof the plus sign in the",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause to perform a calculation on the dataand display the calculation. The second use of the plus sign is in the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause. Using operators in the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause gives you more flexibility whenyou specify conditions for retrieving data.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"In some implementations of SQL, the plus sign does double duty as a characteroperator. You'll see that side of the plus a little later today.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Minus (-),1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Minus also has two uses. First, it can change the sign of a number. You can usethe table",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,HILOW,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,to demonstrate this function.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM HILOW;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,STATE HIGHTEMP LOWTEMP---------- -------- ---------CA -50 120FL 20 110LA 15 99ND -70 101NE -60 100,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"For example, here's a way to manipulate the data:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT STATE, -HIGHTEMP LOWS, -LOWTEMP HIGHS FROM HILOW;",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,STATE LOWS HIGHS---------- -------- ---------CA 50 -120FL -20 -110LA -15 -99ND 70 -101NE 60 -100,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The second (and obvious) use of the minus sign is to subtract one column fromanother. For example:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT STATE,",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"HIGHTEMP LOWS,",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"LOWTEMP HIGHS,",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,4,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,(LOWTEMP - HIGHTEMP) DIFFERENCE,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,5,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM HILOW;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,STATE LOWS HIGHS DIFFERENCE---------- -------- -------- ----------CA -50 120 170FL 20 110 90LA 15 99 84ND -70 101 171NE -60 100 160,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Notice the use of aliases to fix the data that was entered incorrectly. This remedyis merely a temporary patch, though, and not a permanent fix. You should see to itthat the data is corrected and entered correctly in the future. On Chapter 21, ""CommonSQL Mistakes/Errors and Resolutions,"" you'll learn how to correct bad data.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,This query not only fixed (at least visually) the incorrect data but also createda new column containing the difference between the highs and lows of each state.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"If you accidentally use the minus sign on a character field, you get somethinglike this:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT -STATE FROM HILOW;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ERROR:ORA-01722: invalid numberno rows selected,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"The exact error message varies with implementation, but the result is the same.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Divide (/),1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The division operator has only the one obvious meaning. Using the table,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,PRICE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,",type the following:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PRICE;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ---------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45CHEESE .89APPLES .23,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,You can show the effects of a two-for-one sale by typing the next statement:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT ITEM, WHOLESALE, (WHOLESALE/2) SALEPRICE 2 FROM PRICE;",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE SALEPRICE-------------- --------- ---------TOMATOES .34 .17POTATOES .51 .255BANANAS .67 .335TURNIPS .45 .225CHEESE .89 .445APPLES .23 .115,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The use of division in the preceding,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,statement is straightforward(except that coming up with half pennies can be tough).,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Multiply (*),1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"The multiplication operator is also straightforward. Again, using the",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,PRICE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"table, type the following:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PRICE;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ---------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45CHEESE .89APPLES .23,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,This query changes the table to reflect an across-the-board 10 percent discount:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT ITEM, WHOLESALE, WHOLESALE * 0.9 NEWPRICE FROM PRICE;",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE NEWPRICE-------------- --------- --------TOMATOES .34 .306POTATOES .51 .459BANANAS .67 .603TURNIPS .45 .405CHEESE .89 .801APPLES .23 .207,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,These operators enable you to perform powerful calculations in a,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,statement.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Modulo (%),1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The modulo operator returns the integer remainder of the division operation. Usingthe table,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,REMAINS,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", type the following:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM REMAINS;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NUMERATOR DENOMINATOR--------- ------------ 10 5 8 3 23 9 40 17 1024 16 85 34,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"You can also create a new column,",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,REMAINDER,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", to hold the values of",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NUMERATOR% DENOMINATOR,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT NUMERATOR, DENOMINATOR, NUMERATOR%DENOMINATOR REMAINDER FROM REMAINS;",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NUMERATOR DENOMINATOR REMAINDER--------- ----------- --------- 10 5 0 8 3 2 23 9 5 40 17 6 1024 16 0 85 34 17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Some implementations of SQL implement modulo as a function called,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,MOD,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"(see Chapter 4, ""Functions: Molding the Data You Retrieve""). The followingstatement produces results that are identical to the results in the preceding statement:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT NUMERATOR, DENOMINATOR, MOD(NUMERATOR,DENOMINATOR) REMAINDER FROM REMAINS;",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Precedence,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,This section examines the use of precedence in a,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,statement. Usingthe database,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,PRECEDENCE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", type the following:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PRECEDENCE;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,N1 N2 N3 N4--------- --------- --------- --------- 1 2 3 4 13 24 35 46 9 3 23 5 63 2 45 3 7 2 1 4,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Use the following code segment to test precedence:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT 2 N1+N2*N3/N4, 3 (N1+N2)*N3/N4, 4 N1+(N2*N3)/N4 5 FROM PRECEDENCE;",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,N1+N2*N3/N4 (N1+N2)*N3/N4 N1+(N2*N3)/N4----------- ------------- ------------- 2.5 2.25 2.5 31.26087 28.152174 31.26087 22.8 55.2 22.8 93 975 93 7.5 2.25 7.5,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Notice that the first and last columns are identical. If you added a fourth column,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,N1+N2* (N3/N4),1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", its values would also be identical to those of the currentfirst and last columns.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,Comparison Operators,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"True to their name, comparison operators compare expressions and return one ofthree values:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,TRUE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,",",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FALSE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", or",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Unknown,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. Wait a minute!,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Unknown,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,?,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,TRUE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FALSE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"are self-explanatory, but whatis",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Unknown,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,?,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,To understand how you could get an,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Unknown,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", you need to know a littleabout the concept of",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. In database terms,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is the absenceof data in a field. It does not mean a column has a zero or a blank in it. A zeroor a blank is a value.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,means nothing is in that field. If you makea comparison like,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Field = 9,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and the only value for,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Field,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,",the comparison will come back",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Unknown,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. Because,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Unknown,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"is an uncomfortablecondition, most flavors of SQL change",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Unknown,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,to,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FALSE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"and providea special operator,",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,IS NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", to test for a",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,condition.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Here's an example of,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,: Suppose an entry in the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,PRICE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,tabledoes not contain a value for,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHOLESALE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. The results of a query might looklike this:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PRICE;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ----------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45CHEESE .89APPLES .23ORANGES,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Notice that nothing is printed out in the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHOLESALE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,field position fororanges. The value for the field,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHOLESALE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,for oranges is,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.The,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"is noticeable in this case because it is in a numeric column. However,if the",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,appeared in the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,ITEM,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"column, it would be impossibleto tell the difference between",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and a blank.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Try to find the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM PRICE,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE WHOLESALE IS NULL;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ----------ORANGES,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"As you can see by the output,",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,ORANGES,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is the only item whose value for,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHOLESALE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,or does not contain a value. What if you usethe equal sign (,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,=,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,) instead?,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PRICE WHERE WHOLESALE = NULL;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,no rows selected,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,You didn't find anything because the comparison,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHOLESALE = NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,returneda,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FALSE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,--the result was unknown. It would be more appropriate to use an,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,IS NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,instead of,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,=,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", changing the",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,statement to,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE WHOLESALE IS NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. In this case you would get all the rows where a,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,existed.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"This example also illustrates both the use of the most common comparison operator,the equal sign (",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,=,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"), and the playground of all comparison operators, the",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause. You already know about the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"clause, so here'sa brief look at the equal sign.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Equal (=),1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Earlier toChapter you saw how some implementations of SQL use the equal sign in the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause to assign an alias. In the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"clause, the equalsign is the most commonly used comparison operator. Used alone, the equal sign isa very convenient way of selecting one value out of many. Try this:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FRIENDS;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MEZA AL 200 555-2222 UKMERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Let's find JD's row. (On a short list this task appears trivial, but you may havemore friends than we do--or you may have a list with thousands of records.)",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FRIENDS WHERE FIRSTNAME = 'JD';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MAST JD 381 555-6767 LA 23456,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,We got the result that we expected. Try this:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FRIENDS WHERE FIRSTNAME = 'AL';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MEZA AL 200 555-2222 UK,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,Here you see that,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,=,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,can pull in multiple records. Notice that,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,ZIP,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,is blank on the second record.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,ZIP,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,"is a character field (you learn how to create and populate tables on Chapter 8, ""Manipulating Data""), and in this particular record the",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,demonstrates that a,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,in a character field is impossible to differentiate from a blank field.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Here's another very important lesson concerning case sensitivity:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FRIENDS WHERE FIRSTNAME = 'BUD';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,FIRSTNAME--------------BUD1 row selected.,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Now try this:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,select * from friends where firstname = 'Bud';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,no rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Even though SQL syntax is not case sensitive, data is. Most companies prefer tostore data in uppercase to provide data consistency. You should always store dataeither in all uppercase or in all lowercase. Mixing case creates difficulties whenyou try to retrieve accurate data.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Greater Than (>) and Greater Than or Equal To (>=),1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The greater than operator (,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,>,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,) works like this:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FRIENDS WHERE AREACODE > 300;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font b span  ,OUTPUT:,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,This example found all the area codes greater than (but not including),1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,300,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.To include,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,300,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", type this:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE AREACODE >= 300;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,With this change you get area codes starting at,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,300,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and going up. Youcould achieve the same results with the statement,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,AREACODE > 299,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,Notice that no quotes surround,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,300,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,in this SQL statement. Number-defined fieldsnumber-defined fields do not require quotes.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Less Than (,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"As you might expect, these comparison operators work the same way as",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,>,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,>=,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"work, only in reverse:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE STATE < 'LA';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- ------BUNDY AL 100 555-1111 IL 22333MERRICK BUD 300 555-6666 CO 80212BULHER FERRIS 345 555-3223 IL 23332,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,How did,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,STATE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,get changed to,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,ST,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,"? Because the column has only two characters, the column name is shortened to two characters in the returned rows. If the column name had been",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,COWS,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,", it would come out",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,CO,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,. The widths of,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,AREACODE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,and,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,PHONE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,"are wider than their column names, so they are not truncated.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Wait a minute. Did you just use,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,<,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"on a character field? Of courseyou did. You can use any of these operators on any data type. The result varies bydata type. For example, use lowercase in the following state search:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE STATE < 'la';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MEZA AL 200 555-2222 UKMERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Uppercase is usually sorted before lowercase; therefore, the uppercase codes returnedare less than",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,'la',1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,". Again, to be safe, check your implementation.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,TIP:,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,"To be sure of how these operators will behave, check your language tables. Most PC implementations use the ASCII tables. Some other platforms use EBCDIC.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"To include the state of Louisiana in the original search, type",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE STATE <= 'LA';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Inequalities (< > or !=),1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"When you need to find everything except for certain data, use the inequality symbol,which can be either",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,< >,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,or,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,!=,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", depending on your SQL implementation.For example, to find everyone who is not",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,AL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", type this:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE FIRSTNAME <> 'AL';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"To find everyone not living in California, type this:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE STATE != 'CA';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MEZA AL 200 555-2222 UKMERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,"Notice that both symbols,",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,<>,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,and,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,!=,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,", can express ""not equals.""",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,Character Operators,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"You can use character operators to manipulate the way character strings are represented,both in the output of data and in the process of placing conditions on data to beretrieved. This section describes two character operators: the",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,LIKE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"operatorand the || operator, which conveys the concept of character concatenation.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,I Want to Be Like,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font tt span  ,LIKE,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"What if you wanted to select parts of a database that fit a pattern but weren'tquite exact matches? You could use the equal sign and run through all the possiblecases, but that process would be boring and time-consuming. Instead, you could use",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,LIKE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. Consider the following:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PARTS;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME LOCATION PARTNUMBER-------------- -------------- ----------APPENDIX MID-STOMACH 1ADAMS APPLE THROAT 2HEART CHEST 3SPINE BACK 4ANVIL EAR 5KIDNEY MID-BACK 6,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"How can you find all the parts located in the back? A quick visual inspectionof this simple table shows that it has two parts, but unfortunately the locationshave slightly different names. Try this:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM PARTS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE LOCATION LIKE '%BACK%';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME LOCATION PARTNUMBER-------------- -------------- ----------SPINE BACK 4KIDNEY MID-BACK 6,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,You can see the use of the percent sign (,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,%,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,) in the statement after,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,LIKE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.When used inside a,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,LIKE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"expression, % is a wildcard. What you asked forwas any occurrence of",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,BACK,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,in the column location. If you queried,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PARTS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE LOCATION LIKE 'BACK%';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,you would get any occurrence that started with,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,BACK,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME LOCATION PARTNUMBER-------------- -------------- ----------SPINE BACK 4,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,If you queried,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PARTS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE NAME LIKE 'A%';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,you would get any name that starts with,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,A,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME LOCATION PARTNUMBER-------------- -------------- ----------APPENDIX MID-STOMACH 1ADAMS APPLE THROAT 2ANVIL EAR 5,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Is,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,LIKE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,case sensitive? Try the next query to find out.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PARTS WHERE NAME LIKE 'a%';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,no rows selected,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The answer is yes. References to data are always case sensitive.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,What if you want to find data that matches all but one character in a certainpattern? In this case you could use a different type of wildcard: the underscore.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Underscore (_),1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The underscore is the single-character wildcard. Using a modified version of thetable,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FRIENDS,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", type this:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FRIENDS;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MEZA AL 200 555-2222 UKMERRICK UD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332PERKINS ALTON 911 555-3116 CA 95633BOSS SIR 204 555-2345 CT 95633,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,To find all the records where,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,STATE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,starts with,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,C,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", type thefollowing:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE STATE LIKE 'C_';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MERRICK BUD 300 555-6666 CO 80212PERKINS ALTON 911 555-3116 CA 95633BOSS SIR 204 555-2345 CT 95633,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,You can use several underscores in a statement:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE PHONE LIKE'555-6_6_';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The previous statement could also be written as follows:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE PHONE LIKE '555-6%';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Notice that the results are identical. These two wildcards can be combined. Thenext example finds all records with,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,L,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,as the second character:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE FIRSTNAME LIKE '_L%';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MEZA AL 200 555-2222 UKPERKINS ALTON 911 555-3116 CA 95633,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Concatenation (||),1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,||,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,(double pipe) symbol concatenates two strings. Try this:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT FIRSTNAME || LASTNAME ENTIRENAME,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font b span  ,OUTPUT:,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ENTIRENAME----------------------AL BUNDYAL MEZABUD MERRICKJD MASTFERRIS BULHERALTON PERKINSSIR BOSS,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,7 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Notice that,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,||,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is used instead of,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,+,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. If you use,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,+,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"totry to concatenate the strings, the SQL interpreter used for this example (PersonalOracle7) returns the following error:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT FIRSTNAME + LASTNAME ENTIRENAME FROM FRIENDS;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ERROR:ORA-01722: invalid number,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,It is looking for two numbers to add and throws the error,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,invalid number,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,when it doesn't find any.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,Some implementations of SQL use the plus sign to concatenate strings. Check your implementation.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Here's a more practical example using concatenation:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT LASTNAME || ',' || FIRSTNAME NAME FROM FRIENDS;",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,"NAME------------------------------------------------------BUNDY , ALMEZA , ALMERRICK , BUDMAST , JDBULHER , FERRISPERKINS , ALTONBOSS , SIR",1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,7 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,This statement inserted a comma between the last name and the first name.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,"Notice the extra spaces between the first name and the last name in these examples. These spaces are actually part of the data. With certain data types, spaces are right-padded to values less than the total length allocated for a field. See your implementation. Data types will be discussed on Chapter 9, ""Creating and Maintaining Tables.""",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"So far you have performed the comparisons one at a time. That method is fine forsome problems, but what if you need to find all the people at work with last namesstarting with P who have less than three days of vacation time?",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,Logical Operators,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,logical operatorsLogical operators separate two or more conditions in the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause of an SQL statement.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Vacation time is always a hot topic around the workplace. Say you designed a tablecalled,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,VACATION,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,for the accounting department:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM VACATION;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME EMPLOYEENUM YEARS LEAVETAKEN-------------- ----------- --------- ----------ABLE 101 2 4BAKER 104 5 23BLEDSOE 107 8 45BOLIVAR 233 4 80BOLD 210 15 100COSTALES 211 10 78,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Suppose your company gives each employee 12 days of leave each year. Using whatyou have learned and a logical operator, find all the employees whose names startwith",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,B,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and who have more than,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,50,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,days of leave coming.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT LASTNAME,",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,YEARS * 12 - LEAVETAKEN REMAINING,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM VACATION,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,4,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE LASTNAME LIKE 'B%',1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,5,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,AND,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,YEARS * 12 - LEAVETAKEN > 50;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME REMAINING-------------- ---------BLEDSOE 51BOLD 80,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,This query is the most complicated you have done so far. The,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause(lines 1 and 2) uses arithmetic operators to determine how many days of leave eachemployee has remaining. The normal precedence computes,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,YEARS * 12 - LEAVETAKEN,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.(A clearer approach would be to write,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,(YEARS * 12) - LEAVETAKEN,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.),1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,LIKE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is used in line 4 with the wildcard,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,%,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,to find all the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,B,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,names. Line 6 uses the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,>,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,to find all occurrences greater than,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,50,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The new element is on line 5. You used the logical operator,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,AND,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,to ensurethat you found records that met the criteria in lines 4 and 6.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,AND,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,AND,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,means that the expressions on both sides must be true to return,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,TRUE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,".If either expression is false,",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,AND,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,returns,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FALSE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,". For example,to find out which employees have been with the company for",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,5,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,years or lessand have taken more than,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,20,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"days leave, try this:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT LASTNAME,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM VACATION,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE YEARS <= 5,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,4,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,AND,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,5,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,LEAVETAKEN > 20 ;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME--------BAKERBOLIVAR,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,If you want to know which employees have been with the company for,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,5,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,years or more and have taken less than,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,50,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"percent of their leave, you couldwrite:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT LASTNAME WORKAHOLICS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM VACATION,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE YEARS >= 5,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,4,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,AND,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,5,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,((YEARS *12)-LEAVETAKEN)/(YEARS * 12) < 0.50;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,WORKAHOLICS---------------BAKERBLEDSOE,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Check these people for burnout. Also check out how we used the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,AND,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,tocombine these two conditions.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,OR,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,You can also use,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,OR,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"to sum up a series of conditions. If any of the comparisonsis true,",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,OR,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,returns,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,TRUE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,". To illustrate the difference, conditionsrunthe last query with",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,OR,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,instead of with,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,AND,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT LASTNAME WORKAHOLICS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM VACATION,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE YEARS >= 5,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,4,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,OR,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,5,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,((YEARS *12)-LEAVETAKEN)/(YEARS * 12) >= 0.50;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,WORKAHOLICS---------------ABLEBAKERBLEDSOEBOLDCOSTALES,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"The original names are still in the list, but you have three new entries (whowould probably resent being called workaholics). These three new names made the listbecause they satisfied one of the conditions.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,OR,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,requires that only oneof the conditions be true in order for data to be returned.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,NOT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NOT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,means just that. If the condition it applies to evaluates to,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,TRUE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,",",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NOT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,make it,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FALSE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. If the condition after the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NOT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FALSE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,",it becomes",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,TRUE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,". For example, the following",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,returns theonly two names not beginning with,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,B,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,in the table:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM VACATION,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE LASTNAME NOT LIKE 'B%';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font b span  ,OUTPUT:,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME EMPLOYEENUM YEARS LEAVETAKEN-------------- ----------- -------- ----------ABLE 101 2 4COSTALES 211 10 78,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NOT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,can also be used with the operator,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,IS,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,when applied to,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.Recall the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,PRICES,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,table where we put a,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,value in the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHOLESALE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,column opposite the item,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,ORANGES,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PRICE;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ---------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45CHEESE .89APPLES .23ORANGES,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,7 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,To find the non-,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"items, type this:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM PRICE,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE WHOLESALE IS NOT NULL;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ---------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45CHEESE .89APPLES .23,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,Set Operators,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"On Chapter 1, ""Introduction to SQL,"" you learned that SQL is based on thetheory of sets. The following sections examine set operators.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,UNION and UNION ALL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,UNION,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,returns the results of two queries minus the duplicate rows. Thefollowing two tables represent the rosters of teams:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FOOTBALL;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font b span  ,OUTPUT:,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME--------------------ABLEBRAVOCHARLIEDECONEXITORFUBARGOOBER,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,7 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,INPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM SOFTBALL;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME--------------------ABLEBAKERCHARLIEDEANEXITORFALCONERGOOBER,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,7 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,How many different people play on one team or another?,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT NAME FROM SOFTBALL,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,UNION,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT NAME FROM FOOTBALL;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME--------------------ABLEBAKERBRAVOCHARLIEDEANDECONEXITORFALCONERFUBARGOOBER,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,10 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,UNION,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,returns 10 distinct names from the two lists. How many names areon both lists (including duplicates)?,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT NAME FROM SOFTBALL,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,UNION ALL,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT NAME FROM FOOTBALL;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME--------------------ABLEBAKERCHARLIEDEANEXITORFALCONERGOOBERABLEBRAVOCHARLIEDECONEXITORFUBARGOOBER,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,14 rows selected.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The combined list--courtesy of the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,UNION ALL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,statement--has 14 names.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,UNION ALL,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,works just like,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,UNION,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,except it does not eliminate duplicates.Now show me a list of players who are on both teams. You can't do that with,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,UNION,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,--youneed to learn,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,INTERSECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,INTERSECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,INTERSECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,returns only the rows found by both queries. The next,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,statement shows the list of players who play on both teams:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FOOTBALL,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,INTERSECT,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM SOFTBALL;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME--------------------ABLECHARLIEEXITORGOOBER,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,In this example,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,INTERSECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,finds the short list of players who are onboth teams by combining the results of the two,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,statements.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,MINUS (Difference),1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Minus,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,returns the rows from the first query that were not present inthe second. For example:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FOOTBALL,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,MINUS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM SOFTBALL;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME--------------------BRAVODECONFUBAR,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"The preceding query shows the three football players who are not on the softballteam. If you reverse the order, you get the three softball players who aren't onthe football team:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM SOFTBALL,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,MINUS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FOOTBALL;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME--------------------BAKERDEANFALCONER,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,Miscellaneous Operators: IN and BETWEEN,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The two operators,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,IN,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,BETWEEN,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"provide a shorthand for functionsyou already know how to do. If you wanted to find friends in Colorado, California,and Louisiana, you could type the following:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE STATE= 'CA',1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,4,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,OR,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,5,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,STATE ='CO',1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,OR,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,7,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,STATE = 'LA';,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456PERKINS ALTON 911 555-3116 CA 95633,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Or you could type this:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"WHERE STATE IN('CA','CO','LA');",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456PERKINS ALTON 911 555-3116 CA 95633,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The second example is shorter and more readable than the first. You never knowwhen you might have to go back and work on something you wrote months ago.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,IN,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"also works with numbers. Consider the following, where the column",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,AREACODE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is a number:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,FROM FRIENDS,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"WHERE AREACODE IN(100,381,204);",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MAST JD 381 555-6767 LA 23456BOSS SIR 204 555-2345 CT 95633,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,If you needed a range of things from the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,PRICE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"table, you could writethe following:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM PRICE,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE WHOLESALE > 0.25,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,4,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,AND,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,5,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHOLESALE < 0.75;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ---------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Or using,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,BETWEEN,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", you would write this:",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM PRICE,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE WHOLESALE BETWEEN 0.25 AND 0.75;,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ---------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Again, the second example is a cleaner, more readable solution than the first.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,If a,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,WHOLESALE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,value of,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,0.25,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,existed in the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,PRICE,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,"table, that record would have been retrieved also. Parameters used in the",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,BETWEEN,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,operator are inclusive parametersinclusive.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h2 font span  ,Summary,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"At the beginning of Chapter 3, you knew how to use the basic",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FROM,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"clauses. Now you know how to use a host of operators that enable you to fine-tuneyour requests to the database. You learned how to use arithmetic, comparison, character,logical, and set operators. This powerful set of tools provides the cornerstone ofyour SQL knowledge.",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h2 font span  ,Q&A,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd b span  ,Q How does all of this information apply to me if I am not using SQL from the command line as depicted in the examples?,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p b span  ,A,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,"Whether you use SQL in COBOL as Embedded SQL or in Microsoft's Open Database Connectivity (ODBC), you use the same basic constructions. You will use what you learned toChapter and yesterChapter repeatedly as you work with SQL.",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p b span  ,Q,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p b span  ,Why are you constantly telling me to check my implementation? I thought there was a standard!,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p b span  ,A,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,"There is an ANSI standard (the most recent version is 1992); however, most vendors modify it somewhat to suit their databases. The basics are similar if not identical, and each instance has extensions that other vendors copy and improve. We have chosen to use ANSI as a starting point but point out the differences as we go along.",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h2 font span  ,Workshop,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"The Workshop provides quiz questions to help solidify your understanding of thematerial covered, as well as exercises to provide you with experience in using whatyou have learned. Try to answer the quiz and exercise questions before checking theanswers in Appendix F, ""Answers to Quizzes and Exercises.""",1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,Quiz,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Use the,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FRIENDS,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,table to answer the following questions.,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MEZA AL 200 555-2222 UKMERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332PERKINS ALTON 911 555-3116 CA 95633BOSS SIR 204 555-2345 CT 95633,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd b span  ,1.,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd span  ,Write a query that returns everyone in the database whose last name begins with,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd tt span  ,M,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd span  ,.,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p b span  ,2.,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,Write a query that returns everyone who lives in Illinois with a first name of,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p tt span  ,AL,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,.,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p b span  ,3.,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,Given two tables (,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p tt span  ,PART1,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,and,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p tt span  ,PART2,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,) containing columns named,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p tt span  ,PARTNO,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,", how would you find out which part numbers are in both tables? Write the query.",1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p b span  ,4.,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,What shorthand could you use instead of,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p tt span  ,WHERE a >= 10 AND a <=30,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,?,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p b span  ,5.,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,What will this query return?,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font b span  ,SELECT FIRSTNAMEFROM FRIENDSWHERE FIRSTNAME = 'AL' AND LASTNAME = 'BULHER';,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,Exercises,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd b span  ,1.,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd span  ,Using the,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd tt span  ,FRIENDS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd span  ,"table, write a query that returns the following:",1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,NAME ST------------------- --AL FROM IL,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote h5 font span  ,INPUT:,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,SQL>,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font b span  ,"SELECT (FIRSTNAME || 'FROM') NAME, STATE",1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,2,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font b span  ,FROM FRIENDS,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,3,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font b span  ,WHERE STATE = 'IL',1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,4,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font b span  ,AND,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,5,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font b span  ,LASTNAME = 'BUNDY';,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote h5 font span  ,OUTPUT:,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,NAME ST------------------- --AL FROM IL,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd b span  ,2.,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd span  ,Using the,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd tt span  ,FRIENDS,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd span  ,"table, write a query that returns the following:",1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,"NAME PHONE-------------------------- -------------MERRICK, BUD 300-555-6666MAST, JD 381-555-6767BULHER, FERRIS 345-555-3223",1,20
+html body text table tbody tr td table tbody tr td center center font span  ,|,0,15
+html body text table tbody tr td table tbody tr td center center font a font b span  ,About us,0,18
+html body text table tbody tr td table tbody tr td center center font font b span  ,|,0,17
+html body text table tbody tr td table tbody tr td center center font font b a font b span  ,Categories,0,20
+html body text table tbody tr td table tbody tr td center center font font b font b span  ,|,0,19
+html body text table tbody tr td table tbody tr td center center font font b font b a font b span  ,New Releases,0,22
+html body text table tbody tr td table tbody tr td center center font font b font b font b span  ,|,0,21
+html body text table tbody tr td table tbody tr td center center font font b font b font b a font b span  ,Most Popular,0,24
+html body text table tbody tr td table tbody tr td center center font font b font b font b font b span  ,|,0,23
+html body text table tbody tr td table tbody tr td center center font font b font b font b font b a font b span  ,Web Tutorial,0,26
+html body text table tbody tr td table tbody tr td center center font font b font b font b font b font b span  ,|,0,25
+html body text table tbody tr td table tbody tr td center center font font b font b font b font b font b a font b span  ,Free Download,0,28
+html body text table tbody tr td table tbody tr td center center font font b font b font b font b font b font b span  ,|,0,27
+html body text table tbody tr td table tbody tr td center center font font b font b font b font b font b font b a font b span  ,Drivers,0,30
+html body text table tbody tr td table tbody tr td center center font font b font b font b font b font b font b font b span  ,|,0,29
+html body text table tbody tr td font b span  ,ï¿½ 2004 Soft Lookup Corp.,0,10
+html body text table tbody tr td font b a font span  ,Privacy Statement,0,12

@@ -1,0 +1,432 @@
+tag,content,label,depth
+html body text title span span  ,PC World - Create professional interactive multimedia with Director MX,1,6
+html body text div form div div span  ,Username,1,8
+html body text div form div div span  ,Password,0,8
+html body text div form div div span  ,|,0,8
+html body text div form div div a span  ,Signup,0,9
+html body text div form div div span  ,|,0,8
+html body text div form div div a span  ,Forgotten Password,0,9
+html body text div div div div span span  ,Special Offer,0,9
+html body text div div div div a span span  ,Close,0,10
+html body text div div div div div span  ,2 Free Issues of PC World with any New Subscription,0,9
+html body text div div div div span  ,Purchase a new subscription to PC World and you will receive,0,8
+html body text div div div div b span  ,14 issues for the price of 12.,0,9
+html body text div div div div span  ,"That's right, two free issues when you subscribe now � for",0,8
+html body text div div div div b span  ,just $66*,0,9
+html body text div div div div span  ,!,0,8
+html body text div div div div span  ,Offer expires on the 30th of September 2006,0,8
+html body text div div div div form table tbody tr td span  ,First Name,1,13
+html body text div div div div form table tbody tr td span  ,Last Name,1,13
+html body text div div div div form table tbody tr td span  ,Street Number,1,13
+html body text div div div div form table tbody tr td span  ,Street Name,1,13
+html body text div div div div form table tbody tr td span  ,Suburb,1,13
+html body text div div div div form table tbody tr td span  ,State,1,13
+html body text div div div div form table tbody tr td select option span  ,New South Wales,1,15
+html body text div div div div form table tbody tr td select option span  ,Queensland,1,15
+html body text div div div div form table tbody tr td select option span  ,ACT,1,15
+html body text div div div div form table tbody tr td select option span  ,Northern Territory,1,15
+html body text div div div div form table tbody tr td select option span  ,South Australia,1,15
+html body text div div div div form table tbody tr td select option span  ,Western Australia,1,15
+html body text div div div div form table tbody tr td select option span  ,Victoria,1,15
+html body text div div div div form table tbody tr td select option span  ,Tasmania,1,15
+html body text div div div div form table tbody tr td span  ,Postcode,1,13
+html body text div div div div form table tbody tr td span  ,Email,1,13
+html body text div div div div div span  ,Wednesday | 27 Dec 2006,1,9
+html body text div div div ul li a span span  ,Home,0,11
+html body text div div div ul li a span span  ,Reviews,0,11
+html body text div div div ul li a span span  ,Buying Guides,0,11
+html body text div div div ul li a span span  ,Here�s How,0,11
+html body text div div div ul li a span span  ,HelpScreen,0,11
+html body text div div div ul li a span span  ,IT Jobs,0,11
+html body text div div div ul li a span span  ,Books,0,11
+html body text div div div ul li a span span  ,Current Edition,0,11
+html body text div div div ul li a span span  ,Video,0,11
+html body text div div div div form select option span  ,Reviews,0,11
+html body text div div div div form select option span  ,Articles,0,11
+html body text div div div div form select option span  ,HelpScreen,0,11
+html body text div div div div div span  ,Site Menu,1,9
+html body text div div div div ul li a span  ,Home,0,11
+html body text div div div div ul li a span  ,News,0,11
+html body text div div div div ul li a span  ,+,0,11
+html body text div div div div ul li a span  ,Reviews,0,11
+html body text div div div div ul li ul li a span  ,+,0,13
+html body text div div div div ul li ul li a span  ,Hardware,0,13
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Digital Cameras (160),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Advanced Compact Cameras (37),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Compact Cameras (85),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,SLR Cameras (22),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Ultra Compact Cameras (16),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Digital Video (93),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Digital Video Cameras / Camcorders (66),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Security Surveillance Cameras (10),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Video Input Adapters (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Webcams (16),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Gaming (11),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Game Consoles (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Handheld Game Consoles (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Other Peripherals (5),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,PC Gaming Peripherals (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Playstation Peripherals (2),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Xbox Peripherals (1),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Handheld Devices (14),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,PDAs (14),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Home Entertainment (2),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Media Centres (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Set Top Boxes (1),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Mobile Phones (164),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,3G Mobile Phones (36),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Mobile Phone Accessories (25),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Mobile Phones (67),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Smart Phones (36),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Monitors (55),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,LCD Monitors (55),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Networking (14),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Modems (2),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Routers (8),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Security (2),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Wireless (2),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Notebooks (130),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,All-Purpose Notebooks (58),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Power notebooks (33),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Tablets (10),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Ultraportable Notebooks (25),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Value notebooks (4),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,PC Components (85),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Graphics Cards (31),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Motherboards (20),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Processors (CPUs) (12),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Sound Cards (2),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,TV Tuners (20),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,PCs (26),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Business PCs (2),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Desktop PCs (7),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Gaming PCs (10),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Mac Desktops (3),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Micro PCs (4),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Peripherals (30),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Input Tablets (3),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Keyboard (15),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,KVM Switches (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Mice / Trackballs (11),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Portable Multimedia (41),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Digital Music Players (18),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Player Accessories (18),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Portable Media Players (5),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Printers (115),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Black & White Laser Printers (12),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Colour Laser Printers (19),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Inkjet Printers (6),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Multifunction Devices (44),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Photo Printers (34),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Projectors (56),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Business Projectors (13),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Home Theatre Projectors (33),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Portable Projectors (10),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Scanners (20),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,In-Home Scanners (2),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Office Scanners (5),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Photo Scanners (13),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Security (1),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Biometric (1),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Speakers (20),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,PC Speakers (20),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Storage (68),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,DVD-R/RW (19),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Flash Media (2),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Flash Media Readers (2),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Hard Disk Drives (External) (19),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Hard Disk Drives (Internal) (9),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Network Attached Storage (NAS) (9),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Removable Storage (Other) (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,USB Flash Drives (7),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Televisions (1),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Plasma TVs (1),0,17
+html body text div div div div ul li ul li a span  ,+,0,13
+html body text div div div div ul li ul li a span  ,Services,0,13
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Photography (8),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Photo Printing (8),0,17
+html body text div div div div ul li ul li a span  ,+,0,13
+html body text div div div div ul li ul li a span  ,Software,0,13
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Communications (10),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,IP Telephony / VoIP / Web Phones (7),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Remote Access (2),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Voice Recognition (1),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Content Management (4),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Personal Information Management (4),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Databases (2),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Database Software (2),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Development Tools (4),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Visual Basic (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Web Design Suites (3),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Education (11),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Encyclopedias (3),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Other (6),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Typing (2),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Email & Messaging (3),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Chat / IM (2),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Email Clients (1),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Enterprise Applications (1),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,CRM (1),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Financial (5),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Business Accounting (3),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Home Accounting (2),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Graphics & Publishing (36),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,CAD / 3D (3),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Design & Illustration (10),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Desktop Publishing (2),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Digital Photo Albums (3),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Digital Photo & Image Editing (10),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Digital Photo Utilities (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Flowcharts & Diagrams (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Optical Character Recognition (OCR) (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,PDF Utilities (5),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Internet (9),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Browser Plug-ins (2),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Browsers (5),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,eBay Tools (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Online Privacy (1),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Office Productivity (12),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Document Conversion Tools (3),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Microsoft Office Plug-ins (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Office Suites (8),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Operating Systems (8),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Dual Boot (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Linux (3),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,MacOS (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Unix (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Virtualisation (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Windows XP (1),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Security (25),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Anti-Spyware / Adware (6),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Anti-virus (5),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Firewalls (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Security Suites (13),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Servers (1),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Web Servers (1),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Systems Administration (1),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Server Management (1),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Utilities (21),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,Backup (3),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,CD / DVD Burners (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Desktop Search (3),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Diagnostic / Optimisers (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,File Compression (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,System Tools (12),0,17
+html body text div div div div ul li ul li ul li a span  ,+,0,15
+html body text div div div div ul li ul li ul li a span  ,Video & Audio (29),0,15
+html body text div div div div ul li ul li ul li ul li a span  ,DVD Utilities (2),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Multimedia Authoring Software (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Music / Audio Editing (4),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Music Managers (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Rippers / Encoders (1),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Video & Audio Suites (5),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Video Editing (14),0,17
+html body text div div div div ul li ul li ul li ul li a span  ,Video Utilities (1),0,17
+html body text div div div div ul li a span  ,+,0,11
+html body text div div div div ul li a span  ,Features,0,11
+html body text div div div div ul li ul li a span  ,Digital Music,0,13
+html body text div div div div ul li ul li a span  ,Web & you,0,13
+html body text div div div div ul li a span  ,+,0,11
+html body text div div div div ul li a span  ,Opinions,0,11
+html body text div div div div ul li ul li a span  ,Harry McCracken,0,13
+html body text div div div div ul li ul li a span  ,Melissa J. Perenson,0,13
+html body text div div div div ul li ul li a span  ,Laura Blackwell,0,13
+html body text div div div div ul li ul li a span  ,Richard Baguley,0,13
+html body text div div div div ul li ul li a span  ,Oliver Rist,0,13
+html body text div div div div ul li ul li a span  ,Jon Udell,0,13
+html body text div div div div ul li ul li a span  ,Tom Yager,0,13
+html body text div div div div ul li a span  ,+,0,11
+html body text div div div div ul li a span  ,Here's How,0,11
+html body text div div div div ul li ul li a span  ,Linux,0,13
+html body text div div div div ul li ul li a span  ,Business,0,13
+html body text div div div div ul li ul li a span  ,Hardware,0,13
+html body text div div div div ul li ul li a span  ,Software,0,13
+html body text div div div div ul li a span  ,+,0,11
+html body text div div div div ul li a span  ,Guides,0,11
+html body text div div div div ul li ul li a span  ,Buying Guides,0,13
+html body text div div div div ul li ul li a span  ,HTML Developer's Guide,0,13
+html body text div div div div ul li ul li a span  ,PHP Developer's Guide,0,13
+html body text div div div div ul li a span  ,Media Releases,0,11
+html body text div div div div ul li a span  ,+,0,11
+html body text div div div div ul li a span  ,HelpScreen,0,11
+html body text div div div div ul li ul li a span  ,Latest,0,13
+html body text div div div div ul li ul li a span  ,Ask a question,0,13
+html body text div div div div ul li ul li a span  ,+,0,13
+html body text div div div div ul li ul li a span  ,Categories,0,13
+html body text div div div div ul li ul li ul li a span  ,Bugs & Fixes,0,15
+html body text div div div div ul li ul li ul li a span  ,Digital Music,0,15
+html body text div div div div ul li ul li ul li a span  ,Games,0,15
+html body text div div div div ul li ul li ul li a span  ,Graphics & Digital Photography,0,15
+html body text div div div div ul li ul li ul li a span  ,Hardware,0,15
+html body text div div div div ul li ul li ul li a span  ,Internet,0,15
+html body text div div div div ul li ul li ul li a span  ,Linux,0,15
+html body text div div div div ul li ul li ul li a span  ,Mac,0,15
+html body text div div div div ul li ul li ul li a span  ,Networking,0,15
+html body text div div div div ul li ul li ul li a span  ,Novice,0,15
+html body text div div div div ul li ul li ul li a span  ,Office Apps,0,15
+html body text div div div div ul li ul li ul li a span  ,Office XP,0,15
+html body text div div div div ul li ul li ul li a span  ,Other,0,15
+html body text div div div div ul li ul li ul li a span  ,Processors,0,15
+html body text div div div div ul li ul li ul li a span  ,Virus,0,15
+html body text div div div div ul li ul li ul li a span  ,Windows 2000,0,15
+html body text div div div div ul li ul li ul li a span  ,Windows 9x,0,15
+html body text div div div div ul li ul li ul li a span  ,Windows XP,0,15
+html body text div div div div ul li a span  ,+,0,11
+html body text div div div div ul li a span  ,Jobs,0,11
+html body text div div div div ul li ul li a span  ,Search for Jobs,1,13
+html body text div div div div ul li ul li a span  ,Build a Resume,1,13
+html body text div div div div div span  ,Sponsored Links,1,9
+html body text div div div div div a span  ,Reviews,1,10
+html body text div div div div div div h1 span  ,Create professional interactive multimedia with Director MX,1,11
+html body text div div div div div div div span  ,advertisement,0,11
+html body text div div div div div div p span  ,"Jason Whittaker, PC World",1,11
+html body text div div div div div div p span  ,18/08/2003 07:33:26,1,11
+html body text div div div div div div p span  ,"Long before Flash and Dream��weaver, Director was Macromedia�s premiere application for multimedia, providing extensive tools for designing animation and interactive programs that could be distributed on CD-ROM and, later, across the Web.",1,11
+html body text div div div div div div p span  ,"The introduction � and roaring success � of Flash has resulted in something of a decline for Director. As Macromedia moved towards a standard interface across its MX suite (incorporating Flash, Dreamweaver, Freehand and ColdFusion), for a time it appeared that Director was going to be left behind, but the latest version has been integrated into the rest of Macromedia�s range.",1,11
+html body text div div div div div div p span  ,"Unless you use OS X for the Mac, this release will probably seem much less substantial than version 8.5, which introduced a widely adopted 3D engine, although people who regularly use Macromedia products will welcome its improvements to the workspace.",1,11
+html body text div div div div div div p span  ,"Leaving interface changes aside, perhaps the biggest differences in the latest release concentrates on integration with Flash. At a first glance, this brings you up against Director�s main problem � interactivity � particularly across the Web. Flash is ubiquitous, offers small file sizes for downloads and, since the improvements to ActionScript in version 5.0, has moved towards becoming a usable tool for application development rather than just animation � all at a fraction of the cost of Director.",1,11
+html body text div div div div div div p span  ,"Flash is far from perfect, however. The MX release included tools for video, but they are still inferior to those for Director, as is support for bitmap as opposed to vector images. In addition, Macromedia appears to be considering Director as a support for back-end control of advanced features in Flash, providing features such as copies of Flash Communications Server and Flash Remoting MX that are useful for video conferencing, and live control of Flash movies via ColdFusion or Microsoft�s .NET server.",1,11
+html body text div div div div div div p span  ,"Beyond Flash, however, your reasons for upgrade will boil down to two things: do you need to provide multimedia applications on disc for the new Macintosh operating system as well as Windows, and how important are the (considerable) improvements to Director�s interface to bring it in line with other MX programs? If you are using version 8.5 and are not particularly interested in using Director with Flash, or in producing applications for Mac, the changes introduced in the last release will probably be sufficient for your requirements.",1,11
+html body text div div div div div div p span  ,"That said, changes to the interface should not be dismissed if you do a great deal of work with this program (see",1,11
+html body text div div div div div div p a span  ,here,1,12
+html body text div div div div div div p span  ,"for a screenshot). Anyone who uses Director MX is unlikely to wish to return to an earlier release, and Macromedia�s general work on interface design looks set to pay real dividends for multimedia professionals. These are also precisely the sort of people who are likely to use both Director and Flash for different applications, so integration between the two (as well as the rest of the MX range) will be greatly appreciated.",1,11
+html body text div div div div div div p span  ,"Director still remains the best of breed for producing interactive multimedia for distribution on disc (DVD and CD) as well as online, with a price to match. However, the very success of Flash means that anyone seeking to enter into multimedia development will consider the cheaper program first.",1,11
+html body text div div div div div div p span  ,In brief: Macromedia Director MX,1,11
+html body text div div div div div div p span  ,"If you need 3D or expect a lot of video and image work on disc, choose Director � but for everything else, Flash is generally the better option.",1,11
+html body text div div div div div div p span  ,Price: $2699; $899 upgrade from 8.0/8.5,1,11
+html body text div div div div div div p span  ,Vendor: Macromedia,1,11
+html body text div div div div div div p span  ,Phone: 1800 001 014,1,11
+html body text div div div div div div p span  ,URL:,1,11
+html body text div div div div div div p a span  ,www.macromedia.com.au,1,12
+html body text div div div div div div span span  ,[,0,11
+html body text div div div div div div span a span  ,Printer Friendly Version,0,12
+html body text div div div div div div span span  ,],0,11
+html body text div div div div div div span span  ,[ Other stories about,1,11
+html body text div div div div div div span a span  ,Macromedia,1,12
+html body text div div div div div div span span  ,",",1,11
+html body text div div div div div div span a span  ,Microsoft,1,12
+html body text div div div div div div span span  ,],1,11
+html body text div div div div span  ,Sponsored Links,1,8
+html body text div div div div div span  ,Current Edition,1,9
+html body text div div div div div div ul li a span  ,In the magazine,0,13
+html body text div div div div div div ul li a span  ,On the DVD,0,13
+html body text div div div div div div ul li a span  ,Subscribe to PC World,0,13
+html body text div div div div div span  ,Books /,1,9
+html body text div div div div div a span  ,See all books,1,10
+html body text div div div div div div a span  ,Upgrade IT: The 10-step guide to a better PC,1,11
+html body text div div div div div div span  ,"The beginner's guide to a better PC is perfect for anybody who has thought about upgrading but needs some help in taking the first step. It's also great for anybody starting a computer course, or who is just curious about what goes on inside that big box in the corner.",1,10
+html body text div div div div div div div a span  ,Buy it now!,0,12
+html body text div div div div div div ul li a span  ,Datastage Production Support,0,13
+html body text div div div div div div ul li a span  ,Business Intelligence...,0,13
+html body text div div div div div div ul li a span  ,ACCOUNT MANAGER,0,13
+html body text div div div div div div ul li a span  ,Solution Architect,0,13
+html body text div div div div div div ul li a span  ,Installation and Integration...,0,13
+html body text div div div div div span  ,GoodGearGuide Product Review,1,9
+html body text div div div div div a span  ,Sony Bravia KLV46X2000,1,10
+html body text div div div div div a b span  ,(LCD TVs),1,11
+html body text div div div div div div p b span  ,Review:,1,12
+html body text div div div div div div p span  ,"Good looks, good audio and excellent connection options do not make up ...",1,11
+html body text div div div div div div p a span  ,Read review,0,12
+html body text div div div div div div p b span  ,Technology:,1,12
+html body text div div div div div div p span  ,"Display Brightness: 450 cd/m2, Contrast ratio: 7000:1, Screen size: 46.0 in, ...",1,11
+html body text div div div div div div p a span  ,View specs,0,12
+html body text div div div div div form div div div span  ,Keywords,0,13
+html body text div div div div div form div div div span  ,City or Suburb,0,13
+html body text div div div div div form div div div span  ,State,0,13
+html body text div div div div div form div div select option span  ,Select...,0,14
+html body text div div div div div form div div select option span  ,ACT,0,14
+html body text div div div div div form div div select option span  ,NSW,0,14
+html body text div div div div div form div div select option span  ,NT,0,14
+html body text div div div div div form div div select option span  ,QLD,0,14
+html body text div div div div div form div div select option span  ,SA,0,14
+html body text div div div div div form div div select option span  ,TAS,0,14
+html body text div div div div div form div div select option span  ,VIC,0,14
+html body text div div div div div form div div select option span  ,WA,0,14
+html body text div div div div div div b span  ,Job seekers,1,11
+html body text div div div div div div a span  ,Get job alerts,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Post your resume online,1,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Interview tips,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Ask Kate,0,11
+html body text div div div div div div b span  ,Advertisers,1,11
+html body text div div div div div div a span  ,Click here,1,11
+html body text div div div div div div span  ,to advertise your jobsto thousands of job seekersmonthly.,1,10
+html body text div div div div a span  ,2 Free Issues of PC World with any New Subscription,1,9
+html body text div div div div div p span  ,Purchase a new subscription to PC World and you will receive,1,10
+html body text div div div div div p b span  ,14 issues for the price of 12.,1,11
+html body text div div div div div p span  ,"That�s right, two free issues when you subscribe now � for",1,10
+html body text div div div div div p b span  ,just $66*,1,11
+html body text div div div div div p span  ,!,1,10
+html body text div div div div div p span  ,Offer expires on the 31st of December 2006,1,10
+html body text div div div div div a span  ,Subscribe Now!,0,10
+html body text div div div div a span  ,Upgrade IT: The 10-step guide to a better PC,1,9
+html body text div div div div a span  ,See all books,0,9
+html body text div div div div div span  ,"The beginner's guide to a better PC is perfect for anybody who has thought about upgrading but needs some help in taking the first step. It's also great for anybody starting a computer course, or who is just curious about what goes on inside that big box in the corner.",1,9
+html body text div div div div div a span  ,Buy it now!,0,10
+html body text div div div a span  ,Send Us E-mail,0,8
+html body text div div div span  ,|,0,7
+html body text div div div a span  ,Privacy Policy,0,8
+html body text div div div a span  ,Corrections,0,8
+html body text div div div span  ,|,0,7
+html body text div div div a span  ,Editorial Contacts,0,8
+html body text div div div span  ,|,0,7
+html body text div div div a span  ,Advertising Information,0,8
+html body text div div div span  ,|,0,7
+html body text div div div a span  ,Disclaimer,0,8
+html body text div div div span  ,|,0,7
+html body text div div div a span  ,IDG Online Contacts,0,8
+html body text div div div span  ,Copyright 2006 IDG Communications. ABN 14 001 592 650.,0,7
+html body text div div div span  ,All rights reserved. Reproduction in whole or in part in any form or medium without express written permission of IDG Communications is prohibited.,0,7
+html body text div div div span  ,IDG Sites:,0,7
+html body text div div div a span  ,GoodGearGuide,0,8
+html body text div div div span  ,|,0,7
+html body text div div div a span  ,Australian GamePro,0,8
+html body text div div div span  ,|,0,7
+html body text div div div a span  ,Computerworld Australia,0,8
+html body text div div div span  ,|,0,7
+html body text div div div a span  ,CIO Australia,0,8
+html body text div div div span  ,|,0,7
+html body text div div div a span  ,CSO Online,0,8
+html body text div div div span  ,|,0,7
+html body text div div div a span  ,LinuxWorld.com.au,0,8
+html body text div div div span  ,|,0,7
+html body text div div div a span  ,Australian Reseller News,0,8

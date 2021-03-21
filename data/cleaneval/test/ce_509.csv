@@ -1,0 +1,94 @@
+tag,content,label,depth
+html body text title span span  ,Vouchers: cessations and surrender: cancel returned CIS24 vouchers on CIS system (A),0,6
+html body text a span  ,Skip to main content,0,5
+html body text div div ul li a span  ,Home,0,9
+html body text div div ul li a span  ,About us,0,9
+html body text div div ul li a span  ,Contact us,0,9
+html body text div div ul li a span  ,Online services,0,9
+html body text div div ul li a span  ,Site map,0,9
+html body text div div ul li a span  ,Help,0,9
+html body text div div a span  ,� Practitioner Zone,0,7
+html body text div div div div a span  ,businesses & corporations,0,9
+html body text div div div div a span  ,employers,0,9
+html body text div div div div a span  ,individuals & employees,0,9
+html body text div div div h1 span  ,Construction Industry Scheme - CIS6358,1,8
+html body text div div div h2 span  ,Vouchers: cessations and surrender: cancel returned CIS24vouchers on CIS system (A),1,8
+html body text div div div table tbody tr td a span  ,CIS6302,0,12
+html body text div div div table tbody tr td span  ,Back to action guide menu,0,11
+html body text div div div table tbody tr td a span  ,CIS6313,0,12
+html body text div div div table tbody tr td span  ,Information,0,11
+html body text div div div h3 span  ,CANCEL RETURNED CIS24 VOUCHERS ON CIS SYSTEM,1,8
+html body text div div div p span  ,This action guide explains the steps you should take to recordCIS24 vouchers surrendered to the Revenue as cancelled on the CISsystem.,1,8
+html body text div div div h3 span  ,CAUTION,1,8
+html body text div div div p span  ,"Remember that changing the status of the returned vouchers from'Valid' will mean that they are treated by the CIS System as havingbeen 'used'. As a result, subject to the 'Minimum Stock Level'being reached, this action may trigger the replenishment processand a further issue of vouchers. Because of this you should alwaysbear in mind the reason for voucher cancellation and amend thesubcontractor's details or Voucher Profile Band in order to preventthe automatic issue of further vouchers either in error or bearingincorrect details.",1,8
+html body text div div div p span  ,The action guide is presented in two parts as follows,1,8
+html body text div div div ul li span  ,"To cancel individual vouchers, follow thesteps at A below",1,9
+html body text div div div ul li span  ,"To cancel a range of vouchers, follow thesteps at B below",1,9
+html body text div div div p span  ,"For physical cancellation of the vouchers, see the action guidelisted in the menu.",1,8
+html body text div div div p span  ,A. CANCEL INDIVIDUAL VOUCHERS,1,8
+html body text div div div p span  ,1) Select `File' from the CIS Main Menu.,1,8
+html body text div div div p span  ,2) Select `Manage Vouchers' from the File Menu,1,8
+html body text div div div p span  ,3) Select `Single voucher' from the Manage Vouchers menu,1,8
+html body text div div div blockquote p span  ,You should now be at the `Voucher Serial Number' window.,1,9
+html body text div div div p span  ,4) Key in the voucher serial number for the voucher you want tocancel and click on the [OK] button,1,8
+html body text div div div blockquote p span  ,You should now be at the `View Voucher Details' window.,1,9
+html body text div div div p span  ,5) Click on the [Cancel Voucher] button.,1,8
+html body text div div div blockquote p span  ,This should take you to the `Voucher Cancellation' window.,1,9
+html body text div div div p span  ,6) Click on the 'Status' field to reveal a list of threepossible statuses to change to,1,8
+html body text div div div div ul li span  ,lost,1,10
+html body text div div div div ul li span  ,stolen,1,10
+html body text div div div div ul li span  ,spoilt,1,10
+html body text div div div p span  ,7) Click on 'Spoilt' (or other option). It should then appearalone in the box.,1,8
+html body text div div div p span  ,8) Click on the `Effective From' box and key in the date ofreceipt of the voucher.,1,8
+html body text div div div p span  ,9) Select the 'Reason for Cancellation' from the listprovided. This action will enable the [Save] button.,1,8
+html body text div div div p span  ,10) Click on the [Save] button to store the change.,1,8
+html body text div div div p span  ,11) This action will result in the display of a final warningmessage confirming that the change of status is irreversible,1,8
+html body text div div div div ul li span  ,Click on [Yes] to receive the message 'This changehas been saved and the voucher will be cancelled overnight'.,1,10
+html body text div div div p span  ,"The overnight batch process will update all the voucher andstock on hand records. This will have the effect of reducing theminimum stock level of vouchers held by the contractor and, unlessthere is a system stop on voucher issue, trigger automaticreplenishment.",1,8
+html body text div div div p span  ,B. CANCEL A RANGE OF VOUCHERS,1,8
+html body text div div div p span  ,1) Select `File' from the CIS Main Menu.,1,8
+html body text div div div p span  ,2) Select `Manage Vouchers' from the File Menu.,1,8
+html body text div div div p span  ,3) Select `Range of Vouchers' from the Manage Vouchers menu,1,8
+html body text div div div p span  ,The `Taxpayer UTR/NINO' window should now be displayed.,1,8
+html body text div div div p span  ,"4) For a sole trader or cardholder for a concern, enter theNINO or UTR. For a concern, enter the UTR of the concern.",1,8
+html body text div div div p span  ,5) Click on [OK],1,8
+html body text div div div p span  ,"If the subcontractor also acts as a contractor, you should beat the `Contractor/subcontractor Selection' window. Click on the[Subcontractor] button.",1,8
+html body text div div div p span  ,"If the subcontractor is a concern with more than onecardholder, you will be presented with the `Cardholder Selection'window. Click on the cardholder to whom the vouchers were issuedand click on the [OK] button.",1,8
+html body text div div div blockquote p span  ,You should now be at the `Voucher selection criteria'window.,1,9
+html body text div div div p span  ,6) Click on the CIS24 box in the `Select Voucher Type' area ofthe window and select the 'Y' by clicking on it.,1,8
+html body text div div div p span  ,7) Click on the [View Vouchers] button,1,8
+html body text div div div blockquote p span  ,You should now see the `List Voucher Ranges' window containing alist of ranges of vouchers issued to the subcontractor.,1,9
+html body text div div div p span  ,8) Click on the entry in the list for the vouchers you want tocancel and click on the [Cancel Range] button.,1,8
+html body text div div div blockquote p span  ,This should take you to the `Voucher Cancellation' window.,1,9
+html body text div div div p span  ,9) Click on the 'Status' field to reveal a list of threepossible statuses to change to,1,8
+html body text div div div div ul li span  ,lost,1,10
+html body text div div div div ul li span  ,stolen,1,10
+html body text div div div div ul li span  ,spoilt,1,10
+html body text div div div p span  ,10) Click on 'Spoilt' (or other option). It should then appearalone in the box.,1,8
+html body text div div div p span  ,11) Click on the `Effective From' box and key in the date onwhich you received the vouchers.,1,8
+html body text div div div p span  ,12) Select the 'Reason for Cancellation' from the listprovided. This action will enable the [Save] button.,1,8
+html body text div div div p span  ,13) Click on the [Save] button to store the change.,1,8
+html body text div div div p span  ,14. This action will result in the display of a final warningmessage confirming that the change of status is irreversible,1,8
+html body text div div div div ul li span  ,Click on [Yes] to receive the message 'This changehas been saved and the vouchers will be cancelled overnight'.,1,10
+html body text div div div p span  ,"The overnight batch process will update all the voucher andstock on hand records. This will have the effect of reducing theminimum stock level of vouchers held by the subcontractor and,unless there is a system stop on voucher issue, trigger automaticreplenishment.",1,8
+html body text div div div p a span  ,CIS forms,0,9
+html body text div div div p a span  ,Glossary,0,9
+html body text div div div p a span  ,Where am I?,0,9
+html body text div div div p span  ,Quick links index- CIS0100,1,8
+html body text div div div div table tbody tr td p a b span  ,Home,0,15
+html body text div div div div table tbody tr td p b span  ,|,0,14
+html body text div div div div table tbody tr td p a b span  ,Main Contents,0,15
+html body text div div div div table tbody tr td p b span  ,|,0,14
+html body text div div div div table tbody tr td p a b span  ,Manual Contents,0,15
+html body text div div div div table tbody tr td p a b span  ,Previous Page,0,15
+html body text div div div div table tbody tr td p b span  ,|,0,14
+html body text div div div div table tbody tr td p a b span  ,Next Page,0,15
+html body text div div div div table tbody tr td p b span  ,|,0,14
+html body text div div div div table tbody tr td p a b span  ,Top,0,15
+html body text div div a span  ,� Crown Copyright,0,7
+html body text div div span  ,|,0,6
+html body text div div a span  ,Terms & conditions,0,7
+html body text div div span  ,|,0,6
+html body text div div a span  ,Privacy policy,0,7
+html body text div div span  ,|,0,6
+html body text div div a span  ,Accessibility,0,7

@@ -1,0 +1,395 @@
+tag,content,label,depth
+html body text title span span  ,Survey of Object Oriented Programming Languages,0,6
+html body text center h1 a span  ,Survey of Object Oriented Programming Languages,1,7
+html body text center i span  ,Chris Hostetter,0,6
+html body text center code nobr span  ,hoss,0,7
+html body text center code span  ,man @ rescomp.ber,0,6
+html body text center code span  ,keley.edu,0,6
+html body text center span  ,1998-05-23,0,5
+html body text h2 a span  ,1.,0,6
+html body text h2 span  ,Introduction,1,5
+html body text p span  ,"This paper was intended as a learning experience for the author, in anattempt to better understand the history and development of ObjectOriented Programming Languages. The research involved in this paperbegan with a variety of papers which dealt with the definition of``Object Oriented'' and from there spread out into several historic papers onthe origins of Object Oriented Programming in Simula and Smalltalk.Further reading involved mainstream reference material on many of themore widely used Object Oriented Languages, in addition to historicdocuments on their design and development.",1,5
+html body text p span  ,"Due to time constraints, this paper never achieved the scope that theauthor had intended for it, and much of the research done is notreflected in these pages.",1,5
+html body text p a sup span  ,1,1,7
+html body text p span  ,"This paper only attempts to look at the meaningof ``Object Oriented'' as a property of Programming Languages, as wellas to examine the history, and features of eight particular ObjectOriented Languages. It is divided into four sections:",1,5
+html body text ol li a b span  ,Introduction:,1,8
+html body text ol li span  ,This section.,1,6
+html body text ol li a b span  ,Notion of Object Orientedness:,1,8
+html body text ol li span  ,Discussion of variousauthors feeling on OOP.,1,6
+html body text ol li a b span  ,Some Languages:,1,8
+html body text ol li span  ,"A look at the history, development,design, and features of predominant OOPLs.",1,6
+html body text ol li a b span  ,Research References:,1,8
+html body text ol li span  ,References used for this research project.,1,6
+html body text h2 a span  ,2.,0,6
+html body text h2 span  ,Notion of Object Orientedness,1,5
+html body text p span  ,What does it mean for something to be object oriented? Whatexactly is an ``Object Oriented Programming Language?'' Theseare questions that no one can answer very well. As Tim Rentsch said:,1,5
+html body text blockquote p span  ,``,1,6
+html body text blockquote p em span  ,...object oriented programming will be in the 1980's what structured programming was in the 1970's. Everyone will be in favor of it. Every manufacturer will promote his products as supporting it. Every manager will pay lip service to it. Every programmer will practice it (differently). And no one will know just what it is.,1,7
+html body text blockquote p span  ,'' [Rentsch82],1,6
+html body text p span  ,"Generally speaking, Rentsch was right not only about the 1980's, butthe 1990's as well. With all the various ``Object Oriented ProgrammingLanguages'' and ``Object Oriented Processes'' and ``Object OrientedBasket Weaving'' in the world today, it seems that establishing aclear definition of what it means to be object oriented, isimpossible.",1,5
+html body text p span  ,"It would appear that instead of attempting to find a coherentdefinition, a better approach is to accept the idea that programminglanguages, or processes (or widgets) can not ``Be Object Oriented.''Instead, we should consider object orientedness as a ``notion'' which canbe associated with systems, programs, languages, etc... Or similarly,as a property that something can exhibit. But just because one facetof a system has object oriented properties, does not mean that thesystem as a whole (or even other potions of the system) is objectoriented.",1,5
+html body text p span  ,"When dealing specifically with programming, and programming languages,it is important to keep in mind 3 principles:",1,5
+html body text ul li span  ,"A design can be Object Oriented, even if the resulting program isn't.[Madsen88]",1,6
+html body text ul li span  ,"A program can be Object Oriented, even if the language it'swritten in isn't.[Madsen88]",1,6
+html body text ul li span  ,"An Object Oriented program can be written in almost anylanguage, but a language can't be associated with object orientednessunless it",1,6
+html body text ul li em span  ,promotes,1,7
+html body text ul li span  ,Object Oriented Programs.[Stroustrup91],0,6
+html body text p span  ,"But all of this side steps the issue that people ultimately want tounderstand: ``What makes programming languages objectoriented?'' To address this question, consider some excerpts (froman assortment of papers) that attempt to clarify the issue:",1,5
+html body text blockquote span  ,``,1,5
+html body text blockquote em span  ,The first principle of object oriented programming might be called,1,6
+html body text blockquote em em span  ,intelligence encapsulation:,1,7
+html body text blockquote em span  ,"view objects from outside to provide a natural metaphor of intrinsic behavior. ... It follows that there is no way of opening up an object and looking at it's insides, or updating (``smashing'') its state. What is more important is that the concept of opening up an object does not exist in the language.",1,6
+html body text blockquote span  ,'' [Rentsch82],0,5
+html body text blockquote span  ,``,1,5
+html body text blockquote em span  ,"... a message is a request of what the sender wants with no hint or concern as to what the receiver should do to accommodate the sender's wishes. ... This notion, a sort of",1,6
+html body text blockquote em em span  ,call by desire,1,7
+html body text blockquote em span  ,", is central to the object oriented philosophy",1,6
+html body text blockquote span  ,'' [Rentsch82],0,5
+html body text blockquote span  ,``,1,5
+html body text blockquote em span  ,... attributes can be shared by a group while allowing for individuals within the group to reinterpret some ``shared'' behavior,1,6
+html body text blockquote em em span  ,as it applies to the individuals themselves,1,7
+html body text blockquote em span  ,". ... The result of allowing individual variability is that, given something close to what you want, it is easy to produce exactly what you want by overriding shared behavior with individual behavior - to",1,6
+html body text blockquote em em span  ,adapt,1,7
+html body text blockquote span  ,'' [Rentsch82],0,5
+html body text blockquote span  ,``,1,5
+html body text blockquote em span  ,"... the entire thrust of its design has been to supercede the concept of data and procedures entirely; to replace these with the more generally useful notions of activity, communication, and inheritance.",1,6
+html body text blockquote span  ,'' Alan Kay in [Rentsch82],0,5
+html body text blockquote span  ,``,1,5
+html body text blockquote em span  ,If the term ``object-oriented programming language'' means anything it must mean a programming language that provides a mechanism that supports the object-oriented style of programming well.,1,6
+html body text blockquote span  ,'' [Stroustrup91],0,5
+html body text blockquote span  ,``,1,5
+html body text blockquote em span  ,The basic support a programmer needs to write object-oriented programs consists of a class mechanism with inheritance and a mechanism that allows calls of member functions to depend on the actual type of an object (in cases where the actual type is unknown at compile time).,1,6
+html body text blockquote span  ,'' [Stroustrup91],0,5
+html body text blockquote span  ,``,1,5
+html body text blockquote em em span  ,Object-oriented programming:,1,7
+html body text blockquote em span  ,A program execution is regarded as a,1,6
+html body text blockquote em em span  ,physical model,1,7
+html body text blockquote em span  ,", simulating the behavior of either a real or imaginary part of the world.",1,6
+html body text blockquote span  ,'' [Madsen88],0,5
+html body text blockquote span  ,``,1,5
+html body text blockquote em span  ,... Such a language should support:,1,6
+html body text blockquote ol li em span  ,"Modelling of concepts and phenomena, i.e. the language must include constructs like class,type, procedure.",1,8
+html body text blockquote ol li em span  ,"Modelling classification hierarchies, i.e. sub-classing (inheritance) and virtuals.",1,8
+html body text blockquote ol li em span  ,"Modelling active objects, i.e. concurrency or coroutine sequencing, combined with persistency.",1,8
+html body text blockquote ol li span  ,'' [Madsen88],0,7
+html body text blockquote span  ,``,1,5
+html body text blockquote em span  ,"Object oriented programming: The computing process is viewed (as described above) as the development of a system, consisting of objects (components), through sequences of changing states.",1,6
+html body text blockquote span  ,'' [Nygaard86],0,5
+html body text blockquote span  ,``,1,5
+html body text blockquote em span  ,"The object-oriented approach combines three properties: encapsulation, inheritance, and organization",1,6
+html body text blockquote span  ,'' [Nguyen86],0,5
+html body text p span  ,"In addition to the above passages, it is important to keep in mindsome items which may (misleadingly) seem object oriented:",1,5
+html body text blockquote span  ,``,1,5
+html body text blockquote em span  ,Object oriented programming is,1,6
+html body text blockquote em em span  ,not,1,7
+html body text blockquote em span  ,"programming using a Simula-like class concept, just as structured programming is not GOTO-less programming.",1,6
+html body text blockquote span  ,'' [Rentsch82],0,5
+html body text blockquote span  ,``,1,5
+html body text blockquote em em span  ,[Simula...],1,7
+html body text blockquote em span  ,"... also included many ``features'' such as INSPECT and IN, which are contrary to the object oriented philosophy.",1,6
+html body text blockquote span  ,'' [Rentsch82],0,5
+html body text blockquote span  ,``,1,5
+html body text blockquote em span  ,Consider a language having an inheritance mechanism without virtual functions or methods. Could that language be said to support object-oriented programming? I think not...,1,6
+html body text blockquote span  ,'' [Stroustrup91],0,5
+html body text blockquote span  ,``,1,5
+html body text blockquote em span  ,"Thinking object-oriented does not have to exclude functional expressions when that is more natural. Functions, types and values are in fact needed in order to describe measurable properties of objects.",1,6
+html body text blockquote span  ,'' [Madsen88],0,5
+html body text p span  ,"To summarize these ideas, we can say that following features areobject oriented properties - and that Programming Languages whichactively support them, can be associated with object orientedness.",1,5
+html body text ul li span  ,Objects...,1,6
+html body text ul li ul li span  ,Autonomous entities,1,8
+html body text ul li ul li span  ,"No direct access to their components, or run time type",1,8
+html body text ul li ul li a sup span  ,2,1,10
+html body text ul li ul li span  ,"Interact purely by messages, with no assumption of implementation",1,8
+html body text ul li span  ,Object Organization...,1,6
+html body text ul li ul li span  ,Inheritance mechanism to construct an object classification hierarchy,1,8
+html body text ul li ul li span  ,Not just for code sharing,1,8
+html body text ul li ul li span  ,Must have abstract nodes in hierarchy for more realistic modeling,1,8
+html body text ul li ul li span  ,Provide potential for individuality in objects,1,8
+html body text ul li ul li span  ,Dynamicly determine (via run time type) correct response to messages,1,8
+html body text ul li span  ,Programs as Models...,1,6
+html body text ul li ul li span  ,Programs model the development of some planned system,1,8
+html body text ul li ul li span  ,Changing state of system reflected by the changing state of the objects,1,8
+html body text ul li ul li span  ,Objects can be thought of as acting concurrently,1,8
+html body text ul li ul li span  ,Support for ``non OO'' programming techniques in situations where they make sense,1,8
+html body text h2 a span  ,3.,0,6
+html body text h2 span  ,Some Languages,1,5
+html body text h3 a span  ,3.1,0,6
+html body text h3 span  ,Simula,1,5
+html body text h4 span  ,3.1.1 Creators,0,5
+html body text p span  ,Developed at The Norwegian Computing Center by Kristen Nygaard andOle-Johan Dahl.,1,5
+html body text h4 span  ,3.1.2 Influences,0,5
+html body text p span  ,Algol 60 (as a subset).,1,5
+html body text h4 span  ,3.1.3 Development Time-line,1,5
+html body text p span  ,"In 1961 Nygaard was working for the Norwegian Computing Center (NCC),doing work with simulations and system analysis. Nygraad felt thatinstead of using existing tools, the best way to approach simulationprogramming, would be to have a special purpose simulation programming language,that could be used to model systems easily. With his background insimulations, he teamed up with Dahl (an experienced programmer withexperience in language design) in 1962.",1,5
+html body text p span  ,"Nygaard and Dahl proposed their idea for a simulation language in1963, and although their ideas did not receive much enthusiasm,political issues at the NCC resulted in a contract between the NCC andUNIVAC to provide a Simula implementation and compiler by 1965 - NCCdid so, and the result is known as ``Simula-I''. Refinements were madeto Simula I and in 1967 ``Simula-67'' was released. The most recentstandard is Simula-87.",1,5
+html body text h4 span  ,3.1.4 Features and Design,1,5
+html body text p span  ,"Simula started out as an activity/process based programming language, inwhich different types (and behavior) of activities are declared, andthen multiple processes can be created to carry out differentactivities. The key power in this original design, was that inaddition to having lists of actions to be performed, processes werealso data structures, and activities has associated methods. Theseactivities and processes had so much use besides just that ofsimulation, that when Simula-67 was released, they had been renamed``classes'' and ``objects'' (thus the birth of ``object oriented''programming).",1,5
+html body text p span  ,"In addition to all the features of Algol 60, Simula added support forObjects (as closures which return references to themselves) withprotected state, single inheritance for sub-typing and code sharing,partially abstract classes, method overriding, and nested closures(including nested procedures, classes, and classes local to procedures).",1,5
+html body text p span  ,"Its interesting to note that as the father of object orientedlanguages, Simula-67 does not support dynamic dispatch - something mostpeople consider necessary for ``true'' object oriented programming.Instead, an object must be downcast (error checked at run time) andthe appropriate attribute/method can then be accessed.",1,5
+html body text h3 a span  ,3.2,0,6
+html body text h3 span  ,Smalltalk,1,5
+html body text h4 span  ,3.2.1 Creators,0,5
+html body text p span  ,"Developed by Alan Kay, Dan Ingalls, and Adele Goldberg at Xerox PARC.",1,5
+html body text h4 span  ,3.2.2 Influences,0,5
+html body text p span  ,"B220 Tapes, Sketchpad, Simula, and Lisp.",1,5
+html body text h4 span  ,3.2.3 Development Time-line,1,5
+html body text p span  ,"In 1961, Alan Kay was a programmer for the Air force, and noticed thatsomeone had designed a system for ``Burroughs 220'' magnetic tapes inwhich the data on the tape could be of arbitrary format and size, thebeginning of the tape contained the actual code necessary to extractthe particular type of date (This would eventually come to be known asencapsulating code and date into objects).",1,5
+html body text p span  ,"In 1966, Kay went to graduate school at the University of Utah, on hisfirst day he was handed a packet of orientation information - whichincluded a paper on ``Sketchpad'' by Ivan Sutherland - and found on hisdesk a pile of tapes and printouts with the note ``This is the Algolfor the 1108. It doesn't work, Please make it work.''",1,5
+html body text p span  ,"Starting with the packet of information, Kay was fascinated bySutherland's paper. Sketchpad was a revolutionary graphics workstation(for it's time) which among other things: enabled the user to create``master drawings'' and from a master, create multitudes of ``instancedrawings'' with their own distinct characteristics. In addition, the datastructures used by Sketchpad were similar to the B220 tapes he hadseen in the Air Force, with embedded pointers for modifying thestructure.",1,5
+html body text p span  ,"Kay eventually got to work on the ``Algo'' printouts on his desk, andwas thoroughly confused, there were many constructs he had neverseen before and ``the documentation read like Norwegian translatedinto English.''[Kay93] What Kay had inadvertently been given was a copy ofSimula-I. Looking over the printouts, and reading the documentation,he realized the immense potential of programming withconstructs like Simula's activities and processes, or Sketchpad'smasters and instances. Kay quickly developed a vague idea forprogramming by not only breaking the problem down into smaller subproblems, but by breaking the computer down into thousands of smallersimulated computers (or objects) to solve all of the sub problems.",1,5
+html body text p span  ,"Kay began working on ``personal computers'' with an eye towards an``object oriented'' interface. In 1970 left Utah to work for XeroxPARC, and began developing a desktop computer or use by childrencalled ``KiddiKomp'' (later ``miniCOM'') which had a combinationprogramming language / user interface called Smalltalk(-71) to stressit's ease of use.",1,5
+html body text p span  ,"Smalltalk was redefined from scratch in 1972 on a bet, (that Kay coulddefine the ``most powerful language in the world'' in ``a page of code'')and Smalltalk-72 has since been considered the first ""real Smalltalk"".Smalltalk was redesigned again in 1976 by Dan Ingalls, and then againin 1980 just before it was released to the public.",1,5
+html body text h4 span  ,3.2.4 Features and Design,1,5
+html body text p span  ,"Smalltalk is an untyped, class based language. To better model thedifference between performing actions on types of objects, and on adistinct object, Smalltalk classifies attributes and methods asbelonging to either the class or to instances. Class methods arelocated in the class meta-object and can only refer to classattributes (also located in the meta-object to provide shared state forall instances). Instance methods are kept locally to each object andcan refer to both the class variables and the instance variables(which provide local state) All methods are public, while allattributes are private.",1,5
+html body text p span  ,"Single inheritance is provided, along with (partially) abstractclasses, and method overriding (including signature modification).Although Smalltalk is untyped, the main purpose of inheritance is notjust code sharing. The underlying principle is similar to sub-typingin that programmers should use inheritance to provide specializationof objects, and can subsequently feel secure that it will be safe touse an instance of a subclass as if it were an instance of thesuperclass - without having to worry about run time errors.",1,5
+html body text h3 a span  ,3.3,0,6
+html body text h3 span  ,Modula-3,1,5
+html body text h4 span  ,3.3.1 Creators,0,5
+html body text p span  ,"Designed by Luca Cardelli, Jim Donahue, Mick Jordan, Bill Kalsow, GregNelson. The specification was written by Lucille Glassman and Greg Nelson .",1,5
+html body text h4 span  ,3.3.2 Influences,0,5
+html body text p span  ,"Modula-2+ (and from it: Modula-2, Mesa, Cedar).",1,5
+html body text h4 span  ,3.3.3 Development Time-line,1,5
+html body text p span  ,"In November of 1986 Maurice Wilkes proposed that the ideas in Modula-2+ beformalized into a new standardized language in the Modula Family. Asa result the Modula-3 committee was formed by Digital EquipmentCorporation in cooperation with the Otivetti Research Center. Theinitial language definition was published in August of 1988, and thenrevised (based on the recommendations of implementors) in January of1989.",1,5
+html body text h4 span  ,3.3.4 Features and Design,1,5
+html body text p span  ,Modula-3 is a class based language in which class names act as type names - there are no explicit type definitions or declarations.,1,5
+html body text p span  ,"Class definitions are ``partial opaque'' - meaning that methods andattributes may or may not be visible to other classes. SingleInheritance is provided as a means of type specialization, (allowingsub-classes to override the methods of their super-class) which alsoprovides code reuse, and Abstract Classes are allowed as a means tospecify types (which contain only method declarations and signatures)without implementations.",1,5
+html body text p span  ,"In addition to inheritance as a method of class specification,Modula-3 provides Generic Modules which are templates parameterized bytypes. Generics are not polymorphic, and provide only source codereuse (not target code reuse).",1,5
+html body text p span  ,"Modula-3 is strongly typed, with no automatic conversion, or typeinference. In addition, Modula-3 defines type equality based ontype/class structure, and not type/class name:",1,5
+html body text blockquote p span  ,``,1,6
+html body text blockquote p em span  ,"Two types are the same if their definitions become the samewhen expanded; that is, when all constant expressions are replaced bytheir values and all type names are replaced by their definitions. Inthe case of recursive types, the expansion is the infinite limit ofthe partial expansions.",1,7
+html body text blockquote p span  ,'' [Nelson91],0,6
+html body text p span  ,"Beyond Modula-3's Object Oriented features, it also providesLightweight Threads, Exceptions, Modules, and Module Interfaces(similar to C header files, but more restrictive). The languagedefinition also provides a means for programmers to override thecompilers safety checks on particular modules by declaring themUnsafe.",1,5
+html body text h3 a span  ,3.4,0,6
+html body text h3 span  ,Self,1,5
+html body text h4 span  ,3.4.1 Creators,0,5
+html body text p span  ,David Ungar and Randall Smith.,1,5
+html body text h4 span  ,3.4.2 Influences,0,5
+html body text p span  ,"Self was most heavily influenced by Smalltalk, but borrows from a widevariety of prototype based research languages (specifically ``O'' byPeter Deutsch).",1,5
+html body text h4 span  ,3.4.3 Development Time-line,1,5
+html body text p span  ,"Self was initially designed in 1986, and the language design wasreleased in 1987. The first public implementation was released byStanford in 1991, the most recent release is Self 4.0 from SunMicrosystems in 1995.",1,5
+html body text h4 span  ,3.4.4 Features and Design,1,5
+html body text p span  ,"Self is a Classless Language, which uses prototype objects, andcloning to construct new objects. The run-time environment isresponsible for performing dynamic type checking, and there are noStatic types, or type declarations required (or even included) in thelanguage.",1,5
+html body text p span  ,"The fundamental principle of Self is ``Messages-at-the-Bottom''. Alloperations are implemented as messages. Every object is composedentirely of slots, which contain either state, or behavior. When amessage is received by an object, the slots of the object are checkedfor the corresponding message. If the message is not found in one ofthe objects slots, then the pointer in the slot named ``parent'' (whichevery object has as a result of cloning) is accessed, and the messagelookup on the slots recurses up the parent pointers.",1,5
+html body text p span  ,"Once the appropriate slot is found, the contents of the slot areeither a pointer to another object (a variable) or a method. methodscan be thought of as ``prototype activation records'' when a slot containing aprototype activation record is accessed, it is cloned (into an actualactivation record), and the a pointer to the object which was sent theoriginal message is stored in the ``parent'' slot (which can bethought of as a self pointer for the scope of the method)",1,5
+html body text p span  ,"In this manner, inheritance, shared state, code sharing, and dynamicdispatch are all provided via slots, messages, and cloning.",1,5
+html body text p span  ,"In addition, each slot of an object can be thought of as memoryaddress which can be reassigned at will. Thus not only can methods bemodified in the middle of program execution, but attributes can bechanged into methods, and vice-versa.",1,5
+html body text h3 a span  ,3.5,0,6
+html body text h3 span  ,Eiffel,1,5
+html body text h4 span  ,3.5.1 Creators,0,5
+html body text p span  ,Eiffel was designed by Bertrand Meyer at Interactive Software Engineering.,1,5
+html body text h4 span  ,3.5.2 Influences,0,5
+html body text p span  ,"The OO aspects of Eiffel were directly influenced by Simula67, whilethe ``Design By Contract'' aspects of the language were heavilyinfluenced by Meyer's earlier academic work in software verification.",1,5
+html body text h4 span  ,3.5.3 Development Time-line,1,5
+html body text p span  ,"The initial ideas for Eiffel were conceived in September of 1985, andsubsequently released to the public (as ISE Eiffel 1) in October of1986. Eiffel is still evolving, and the latest version is ISE Eiffel 4.",1,5
+html body text h4 span  ,3.5.4 Features and Design,1,5
+html body text p span  ,"Eiffel is a Class based language, in which the definition of ``Type''and ``Class'' are identical. Type equivalence is based on Classname equivalence.",1,5
+html body text p a sup span  ,3,0,7
+html body text p span  ,"Classes may contain (multiple) Feature clauses which can in turncontain multiple Attributes/values and Routines/procedures. Theclassification of a given feature (Routine or Attribute) is unknown toother classes, ie: an Attribute of type T has the same ``appearance'' asa Routine which takes no arguments and returns an item of type T.Each Feature list has an associated Client list specifying the Classes(of objects) which are permitted to access those particular features.Classes may also Defer the implementation of any feature, making it(and any sub-class which does not provide an implementation for eachdeferred feature) an Abstract class.",1,5
+html body text p span  ,"Genericity classes are class templates declared with Formal GenericParameters which may be constrained by a super-class. Instantiating aGeneric class requires an Actual Generic Parameter (which is asub-class of the specified constraint) for each formal parameter.These Generic classes provide source code reuse, but not target codereuse.",1,5
+html body text p span  ,"Eiffel supports multiple inheritance (including code reuse) withcompiler enforced Renaming of conflicting features. In addition,Eiffel allows the programmer to not only Redefine (or Undefine) theimplementation of particular features, but also modify the Client listof inherited features.",1,5
+html body text p span  ,"An interesting ``feature'' of the Eiffel specification, is that featureRedefinition is covariant. The reasoning is that for most situations,covariance is more useful then contravariance, and even though thelanguage specification allows the possibility of the run-time typeerrors, it is the responsibility of the compiler to catch thesesituations. But, as the Eiffel FAQ admits:",1,5
+html body text blockquote p span  ,``,1,6
+html body text blockquote p em span  ,no compiler available today implements full static type checking. Some insert run-time checks.,1,7
+html body text blockquote p span  ,'' [Arnaud98],1,6
+html body text p span  ,"One of the most predominant features of Eiffel is built in support for``Design By Contract'', which is not necessarily object oriented, butworks well with object oriented design processes. Eiffel providesAssertions in the form of Invariants over objects, andPre/Postconditions on individual routines. In general, an Assertionis a boolean expression which has no effect if true, but otherwiseresults in a Run Time Exception. Preconditions are evaluated prior tothe body of the associated routine (in the scope of the routine'sbody, with the formal parameters bound to the actual arguments).Postconditions are evaluated after the body of the associated routine(again, in the scope of the routine's body, with the formal parametersbound to the actual arguments). Invariants are evaluated after anyfeature is accessed.",1,5
+html body text p span  ,"Assertions are extremely powerful when combined with Inheritance.Eiffel requires not only that the Invariants of all super-classes arecompatible, but that the Redefinition of any feature must eitherad-hear to the initial Pre/Postconditions of the superclass, or have a weakerPrecondition and a stronger Postcondition.",1,5
+html body text h3 a span  ,3.6,0,6
+html body text h3 span  ,Sather,1,5
+html body text h4 span  ,3.6.1 Creators,0,5
+html body text p span  ,"Sather was designed at the International Computer Science Institute.The initial designers were Stephen Omohundro, Chu-Cheow Lim, and HeinzSchmidt.",1,5
+html body text h4 span  ,3.6.2 Influences,0,5
+html body text p span  ,"The major influence to Sather's design has been Eiffel, but it has alsobeen influenced directly by C, C++, Cecil, CLOS, CLU, Common Lisp,Dylan, ML, Modula-3, Oberon, Objective C, Pascal, SAIL, School, Self,and Smalltalk.",1,5
+html body text h4 span  ,3.6.3 Development Time-line,1,5
+html body text p span  ,"The initial design for Sather (``Version O'') was written in the summerof 1990, and released by ICSI to the public in June of 1991 (asversion 0.1). While the core language has not changed, new featureswere added slowly, leading up to the release of Sather 1.0 in thesummer of 1994, followed by Sather 1.1 in September, 1995. The mainaddition of 1.1 was the incorporation of Thread support from pSather(a language which had been evolving in parallel to Sather at ICSI).In addition to pSather, the language Sather-K is a derivative ofSather being developed at the University of Karlsruhe in Germany.Sather-K diverged from Sather when Sather 1.1 was released in 1995.",1,5
+html body text h4 span  ,3.6.4 Features and Design,1,5
+html body text p span  ,Sather is a Class based language which borrows a lot of ideas andsemantics from Eiffel (such as Generic Classes and Exceptions) butattempts to simplify where ever possible.,1,5
+html body text p span  ,"Like Eiffel, Sather provides public and private Attributes andRoutines (in addition to read-only Attributes). But unlike Eiffel,Sather does not permit explicit access lists for Features.",1,5
+html body text p span  ,"Sather also provides support for the ``Design By Contract'' principle inEiffel, including Pre/Postconditions, Invariants, and generalizedAsserts, which are statements that can appear in any block of code andresult in a fatal error if they do not evaluate to true.",1,5
+html body text p span  ,"The biggest difference between Sather and Eiffel is the Inheritancesystem. In Sather, Inheritance is divided into 2 notions: Sub-typing,and Code Inclusion.",1,5
+html body text p span  ,"Sub-typing is provided purely as a method of type specialization. A(Concrete) Class my be declared as a Sub-type of an Abstract class, andall objects of the Class then automatically conform to the type of theAbstract class. An Abstract class is only an Interface containingRoutine and Attribute type signatures, and does not contain any formof implementation (and hence: can not be instantiated). EachConcrete class may be a Sub-type of at most one Abstract class, butAbstract classes can by Sub-types of any number of other AbstractClasses.",1,5
+html body text p span  ,"In contrast to Sub-typing, Code Inclusion allows a class to directlyimport the implementation of other (multiple) classes, for the purposeof code reuse (without any affect on the Includer's type). The IncludingClass may Redefine, Undefine, Rename, or modify the access permissionsof any included Routines or Attribute, with compiler enforced Renamingof name conflicts. Similar to the notion of Abstract Classes withSub-Typing, there are Partial Classes, which posses no type (andhence: can not be instantiated) but may be included by any number ofConcrete Classes",1,5
+html body text p span  ,"(It may be convenient to think of Abstract Classes as typedeclarations which multiple Concrete Classes can implement, while PartialClasses are code repositories which can by used by multiple ConcreteClasses.)",1,5
+html body text p span  ,"The most impressive feature of Sather is the inclusion of the type``SAME'' which is the ``Self Type'' discussed in Object Oriented theory,but rarely implemented in actual languages.",1,5
+html body text h3 a span  ,3.7,0,6
+html body text h3 span  ,C++,1,5
+html body text h4 span  ,3.7.1 Creators,0,5
+html body text p span  ,Bjarne Stroustrup.,1,5
+html body text h4 span  ,3.7.2 Influences,0,5
+html body text p span  ,"C, Simula, and Cpre (a C preprocessor written by Stroustrup in 1979 tomake psuedo Simula Classes).",1,5
+html body text h4 span  ,3.7.3 Development Time-line,1,5
+html body text p span  ,"``C with Classes'' was released in 1980 as an enhanced version of C(implemented using C compilers with a preprocessor) which includedClasses for data abstraction. C with Classes was designed so that apreprocessor could make direct conversions from classes to structs, bymaking member functions global, renaming them to include the classname and modifying the argument list to include a the struct equivalentof the method's class as the first argument.",1,5
+html body text p span  ,"In 1982 Stroustrup began working an a better version of C with classeswhich would be ``truer'' Object Oriented superset of C. In 1983 thefirst version of C++ was released and more advanced Object Orientedfeatures were rapidly until 1995 when the first commercial versionwas released. More features (including templates) were continuallyadded until 1989, at which time C++ obtained some level of stability(An ISO standard version of C++ was finalized in 1998).",1,5
+html body text h4 span  ,3.7.4 Features and Design,1,5
+html body text p span  ,"C++ is a class based language, designed to allow the programmer verylow level control over object structure and access. Object orientedfeatures of C++ include: Virtual (abstract) functions - resulting in virtualclasses, public/private/protected access control over individual memberfunctions and attributes, friend classes (for allowing explicitlynamed classes to access private state), nested classes, multipleinheritance (for sub-typing and code sharing) with methodredefinition, and templated (generic) classes and functions.",1,5
+html body text p span  ,"Other general features include: user controlled memory (the heap),direct memory references, static type checking, method overloading,exceptions, threads, and explicitly constructed namespaces.",1,5
+html body text p span  ,"Unfortunately the language specification does not go far in explainingthe details of how these features interact, and many implementationsare incompatible.",1,5
+html body text h4 span  ,3.7.5 Java,0,5
+html body text h4 span  ,3.7.6 Creators,0,5
+html body text p span  ,"Developed by by James Gosling, Bill Joy, and Guy Steele at Sun Microsystems.",1,5
+html body text h4 span  ,3.7.7 Influences,0,5
+html body text p span  ,"Modula-3, C++, and Lisp.",1,5
+html body text h4 span  ,3.7.8 Development Time-line,1,5
+html body text p span  ,"The premise for Java arose from James Gosling in 1991, because of thefrustrations he had using C++ to program embedded systems software for``smart'' electronics devices at Sun Microsystems. Gosling began developing thelanguage ``Oak'' to be a safe, object oriented systems language. By1993 Oak had been renamed ``Java'' and several prototype electronicdevices that had been programmed with Java were available - but themarket didn't seem interest. Around this time, the WWW was drasticlyincreasing in use, and Sun began to see uses for Java's small, safe, platformindependent byte code in the online community. During 1994 thelanguage was refined and eventually released in as version 1.0 in1995. An update (1.1) was released in 1996.",1,5
+html body text h4 span  ,3.7.9 Features and Design,1,5
+html body text p span  ,"Java is a Class based language, that was originally designed forprogramming embeded systems. Because of this, the ideas of speed, platformindependence, and run time safety are crucial in it's design. As themotivation behind the language shifted to the WWW, the issues ofspeed, platform independence, and safety remained, but the idea ofdistributed programs became extremely important. One of the mainfeatures Java provides is the Remote Method Invocation (RMI) system,which allows semi-transparent method invocation and exchange ofobjects between virtual machines (even across the network)",1,5
+html body text p span  ,"In addition to the RMI, other general programming features supportedare exceptions, garbage collection (which is not only supported - butconsidered crucial), byte code verification (which validates the safetyof a given program), threads, method overloading, and packages (forcreating name spaces)",1,5
+html body text p span  ,"As an Object oriented language, Java supports multiple levels of implementationhiding, partially abstract classes, final classes (which can not beinherited from) and static (class) variables.",1,5
+html body text p span  ,"Single inheritance of Classes is provided for subtypeing and codesharing, in addition to multiple inheritance of ``Interfaces'' - which act asType declarations, or completely abstract classes. As of version 1.1,Java now also supports nested and anonymous classes.",1,5
+html body text h2 a span  ,4.,0,6
+html body text h2 span  ,Research References,1,5
+html body text dl dt b span  ,Abadi96,0,7
+html body text dl dd span  ,"Abadi, Martin and Cardelli, Luca",0,6
+html body text dl dd em span  ,A Theory of Objects,0,7
+html body text dl dd span  ,Springer-Verlag - 1996,0,6
+html body text dl dt b span  ,Arnaud98,0,7
+html body text dl dd span  ,"Arnaud, Franck",0,6
+html body text dl dd span  ,``comp.lang.eiffel Frequently Asked Questions'',0,6
+html body text dl dd em span  ,http://www.cis.ohio-state.edu/hypertext/faq/usenet/eiffel-faq/faq.html,0,7
+html body text dl dd span  ,- 1998,0,6
+html body text dl dt b span  ,Dahl66,0,7
+html body text dl dd span  ,"Dahl, Ole-Johan and Nygaard, Kristen",0,6
+html body text dl dd span  ,``Simula - an ALGOL-Based Simulation Language'',0,6
+html body text dl dd em span  ,"Communications of the ACM - v9, n9",0,7
+html body text dl dd span  ,Ed: D. E. Knuth - September 1966,0,6
+html body text dl dt b span  ,Dahl72,0,7
+html body text dl dd span  ,"Dahl, Ole-Johan and Hoare, C.A.R.",0,6
+html body text dl dd span  ,``Hierarchical Program Structures'',0,6
+html body text dl dd em span  ,Structured Programming,0,7
+html body text dl dd span  ,Ed: Ole-Johan Dahl - 1972,0,6
+html body text dl dt b span  ,Dugan94,0,7
+html body text dl dd span  ,"Dugan, Benedict",0,6
+html body text dl dd span  ,``Simula and Smalltalk: A Social and Political History'',0,6
+html body text dl dd em span  ,http://www.cs.washington.edu/homes/brd/history.html,0,7
+html body text dl dd span  ,- 1994,0,6
+html body text dl dt b span  ,Freeman95,0,7
+html body text dl dd span  ,"Freeman, Steve",0,6
+html body text dl dd span  ,``Partial Revelation and Modula-3'',0,6
+html body text dl dd em span  ,"Dr. Dobb's Journal - v20, n10",0,7
+html body text dl dd span  ,- October 1995,0,6
+html body text dl dt b span  ,Foote89,0,7
+html body text dl dd span  ,"Foote, Brian",0,6
+html body text dl dd span  ,``Class Warfare: Classes vs Prototypes'',0,6
+html body text dl dd em span  ,http://laputa.isdn.uiuc.edu/warfare.html,0,7
+html body text dl dd span  ,- August 1989,0,6
+html body text dl dt b span  ,Gomes,0,7
+html body text dl dd span  ,"Gomes, B.; Stoutamire, D.; Weisssman, B.; and Klawitter, H.",0,6
+html body text dl dd span  ,``Sather 1.1 : Language Essentials'',0,6
+html body text dl dd em span  ,http://www.icsi.berkeley.edu/~sather/Documentation/LanguageDescription/contents.html,0,7
+html body text dl dt b span  ,Gosling96,0,7
+html body text dl dd span  ,"Gosling, James; Joy, Bill; and Steele, Guy",0,6
+html body text dl dd span  ,``The Java Language Specification'',0,6
+html body text dl dd em span  ,http://java.sun.com/docs/books/jls/html/,0,7
+html body text dl dd span  ,- 1996,0,6
+html body text dl dt b span  ,Gosling96-2,0,7
+html body text dl dd span  ,"Gosling, James and McGilton Henry",0,6
+html body text dl dd em span  ,The Java Language Environment,0,7
+html body text dl dd span  ,Sun Microsystems - 1996,0,6
+html body text dl dt b span  ,Gosling97,0,7
+html body text dl dd span  ,"Gosling, James",0,6
+html body text dl dd span  ,``The Feel of Java'',0,6
+html body text dl dd em span  ,Computer,0,7
+html body text dl dd span  ,Ed: IEEE - 1997,0,6
+html body text dl dt b span  ,Kay93,0,7
+html body text dl dd span  ,"Kay, Alan",0,6
+html body text dl dd span  ,``The Early History of Smalltalk'',0,6
+html body text dl dd em span  ,"ACM SIGPLAN NOTICES - v28, n3",0,7
+html body text dl dd span  ,Ed: Richard Wexelblat - March 1993,0,6
+html body text dl dt b span  ,Khor95,0,7
+html body text dl dd span  ,"Khor, Kheng-Khoon; Chavis, Nathaniel; Lovett, Steve; and White, David",0,6
+html body text dl dd span  ,``IBM Smalltalk Tutorial'',0,6
+html body text dl dd em span  ,http://www2.ncsu.edu/eos/info/ece480_info/project/spring96/proj63/www/,0,7
+html body text dl dd span  ,- 1995,0,6
+html body text dl dt b span  ,Knudsen97,0,7
+html body text dl dd span  ,"Knudsen, Jorgen Lindskov",0,6
+html body text dl dd span  ,``The BETA Home Page'',0,6
+html body text dl dd em span  ,http://www.daimi.aau.dk/~beta/,0,7
+html body text dl dd span  ,- 1997,0,6
+html body text dl dt b span  ,Madsen86,0,7
+html body text dl dd span  ,"Madsen, Ole Lehrmann",0,6
+html body text dl dd span  ,``Block Structure and Object Oriented Languages'',0,6
+html body text dl dd em span  ,"ACM SIGPLAN NOTICES - v21, n10",0,7
+html body text dl dd span  ,Ed: G. Richard Wexelblat - October 1986,0,6
+html body text dl dt b span  ,Madsen88,0,7
+html body text dl dd span  ,"Madsen, Ole Lehrmann",0,6
+html body text dl dd span  ,``What object-oriented programming may be - and what it does not have to be'',0,6
+html body text dl dd em span  ,Lecture Notes in Computer Science,0,7
+html body text dl dd span  ,Ed: G. Goos and J. Hartmanis - 1988,0,6
+html body text dl dt b span  ,Meyer92,0,7
+html body text dl dd span  ,"Meyer, Bertrand",0,6
+html body text dl dd em span  ,Eiffel: The Language,0,7
+html body text dl dd span  ,Prentice Hall International - 1992,0,6
+html body text dl dt b span  ,Meyer98,0,7
+html body text dl dd span  ,"Meyer, Bertrand",0,6
+html body text dl dd span  ,``An Invitation to Eiffel'',0,6
+html body text dl dd em span  ,http://www.eiffel.com/doc/manuals/language/intro/,0,7
+html body text dl dd span  ,- 1998,0,6
+html body text dl dt b span  ,Nelson91,0,7
+html body text dl dd span  ,"Nelson, Greg",0,6
+html body text dl dd em span  ,Systems Programming with Modula-3,0,7
+html body text dl dd span  ,Prentice Hall Series in Innovative Technology - 1998,0,6
+html body text dl dt b span  ,Nguyen86,0,7
+html body text dl dd span  ,"nguyen, Van and Hailpern, Brent",0,6
+html body text dl dd span  ,``A Generalized Object Model'',0,6
+html body text dl dd em span  ,"ACM SIGPLAN NOTICES - v21, n10",0,7
+html body text dl dd span  ,Ed: G. Richard Wexelblat - October 1986,0,6
+html body text dl dt b span  ,Nygaard81,0,7
+html body text dl dd span  ,"Nygaard, Kristen and Dahl, Ole-Johan",0,6
+html body text dl dd span  ,``The Development of the Simula Languages'',0,6
+html body text dl dd em span  ,History of Programming Languages,0,7
+html body text dl dd span  ,Ed: Richard Wexelblat - 1981,0,6
+html body text dl dt b span  ,Nygaard86,0,7
+html body text dl dd span  ,"Nygaard, Kristen",0,6
+html body text dl dd span  ,``Basic Concepts of Object Oriented Programming'',0,6
+html body text dl dd em span  ,"ACM SIGPLAN NOTICES - v21, n10",0,7
+html body text dl dd span  ,Ed: G. Richard Wexelblat - October 1986,0,6
+html body text dl dt b span  ,Omohundro96,0,7
+html body text dl dd span  ,"Omohundro, Stephen",0,6
+html body text dl dd span  ,"``The Sather language: Efficient, Interactive, Object-Oriented Programming''",0,6
+html body text dl dd em span  ,http://www.icsi.berkeley.edu/~sather/Publications/article.html,0,7
+html body text dl dd span  ,- 1996,0,6
+html body text dl dt b span  ,Rentsch82,0,7
+html body text dl dd span  ,"Nguyen, Van and Hailpern, Brent",0,6
+html body text dl dd span  ,``A Generalized Object Model'',0,6
+html body text dl dd em span  ,"ACM SIGPLAN NOTICES - v17, n9",0,7
+html body text dl dd span  ,Ed: G. Richard Wexelblat - September 1982,0,6
+html body text dl dt b span  ,Stroustrup86,0,7
+html body text dl dd span  ,"Stroustrup, Bjarne",0,6
+html body text dl dd span  ,``An Overview of C++'',0,6
+html body text dl dd em span  ,"ACM SIGPLAN NOTICES v21, n10",0,7
+html body text dl dd span  ,Ed: G. Richard Wexelblat - October 1986,0,6
+html body text dl dt b span  ,Stroustrup91,0,7
+html body text dl dd span  ,"Stroustrup, Bjarne",0,6
+html body text dl dd span  ,``What is ``Object-Oriented Programming''? (1991 revised version)'',0,6
+html body text dl dd em span  ,http://www.research.att.com/~bs/whatis.ps,0,7
+html body text dl dd span  ,- 1991,0,6
+html body text dl dt b span  ,Stroustrup94,0,7
+html body text dl dd span  ,"Stroustrup, Bjarne",0,6
+html body text dl dd em span  ,The Design and Evolution of C++,0,7
+html body text dl dd span  ,Addison-Wesley - 1994,0,6
+html body text dl dt b span  ,Stroustrup98,0,7
+html body text dl dd span  ,"Stroustrup, Bjarne",0,6
+html body text dl dd span  ,``An Overview of the C++ Programming Language'',0,6
+html body text dl dd em span  ,http://www.research.att.com/~bs/crc.ps,0,7
+html body text dl dd span  ,- 1991,0,6
+html body text dl dt b span  ,Ungar91,0,7
+html body text dl dd span  ,"Ungar, David and Smith, Randall B.",0,6
+html body text dl dd span  ,``Self: The Power of Simplisity'',0,6
+html body text dl dd em span  ,"LISP and Symbolic Computation: An International Journal - v4, n3",0,7
+html body text dl dd span  ,- 1991,0,6
+html body text dl dt b span  ,Winder97,0,7
+html body text dl dd span  ,"Winder, Russell and Roberts, Graham",0,6
+html body text dl dd span  ,``A (Very!) Short History of Java'',0,6
+html body text dl dd em span  ,http://www.dcs.kcl.ac.uk/DevJavaSoft/Copy/book-7.html,0,7
+html body text dl dd span  ,- 1997,0,6
+html body text dl dt b span  ,Wolczko96,0,7
+html body text dl dd span  ,"Wolczko, Mario and Smith, Randall B.",0,6
+html body text dl dd span  ,``Prototype-Based Application Construction Using SELF 4.0'',0,6
+html body text dl dd em span  ,http://www.cs.ucsb.edu/oocsb/self/release/Self-4.0/Tutorial/,0,7
+html body text dl dd span  ,- 1996,0,6
+html body text h3 span  ,Footnotes:,1,5
+html body text p a sup span  ,1,0,7
+html body text p span  ,"But in theory, what really mattersis what the author learned.",1,5
+html body text p a sup span  ,2,0,7
+html body text p span  ,"It's interesting to note that although most of the literature agrees that a feature to inspect the type of an object at run time is contrary to the OO philosophy, the same sources all agree that dynamic dispatch is a must - but the two features are equivalent.",1,5
+html body text p a sup span  ,3,0,7
+html body text p span  ,"in the case of generic class templates, class nameequivalence includes the names of the actual parameters",1,5

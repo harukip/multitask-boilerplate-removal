@@ -1,0 +1,124 @@
+tag,content,label,depth
+html body text div div div div a span  ,Yahoo!7,0,9
+html body text div div div div a span  ,My Yahoo!7,0,9
+html body text div div div div a span  ,Yahoo! Mail,0,9
+html body text div div div div div a span  ,Health Home,0,10
+html body text div div div div div span  ,-,0,9
+html body text div div div div div a span  ,Help,0,10
+html body text div div div div a span  ,Sign In,0,9
+html body text div div div div span span  ,[New User?,0,9
+html body text div div div div span a span  ,Sign Up,0,10
+html body text div div div div span span  ,],0,9
+html body text center table tbody tr td a font strong span  ,Home,0,12
+html body text center table tbody tr td a font strong span  ,Women's Health,0,12
+html body text center table tbody tr td a font strong span  ,Men's Health,0,12
+html body text center table tbody tr td a font strong span  ,Sexual Health,0,12
+html body text center table tbody tr td a font strong span  ,Parenting,0,12
+html body text center table tbody tr td a font strong span  ,Fitness,0,12
+html body text center table tbody tr td a font strong span  ,Diet & Nutrition,0,12
+html body text center table tbody tr td a font strong span  ,Natural,0,12
+html body text center table tbody tr td a font strong span  ,Library,0,12
+html body text table tbody tr td table tbody tr td span span  ,Search for,0,13
+html body text table tbody tr td table tbody tr td select option span  ,Yahoo! Health,0,14
+html body text table tbody tr td table tbody tr td select option span  ,Yahoo! News,0,14
+html body text table tbody tr td table tbody tr td table tbody tr td small font strong span  ,hot topics :,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td small a font strong span  ,Pregnancy,0,20
+html body text table tbody tr td table tbody tr td table tbody tr td small font span  ,|,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td small a font strong span  ,Sexual Health,0,20
+html body text table tbody tr td table tbody tr td table tbody tr td small font span  ,|,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td small a font strong span  ,Diets,0,20
+html body text table tbody tr td table tbody tr td table tbody tr td small font span  ,|,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td small a font strong span  ,CHOICE Reviews,0,20
+html body text table tbody tr td table tbody tr td table tbody tr td small font span  ,|,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td small a font strong span  ,Health Message Boards,0,20
+html body text table tbody tr td table tbody tr td a small font span  ,Home,0,15
+html body text table tbody tr td table tbody tr td font span  ,›,0,13
+html body text table tbody tr td table tbody tr td a small font span  ,CHOICE Magazine,0,15
+html body text table tbody tr td table tbody tr td font span  ,›,0,13
+html body text table tbody tr td table tbody tr td small strong font span  ,Product review,0,15
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td h1 span  ,Blood pressure monitors - 5-minute CHOICE,1,21
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span  ,»,0,21
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td a small font span  ,printer friendly version,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td h3 span  ,What to look for,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,"About one in seven Australian adults suffer from some form of high blood pressure, or hypertension (as it's known medically). If you're one of them, monitoring your condition regularly at home with a blood pressure monitor (and in co-operation with your GP) can be useful.",1,16
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,"Buy from a pharmacy or medical equipment supplier, where you can get proper advice and a demonstration of how to use the monitor.",1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,"Arm monitors are generally more accurate than wrist models; in our test, only one wrist model could match them.",1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,"If you buy an arm monitor, measure your arm size to get the right-size cuff.",1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,Make sure the monitor's keys and display are easy to read.,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,"Models that inflate the cuff automatically tend to work better than those requiring you to do it manually (by pumping a bulb), though there are exceptions.",1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,"The cuff has to be inflated to a level above the systolic blood pressure. However, the automatic setting on the monitor may be a lot higher, and you may find it uncomfortable. Models with adjustable inflation level allow you to program the pressure to one that's comfortable for you. Models with fuzzy logic detect the ideal inflation level automatically.",1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,"If a monitor has a memory to store a number of your recent blood pressure measurements, it can be helpful as a back-up. However, it's a good idea to record all measurements separately, so that you and your GP get a sufficient history.",1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,Manufacturers give different advice regarding the use of rechargeable batteries; check in the shop before you buy.,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,"While you should use a blood pressure monitor in co-operation with your GP, it's still very helpful if the monitor comes with good general background information on blood pressure issues, for your reference.",1,18
+html body text table tbody tr td table tbody tr td table tbody tr td h3 span  ,What's blood pressure?,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,"Blood pressure is created by the heart pumping blood through the arteries. It's measured as two numbers, in millimetres of mercury (mmHg) based on the standard method using a mercury sphygmomanometer (the machine your doctor uses in their surgery) and a stethoscope; giving a result such as '120 over 80' (120/80 mmHg).",1,16
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"The higher figure is the systolic pressure, caused by the contracting (beating) heart. The lower figure is called diastolic, and is the pressure between beats, when the heart relaxes.",1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Hypertension can increase the risk of heart attack, stroke, heart failure and kidney disease, but doesn't necessarily do so. When weighing up your risk, your GP will also consider factors such as your age, sex, family history and weight, and whether you smoke.",1,17
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td b span  ,WHO definitions,1,21
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td b span  ,Blood pressure (mmHg),1,21
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td b span  ,Diagnosis,1,21
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,Up to 120/80,1,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,Optimal,1,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,Up to 130/85,1,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,Normal,1,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,Up to 140/90,1,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,High normal,1,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,Up to 160/100,1,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,Mild hypertension,1,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,Up to 180/110,1,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,Moderate hypertension,1,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,Above 180/110,1,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,Severe hypertension,1,20
+html body text table tbody tr td table tbody tr td table tbody tr td h3 span  ,What you can do,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,Your lifestyle can have an impact on your blood pressure. To prevent hypertension or to manage it once you've been diagnosed:,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,"Have regular check-ups, especially when you know you have high blood pressure.",1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,Don't smoke.,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,Limit the amount of alcohol you drink.,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,"Exercise regularly (but note that there are certain sports to avoid when you have high blood pressure, such as lifting heavy weights). Consider stress-reducing techniques such as yoga and meditation.",1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,"Avoid salty and fatty foods, and reduce your consumption of red meat.",1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,"Eat plenty of cereals, fish, fruit and vegetables.",1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,Achieve and maintain a healthy body weight.,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,"If lifestyle changes don't lower your blood pressure enough, your doctor may prescribe medication. Make sure you take it, and don't adjust the dosage yourself based on your own blood pressure measurements. This is known as 'self-diagnosis', and fiddling with your medication yourself can have serious consequences.",1,18
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,See the full,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td b a span  ,CHOICE report,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,.,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Go to choice.com.au for more expert, unbiased advice on appliances, electronics, food and finances. Buy smarter, go to",0,17
+html body text table tbody tr td table tbody tr td table tbody tr td p a b span  ,choice.com.au,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,first.,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b small span  ,This article last reviewed April 2005.,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td form table tbody tr td table tbody tr td strong font span  ,Yahoo! Local Search -,0,27
+html body text table tbody tr td table tbody tr td table tbody tr td form table tbody tr td table tbody tr td font span  ,"Find health practitioners, services and products in your area",0,26
+html body text table tbody tr td table tbody tr td table tbody tr td form table tbody tr td table tbody tr td font strong span  ,Search Locally for:,0,27
+html body text table tbody tr td table tbody tr td table tbody tr td form table tbody tr td table tbody tr td font strong span  ,in location:,0,27
+html body text table tbody tr td table tbody tr td table tbody tr td form table tbody tr td table tbody tr td table tbody tr td font strong span, Keyword,0,31
+html body text table tbody tr td table tbody tr td table tbody tr td form table tbody tr td table tbody tr td table tbody tr td font strong span, Business name,0,31
+html body text table tbody tr td table tbody tr td table tbody tr td form table tbody tr td table tbody tr td table tbody tr td font strong span, Include Surrounding Suburbs,0,31
+html body text table tbody tr td table tbody tr td table tbody tr td span span  ,ADVERTISEMENT,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td b span  ,Most Recent Posts on Health Message Boards,0,21
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,Topic,0,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,Num Replies,0,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,General Chat #2,0,21
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,1345,0,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,post op relationship and personal issues,0,21
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,153,0,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,Knox Hospital bandits - Melbourne,0,21
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,111,0,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,Long clear jelly string?,0,21
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,1,0,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,More Health Boards,0,21
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td font a span  ,Kids' lunchbox foods under the microscope,0,22
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span  ,Three quarters of the kids' lunchbox snacks reviewed by CHOICE didn't meet all the nutrition criteria set by the independent consumer magazine.,0,21
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td font small a span  ,Read more...,0,23
+html body text center center a span  ,Don't get sick in South East Asia. Find out more.,0,7
+html body text table tbody tr td div div span  ,Copyright © 2006 Yahoo! Australia & NZ Pty Limited. All rights reserved.,0,10
+html body text table tbody tr td div div a span  ,Privacy Policy,0,11
+html body text table tbody tr td div div span  ,-,0,10
+html body text table tbody tr td div div a span  ,Terms of Service,0,11
+html body text table tbody tr td div div span  ,-,0,10
+html body text table tbody tr td div div a span  ,Help,0,11
+html body text table tbody tr td center small a span  ,Site Map,0,11
+html body text table tbody tr td center small span  ,-,0,10
+html body text table tbody tr td center small a span  ,Health News Archive,0,11
+html body text table tbody tr td center small span  ,-,0,10
+html body text table tbody tr td center small a span  ,Health RSS,0,11
+html body text table tbody tr td font span  ,Partner Copyright: Copyright © 2004 Australian Consumers' Association All rights reserved.,0,9

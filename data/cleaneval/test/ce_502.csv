@@ -1,0 +1,145 @@
+tag,content,label,depth
+html body text title span span  ,PTC Express: Comparing Two Versions of the Same Part with Pro/ENGINEER Wildfire 2.0 and Pro/INTRALINK 3.4,0,6
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span span  ,October 2004,0,23
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font b span span  ,Comparing Two Versions of the Same Part with Pro/ENGINEER Wildfire 2.0 and Pro/INTRALINK 3.4,1,24
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font em span span  ,"by Victor Gerdes, PTC Senior Product Manager",1,24
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"Pro/INTRALINK can accurately track changes to Pro/ENGINEER files including the version, revision, and lifecycle, but cannot capture the types of changes within the Pro/ENGINEER model files.",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"For example, there may be meta-data, geometry, drawing, or cosmetic changes between two file versions that is not tracked at all. To determine the difference between two Pro/ENGINEER file versions, you can either manually compare the Pro/ENGINEER models or ask the designer who made the changes to point out the differences between the two models.",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,Both of these methods are time consuming and risky.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,Pro/ENGINEER Wildfire 2.0 has the ability to compare two part files and,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"provide a fast, precise, error-free report",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,identifying the differences.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,Part comparison and difference reporting allow you to understand,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span span  ,exactly,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,what has changed between two Pro/ENGINEER part files.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"What’s more, with Pro/ENGINEER Wildfire 2.0 and Pro/INTRALINK 3.4, you can achieve even better part comparison and difference-reporting to highlight and detail the differences between two parts.",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,You can compare:,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font ul li span span  ,A part from a Workspace with a part in the Commonspace,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font ul li span span  ,A part from disk with a part in the Commonspace,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font ul li span span  ,A part from a Workspace with a part from disk,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,You can also compare two versions of the same part or two different parts.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"When you compare two versions of the same part, it is necessary to enter a replacement name when opening the comparison part, since Pro/ENGINEER does not allow two models with the same name in session.",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,You can format the difference report to show any combination of the following types of changes:,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font ul li span span  ,Metadata,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font ul li span span  ,Geometry,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font ul li span span  ,Drawing,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font ul li span span  ,Cosmetic,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,The steps for comparing two versions of the same part in Pro/ENGINEER Wildfire 2.0 with Pro/INTRALINK are as follows:,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,1.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,Start Pro/ENGINEER Wildfire 2.0 linked to a Pro/INTRALINK workspace either by:,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,o,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"Launching Pro/ENGINEER, then registering Pro/INTRALINK as your server.",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,o,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,Set Pro/INTRALINK as Primary Server and choose the Active Workspace you want to work with.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,Or,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,o,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,Launching Pro/ENGINEER from a Pro/INTRALINK browser with the workspace you want to work with.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,2.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,Retrieve a part into Pro/ENGINEER.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,The first part will be referred to as the,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span b span  ,Base Model.,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"For example, in",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span b span  ,Figure 1,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,", the base model is “0001_COMP_4.PRT”.",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,3.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"In Pro/ENGINEER Wildfire 2.0, click",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span strong span  ,Analysis > Compare > By Feature,1,28
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,. The,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span strong span  ,File Open,1,28
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,dialog box opens.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,4.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,Choose,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span b span  ,File | Open,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,or select the Pro/INTRALINK cabinet icon in the Folder Navigator to browse your Pro/INTRALINK Commonspace for the comparison model. Locate and retrieve the second part you want to compare.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,o,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"If you want to compare the same part, select the latest version of the part that is currently in session and click",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span strong span  ,Open,1,28
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,o,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"Because the part that you are opening has the same name as the object in session, the",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span strong span  ,Version Conflict,1,28
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,dialog box opens. Enter a replacement name for the part and click,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span strong span  ,OK,1,28
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,. The system saves the comparison model under the specified file name.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,In,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span b span  ,Figure 2,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,", we compare the latest version of the same part, “0001_COMP_4.PRT”, and give it a replacement name of “PRT0001.PRT”.",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p b i span span  ,Note:,1,28
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,Each of the two Pro/ENGINEER parts will appear in a separate window.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,The Base Model will be in the active Pro/ENGINEER window.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,5.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,Pro/ENGINEER will generate and display the,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span b span  ,Model Comparison,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,report in the Pro/ENGINEER Wildfire browser as shown in,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span b span  ,Figure 3,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"The Model Comparison report displays the name of the base model and its version, and the name of the comparison model and its version.",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"If you provide a replacement name for the comparison model, the Model Comparison report will display the original name of the comparison model.",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,In,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span b span  ,Figure 3,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,", the Base Model name and the Comparison Model name are the same, “",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span b span  ,"0001_COMP_4.PRT”,",1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,as shown in,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span b span  ,Figure 3,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"By default, the Model Comparison report will display all the change types. The",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span b span  ,Filter Change Types,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,option in the difference report allows you to configure the report to display only the change types you want to see.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,Check the box next to each,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span b span  ,Change Type,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"of interest, choose",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span b span  ,Apply,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,", and the Model Comparison report will display only the selected changes types.",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font table tbody tr td p span span  ,Change Type,1,30
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font table tbody tr td p span span  ,Description,1,30
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font table tbody tr td p span span  ,Metadata,1,30
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font table tbody tr td p span span  ,A difference in the value of a system or user defined parameter,1,30
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font table tbody tr td p span span  ,Geometry,1,30
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font table tbody tr td p span span  ,Addition or removal of a feature or a difference in a feature’s dimensions,1,30
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font table tbody tr td p span span  ,Drawing,1,30
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font table tbody tr td p span span  ,"Differences related to views, geometric tolerances, notes, or sections",1,30
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font table tbody tr td p span span  ,Cosmetic,1,30
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font table tbody tr td p span span  ,"A change in a cosmetics, such as color",1,30
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"For further information about a Geometry change, you may:",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span font span  ,·,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,Highlight an affected feature by clicking the,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,triangle icon in the column under the Base Model or the Comparison Model.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,Selecting the triangle icon will cause the affected feature to be highlighted in the window of the affected model.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span font span  ,·,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,See feature information on an affected feature by clicking the info icon and the feature information will be displayed in the browser.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p b span span  ,Note:,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"If you want to compare an earlier version of a part with the latest version of the part, you must first retrieve the earlier version into Pro/ENGINEER as your base model.",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,Then you can retrieve the latest version of the model for comparison.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p font font strong span  ,Summary.,1,28
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p font font span  ,"Pro/ENGINEER Wildfire part difference analysis currently supports comparing two parts. Comparison of assemblies, drawings, and family tables is not supported with Pro/ENGINEER Wildfire 2.0 but is planned to be available with the next release of Pro/ENGINEER Wildfire.",1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,"When choosing the comparison model, Pro/ENGINEER Wildfire will retrieve the latest version of the selected file.",1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,This is useful when trying to identify the changes you made to a model that you checked out and worked on in Pro/ENGINEER.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,Pro/ENGINEER Wildfire part difference analysis is,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span span  ,also,1,27
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font p span span  ,available with Windchill PDMLink.,1,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font span span  ,Was this tip helpful?,0,25
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font span a span  ,Let us know,0,26
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span font span span  ,.,0,25
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font font a b span  ,[PRINTER FRIENDLY VERSION],0,25
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font a span  ,HOME,0,23
+html body text div table tbody tr td table tbody tr td font table tbody tr td table tbody tr td table tbody tr td font a span  ,Release-to-Manufacturing Without the Back-and-Forth,0,28
+html body text div table tbody tr td table tbody tr td font table tbody tr td table tbody tr td table tbody tr td font a span  ,Tips of the Month,0,28
+html body text div table tbody tr td table tbody tr td font table tbody tr td table tbody tr td table tbody tr td font a span  ,Knowledge Base Exclusive,0,28
+html body text div table tbody tr td table tbody tr td font table tbody tr td table tbody tr td table tbody tr td font a span  ,Tips & Techniques Webcasts,0,28
+html body text div table tbody tr td table tbody tr td font table tbody tr td table tbody tr td table tbody tr td font a span  ,Pro/NC Sheetmetal and EFX Unite!,0,28
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span p span  ,Figure 1,0,24
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span p span  ,Figure 2,0,24
+html body text div table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span p span  ,Figure 3,0,24
+html body text div table tbody tr td table tbody tr td center font a span  ,Contact PTC,0,16
+html body text div table tbody tr td table tbody tr td center font span  ,|,0,15
+html body text div table tbody tr td table tbody tr td center font a span  ,Privacy Policy,0,16
+html body text div table tbody tr td table tbody tr td center font span  ,|,0,15
+html body text div table tbody tr td table tbody tr td center font a span  ,PTC Express Archive,0,16
+html body text div table tbody tr td table tbody tr td center font span  ,|,0,15
+html body text div table tbody tr td table tbody tr td center font a span  ,Subscribe,0,16
+html body text div table tbody tr td table tbody tr td center font span  ,|,0,15
+html body text div table tbody tr td table tbody tr td center font a span  ,Unsubscribe,0,16
+html body text div table tbody tr td table tbody tr td center font span  ,|,0,15
+html body text div table tbody tr td table tbody tr td center font a span  ,Change Preferences,0,16
+html body text div table tbody tr td table tbody tr td center font span  ,|,0,15
+html body text div table tbody tr td table tbody tr td center font a span  ,Edit Profile,0,16

@@ -1,0 +1,323 @@
+tag,content,label,depth
+html body text title span span  ,Kermit - Technical Support,0,6
+html body text table tbody tr td span  ,[,0,8
+html body text table tbody tr td a span  ,Home,0,9
+html body text table tbody tr td span  ,] [,0,8
+html body text table tbody tr td a span  ,Kermit 95,0,9
+html body text table tbody tr td span  ,] [,0,8
+html body text table tbody tr td a span  ,C-kermit,0,9
+html body text table tbody tr td span  ,] [,0,8
+html body text table tbody tr td a span  ,Scripts,0,9
+html body text table tbody tr td span  ,] [,0,8
+html body text table tbody tr td a span  ,Current,0,9
+html body text table tbody tr td span  ,] [,0,8
+html body text table tbody tr td a span  ,New,0,9
+html body text table tbody tr td span  ,] [,0,8
+html body text table tbody tr td a span  ,FAQ,0,9
+html body text table tbody tr td span  ,] [ Support ],0,8
+html body text h1 big tt span  ,Kermit - Technical Support,0,7
+html body text ul li b a span  ,KERMIT 95 SUPPORT AND UPDATE STATUS,0,8
+html body text ul li b a span  ,C-KERMIT SUPPORT AND UPDATE STATUS,0,8
+html body text ul li b a span  ,MS-DOS KERMIT SUPPORT AND UPDATE STATUS,0,8
+html body text ul li b a span  ,OTHER KERMIT PROGRAMS,0,8
+html body text ul li b a span  ,HOW TO GET TECHNICAL SUPPORT,0,8
+html body text ul li b a span  ,ORGANIZATIONAL SUPPORT,0,8
+html body text ul li b a span  ,HINTS FOR PREPARING A PROBLEM REPORT,0,8
+html body text p i span  ,Most recent update:,0,6
+html body text p span  ,Thu Dec 14 15:21:17 2006,0,5
+html body text b a span  ,KERMIT 95 SUPPORT AND UPDATE STATUS,1,6
+html body text p span  ,All software has bugs. Every time a new version of,1,5
+html body text p a span  ,Kermit 95,1,6
+html body text p span  ,"is released,no matter how thoroughly tested, bug reports arrive after the fact. Wedocument Kermit 95 bugs in several places:",1,5
+html body text dl dt a span  ,KERMIT 95BUG LIST,1,7
+html body text dl dt span  ,.,1,6
+html body text dl dd span  ,"Known bugs (most of them fixed, or with workarounds provided) at the time ofthe most recent release (HTML).",1,6
+html body text dl dt a span  ,KERMIT 95BUG LIST ADDITIONS AND UPDATES,1,7
+html body text dl dt span  ,.,1,6
+html body text dl dd span  ,"Bugs discovered or reported since the most recent release, often withworkarounds (plain text).",1,6
+html body text dl dt a span  ,KERMIT 95FREQUENTLY ASKED QUESTIONS,1,7
+html body text dl dt span  ,.,1,6
+html body text dl dd span  ,Commonly reported problems are addressed here.,1,6
+html body text p span  ,Kermit 95 was written over a period of years by members of the KermitProject at Columbia University. It is essentially,1,5
+html body text p a span  ,C-Kermit,1,6
+html body text p span  ,"with Windows-specific code layered on top(notably the terminal emulator and the GUI features) and underneath (Windowsfile, device, and networking interfaces). Due to diminished revenues afterthe economic decline of 2000-2001, Jeffrey Altman, the author of theWindows-specific code (as well as of the security code � SSH, SSL/TLS,Kerberos, and SRP � and much else) was laid off and now has his owncompany,",1,5
+html body text p a span  ,"Secure Endpoints,Inc",1,6
+html body text p span  ,". All our Windows development expertise is now at that company.Jeff continues to work on Kermit 95, and has produced numerous fixes andenhancements, listed here:",1,5
+html body text blockquote a span  ,http://www.columbia.edu/~jaltman/k95-fixes-since-213.txt,0,6
+html body text p span  ,"Since Jeff is no longer paid by Columbia to do this work, his updates are notavailable from the Kermit Project. If you need any of the updates listedin the document just referenced, you can get them directly from Jeff underthe terms listed here:",1,5
+html body text blockquote a span  ,http://www.columbia.edu/~jaltman/,0,6
+html body text p span  ,"Similarly, those who need new features added or custom modifications madeto Kermit 95 should contact Jeff directly.",1,5
+html body text p span  ,Kermit 95,1,5
+html body text p i span  ,support,1,6
+html body text p span  ,"(questions, troubleshooting, etc) is provided bythe Kermit Project as outlined in the below, except that when a probleminvolves certain facets of the program (such as terminal emulation orsecurity) it might be necessary to refer the case to Secure Endpoints.",1,5
+html body text p span  ,We do expect to have a,1,5
+html body text p a b span  ,new Kermit 95 release,1,7
+html body text p span  ,incorporating all of Jeff's changes � as well as newdevelopments in C-Kermit itself � available at some point. The exacttiming and terms are yet to be determined. Changes to C-Kermit since K952.1.3 (which was based on C-Kermit 8.0.206) was released are listed in thefollowing pages:,1,5
+html body text ul li a span  ,http://www.columbia.edu/kermit/ckc208.html,0,7
+html body text ul li span  ,(C-Kermit 8.0.208),0,6
+html body text ul li a span  ,http://www.columbia.edu/kermit/ckc209.html,0,7
+html body text ul li span  ,(C-Kermit 8.0.209),0,6
+html body text ul li a span  ,http://www.columbia.edu/kermit/ckc211.html,0,7
+html body text ul li span  ,(C-Kermit 8.0.211),0,6
+html body text ul li a span  ,http://www.columbia.edu/kermit/ckdaily.html,0,7
+html body text ul li span  ,"(C-Kermit 8.0.212, in progress)",0,6
+html body text ul li a span  ,ftp://kermit.columbia.edu/kermit/test/text/ckc212.txt,0,7
+html body text ul li span  ,(detailed log of all changes in C-Kermit since K95 2.1.3),0,6
+html body text p b span  ,The new K95 release,1,6
+html body text p span  ,", if it comes, will be only for Windows XP andlater, will be fully checked out on Windows Vista, and will appear only inGUI (not Console) form. It will come with a modern MSI installer (allowingautomated installation and upgrades via Group Policy andorganization-specific customizations, e.g. packaging of custom Dialerentries, initialization files, and scripts). And since we won't besupporting Windows 95/98/ME any more, we should be able to put the Dialerback to using the convenient notebook tabs for its entries rather than thecurrent awkward ""direct access"" one-at-a-time method. We also expect thatthe next release of Kermit 95 will support large files (transfer, access,and management of files bigger than 2GB) and 64-bit integer arithmetic, andperhaps also a GUI dialog for file uploads.More about the next release",1,5
+html body text p a span  ,HERE,1,6
+html body text p span  ,.,1,5
+html body text b a span  ,C-KERMIT SUPPORT AND UPDATE STATUS,1,6
+html body text p span  ,"C-Kermit is still supported and developed within the Kermit Project atColumbia University, except for the security code (SSL/TLS, Kerberos,and SRP), which depends on Secure Endpoints, Inc (see",1,5
+html body text p a span  ,previous section,1,6
+html body text p span  ,). The C-Kermit page is,1,5
+html body text p a span  ,HERE,1,6
+html body text p span  ,.,1,5
+html body text b a span  ,MS-DOS KERMIT SUPPORT AND UPDATE STATUS,1,6
+html body text p span  ,"MS-DOS Kermit is still supported by the Kermit Project at ColumbiaUniversity on a best-effort basis, but is no longer in active development.See the",1,5
+html body text p a span  ,MS-DOS Kermit,1,6
+html body text p span  ,web page for furtherinformation.,1,5
+html body text b a span  ,OTHER KERMIT PROGRAMS,1,6
+html body text p span  ,"Other Kermit programs (IBM mainframe, PDP-11, DECSYSTEM-10/20, PRIME,Honeywell, CP/M, and so on) are supported on a best-effort basis, but are nolonger in active development (except",1,5
+html body text p a span  ,sometimes,1,6
+html body text p span  ,).,1,5
+html body text b a span  ,HOW TO GET TECHNICAL SUPPORT,1,6
+html body text p span  ,The Kermit project offers technical support in the following ways.,1,5
+html body text ul li a b span  ,Manuals,1,8
+html body text ul li span  ,. The published manualsand other documentation should answer the majority of your questions. Pleaseconsult them before asking for technical support:,1,6
+html body text ul li ul li b span  ,Kermit 95 users:,1,9
+html body text ul li ul li span  ,Please consult the,1,8
+html body text ul li ul li b span  ,online Kermit 95manual,1,9
+html body text ul li ul li span  ,", which you can access from the Help menu of the Dialer or the GUIversion of K95 itself. Also look at the",1,8
+html body text ul li ul li a span  ,Kermit 95Tutorial,1,9
+html body text ul li ul li span  ,and the,1,8
+html body text ul li ul li a span  ,Kermit 95 FAQ,1,9
+html body text ul li ul li span  ,(FrequentlyAsked Questions) before reporting problems; the most commonly reportedproblems are discussed there.,1,8
+html body text ul li ul li a b span  ,C-Kermit,1,10
+html body text ul li ul li span  ,"users: Before reportingproblems, please consult",1,8
+html body text ul li ul li a cite span  ,Using C-Kermit,1,10
+html body text ul li ul li span  ,and the onlineupdates and supplements:,1,8
+html body text ul li ul li ul li a span  ,C-Kermit Tutorial,1,11
+html body text ul li ul li ul li a span  ,C-Kermit 7.0 Update,1,11
+html body text ul li ul li ul li a span  ,C-Kermit 8.0 Update,1,11
+html body text ul li ul li ul li a span  ,C-Kermit Frequently Asked Questions,1,11
+html body text ul li ul li ul li a span  ,C-Kermit Hints and Tips,1,11
+html body text ul li ul li ul li span  ,(for all operating systems),1,10
+html body text ul li ul li ul li a span  ,C-Kermit Hints and Tips,1,11
+html body text ul li ul li ul li span  ,(for Unix),1,10
+html body text ul li ul li ul li a span  ,C-Kermit Hints and Tips,1,11
+html body text ul li ul li ul li span  ,(for VMS),1,10
+html body text ul li ul li p span  ,And for system administrators and/or programmers:,1,9
+html body text ul li ul li ul li a span  ,C-Kermit Installation Instructions,1,11
+html body text ul li ul li ul li span  ,(for Unix),1,10
+html body text ul li ul li ul li a span  ,C-Kermit Installation Instructions,1,11
+html body text ul li ul li ul li span  ,(for VMS),1,10
+html body text ul li ul li ul li a span  ,C-Kermit Configuration Options,1,11
+html body text ul li ul li ul li a span  ,C-Kermit Program Logic Manual,1,11
+html body text ul li ul li a b span  ,G-Kermit,1,10
+html body text ul li ul li span  ,users: Please look at,1,8
+html body text ul li ul li a span  ,the G-Kermit documentation,1,9
+html body text ul li ul li span  ,for hints and tips before sending questions or reporting problems.,1,8
+html body text ul li ul li b span  ,MS-DOS Kermit users:,1,9
+html body text ul li ul li span  ,Please consult,1,8
+html body text ul li ul li a cite span  ,Using MS-DOS Kermit,1,10
+html body text ul li ul li span  ,and the,1,8
+html body text ul li ul li a tt span  ,KERMIT.BWR,1,10
+html body text ul li ul li span  ,and,1,8
+html body text ul li ul li a tt span  ,NETWORKS\SETUP.DOC,1,10
+html body text ul li ul li span  ,"files in your KERMIT directory before sending questions or reporting problems.If you are having problems with MS-DOS Kermit on Windows 95/98/ME/NT/2000/XPor OS/2, please switch to",1,8
+html body text ul li ul li a span  ,Kermit 95,1,9
+html body text ul li ul li span  ,", which is native tothose platforms and fully supported (",1,8
+html body text ul li ul li a span  ,CLICK HERE,1,9
+html body text ul li ul li span  ,for details).,1,8
+html body text ul li b span  ,On the Web,1,7
+html body text ul li span  ,. Point your Web browser at,1,6
+html body text ul li a span  ,http://www.columbia.edu/kermit/,1,7
+html body text ul li span  ,and look through the,1,6
+html body text ul li a span  ,Kermit FAQ,1,7
+html body text ul li span  ,(FrequentlyAsked Questions) and other topic areas.,1,6
+html body text ul li b span  ,By netnews,1,7
+html body text ul li span  ,. Read and post questions to,1,6
+html body text ul li a span  ,comp.protocols.kermit.misc,1,7
+html body text ul li span  ,.Members of the Kermit team will respond to questions on a best-effort basis.Others may also respond.,1,6
+html body text ul li b span  ,Please don't post large messages,1,7
+html body text ul li span  ,"(e.g. debug or packet logs, long scripts) to the newsgroup � use emailfor that (next item).",1,6
+html body text ul li b span  ,By email,1,7
+html body text ul li span  ,to,1,6
+html body text ul li a span  ,kermit-support@columbia.edu,1,7
+html body text ul li span  ,". Members of the Kermit team will respondwithin several days, usually faster.",1,6
+html body text ul li b span  ,Telephone support,1,7
+html body text ul li span  ,"is available by calling +1 (212) 854-5126(USA, New York).",1,6
+html body text b a span  ,ORGANIZATIONAL SUPPORT,1,6
+html body text p span  ,"An organization (university, company, government agency) that provides Kermitsoftware to its computer users or clients should also provide technicalsupport to them. The organization may appoint a technical liaison with theKermit Project, and we will be glad to supply support to that person.",1,5
+html body text p span  ,The organization should,1,5
+html body text p i span  ,not,1,6
+html body text p span  ,"send all of its users to us for technicalsupport. This can not possibly work, since (a) we do not understand thehardware, software, communications, and networking setup of your organization;(b) we do not know what customizations have been made to Kermit at yourorganization, and (c) we do not have the resources to help large masses ofpeople one-on-one.",1,5
+html body text p span  ,"If you are member of an organization that provided you with Kermit software,please obtain support from within your own organization. If they can't helpyou, then have your organization's technical liaison contact us. This allowsthe necessary information to reach your entire organization at once, ratherthan one person at a time. If your organization does not have a liaison withus, then they should appoint one.",1,5
+html body text b a span  ,HINTS FOR PREPARING A PROBLEM REPORT,1,6
+html body text div i span  ,. . . which might help yousolve the problem yourself,1,6
+html body text p span  ,"Many people are not aware that there are hundreds of different Kermit programson thousands of different hardware and software platforms, operating over allkinds of different connections. Not everybody is using the same Kermitsoftware you are, on the same kind of computer, or over the same kind ofconnection. Before we can begin to help you, we need the following preliminaryinformation:",1,5
+html body text ol li b span  ,Is your question about Kermit software?,1,7
+html body text ol li ol li span  ,"If it is a question about email or some other application, even if youare accessing it",1,8
+html body text ol li ol li i span  ,through,1,9
+html body text ol li ol li span  ,"Kermit, then it probably is not a questionabout Kermit software itself. The Kermit help desk does not offer help withemail programs or other non-Kermit applications, except to the extent thatwe can advise you choose the appropriate terminal emulation and help you setup the key mappings, if necessary. Otherwise, you will need to ask theowners, makers, or vendors of the non-Kermit application, or yourorganization's or ISP's local help desk, for help or instruction.",1,8
+html body text ol li ol li span  ,"A lot of third-party software packages include a Kermit file-transferprotocol implementation (usually not a very good one). If your software isnot a Kermit software program from the Kermit Project at ColumbiaUniversity, it is not our software and we can't help you with it. Kermitprograms all have ""Kermit"" in their names, like MS-DOS Kermit, Kermit 95,C-Kermit, G-Kermit, Kermit-370, etc. If you are asking about the Kermitimplementation in somebody else's software, you'll need to go to the makeror vendor of that software for help or instruction.",1,8
+html body text ol li ol li span  ,"If you have a problem transferring files with Kermit protocol between aKermit Project program and a third-party product, we'll support our end of it.If the problem lies with the non-Columbia implementation, we'll do our best toprovide a diagnosis or workaround, but we can not be expected to support orsanction improper or buggy Kermit protocol implementations in third-partyproducts.",1,8
+html body text ol li p span  ,"If there is a problem with the interface between some other vendor's softwareand one of our Kermit programs, have the vendor of that software get in touchwith us.",1,7
+html body text ol li b span  ,Which Kermit program are you using?,1,7
+html body text ol li span  ,(What is its name? How does itidentify itself when you start it?) The most commonly used Kermit programs,1,6
+html body text ol li a span  ,Kermit 95,1,7
+html body text ol li span  ,",",1,6
+html body text ol li a span  ,C-Kermit,1,7
+html body text ol li span  ,", are",1,6
+html body text ol li a span  ,MS-DOS Kermit,1,7
+html body text ol li span  ,", and",1,6
+html body text ol li a span  ,IBM MainframeKermit,1,7
+html body text ol li span  ,". (If your question concerns Kermit-32 on VMS, please note thatKermit-32 has not been supported since 1987; the supported Kermit software forVMS is",1,6
+html body text ol li a span  ,C-Kermit,1,7
+html body text ol li span  ,).,1,6
+html body text ol li dl dt i b span  ,If you are using Kermit 95...,1,10
+html body text ol li dl dd span  ,Please take a look at the,1,8
+html body text ol li dl dd a span  ,Kermit 95 Tutorial,1,9
+html body text ol li dl dd span  ,if you are having trouble getting started. Also the,1,8
+html body text ol li dl dd a span  ,Kermit 95 Read Me,1,9
+html body text ol li dl dd span  ,"document for orientation, filelayout, etc. Then, before requesting assistance, please visit the",1,8
+html body text ol li dl dd a span  ,Kermit 95 Frequently Asked Questions,1,9
+html body text ol li dl dd span  ,(FAQ) document;your issue might already be covered there.,1,8
+html body text ol li dl dt i b span  ,If you are using C-Kermit...,1,10
+html body text ol li dl dd span  ,Please take a look at the,1,8
+html body text ol li dl dd a span  ,C-Kermit Tutorial,1,9
+html body text ol li dl dd span  ,"if you are having trouble getting started. Before requesting assistance,please visit the",1,8
+html body text ol li dl dd a span  ,C-Kermit FAQ,1,9
+html body text ol li dl dd span  ,and see if it helps.,1,8
+html body text ol li p span  ,Also see the,1,7
+html body text ol li p a span  ,Kermit FAQ,1,8
+html body text ol li p span  ,for issues that pertain allKermit programs.,1,7
+html body text ol li b span  ,What is the version number,1,7
+html body text ol li span  ,"of the Kermit program? (Most Kermitprograms have a ""version"" command; if not, the version number isannounced when Kermit starts). If you are using an old version(see",1,6
+html body text ol li a span  ,list of current versions,1,7
+html body text ol li span  ,"), we willgenerally recommend that you install the current version and see if theproblem still occurs. A list of current Kermit software versions can be found",1,6
+html body text ol li a span  ,HERE,1,7
+html body text ol li span  ,. If you are using the current version of,1,6
+html body text ol li b span  ,C-Kermit,1,7
+html body text ol li span  ,", we might recommend that you download the latest",1,6
+html body text ol li a span  ,Development Build,1,7
+html body text ol li span  ,to see if the problem isalready fixed (you might want to save time by doing this in advance).,1,6
+html body text ol li b span  ,"If it is Kermit 95 2.0 or later, are you using the GUI version orConsole version?",1,7
+html body text ol li span  ,"This information is especially important if your reportconcerns screen appearance, character sets, fonts, etc. At this point,everybody should be using the version 2.1.3 of K95 in its",1,6
+html body text ol li a span  ,GUI form,1,7
+html body text ol li span  ,. There is no reason to use the Consoleversion (which suffers from countless bugs and restrictions in Windowsconsole application support) unless you really know what you are doing.,1,6
+html body text ol li b span  ,Do you have the,1,7
+html body text ol li b a span  ,manual,1,8
+html body text ol li span  ,for your versionof Kermit? Have you consulted it?,1,6
+html body text ol li b span  ,If it is C-Kermit or G-Kermit,1,7
+html body text ol li span  ,", did you build it from source code,or are you using one of the prebuilt binaries? If you are using a prebuiltbinary, which one? Are you sure it is the appropriate one for your computer?(To overcome such problems as library version mismatches, you might want todownload and build from source.) If you built C-Kermit from source code,which makefile target did you use?",1,6
+html body text ol li span  ,On,1,6
+html body text ol li b span  ,what kind of computer,1,7
+html body text ol li span  ,is your Kermit program running?,1,6
+html body text ol li b span  ,What operating system and version,1,7
+html body text ol li span  ,"is used on this computer?If your computer has Windows 95 or later but you are trying to use MS-DOSKermit on it, please note that this combination is not supported;",1,6
+html body text ol li a span  ,CLICK HERE,1,7
+html body text ol li span  ,for details.,1,6
+html body text ol li b span  ,What kind of connection,1,7
+html body text ol li span  ,"are you using (or are you trying to make)?Direct serial, dialup, Telnet, SSH, Rlogin, X.25, ...?",1,6
+html body text ol li b span  ,If it is amodem connection:,1,7
+html body text ol li ol li b span  ,Which communication device are you using,1,9
+html body text ol li ol li span  ,"? Some operating systemshave a selection of drivers for the same device, which are selected by usingdifferent names for the device; see, for example, the discussion of serialport names in HP-UX in the",1,8
+html body text ol li ol li a span  ,"Unix C-Kermit ""beware file""",1,9
+html body text ol li ol li span  ,.,1,8
+html body text ol li ol li blockquote i span  ,If you are using,1,10
+html body text ol li ol li blockquote i b span  ,Kermit 95,1,11
+html body text ol li ol li blockquote i span  ,", you should be aware that it has",1,10
+html body text ol li ol li blockquote i b span  ,twomethods,1,11
+html body text ol li ol li blockquote i span  ,"for accessing serial ports and modems; the traditional, built-in""DOS"" method (""set port com1, set modem type usrobotics, ..."") and theWindows-specific Control Panel interface (""set port tapi""). If one doesn'twork, try the other. See the",1,10
+html body text ol li ol li blockquote i a span  ,K95 FAQ,1,11
+html body text ol li ol li blockquote i span  ,formore about this.,1,10
+html body text ol li ol li b span  ,What kind of modem are you using?,1,9
+html body text ol li ol li span  ,"Is it internal or external? Ifyou have a PC with an internal modem, is it a real modem or a ""Winmodem""? Ifyou think it might be a Winmodem,",1,8
+html body text ol li ol li a span  ,CLICK HERE,1,9
+html body text ol li ol li span  ,.,1,8
+html body text ol li ol li b span  ,What kind of modem does Kermit,1,9
+html body text ol li ol li b i span  ,think,1,10
+html body text ol li ol li b span  ,you are using?,1,9
+html body text ol li ol li span  ,"In otherwords, has Kermit been informed appropriately as to your modem type?",1,8
+html body text ol li ol li b span  ,What are the serial port communications parameters,1,9
+html body text ol li ol li span  ,": speed, parity,flow control? In most Kermit programs, these are listed by the SHOWCOMMUNICATIONS command.",1,8
+html body text ol li ol li b span  ,What kind of modem is on the other end?,1,9
+html body text ol li ol li span  ,"What is the remote modemconnected to? � A serial port on the computer, a terminal server?",1,8
+html body text ol li ol li b span  ,What other communications equipment is involved?,1,9
+html body text ol li ol li span  ,� An X.25PAD? A 3270 protocol converter? A terminal server? An intermediatecomputer? etc etc...,1,8
+html body text ol li ol li blockquote i span  ,A serial connection (direct or dialup) must have an,1,10
+html body text ol li ol li blockquote i b span  ,effective form offlow control,1,11
+html body text ol li ol li blockquote i span  ,"at every junction between computer (or terminal server, etc)and modem. This means that each pair of devices that are connected must beusing the",1,10
+html body text ol li ol li blockquote i b span  ,same,1,11
+html body text ol li ol li blockquote i span  ,"kind of flow control, usually either RTS/CTS (hardware)or Xon/Xoff (software). If this is not true, there can be any amount of dataloss or corruption on the connection.",1,10
+html body text ol li ol li b span  ,If your complaint is that you see garbage when the connection ismade...,1,9
+html body text ol li ol li span  ,please describe the garbage: is it 100% garbage?Or is some of the text recognizable?,1,8
+html body text ol li ol li ul li span  ,"If approximately 50% of the charactersare wrong, you probably need to tell Kermit to ""set parity even"" (or otherparity choice)",1,10
+html body text ol li ol li ul li span  ,"If all of the characters are wrong, there is almost certainly a speedmismatch between",1,10
+html body text ol li ol li ul li i span  ,(a),1,11
+html body text ol li ol li ul li span  ,"Kermit and your modem, or",1,10
+html body text ol li ol li ul li i span  ,(b),1,11
+html body text ol li ol li ul li span  ,the answeringmodem's serial port and the serial port of the computer or device it isconnected to.,1,10
+html body text ol li ol li b span  ,How did you make the connection?,1,9
+html body text ol li ol li span  ,"� Did you use Kermit's built-inDIAL command? If not, please try it (""help dial"" for more information). TheDIAL command automatically does what it can to synchronize serial-port speed,flow control, and other critical parameters between your computer and thedialing modem.",1,8
+html body text ol li p span  ,If it is a,1,7
+html body text ol li p b span  ,direct serial connection,1,8
+html body text ol li p span  ,:,1,7
+html body text ol li ol li span  ,Are you sure you have the appropriate kind of cable (e.g. null-modeminstead of modem)?,1,8
+html body text ol li ol li b a span  ,CLICK HERE,1,10
+html body text ol li ol li b span  ,for more informationabout cables.,1,9
+html body text ol li ol li span  ,"Have you correctly identified the communication port to Kermit(e.g. COM1 or COM2 or a TAPI device name in K95; /dev/ttyS0 or somesuchin Linux/Unix, etc)? (SET PORT or SET LINE).",1,8
+html body text ol li ol li span  ,"Is the speed (""baud"") the same on both ends? For example, if the speedis 9600 bps (""baud"") on the far end, then Kermit's speed must also beset to 9600 (SET SPEED). A typical symptom of a speed mismatch is that yousee characters on your screen but they are total nonsense.",1,8
+html body text ol li ol li span  ,"If the computer on the far end uses ""parity"", you have to set Kermit'sparity to match: SET PARITY EVEN, ODD, or MARK. A typical symptom of aparity mismatch is that some characters are intelligible, some are not.",1,8
+html body text ol li ol li span  ,"If the terminal screen is completely frozen, you might have aflow-control deadlock, often caused by an",1,8
+html body text ol li ol li a span  ,incorrectly or incompletely wired cable,1,9
+html body text ol li ol li span  ,"or bytransmission noise. Tell Kermit to SET FLOW NONE, and if that unsticks thescreen, then you can come back later and fix the real problem.",1,8
+html body text ol li b span  ,What kind of computer or device or service is on the other end,1,7
+html body text ol li span  ,ofthe connection?,1,6
+html body text ol li blockquote i span  ,"Is the device, host, or service text based? Is it a PPP server? Do you haveto log in to it? Do you get a login prompt? Do you get a menu? Are youimmediately connected to a Kermit server?",1,8
+html body text ol li b span  ,What operating system and version,1,7
+html body text ol li span  ,does that computer use?,1,6
+html body text ol li span  ,If you are reporting a,1,6
+html body text ol li b span  ,file-transfer problem,1,7
+html body text ol li span  ,": what Kermit programand version is on the other computer? Does the transfer fail at the verybeginning (constant retrying of the first packet), or partway through? Doesit happen the same way every time? NOTE: Most current releases of Kermitsoftware do not support transfer of files larger than 2GB;",1,6
+html body text ol li a span  ,forthcoming releases,1,7
+html body text ol li span  ,will do so on selectedplatforms.,1,6
+html body text ol li span  ,If you are reporting a,1,6
+html body text ol li b span  ,terminal emulation problem,1,7
+html body text ol li span  ,": What kind terminal is your local Kermit program emulating, and what kind of terminaldoes the host computer think you have? If you are using C-Kermit, seethe",1,6
+html body text ol li a span  ,C-Kermit FAQ,1,7
+html body text ol li span  ,".If you are having problems with F keys, Arrow keys, the Numeric keypad,or the Backspace key, consult the appropriate items in the",1,6
+html body text ol li a span  ,Kermit FAQ,1,7
+html body text ol li span  ,:,1,6
+html body text ol li ul li a span  ,Backspace key,1,9
+html body text ol li ul li a span  ,Arrow keys,1,9
+html body text ol li ul li a span  ,F keys,1,9
+html body text ol li ul li a span  ,Numeric keypad,1,9
+html body text ol li b span  ,What is the exact nature of the problem?,1,7
+html body text ol li span  ,"Is it a failure to makea connection? A failure to transfer files? A problem with terminal emulation?Exactly what happens, compared to what you think should happen?",1,6
+html body text ol li b span  ,What commands did you give?,1,7
+html body text ol li span  ,Is the problem reproducible?,1,6
+html body text p span  ,"If you are using email to follow up on a previous or ongoing matter, pleaseinclude relevant portions of previous correspondence. If you want to",1,5
+html body text p b span  ,send Kermit scripts,1,6
+html body text p span  ,"for us to look at as attachments or enclosures,please give them a name that ends with",1,5
+html body text p tt span  ,.txt,1,6
+html body text p span  ,", not (say)",1,5
+html body text p tt span  ,.ini,1,6
+html body text p span  ,or,1,5
+html body text p tt span  ,.scr,1,6
+html body text p span  ,or,1,5
+html body text p tt span  ,.ksc,1,6
+html body text p span  ,". Virus scanners will removethem. Anyway, since Kermit scripts and logs are plain text, you can justinclude them directly in your message, there is no need to structure them asattachments.",1,5
+html body text p span  ,"Data communication is rarely as simple as we'd like it to be. From thevery basic set of questions above, you can see that there are at leastthree, and perhaps as many as eight (or more) completely separate hardwareand software components to your connection, all of which must be configuredto interoperate with each other and to pass the desired data through.",1,5
+html body text p span  ,"This is why communications software can be harder to use than self-containedapplications that stay inside your computer, where (hopefully) allquantities are known. Also note that when you are using Kermit to make aserial connection, you are performing the job of a network specialist� making a connection that did not exist before, probably using avariety of equipment and software from different makers. Networkspecialists need years of training before they can do this � don'texpect it to be effortless, although sometimes it might be. Every case isdifferent. (Network connections are usually easier, because networkspecialists have already set up the network for you.)",1,5
+html body text p span  ,"Kermit manuals are generally 400-700 pages long. A great many of these pagesare devoted to the many and varied communication methods, and what that can gowrong on each one, and methods for diagnosis and repair of problems. Pleaseuse the manuals. If you have suggestions for making them better,",1,5
+html body text p a span  ,send them to us,1,6
+html body text p span  ,.,1,5
+html body text p span  ,Thank you for helping us to serve you better!,1,5
+html body text blockquote span  ,Frank da Cruz,0,5
+html body text blockquote a span  ,The Kermit Project,0,6
+html body text blockquote span  ,Columbia University,0,5
+html body text blockquote span  ,New York City,0,5
+html body text address span  ,Kermit Tech Support / Columbia University / kermit@columbia.edu / Lastupdate: 9 Dec 2006,0,5

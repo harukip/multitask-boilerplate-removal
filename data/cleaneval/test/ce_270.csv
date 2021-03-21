@@ -1,0 +1,11 @@
+tag,content,label,depth
+html body text title span span  ,File Not Found,0,6
+html body text table tbody tr td table tbody tr td a span  ,B.C. Home,0,13
+html body text table tbody tr td table tbody tr td a span  ,British Columbia Budgets,0,13
+html body text table tbody tr td h3 span  ,File Not Found,0,9
+html body text table tbody tr td p span  ,The file,1,9
+html body text table tbody tr td p strong span  ,“http://www.bcbudget.gov.bc.ca/annualreports/wlap/Report_on_Performance.htm”,1,10
+html body text table tbody tr td p span  ,is no longer available at that location.,1,9
+html body text table tbody tr td p span  ,Visit the,1,9
+html body text table tbody tr td p strong a span  ,British Columbia Budgets’,1,11
+html body text table tbody tr td p span  ,home page to locate the appropriate file.,1,9

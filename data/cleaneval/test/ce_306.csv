@@ -1,0 +1,453 @@
+tag,content,label,depth
+html body text div span span  ,Canada Post,0,6
+html body text div span span  ,From anywhere... to anyone,0,6
+html body text div form a span  ,Help,0,7
+html body text div form span  ,|,0,6
+html body text div form a span  ,Legal,0,7
+html body text div form span  ,|,0,6
+html body text div form a span  ,Copyright,0,7
+html body text div form span  ,|,0,6
+html body text div form a span  ,Privacy,0,7
+html body text div form span  ,|,0,6
+html body text div form a span  ,Graphic Version,0,7
+html body text div form span  ,|,0,6
+html body text div form a span  ,Français,0,7
+html body text div a span  ,Home,0,6
+html body text div span  ,>,0,5
+html body text div a span  ,Online Tools,0,6
+html body text div span  ,>,0,5
+html body text div a span  ,Postal Guide,0,6
+html body text div span  ,> Postal Guide,0,5
+html body text div table tbody tr td a span  ,Personal,0,10
+html body text div table tbody tr td a span  ,Business,0,10
+html body text div table tbody tr td p span  ,Postal Guide,0,10
+html body text div table tbody tr td p span  ,- Canada Postal Guide,1,10
+html body text div table tbody tr td p span  ,Last updated: 2006-09-18,0,10
+html body text div table tbody tr td p span  ,Section B – Chapter 3,0,10
+html body text div table tbody tr td p span  ,Addressing,1,10
+html body text div table tbody tr td p span  ,Table of Contents,1,10
+html body text div table tbody tr td ul li a span  ,Overview,0,12
+html body text div table tbody tr td ul li a span  ,General Information,0,12
+html body text div table tbody tr td ul li a span  ,Civic Addresses (Street Addresses),0,12
+html body text div table tbody tr td ul li a span  ,Post Office Box Addresses,0,12
+html body text div table tbody tr td ul li a span  ,Rural Route Addresses,0,12
+html body text div table tbody tr td ul li a span  ,General Delivery Addresses,0,12
+html body text div table tbody tr td ul li a span  ,Bilingual Addresses,0,12
+html body text div table tbody tr td ul li a span  ,Military Addresses,0,12
+html body text div table tbody tr td ul li a span  ,United States of America Addresses,0,12
+html body text div table tbody tr td ul li a span  ,International Addresses,0,12
+html body text div table tbody tr td ul li a span  ,Symbols and Abbreviations Recognized by Canada Post,0,12
+html body text div table tbody tr td ul li a span  ,Postal Code,0,12
+html body text div table tbody tr td ul li a span  ,Address Accuracy Program,0,12
+html body text div table tbody tr td ul li a span  ,"Address Validation, Address Correction and Postal Code Look-Up",0,12
+html body text div table tbody tr td ul li a span  ,Recognized Addressing Software,0,12
+html body text div table tbody tr td p span  ,Overview,1,10
+html body text div table tbody tr td p a span  ,to top of page,0,11
+html body text div table tbody tr td p span  ,"Canada Post’s computerized systems can decipher a wide range of addressing styles – from handwritten notation to typed and printed labels, but studies show that a consistent approach to mail addressing leads to more efficient handling. For Canada Post’s Customers, large and small, this translates into better service and lower costs. Consistent and accurate addressing eliminates the need for extra handling or redelivery by Canada Post. Standardized addressing ensures that mail is consistently “delivered on time, the first time, every time.”",1,10
+html body text div table tbody tr td p span  ,"The guidelines in this chapter promote the most technologically efficient formats for addressing. It does not limit mailers to any one format. In some cases, because of individual preference or other considerations, mailers may not be able to follow the formats that this Guide presents.",1,10
+html body text div table tbody tr td p span  ,"For more technical information on the physical characteristics necessary for effective processing by Canada Post’s automated systems,",1,10
+html body text div table tbody tr td p a span  ,Go to Canadian Postal Standards,1,11
+html body text div table tbody tr td p span  ,.,1,10
+html body text div table tbody tr td p span  ,General Information,1,10
+html body text div table tbody tr td p a span  ,to top of page,0,11
+html body text div table tbody tr td p span  ,Addressing Guidelines,1,10
+html body text div table tbody tr td ul li span  ,"Addresses should be written in upper case; however, mailers may wish to use lower case due to individual preference or other considerations.",1,11
+html body text div table tbody tr td ul li span  ,"Postal codes should be printed in upper case with the first three elements separated from the last three by one space (no hyphens). If the postal code is not formatted in this manner, the mail may be delayed.",1,11
+html body text div table tbody tr td ul li span  ,"The municipality, province or territory, and postal code should always appear on the same line. There should be one space between the municipality, province or territory and two spaces between the province or territory and postal code.",1,11
+html body text div table tbody tr td ul li span  ,Characters in the address block should not be underlined.,1,11
+html body text div table tbody tr td ul li span  ,"Punctuation should not be used unless it is part of a proper name, (ST. JOHN'S). However, mailers may wish to use punctuation due to individual preference or other considerations.",1,11
+html body text div table tbody tr td ul li span  ,Accents may be used as they are an integral part of language but they are not considered to be punctuation.,1,11
+html body text div table tbody tr td ul li span  ,"The # symbol should never be used, nor the French equivalent no as part of the address.",1,11
+html body text div table tbody tr td ul li span  ,"All lines of an address should be formatted with a uniform left margin and should be less than 40 characters per line, excluding spaces.",1,11
+html body text div table tbody tr td ul li span  ,Space between address lines should be at least 0.5 mm but no more than one blank line between lines of addressing.,1,11
+html body text div table tbody tr td ul li span  ,All characters should be larger than 2 mm and smaller than 5 mm from the top to bottom (10 to 12-point). Return addresses may use smaller characters and should not be larger than the destination address.,1,11
+html body text div table tbody tr td ul li span  ,"Only non-proportional fonts (characters which occupy the same width) should be used. The following are examples of acceptable fonts: OCR B, Letter Gothic, Elite, Lotus Line-Draw, MS Line Draw, Courier, Courier New, Pica and Copy Pica.",1,11
+html body text div table tbody tr td ul li span  ,"Return addresses should be formatted in the same fashion as the destination address, and located in the top-left corner of the mail piece, clearly separated from the destination address, or on the back of the mail piece at the top. The return address is mandatory on Priority Courier, Xpresspost, Expedited Parcel and Regular Parcel items.",1,11
+html body text div table tbody tr td p span  ,Illustrations,1,10
+html body text div table tbody tr td p span  ,The following examples illustrate Canada Post's recommended addressing guidelines.,1,10
+html body text div table tbody tr td p span  ,Civic Addresses (Street Addresses),1,10
+html body text div table tbody tr td p a span  ,to top of page,0,11
+html body text div table tbody tr td ol li b span  ,Additional delivery information,1,12
+html body text div table tbody tr td ol li span  ,"is optional data that a mailer wishes to include. (title, floor, etc.) It is always placed above the civic address.",1,11
+html body text div table tbody tr td ol li span  ,A,1,11
+html body text div table tbody tr td ol li b span  ,unit number,1,12
+html body text div table tbody tr td ol li span  ,"is placed before the civic number with a hyphen between, OR after the street type, using an acceptable unit identifier (ex. APT 10). Please see Unit Designators for a list. The unit information may be placed on the line above the street information if space is an issue.",1,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,civic number,1,12
+html body text div table tbody tr td ol li span  ,is the official number assigned to an address by the municipality.,1,11
+html body text div table tbody tr td ol li span  ,When a,1,11
+html body text div table tbody tr td ol li b span  ,civic number suffix,1,12
+html body text div table tbody tr td ol li span  ,"is present, there is no space when it is alpha (123A), and there is one space when it is a fraction (123 1/2).",1,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,street name,1,12
+html body text div table tbody tr td ol li span  ,"is the official name recognized by each municipality and should not be translated. (Ex.: Main is not Principale.) There is no space between a numerical street name with an ordinal or an alphanumeric character. (Ex.: 2ND ST or 36A ST). When the street name is numeric, there is only one space (no hyphen) between the civic number and the street name. (Ex.: 123 22ND AVE).",1,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,street type,1,12
+html body text div table tbody tr td ol li span  ,"is provided by the municipality. Common abbreviations should be used. Please see Street Types below for a complete list. In some instances, the street type is also the street name (THE PARKWAY). The only street types that may be translated are:",1,11
+html body text div table tbody tr td ol table tbody tr td span  ,ST,0,14
+html body text div table tbody tr td ol table tbody tr td span  ,=,0,14
+html body text div table tbody tr td ol table tbody tr td span  ,RUE,0,14
+html body text div table tbody tr td ol table tbody tr td span  ,AVE,0,14
+html body text div table tbody tr td ol table tbody tr td span  ,=,0,14
+html body text div table tbody tr td ol table tbody tr td span  ,AV,0,14
+html body text div table tbody tr td ol table tbody tr td span  ,BLVD,0,14
+html body text div table tbody tr td ol table tbody tr td span  ,=,0,14
+html body text div table tbody tr td ol table tbody tr td span  ,BOUL,0,14
+html body text div table tbody tr td ol p span  ,"A French street type is placed before the street name, unless it is an ordinal number (1re, 2e, PREMIÈRE, DEUXIÈME, etc.)",1,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,street direction,1,12
+html body text div table tbody tr td ol li span  ,uses the common one- or two-letter abbreviation. Please see Street Directions for a complete list.,1,11
+html body text div table tbody tr td ol li span  ,The official,1,11
+html body text div table tbody tr td ol li b span  ,municipality,1,12
+html body text div table tbody tr td ol li span  ,"name, as provided to Canada Post, the official abbreviation of the municipality, or an official alternate name, should be used and should not be translated. (Ex.: TROIS-RIVIÈRES is not THREE RIVERS.)",1,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,province,1,12
+html body text div table tbody tr td ol li span  ,should always be presented using the recognized two-letter symbol. Please see Province and Territory Symbols below for a complete listing. Mailers may wish to have the province written in full and placed in brackets. Ex.: (Québec),1,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,postal code,1,12
+html body text div table tbody tr td ol li span  ,should be in upper case and placed two spaces to the right of the province with one space between the first three and last three characters.,1,11
+html body text div table tbody tr td p span  ,Post Office Box Addresses,1,10
+html body text div table tbody tr td p a span  ,to top of page,0,11
+html body text div table tbody tr td ol li b span  ,Additional delivery information,1,12
+html body text div table tbody tr td ol li span  ,"is optional data that a mailer wishes to include. (title, floor, municipal address, etc.) It is always placed above the post office box address.",1,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,post office box number,1,12
+html body text div table tbody tr td ol li span  ,"should always be placed on the line just above the municipality, province and postal code. The # symbol should not be used, nor the French equivalent n",1,11
+html body text div table tbody tr td ol li sup span  ,o,1,12
+html body text div table tbody tr td ol li span  ,. Punctuation should not be used.,1,11
+html body text div table tbody tr td ol li b span  ,Station information,1,12
+html body text div table tbody tr td ol li span  ,should be present to direct mail to the proper postal installation when there is more than one installation within a municipality.,1,11
+html body text div table tbody tr td ol table tbody tr td span  ,Station,0,14
+html body text div table tbody tr td ol table tbody tr td span  ,=,0,14
+html body text div table tbody tr td ol table tbody tr td span  ,STN,0,14
+html body text div table tbody tr td ol table tbody tr td span  ,Retail Postal Outlet,0,14
+html body text div table tbody tr td ol table tbody tr td span  ,=,0,14
+html body text div table tbody tr td ol table tbody tr td span  ,RPO,0,14
+html body text div table tbody tr td ol li span  ,The official,1,11
+html body text div table tbody tr td ol li b span  ,municipality,1,12
+html body text div table tbody tr td ol li span  ,"name, as provided to Canada Post, the official abbreviation of the municipality, or an official alternate name, must should be used and cannot should not be translated. (Ex.: TROIS-RIVIÈRES is not THREE RIVERS.)",1,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,province,1,12
+html body text div table tbody tr td ol li span  ,should always be presented using the recognized two-letter symbol. Please see Province and Territory Symbols below for a complete listing. Mailers may wish to have the province written in full and placed in brackets. Ex.: (Québec),1,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,postal code,1,12
+html body text div table tbody tr td ol li span  ,should be in upper case and placed two spaces to the right of the province with one space between the first three and last three characters.,1,11
+html body text div table tbody tr td p span  ,Rural Route Addresses,1,10
+html body text div table tbody tr td p a span  ,to top of page,0,11
+html body text div table tbody tr td ol li span  ,Many,1,11
+html body text div table tbody tr td ol li b span  ,rural areas,1,12
+html body text div table tbody tr td ol li span  ,"now have civic addresses. Civic addresses may be added above the rural route. In some locations, the",1,11
+html body text div table tbody tr td ol li b span  ,rural route (RR),1,12
+html body text div table tbody tr td ol li span  ,designator is no longer required.,1,11
+html body text div table tbody tr td ol li b span  ,Additional address information,1,12
+html body text div table tbody tr td ol li span  ,"is often required for delivery to this type of address. Some examples include: SITE/ COMPARTMENT, LOT/CONCESSION, civic address, attention line, title, floor. The word BOX should not be used in place of COMPARTMENT.",1,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,rural route,1,12
+html body text div table tbody tr td ol li span  ,"identifier should use the two-letter symbol (RR, SS, MR), followed by the number, one space to the right. The # symbol should not be used, nor the French equivalent, n",1,11
+html body text div table tbody tr td ol li sup span  ,o,1,12
+html body text div table tbody tr td ol li span  ,". Punctuation should not be used in RR, SS, or MR.",1,11
+html body text div table tbody tr td ol li b span  ,Station information,1,12
+html body text div table tbody tr td ol li span  ,should be present to direct mail to the proper postal installation when there is more than one installation within a municipality.,1,11
+html body text div table tbody tr td ol table tbody tr td span  ,Station,1,14
+html body text div table tbody tr td ol table tbody tr td span  ,=,1,14
+html body text div table tbody tr td ol table tbody tr td span  ,STN,1,14
+html body text div table tbody tr td ol table tbody tr td span  ,Retail Postal Outlet,1,14
+html body text div table tbody tr td ol table tbody tr td span  ,=,1,14
+html body text div table tbody tr td ol table tbody tr td span  ,RPO,1,14
+html body text div table tbody tr td ol li span  ,The official,1,11
+html body text div table tbody tr td ol li b span  ,municipality,1,12
+html body text div table tbody tr td ol li span  ,"name, as provided to Canada Post, the official abbreviation of the municipality, or an official alternate name, should be used and should not be translated. (Ex.: TROIS-RIVIÈRES is not THREE RIVERS.)",1,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,province,1,12
+html body text div table tbody tr td ol li span  ,should always be presented using the recognized two-letter symbol. Please see Province and Territory Symbols below for a complete listing. Mailers may wish to have the province written in full and placed in brackets. Ex.: (Québec),1,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,postal code,1,12
+html body text div table tbody tr td ol li span  ,should be in upper case and placed two spaces to the right of the province with one space between the first three and last three characters.,1,11
+html body text div table tbody tr td p span  ,General Delivery Addresses,1,10
+html body text div table tbody tr td p a span  ,to top of page,0,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,General Delivery,1,12
+html body text div table tbody tr td ol li span  ,"indicator should be the two-letter abbreviation ""GD."" Punctuation should not be used.",1,11
+html body text div table tbody tr td ol li b span  ,Station information,1,12
+html body text div table tbody tr td ol li span  ,should be present to direct mail to the proper postal installation when there is more than one installation within a municipality.,1,11
+html body text div table tbody tr td ol table tbody tr td span  ,Station,1,14
+html body text div table tbody tr td ol table tbody tr td span  ,=,1,14
+html body text div table tbody tr td ol table tbody tr td span  ,STN,1,14
+html body text div table tbody tr td ol table tbody tr td span  ,Retail Postal Outlet,1,14
+html body text div table tbody tr td ol table tbody tr td span  ,=,1,14
+html body text div table tbody tr td ol table tbody tr td span  ,RPO,1,14
+html body text div table tbody tr td ol li span  ,The official,1,11
+html body text div table tbody tr td ol li b span  ,municipality,1,12
+html body text div table tbody tr td ol li span  ,"name, as provided to Canada Post, the official abbreviation of the municipality, or an official alternate name, should be used and should not be translated. (Ex.: TROIS-RIVIÈRES is not THREE RIVERS.)",1,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,province,1,12
+html body text div table tbody tr td ol li span  ,should always be presented using the recognized two-letter symbol. Please see Province and Territory Symbols below for a complete listing. Mailers may wish to have the province written in full and placed in brackets. Ex.: (Québec),1,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,postal code,1,12
+html body text div table tbody tr td ol li span  ,should be in upper case and placed two spaces to the right of the province with one space between the first three and last three characters.,1,11
+html body text div table tbody tr td p span  ,Bilingual Addresses,1,10
+html body text div table tbody tr td p a span  ,to top of page,0,11
+html body text div table tbody tr td ol li span  ,A,1,11
+html body text div table tbody tr td ol li b span  ,solid black line,1,12
+html body text div table tbody tr td ol li span  ,must be placed between the two addresses. It must be a minimum of 0.7 mm thick.,1,11
+html body text div table tbody tr td ol li span  ,There must be a,1,11
+html body text div table tbody tr td ol li b span  ,clear space,1,12
+html body text div table tbody tr td ol li span  ,on each side of the black line. This clear space should be approximately 10 mm.,1,11
+html body text div table tbody tr td p span  ,Military Addresses,1,10
+html body text div table tbody tr td p a span  ,to top of page,0,11
+html body text div table tbody tr td p span  ,"Military addressing is defined as mail sent to or by the Department of National Defense, Canadian Forces personnel, their dependents and civilians attached to Canadian Forces served through Canadian Forces Post Offices and Fleet Mail Offices.",1,10
+html body text div table tbody tr td p a span  ,Go to Section E – Chapter 12,1,11
+html body text div table tbody tr td p span  ,",",1,10
+html body text div table tbody tr td p i span  ,Canadian Forces Mail,1,11
+html body text div table tbody tr td p span  ,.,1,10
+html body text div table tbody tr td p span  ,United States of America Addresses,1,10
+html body text div table tbody tr td p a span  ,to top of page,0,11
+html body text div table tbody tr td p span  ,Addressing elements required by the United States Postal Service should be prepared according to the United States postal standards.,1,10
+html body text div table tbody tr td ol li span  ,"All U.S.A. mail items must be addressed to a specific individual, organization or company name.",1,11
+html body text div table tbody tr td ol li span  ,The full,1,11
+html body text div table tbody tr td ol li b span  ,municipality,1,12
+html body text div table tbody tr td ol li span  ,name should be used and should appear as the first component in the second last line of the address block.,1,11
+html body text div table tbody tr td ol li span  ,The two-letter,1,11
+html body text div table tbody tr td ol li b span  ,state symbol,1,12
+html body text div table tbody tr td ol li span  ,"is preferred over the full state name. The state symbol should appear on the second last line of the address following the municipality, separated by one space. Please see",1,11
+html body text div table tbody tr td ol li i span  ,"United States of America – States, Territories and Possessions",1,12
+html body text div table tbody tr td ol li span  ,below for a complete listing.,1,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,ZIP code,1,12
+html body text div table tbody tr td ol li span  ,"must be separated from the state symbol by two spaces. It may be either five or nine digits. If the nine-digit format is used, a hyphen will be used to separate the fifth and sixth digits.",1,11
+html body text div table tbody tr td ol li span  ,The,1,11
+html body text div table tbody tr td ol li b span  ,country name,1,12
+html body text div table tbody tr td ol li span  ,should appear alone on the last line of the address block.,1,11
+html body text div table tbody tr td p span  ,International Addresses,1,10
+html body text div table tbody tr td p a span  ,to top of page,0,11
+html body text div table tbody tr td p span  ,"All international mail items must be addressed to a specific individual, organization or company name. Also, to ensure proper processing, the country name should be spelled correctly and in full. (Ex.: UAE is not acceptable for UNITED ARAB EMIRATES.",1,10
+html body text div table tbody tr td p a span  ,Go to Section H,1,11
+html body text div table tbody tr td p span  ,",",1,10
+html body text div table tbody tr td p i span  ,International Destination Listing,1,11
+html body text div table tbody tr td p span  ,", for a complete listing and correct spelling of countries.",1,10
+html body text div table tbody tr td p span  ,"The name of the country should be the last entry on the address. It is placed at the bottom, below the municipality/city name and any postal code/zip code information.)",1,10
+html body text div table tbody tr td table tbody tr td span  ,"Canada Post encourages all mailers to respect the wishes of Customers in matters of format. These guidelines have taken care to accommodate the requirements of the English and French languages by recognizing and accepting the use of upper- and lower- case characters, including accents, as well as the full spelling of and punctuation between addressing elements.",1,13
+html body text div table tbody tr td p span  ,International Destination Names,1,10
+html body text div table tbody tr td p a span  ,Go to Section H,0,11
+html body text div table tbody tr td p span  ,",",0,10
+html body text div table tbody tr td p i span  ,International Destination Listing,0,11
+html body text div table tbody tr td p span  ,.,0,10
+html body text div table tbody tr td p span  ,Symbols and Abbreviations Recognized by Canada Post,1,10
+html body text div table tbody tr td p a span  ,to top of page,1,11
+html body text div table tbody tr td p span  ,Street Types,1,10
+html body text div table tbody tr td p a span  ,Click to view table,0,11
+html body text div table tbody tr td p span  ,Street Directions,1,10
+html body text div table tbody tr td table tbody tr th span  ,ENGLISH,0,13
+html body text div table tbody tr td table tbody tr th span  ,SYMBOL,0,13
+html body text div table tbody tr td table tbody tr th span  ,FRENCH,0,13
+html body text div table tbody tr td table tbody tr th span  ,SYMBOL,0,13
+html body text div table tbody tr td table tbody tr td span  ,East,0,13
+html body text div table tbody tr td table tbody tr td span  ,E,0,13
+html body text div table tbody tr td table tbody tr td span  ,Est,0,13
+html body text div table tbody tr td table tbody tr td span  ,E,0,13
+html body text div table tbody tr td table tbody tr td span  ,North,0,13
+html body text div table tbody tr td table tbody tr td span  ,N,0,13
+html body text div table tbody tr td table tbody tr td span  ,Nord,0,13
+html body text div table tbody tr td table tbody tr td span  ,N,0,13
+html body text div table tbody tr td table tbody tr td span  ,Northeast,0,13
+html body text div table tbody tr td table tbody tr td span  ,NE,0,13
+html body text div table tbody tr td table tbody tr td span  ,Nord-Est,0,13
+html body text div table tbody tr td table tbody tr td span  ,NE,0,13
+html body text div table tbody tr td table tbody tr td span  ,Northwest,0,13
+html body text div table tbody tr td table tbody tr td span  ,NW,0,13
+html body text div table tbody tr td table tbody tr td span  ,Nord-Ouest,0,13
+html body text div table tbody tr td table tbody tr td span  ,NO,0,13
+html body text div table tbody tr td table tbody tr td span  ,South,0,13
+html body text div table tbody tr td table tbody tr td span  ,S,0,13
+html body text div table tbody tr td table tbody tr td span  ,Sud,0,13
+html body text div table tbody tr td table tbody tr td span  ,S,0,13
+html body text div table tbody tr td table tbody tr td span  ,Southeast,0,13
+html body text div table tbody tr td table tbody tr td span  ,SE,0,13
+html body text div table tbody tr td table tbody tr td span  ,Sud-Est,0,13
+html body text div table tbody tr td table tbody tr td span  ,SE,0,13
+html body text div table tbody tr td table tbody tr td span  ,Southwest,0,13
+html body text div table tbody tr td table tbody tr td span  ,SW,0,13
+html body text div table tbody tr td table tbody tr td span  ,Sud-Ouest,0,13
+html body text div table tbody tr td table tbody tr td span  ,SO,0,13
+html body text div table tbody tr td table tbody tr td span  ,West,0,13
+html body text div table tbody tr td table tbody tr td span  ,W,0,13
+html body text div table tbody tr td table tbody tr td span  ,Ouest,0,13
+html body text div table tbody tr td table tbody tr td span  ,O,0,13
+html body text div table tbody tr td p span  ,Unit Designators,1,10
+html body text div table tbody tr td p span  ,"The following are the most technologically efficient unit designators. In some cases, because of individual preference or other considerations, a mailer may use other unit designators.",1,10
+html body text div table tbody tr td table tbody tr th span  ,ENGLISH UNIT DESIGNATOR,0,13
+html body text div table tbody tr td table tbody tr th span  ,ABBREVIATION,0,13
+html body text div table tbody tr td table tbody tr th span  ,FRENCH UNIT DESIGNATOR,0,13
+html body text div table tbody tr td table tbody tr th span  ,ABBREVIATION,0,13
+html body text div table tbody tr td table tbody tr td span  ,Apartment,0,13
+html body text div table tbody tr td table tbody tr td span  ,APT,0,13
+html body text div table tbody tr td table tbody tr td span  ,Appartement,0,13
+html body text div table tbody tr td table tbody tr td span  ,APP,0,13
+html body text div table tbody tr td table tbody tr td span  ,Suite,0,13
+html body text div table tbody tr td table tbody tr td span  ,SUITE,0,13
+html body text div table tbody tr td table tbody tr td span  ,Bureau,0,13
+html body text div table tbody tr td table tbody tr td span  ,BUREAU,0,13
+html body text div table tbody tr td table tbody tr td span  ,Unit,0,13
+html body text div table tbody tr td table tbody tr td span  ,UNIT,0,13
+html body text div table tbody tr td table tbody tr td span  ,Unité,0,13
+html body text div table tbody tr td table tbody tr td span  ,UNITÉ,0,13
+html body text div table tbody tr td p span  ,Canadian Provinces and Territories,1,10
+html body text div table tbody tr td table tbody tr th span  ,ENGLISH NAME,0,13
+html body text div table tbody tr td table tbody tr th span  ,SYMBOL,0,13
+html body text div table tbody tr td table tbody tr th span  ,FRENCH NAME,0,13
+html body text div table tbody tr td table tbody tr td span  ,Alberta,0,13
+html body text div table tbody tr td table tbody tr td span  ,AB,0,13
+html body text div table tbody tr td table tbody tr td span  ,Alberta,0,13
+html body text div table tbody tr td table tbody tr td span  ,British Columbia,0,13
+html body text div table tbody tr td table tbody tr td span  ,BC,0,13
+html body text div table tbody tr td table tbody tr td span  ,Colombie-Britannique,0,13
+html body text div table tbody tr td table tbody tr td span  ,Manitoba,0,13
+html body text div table tbody tr td table tbody tr td span  ,MB,0,13
+html body text div table tbody tr td table tbody tr td span  ,Manitoba,0,13
+html body text div table tbody tr td table tbody tr td span  ,New Brunswick,0,13
+html body text div table tbody tr td table tbody tr td span  ,NB,0,13
+html body text div table tbody tr td table tbody tr td span  ,Nouveau-Brunswick,0,13
+html body text div table tbody tr td table tbody tr td span  ,Newfoundland and Labrador,0,13
+html body text div table tbody tr td table tbody tr td span  ,NL,0,13
+html body text div table tbody tr td table tbody tr td span  ,Terre-Neuve-et-Labrador,0,13
+html body text div table tbody tr td table tbody tr td span  ,Northwest Territories,0,13
+html body text div table tbody tr td table tbody tr td span  ,NT,0,13
+html body text div table tbody tr td table tbody tr td span  ,Territoires du Nord-Ouest,0,13
+html body text div table tbody tr td table tbody tr td span  ,Nova Scotia,0,13
+html body text div table tbody tr td table tbody tr td span  ,NS,0,13
+html body text div table tbody tr td table tbody tr td span  ,Nouvelle-Écosse,0,13
+html body text div table tbody tr td table tbody tr td span  ,Nunavut,0,13
+html body text div table tbody tr td table tbody tr td span  ,NU,0,13
+html body text div table tbody tr td table tbody tr td span  ,Nunavut,0,13
+html body text div table tbody tr td table tbody tr td span  ,Ontario,0,13
+html body text div table tbody tr td table tbody tr td span  ,ON,0,13
+html body text div table tbody tr td table tbody tr td span  ,Ontario,0,13
+html body text div table tbody tr td table tbody tr td span  ,Prince Edward Island,0,13
+html body text div table tbody tr td table tbody tr td span  ,PE,0,13
+html body text div table tbody tr td table tbody tr td span  ,Île-du-Prince-Édouard,0,13
+html body text div table tbody tr td table tbody tr td span  ,Québec,0,13
+html body text div table tbody tr td table tbody tr td span  ,QC,0,13
+html body text div table tbody tr td table tbody tr td span  ,Québec,0,13
+html body text div table tbody tr td table tbody tr td span  ,Saskatchewan,0,13
+html body text div table tbody tr td table tbody tr td span  ,SK,0,13
+html body text div table tbody tr td table tbody tr td span  ,Saskatchewan,0,13
+html body text div table tbody tr td table tbody tr td span  ,Yukon,0,13
+html body text div table tbody tr td table tbody tr td span  ,YT,0,13
+html body text div table tbody tr td table tbody tr td span  ,Yukon,0,13
+html body text div table tbody tr td p span  ,"States, Territories and Possessions – United States of America",1,10
+html body text div table tbody tr td p a span  ,Click to view table,0,11
+html body text div table tbody tr td p span  ,Postal Code,1,10
+html body text div table tbody tr td p a span  ,to top of page,0,11
+html body text div table tbody tr td p span  ,"The postal code is an integral part of every postal address in Canada. The postal code was designed to aid in sorting mail by both mechanized and manual methods. It also enables the Customer to presort mail, thereby bypassing a number of sorting processes within Canada Post and reducing costs.",1,10
+html body text div table tbody tr td p span  ,The Structure of the Postal Code,1,10
+html body text div table tbody tr td p span  ,"The postal code is a six-character uniformly structured, alphanumeric code in the form “ANA NAN” where “A” represents an alphabetic character and “N” represents a numeric character. A postal code is made up of two segments: “forward sortation area” and “local delivery unit.”",1,10
+html body text div table tbody tr td p span  ,The forward sortation area is a combination of three characters (alpha-numeric-alpha). It identifies a major geographic area in an urban or a rural location.,1,10
+html body text div table tbody tr td p span  ,The local delivery unit is a combination of three characters (numeric-alpha-numeric). It identifies the smallest delivery unit within a forward sortation area.,1,10
+html body text div table tbody tr td p span  ,Forward Sortation Area – The First Segment of the Postal Code,1,10
+html body text div table tbody tr td p span  ,The “forward sortation area” or “FSA” represents a specific area within a major geographic region or province. The forward sortation area provides the basis for the primary sorting of forward mail.,1,10
+html body text div table tbody tr td p span  ,The,1,10
+html body text div table tbody tr td p b span  ,first character,1,11
+html body text div table tbody tr td p span  ,"of the forward sortation area segment identifies one of the 18 major geographic areas, provinces or districts:",1,10
+html body text div table tbody tr td p span  ,The,1,10
+html body text div table tbody tr td p b span  ,second character,1,11
+html body text div table tbody tr td p span  ,of the forward sortation area is an important component of mail preparation as it identifies either:,1,10
+html body text div table tbody tr td ul li span  ,an urban postal code: numerals 1 to 9 (E,1,11
+html body text div table tbody tr td ul li u span  ,2,1,12
+html body text div table tbody tr td ul li span  ,J). Urban postal codes are generally serviced by Letter Carrier or community mailboxes; or,1,11
+html body text div table tbody tr td ul li span  ,a rural postal code: numeral 0 (zero) (A,1,11
+html body text div table tbody tr td ul li u span  ,0,1,12
+html body text div table tbody tr td ul li span  ,A). Rural postal codes are serviced by rural route drivers and/or postal outlets.,1,11
+html body text div table tbody tr td p span  ,The,1,10
+html body text div table tbody tr td p b span  ,third character,1,11
+html body text div table tbody tr td p span  ,of the forward sortation area segment (E2,1,10
+html body text div table tbody tr td p u span  ,J,1,11
+html body text div table tbody tr td p span  ,") in conjunction with the first two characters, describes an exact area of a city or town or other geographic area.",1,10
+html body text div table tbody tr td p span  ,Local Delivery Unit – The Second Segment of the Postal Code,1,10
+html body text div table tbody tr td p span  ,"The “local delivery unit” or “LDU”, identified by the last three characters of the postal code, allows for a more final sort within a forward sortation area.",1,10
+html body text div table tbody tr td p span  ,In,1,10
+html body text div table tbody tr td p b span  ,urban areas,1,11
+html body text div table tbody tr td p span  ,", the last three characters may indicate a specific city block (one side of a street between two intersecting streets), a single building or, in some cases, a large-volume mail receiver.",1,10
+html body text div table tbody tr td p span  ,In,1,10
+html body text div table tbody tr td p b span  ,rural areas,1,11
+html body text div table tbody tr td p span  ,", the last three characters, together with the forward sortation area, identify a specific rural community.",1,10
+html body text div table tbody tr td p span  ,Postal Code Address Data,1,10
+html body text div table tbody tr td p span  ,"Canada Post’s postal code address data is used to determine or verify the correct postal code for an address anywhere in Canada or identify the complete range of addresses that correspond to any one postal code. The data is available by download from a secured Canada Post FTP site, on CD-ROM or IBM cartridge, and is updated and distributed monthly.",1,10
+html body text div table tbody tr td p span  ,"Delivery Mode data, Householder and Householder-Plus data are also available. Additional information on postal code data is available at :",1,10
+html body text div table tbody tr td p a span  ,www.canadapost.ca/offerings/address_management/can/other_data-e.asp,1,11
+html body text div table tbody tr td p span  ,.,1,10
+html body text div table tbody tr td p span  ,Canadian Postal Code Searching Tools,1,10
+html body text div table tbody tr td p span  ,The,1,10
+html body text div table tbody tr td p b span  ,Canadian Postal Code Directory,1,11
+html body text div table tbody tr td p span  ,© contains postal code information for all addresses in Canada. It facilitates postal code lookup and verification.,1,10
+html body text div table tbody tr td p span  ,The,1,10
+html body text div table tbody tr td p i span  ,Canadian Postal Code Directory,1,11
+html body text div table tbody tr td p span  ,"can be purchased in hard copy through the National Philatelic Centre at 1-800-565-4362, or at selected postal outlets.",1,10
+html body text div table tbody tr td p span  ,Free postal code lookup is available to Customers through Canada Post’s website at: «,1,10
+html body text div table tbody tr td p a span  ,www.canadapost.ca/tools/pcl/bin/advanced-e.asp,1,11
+html body text div table tbody tr td p span  ,».,1,10
+html body text div table tbody tr td p span  ,Postal codes can also be obtained by calling 1-900-565-2633 for service in English or 1-900-565-2634 for service in French.,1,10
+html body text div table tbody tr td p span  ,"© Canada Post Corporation, 2006",0,10
+html body text div table tbody tr td p span  ,Address Accuracy Program,1,10
+html body text div table tbody tr td p a span  ,to top of page,0,11
+html body text div table tbody tr td p span  ,"Address Accuracy is a program designed to improve delivery by encouraging Customers to accurately address mail. Every item must be addressed to a specific individual or company. In the case of Addressed Admail and Catalogue Mail, items may also be addressed to a non-personalized descriptor, such as ""Occupant"" or similar wording. Every item must display a complete mailing address including any required suite or unit information as well as the valid postal code for that address. If the mailing address is not complete, the mail may be delayed or returned.",1,10
+html body text div table tbody tr td p span  ,"Consistent and accurate addressing eliminates the need for extra handling and/or redelivery. For Customers, this translates into a more efficient service and lower costs. Accurate addressing helps ensure the mail is delivered on time, every time.",1,10
+html body text div table tbody tr td p span  ,"Participation in the Address Accuracy Program is mandatory for all Machineable, Letter Carrier Presort (LCP), and NDG Presort mailings greater than 5,000 items.",1,10
+html body text div table tbody tr td p span  ,The standard for Address Accuracy is 95%. This means that 95% of the addresses on the Customer's database are determined to be valid. This is done by using a Canada Post recognized address validation and/or address validation and correction software. If the percentage on the,1,10
+html body text div table tbody tr td p i span  ,Statement of Accuracy,1,11
+html body text div table tbody tr td p span  ,"(SOA) produced by the software is less than 95%, an adjustment will be applied to the mailing.",1,10
+html body text div table tbody tr td p span  ,Customers must record their Address Accuracy percentage and expiry date obtained from their,1,10
+html body text div table tbody tr td p i span  ,Statement of Accuracy,1,11
+html body text div table tbody tr td p span  ,(SOA) on their,1,10
+html body text div table tbody tr td p i span  ,Order,1,11
+html body text div table tbody tr td p span  ,(,1,10
+html body text div table tbody tr td p i span  ,Statement of Mailing,1,11
+html body text div table tbody tr td p span  ,). Failure to record the Address Accuracy percentage and expiry date on the,1,10
+html body text div table tbody tr td p i span  ,Order,1,11
+html body text div table tbody tr td p span  ,(,1,10
+html body text div table tbody tr td p i span  ,Statement of Mailing,1,11
+html body text div table tbody tr td p span  ,) will result in the application of a surcharge.,1,10
+html body text div table tbody tr td p span  ,Customers are requested to keep a valid copy of the,1,10
+html body text div table tbody tr td p i span  ,Statement of Accuracy,1,11
+html body text div table tbody tr td p span  ,(SOA) on file in the event that Canada Post requests a copy.,1,10
+html body text div table tbody tr td p span  ,"In the case of Incentive Lettermail, Address Accuracy applies to Low Density Presort and Machineable mailings greater than 5,000 items, as well as to High Density Presort mailings greater than 500 items deposited in a Letter Carrier office. Customers who deposit Short and Long (S/L) High Density Presort mail in non-letter carrier offices (not serviced by letter carriers) for delivery within that same office, are exempt from the Address Accuracy requirements. All other requirements to access the High Density Presort service option must be adhered to.",1,10
+html body text div table tbody tr td p span  ,More information on the Address Accuracy Program can be found in the,1,10
+html body text div table tbody tr td p i span  ,Address Accuracy Program Customer Guide,1,11
+html body text div table tbody tr td p span  ,", on the Canada Post website at",1,10
+html body text div table tbody tr td p a span  ,www.canadapost.ca/address_management,1,11
+html body text div table tbody tr td p span  ,or from a Canada Post Representative.,1,10
+html body text div table tbody tr td p span  ,"Address Validation,",1,10
+html body text div table tbody tr td p span  ,Address Correction and,1,10
+html body text div table tbody tr td p span  ,Postal Code Look-Up,1,10
+html body text div table tbody tr td p a span  ,to top of page,0,11
+html body text div table tbody tr td p span  ,"Canada Post recognizes several software packages that provide mailers with automated means to perform address validation, address correction and postal code lookup.",1,10
+html body text div table tbody tr td p span  ,Recognized Addressing Software,1,10
+html body text div table tbody tr td p a span  ,to top of page,0,11
+html body text div table tbody tr td p span  ,"For a list of recognized addressing software, visit",1,10
+html body text div table tbody tr td p i span  ,Software Evaulation and Recognition Program,1,11
+html body text div table tbody tr td p span  ,at:,1,10
+html body text div table tbody tr td p a span  ,www.canadapost.ca/offerings/address_management/pdf/serp-e.pdf,1,11
+html body text div table tbody tr td center span  ,|,0,10
+html body text div table tbody tr td center nobr a span  ,Canada Postal Guide and Reference Tools,0,12
+html body text div table tbody tr td center nobr span  ,|,0,11
+html body text div table tbody tr td center nobr a span  ,What's New,0,12
+html body text div table tbody tr td center nobr span  ,|,0,11
+html body text div table tbody tr td center nobr a span  ,Canada Postal Guide,0,12
+html body text div table tbody tr td center nobr span  ,|,0,11
+html body text div table tbody tr td center nobr a span  ,B – General Information,0,12
+html body text div table tbody tr td center nobr span  ,|,0,11
+html body text div table tbody tr td center nobr a span  ,B.1 – Canada Post Corporation,0,12
+html body text div table tbody tr td center nobr span  ,|,0,11
+html body text div table tbody tr td center nobr a span  ,B.2 – Customer Relationship Network,0,12
+html body text div table tbody tr td center nobr span  ,|,0,11
+html body text div table tbody tr td center nobr a span  ,B.3 – Addressing,0,12
+html body text div table tbody tr td center nobr span  ,|,0,11
+html body text div table tbody tr td center nobr a span  ,B.4 – Planning a Mailing,0,12
+html body text div table tbody tr td center nobr span  ,|,0,11
+html body text div table tbody tr td center nobr a span  ,"B.5 – Paying for a Mailing, Product or Service",0,12
+html body text div table tbody tr td center nobr span  ,|,0,11
+html body text div table tbody tr td center nobr a span  ,B.6 – Customs Requirements,0,12
+html body text div table tbody tr td center nobr span  ,|,0,11
+html body text div table tbody tr td center nobr a span  ,B.7 – Non-mailable Matter,0,12
+html body text div table tbody tr td center nobr span  ,|,0,11
+html body text div table tbody tr td center nobr a span  ,Index,0,12
+html body text div table tbody tr td center nobr span  ,|,0,11

@@ -1,0 +1,134 @@
+tag,content,label,depth
+html body text div div p a span  ,UC Home,0,8
+html body text div div p span  ,|,0,7
+html body text div div p a span  ,Courses,0,8
+html body text div div p span  ,|,0,7
+html body text div div p a span  ,Departments,0,8
+html body text div div p span  ,|,0,7
+html body text div div p a span  ,Library,0,8
+html body text div div p span  ,|,0,7
+html body text div div p a span  ,Teaching,0,8
+html body text div div p span  ,|,0,7
+html body text div div p a span  ,Research,0,8
+html body text div div p span  ,|,0,7
+html body text div div p a span  ,Students,0,8
+html body text div div p span  ,|,0,7
+html body text div div p a span  ,Contacts,0,8
+html body text div div p span  ,|,0,7
+html body text div div p a span  ,Search,0,8
+html body text div p a acronym span  ,UC,0,8
+html body text div p a span  ,Home,0,7
+html body text div p span  ,>,0,6
+html body text div p a span  ,Departments,0,7
+html body text div p span  ,>,0,6
+html body text div p a span  ,College of Engineering,0,7
+html body text div p span  ,>,0,6
+html body text div p a span  ,Civil Engineering,0,7
+html body text div table tbody tr td span  ,Civil Engineering,0,9
+html body text div div div div div h4 span  ,Study,0,10
+html body text div div div div div ul li a span  ,Earthquake,0,12
+html body text div div div div div ul li a span  ,Environmental,0,12
+html body text div div div div div ul li a span  ,Fire,0,12
+html body text div div div div div ul li a span  ,Fluids,0,12
+html body text div div div div div ul li a span  ,Geotechnical,0,12
+html body text div div div div div ul li a span  ,Natural Resources,0,12
+html body text div div div div div ul li a span  ,Structural,0,12
+html body text div div div div div ul li a span  ,Transportation,0,12
+html body text div div div div div h4 span  ,For,0,10
+html body text div div div div div ul li a span  ,Prospective Students,0,12
+html body text div div div div div ul li a span  ,Undergraduate Students,0,12
+html body text div div div div div ul li a span  ,Postgraduate Students,0,12
+html body text div div div div div ul li a span  ,Visitors and Community,0,12
+html body text div div div div div h4 span  ,About,0,10
+html body text div div div div div ul li a span  ,Department,0,12
+html body text div div div div div ul li a span  ,Contact,0,12
+html body text div div div div div ul li a span  ,People,0,12
+html body text div div div div div ul li a span  ,Courses,0,12
+html body text div div div div div ul li a span  ,Research,0,12
+html body text div div div div div ul li a span  ,Publications,0,12
+html body text div div div div div ul li a span  ,Seminars,0,12
+html body text div div div div div ul li a span  ,News and Events,0,12
+html body text div div div div div ul li a span  ,Scholarships and Prizes,0,12
+html body text div div div div div div h3 span  ,Search,0,11
+html body text div div div div div div form p span  ,Entire University,0,12
+html body text div div div div div div form p span  ,Civil Engineering,0,12
+html body text div div div div div h4 span  ,Contact,0,10
+html body text div div div div div p strong span  ,+64 3 364 2250,0,11
+html body text div div div div div p a span  ,enquiries,0,11
+html body text div div div div div p a span  ,@civil.canterbury.ac.nz,0,11
+html body text div div div div div p span  ,Civil Engineering,0,10
+html body text div div div div div p span  ,Canterbury University,0,10
+html body text div div div div div p span  ,Private Bag 4800,0,10
+html body text div div div div div p span  ,"Christchurch, 8140",0,10
+html body text div div div div div p a span  ,Contacts Page,0,11
+html body text div div div div div div h1 span  ,Peter Moss (Retired),1,11
+html body text div div div div div div h3 span  ,Position,1,11
+html body text div div div div div div p span  ,Associate Professor in Civil Engineering,1,11
+html body text div div div div div div h3 span  ,Qualifications,1,11
+html body text div div div div div div p span  ,"PhD (London), BE(Hons)(Civil)(NZ), D.I.C., C.Eng., FIPENZ, MICE",1,11
+html body text div div div div div div h3 span  ,Contact Details,1,11
+html body text div div div div div div p strong span  ,Phone,1,12
+html body text div div div div div div p span  ,: +64 3 364 2245 Internal: 6245,1,11
+html body text div div div div div div p strong span  ,Fax,1,12
+html body text div div div div div div p span  ,: +64 3 364 2758,1,11
+html body text div div div div div div p strong span  ,Email,1,12
+html body text div div div div div div p span  ,:,1,11
+html body text div div div div div div p a span  ,peter.moss@civil.canterbury.ac.nz,1,12
+html body text div div div div div div h3 span  ,Research,1,11
+html body text div div div div div div p span  ,"Timber Engineering, Earthquake Engineering, Seismic Isolation, Structural Dynamics, Mechanics of wool yarns",1,11
+html body text div div div div div div h3 span  ,Adminstrative Responsibilities,1,11
+html body text div div div div div div p strong span  ,Department:,1,12
+html body text div div div div div div p span  ,Member of the Consultative Committee; Convenor of the Computer Developments Committee; Member of the Academic Developments Committee; and Counsellor to 2nd Professional Direct Entry Students,1,11
+html body text div div div div div div p strong span  ,Faculty:,1,12
+html body text div div div div div div p span  ,Member of the Computing (CAD policy) Committee,1,11
+html body text div div div div div div p strong span  ,University:,1,12
+html body text div div div div div div p span  ,"Member, Academic Board",1,11
+html body text div div div div div div p strong span  ,Professional:,1,12
+html body text div div div div div div p span  ,"Member of the Management Committee of the New ZealandNational Society for Earthquake Engineering; Member of the Physical and EngineeringSciences Advisory Committee; Foundation for Research, Science and Technology",1,11
+html body text div div div div div div h3 span  ,"Professional affliations, activities and achievements (last 5 years)",1,11
+html body text div div div div div div ul li span  ,"Fellow, IPENZ",1,12
+html body text div div div div div div ul li span  ,"Fellow, NZNSEE",1,12
+html body text div div div div div div ul li span  ,"Member, Institution of Civil Engineering",1,12
+html body text div div div div div div ul li span  ,"Member, NZ Geotechnical Society,",1,12
+html body text div div div div div div ul li span  ,"Member, NZ Concrete Society,",1,12
+html body text div div div div div div ul li span  ,"Member, NZ Society on Large Dams,",1,12
+html body text div div div div div div ul li span  ,"Member, NZ Timber Design Society",1,12
+html body text div div div div div div ul li span  ,Editor of the Bulletin of the NZ National Society for Earthquake Engineering and ex officio member of the Management Committee.,1,12
+html body text div div div div div div ul li span  ,Co-editor of a book on guidelines for the design of low-rise buildings subjected to lateral forces and the proceedings of a conference on the full-scale behaviour of wood-framed buildings in earthquakes and high winds.,1,12
+html body text div div div div div div h3 span  ,Recent Publications,1,11
+html body text div div div div div div p span  ,"Bernhart, D, Buchanan, A., Dhakal, R.P., and Moss, P.J., Effect of top reinforcing on the fire performance of continuous reinforced concrete beams,",1,11
+html body text div div div div div div p i span  ,"8th Intl Symposium on Fire Safety Science, Beijing,",1,12
+html body text div div div div div div p span  ,", 2005: 259-70",1,11
+html body text div div div div div div p span  ,"Lim L, A H Buchanan, Moss P J., Analysis and Design of Reinforced Concrete Slabs Exposed to Fires,",1,11
+html body text div div div div div div p i span  ,"Proceedings SiF 04 - Structures in Fire Symposium, Ottawa, Canada,",1,12
+html body text div div div div div div p span  ,", 2004: 353-68",1,11
+html body text div div div div div div p span  ,"Lane W, Buchanan A H, Moss P J., Fire Performance of Laminated Veneer Lumber (LVL),",1,11
+html body text div div div div div div p i span  ,"Proc of 18th Australasian Conf on the Mechanics of Structures and Materials, Perth, Australia,",1,12
+html body text div div div div div div p span  ,", 2004:",1,11
+html body text div div div div div div p span  ,"Wang, J., Carr, A., Cooke, N., & Moss, P., Effects of Spatial Variations of Seismic Inputs on Bridge Longitudinal Response,",1,11
+html body text div div div div div div p i span  ,"Proc of 13th World Conference on Earthquake Eng, Vancouver Canada (accepted to conf.),",1,12
+html body text div div div div div div p span  ,", 2004:",1,11
+html body text div div div div div div p span  ,"Wang, J., Carr, A., Cooke, N., & Moss, P., Inelastic Responses of Long Bridges to Ashynchronous Seismic Inputs,",1,11
+html body text div div div div div div p i span  ,"Proc of 13th World Conference on Earthquake Eng, Vancouver Canada (accepted to conf.),",1,12
+html body text div div div div div div p span  ,", 2004:",1,11
+html body text div div div div div div p span  ,"Moss P J, Buchanan A H, Seputro J, Wastney C, Welsh R, Effect of Support Conditions on the Fire Behaviour of Steel and Composite Beams,",1,11
+html body text div div div div div div p i span  ,"Fire and Materials,",1,12
+html body text div div div div div div p span  ,"v28no2-4, 2004: 159-76",1,11
+html body text div div div div div div p span  ,"Lim L, Buchanan A H, Moss P J, Franssen J-M., Numerical Modelling of Two-way Reinforced Concrete Slabs in Fire,",1,11
+html body text div div div div div div p i span  ,"Engineering Structures,",1,12
+html body text div div div div div div p span  ,"v26, 2004: 1081-91",1,11
+html body text div div div div div div p span  ,"Moss P J, Buchanan A H, Seputro J, Welsh R., Effect of Support Conditions on the Behaviour of Steel Beams in Fire,",1,11
+html body text div div div div div div p i span  ,"Australian Journal of Structural Eng,",1,12
+html body text div div div div div div p span  ,"v5no2, 2004: 89-98",1,11
+html body text div div div div div div p span  ,"Lim L, Buchanan A H, Moss P J., Restraint of Fire-Exposed Concrete Floor Systems,",1,11
+html body text div div div div div div p i span  ,"Fire and Materials,",1,12
+html body text div div div div div div p span  ,"v28no2-4, 2004: 95-126",1,11
+html body text div div div div div div p span  ,"Lane W, Buchanan A H, Moss P J., Fire Performance of Laminated Veneer Lumber (LVL),",1,11
+html body text div div div div div div p i span  ,"Proc. of World Conf on Timber Engineering, Lahti, Finland,",1,12
+html body text div div div div div div p span  ,"v3, 2004: 473-78",1,11
+html body text div div div div span  ,"© University of Canterbury - Christchurch, New Zealand",0,8
+html body text div div div div a span  ,Feedback,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Help and Accessibility,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Copyright and Disclaimer,0,9

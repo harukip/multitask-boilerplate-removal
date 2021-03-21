@@ -1,0 +1,234 @@
+tag,content,label,depth
+html body text title span span  ,STSC CrossTalk - Three Essential Tools for Stable Development� - Nov 2004,0,6
+html body text table tbody tr td select option span  ,Entire Site,0,10
+html body text table tbody tr td select option span  ,CrossTalk Only,0,10
+html body text table tbody tr td table tbody tr td span  ,-,0,12
+html body text table tbody tr td table tbody tr td a span  ,Mission,0,13
+html body text table tbody tr td table tbody tr td span  ,-,0,12
+html body text table tbody tr td table tbody tr td a span  ,Staff,0,13
+html body text table tbody tr td table tbody tr td span  ,-,0,12
+html body text table tbody tr td table tbody tr td a span  ,Contact Us,0,13
+html body text table tbody tr td table tbody tr td span  ,-,0,12
+html body text table tbody tr td table tbody tr td a span  ,Subscribe Now,0,13
+html body text table tbody tr td table tbody tr td span  ,-,0,12
+html body text table tbody tr td table tbody tr td a span  ,Update,0,13
+html body text table tbody tr td table tbody tr td span  ,-,0,12
+html body text table tbody tr td table tbody tr td a span  ,Cancel,0,13
+html body text table tbody tr td table tbody tr td span  ,-,0,12
+html body text table tbody tr td span a span  ,Home,0,10
+html body text table tbody tr td span span  ,>,0,9
+html body text table tbody tr td span a span  ,CrossTalk Nov 2004,0,10
+html body text table tbody tr td span span  ,> Article,0,9
+html body text table tbody tr td table tbody tr td span  ,Nov 2004 Issue,0,12
+html body text table tbody tr td table tbody tr td span span  ,Three Essential Tools for Stable Development�,1,13
+html body text table tbody tr td table tbody tr td span span  ,"Andy Hunt, The Pragmatic Programmers, LLC",1,13
+html body text table tbody tr td table tbody tr td span span  ,"Dave Thomas, The Pragmatic Programmers, LLC",1,13
+html body text table tbody tr td table tbody tr td span span  ,"Three basic practices make the difference between a software project that succeeds and one that fails. These practices supportand reinforce each other; when done properly, they form an interlocking safety net to help ensure success and prevent commonproject disasters. However, few development teams in the United States use these proven techniques, and even fewer use themcorrectly.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"Many software projects that fail seemto fail for very similar reasons. Afterobserving � and helping � many of theseailing projects over the past couple ofdecades, it seems clear to us that a majorityof common problems can be tracedback to a lack of three very basic practices.Fortunately, these three practices are easyand relatively inexpensive to adopt. It doesnot require a large-scale, expensive, orbureaucratic effort; with just these practicesin place, your team can work at topspeed with increased parallelism. You willnever lose precious work, and you willknow immediately when the developmentstarts to veer off-track in time to correct it,cheaply and easily.",1,13
+html body text table tbody tr td table tbody tr td p span  ,The three basic practices that we haveidentified as being the most crucial are,1,13
+html body text table tbody tr td table tbody tr td p i span  ,"versioncontrol, unit testing,",1,14
+html body text table tbody tr td table tbody tr td p span  ,and,1,13
+html body text table tbody tr td table tbody tr td p i span  ,automation.,1,14
+html body text table tbody tr td table tbody tr td p span  ,"Version control is an obvious best practice,yet nearly 40 percent of software projectsin the United States do not use any formof version control for their source codefiles [1]. The motto of these shops seemsto be",1,13
+html body text table tbody tr td table tbody tr td p i span  ,last one in wins,1,14
+html body text table tbody tr td table tbody tr td p span  ,". That is, they will use ashared drive of some sort and hope thatno one overwrites their changes as thesoftware evolves. Hope is a pretty poormethodology, and these teams regularlylose precious work. Developers begin tofear making any changes at all, in case theyaccidentally make the system worse. Ofcourse, this fear becomes a self-fulfillingprophecy as necessary changes are neglectedand the system begins to degrade.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"Unit testing is a coding technique forprogrammers so they can verify that thecode they just wrote actually does somethingakin to their intent. It may or maynot fulfill the requirements, but that is aseparate question: If the code does not dowhat the programmer thought it did, thenany further testing or validation is bothmeaningless and a large waste of time andmoney (two items that are in short supplyto begin with). Developer-centric unittesting is a great way to introduce basicregression testing, create more modularizedcode that is easier to maintain, andensure that new work does not breakexisting work. Despite the effectiveness ofthis technique in both improving designand identifying and preventing defects(aka bugs), 76 percent of companies in theUnited States do not even try it [2].",1,13
+html body text table tbody tr td table tbody tr td p span  ,"Automation is a catchall category thatincludes regular, unattended project builds,including regression tests and push-buttonconvenience for day-to-day activities.Regular builds ensure that the product canbe built to catch simple mistakes early andeasily, when fixing them is the cheapest.When implemented properly, it is as if youhave an ever-vigilant guardian looking overyour shoulder, warning you as soon asthere is a problem. Incredibly, some 70percent of projects in the United States donot have any sort of daily build [2]. By thetime they discover a problem, it has metastasizedinto a much larger and potentiallyfatal problem.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"We will briefly examine each of theseareas, with an in-depth look at unit testingin particular. We will outline the importantideas, synergies, and caveats for each ofthese practices so your team can eitherbegin using them or improve your currentuse of them.",1,13
+html body text table tbody tr td table tbody tr td span span  ,Version Control,1,13
+html body text table tbody tr td table tbody tr td p span  ,"Everyone can agree that version control isa best practice but even with it in place, isit being used effectively? Ask yourselfthese questions: Can you re-create yoursoftware exactly as it existed on January 8?When a bug is found that affects multipleversions of your released software, canyour team fix it just once, and then applythat fix to the different versions automatically?Can a developer quickly back out ofa bad piece of code?",1,13
+html body text table tbody tr td table tbody tr td p span  ,"There is more to version control thanjust keeping track of files. But before weproceed, we need to define some simpleterminology: We use",1,13
+html body text table tbody tr td table tbody tr td p i span  ,check-in,1,14
+html body text table tbody tr td table tbody tr td p span  ,to mean thata programmer has submitted his or herchanges to the version control system. Weuse,1,13
+html body text table tbody tr td table tbody tr td p i span  ,checkout,1,14
+html body text table tbody tr td table tbody tr td p span  ,to refer to getting a personalversion of code from the version controlsystem into a local working area.,1,13
+html body text table tbody tr td table tbody tr td p span  ,"When a programmer checks in code, itis now potentially available to the rest ofthe team. As such, it is only polite toensure that this new code actually compilessuccessfully; it should be accompanied byunit tests (more on this later), and thosetests should pass. All the other passingtests in the system should continue to passas well � if they suddenly fail, then you caneasily trace the failure to the new code thatwas introduced.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"It is far easier to track down these sortof problems right at the point of creationinstead of days, weeks, or even monthslater. To exploit this effect, you must allowand encourage frequent check-ins of codemultiple times per day. It is not unusual tosee team members check-in code 10-20times a day. It",1,13
+html body text table tbody tr td table tbody tr td p i span  ,is,1,14
+html body text table tbody tr td table tbody tr td p span  ,unusual � and very dangerous� to allow a programmer to go afew days or a week or more without checkingin code.,1,13
+html body text table tbody tr td table tbody tr td p span  ,"Because check-ins occur so frequently,these and other day-to-day operationsmust be very fast and low ceremony. Acheck-in or checkout of code should nottake more than five to 15 seconds in general.If it takes an hour, people will not doit, and you have lost the advantage.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"Now some people get a little nervouswhen they read this part. They fret that allof this code is being dumped into the systemwithout being reviewed, tested by QA,audited, or whatever else their methodologyor environment demands. They arerightfully concerned that this code is notyet ready to be part of a release.Nonetheless, it must still be in the versioncontrol system so that it is protected.",1,13
+html body text table tbody tr td table tbody tr td p span  ,Most version control systems provide amechanism to differentiate ongoing developmentchanges from official release candidates.Some feature explicit,1,13
+html body text table tbody tr td table tbody tr td p i span  ,promotion,1,14
+html body text table tbody tr td table tbody tr td p span  ,commands to allow this. You can accomplishthe same thing in other systems byusing tags (or version labels) to identifystable release versions of source code asopposed to code that is in progress.,1,13
+html body text table tbody tr td table tbody tr td p span  ,"Regardless of the mechanism, it mustbe an easy operation to promote developmentchanges to an official release status.On the other side of the coin, you need tobe able to back out changes and any disastrousnew code when needed.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"Finally, you need to be able to re-createany product built at any previous pointin time. This ability to go back in time iscrucial for effective debugging and problemsolving (just think of any developerwho starts a discussion with, ""Well, it usedto work"").",1,13
+html body text table tbody tr td table tbody tr td p span  ,"Commercial and freely available versioncontrol systems vary in complexity,features, and ease of administration. Butone feature in particular is worth examining:whether it supports strict locking oroptimistic locking. In systems under strictlocking, only one person can edit a file ata time. While that sounds like a good idea,it turns out to be unduly restrictive inpractice. We favor the ConcurrentVersion System",1,13
+html body text table tbody tr td table tbody tr td p a span  ,www.cvshome.org,1,14
+html body text table tbody tr td table tbody tr td p span  ,described in [3].,1,13
+html body text table tbody tr td table tbody tr td p span  ,"You may find you can increase parallelismand efficiency in your team by usinga system that features optimistic locking.In these systems, multiple people can editthe same source code file simultaneously.The system uses conflict-resolution algorithmsto merge the disparate changestogether in a sensible manner. Ninety-ninepercent of the time it works perfectly withoutintervention. Occasionally, however,there is a conflict that must be addressedmanually. At no point is anyone's work indanger of being lost, and it ends up beingmuch more efficient to coordinate justthese few conflicts by hand instead of havingeveryone coordinate every change withthe rest of the team.",1,13
+html body text table tbody tr td table tbody tr td span span  ,Unit Testing,1,13
+html body text table tbody tr td table tbody tr td p span  ,"When a developer makes a change to thecode on your project, what feedback isavailable? Does the developer have anyway of knowing if the new code brokeanything else? Better still, how do",1,13
+html body text table tbody tr td table tbody tr td p i span  ,you,1,14
+html body text table tbody tr td table tbody tr td p span  ,knowif any developer has broken anythingtoday? A system of automated unit testswill give you this information in real-time.,1,13
+html body text table tbody tr td table tbody tr td p span  ,"Programming languages are notoriousfor doing exactly what programmers say,not what they mean. Like a petulant childthat takes your expressions completely literally,the computer follows our instructionsto the letter, with no regard at all toour intent. Technology has yet to producethe compiler that implements with",1,13
+html body text table tbody tr td table tbody tr td p i span  ,"do whatI mean, not what I say.",1,14
+html body text table tbody tr td table tbody tr td p span  ,"So in keeping with the idea of findingand fixing problems as soon as they occur,you want programmers to use unit tests (orchecked examples) to verify the computer'sliteral interpretation of their commands. Itis really no different from followingthrough with a subordinate to verify that adelegated task was performed � exceptthat instead of just checking once, automatedunit tests will check and recheckevery time any code is changed.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"There are some requirements to usingthis style of development, however:",1,13
+html body text table tbody tr td table tbody tr td ul li span  ,"The code base must be decoupledenough to allow testing. When code istightly coupled, it is very difficult totest individual pieces in isolation, andharder to devise unit tests that exercisespecific areas of functionality. Wellwrittencode, on the other hand, is easyto test. If your team finds that the codeis difficult to test, then take that as awarning sign that the code is in serioustrouble to begin with.",1,14
+html body text table tbody tr td table tbody tr td ul li span  ,"Only check-in tested code. As we mentionedabove, checking-in foists a programmer'scode onto the rest of theteam. Once it is available to everyone,then the whole team will begin to relyon it. Because of this reliance, all codethat is checked in must pass its owntests.",1,14
+html body text table tbody tr td table tbody tr td ul li span  ,"In addition to passing its own tests, theprogrammer checking in the code mustensure nothing else breaks, either. Thissimple regression helps prevent thatfrustrating feeling of",1,14
+html body text table tbody tr td table tbody tr td ul li i span  ,"one step forward, twosteps back",1,15
+html body text table tbody tr td table tbody tr td ul li span  ,"that becomes commonplacewhen code fixes cause collateral damageto other parts of the code base.Usually these bugs then require fixes,which in turn cause more damage, andso on. The discipline of keeping all thetests running all the time prevents thatparticular death-spiral.",1,14
+html body text table tbody tr td table tbody tr td ul li span  ,"There should be at least as much testcode as production code. You mightthink that is excessive, but it is reallyjust a question of where the value ofthe system resides. We firmly believethe code that implements the system isnot where the value of your intellectualproperty lies. Code can be rewrittenand replaced, and the new code (evenan entirely new system) can be verifiedagainst the existing tests. Now themost precise specification of the systemis in executable form � the unittests. The learning and experience thatgoes into creating the unit tests isinvaluable, and the tests themselves arethe best expression we have of thatknowledge.",1,14
+html body text table tbody tr td table tbody tr td p span  ,We will look at implementing unit tests(aka checked examples) in much greaterdetail later in this article.,1,13
+html body text table tbody tr td table tbody tr td span span  ,Automation,1,13
+html body text table tbody tr td table tbody tr td p span  ,An old saying goes the,1,13
+html body text table tbody tr td table tbody tr td p i span  ,cobbler's children haveno shoes,1,14
+html body text table tbody tr td table tbody tr td p span  ,. This saying is particularly appropriatefor our use of software tools duringsoftware development. We see teams routinelywaste time using manual proceduresthat could easily be automated.,1,13
+html body text table tbody tr td table tbody tr td p span  ,"Everyone clamors for software developmentto be more defined and repeatable.Well, the",1,13
+html body text table tbody tr td table tbody tr td p i span  ,design,1,14
+html body text table tbody tr td table tbody tr td p span  ,and implementation ofsoftware probably cannot be made repeatableany more than you could make theprocess of making hit movies repeatable.But the,1,13
+html body text table tbody tr td table tbody tr td p i span  ,production,1,14
+html body text table tbody tr td table tbody tr td p span  ,of software is anothermatter entirely.,1,13
+html body text table tbody tr td table tbody tr td p span  ,"The process of taking source codefiles, bits of eXtensible Markup Language,libraries, and other resources and producingan executable for the end user shouldbe precisely repeatable. Given the sameinputs, you want the same outputs, everytime, without excuses. In combinationwith version control, you want to be ableto go back in time and reproduce thatsame pile of bits that you would have producedon January 8 just as easily. Thatcomes in very handy should theDepartment of Justice ask for it politely, ora frustrated customer asks for it somewhatless politely to work around some outstandingbug.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"The rule we try to adopt is that anymanual process that is repeated twice islikely to be repeated a third time � or more� so it needs to be encapsulated within ashell script, batch file, piece of Java code,Job Control Language, or whatever.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"Unit tests, as well as functional andacceptance tests, should be run automaticallyas well as be part of the build process.You will probably want to run the unittests (which should execute very quickly)with every build; automatic functional andacceptance tests might take longer and youmay only want to run those once a week,or when convenient.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"You see, not only does automationmake developer's lives easier by providingpush-button convenience, it helps keep thefeedback coming by constantly checkingthe state of the software. Automatedbuilds are constantly asking two questions:Does the software build correctly? Do allthe tests still pass a basic regression? Withthe computer performing these checksregularly, developers do not have to.Problems can be identified as soon as theyhappen, and the appropriate developer orteam lead can be notified immediately ofthe problem [4]. Problems can be fixedquickly, before they have a chance to causeany additional damage. That is the benefitwe want from automation.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"Finally, consider how the build communicatesto the development team and itsmanagement. Does the team lead look atthe latest results in some log file and thenreport status to management? Does notthat constitute a manual process? It is relativelyeasy to set up visual display devices,ranging from liquid crystal display screensto bubbling lava-style lamps to the newand popular Ambient Orb [4].",1,13
+html body text table tbody tr td table tbody tr td span span  ,Synergy,1,13
+html body text table tbody tr td table tbody tr td p span  ,"These three practices interlock to provide agenuine safety net for developers. Versioncontrol is the foundation. Unit tests andscripts for automation are under versioncontrol, but version control needs automationto be effective. Unit testing needs bothversion control and automation.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"With the combination, developers canbetter afford to take chances, experiment,and find the best solutions. The Rule ofThree says that if you have not proposedat least three solutions to a problem thenyou have not thought about it hardenough. With this set of practices in place,developers can realistically try out a numberof different solutions to a problem:Version control will keep them separate,and unit testing will help confirm the viabilityof each solution. All this with plentyof automated support, including continuous,ongoing checks ensures that the teamdoes not wander too far off into thewoods. This is how modern, successfulsoftware development is done.",1,13
+html body text table tbody tr td table tbody tr td span span  ,Unit Testing With YourRight-BICEP,1,13
+html body text table tbody tr td table tbody tr td p span  ,You can strengthen your organization'stesting skills by looking at six specific areasof code that may need unit tests. Theseareas are remembered easily using themnemonic Right-BICEP [5]:,1,13
+html body text table tbody tr td table tbody tr td p strong span  ,Right,1,14
+html body text table tbody tr td table tbody tr td p span  ,� Are the results,1,13
+html body text table tbody tr td table tbody tr td p i span  ,right?,1,14
+html body text table tbody tr td table tbody tr td p strong span  ,B,1,14
+html body text table tbody tr td table tbody tr td p span  ,� Are all the,1,13
+html body text table tbody tr td table tbody tr td p i span  ,boundary,1,14
+html body text table tbody tr td table tbody tr td p span  ,conditions correct?,1,13
+html body text table tbody tr td table tbody tr td p strong span  ,I,1,14
+html body text table tbody tr td table tbody tr td p span  ,� Can you check,1,13
+html body text table tbody tr td table tbody tr td p i span  ,inverse,1,14
+html body text table tbody tr td table tbody tr td p span  ,relationships?,1,13
+html body text table tbody tr td table tbody tr td p strong span  ,C,1,14
+html body text table tbody tr td table tbody tr td p span  ,� Can you,1,13
+html body text table tbody tr td table tbody tr td p i span  ,cross-check,1,14
+html body text table tbody tr td table tbody tr td p span  ,results usingother means?,1,13
+html body text table tbody tr td table tbody tr td p strong span  ,E,1,14
+html body text table tbody tr td table tbody tr td p span  ,� Can you force,1,13
+html body text table tbody tr td table tbody tr td p i span  ,error,1,14
+html body text table tbody tr td table tbody tr td p span  ,conditions tohappen?,1,13
+html body text table tbody tr td table tbody tr td p strong span  ,P,1,14
+html body text table tbody tr td table tbody tr td p span  ,� Are,1,13
+html body text table tbody tr td table tbody tr td p i span  ,performance,1,14
+html body text table tbody tr td table tbody tr td p span  ,characteristicswithin bounds?,1,13
+html body text table tbody tr td table tbody tr td span span  ,Are the Results Right?,1,13
+html body text table tbody tr td table tbody tr td p span  ,"The first and most obvious area to test issimply to see if the expected results areright � to validate the results. These areusually the easy tests, as they represent theanswer to the key question: If the code rancorrectly, how would I know? Here is anexample of how being forced to thinkabout testing helps developers code better:If this question cannot be answered satisfactorily,then writing the code � or the test� may be a complete waste of time.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"""But wait,"" you cry out, ""that does notsound very agile! What if the requirementsare vague or incomplete? Does that meanwe can't write code until all the requirementsare firm?"" No, it does not at all. Ifthe requirements are truly not yet known,or not yet complete, you can always makesome assumptions as a stake in the ground.They may not be correct from the user'spoint of view (or anyone else on the planet),but they let the team continue to develop.And, because you have written a testbased on your assumption, you have nowdocumented it � nothing is implicit.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"Of course, you must then arrange forfeedback with users or sponsors to finetuneyour assumptions. The definition of",1,13
+html body text table tbody tr td table tbody tr td p i span  ,correct,1,14
+html body text table tbody tr td table tbody tr td p span  ,"may change over the lifetime of thecode in question, but at any point, youshould be able to prove that it is doingwhat you think it ought.",1,13
+html body text table tbody tr td table tbody tr td span span  ,Boundary Conditions,1,13
+html body text table tbody tr td table tbody tr td p span  ,Identifying boundary conditions is one ofthe most valuable parts of unit testingbecause this is where most bugs generallylive � at the edges. Some conditions youmight want to think about include the following:,1,13
+html body text table tbody tr td table tbody tr td ul li span  ,Totally bogus or inconsistent input valuessuch as a file,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,name of!*W:X\\{\Gi/w$$g/h\#WQ@.,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Badly formatted data such as an e-mailaddress without a top-level domainfred@foobar.,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,"Empty or missing values such as 0, 0.0,"""", or null.",1,14
+html body text table tbody tr td table tbody tr td ul li span  ,"Values far in excess of reasonableexpectations such as a person's age of10,000 years.",1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Duplicates in lists that should not haveduplicates.,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,"Ordered lists that are not in order andvice-versa. Try handing a pre-sorted listto a sort algorithm, for instance, oreven a reverse-sorted list.",1,14
+html body text table tbody tr td table tbody tr td ul li span  ,"Things that arrive out of order, or happenout of expected order such as tryingto print a document before loggingin, for instance.",1,14
+html body text table tbody tr td table tbody tr td p span  ,"An easy way to think of possibleboundary conditions is to remember theacronym CORRECT. For each of theseitems, consider whether or not similar conditionsmay exist in your method that youwant to test, and what might happen ifthese conditions were violated [4]:",1,13
+html body text table tbody tr td table tbody tr td ul li strong span  ,Conformance.,1,15
+html body text table tbody tr td table tbody tr td ul li span  ,Does the value conformto an expected format?,1,14
+html body text table tbody tr td table tbody tr td ul li strong span  ,Ordering.,1,15
+html body text table tbody tr td table tbody tr td ul li span  ,Is the set of values orderedor unordered as appropriate?,1,14
+html body text table tbody tr td table tbody tr td ul li strong span  ,Range.,1,15
+html body text table tbody tr td table tbody tr td ul li span  ,Is the value within reasonableminimum and maximum values?,1,14
+html body text table tbody tr td table tbody tr td ul li strong span  ,Reference.,1,15
+html body text table tbody tr td table tbody tr td ul li span  ,Does the code referenceanything external that is not underdirect control of the code itself ?,1,14
+html body text table tbody tr td table tbody tr td ul li strong span  ,Existence.,1,15
+html body text table tbody tr td table tbody tr td ul li span  ,"Does the value exist (e.g., isnon-null, non-zero, present in a set,etc.)?",1,14
+html body text table tbody tr td table tbody tr td ul li strong span  ,Cardinality.,1,15
+html body text table tbody tr td table tbody tr td ul li span  ,Are there exactly enoughvalues?,1,14
+html body text table tbody tr td table tbody tr td ul li strong span  ,Time (absolute and relative).,1,15
+html body text table tbody tr td table tbody tr td ul li span  ,Iseverything happening in order? At theright time? In time?,1,14
+html body text table tbody tr td table tbody tr td span span  ,Check Inverse Relationships,1,13
+html body text table tbody tr td table tbody tr td p span  ,"Some methods can be checked by applyingtheir logical inverse. For instance developersmight check a method that calculates asquare root by squaring the result, and testingthat it is tolerably close to the originalnumber. They might also check that somedata was successfully inserted into a databaseby then searching for it, and so on.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"Be cautious when the same person haswritten both the original routine and itsinverse, as some bugs might be masked bya common error in both routines. Wherepossible, use a different source for theinverse test. In the square root example,we might use regular multiplication to testour method. For the database search, wewill probably use a vendor-provided searchroutine to test our insertion.",1,13
+html body text table tbody tr td table tbody tr td span span  ,Cross-Check Using Other Means,1,13
+html body text table tbody tr td table tbody tr td p span  ,"Developers might also be able to crosscheckresults of their method using differentmeans. Usually there is more than oneway to calculate some quantity; we mightpick one algorithm over the others becauseit performs better or has other desirablecharacteristics. That is the one we will usein production, but we can use one of theother versions to cross-check our results inthe test system. This technique is especiallyhelpful when there is a proven, knownway of accomplishing the task that happensto be too slow or too inflexible to usein production code.",1,13
+html body text table tbody tr td table tbody tr td p span  ,Another way of looking at this is to usedifferent pieces of data from the codeitself to make sure they all,1,13
+html body text table tbody tr td table tbody tr td p i span  ,add up,1,14
+html body text table tbody tr td table tbody tr td p span  ,". Forinstance, suppose you had some sort ofsystem that automated a lending library. Inthis system, the number of copies of aparticular book should always balance.That is, the number of copies that arechecked out plus the number of copies sittingon the shelves should always equal thetotal number of copies in the collection.These are separate pieces of data, and mayeven be managed by different pieces ofcode, but they still have to agree and so canbe used to cross-check one another.",1,13
+html body text table tbody tr td table tbody tr td span span  ,Force Error Conditions,1,13
+html body text table tbody tr td table tbody tr td p span  ,"In the real world, errors happen. Disks fillup, network lines drop, e-mail goes into ablack hole, and programs crash. Youshould be able to test that code handles allof these real-world problems by forcingerrors to occur.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"That is easy enough to do with invalidparameters and the like, but to simulatespecific network errors � without unpluggingany cables � takes some special techniques,including using mock objects.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"In movie and television production,crews will often use",1,13
+html body text table tbody tr td table tbody tr td p i span  ,stand-ins,1,14
+html body text table tbody tr td table tbody tr td p span  ,", or doubles,for the real actors. In particular, while thecrews are setting up the lights and cameraangles, they will use",1,13
+html body text table tbody tr td table tbody tr td p i span  ,lighting doubles,1,14
+html body text table tbody tr td table tbody tr td p span  ,": inexpensive,unimportant people who areabout the same height and complexion asthe very expensive, important actors whoremain safely lounging in their luxurioustrailers.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"The crew then tests their setup withthe lighting doubles, measuring the distancefrom the camera to the stand-in'snose, adjusting the lighting until there areno unwanted shadows, and so on, whilethe obedient stand-in just stands there anddoes not whine or complain about",1,13
+html body text table tbody tr td table tbody tr td p i span  ,lackingmotivation,1,14
+html body text table tbody tr td table tbody tr td p span  ,for their character in this scene.,1,13
+html body text table tbody tr td table tbody tr td p span  ,"What you can do in unit testing is similarto the use of lighting doubles in themovies: Use a cheap stand-in that is kindof close to the real thing, at least superficially,but that will be easier to work withfor your purposes.",1,13
+html body text table tbody tr td table tbody tr td span span  ,Performance Characteristics,1,13
+html body text table tbody tr td table tbody tr td p span  ,"One area that might prove beneficial toexamine is performance characteristics �not performance itself, but trends as inputsizes grow, as problems become morecomplex, and so on. Why? We have allexperienced applications that work fine fora year or so, but suddenly and inexplicablyslow to a crawl. Often, this is the result ofa silly error or oversight: A databaseadministrator changed the indexing structurein the database, or a developer typedan extra zero into a loop counter.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"What we would like to achieve is aquick regression test of performancecharacteristics. We want to do this regularly,every day at least, so that if we haveinadvertently introduced a performanceproblem we will know about it soonerrather than later (because the nearer intime you are to the change that introducedthe problem, the easier it is to workthrough the list of things that may havecaused that problem).",1,13
+html body text table tbody tr td table tbody tr td p span  ,"So, to avoid shipping software withunsuspected performance problems,teams should consider writing some roughtests just to make sure that the performancecurve remains stable. For instance,suppose the team is working on a componentthat lets users browse the Web fromwithin their application. Part of therequirement is to filter out access to Websites that we wish to block. The codeworks fine with a few dozen sample sites,but will it work as well with 10,000?100,000? We can write a unit test to findout.",1,13
+html body text table tbody tr td table tbody tr td p span  ,"This gives us some assurance that weare still meeting performance targets. Butbecause this one test takes six to sevenseconds to run, we may not want to run itevery time. As long as we run it (say)nightly, we will quickly be alerted to anyproblems we may introduce while there isstill time to fix them.",1,13
+html body text table tbody tr td table tbody tr td span span  ,Getting Started,1,13
+html body text table tbody tr td table tbody tr td p span  ,"All of the software tools mentioned in thisarticle are freely available on the Web. Toget started using these practices effectively,we recommend following this sequence:",1,13
+html body text table tbody tr td table tbody tr td ol li span  ,Get everything into version control.,1,14
+html body text table tbody tr td table tbody tr td ol li span  ,"Arrange for automatic, daily builds.Increase these to multiple times per dayor continuously as soon as the processbegins to work smoothly.",1,14
+html body text table tbody tr td table tbody tr td ol li span  ,"Start writing unit tests for new code.Where needed, add some unit tests toexisting code (but be pragmatic aboutit; only add tests if they will really help,not just for the sake of completeness).",1,14
+html body text table tbody tr td table tbody tr td ol li span  ,Add the unit tests to the scheduledbuilds.,1,14
+html body text table tbody tr td table tbody tr td p span  ,"You can begin right away. Fire up thatWeb browser and start downloading somesoftware if you do not already have it.These ideas will not fix all the problemson your project, of course, but they willprovide your project with a firm footingso you can concentrate on the truly difficultproblems.",1,13
+html body text table tbody tr td table tbody tr td span span  ,References,1,13
+html body text table tbody tr td table tbody tr td ol li span  ,"Zeichick, Alan. ""Debuggers, SourceControl Keys to Quality.""",1,14
+html body text table tbody tr td table tbody tr td ol li i span  ,SoftwareDevelopment Times,1,15
+html body text table tbody tr td table tbody tr td ol li span  ,1 Mar. 2002.,1,14
+html body text table tbody tr td table tbody tr td ol li span  ,"Cusumano, Michael, et al. ""A GlobalSurvey of Software DevelopmentPractices."" Paper 178. MIT SloanSchool of Management, June 2003.",1,14
+html body text table tbody tr td table tbody tr td ol li span  ,"Thomas, Dave, and Andy Hunt.",1,14
+html body text table tbody tr td table tbody tr td ol li i span  ,Pragmatic Version Control With CVS,1,15
+html body text table tbody tr td table tbody tr td ol li span  ,".Raleigh, NC: Pragmatic Bookshelf,2003",1,14
+html body text table tbody tr td table tbody tr td ol li a span  ,www.PragmaticBookshelf.com,1,15
+html body text table tbody tr td table tbody tr td ol li span  ,.,1,14
+html body text table tbody tr td table tbody tr td ol li span  ,"Clark, Mike.",1,14
+html body text table tbody tr td table tbody tr td ol li i span  ,Pragmatic ProjectAutomation.,1,15
+html body text table tbody tr td table tbody tr td ol li span  ,"Raleigh, NC: PragmaticBookshelf, 2004",1,14
+html body text table tbody tr td table tbody tr td ol li a span  ,www.PragmaticBookshelf.com,1,15
+html body text table tbody tr td table tbody tr td ol li span  ,.,1,14
+html body text table tbody tr td table tbody tr td ol li span  ,"Hunt, Andy, and Dave Thomas.",1,14
+html body text table tbody tr td table tbody tr td ol li i span  ,Pragmatic Unit Testing in Java WithJUnit.,1,15
+html body text table tbody tr td table tbody tr td ol li span  ,"Raleigh, NC: PragmaticBookshelf, 2003. (Also available in aC# version)",1,14
+html body text table tbody tr td table tbody tr td ol li a span  ,www.PragmaticBookshelf.com,1,15
+html body text table tbody tr td table tbody tr td ol li span  ,.,1,14
+html body text table tbody tr td table tbody tr td span span  ,About the Authors,1,13
+html body text table tbody tr td table tbody tr td p b span  ,Andy Hunt,1,14
+html body text table tbody tr td table tbody tr td p span  ,"is an avidwoodworker and musician,but curiously, he ismore in demand as aconsultant. He has workedin telecommunications,banking, financial services, andutilities, as well as more exotic fields suchas medical imaging and graphic arts.Hunt is author of many articles,columns and books, and co-author of""The Pragmatic Programmer.""The Pragmatic Programmers,LLC",1,13
+html body text table tbody tr td table tbody tr td p span  ,9650 Strickland RD,0,13
+html body text table tbody tr td table tbody tr td p span  ,STE 103-255,0,13
+html body text table tbody tr td table tbody tr td p span  ,"Raleigh, NC 27615",0,13
+html body text table tbody tr td table tbody tr td p span  ,Phone: (800) 699-7764,0,13
+html body text table tbody tr td table tbody tr td p span  ,E-mail:,0,13
+html body text table tbody tr td table tbody tr td p a span  ,andy@pragmaticprogrammer.com,0,14
+html body text table tbody tr td table tbody tr td p b span  ,Dave Thomas,1,14
+html body text table tbody tr td table tbody tr td p span  ,"likes tofly single-engine airplanesand pays for hishabit by finding elegantsolutions to difficultproblems, consulting inareas as diverse as aerospace, banking,financial services, telecommunications,travel and transport, and the Internet.Thomas is author of many articles,columns and books, and co-author of""The Pragmatic Programmer.""The Pragmatic Programmers,LLC",1,13
+html body text table tbody tr td table tbody tr td p span  ,P.O. Box 293325,0,13
+html body text table tbody tr td table tbody tr td p span  ,"Lewisville,TX 75029",0,13
+html body text table tbody tr td table tbody tr td p span  ,Phone: (972) 539-7832,0,13
+html body text table tbody tr td table tbody tr td p span  ,E-mail:,0,13
+html body text table tbody tr td table tbody tr td p a span  ,dave@pragmaticprogrammer.com,0,14
+html body text table tbody tr td table tbody tr td span  ,"� 2004 The Pragmatic Programmers, LLC. Portions ofthis article adapted from ""Pragmatic Unit Testing in JavaWith JUnit,"" by Andy Hunt and Dave Thomas (VolumeII of the Pragmatic Starter Kit), published by thePragmatic Bookshelf and Copyright � 2003, 2004 ThePragmatic Programmers, LLC. Reprinted with permission.",0,12
+html body text table tbody tr td a span  ,Privacy and Security Notice,0,9
+html body text table tbody tr td span  ,�,0,8
+html body text table tbody tr td a span  ,External Links Disclaimer,0,9
+html body text table tbody tr td span  ,�,0,8
+html body text table tbody tr td a span  ,Site Map,0,9
+html body text table tbody tr td span  ,�,0,8
+html body text table tbody tr td a span  ,Contact Us,0,9
+html body text table tbody tr td span  ,Please,0,8
+html body text table tbody tr td a span  ,E-mail,0,9
+html body text table tbody tr td span  ,or call 801-775-5555 (DSN 775-5555) if you have any questions regarding your,0,8
+html body text table tbody tr td a span  ,CrossTalk subscription,0,9
+html body text table tbody tr td span  ,or for additional STSC information.,0,8
+html body text table tbody tr td strong span  ,Webmaster:,0,9
+html body text table tbody tr td span  ,"517th SMXS/MDEA, 801-777-0857 (DSN 777-0857),",0,8
+html body text table tbody tr td a span  ,E-mail,0,9
+html body text table tbody tr td strong span  ,STSC Parent Organizations:,0,9
+html body text table tbody tr td a span  ,309SMXG,0,9
+html body text table tbody tr td a span  ,"Ogden Air Logistics Center, Hill AFB",0,9

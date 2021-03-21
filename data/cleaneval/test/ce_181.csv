@@ -1,0 +1,200 @@
+tag,content,label,depth
+html body text title span span  ,java.net: Behind The Scenes of Project Looking Glass,0,6
+html body text div div table tbody tr td div form div strong span  ,User:,0,14
+html body text div div table tbody tr td div form div strong span  ,Password:,0,14
+html body text div div table tbody tr td div form div strong a span  ,Register,0,15
+html body text div div table tbody tr td div form div strong span  ,|,0,14
+html body text div div table tbody tr td div form div strong a span  ,Login help,0,15
+html body text div noindex div table tbody tr td a span  ,My pages,0,12
+html body text div noindex div table tbody tr td a span  ,Projects,0,12
+html body text div noindex div table tbody tr td a span  ,Communities,0,12
+html body text div noindex div table tbody tr th a span  ,java.net,0,12
+html body text div table tbody tr td div noindex div div strong span  ,Get Involved,0,14
+html body text div table tbody tr td div noindex div div div a span  ,java-net Project,0,15
+html body text div table tbody tr td div noindex div div div a span  ,Request a Project,0,15
+html body text div table tbody tr td div noindex div div div a span  ,Project Help Wanted Ads,0,15
+html body text div table tbody tr td div noindex div div div a span  ,Publicize your Project,0,15
+html body text div table tbody tr td div noindex div div div a span  ,Submit Content,0,15
+html body text div table tbody tr td div noindex div div strong span  ,Get Informed,0,14
+html body text div table tbody tr td div noindex div div div a span  ,About java.net,0,15
+html body text div table tbody tr td div noindex div div div a span  ,Articles,0,15
+html body text div table tbody tr td div noindex div div div a span  ,Weblogs,0,15
+html body text div table tbody tr td div noindex div div div a span  ,News,0,15
+html body text div table tbody tr td div noindex div div div a span  ,Events,0,15
+html body text div table tbody tr td div noindex div div div a span  ,Also in Java Today,0,15
+html body text div table tbody tr td div noindex div div div a span  ,java.net Online Books,0,15
+html body text div table tbody tr td div noindex div div div a span  ,java.net Archives,0,15
+html body text div table tbody tr td div noindex div div strong span  ,Get Connected,0,14
+html body text div table tbody tr td div noindex div div div a span  ,java.net Forums,0,15
+html body text div table tbody tr td div noindex div div div a span  ,Wiki,0,15
+html body text div table tbody tr td div noindex div div div span  ,and,0,14
+html body text div table tbody tr td div noindex div div div a span  ,Javapedia,0,15
+html body text div table tbody tr td div noindex div div div a span  ,People,0,15
+html body text div table tbody tr td div noindex div div div span  ,",",0,14
+html body text div table tbody tr td div noindex div div div a span  ,Partners,0,15
+html body text div table tbody tr td div noindex div div div span  ,", and",0,14
+html body text div table tbody tr td div noindex div div div a span  ,Jobs,0,15
+html body text div table tbody tr td div noindex div div div a span  ,Java User Groups,0,15
+html body text div table tbody tr td div noindex div div div a span  ,RSS Feeds,0,15
+html body text div table tbody tr td div noindex div div b span  ,Search,0,14
+html body text div table tbody tr td div noindex div div form div span  ,Web and Projects:,0,15
+html body text div table tbody tr td div noindex div div div span  ,Online Books:,0,14
+html body text div table tbody tr td div noindex div div div a span  ,Advanced Search,0,15
+html body text div table tbody tr td noindex table tbody tr td div table tbody tr td a span  ,E-mail,0,20
+html body text div table tbody tr td noindex table tbody tr td div table tbody tr td a span  ,Print,0,20
+html body text div table tbody tr td noindex table tbody tr td div table tbody tr td a span  ,Discuss,0,20
+html body text div table tbody tr td noindex table tbody tr td div table tbody tr td a span  ,Blog,0,20
+html body text div table tbody tr td h2 span  ,Behind The Scenes of Project Looking Glass,1,10
+html body text div table tbody tr td span  ,by,1,9
+html body text div table tbody tr td a span  ,Will Iverson,1,10
+html body text div table tbody tr td span  ,07/06/2004,1,9
+html body text div table tbody tr td p span  ,"I recently had the opportunity to sit down with Hideya Kawahara, lead developer for 3D",1,10
+html body text div table tbody tr td p a span  ,Project Looking Glass,1,11
+html body text div table tbody tr td p span  ,", Sun's 3D desktop technology",1,10
+html body text div table tbody tr td p a span  ,open source project on java.net,1,11
+html body text div table tbody tr td p span  ,.,1,10
+html body text div table tbody tr td p span  ,"Before meeting with Hideya, I must confess that I had been operating under the mistaken assumption that Project Looking Glass was intended as a replacement",1,10
+html body text div table tbody tr td p a span  ,window manager,1,11
+html body text div table tbody tr td p span  ,"for Linux, a 3D novelty of no more consequence than any of a long list of failed attempts at reinventing the traditional, 2D desktop in a new, 3D world.",1,10
+html body text div table tbody tr td p span  ,"Instead, what I found was considerably more interesting. In effect, Project Looking Glass is a rational approach toward using the latest 3D hardware advances to provide a state-of-the-art desktop environment, familiar yet far more engaging for a traditional 2D desktop user.",1,10
+html body text div table tbody tr td p span  ,"The demonstration Hideya gave me of the system was quite dynamic. Windows spin and zoom, stack, become translucent, flip to reveal additional information on the back, and more. A sample 3D audio CD selector can be dragged around, and the elements move in a manner that conveys an appealing weight and physicality.",1,10
+html body text div table tbody tr td p span  ,"The demonstration basically fell into two areas, a theoretical next generation window manager and examples of user interface elements in a 3D environment. By providing integration with the X windowing system, the demonstration shows existing 2D applications spinning and flying about, with transparency and video running seamlessly as the windows move. By open sourcing the environment, Hideya hopes that as the platform matures not only will existing 2D applications spin and fly, but that third party developers will be able to use Project Looking Glass to build rich, interactive 3D applications with a whole new suite of interactions.",1,10
+html body text div table tbody tr td p span  ,"One additional revelation: Project Looking Glass is actually built using Java 3D as a key foundation technology, and the primary programmatic interface for 3D-aware applications in this release is Java technology. So, conceptually, a write-once-run-anywhere application could be built using Project Looking Glass, providing desktop applications with rich 3D interactivity.",1,10
+html body text div table tbody tr td p span  ,"With all of this in mind, Hideya spoke about the past, present and future of Project Looking Glass.",1,10
+html body text div table tbody tr td p strong span  ,What was the motivation behind Project Looking Glass?,1,11
+html body text div table tbody tr td p span  ,"We were interested in breaking boundaries. The boundaries fall into two areas: a 2D vision of a desktop, defined twenty years ago on much more limited hardware, and the relative stagnation of desktop innovation because of, in my humble opinion, a sort of closed fashion of evolution.",1,10
+html body text div table tbody tr td p span  ,"Recently, there has been tremendous innovation in the 3D capabilities of the personal computer, driven by innovation in games. The idea is not to throw away the existing research in user interfaces developed for the 2D world, but instead to build on it. 3D is a very challenging problem � there have been several attempts at trying to solve this over the years. In order to get innovation started in this area, we are open sourcing the research we have done so the broadest possible group of people can work with it. We believe that the open development model works great for the exploration of this new 3D frontier - with vast possibilities.",1,10
+html body text div table tbody tr td p strong span  ,How is this different from previous attempts at building a 3D interface?,1,11
+html body text div table tbody tr td p span  ,"We aren't moving the desktop into a 3D world per se, we are trying to enhance the view of a 2D world by adding 3D functionality where it makes sense. For a user of a traditional 2D environment, at first blush this will simply look like a much, much nicer extension of their existing environment. For example, a 3D application might leverage the ""back"" of a window, allowing a user to flip a window over to take notes. As a more complex example, consider a modal dialog. As an example, our prototype window manager flips a window over to display a modal dialog on the ""back"" of the window that owns the dialog.",1,10
+html body text div table tbody tr td p strong span  ,Doesn't that obscure the window contents?,1,11
+html body text div table tbody tr td p span  ,"Well, yes, but that's part of the point of the whole exercise: considering new, innovative user interface elements that are possible based on 3D technology.",1,10
+html body text div table tbody tr td p span  ,"One of the more realistic concepts is the way our demonstration window manager slides windows over at an angle. You can rotate a window to put it in the background, so you can still see the window contents in a useful way. At a more basic level, you can make some much more dynamic and interesting desktop backgrounds. That's where things get blurry for some people trying to sort out where the Project Looking Glass platform ends and a real window manager begins.",1,10
+html body text div table tbody tr td p strong span  ,"Are you looking at integration with the popular windows managers, such as GNOME and KDE?",1,11
+html body text div table tbody tr td p span  ,"The issues with regard to GNOME/KDE and the profusion of desktop environments are really orthogonal to Project Looking Glass. For example, Mac OS X differentiates between various technology layers � for example, BSD, Aqua, Cocoa, all are different layers in the overall environment. Similarly, Linux needs to evolve into a more complex environment with different layers. To keep Linux competitive, we need to think about how to move forward into the next generation. The goal here is not to introduce a new desktop model, but to provide the underpinnings for the next generation.",1,10
+html body text div table tbody tr td p span  ,"By integrating 3D into the window manager, it's an easy way for existing 2D applications to obtain 3D functionality, in a sense, ""for free.""",1,10
+html body text div table tbody tr td p span  ,"We want to be sure that we are aligned with the open source world. We pay attention to the different issues that are going on, and we are working with X.org to develop the proper integration and extensions.",1,10
+html body text div table tbody tr td p span  ,"We view the current proof-of-concept's primitive windowing system as a demonstration. For example, we would like to see GNOME move into a world that is more 3D in nature.",1,10
+html body text div table tbody tr td p strong span  ,"What about shipping an app with Project Looking Glass platform bundled in? For example, one of the demos is a mockup of a 3D audio CD player. Could a developer build an application on top of Project Looking Glass platform and ship it for multiple platforms?",1,11
+html body text div table tbody tr td p span  ,"It is our vision to allow this sort of usage. We haven't built demos with this in mind, but I don't see anything to prevent this. We do hope that many developers create sample 3D applications that run on the Project Looking Glass platform and have a place in our open source community for those applications on",1,10
+html body text div table tbody tr td p a span  ,http://lg3d-demo-apps.dev.java.net,1,11
+html body text div table tbody tr td p strong span  ,Why would I use Project Looking Glass instead of OpenGL?,1,11
+html body text div table tbody tr td p span  ,"Project Looking Glass is actually built on top of Java 3D, which in turn supports OpenGL. One way to think about Project Looking Glass is as a 3D application framework focused on building 3D desktop applications and user interfaces.",1,10
+html body text div table tbody tr td p span  ,"Project Looking Glass defines a new suite of events and integration. For example, a traditional application might use 3D just as one portion of the functionality, such as depicting the information on a chart in a spreadsheet. Project Looking Glass defines a lot more semantics for how the 3D scene graph is developed and interactions between the objects onscreen.",1,10
+html body text div table tbody tr td p span  ,"One way to think about this � in any 3D application, a key part of the functionality is the manner in which the 3D objects interact. In a typical 3D game, the objects represent elements that run around and do things, such as opening doors and shooting at each other. One of big goals of Project Looking Glass is to define an environment in which the events and object information are suited to the operation of a desktop environment.",1,10
+html body text div table tbody tr td p strong span  ,Can you explain a bit more about the software that is being made available?,1,11
+html body text div table tbody tr td p span  ,"We have been working for several months on cleaning the software up, providing basic features and functionality key to 3D window management. A key focus was looking at the existing 2D desktop apps, ensuring minimal compatibility and performance problems. The next step is to look what else we can do to foster real world 3D interactivity. We decided to open source this at a very early stage to ensure that we got good feedback from the community.",1,10
+html body text div table tbody tr td p span  ,"The original proof-of-concept blurred the X client/server model more that we would like. Also, it didn't define any reasonable APIs. Our goal for this release was to refine the architecture and reimplement everything from scratch in order to ensure that the client/server model is preserved. We are also defining clear APIs for 3D apps and desktop development. We leveraged the Java 3D API for this. We want to ensure client isolation remains solid and the platform provides well abstracted API.",1,10
+html body text div table tbody tr td p span  ,"Also, we wanted to ensure that the platform is still high performance while at the same time achieving the client isolation. So, we are looking at low level details involved in this. We would like to make sure that moving the client to 3D would still a solid performer, and to ensure that the isolation between the 3D scenegraph server and the client applications is very high, so that the server can be made as stable as possible.",1,10
+html body text div table tbody tr td p strong span  ,Linux only?,1,11
+html body text div table tbody tr td p span  ,"Linux only right now, Solaris operating environment shortly.",1,10
+html body text div table tbody tr td p span  ,"Much of the current environment is actually rendered using Java technology. There is no legacy application support for Windows, but you can run the Project Looking Glass environment on Windows, just as you can run any Java 3D application.",1,10
+html body text div table tbody tr td p span  ,"We don't want to exclude Windows developers. The compatibility stuff with X, obviously, doesn't work for existing Windows applications. So, if you want to build a 3D application on top of the Project Looking Glass platform, you could still get a write-once, run-anywhere 3D application that also exhibits more sophisticated.",1,10
+html body text div table tbody tr td p span  ,The current version of Project Looking Glass relies on JDK 1.5. We are waiting for JDK 1.5 support on Mac OS X before we can release there.,1,10
+html body text div table tbody tr td p strong span  ,How does this break down for cross-platform application developers?,1,11
+html body text div table tbody tr td p span  ,"We hope a normal application developer can build an application that respects this 3D environment. In conjunction with the Java desktop integration APIs, this could allow a developer to build a 3D app that can integrate with the other 3D apps, regardless of platform.",1,10
+html body text div table tbody tr td p span  ,"So, let's say a user has a 3D app that they want to run on Linux, with GNOME support. All of the environment will respect the 3D aspects. That same app eventually should be able to run on Windows, where it will interact properly with the other 3D applications. For example, a 3D version of a notepad and the 3D CD player should be able to have interesting, dynamic 3D interactions regardless of the host platform.",1,10
+html body text div table tbody tr td p strong span  ,Video card support?,1,11
+html body text div table tbody tr td p span  ,"We expect this to run on 32MB VRAM video cards and above. We leverage the GPU to help push the performance down into lower layers, keeping the computational hit off the main CPU. Geforce2 and above. In particular, texture support is very important, as the rendering of traditional 2D applications involves that sort of surface. Obviously, support for 2D applications are simpler than what most games require. But we also want to set a baseline for 3D graphics support. For example, many laptops have an integrated video, and we want to support those as well as we can.",1,10
+html body text div table tbody tr td p strong span  ,My PC laptop (a Dell Inspiron) has a 32MB RADEON Mobility 7500. Will that work?,1,11
+html body text div table tbody tr td p span  ,A: It should � that's the same card that's in my development laptop.,1,10
+html body text div table tbody tr td p strong span  ,Tell me a bit more about how an application developer can work with Project Looking Glass. Are there Java bindings?,1,11
+html body text div table tbody tr td p span  ,This is Java 3D-based. We used the Java 3D scene graph model to help manage the relationship between objects.,1,10
+html body text div table tbody tr td p span  ,"The current version, Java 3D 1.3.1, is the product of several years of investment. It is a very high performance, solid, 3D rendering engine for Java technology. So, the 3D demos and even the example desktop itself are actually written in Java. Right now, if you wanted to create a first class, fully 3D app using Project Looking Glass, you would actually write that in Java. We hope to have bindings for C/C++ developers in the future � obviously.",1,10
+html body text div table tbody tr td p span  ,"So, Project Looking Glass is actually a very Java-centric technology.",1,10
+html body text div table tbody tr td p span  ,"We looked at several different environments, but obviously Java is a very productive language. For us to test out the different ideas, we wanted to be able to work very quickly. If we hadn't used Java technology, Project Looking Glass probably wouldn't exist. To the extent that Project Looking Glass is an exploration of 3D environments, Java technology is very key.",1,10
+html body text div table tbody tr td p strong span  ,"So, the current environment actually provides Java interfaces, not C/C++ bindings? How do you expect C/C++ developers to work with Project Looking Glass?",1,11
+html body text div table tbody tr td p span  ,"To be able to support traditional 2D applications, such as OpenOffice, we talked to their engineers and are brainstorming how to approach this. Obviously, we are very interested in supporting native applications. We aren't just paying lip service to this � it is very important to Sun to be able to do this.",1,10
+html body text div table tbody tr td p span  ,"We attended the X Developers conference in April. It was a great place to meet the X server, GNOME, and KDE developers. We got a lot of great feedback, how they would like to see the C++ bindings develop. The slides are",1,10
+html body text div table tbody tr td p a span  ,posted at the Looking Glass site,1,11
+html body text div table tbody tr td p span  ,"(pdf). I would highly recommend looking them over, especially if you are an X developer.",1,10
+html body text div table tbody tr td p strong span  ,I noticed that you are running the demo on the Sun Java Desktop System. Project Looking Glass is very Java technology centric � is this a step toward deeper support for Java at the desktop environment level?,1,11
+html body text div table tbody tr td p span  ,"Yes, exactly. Although we are in an Advanced Software Development group, we also work very closely with the Sun Java Desktop System group. We hope to add more Java interfaces where it makes sense and adds value. For example, we are looking at how this 3D interactivity can best be extended to the semantics of drag-and-drop in a future desktop environment.",1,10
+html body text div table tbody tr td p strong span  ,"For a typical Java developer, classic desktop application development is done with Swing. Any thoughts there, perhaps adding a 3D-enabled look and feel implementation?",1,11
+html body text div table tbody tr td p span  ,"Yes, that gives a nice integration story for Swing developers. We can add 3D effects, perhaps as a Swing look-and-feel, for a 3D environment. We aren't there yet, but we are looking at it. This is an extremely interesting and exciting area to explore, we think.",1,10
+html body text div table tbody tr td p strong span  ,Swing developers have several tools available. What about tools for building a 3D application?,1,11
+html body text div table tbody tr td p span  ,"It turns out that tools are very challenging for moving to a 3D world. We are interested in some sort of 3D modeling tool. If you are building a 3D application, you need some sort of system for building the interface elements. For example, the 3D audio CD player demonstrates what a challenge it is for a designer to mock up and prototype this kind of rich desktop application. In the 3D game world, you have tools like Maya. It would be nice to provide a way to incorporate such 3D designer's tool into a tool chain to develop 3D apps and desktop. Also, it would be great to have something on the level of Sun Java Creator or Visual Basic for creating 3D applications, lowering the bar for developers getting started.",1,10
+html body text div table tbody tr td p span  ,"Consider motion and animation effects � again the 3D CD player serves as an excellent example. For a designer to build a prototype of this kind of interactivity is quite a challenge. That's one of the problems for even the latest generation of 2D environments � for example, even Windows XP doesn't do zooming rectangles when you open a window or folder � something the original Mac OS had back in 1984. You open a window or dialog on Windows XP, and it just pops to the front, with no connection to where that window or dialog came from.",1,10
+html body text div table tbody tr td p span  ,That's going to be a big challenge and opportunity � building tools for creating 3D user desktop interfaces.,1,10
+html body text div table tbody tr td p strong span  ,What is the goal for the open source license?,1,11
+html body text div table tbody tr td p span  ,"We are still discussing this � by the time this article is published, we hope to have those details ironed out. Our current thinking is to release the binaries under a free, business-friendly license, and the source under the GPL or something similar. So, anyone can redistribute released binaries freely.",1,10
+html body text div table tbody tr td p span  ,"For more information on the open source Project Looking Glass, see",1,10
+html body text div table tbody tr td p a span  ,3D Desktop - Project Looking Glass,1,11
+html body text div table tbody tr td p span  ,on java.net and Sun's,1,10
+html body text div table tbody tr td p a span  ,Project Looking Glass page,1,11
+html body text div table tbody tr td p span  ,.,1,10
+html body text div table tbody tr td p em a span  ,Will Iverson,1,12
+html body text div table tbody tr td p em span  ,"served as Developer Relations Manager for the VisualCaf?group at Symantec, as the Java & Runtimes Product Manager at AppleComputer and has led Cascade Technology Group, a private consultingfirm, since 1999.",1,11
+html body text div table tbody tr td p span  ,View all,0,10
+html body text div table tbody tr td p a span  ,java.net Articles,0,11
+html body text div table tbody tr td p span  ,.,0,10
+html body text div table tbody tr td div div div b span  ,Will Project Looking Glass become your desktop?,0,13
+html body text div table tbody tr td div p span  ,Showing messages 1 through 6 of 6.,0,11
+html body text div table tbody tr td div ul li b span  ,Novel but nova,0,13
+html body text div table tbody tr td div ul li span  ,2004-09-16 21:49:53 ricahrdc[,0,12
+html body text div table tbody tr td div ul li a span  ,Reply,0,13
+html body text div table tbody tr td div ul li span  ,|,0,12
+html body text div table tbody tr td div ul li a span  ,View,0,13
+html body text div table tbody tr td div ul li span  ,],0,12
+html body text div table tbody tr td div ul li span  ,Nova as in no go in spanish. Its just that we allready have a standard. Iv used it and frankly theres just not enough power in it as of right now to warrent the training for what is in my opinion little more than eye candy.,0,12
+html body text div table tbody tr td div ul li b span  ,Looking glass installation,0,13
+html body text div table tbody tr td div ul li span  ,2004-07-15 22:15:51 patryckson[,0,12
+html body text div table tbody tr td div ul li a span  ,Reply,0,13
+html body text div table tbody tr td div ul li span  ,|,0,12
+html body text div table tbody tr td div ul li a span  ,View,0,13
+html body text div table tbody tr td div ul li span  ,],0,12
+html body text div table tbody tr td div ul li span  ,"ok.. i have a linux instaled on my pc.... i already install a jdk1.5.0 beta 2, Java 3D SDK 1.3.2-build4, Java Advanced Imaging API (JAI) 1.1.2 JDK and lg3d-0.5.tar.gz... but i have a problem when i run the lg3d-dev aplication.. nothing happens...just appears at screen this message:",0,12
+html body text div table tbody tr td div ul li span  ,/home/knoppix/plg/lg3d/bin /home/knoppix/plg/lg3d/bin,0,12
+html body text div table tbody tr td div ul li span  ,/home/knoppix/plg/lg3d/bin,0,12
+html body text div table tbody tr td div ul li span  ,[1] 1042,0,12
+html body text div table tbody tr td div ul li span  ,what i must to do to solve this problem?,0,12
+html body text div table tbody tr td div ul li span  ,patryckson@hotmail.com,0,12
+html body text div table tbody tr td div ul ul li b span  ,Looking glass installation,0,14
+html body text div table tbody tr td div ul ul li span  ,2004-10-26 07:23:51 blackhex[,0,13
+html body text div table tbody tr td div ul ul li a span  ,Reply,0,14
+html body text div table tbody tr td div ul ul li span  ,|,0,13
+html body text div table tbody tr td div ul ul li a span  ,View,0,14
+html body text div table tbody tr td div ul ul li span  ,],0,13
+html body text div table tbody tr td div ul ul li span  ,I have same problem on Fedora Core 2 :-(,0,13
+html body text div table tbody tr td div ul ul li b span  ,Looking glass installation,0,14
+html body text div table tbody tr td div ul ul li span  ,2004-08-13 03:34:07 bobitavu[,0,13
+html body text div table tbody tr td div ul ul li a span  ,Reply,0,14
+html body text div table tbody tr td div ul ul li span  ,|,0,13
+html body text div table tbody tr td div ul ul li a span  ,View,0,14
+html body text div table tbody tr td div ul ul li span  ,],0,13
+html body text div table tbody tr td div ul ul li span  ,"Hi,",0,13
+html body text div table tbody tr td div ul ul li span  ,what's your videocard? Did you follow all insrtuctions about screendepth ?,0,13
+html body text div table tbody tr td div ul ul li b span  ,Looking glass installation,0,14
+html body text div table tbody tr td div ul ul li span  ,2004-07-16 05:18:45 wiverson[,0,13
+html body text div table tbody tr td div ul ul li a span  ,Reply,0,14
+html body text div table tbody tr td div ul ul li span  ,|,0,13
+html body text div table tbody tr td div ul ul li a span  ,View,0,14
+html body text div table tbody tr td div ul ul li span  ,],0,13
+html body text div table tbody tr td div ul ul li span  ,You should post these problems to the forums/mailing lists at:,0,13
+html body text div table tbody tr td div ul ul li span  ,https://lg3d.dev.java.net/,0,13
+html body text div table tbody tr td div ul li b span  ,I am definitely looking forward for it.,0,13
+html body text div table tbody tr td div ul li span  ,2004-07-07 18:11:31 roguexz[,0,12
+html body text div table tbody tr td div ul li a span  ,Reply,0,13
+html body text div table tbody tr td div ul li span  ,|,0,12
+html body text div table tbody tr td div ul li a span  ,View,0,13
+html body text div table tbody tr td div ul li span  ,],0,12
+html body text div table tbody tr td div ul li span  ,"After having seen a demo of OSX and the way it has animation induced into its desktop environment, i am definitely looking forward to have a 3-D desktop environment on my m/c ;)",0,12
+html body text div table tbody tr td div ul li span  ,-rogue,0,12
+html body text div table tbody tr td b span  ,java.net RSS,0,10
+html body text div table tbody tr td table tbody tr td div a span  ,Feedback,0,15
+html body text div table tbody tr td table tbody tr td div span  ,|,0,14
+html body text div table tbody tr td table tbody tr td div a span  ,FAQ,0,15
+html body text div table tbody tr td table tbody tr td div span  ,|,0,14
+html body text div table tbody tr td table tbody tr td div a span  ,Press,0,15
+html body text div table tbody tr td table tbody tr td div span  ,|,0,14
+html body text div table tbody tr td table tbody tr td div a span  ,Terms of Use,0,15
+html body text div table tbody tr td table tbody tr td div a span  ,Privacy,0,15
+html body text div table tbody tr td table tbody tr td div span  ,|,0,14
+html body text div table tbody tr td table tbody tr td div a span  ,Trademarks,0,15
+html body text div table tbody tr td table tbody tr td div span  ,|,0,14
+html body text div table tbody tr td table tbody tr td div a span  ,Site Map,0,15
+html body text div table tbody tr td table tbody tr td div span  ,Your use of this web site or any of its content or software indicates your agreement to be bound by these,0,14
+html body text div table tbody tr td table tbody tr td div a span  ,Terms of Participation,0,15
+html body text div table tbody tr td table tbody tr td div span  ,.,0,14
+html body text div table tbody tr td table tbody tr td div span  ,"Copyright � 1995-2006 Sun Microsystems, Inc.",0,14
+html body text div table tbody tr td table tbody tr td div span  ,"Powered by Sun Microsystems, Inc.,",0,14
+html body text div table tbody tr td table tbody tr td div span  ,O'Reilly and CollabNet,0,14

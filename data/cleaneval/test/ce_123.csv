@@ -1,0 +1,355 @@
+tag,content,label,depth
+html body text div div div div div a span  ,Log in,0,10
+html body text div div div div div span  ,|,0,9
+html body text div div div div div a span  ,Sign up,0,10
+html body text div div div div a span  ,Why join?,0,9
+html body text div div div form div label span  ,Remember me,0,10
+html body text div div div form div span  ,|,0,9
+html body text div div div form div a span  ,Forgot password?,0,10
+html body text div div div div span span  ,Welcome,0,9
+html body text div div div div span span  ,(,0,9
+html body text div div div div span a span  ,log out,0,10
+html body text div div div div span span  ,),0,9
+html body text div div div div a span  ,View profile,0,9
+html body text div div div div div form div span  ,Search:,0,11
+html body text div div div div div form select option span  ,News,0,12
+html body text div div div div div form select option span  ,All CNET,0,12
+html body text div div div div div form select option span  ,The Web,0,12
+html body text div div div div div form div a span  ,Advanced,0,12
+html body text div div div div div form div a span  ,search,0,12
+html body text div div div div a span  ,Today on CNET,0,9
+html body text div div div div a span  ,Reviews,0,9
+html body text div div div div a span  ,News,0,9
+html body text div div div div a span  ,Downloads,0,9
+html body text div div div div a span  ,Tips & Tricks,0,9
+html body text div div div div a span  ,CNET TV,0,9
+html body text div div div div a span  ,Compare Prices,0,9
+html body text div div div div div div a span  ,Today on News,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Business Tech,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Cutting Edge,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Access,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Threats,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Media 2.0,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Markets,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Digital Life,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Blogs,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Extra,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,My News,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,RSS,0,11
+html body text div div div div div h1 span  ,Sun open-source license could mean Solaris-Linux barrier,1,10
+html body text div div div div div div span  ,New license likely will be used to govern Solaris OS. But it may inhibit cross-pollination between Solaris and Linux.,0,10
+html body text div div div div div div div div div div span  ,By,1,14
+html body text div div div div div div div div div div a span  ,Stephen Shankland,1,15
+html body text div div div div div div div div div div span  ,"Staff Writer, CNET News.com",1,14
+html body text div div div div div div div div div div span  ,"Published: December 2, 2004, 2:22 PM PST",1,14
+html body text div div div div div div div div div div a span  ,TalkBack,0,15
+html body text div div div div div div div div div div a span  ,E-mail,0,15
+html body text div div div div div div div div div div a span  ,Print,0,15
+html body text div div div div div div div div div div a span  ,del.icio.us,0,15
+html body text div div div div div div div div div div a span  ,Digg this,0,15
+html body text div div div div div div div div p b span  ,Sun Microsystems has quietly begun seeking official open-source status for a new software license that likely will be used to govern its Solaris operating system.,1,14
+html body text div div div div div div div div p span  ,But the license may inhibit cross-pollination between Solaris and Linux--a sacrifice Sun appears willing to make in its effort to attract developers and revitalize its version of Unix.,1,13
+html body text div div div div div div div div div div span  ,News.context,1,14
+html body text div div div div div div div div div b span  ,What's new:,1,14
+html body text div div div div div div div div div span  ,"Sidestepping existing open-source licenses, such as the GPL that governs the heart of Linux, Sun has proposed a new type of license that could cover its open-source release of Solaris.",1,13
+html body text div div div div div div div div div p b span  ,Bottom line:,1,15
+html body text div div div div div div div div div p span  ,"Sun hopes an open-source Solaris will attract developers and revitalize the OS. But the proposed license could hamper cross-pollination between Solaris and Linux and, as one commentator has it, add to a list of licenses that create ""lots of little lumps of software that can't be combined."" Sun, however, calls its license ""less burdensome"" and seems ready to sacrifice any benefits of Linux intermingling.",1,14
+html body text div div div div div div div div div p a span  ,More stories on open-source Solaris,1,15
+html body text div div div div div div div div p span  ,"On Wednesday evening, CNET News.com has learned, Sun submitted a",1,13
+html body text div div div div div div div div p a span  ,description,1,14
+html body text div div div div div div div div p span  ,of its,1,13
+html body text div div div div div div div div p a span  ,Common Development and Distribution License,1,14
+html body text div div div div div div div div p span  ,", or CDDL, to the",1,13
+html body text div div div div div div div div p a span  ,Open Source Initiative,1,14
+html body text div div div div div div div div p span  ,. The nonprofit group reviews licenses and bestows official open-source status on those that meet the,1,13
+html body text div div div div div div div div p a span  ,Open Source Definition,1,14
+html body text div div div div div div div div p span  ,requirements.,1,13
+html body text div div div div div div div div p span  ,"The CDDL lets programmers see, change and distribute source code for any programming project it governs. Unlike some open-source licenses, it requires that modifications be shared as open-source software.",1,13
+html body text div div div div div div div div p span  ,"Sun hopes its open-source move will attract developers to Solaris and reinvigorate the operating system. Solaris waned in popularity with the Internet bubble burst and with the rise of Linux, which works better on widely used servers based on x86 processors such as Intel's Xeon.",1,13
+html body text div div div div div div div div p span  ,"But if Sun chooses to release Solaris under the CDDL--and it hasn't committed to doing so--the choice likely will prevent direct cross-pollination between the Unix variant and its prime competitor, Linux. That sharing is one of the prime advantages of the open-source philosophy; making Solaris open-source raised the possibility that it could benefit from Linux features such as widespread hardware support, and Linux could gain from Solaris features such as multiprocessor abilities.",1,13
+html body text div div div div div div div div p span  ,Sun's CDDL description addressed the difficulties of intermingling software covered by the CDDL with software covered by the,1,13
+html body text div div div div div div div div p a span  ,General Public License,1,14
+html body text div div div div div div div div p span  ,", or GPL--the license that governs Linux.",1,13
+html body text div div div div div div div div p span  ,"""The CDDL is not expected to be compatible with the GPL, since it contains requirements that are not in the GPL,"" Claire Giordano of Sun's CDDL team said in its submission. ""Thus, it is likely that files released under the CDDL will not be able to be combined with files released under the GPL to create a larger program.""",1,13
+html body text div div div div div div div div p span  ,"Open Source Initiative President Eric Raymond declined to comment yet on whether the license meets those criteria. But if the Open Source Initiative approves the license, the CDDL will join a",1,13
+html body text div div div div div div div div p a span  ,list that already includes dozens,1,14
+html body text div div div div div div div div p span  ,of licenses.,1,13
+html body text div div div div div div div div p span  ,"This proliferation of open-source licenses is a problem, said Larry Rosen, an intellectual-property attorney who has advised OSI and who wrote ""Open Source Licensing: Software Freedom and Intellectual Property Law.""",1,13
+html body text div div div div div div div div newselement newselement div h4 span  ,Now on News.com:,0,16
+html body text div div div div div div div div newselement newselement div ul li a span  ,Year in review: Social networking catches fire,0,18
+html body text div div div div div div div div newselement newselement div ul li a span  ,How I helped Spider-Man save Santa Claus,0,18
+html body text div div div div div div div div newselement newselement div ul li a span  ,Crave: Digital pets for the dateless,0,18
+html body text div div div div div div div div newselement newselement div ul li a span  ,Extra: Most memorable ads of 2006,0,18
+html body text div div div div div div div div newselement newselement div ul li a span  ,Video: Goofiest tech moves of '06,0,18
+html body text div div div div div div div div p span  ,"""What we end with up is...lots of little lumps of software that can't be combined,"" Rosen said in an interview. ""It is, in fact, a problem creating a commons of software if every company has its own commons.""",1,13
+html body text div div div div div div div div p span  ,Sun wouldn't comment on whether,1,13
+html body text div div div div div div div div p a span  ,Solaris 10,1,14
+html body text div div div div div div div div p span  ,"will be covered by the CDDL. ""We're not drawing linkage between that and any of Sun's products,"" spokesman Russ Castronovo said.",1,13
+html body text div div div div div div div div p span  ,"However, executives have said Sun will seek the blessing of the Open Source Initiative for the license, and the clock is ticking. Sun had",1,13
+html body text div div div div div div div div div a span  ,CONTINUED,0,14
+html body text div div div div div div div div div span  ,Page,0,13
+html body text div div div div div div div div div span span  ,1,0,14
+html body text div div div div div div div div div span  ,|,0,13
+html body text div div div div div div div div div a span  ,2,0,14
+html body text div div div div div div div div div div a span  ,TalkBack,0,15
+html body text div div div div div div div div div div a span  ,E-mail,0,15
+html body text div div div div div div div div div div a span  ,Print,0,15
+html body text div div div div div div div div div div a span  ,del.icio.us,0,15
+html body text div div div div div div div div div div a span  ,Digg this,0,15
+html body text div div div div div div div div div div h3 span  ,Read more on this story's topics and companies,0,15
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,0,18
+html body text div div div div div div div div div div ul li span span  ,|,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,0,18
+html body text div div div div div div div div div div ul li a span  ,Open source,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,0,18
+html body text div div div div div div div div div div ul li span span  ,|,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,0,18
+html body text div div div div div div div div div div ul li a span  ,Linux,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,0,18
+html body text div div div div div div div div div div ul li span span  ,|,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,0,18
+html body text div div div div div div div div div div ul li a span  ,Unix,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,0,18
+html body text div div div div div div div div div div ul li span span  ,|,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,0,18
+html body text div div div div div div div div div div ul li a span  ,Operating systems,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,0,18
+html body text div div div div div div div div div div ul li span span  ,|,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,0,18
+html body text div div div div div div div div div div ul li a span  ,Software,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,0,18
+html body text div div div div div div div div div div ul li span span  ,|,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,0,18
+html body text div div div div div div div div div div ul li a span  ,Sun Microsystems Inc,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,0,18
+html body text div div div div div div div div div div ul li span span  ,|,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,0,18
+html body text div div div div div div div div div div ul li a span  ,Red Hat Inc,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,0,18
+html body text div div div div div div div div div div ul li span span  ,|,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,0,18
+html body text div div div div div div div div div div ul li a span  ,Novell Inc,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,0,18
+html body text div div div div div div div div div div ul li span span  ,|,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,0,18
+html body text div div div div div div div div div div ul li a span  ,Intel Corp,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,0,18
+html body text div div div div div div div div div div ul li span span  ,|,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,0,18
+html body text div div div div div div div div div div ul li a span  ,Intl Business Machines Corp,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,0,18
+html body text div div div div div div div div div div ul li span span  ,|,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,0,18
+html body text div div div div div div div div div div ul li a span  ,Hewlett-packard,0,17
+html body text div div div div div div div div h3 span  ,TalkBack,0,13
+html body text div div div div div div div div p span  ,"No discussion exists,",0,13
+html body text div div div div div div div div p a span  ,click here to start it,0,14
+html body text div div div div div div div div p span  ,.,0,13
+html body text div div div div div div div div div a span  ,Related stories,0,14
+html body text div div div div div div div div div div div h4 span  ,Related news,0,16
+html body text div div div div div div div div div div div ul li a span  ,Sun plans patent protection for open-source Solaris,0,18
+html body text div div div div div div div div div div div ul li div span  ,"November 18, 2004",0,18
+html body text div div div div div div div div div div div ul li a span  ,'Open Source Solaris' to debut this year,0,18
+html body text div div div div div div div div div div div ul li div span  ,"September 13, 2004",0,18
+html body text div div div div div div div div div div div ul li a span  ,Netscape now--for free,0,18
+html body text div div div div div div div div div div div ul li div span  ,"January 22, 1998",0,18
+html body text div div div div div div div div div div div a span  ,"Get this story's ""Big Picture"" >",0,16
+html body text div div div div div div div div div div div h4 span  ,Related videos,0,16
+html body text div div div div div div div div div div div div a span  ,"Amid the many, start-ups to look out for",0,17
+html body text div div div div div div div div div div div div span span  ,"November 8, 2006",0,17
+html body text div div div div div div div div div div div div a span  ,Adobe CEO Bruce Chizen speaks on Apollo,0,17
+html body text div div div div div div div div div div div div span span  ,"November 8, 2006",0,17
+html body text div div div div div div div div div div div div a span  ,CEO Jeff Bezos says Web services will be a 'meaningful business',0,17
+html body text div div div div div div div div div div div div span span  ,"November 8, 2006",0,17
+html body text div div div div div div div div div div div a span  ,Watch more videos >,0,16
+html body text div div div div div div div div div div div h5 span  ,From News.com Extra,0,16
+html body text div div div div div div div div div div div ul li a span  ,Test drive Solaris 10 for free,0,18
+html body text div div div div div div div div div div div ul li span  ,from,0,17
+html body text div div div div div div div div div div div ul li cite span  ,OSNews,0,18
+html body text div div div div div div div div div div div ul li a span  ,Can Solaris 10 Make Sun Shine Again?,0,18
+html body text div div div div div div div div div div div ul li span  ,from,0,17
+html body text div div div div div div div div div div div ul li cite span  ,BusinessWeek,0,18
+html body text div div div div div div div div div div div ul li a span  ,Solaris attempts sunshine for tenth time,0,18
+html body text div div div div div div div div div div div ul li span  ,from,0,17
+html body text div div div div div div div div div div div ul li cite span  ,the INQUIRER,0,18
+html body text div div div div div div div div div div div ul li a span  ,Sun stares down Red Hat with Solaris 10,0,18
+html body text div div div div div div div div div div div ul li span  ,from,0,17
+html body text div div div div div div div div div div div ul li cite span  ,The Register,0,18
+html body text div div div div div div div div div div div a span  ,Get more news around the Web with News.com Extra >,0,16
+html body text div div div div div div div div div div div h5 span  ,Related white papers,0,16
+html body text div div div div div div div div div div div ul li a span  ,Top Ten Considerations for Choosing a Server Virtualization Technology,0,18
+html body text div div div div div div div div div div div ul li span  ,SWsoft,0,17
+html body text div div div div div div div div div div div ul li a span  ,An Introduction to OS Virtualization and Virtuozzo,0,18
+html body text div div div div div div div div div div div ul li span  ,SWsoft,0,17
+html body text div div div div div div div div div div div ul li a span  ,Virtualizing High Network I/O Environments,0,18
+html body text div div div div div div div div div div div ul li span  ,SWsoft,0,17
+html body text div div div div div div div div div div div ul li a span  ,HP Integrity Essentials: Management Solutions for HP Integrity Servers,0,18
+html body text div div div div div div div div div div div ul li span  ,Hewlett-Packard,0,17
+html body text div div div div div div div div div div div ul li a span  ,HP-UX 11i - Approaching a Virtualized IT World With Confidence,0,18
+html body text div div div div div div div div div div div ul li span  ,Hewlett-Packard,0,17
+html body text div div div div div div div div div div div span span  ,More results for,0,16
+html body text div div div div div div div div div div div span a span  ,open source,0,17
+html body text div div div div div div div div div div div span span  ,>,0,16
+html body text div div div div div div div div h3 span  ,Resource center,0,13
+html body text div div div div div div div div h3 span span  ,from News.com sponsors,0,14
+html body text div div div div div div div div div h4 span  ,Aligning CIO & CEO visions,0,14
+html body text div div div div div div div div div div h5 span  ,What CIOs need to know,0,15
+html body text div div div div div div div div div div p span  ,"It's a simple truth. The closer you and your CEO see things, the greater your chance for success. Our exclusive report can help you get there—and help your business grow. Get the report featuring the views of 765 CEOs on innovation.",0,15
+html body text div div div div div div div div div div p a span  ,learn more,0,16
+html body text div div div div div div div div div div ul li a span  ,What CEOs think: Innovation Insights for CIOs,0,17
+html body text div div div div div div div div div div ul li a span span  ,Learn How CIOs can deliver strategic success for their enterprises,0,18
+html body text div div div div div div div div div div ul li a span  ,The New CIO: Beyond Technology,0,17
+html body text div div div div div div div div div div ul li a span span  ,Learn how CIOs become heroes,0,18
+html body text div div div div div div div div div div ul li a span  ,Podcast: Chris Gorog of Napster,0,17
+html body text div div div div div div div div div div ul li a span span  ,Learn about the impact of technology in strategy execution,0,18
+html body text div div div div div div div div div div ul li a span  ,The future of the Enterprise,0,17
+html body text div div div div div div div div div div ul li a span span  ,Read more about tomorrow's organization,0,18
+html body text div div div div div div div div div div ul li a span  ,CIO Vision Series:Innovating within a retail industry disrupted by the Web,0,17
+html body text div div div div div div div div div div ul li a span span  ,"Video: CIO of Virgin Entertainment Group, Robert Fort",0,18
+html body text div div div div div div div div div div ul li a span  ,CIO Vision Series: Innovating around social search,0,17
+html body text div div div div div div div div div div ul li a span span  ,Video: Yahoo CIO Lars Rabbe,0,18
+html body text div div div div div div div div div h3 span  ,Top picks from News.com readers,0,14
+html body text div div div div div div div div div div p span  ,Readers who read,0,15
+html body text div div div div div div div div div div p strong span  ,Sun open-source license could mean Solaris-Linux barrier,0,16
+html body text div div div div div div div div div div p span  ,also read...,0,15
+html body text div div div div div div div div div div ul li a span  ,Sun considers GPL for Solaris,0,17
+html body text div div div div div div div div div div a span  ,More Info,0,15
+html body text div div div div div div div div h3 span  ,Markets,0,13
+html body text div div div div div div div div p a span  ,"Market news, charts, SEC filings, and more",0,14
+html body text div div div div div div div div h4 span  ,Related quotes,0,13
+html body text div div div div div div div div table tbody tr td a span  ,Sun Microsystems Inc,0,17
+html body text div div div div div div div div table tbody tr td span  ,5.51,0,16
+html body text div div div div div div div div table tbody tr td span  ,0.05,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.92%),0,16
+html body text div div div div div div div div table tbody tr td a span  ,Red Hat Inc,0,17
+html body text div div div div div div div div table tbody tr td span  ,16.22,0,16
+html body text div div div div div div div div table tbody tr td span  ,0.00,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.00%),0,16
+html body text div div div div div div div div table tbody tr td a span  ,Novell Inc,0,17
+html body text div div div div div div div div table tbody tr td span  ,6.25,0,16
+html body text div div div div div div div div table tbody tr td span  ,0.11,0,16
+html body text div div div div div div div div table tbody tr td span  ,(1.79%),0,16
+html body text div div div div div div div div table tbody tr td a span  ,Intel Corp,0,17
+html body text div div div div div div div div table tbody tr td span  ,20.15,0,16
+html body text div div div div div div div div table tbody tr td span  ,0.07,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.35%),0,16
+html body text div div div div div div div div table tbody tr td a span  ,International Business Machines,0,17
+html body text div div div div div div div div table tbody tr td span  ,95.66,0,16
+html body text div div div div div div div div table tbody tr td span  ,0.41,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.43%),0,16
+html body text div div div div div div div div table tbody tr td a span  ,HEWLETT PACKARD CO,0,17
+html body text div div div div div div div div table tbody tr td span  ,40.93,0,16
+html body text div div div div div div div div table tbody tr td span  ,0.30,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.74%),0,16
+html body text div div div div div div div div table tbody tr td a span  ,DJIA,0,17
+html body text div div div div div div div div table tbody tr td span  ,"12,407.63",0,16
+html body text div div div div div div div div table tbody tr td span  ,64.41,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.52%),0,16
+html body text div div div div div div div div table tbody tr td a span  ,S&P 500,0,17
+html body text div div div div div div div div table tbody tr td span  ,"1,416.90",0,16
+html body text div div div div div div div div table tbody tr td span  ,6.14,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.44%),0,16
+html body text div div div div div div div div table tbody tr td a span  ,NASDAQ,0,17
+html body text div div div div div div div div table tbody tr td span  ,"2,413.51",0,16
+html body text div div div div div div div div table tbody tr td span  ,12.33,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.51%),0,16
+html body text div div div div div div div div table tbody tr td a span  ,CNET TECH,0,17
+html body text div div div div div div div div table tbody tr td span  ,"1,590.52",0,16
+html body text div div div div div div div div table tbody tr td span  ,7.81,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.49%),0,16
+html body text div div div div div div div div form a span  ,Symbol Lookup,0,14
+html body text div div div div div div div a span  ,Site map,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Help center,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Corrections,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Newsletters,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Send tips,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,News.com mobile,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Content licensing,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,RSS feeds,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div form div span  ,Search:,0,13
+html body text div div div div div div div form select option span  ,News,0,14
+html body text div div div div div div div form select option span  ,All CNET,0,14
+html body text div div div div div div div form select option span  ,The Web,0,14
+html body text div div div div div div span  ,Popular topics:,0,10
+html body text div div div div div div a span  ,Camcorders,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Desktops,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,DVD Players,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Internet Explorer 7,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,iPod Nano,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,iPod Shuffle,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Nikon D80,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Notebooks,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Projectors,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Speed Test,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Web Hosting,0,11
+html body text div div div div div div div a span  ,Today on CNET,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Reviews,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,News,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Compare prices,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Tips & Tricks,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Downloads,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,CNET TV,0,12
+html body text div div div div span  ,Popular on CNET Networks:,0,8
+html body text div div div div a span  ,PS3,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Wii,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Xbox 360,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Pussycat Dolls,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Free Music Videos,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,TV Listings,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Prison Break,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Game Cheats,0,9
+html body text div div div div a span  ,About CNET Networks,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Jobs,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Advertise,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Partnerships,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Site map,0,9
+html body text div div div div span  ,"Copyright ©2006 CNET Networks, Inc. All rights reserved.",0,8
+html body text div div div div a span  ,Privacy policy,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Terms of use,0,9

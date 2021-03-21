@@ -1,0 +1,634 @@
+tag,content,label,depth
+html body text title span span  ,MetaNet - A Metadata Term Thesaurus to Enable Semantic Interoperability Between Metadata Domains,0,6
+html body text table tbody tr td p a span  ,Journal of Digital Information,0,10
+html body text table tbody tr td p span  ,",",0,9
+html body text table tbody tr td p a span  ,Volume 1 Issue 8,0,10
+html body text table tbody tr td p span  ,"Article No. 42, 2001-02-08",1,9
+html body text table tbody tr td p span  ,To cite this paper please include the details above in the full reference,1,9
+html body text table tbody tr td p span  ,Themes:,0,9
+html body text table tbody tr td p a span  ,Digital libraries,0,10
+html body text table tbody tr td p span  ,",",0,9
+html body text table tbody tr td p a span  ,Information discovery,0,10
+html body text table tbody tr td p b span  ,Peer reviewed paper,1,10
+html body text table tbody tr td p a span  ,Printable version,0,10
+html body text table tbody tr td p span  ,available.,0,9
+html body text table tbody tr td center h1 span  ,MetaNet - A Metadata Term Thesaurus to Enable,1,10
+html body text table tbody tr td center h1 span  ,Semantic Interoperability Between Metadata Domains,1,10
+html body text table tbody tr td center font span  ,Jane Hunter,1,10
+html body text table tbody tr td center span  ,"DSTC Pty Ltd, University of Queensland, Qld, 4072, Australia",1,9
+html body text table tbody tr td center span  ,Email:,0,9
+html body text table tbody tr td center a span  ,jane@dstc.edu.au,0,10
+html body text table tbody tr td center span  ,Web:,0,9
+html body text table tbody tr td center a span  ,home page,0,10
+html body text table tbody tr td center b span  ,Key features,0,10
+html body text table tbody tr td center a span  ,References,0,10
+html body text table tbody tr td center span  ,; Figures,0,9
+html body text table tbody tr td center a span  ,1,0,10
+html body text table tbody tr td center span  ,",",0,9
+html body text table tbody tr td center a span  ,2,0,10
+html body text table tbody tr td center span  ,",",0,9
+html body text table tbody tr td center a span  ,3,0,10
+html body text table tbody tr td center span  ,",",0,9
+html body text table tbody tr td center a span  ,4,0,10
+html body text table tbody tr td center span  ,; Tables,0,9
+html body text table tbody tr td center a span  ,1,0,10
+html body text table tbody tr td center span  ,",",0,9
+html body text table tbody tr td center a span  ,2,0,10
+html body text table tbody tr td center span  ,",",0,9
+html body text table tbody tr td center a span  ,3,0,10
+html body text table tbody tr td center span  ,",",0,9
+html body text table tbody tr td center a span  ,4,0,10
+html body text table tbody tr td table tbody tr td h3 span  ,Contents,0,13
+html body text table tbody tr td table tbody tr td ul li font span  ,1,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,Introduction,0,16
+html body text table tbody tr td table tbody tr td ul li font span  ,2,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,Definitions of Terms,0,16
+html body text table tbody tr td table tbody tr td ul li font span  ,3,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,Related Work,0,16
+html body text table tbody tr td table tbody tr td ul li font span  ,4,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,Overview of the ABC Underlying MetadataModel,0,16
+html body text table tbody tr td table tbody tr td ul li font span  ,5,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,A Simple Example,0,16
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,Structural Mapping Rules,0,17
+html body text table tbody tr td table tbody tr td ul li font span  ,6,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,An Evaluation of XSLT for MetadataMappings,0,16
+html body text table tbody tr td table tbody tr td ul li font span  ,7,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,Semantic Mapping via a Mapping Matrix,0,16
+html body text table tbody tr td table tbody tr td ul li font span  ,8,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,"Development of MetaNet, a Metadata TermThesaurus",0,16
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,Intrathesaurus and InterthesaurusRelations,0,17
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,Description of MetaNet,0,17
+html body text table tbody tr td table tbody tr td ul li font span  ,9,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,Linking MetaNet to XSLT,0,16
+html body text table tbody tr td table tbody tr td ul li font span  ,10,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,"Conclusions, Limitations and FutureWork",0,16
+html body text table tbody tr td table tbody tr td ul li font a span  ,Acknowledgements,0,16
+html body text table tbody tr td table tbody tr td ul li font a span  ,Appendix A,0,16
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,ABC Description of Example Resource,0,17
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,Simple Resource-centric Description of ExampleResource,0,17
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,Dublin Core Description of Simple Example,0,17
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,MPEG-7 Description,0,17
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,ID3 Description,0,17
+html body text table tbody tr td table tbody tr td ul li font a span  ,Appendix B,0,16
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,XSL for Transforming from ABC to DC,0,17
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,XSL for Transforming from ABC to ID3,0,17
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,XSL for Transforming ABC to MPEG-7,0,17
+html body text table tbody tr td h3 span  ,Abstract,1,9
+html body text table tbody tr td font span  ,Metadata interoperability is a fundamental requirement foraccess to information within networked knowledge organization systems.The Harmony international digital library project,1,9
+html body text table tbody tr td font a span  ,[1],0,10
+html body text table tbody tr td font span  ,has developed a common underlying data model (the ABC model) to enablethe scalable mapping of metadata descriptions across domains and mediatypes. The ABC model,1,9
+html body text table tbody tr td font a span  ,[2],0,10
+html body text table tbody tr td font span  ,"provides a set of basic buildingblocks for metadata modeling and recognizes the importance of 'events'to describe unambiguously metadata for objects with a complex history.To test and evaluate the interoperability capabilities of this model, weapplied it to some real multimedia examples and analysed the results ofmapping from the ABC model to various different metadata domains usingXSLT",1,9
+html body text table tbody tr td font a span  ,[3],0,10
+html body text table tbody tr td font span  ,". This work revealed serious limitations in theability of XSLT to support flexible dynamic semantic mapping. To overcomethis, we developed MetaNet",1,9
+html body text table tbody tr td font a span  ,[4],0,10
+html body text table tbody tr td font span  ,", a metadata term thesauruswhich provides the additional semantic knowledge that is non-existent withindeclarative XML-encoded metadata descriptions. This paper describes MetaNet,its RDF Schema",1,9
+html body text table tbody tr td font a span  ,[5],0,10
+html body text table tbody tr td font span  ,"representation and a hybrid mappingapproach which combines the structural and syntactic mapping capabilitiesof XSLT with the semantic knowledge of MetaNet, to enable flexible anddynamic mapping among metadata standards.",1,9
+html body text table tbody tr td h2 span  ,1 Introduction,1,9
+html body text table tbody tr td span  ,"Networked knowledge organisation systems typically contain objects of mixedmedia types which are described using a multitude of diverse metadata schemas.Hence machine understanding of metadata descriptions which conform to schemasfrom different domains is a fundamental requirement for access to informationwithin networked knowledge organization systems. In particular, there arethree main scenarios in which interoperability among metadata descriptionsis required:",1,8
+html body text table tbody tr td ul li span  ,To enable a single search interface across heterogeneous metadata descriptions;,1,10
+html body text table tbody tr td ul li span  ,To enable the integration or merging of descriptions which are based oncomplementary but possibly overlapping metadata schemas or standards;,1,10
+html body text table tbody tr td ul li span  ,"To enable different views of the one underlying and complete metadata description,depending on the user's particular interest, perpective or requirements.",1,10
+html body text table tbody tr td span  ,Metadata descriptions from different domains are not semantically distinctbut overlap and relate to each other in complex ways. Achieving interoperabilitybetween such metadata descriptions via manually-generated one-to-one crosswalks,1,8
+html body text table tbody tr td a span  ,[6],1,9
+html body text table tbody tr td span  ,"is useful, but this approach does not scale to the many metadata vocabulariesthat will develop. A more scalable and cost-effective approach is to exploitthe fact that many entities and relationships - for example, people, places,creations, organisations, events, etc. - occur across all of the domains.The Harmony project",1,8
+html body text table tbody tr td a span  ,[1],0,9
+html body text table tbody tr td span  ,has been investigating this moregeneral approach towards metadata interoperability and in the process hasdeveloped the ABC model and vocabulary,1,8
+html body text table tbody tr td a span  ,[2],0,9
+html body text table tbody tr td span  ,.,1,8
+html body text table tbody tr td p span  ,"The hypothesis is that such an approach will lead to more efficient,scalable machine-translations between heterogeneous metadata descriptions.To test this hypothesis and to evaluate the interoperability capabilitiesof the ABC model, we applied it to some real multimedia examples and analysedthe results of mapping from the ABC model to various different metadatadomains using XSLT",1,9
+html body text table tbody tr td p a span  ,[3],0,10
+html body text table tbody tr td p span  ,". This work revealed serious limitationsin XSLT's ability to support flexible dynamic semantic mapping. To overcomethis, we developed MetaNet",1,9
+html body text table tbody tr td p a span  ,[4],0,10
+html body text table tbody tr td p span  ,", a metadata term thesauruswhich provides the additional semantic knowledge that is non-existent withindeclarative XML-encoded metadata descriptions.",1,9
+html body text table tbody tr td p span  ,This paper describes the optimum metadata mapping approach determinedfrom applying the ABC model to a small test set of multimedia examples.This approach combines:,1,9
+html body text table tbody tr td ul li span  ,"the ABC event-aware metadata model, developed within the Harmony project,as the underlying model for scalable generic mappings between domain-specificvocabularies, with;",1,10
+html body text table tbody tr td ul li span  ,"XSLT for parsing XML descriptions and performing structural and syntacticmapping, and;",1,10
+html body text table tbody tr td ul li span  ,"MetaNet, a metadata term thesaurus, to provide the semantic knowledge requiredto enable semantic mapping between metadata terms from different domainsor standards.",1,10
+html body text table tbody tr td h2 span  ,2 Definitions of Terms,1,9
+html body text table tbody tr td span  ,This section defines the key terms used throughout the remainder of thepaper:,1,8
+html body text table tbody tr td ul li i span  ,Metadata,1,11
+html body text table tbody tr td ul li span  ,"- data about data - or more commonly ""descriptive informationabout Web resources"". The use of standardized descriptive metadata cansubstantially improve the discovery and retrieval of relevant networkedresources. Different communities or domains have developed their own standardizedmetadata vocaularies to meet their specific needs.",1,10
+html body text table tbody tr td ul li i span  ,Vocabularies,1,11
+html body text table tbody tr td ul li span  ,"- shared terminologies with commonly agreed-upon semanticsfor a domain. Common vocabularies enable search engines, agents, authorsand users to communicate within a domain.",1,10
+html body text table tbody tr td ul li i span  ,Schemas,1,11
+html body text table tbody tr td ul li span  ,"- provide a standard way of defining standard domain-specificvocabularies by defining a common set of elements, their semantics andthe relationships between the elements.",1,10
+html body text table tbody tr td ul li i span  ,Ontology,1,11
+html body text table tbody tr td ul li span  ,"- a formal description of the concepts, roles and relationshipsthat exist for an agent or community of agents. Ontologies provide a sharedand common understanding of a domain that can be communicated across peopleand applications, and play a major role in supporting information exchangeand discovery.",1,10
+html body text table tbody tr td ul li i span  ,Thesaurus,1,11
+html body text table tbody tr td ul li span  ,"- the vocabulary of a controlled indexing language, formallyorganized so that the",1,10
+html body text table tbody tr td ul li i span  ,a priori,1,11
+html body text table tbody tr td ul li span  ,"relationships between concepts (forexample ""broader"" and ""narrower"") are made explicit.",1,10
+html body text table tbody tr td ul li a span  ,[7],0,11
+html body text table tbody tr td ul li i span  ,Metadata Thesaurus,1,11
+html body text table tbody tr td ul li span  ,- a thesaurus (defined according to ISO 2788standard for monolingual thesauri,0,10
+html body text table tbody tr td ul li a span  ,[7],0,11
+html body text table tbody tr td ul li span  ,) which defines therelationships between metadata terms from different domain vocabularies.,1,10
+html body text table tbody tr td h2 span  ,3 Related Work,1,9
+html body text table tbody tr td span  ,"Thesauri have been used to improve the precision and recall of informationretrieval systems for over 30 years. The introduction of automated informationretrieval has caused a dramatic increase in the demand for vocabulary control,particularly in the last decade. Examples of well known thesauri used toprovide authority control over the terms used for indexing documents inthe bibliographic, medical and cultural domains respectively are: the Libraryof Congress Subject Headings (LCSH)",1,8
+html body text table tbody tr td a span  ,[9],0,9
+html body text table tbody tr td span  ,", the Medical SubjectHeadings (MeSH)",1,8
+html body text table tbody tr td a span  ,[10],0,9
+html body text table tbody tr td span  ,and the Art and Architecture Thesaurus(AAT).,1,8
+html body text table tbody tr td a span  ,[11],0,9
+html body text table tbody tr td span  ,"In addition, thesauri have been used withininformation retrieval systems to improve retrieval effectiveness by providingsemantic roadmaps.",1,8
+html body text table tbody tr td a span  ,[12],0,9
+html body text table tbody tr td span  ,",",0,8
+html body text table tbody tr td a span  ,[13],0,9
+html body text table tbody tr td span  ,",",0,8
+html body text table tbody tr td a span  ,[14],0,9
+html body text table tbody tr td p span  ,"Since the emergence of the Internet, a great deal of effort has beeninvested in the development of metadata vocabularies to enable the exchangeand discovery of information across different applications and domains.Metadata vocabularies such as Dublin Core",1,9
+html body text table tbody tr td p a span  ,[15],0,10
+html body text table tbody tr td p span  ,", USMARC",1,9
+html body text table tbody tr td p a span  ,[16],0,10
+html body text table tbody tr td p span  ,",INDECS",1,9
+html body text table tbody tr td p a span  ,[17],0,10
+html body text table tbody tr td p span  ,", MPEG-7",1,9
+html body text table tbody tr td p a span  ,[18],0,10
+html body text table tbody tr td p span  ,", FGDC",1,9
+html body text table tbody tr td p a span  ,[19],0,10
+html body text table tbody tr td p span  ,",IEEE LOM",1,9
+html body text table tbody tr td p a span  ,[20],0,10
+html body text table tbody tr td p span  ,and CIDOC CRM,1,9
+html body text table tbody tr td p a span  ,[21],0,10
+html body text table tbody tr td p span  ,"providestandardized sets of descriptive elements to enable the exchange of resourcesfor specific applications or domains. Although these standards enable interoperabilitywithin domains, they introduce the problem of incompatibility between disparateand heterogeneous metadata descriptions or schemas across domains.",1,9
+html body text table tbody tr td p span  ,"A literature survey reveals many different proposals for improving interoperabilitybetween domain-specific vocabularies, thesauri and ontologies in the contextof information retrieval and exchange. These range from database schemaintegration",1,9
+html body text table tbody tr td p a span  ,[22],0,10
+html body text table tbody tr td p span  ,", to the use of ontologies in organizingand integrating networked information systems (e.g. OBSERVER",1,9
+html body text table tbody tr td p a span  ,[23],0,10
+html body text table tbody tr td p span  ,",InfoSleuth",1,9
+html body text table tbody tr td p a span  ,[24],0,10
+html body text table tbody tr td p span  ,", OntoSeek",1,9
+html body text table tbody tr td p a span  ,[25],0,10
+html body text table tbody tr td p span  ,) tothe merging of monolingual,1,9
+html body text table tbody tr td p a span  ,[26],0,10
+html body text table tbody tr td p span  ,and multilingual thesauri.,1,9
+html body text table tbody tr td p a span  ,[8],0,10
+html body text table tbody tr td p span  ,Two of the major research issues have been categorizing the complex kindsof interthesaurus semantic relationships which exist,1,9
+html body text table tbody tr td p a span  ,[27],0,10
+html body text table tbody tr td p span  ,and automating the detection of these relationships during the mergingprocess.,1,9
+html body text table tbody tr td p a span  ,[28],0,10
+html body text table tbody tr td p span  ,More recently the approach to merging thesauri has been to representthem formally using RDF Schemas,1,9
+html body text table tbody tr td p a span  ,[29],0,10
+html body text table tbody tr td p span  ,and to use inferenceengines to automate the merging - such as has been proposed in the OntologyInference Layer (OIL).,1,9
+html body text table tbody tr td p a span  ,[30],0,10
+html body text table tbody tr td p span  ,In this paper we are not so much concerned with the specific processby which MetaNet is generated or with expressing the complete set of possibleterm relations (as described in ISO 2788) in MetaNet. Our primary objectiveis to generate a thesaurus which specifies (an albeit simplified) set ofsemantic relationships between metadata terms from a number of differentdomain schemas relative to the ABC underlying vocabulary (the preferredterms) and hence also to each other. Our goal is then to demonstrate howthis semantic knowledge can be represented in a machine-readable format(RDF Schema) and extracted and combined with the syntactic and structuralmapping capabilities of XSLT to enable the implementation of flexible dynamicmappings between metadata descriptions from different domains.,1,9
+html body text table tbody tr td h2 span  ,4 Overview of the ABC Underlying Metadata Model,1,9
+html body text table tbody tr td span  ,The Harmony Project,1,8
+html body text table tbody tr td a span  ,[1],0,9
+html body text table tbody tr td span  ,is investigating a generic approachto metadata interoperability through the development of an event-awaremetadata model. The ABC model,1,8
+html body text table tbody tr td a span  ,[2],0,9
+html body text table tbody tr td span  ,"defines a set of fundamentalclasses which provide the building blocks for expression (through sub-classing)of application-specific or domain-specific metadata vocabularies. The baseclasses, shown below, were determined by analysing commonalities betweendifferent communities' metadata models (including: Dublin Core",1,8
+html body text table tbody tr td a span  ,[15],0,9
+html body text table tbody tr td span  ,;INDECS,1,8
+html body text table tbody tr td a span  ,[17],0,9
+html body text table tbody tr td span  ,; MPEG-7,1,8
+html body text table tbody tr td a span  ,[18],0,9
+html body text table tbody tr td span  ,; CIDOC CRM,1,8
+html body text table tbody tr td a span  ,[21],0,9
+html body text table tbody tr td span  ,;IFLA,1,8
+html body text table tbody tr td a span  ,[31],0,9
+html body text table tbody tr td span  ,.),1,8
+html body text table tbody tr td ul li span  ,Resources,1,10
+html body text table tbody tr td ul li span  ,Events,1,10
+html body text table tbody tr td ul li span  ,Inputs and Outputs,1,10
+html body text table tbody tr td ul li span  ,Acts,1,10
+html body text table tbody tr td ul ul li span  ,Agents,1,11
+html body text table tbody tr td ul ul li span  ,Roles,1,11
+html body text table tbody tr td ul li span  ,Context,1,10
+html body text table tbody tr td ul ul li span  ,Time,1,11
+html body text table tbody tr td ul ul li span  ,Place,1,11
+html body text table tbody tr td ul li span  ,Event Relations,1,10
+html body text table tbody tr td span  ,"ABC adopts an event-aware view for modeling the relationship between thevarious manifestations of a creation. This event-aware view provides semanticallyclear attachment points for the association of properties among the variousmanifestations, events and contributors (agents) involved in a resource'slifecycle. In addition, ABC provides a multiple views philosophy for metadatamodeling and recipes for inter-conversion between those views. If life-cycleinformation is required, the event model can be used. When single resourcemetadata is needed, a resource-centric state model is used. Figure 1 showsthe UML representation for the ABC metadata model.",1,8
+html body text table tbody tr td center span  ,Figure 1. UML representation of the ABC metadata model,0,9
+html body text table tbody tr td h2 span  ,5 A Simple Example,1,9
+html body text table tbody tr td span  ,"To test the ABC model and evaluate XSLT for metadata mapping, we consideredthe following simple illustrative example:",1,8
+html body text table tbody tr td blockquote span  ,"""A resource which is a 130 min audio (MP3) recording of a 'Liveat Lincoln Center' performance. The Orchestra is the New York Philharmonic.The performance was on April 7, 1998 at 8 pm Eastern Time. The musicalscore performed is 'Concerto for Violin'. Copyright for the entire performanceis held by Lincoln Center for the Performing Arts.""",1,9
+html body text table tbody tr td span  ,"First we describe this resource using the ABC model. We then attempt tomap from the ABC description to Dublin Core, MPEG-7 and ID3",1,8
+html body text table tbody tr td a span  ,[32],1,9
+html body text table tbody tr td span  ,"descriptions respectively, using XSLT. Figure 2 illustrates the two stepsinvolved in mapping from the ABC metadata model to resource-centric modelssuch as Dublin Core, MPEG-7 and ID3:",1,8
+html body text table tbody tr td ol li span  ,The structural mapping step involves transferring event properties to theoutput resource and creating a relationship between the output and inputresources associated with the event.,1,10
+html body text table tbody tr td ol li span  ,The semantic mapping step involves mapping the properties attached to theoutput resource to semantically-equivalent properties in the output domain.,1,10
+html body text table tbody tr td a span  ,Appendix A,0,9
+html body text table tbody tr td span  ,"contains the corresponding ABC, Resource-centric,Dublin Core, ID3 and MPEG-7 descriptions.",0,8
+html body text table tbody tr td center p span  ,Figure 2. Transformation from the ABC event-aware model to three differentresource-centric models,0,10
+html body text table tbody tr td h3 span  ,5.1 Structural Mapping Rules,1,9
+html body text table tbody tr td span  ,"For events which generate an output resource from an input resource, thetransformation from an event-aware metadata model to a simple resource-centricmetadata model consists of the following steps:",1,8
+html body text table tbody tr td ol li span  ,"The Date, Time and Place properties within the Event's Context node canbe qualified using the Event Type and transferred to the target outputresource, e.g. Date.Performance, Time.Performance, Place.Performance;",1,10
+html body text table tbody tr td ol li span  ,"The Role property of each Act associated with an event becomes a qualifieron the Agent property which is attached to the target output resource andits value is the Act's Agent Name, e.g. the Agent.Orchestra property hasvalue ""New York Philharmonic"";",1,10
+html body text table tbody tr td ol li span  ,"A Relation property arc is generated from the event type (e.g. Performance-> Relation.isPerformanceOf) and is attached to the target output resource.The value of this property is the patient input resource of the event (e.g.""comp523"").",1,10
+html body text table tbody tr td ol li span  ,All other existing properties of the input and output resource remain thesame.,1,10
+html body text table tbody tr td span  ,Other inheritance and metadata derivation rules may be possible but theserequire further investigation.,1,8
+html body text table tbody tr td span  ,"For example, a Description property for the output resource can begenerated from the Event Type and the input resource's Title e.g. ""Performanceof 'Concerto for Violin'"". Or in many cases, the",1,8
+html body text table tbody tr td i span  ,Title,1,9
+html body text table tbody tr td span  ,propertycan be inherited by the output resource directly from the Title propertyof either the input resource or the event.,1,8
+html body text table tbody tr td h2 span  ,6 An Evaluation of XSLT for Metadata Mappings,1,9
+html body text table tbody tr td span  ,The Extensible Style Language (XSL),1,8
+html body text table tbody tr td a span  ,[3],0,9
+html body text table tbody tr td span  ,consists of atransformation language (XSLT) and a formatting language. The transformationlanguage XSLT (which acts independently of the formatting language) provideselements that define rules for how one XML document is transformed intoanother XML document. The transformed XML document may use the markup andDTD of the original document or it may use a completely different set oftags. The ability of XSLT to transform data from one XML representationto another makes it appear to be ideal for metadata interchange applications.,1,8
+html body text table tbody tr td p span  ,"An XSL document contains a list of templates and rules. A template rulehas a pattern specifying the trees it applies to and a template to be outputwhen the pattern is matched. When an XSL processor formats an XML documentusing an XSL style sheet, it scans the XML document tree looking througheach sub-tree in turn. As each tree in the XML document is read, the processorcompares it with the pattern of each template rule in the style sheet.When the processor finds a tree that matches a template rule's pattern,it outputs the rule's template. This template generally includes some markup,some new data and some data copied out of the tree from the original XMLdocument.",1,9
+html body text table tbody tr td p span  ,Using XSLT and the Xalan,1,9
+html body text table tbody tr td p a span  ,[33],0,10
+html body text table tbody tr td p span  ,"XSLT processor we developedXSL programs for transforming the ABC description above to DC, ID3 andMPEG-7 descriptions, respectively.",1,9
+html body text table tbody tr td p a span  ,Appendix B,1,10
+html body text table tbody tr td p span  ,shows the resulting XSL files.,1,9
+html body text table tbody tr td p span  ,The mapping implementations in,1,9
+html body text table tbody tr td p a span  ,Appendix B,1,10
+html body text table tbody tr td p span  ,"revealedthat although XSLT works well for the structural mapping from an eventmodel to a resource-centric model based on the set of rules described inSection 3.1, it is inadequate for implementing flexible dynamic semanticmappings between metadata vocabularies. This is due to:",1,9
+html body text table tbody tr td ul li span  ,XSLT's limited capabilities for handling variable input descriptions basedon schemas which are not tightly constrained;,1,10
+html body text table tbody tr td ul li span  ,The non-existence of machine-understandable semantic information in declarativeXML-encoded metadata descriptions;,1,10
+html body text table tbody tr td ul li span  ,Processor-dependent handling of input parameters and procedural code extensions;,1,10
+html body text table tbody tr td ul li span  ,"Limited string manipulation and comparison functions, e.g. it is not possibleto perform case-insensitive string comparisons within XSLT.",1,10
+html body text table tbody tr td span  ,"The mappings revealed that if the input XML descriptions are relativelyfixed and tightly constrained, then the semantic mappings can be hardwiredand XSLT is adequate. But if the input descriptions are at all variableor unpredictable (e.g. undefined domain specific sub-classing and attributes)then XSL simply cannot cope. Cawsey investigated the use of XSLT for customizingRDF descriptions, reaching similar conclusions.",1,8
+html body text table tbody tr td a span  ,[34],0,9
+html body text table tbody tr td p span  ,"Below are listed a number of possible approaches to handling the semanticmapping problem. The approach chosen is a balance between simplicity onthe one hand, and flexibility or scalability on the other. The wider thetargeted scope of interoperability, the more difficult it is to achieveaccurate, precise mappings. Below is a list of mapping approaches in increasingorder of both scope and difficulty:",1,9
+html body text table tbody tr td ol li span  ,"Hardwire crosswalks between metadata terms from specific metadata domains(easy, but only works for fixed input);",1,10
+html body text table tbody tr td ol li span  ,Extract mappings from a pre-defined multiple-domain mapping matrix;,1,10
+html body text table tbody tr td ol li span  ,Determine the semantic mappings from a metadata term ontology;,1,10
+html body text table tbody tr td ol li span  ,Determine the semantic mappings from a generic ontology such as WordNet;,1,10
+html body text table tbody tr td ol li span  ,Determine the semantic mappings from a dynamically generated ontology createdby using inferencing to merge multiple domain-specific ontologies.,1,10
+html body text table tbody tr td span  ,"By reducing the scope of the problem to interoperability between existingmetadata standards, then the fully generic approaches (e.g., 4 and 5 above)become unnecessarily complex. Hence in the remainder of this paper we investigatethe less complex but still moderately flexible approaches (2 and 3) basedon a mapping matrix and a metadata term ontology, respectively.",1,8
+html body text table tbody tr td h2 span  ,7 Semantic Mapping via a Mapping Matrix,1,9
+html body text table tbody tr td span  ,The second approach in the list above involves linking a mapping matrixto the XSLT processor. The mapping matrix explicitly defines the semanticmappings between a fixed set of metadata vocabularies from a number ofdifferent domains. Figure 3 illustrates such a mapping matrix. If XPath,1,8
+html body text table tbody tr td a span  ,[35],1,9
+html body text table tbody tr td span  ,"is used to specify the elements, then to some extent both the structuraland semantic mappings can be defined.",1,8
+html body text table tbody tr td table caption span  ,Table 1. Metadata mapping matrix,0,10
+html body text table tbody tr td table tbody tr th span  ,ABC Element,0,12
+html body text table tbody tr td table tbody tr th span  ,DC Element,0,12
+html body text table tbody tr td table tbody tr th span  ,ID3 Element,0,12
+html body text table tbody tr td table tbody tr th span  ,MPEG-7 Path,0,12
+html body text table tbody tr td table tbody tr td span  ,Resource/Title,0,12
+html body text table tbody tr td table tbody tr td span  ,Title,0,12
+html body text table tbody tr td table tbody tr td span  ,TIT2,0,12
+html body text table tbody tr td table tbody tr td span  ,"CreationMetaInformation/Creation/Title/TitleText (@TitleType=""original"")",0,12
+html body text table tbody tr td table tbody tr td span  ,Event/Act/Agent,0,12
+html body text table tbody tr td table tbody tr td span  ,Creator,0,12
+html body text table tbody tr td table tbody tr td span  ,TPE1,0,12
+html body text table tbody tr td table tbody tr td span  ,"CreationMetaInformation/Creation/Creator (@role=""creator"")",0,12
+html body text table tbody tr td table tbody tr td span  ,Publisher,0,12
+html body text table tbody tr td table tbody tr td span  ,TPUB,0,12
+html body text table tbody tr td table tbody tr td span  ,UsageMetaInformation/Publication/Publisher,0,12
+html body text table tbody tr td table tbody tr td span  ,Contributor,0,12
+html body text table tbody tr td table tbody tr td span  ,"IPLS(involved People List),",0,12
+html body text table tbody tr td table tbody tr td span  ,"TCOM(Composer),",0,12
+html body text table tbody tr td table tbody tr td span  ,"TENC(Encoder),",0,12
+html body text table tbody tr td table tbody tr td span  ,"TEXT(Lyricist),",0,12
+html body text table tbody tr td table tbody tr td span  ,"TOLY(OriginalLyricist),",0,12
+html body text table tbody tr td table tbody tr td span  ,"TOPE(Original Artist),",0,12
+html body text table tbody tr td table tbody tr td span  ,"TPE2(Band, Orchestra, Accompaniment),",0,12
+html body text table tbody tr td table tbody tr td span  ,"TPE3(Conductor),",0,12
+html body text table tbody tr td table tbody tr td span  ,"TPE4 (Interpreter, Remixer, Modifier)",0,12
+html body text table tbody tr td table tbody tr td span  ,CreationMetaInformation/Creation/Creator (@role),0,12
+html body text table tbody tr td table tbody tr td span  ,Resource/Subject,0,12
+html body text table tbody tr td table tbody tr td span  ,Subject,0,12
+html body text table tbody tr td table tbody tr td span  ,TIT1,0,12
+html body text table tbody tr td table tbody tr td span  ,CreationMetaInformation/Creation/Classification/PackagedType,0,12
+html body text table tbody tr td table tbody tr td span  ,Resource/Description,0,12
+html body text table tbody tr td table tbody tr td span  ,Description,0,12
+html body text table tbody tr td table tbody tr td span  ,TIT3,0,12
+html body text table tbody tr td table tbody tr td span  ,CreationMetaInformation/Creation/CreationDescription,0,12
+html body text table tbody tr td table tbody tr td span  ,Event/Context/Date,0,12
+html body text table tbody tr td table tbody tr td span  ,Date.Creation,0,12
+html body text table tbody tr td table tbody tr td span  ,-,0,12
+html body text table tbody tr td table tbody tr td span  ,CreationMetaInformation/Creation/CreationDate,0,12
+html body text table tbody tr td table tbody tr td span  ,Date.Publication,0,12
+html body text table tbody tr td table tbody tr td span  ,-,0,12
+html body text table tbody tr td table tbody tr td span  ,UsageMetaInformation/Publication/PublicationDate,0,12
+html body text table tbody tr td table tbody tr td span  ,Date.Recording,0,12
+html body text table tbody tr td table tbody tr td span  ,TRDA,0,12
+html body text table tbody tr td table tbody tr td span  ,-,0,12
+html body text table tbody tr td table tbody tr td span  ,Resource/Type,0,12
+html body text table tbody tr td table tbody tr td span  ,Type,0,12
+html body text table tbody tr td table tbody tr td span  ,TCON,0,12
+html body text table tbody tr td table tbody tr td span  ,CreationMetaInformation/Classification/Genre,0,12
+html body text table tbody tr td table tbody tr td span  ,Resource/Format,0,12
+html body text table tbody tr td table tbody tr td span  ,Format,0,12
+html body text table tbody tr td table tbody tr td span  ,TFLT,0,12
+html body text table tbody tr td table tbody tr td span  ,MediaInformation.MediaProfile/MediaFormat/FileFormat,0,12
+html body text table tbody tr td table tbody tr td span  ,Format.length,0,12
+html body text table tbody tr td table tbody tr td span  ,TLEN,0,12
+html body text table tbody tr td table tbody tr td span  ,-,0,12
+html body text table tbody tr td table tbody tr td span  ,Format.size,0,12
+html body text table tbody tr td table tbody tr td span  ,TSIZ,0,12
+html body text table tbody tr td table tbody tr td span  ,-,0,12
+html body text table tbody tr td table tbody tr td span  ,Resource/Identifier,0,12
+html body text table tbody tr td table tbody tr td span  ,Identifier,0,12
+html body text table tbody tr td table tbody tr td span  ,UFID,0,12
+html body text table tbody tr td table tbody tr td span  ,MediaInformation/MediaIdentification/Identifier,0,12
+html body text table tbody tr td table tbody tr td span  ,Event/Input,0,12
+html body text table tbody tr td table tbody tr td span  ,Source,0,12
+html body text table tbody tr td table tbody tr td span  ,TOAL (Title of original recording or source),0,12
+html body text table tbody tr td table tbody tr td span  ,-,0,12
+html body text table tbody tr td table tbody tr td span  ,Event/Context/Place,0,12
+html body text table tbody tr td table tbody tr td span  ,Coverage.Place,0,12
+html body text table tbody tr td table tbody tr td span  ,-,0,12
+html body text table tbody tr td table tbody tr td span  ,-,0,12
+html body text table tbody tr td p span  ,"This approach has certain debilitating limitations, however. A matrixis only capable of specifying mappings which involve fairly simple one-to-onemappings, and a two-dimensional matrix will only work if the mappings aresymmetrical in both directions across all the domains. If the mappingsare asymetrical then the matrix becomes highly complex and multi-dimensional.However, the primary limitation of this approach is that it simply doesnot scale - as the number of domains grows and the mappings become asymmetrical,then the matrix becomes excessively complex and unwieldy.",1,9
+html body text table tbody tr td h2 span  ,"8 Development of MetaNet, a Metadata Term Thesaurus",1,9
+html body text table tbody tr td span  ,"Rather than limiting the semantic mapping to a fixed number of domains/vocabularies(i.e. the number of columns in the mapping matrix), a more generic approachis to extract the mapping dynamically from a thesaurus of metadata terms,generated by formally defining relationships between metadata terms froma number of different domains' standardized vocabularies.",1,8
+html body text table tbody tr td h3 span  ,8.1 Intrathesaurus and Interthesaurus Relations,1,9
+html body text table tbody tr td span  ,The ISO2788 standard for the identification and documentation of monolingualthesauri,1,8
+html body text table tbody tr td a span  ,[7],0,9
+html body text table tbody tr td span  ,identifies the following types of intrathesaurusrelations:,1,8
+html body text table tbody tr td ul li span  ,hierarchical,1,10
+html body text table tbody tr td ul li span  ,associative,1,10
+html body text table tbody tr td ul li span  ,equivalence,1,10
+html body text table tbody tr td span  ,"The hierarchical relation occurs between concepts having ""broader/narrower""meanings. This can be further specialized into the generic (BTG/NTG), whole-part(BTP/NTP) and instance (BT/NT) relations. For the sake of simplicity, wehave chosen only to model the BTG/NTG relation (a common practice amongthesauri developers) and the equivalence relation, and not to include associativerelations within MetaNet.",1,8
+html body text table tbody tr td p span  ,The ISO5964 standard for the documentation and establishment of multilingualthesauri,1,9
+html body text table tbody tr td p a span  ,[8],0,10
+html body text table tbody tr td p span  ,identifies the following types of interthesaurusrelations:,1,9
+html body text table tbody tr td ul li span  ,exact equivalence,1,10
+html body text table tbody tr td ul li span  ,partial equivalence,1,10
+html body text table tbody tr td ul li span  ,single to multiple equivalence,1,10
+html body text table tbody tr td ul li span  ,inexact equivalence.,1,10
+html body text table tbody tr td span  ,"These relations indicate that the semantic relations between terms fromdifferent metadata vocabularies are likely to be much more complex thanone-to-one exact equivalence and that even ""exact equivalence"" will bean approximation. However, because the scope of our problem is limitedto relations between terms in a number of standardized English metadatavocabularies, then we can expect the frequency of more complex mappingsto be less than for general natural language thesauri. For the first draftof MetaNet, we decided only to consider exact and partial equivalence relationsand to combine them in the ET relation which defines equivalent/overlappingterms. If two different domains use two different metadata terms whichare ETs in our thesaurus then we make the assumption that the domains arereferring to semantically equivalent concepts.",1,8
+html body text table tbody tr td p span  ,"Consequently the metadata term thesaurus which we have developed,",1,9
+html body text table tbody tr td p i span  ,MetaNet,1,10
+html body text table tbody tr td p a span  ,[4],0,10
+html body text table tbody tr td p span  ,",contains only preferred terms (the ABC core vocabulary), equivalent/overlappingterms (ET), narrower terms (NT) and broader terms (BT), and attempts toencompass terms from the most significant and widely-used metadata vocabularies(Dublin Core, IFLA, IEEE LOM, INDECS).",1,9
+html body text table tbody tr td h3 span  ,8.2 Description of MetaNet,1,9
+html body text table tbody tr td span  ,The objective of the,1,8
+html body text table tbody tr td i span  ,MetaNet,1,9
+html body text table tbody tr td span  ,"thesaurus is to provide the semanticknowledge required to enable machine understanding of equivalence and hierarchical(subtyping) relationships between metadata terms from different domains.The scope of this thesaurus is limited to the most significant metadatamodels/vocabularies used for describing attributes and events associatedwith resources and their life cycles. This encompasses metadata vocabulariesfrom the bibliographic, museum, archival, record keeping and rights managementcommunities. It has been developed by performing WordNet",1,8
+html body text table tbody tr td a span  ,[36],0,9
+html body text table tbody tr td span  ,"searches using the core terms from the ABC vocabulary, and extracting thosesynonyms and hyponyms which could conceivably be used in a metadata schemeto represent the original core term. In addition, the results have beencompared with the vocabularies of the DC, INDECS, IFLA, IMS and CIDOC CRMvocabularies to check that the majority of the terms used in these metadatadictionaries have been incorporated into the thesaurus.",1,8
+html body text table tbody tr td p span  ,A machine-readable RDF Schema representation of this thesaurus has beendeveloped.,1,9
+html body text table tbody tr td p a span  ,[37],0,10
+html body text table tbody tr td p span  ,"The RDF and RDF Schema elements,",1,9
+html body text table tbody tr td p i span  ,Class,1,10
+html body text table tbody tr td p span  ,",",1,9
+html body text table tbody tr td p i span  ,subClassOf,1,10
+html body text table tbody tr td p span  ,",",1,9
+html body text table tbody tr td p i span  ,property,1,10
+html body text table tbody tr td p span  ,",",1,9
+html body text table tbody tr td p i span  ,subPropertyOf,1,10
+html body text table tbody tr td p span  ,are used to define the hierarchical/subtyping andentity/attribute relationships between metadata elements. The RDFS,1,9
+html body text table tbody tr td p i span  ,label,1,10
+html body text table tbody tr td p span  ,"element is used to specify semantically equivalent terms which may be used.The ABC core vocabulary is used as the top-level set of preferred terms.Although this thesaurus has been generated manually, it could conceivablybe generated automatically by using inferencing mechanisms to merge RDFSchemas from different domains, as has been proposed in the Ontology InferenceLayer (OIL).",1,9
+html body text table tbody tr td p a span  ,[30],1,10
+html body text table tbody tr td p span  ,"For example, consider ""Agent"", which is a core term of the ABC vocabularyand hence a preferred term in the MetaNet thesaurus. Semantically equivalentterms for ""Agent"", commonly used within other metadata vocabularies, include:",1,9
+html body text table tbody tr td p i span  ,"actor, contributor, creator, player, doer, worker, performer",1,10
+html body text table tbody tr td p span  ,Possible narrower terms or,1,9
+html body text table tbody tr td p i span  ,hyponyms,1,10
+html body text table tbody tr td p span  ,"for ""Agent"" include:",1,9
+html body text table tbody tr td p i span  ,"author, composer, artist, musician, . . etc.",1,10
+html body text table tbody tr td p span  ,"Table 2 is an excerpt from the RDF Schema which illustrates the representationfor the ""Agent"" metadata term as well as its equivalent terms and a partialhierarchy of its narrower terms.",1,9
+html body text table tbody tr td center table caption span  ,Table 2. Excerpt from the RDF Schema,0,11
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:comment  ,"The resources which contribute to or act in an event. Typically agents are people, groups of people, organisations or instruments.",0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:label  ,Actor,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:label  ,Contributor,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:label  ,Creator,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:label  ,Player,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:label  ,Doer,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:label  ,Worker,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:label  ,Performer,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:label  ,Writer,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:label  ,Wordsmith,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:label  ,Columnist,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:label  ,Reporter,0,18
+html body text table tbody tr td p span  ,A Web search and browse interface to MetaNet has also been developed.,1,9
+html body text table tbody tr td p a span  ,[4],0,10
+html body text table tbody tr td p span  ,"Users can search on any common metadata term and retrieve a list of equivalentterms, broader terms and narrower terms. Figure 3 shows the results ofa search on the term ""author"".",1,9
+html body text table tbody tr td center p span  ,Figure 3. Results of MetaNet search,0,10
+html body text table tbody tr td h2 span  ,9 Linking MetaNet to XSLT,1,9
+html body text table tbody tr td span  ,Using XSLT it is possible to parse an input XML description and for eachelement encountered call a Java procedural code extension which determinesthe equivalent term in the output domain from the semantic realtionshipsspecified in the MetaNet thesaurus.,1,8
+html body text table tbody tr td p span  ,"For example, suppose the Java program, Mapping.java, contains an extensionfunction",1,9
+html body text table tbody tr td p i span  ,readMetaNet,1,10
+html body text table tbody tr td p span  ,". For each element encountered during parsingof the input metadata description, the input element name (e.g. abc:Agent)and the output domain schema definition (e.g. the Dublin Core schema) arepassed to the",1,9
+html body text table tbody tr td p i span  ,readMetaNet,1,10
+html body text table tbody tr td p span  ,"function. This function searches the MetaNetRDF Schema file for an element in the output schema definition that isequivalent to the input element name (e.g. dc:contributor), and returnsthis value. XSL creates a new output element with this name in the outputdescription. Figure 4 illustrates the program flowchart.",1,9
+html body text table tbody tr td center p span  ,Figure 4. Program flow for metadata description mappings,0,10
+html body text table tbody tr td p span  ,"The XSL code in Table 3 illustrates how to call a Java extension function,",1,9
+html body text table tbody tr td p i span  ,readMetaNet,1,10
+html body text table tbody tr td p span  ,",from the main XSL file.",1,9
+html body text table tbody tr td center table caption span  ,"Table 3. XSL code to call a Java extension function,",0,11
+html body text table tbody tr td center table caption i span  ,"readMetaNet,",0,12
+html body text table tbody tr td center table caption span  ,from the main XSL file,0,11
+html body text table tbody tr td center table tbody tr td pre tt span xsl:stylesheet  ,"xmlns:lxslt=""http://xml.apache.org/xslt"" xmlns:mapping=""Mapping"" extension-element-prefixes=""mapping"" version=""1.0"">",0,16
+html body text table tbody tr td p span  ,"Below is a high-level, simplistic algorithm describing the mapping processthat is performed within the readMetaNet Java function in Figure 4.",1,9
+html body text table tbody tr td center table caption span  ,Table 4. Algorithm describing the mapping process within the,1,11
+html body text table tbody tr td center table caption i span  ,readMetaNet,1,12
+html body text table tbody tr td center table caption span  ,Java function in Figure 4,1,11
+html body text table tbody tr td center table tbody tr td pre tt span  ,For each element in the input description{ Search for the input element name in the output domain schema; if (found) { Map the input element to the equivalent output domain element; } else { Extract the Equivalent Terms (ETs) for the input element from MetaNet; Search the output domain schema for each of the ETs; if (an ET is found) { Map the input element to the equivalent output domain element; } else { Extract the broader terms (BTs) for the input element from MetaNet; Search for each BT in the output domain namespace; if (a BT is found) { Map the input element to the broader output domain element; } else { Extract the narrower terms (NTs) for the input element from MetaNet; Search for each NT in the output domain namespace; if (a NT is found) { Map the input element to the narrower output domain element; } } } }} endFor,0,15
+html body text table tbody tr td h2 span  ,"10 Conclusions, Limitations and Future Work",1,9
+html body text table tbody tr td h3 span  ,10.1 Conclusions and Limitations,1,9
+html body text table tbody tr td span  ,"Our evaluation of XSLT for mapping between metadata descriptions from differentdomains revealed that although XSLT is good for syntactical and structuralmapping, semantic mappings need to be hardwired into the code. Flexiblesemantic mapping is only possible with the assistance of semantic knowledgebases provided by ontologies or thesauruses such as the MetaNet thesaurusdescribed above.",1,8
+html body text table tbody tr td p span  ,"The MetaNet thesaurus described here is a first draft English version,based on the vocabulary of the ABC model. Although it has only been appliedto a relatively small sample set, some of the limitations of this thesaurusare already evident. These include its inability to support metadata vocabularieswhich use:",1,9
+html body text table tbody tr td ul li span  ,"Tokens, e.g. ID3 tags such as TPE2, which are semantically meaningless.This limitation can be overcome by either explicitly including such tagsin the thesaurus or searching the definitions (rather than element names)in the output namespace for the input element name or its semanticallyequivalent terms;",1,10
+html body text table tbody tr td ul li span  ,"Abbreviations, e.g. acc.no.;",1,10
+html body text table tbody tr td ul li span  ,"Qualifers or hybrid words joined by a variety of connectors, e.g. UserClass,Assistant Editor, Art_Director, Time-span. This problem can be solved tosome extent by including ""associated terms"" in the thesaurus and by ignoringtypical ""connectors"".",1,10
+html body text table tbody tr td span  ,"In addition, the inherently ambiguous nature of language leads to the followingproblems:",1,8
+html body text table tbody tr td ul li span  ,"Metadata terms with multiple possible meanings, e.g.""condition"" - thiscould be the current state of an object or it could be a restriction onthe permissable use of a resource. This can be overcome by the use of unambiguousmetadata terms by schema designers.",1,10
+html body text table tbody tr td ul li span  ,"Multiple possible spellings for the same word, e.g. artefact/artifact,colour/color.",1,10
+html body text table tbody tr td ul li span  ,"This thesaurus is based on nouns, e.g. ""creator"", ""publisher"", and doesnot search for related verbs, adverbs, adjectives in various tenses whichcould be used to express the same semantics, e.g. ""created_by"", ""published_by"".This problem could, to some extent, be overcome through the use of stemming.",1,10
+html body text table tbody tr td span  ,"Currently only English is supported. However, we believe that this thesauruscould be extended to provide equivalent or overlapping terms for the ABCvocabulary in other languages by following the recommendations specifiedin ISO5964.",1,8
+html body text table tbody tr td a span  ,[8],0,9
+html body text table tbody tr td h3 span  ,10.2 Future Work,1,9
+html body text table tbody tr td span  ,"So far the ABC model has only been tested on a relatively small sampleset. We intend carrying out more extensive evaluation of both the ABC modeland the hybrid mapping approach, by applying them to metadata tranformationsbetween large sets of sample records provided by a number of differentCIMI",1,8
+html body text table tbody tr td a span  ,[38],0,9
+html body text table tbody tr td span  ,member organisations. The plan is to builda testbed using multimedia museum resources and metadata descriptions providedby CIMI members and to use this testbed to implement and evaluate metadatainteroperability between different museums' descriptions.,1,8
+html body text table tbody tr td p span  ,The Harmony ABC model exhibits many similarities with the CIDOC ConceptualReference Model (CRM),1,9
+html body text table tbody tr td p a span  ,[21],0,10
+html body text table tbody tr td p span  ,", a domain ontology developedby the CIDOC Committee of the International Council of Museums. In thenear future we plan to investigate the possible merging of the Harmonymodel and the CIDOC CRM model into a single ontology. We plan to use theCIMI testbed described above to evaluate the ""super"" ontology resultingfrom harmonization of these two models.",1,9
+html body text table tbody tr td p span  ,"The mapping implementations above have all involved mapping from anevent-aware metadata model to a resource-centric metadata model. We arealso interested in the rules and mechanisms required for machine translationsbetween metadata descriptions based on different event-aware metadata models,e.g. from ABC to INDECS or CIDOC CRM.",1,9
+html body text table tbody tr td p span  ,"We would also like to investigate mapping between ""application profiles""or schemas which mix metadata elements imported from multiple differentnamespaces. The test examples considered so far only present the problemof mapping from a single domain's metadata description to another singledomain's metadata description, e.g. pure DC to pure MPEG-7. A situationthat will become increasingly common in the future is the need to map froma schema which imports elements from multiple namespaces to another schemawhich imports a different set of elements from multiple namespaces. Inaddition, each schema may impose its own local",1,9
+html body text table tbody tr td ul li span  ,"structural constraints, e.g. parent/child relationships",1,10
+html body text table tbody tr td ul li span  ,cardinality/occurrence constraints,1,10
+html body text table tbody tr td ul li span  ,"datatyping, enumeration and formatting constraints on the element values.",1,10
+html body text table tbody tr td span  ,"We believe the approach proposed in this paper will support mapping betweenmixed-domain ""application profiles"", but need to test this through furtherresearch involving machine translations between metadata descriptions whichconform with both complex local usage constraints, (defined by XML Schemas",1,8
+html body text table tbody tr td a span  ,[39],0,9
+html body text table tbody tr td span  ,"),as well as namespace-specific semantic definitions (defined by RDF Schemas).",1,8
+html body text table tbody tr td h2 span  ,Acknowledgements,1,9
+html body text table tbody tr td span  ,"The author acknowledges the valuable contributions which discussions withDan Brickley, Carl Lagoze, Martin Doerr and Sigge Lundberg have made tothis work.",1,8
+html body text table tbody tr td p span  ,"The work reported in this paper has been funded by the Cooperative ResearchCentre for Enterprise Distributed Systems Technology (DSTC) through theAustralian Federal Government's CRC Programme (Department of Industry,Science and Resources).",1,9
+html body text table tbody tr td h2 span  ,References,1,9
+html body text table tbody tr td span  ,[,1,8
+html body text table tbody tr td span  ,1]The Harmony Project Home Page,1,8
+html body text table tbody tr td a span  ,http://www.ilrt.bris.ac.uk/discovery/harmony/,0,9
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"2] C. Lagoze, J. Hunter and D. Brickley (2000) ""AnEvent-Aware Model for Metadata Interoperability"".",1,9
+html body text table tbody tr td p i span  ,ECDL 2000,1,10
+html body text table tbody tr td p span  ,", Lisbon,September",1,9
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"3] XSL Transformations (XSLT) Version 1.0 (1999) W3CRecommendation, 16 November",1,9
+html body text table tbody tr td p a span  ,http://www.w3.org/TR/xslt.html,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,4] MetaNet Search Page,1,9
+html body text table tbody tr td p a span  ,http://sunspot.dstc.edu.au:8888/Metanet/Top.html,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"5] RDFSchema Specification 1.0 (2000) W3C Candidate Recommendation, 27 March",1,9
+html body text table tbody tr td p a span  ,http://www.w3.org/TR/rdf-schema/,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,6] Dublin Core/MARC/GILS Crosswalk (1999) November,1,9
+html body text table tbody tr td p a span  ,http://lcweb.loc.gov/marc/dccross.html,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,7] ISO 2788 (1986) Documentation -- Guidelines forthe Development and Establishment of Monolingual Thesauri,1,9
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,8] ISO 5964 (1985) Documentation -- Guidelines forthe Development and Establishment of Multilingual Thesauri,1,9
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"9] Library of Congress Subject Headings, CatalogingDistribution Service, Library of Congress",1,9
+html body text table tbody tr td p a span  ,http://lcweb.loc.gov/cds/lcsh.html,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,10] Medical Subject Headings home page,1,9
+html body text table tbody tr td p a span  ,http://www.nlm.nih.gov/mesh/meshhome.html,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"11] Art and Architecture Thesaurus Browser, GettyResearch Institute",1,9
+html body text table tbody tr td p a span  ,http://shiva.pub.getty.edu/aat_browser/,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"12] C. Paice (1991) ""A Thesaural Model of InformationRetrieval"".",1,9
+html body text table tbody tr td p i span  ,Information Processing and Management,1,10
+html body text table tbody tr td p span  ,", 27(5):433-447",1,9
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"13] A.R. Aronson (1994) ""Exploiting a Large Thesaurusfor Information Retrieval"". RIAO 94, New York, October",1,9
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"14] W. Bruce Croft and J. Yufeng (1994) ""An AssociationThesaurus for Information Retrieval"". RIAO 94, New York, October",1,9
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,15] Dublin Core Metadata Initiative,1,9
+html body text table tbody tr td p a span  ,http://purl.org/dc/,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"16] MARC Standards, Library of Congress Network Developmentand MARC Standards Office",1,9
+html body text table tbody tr td p a span  ,http://lcweb.loc.gov/marc/marc.html,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"17] G. Rust and M. Bide (1999) ""The indecs MetadataSchema Building Blocks"". Indecs Metadata Model, November",1,9
+html body text table tbody tr td p a span  ,http://www.indecs.org/pdf/schema.pdf,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,18] MPEG-7 Home Page,1,9
+html body text table tbody tr td p a span  ,http://www.darmstadt.gmd.de/mobile/MPEG7/index.html/,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,19] Content Standard for Digital Geospatial Metadata(CSDGM),1,9
+html body text table tbody tr td p a span  ,http://www.fgdc.gov/metadata/contstan.html,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"20] IEEE Learning Technology Standards Committee'sLearning Object Meta-data Working Group, Approved Working Draft WD5 LearningObject Meta-data Scheme",1,9
+html body text table tbody tr td p a span  ,http://ltsc.ieee.org/wg12/,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"21] ICOM/CIDOC Documentation Standards Group (1999)Revised Definition of the CIDOC Conceptual Reference Model, September",1,9
+html body text table tbody tr td p a span  ,http://www.geneva-city.ch:80/musinfo/cidoc/oomodel,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"22] C. Batini, M. Lenzerini and S.B. Navathe (1986)""A comparative analysis of methodologies for database schema integration"".",1,9
+html body text table tbody tr td p i span  ,ACM Computing Surveys,1,10
+html body text table tbody tr td p span  ,", 18(4):323-364, December",1,9
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"23] E. Mena, V. Kashyap, A. Sheth and A. Illarramendi(1996) ""OBSERVER: An Approach for Query Processing in Global InformationSystems based on Interoperation across Pre-existing Ontologies"".",1,9
+html body text table tbody tr td p i span  ,Proceedingsof the 1st IFCIS International Conference on Cooperative Information Systems,1,10
+html body text table tbody tr td p span  ,"(CoopIS'96), Brussels, Belgium, June (IEEE Computer Society Press)",1,9
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"24] R. Bayardo,",1,9
+html body text table tbody tr td p i span  ,et al.,1,10
+html body text table tbody tr td p span  ,"(1997) ""InfoSleuth:Agent-based Semantic Integration of Information in Open and Dynamic Environments"".",1,9
+html body text table tbody tr td p i span  ,Proceedings of ACM SIGMOD Conference on Management of Data,1,10
+html body text table tbody tr td p span  ,", Tucson,Arizona, May, pp. 195-206",1,9
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"25] N. Guarino, C. Masolo and G. Vetere (1999) ""Ontoseek:Content-based Access to the Web"".",1,9
+html body text table tbody tr td p i span  ,IEEE Intelligent Systems,1,10
+html body text table tbody tr td p span  ,", Vol.14, No. 3, May/June, 70-80",1,9
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"26] H. Mili and R. Rada (1988) ""Merging Thesauri:Principles and Evalauation"".",1,9
+html body text table tbody tr td p i span  ,IEEE Transactions on Pattern Analysis andMachine Intelligence,1,10
+html body text table tbody tr td p span  ,", 10(2):204-220",1,9
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"27] M. Doerr and I. Fundulaki (1998) ""A proposal onextended interthesaurus links semantics"". Technical Report TR-215, Instituteof Computer Science-FORTH, March",1,9
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"28] M. Sintichakis and P. Constantopoulos (1997) ""AMethod for Monolingual Thesauri Merging"".",1,9
+html body text table tbody tr td p i span  ,Proceedings of the 20th ACMInternational Conference on Research and Development in Information Retrieval,1,10
+html body text table tbody tr td p span  ,"(ACM SIGIR), Philadeplphia, PA, USA, July",1,9
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"29] B. Amann and I. Fundulaki (1999) ""IntegratingOntologies and Thesauri to Build RDF Schemas"". In ECDL'99: Research andAdvanced Technologies for Digital Libraries, Paris, France, September,Lecture Notes in Computer Science (Springer-Verlag), pp. 234-253",1,9
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,30] Ontology Inference Layer,1,9
+html body text table tbody tr td p a span  ,http://www.ontoknowledge.org/oil/,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"31] International Federation of Library Associationsand Institutions (IFLA) (1998) Functional Requirements for BibliographicRecords, March",1,9
+html body text table tbody tr td p a span  ,http://www.ifla.org/VII/s13/frbr/frbr.pdf,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,32] ID3 Tag Version 2.3.0,1,9
+html body text table tbody tr td p a span  ,http://www.id3.org/id3v2.3.0.html,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,33] Xalan-Java Overview,1,9
+html body text table tbody tr td p a span  ,http://xml.apache.org/xalan/overview.html,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,"34] A. Cawsey (2000) ""Presenting tailored resourcedescriptions: Will XSLT do the job?"".",1,9
+html body text table tbody tr td p i span  ,WWW9 conference,1,10
+html body text table tbody tr td p span  ,", Amsterdam,May",1,9
+html body text table tbody tr td p a span  ,http://www.cee.hw.ac.uk/~alison/www9/paper.html,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,35] XML Path Language (XPath) Version 1.0 (1999) November,1,9
+html body text table tbody tr td p a span  ,http://www.w3.org/TR/xpath,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,36] WordNet - a Lexical Database for English,1,9
+html body text table tbody tr td p a span  ,http://www.cogsci.princeton.edu/~wn/online/,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,37] RDF Schema Representation of the MetaNet Thesaurus(2000) October,1,9
+html body text table tbody tr td p a span  ,http://archive.dstc.edu.au/maenad/metanet.rdf,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,38] CIMI Consortium for Interchange of Museum Information,1,9
+html body text table tbody tr td p a span  ,http://www.cimi.org/,0,10
+html body text table tbody tr td p span  ,[,1,9
+html body text table tbody tr td p span  ,39] XML Schema Language,1,9
+html body text table tbody tr td p a span  ,http://www.w3.org/XML/Schema,0,10
+html body text table tbody tr td h2 span  ,Appendix A,0,9
+html body text table tbody tr td h3 span  ,A.1 ABC Description of Example Resource,0,9
+html body text table tbody tr td pre font span abc event title  ,Live At the Lincoln Centre,0,13
+html body text table tbody tr td pre font span abc event context date  ,7/4/98,0,14
+html body text table tbody tr td pre font span abc event context time  ,20:00,0,14
+html body text table tbody tr td pre font span abc event context place  ,Lincoln Centre,0,14
+html body text table tbody tr td pre font span abc event act agent  ,New York Philharmonic,0,14
+html body text table tbody tr td pre font span abc event act role  ,Orchestra,0,14
+html body text table tbody tr td pre font span abc event rights  ,Lincoln Center for Performing Arts,0,13
+html body text table tbody tr td pre font span abc resource type  ,Musical Score,0,13
+html body text table tbody tr td pre font span abc resource title  ,Concerto for Violin,0,13
+html body text table tbody tr td pre font span abc resource type  ,audio,0,13
+html body text table tbody tr td pre font span abc resource format  ,MP3,0,13
+html body text table tbody tr td pre font span abc resource length  ,130,0,13
+html body text table tbody tr td h3 span  ,A.2 Simple Resource-centric Description of Example Resource,0,9
+html body text table tbody tr td pre font span resource title  ,Live At Lincoln Center,0,12
+html body text table tbody tr td pre font span resource date.performance  ,1998-07-04,0,12
+html body text table tbody tr td pre font span resource time.performance  ,20:00,0,12
+html body text table tbody tr td pre font span resource place.performance  ,Lincoln Centre,0,12
+html body text table tbody tr td pre font span resource agent.orchestra  ,New York Philharmonic,0,12
+html body text table tbody tr td pre font span resource relation.isperformanceof  ,comp523,0,12
+html body text table tbody tr td pre font span resource description  ,Performance of 'Concerto for Violin',0,12
+html body text table tbody tr td pre font span resource rights  ,Lincoln Center for Performing Arts,0,12
+html body text table tbody tr td pre font span resource type  ,audio,0,12
+html body text table tbody tr td pre font span resource format  ,MP3,0,12
+html body text table tbody tr td pre font span resource length  ,130,0,12
+html body text table tbody tr td h3 span  ,A.3 Dublin Core Description of Simple Example,0,9
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:title  ,Live At Lincoln Center,0,13
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:date.performance  ,1998-07-04T20:00-05:00,0,13
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:coverage  ,Lincoln Centre,0,13
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:contributor.orchestra  ,New York Philharmonic,0,13
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:relation.isperformanceof  ,comp523,0,13
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:description  ,Performance of 'Concerto for Violin',0,13
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:description dc:rights  ,Lincoln Center for Performing Arts,0,14
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:description dc:type  ,audio,0,14
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:description dc:format  ,MP3,0,14
+html body text table tbody tr td h3 span  ,A.4 MPEG-7 Description,0,9
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation title  ,Live at Lincoln Center,0,14
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creator role  ,Orchestra,0,15
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creator name  ,New York Philharmonic,0,15
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creationdate day  ,7,0,15
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creationdate month  ,4,0,15
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creationdate year  ,1998,0,15
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation location placename  ,Lincoln Center,0,15
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation classification genre  ,Performance,0,14
+html body text table tbody tr td pre font span mpeg-7 mediainformation mediaprofile mediaformat medium  ,MP3,0,15
+html body text table tbody tr td pre font span mpeg-7 mediainformation mediaprofile mediaformat length m  ,130,0,16
+html body text table tbody tr td h3 span  ,A.5 ID3 Description,0,9
+html body text table tbody tr td pre font span id3 ufid  ,audio821,0,12
+html body text table tbody tr td pre font span id3 tit2  ,Live At Lincoln Center,0,12
+html body text table tbody tr td pre font span id3 tpe2  ,New York Philharmonic,0,12
+html body text table tbody tr td pre font span id3 tcon  ,Performance,0,12
+html body text table tbody tr td pre font span id3 tmed  ,Audio/MP3,0,12
+html body text table tbody tr td pre font span id3 tdat  ,7/4/98,0,12
+html body text table tbody tr td pre font span id3 time  ,2100,0,12
+html body text table tbody tr td pre font span id3 tlen  ,7800000,0,12
+html body text table tbody tr td pre font span id3 toal  ,comp523,0,12
+html body text table tbody tr td pre font span id3 tcop  ,Lincoln Center of Performing Arts,0,12
+html body text table tbody tr td h2 span  ,Appendix B,0,9
+html body text table tbody tr td h3 span  ,B.1 XSL for Transforming from ABC to DC,0,9
+html body text table tbody tr td pre font span xsl:stylesheet xsl:template xsl:if xsl:element  ,of,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:template xsl:if xsl:element xsl:text  ,"""",0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:template xsl:if xsl:element xsl:text  ,"""",0,15
+html body text table tbody tr td h3 span  ,B.2 XSL for Transforming from ABC to ID3,0,9
+html body text table tbody tr td pre font span xsl:stylesheet xsl:template xsl:element  ,/,0,13
+html body text table tbody tr td h3 span  ,B.3 XSL for Transforming ABC to MPEG-7,0,9

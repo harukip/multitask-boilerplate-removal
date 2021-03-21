@@ -1,0 +1,138 @@
+tag,content,label,depth
+html body text div div div div div a span  ,Log in,0,10
+html body text div div div div div span  ,|,0,9
+html body text div div div div div a span  ,Sign up,0,10
+html body text div div div div a span  ,Why join?,0,9
+html body text div div div form div label span  ,Remember me,0,10
+html body text div div div form div span  ,|,0,9
+html body text div div div form div a span  ,Forgot password?,0,10
+html body text div div div div span span  ,Welcome,0,9
+html body text div div div div span span  ,(,0,9
+html body text div div div div span a span  ,log out,0,10
+html body text div div div div span span  ,),0,9
+html body text div div div div a span  ,View profile,0,9
+html body text div div div div div form div span  ,Search:,0,11
+html body text div div div div div form select option span  ,Reviews,0,12
+html body text div div div div div form select option span  ,All CNET,0,12
+html body text div div div div div form select option span  ,The Web,0,12
+html body text div div div div a span  ,Today on CNET,0,9
+html body text div div div div a span  ,Reviews,0,9
+html body text div div div div a span  ,News,0,9
+html body text div div div div a span  ,Downloads,0,9
+html body text div div div div a span  ,Tips & Tricks,0,9
+html body text div div div div a span  ,CNET TV,0,9
+html body text div div div div a span  ,Compare Prices,0,9
+html body text div div div div div div a span  ,Cell phones,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Desktops,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Digital cameras,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Laptops,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,MP3 players,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,TVs,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,All Categories,0,11
+html body text div div div div div div div div div b span  ,What's on CNET,0,14
+html body text div div div div div div div div div b a span  ,Find the perfect gift,0,15
+html body text div div div div div div div div div div span  ,"Who doesn't want an MP3 player, a big TV, or a shiny new laptop? CNET's editors have picked the best tech you can get this year--more than 200 gift ideas for every budget and desire.",0,14
+html body text div div div div div div div div div a span  ,Read more,0,14
+html body text div div div div div div div div div div b span  ,More shopping help:,0,15
+html body text div div div div div div div div div div ul li a span  ,Holiday Helpdesk,0,17
+html body text div div div div div div div div div div ul li a span  ,Personal shopper podcasts,0,17
+html body text div div div div div div div div div div ul li a span  ,Ultimate luxuries,0,17
+html body text div div div div div div div div div div ul li a span  ,Holiday Countdown,0,17
+html body text div div div div div div div div div div ul li a span  ,Holiday treat calendar,0,17
+html body text div div div div div div table tbody tr td div table tbody tr td span b span  ,Anarchy Online (PC),1,21
+html body text div div div div div div table tbody tr td div table tbody tr td span  ,By: Andrew Park,1,19
+html body text div div div div div div table tbody tr td div table tbody tr td p span  ,"It's safe to say that Funcom's online role-playing game, Anarchy Online, has been one of the most widely and eagerly anticipated games this year...",1,20
+html body text div div div div div div table tbody tr td div form span b span  ,Email this to:,0,18
+html body text div div div div div div table tbody tr td div form span span  ,Enter the email address of the recipient.,0,17
+html body text div div div div div div table tbody tr td div form span p b span  ,Add your own personal message:,0,19
+html body text div div div div div div table tbody tr td div form span p b span  ,Enter your email address:,0,19
+html body text div div div div div div table tbody tr td div form span p font span  ,Note:,0,19
+html body text div div div div div div table tbody tr td div form span p span  ,Your email address is used,0,18
+html body text div div div div div div table tbody tr td div form span p i span  ,only,0,19
+html body text div div div div div div table tbody tr td div form span p span  ,to let the recipient know who sent the email and in case of transmission error. Neither your address nor the recipient's address will be used for any other purpose.,0,18
+html body text div div div div div div table tbody tr td div p span span  ,Dell Home PCs,0,17
+html body text div div div div div div table tbody tr td div p span a span  ,Dell,0,18
+html body text div div div div div div table tbody tr td div p span span span  ,•,0,18
+html body text div div div div div div table tbody tr td div p span a span  ,Home,0,18
+html body text div div div div div div table tbody tr td div p span span span  ,•,0,18
+html body text div div div div div div table tbody tr td div p span a span  ,Systems,0,18
+html body text div div div div div div div a span  ,Help Center,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Corrections,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,What's New,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,All Product Reviews,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div form div span  ,Search:,0,13
+html body text div div div div div div div form select option span  ,Reviews,0,14
+html body text div div div div div div div form select option span  ,All CNET,0,14
+html body text div div div div div div div form select option span  ,The Web,0,14
+html body text div div div div div div span  ,Popular topics:,0,10
+html body text div div div div div div a span  ,Adobe,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Antivirus,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,AVG,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Games,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Drivers,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Java,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Photoshop,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Spyware,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,Windows Media Player,0,11
+html body text div div div div div div span  ,|,0,10
+html body text div div div div div div a span  ,WinRAR,0,11
+html body text div div div div div div div a span  ,Today on CNET,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Reviews,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,News,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Compare prices,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Tips & Tricks,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,Downloads,0,12
+html body text div div div div div div div span  ,|,0,11
+html body text div div div div div div div a span  ,CNET TV,0,12
+html body text div div div div span  ,Popular on CNET Networks:,0,8
+html body text div div div div a span  ,PS3,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Wii,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Xbox 360,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Pussycat Dolls,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Free Music Videos,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,TV Listings,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Prison Break,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Game Cheats,0,9
+html body text div div div div a span  ,About CNET Networks,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Jobs,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Advertise,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Partnerships,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Site map,0,9
+html body text div div div div span  ,"Copyright ©2006 CNET Networks, Inc. All rights reserved.",0,8
+html body text div div div div a span  ,Privacy policy,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,Terms of use,0,9

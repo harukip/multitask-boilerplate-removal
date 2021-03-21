@@ -1,0 +1,789 @@
+tag,content,label,depth
+html body text title span span  ,Union@Everything2.com,0,6
+html body text table tbody tr td font table tbody tr td small small span  ,Near Matches,0,15
+html body text table tbody tr td font table tbody tr td small small span  ,Ignore Exact,0,15
+html body text table tbody tr td h1 span  ,Union,1,9
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,(,0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,thing,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,) by,1,17
+html body text table tbody tr td form table tbody tr td table tbody tr td strong a span  ,pingouin,1,19
+html body text table tbody tr td form table tbody tr td table tbody tr td small span  ,(2.7 y),0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,(,0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,print,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,),0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td span strong a span  ,?,0,20
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,1,0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td strong span  ,C!,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td small span  ,Sat Nov 13 1999 at 14:15:41,0,18
+html body text table tbody tr td form table tbody tr td span  ,How much is your,1,13
+html body text table tbody tr td form table tbody tr td a span  ,time,1,14
+html body text table tbody tr td form table tbody tr td span  ,worth to you? A,1,13
+html body text table tbody tr td form table tbody tr td a span  ,union,1,14
+html body text table tbody tr td form table tbody tr td span  ,is an organization of,1,13
+html body text table tbody tr td form table tbody tr td a span  ,workers,1,14
+html body text table tbody tr td form table tbody tr td span  ,who push for the best possible,1,13
+html body text table tbody tr td form table tbody tr td a span  ,working,1,14
+html body text table tbody tr td form table tbody tr td span  ,conditions - who else will?,1,13
+html body text table tbody tr td form table tbody tr td a span  ,The boss,1,14
+html body text table tbody tr td form table tbody tr td span  ,? The boss invented,1,13
+html body text table tbody tr td form table tbody tr td a span  ,sweatshop,1,14
+html body text table tbody tr td form table tbody tr td span  ,s! Unions are easy to,1,13
+html body text table tbody tr td form table tbody tr td a span  ,demonize,1,14
+html body text table tbody tr td form table tbody tr td span  ,", if you don't belong to one. They brought about the 40-hour",1,13
+html body text table tbody tr td form table tbody tr td a span  ,work,1,14
+html body text table tbody tr td form table tbody tr td span  ,"week, overtime pay, safety laws, and more, including previously-unknown",1,13
+html body text table tbody tr td form table tbody tr td a span  ,prosperity,1,14
+html body text table tbody tr td form table tbody tr td span  ,for those who punched a,1,13
+html body text table tbody tr td form table tbody tr td a span  ,clock,1,14
+html body text table tbody tr td form table tbody tr td span  ,. It enabled many to move to,1,13
+html body text table tbody tr td form table tbody tr td a span  ,suburbia,1,14
+html body text table tbody tr td form table tbody tr td span  ,", buy homes, and raise kids who would grow up to demonize unions.",1,13
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,(,0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,idea,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,) by,1,17
+html body text table tbody tr td form table tbody tr td table tbody tr td strong a span  ,Cogito,1,19
+html body text table tbody tr td form table tbody tr td table tbody tr td small span  ,(1.1 y),0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,(,0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,print,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,),0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td span strong a span  ,?,0,20
+html body text table tbody tr td form table tbody tr td table tbody tr td small span  ,Sun Nov 18 2001 at 23:30:03,0,18
+html body text table tbody tr td form table tbody tr td p span  ,In the field of,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,computation theory,1,15
+html body text table tbody tr td form table tbody tr td p span  ,",",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,union,1,15
+html body text table tbody tr td form table tbody tr td p span  ,is one of the,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,regular operation,1,15
+html body text table tbody tr td form table tbody tr td p span  ,s. If,1,14
+html body text table tbody tr td form table tbody tr td p var span  ,A,1,15
+html body text table tbody tr td form table tbody tr td p span  ,and,1,14
+html body text table tbody tr td form table tbody tr td p var span  ,B,1,15
+html body text table tbody tr td form table tbody tr td p span  ,are,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,language,1,15
+html body text table tbody tr td form table tbody tr td p span  ,s (not necessarily,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,regular language,1,15
+html body text table tbody tr td form table tbody tr td p span  ,s) then the union of,1,14
+html body text table tbody tr td form table tbody tr td p var span  ,A,1,15
+html body text table tbody tr td form table tbody tr td p span  ,and,1,14
+html body text table tbody tr td form table tbody tr td p var span  ,B,1,15
+html body text table tbody tr td form table tbody tr td p span  ,(usually written,1,14
+html body text table tbody tr td form table tbody tr td p var span  ,A,0,15
+html body text table tbody tr td form table tbody tr td p a span  ,?,0,15
+html body text table tbody tr td form table tbody tr td p var span  ,B,1,15
+html body text table tbody tr td form table tbody tr td p span  ,) is defined as follows.,1,14
+html body text table tbody tr td form table tbody tr td p span  ,{,1,14
+html body text table tbody tr td form table tbody tr td p var span  ,x,1,15
+html body text table tbody tr td form table tbody tr td p span  ,|,1,14
+html body text table tbody tr td form table tbody tr td p var span  ,x,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,?,0,15
+html body text table tbody tr td form table tbody tr td p var span  ,A,1,15
+html body text table tbody tr td form table tbody tr td p span  ,or,1,14
+html body text table tbody tr td form table tbody tr td p var span  ,x,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,?,0,15
+html body text table tbody tr td form table tbody tr td p var span  ,B,1,15
+html body text table tbody tr td form table tbody tr td p span  ,},1,14
+html body text table tbody tr td form table tbody tr td p span  ,In plain,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,English,1,15
+html body text table tbody tr td form table tbody tr td p span  ,:,1,14
+html body text table tbody tr td form table tbody tr td p var span  ,A,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,?,0,15
+html body text table tbody tr td form table tbody tr td p var span  ,B,1,15
+html body text table tbody tr td form table tbody tr td p span  ,is the,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,set,1,15
+html body text table tbody tr td form table tbody tr td p span  ,of all,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,string,1,15
+html body text table tbody tr td form table tbody tr td p span  ,s which are either,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,member,1,15
+html body text table tbody tr td form table tbody tr td p span  ,s of,1,14
+html body text table tbody tr td form table tbody tr td p var span  ,A,1,15
+html body text table tbody tr td form table tbody tr td p span  ,or,1,14
+html body text table tbody tr td form table tbody tr td p var span  ,B,1,15
+html body text table tbody tr td form table tbody tr td p span  ,or both.,1,14
+html body text table tbody tr td form table tbody tr td p span  ,"For example, if",1,14
+html body text table tbody tr td form table tbody tr td p var span  ,A,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"= {a,b,c}, and",1,14
+html body text table tbody tr td form table tbody tr td p var span  ,B,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"= {c,d,e}",1,14
+html body text table tbody tr td form table tbody tr td p var span  ,A,0,15
+html body text table tbody tr td form table tbody tr td p a span  ,?,0,15
+html body text table tbody tr td form table tbody tr td p var span  ,B,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"= {a,b,c,d,e}",1,14
+html body text table tbody tr td form table tbody tr td p span  ,Some,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,interesting,1,15
+html body text table tbody tr td form table tbody tr td p span  ,things to note about the union operation:,1,14
+html body text table tbody tr td form table tbody tr td ul li span  ,The,1,15
+html body text table tbody tr td form table tbody tr td ul li a span  ,union,1,16
+html body text table tbody tr td form table tbody tr td ul li span  ,of a set with any,1,15
+html body text table tbody tr td form table tbody tr td ul li a span  ,subset,1,16
+html body text table tbody tr td form table tbody tr td ul li span  ,is equal to the original set (,1,15
+html body text table tbody tr td form table tbody tr td ul li a span  ,iff,1,16
+html body text table tbody tr td form table tbody tr td ul li var span  ,B,1,16
+html body text table tbody tr td form table tbody tr td ul li a span  ,?,0,16
+html body text table tbody tr td form table tbody tr td ul li var span  ,A,1,16
+html body text table tbody tr td form table tbody tr td ul li span  ,", then",1,15
+html body text table tbody tr td form table tbody tr td ul li var span  ,A,1,16
+html body text table tbody tr td form table tbody tr td ul li a span  ,?,0,16
+html body text table tbody tr td form table tbody tr td ul li var span  ,B,1,16
+html body text table tbody tr td form table tbody tr td ul li span  ,=,1,15
+html body text table tbody tr td form table tbody tr td ul li var span  ,A,1,16
+html body text table tbody tr td form table tbody tr td ul li span  ,).,1,15
+html body text table tbody tr td form table tbody tr td ul li span  ,Regular languages are,1,15
+html body text table tbody tr td form table tbody tr td ul li a span  ,closed,1,16
+html body text table tbody tr td form table tbody tr td ul li span  ,under the union operation. This means that if,1,15
+html body text table tbody tr td form table tbody tr td ul li var span  ,A,1,16
+html body text table tbody tr td form table tbody tr td ul li span  ,and,1,15
+html body text table tbody tr td form table tbody tr td ul li var span  ,B,1,16
+html body text table tbody tr td form table tbody tr td ul li span  ,"are regular languages, then so is",1,15
+html body text table tbody tr td form table tbody tr td ul li var span  ,A,0,16
+html body text table tbody tr td form table tbody tr td ul li a span  ,?,0,16
+html body text table tbody tr td form table tbody tr td ul li var span  ,B,1,16
+html body text table tbody tr td form table tbody tr td ul li span  ,.,1,15
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,(,0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,idea,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,) by,1,17
+html body text table tbody tr td form table tbody tr td table tbody tr td strong a span  ,novasoy,1,19
+html body text table tbody tr td form table tbody tr td table tbody tr td small span  ,(1.6 wk),0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,(,0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,print,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,),0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td span strong a span  ,?,0,20
+html body text table tbody tr td form table tbody tr td table tbody tr td small span  ,Fri Jan 18 2002 at 17:54:55,0,18
+html body text table tbody tr td form table tbody tr td p span  ,In,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,SQL,1,15
+html body text table tbody tr td form table tbody tr td p span  ,", UNION keyword does nothing more than mash the",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,output,1,15
+html body text table tbody tr td form table tbody tr td p span  ,of two or more queries together into one big,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,result,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,set,1,15
+html body text table tbody tr td form table tbody tr td p span  ,. UNION requres the queries to have the same number of,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,columns,1,15
+html body text table tbody tr td form table tbody tr td p span  ,". Second, the columns should have",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,compatible,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"data type and size, but some",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,query,1,15
+html body text table tbody tr td form table tbody tr td p span  ,engines are flexible on this strict,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,ANSI,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,requirement,1,15
+html body text table tbody tr td form table tbody tr td p span  ,". Third, the columns must have the same constraints with regard to",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,null,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"values. Either both columns must allow nulls or forbid nulls. Again, some products are less strict than the",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,standard,1,15
+html body text table tbody tr td form table tbody tr td p span  ,". Last, UNIONs may not be",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,subqueries,1,15
+html body text table tbody tr td form table tbody tr td p span  ,", nor may they have",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,aggregate,1,15
+html body text table tbody tr td form table tbody tr td p span  ,functions. Check your product's,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,documentation,1,15
+html body text table tbody tr td form table tbody tr td p span  ,for details.,1,14
+html body text table tbody tr td form table tbody tr td p span  ,Here is what one looks like:,1,14
+html body text table tbody tr td form table tbody tr td pre span  ,"SELECT name, email, phone_number FROM salespeople UNION SELECT name, email, phone_number FROM engineers;",1,14
+html body text table tbody tr td form table tbody tr td span  ,And the output might look like:,1,13
+html body text table tbody tr td form table tbody tr td pre span  ,"Jones, Jim bobj@salesman.com 123-123-1234Sousa, Sam sams@salesman.com 123-123-1235Dilbert, J jd@engineer.com 234-234-1234Smart, Alec sa@engineer.com 234-234-2344",1,14
+html body text table tbody tr td form table tbody tr td p span  ,There are no,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,column,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"headings on purpose in the output example above. Since the column names are often different in the SELECT statements comprising the UNION, the query engine cannot know what to call the columns so quite often there are no column names in the output. Remember, the columns must be of the same type and size, but there is no requirement that their data be in any way related. You really can mix",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,apples and oranges,1,15
+html body text table tbody tr td form table tbody tr td p span  ,with a UNION query.,1,14
+html body text table tbody tr td form table tbody tr td p span  ,"One important """,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,gotcha,1,15
+html body text table tbody tr td form table tbody tr td p span  ,""" with UNION is that by default it eliminates duplicate rows in each SELECT statement (see",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,DISTINCT,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"). To ensure each row gets returned, UNION",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,ALL,1,15
+html body text table tbody tr td form table tbody tr td p span  ,must be used.,1,14
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,(,0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,thing,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,) by,1,17
+html body text table tbody tr td form table tbody tr td table tbody tr td strong a span  ,ariels,1,19
+html body text table tbody tr td form table tbody tr td table tbody tr td small span  ,(17.3 hr),0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,(,0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,print,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,),0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td span strong a span  ,?,0,20
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,1,0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td strong span  ,C!,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td small span  ,Wed Sep 24 2003 at 7:34:30,0,18
+html body text table tbody tr td form table tbody tr td h1 a span  ,Set Theory,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,Set,1,15
+html body text table tbody tr td form table tbody tr td p span  ,theory defines a,1,14
+html body text table tbody tr td form table tbody tr td p em span  ,union,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,operation,1,15
+html body text table tbody tr td form table tbody tr td p span  ,". For any set A, an",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,axiom,1,15
+html body text table tbody tr td form table tbody tr td p span  ,guarantees the,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,existence,1,15
+html body text table tbody tr td form table tbody tr td p span  ,of the union: a set,1,14
+html body text table tbody tr td form table tbody tr td blockquote span  ,B =,0,14
+html body text table tbody tr td form table tbody tr td blockquote big span  ,?,0,15
+html body text table tbody tr td form table tbody tr td blockquote span  ,A = { x :,1,14
+html body text table tbody tr td form table tbody tr td blockquote a span  ,?,0,15
+html body text table tbody tr td form table tbody tr td blockquote span  ,y.y?A&x?y }.,0,14
+html body text table tbody tr td form table tbody tr td span  ,B is the set of all,1,13
+html body text table tbody tr td form table tbody tr td a span  ,element,1,14
+html body text table tbody tr td form table tbody tr td span  ,s of elements of A.,1,13
+html body text table tbody tr td form table tbody tr td p span  ,"When A={a,b} is a",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,pair,1,15
+html body text table tbody tr td form table tbody tr td p span  ,(derived e.g. by the,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,axiom of pairing,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"), we use the more common",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,notation,1,15
+html body text table tbody tr td form table tbody tr td p span  ,a?b =,1,14
+html body text table tbody tr td form table tbody tr td p big span  ,?,0,15
+html body text table tbody tr td form table tbody tr td p span  ,A. This notation is also used when a=b.,1,14
+html body text table tbody tr td form table tbody tr td p span  ,"Note, however, that the existence of unions",1,14
+html body text table tbody tr td form table tbody tr td p big span  ,?,0,15
+html body text table tbody tr td form table tbody tr td p span  ,A when A is,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,infinite,1,15
+html body text table tbody tr td form table tbody tr td p span  ,does,1,14
+html body text table tbody tr td form table tbody tr td p em span  ,not,1,15
+html body text table tbody tr td form table tbody tr td p span  ,follow from the existence of unions of such pairs.,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,In particular,1,15
+html body text table tbody tr td form table tbody tr td p span  ,: The,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,cardinality,1,15
+html body text table tbody tr td form table tbody tr td p span  ,of a,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,finite,1,15
+html body text table tbody tr td form table tbody tr td p span  ,union is bounded by the cardinalities of A and of each of the elements of A. But the cardinality of an infinite (even,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,countable,1,15
+html body text table tbody tr td form table tbody tr td p span  ,) union has no such bound. Hence the need for an,1,14
+html body text table tbody tr td form table tbody tr td p em strong a span  ,axiom,1,17
+html body text table tbody tr td form table tbody tr td p span  ,.,1,14
+html body text table tbody tr td form table tbody tr td p span  ,When A is an,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,indexed,1,15
+html body text table tbody tr td form table tbody tr td p span  ,set A = {a,1,14
+html body text table tbody tr td form table tbody tr td p sub span  ,i,0,15
+html body text table tbody tr td form table tbody tr td p span  ,: i?I} for some,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,index,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"set I, notations based on ?",1,14
+html body text table tbody tr td form table tbody tr td p sub span  ,i?I,0,15
+html body text table tbody tr td form table tbody tr td p span  ,a,0,14
+html body text table tbody tr td form table tbody tr td p sub span  ,i,0,15
+html body text table tbody tr td form table tbody tr td p span  ,=,0,14
+html body text table tbody tr td form table tbody tr td p big span  ,?,0,15
+html body text table tbody tr td form table tbody tr td p span  ,"A are common. Thus, we may see",1,14
+html body text table tbody tr td form table tbody tr td blockquote b span  ,N,0,15
+html body text table tbody tr td form table tbody tr td blockquote span  ,=,0,14
+html body text table tbody tr td form table tbody tr td blockquote big span  ,?,0,15
+html body text table tbody tr td form table tbody tr td blockquote sub span  ,n=1,0,15
+html body text table tbody tr td form table tbody tr td blockquote sup span  ,?,0,15
+html body text table tbody tr td form table tbody tr td blockquote span  ,{k?p,0,14
+html body text table tbody tr td form table tbody tr td blockquote sub span  ,n,0,15
+html body text table tbody tr td form table tbody tr td blockquote span  ,": k=1, 2, ...}",1,14
+html body text table tbody tr td form table tbody tr td span  ,where p,1,13
+html body text table tbody tr td form table tbody tr td sub span  ,1,1,14
+html body text table tbody tr td form table tbody tr td span  ,"=2, p",1,13
+html body text table tbody tr td form table tbody tr td sub span  ,2,1,14
+html body text table tbody tr td form table tbody tr td span  ,"=3, p",1,13
+html body text table tbody tr td form table tbody tr td sub span  ,3,1,14
+html body text table tbody tr td form table tbody tr td span  ,"=5, ... is the",1,13
+html body text table tbody tr td form table tbody tr td a span  ,sequence,1,14
+html body text table tbody tr td form table tbody tr td span  ,of,1,13
+html body text table tbody tr td form table tbody tr td a span  ,prime number,1,14
+html body text table tbody tr td form table tbody tr td span  ,s.,1,13
+html body text table tbody tr td form table tbody tr td p span  ,These less,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,formal,1,15
+html body text table tbody tr td form table tbody tr td p span  ,notations are more common in most of,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,mathematics,1,15
+html body text table tbody tr td form table tbody tr td p span  ,.,1,14
+html body text table tbody tr td form table tbody tr td p span  ,"Given a """,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,universal,1,15
+html body text table tbody tr td form table tbody tr td p span  ,""" set in which to take",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,complement,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"s, unions are related to",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,intersection,1,15
+html body text table tbody tr td form table tbody tr td p span  ,s by means of,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,DeMorgan's laws,1,15
+html body text table tbody tr td form table tbody tr td p span  ,.,1,14
+html body text table tbody tr td form table tbody tr td h1 a span  ,C,1,15
+html body text table tbody tr td form table tbody tr td h1 span  ,and,1,14
+html body text table tbody tr td form table tbody tr td h1 a span  ,C++,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"In C and in C++, a",1,14
+html body text table tbody tr td form table tbody tr td p code span  ,union,1,15
+html body text table tbody tr td form table tbody tr td p span  ,is a,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,type,1,15
+html body text table tbody tr td form table tbody tr td p span  ,. The,1,14
+html body text table tbody tr td form table tbody tr td p em a span  ,syntax,1,16
+html body text table tbody tr td form table tbody tr td p span  ,of a union is,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,exactly the same,1,15
+html body text table tbody tr td form table tbody tr td p span  ,as the syntax of a,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,struct,1,15
+html body text table tbody tr td form table tbody tr td p span  ,:,1,14
+html body text table tbody tr td form table tbody tr td blockquote pre span  ,union U { char * a_string; int an_integer; double a_number;};,1,15
+html body text table tbody tr td form table tbody tr td span  ,defines a union,1,13
+html body text table tbody tr td form table tbody tr td code span  ,U,1,14
+html body text table tbody tr td form table tbody tr td span  ,with 3,1,13
+html body text table tbody tr td form table tbody tr td a span  ,field,1,14
+html body text table tbody tr td form table tbody tr td span  ,"s. However, unions are limited in such a way as to allow",1,13
+html body text table tbody tr td form table tbody tr td a span  ,access,1,14
+html body text table tbody tr td form table tbody tr td span  ,to,1,13
+html body text table tbody tr td form table tbody tr td a span  ,only one,1,14
+html body text table tbody tr td form table tbody tr td span  ,field at a,1,13
+html body text table tbody tr td form table tbody tr td a span  ,time,1,14
+html body text table tbody tr td form table tbody tr td span  ,.,1,13
+html body text table tbody tr td form table tbody tr td h2 span  ,Defined behaviour,1,14
+html body text table tbody tr td form table tbody tr td p span  ,The,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,informal,1,15
+html body text table tbody tr td form table tbody tr td p span  ,rule is that a union holds all fields,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,overlap,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,ping,1,15
+html body text table tbody tr td form table tbody tr td p span  ,in,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,memory,1,15
+html body text table tbody tr td form table tbody tr td p span  ,. The,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,formal,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,rule,1,15
+html body text table tbody tr td form table tbody tr td p span  ,s are more,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,complex,1,15
+html body text table tbody tr td form table tbody tr td p span  ,", but amount to",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,the same thing,1,15
+html body text table tbody tr td form table tbody tr td p span  ,:,1,14
+html body text table tbody tr td form table tbody tr td ul li span  ,A pointer to the union can be converted into a,1,15
+html body text table tbody tr td form table tbody tr td ul li a span  ,pointer,1,16
+html body text table tbody tr td form table tbody tr td ul li span  ,to the,1,15
+html body text table tbody tr td form table tbody tr td ul li a span  ,type,1,16
+html body text table tbody tr td form table tbody tr td ul li span  ,of any of the fields (,1,15
+html body text table tbody tr td form table tbody tr td ul li a span  ,in particular,1,16
+html body text table tbody tr td form table tbody tr td ul li span  ,", it has the correct",1,15
+html body text table tbody tr td form table tbody tr td ul li a span  ,alignment,1,16
+html body text table tbody tr td form table tbody tr td ul li span  ,for each of these types);,1,15
+html body text table tbody tr td form table tbody tr td ul li span  ,Reading any but the last-written field of the union yields,1,15
+html body text table tbody tr td form table tbody tr td ul li a span  ,undefined behaviour,1,16
+html body text table tbody tr td form table tbody tr td ul li span  ,;,1,15
+html body text table tbody tr td form table tbody tr td ul li span  ,The,1,15
+html body text table tbody tr td form table tbody tr td ul li a span  ,sizeof,1,16
+html body text table tbody tr td form table tbody tr td ul li span  ,the union is the largest of the sizeofs each of the members.,1,15
+html body text table tbody tr td form table tbody tr td span  ,"As usual,",1,13
+html body text table tbody tr td form table tbody tr td a span  ,standardese,1,14
+html body text table tbody tr td form table tbody tr td span  ,"prohibits the use of words such as ""memory"", or indeed any mention of",1,13
+html body text table tbody tr td form table tbody tr td a span  ,implementation,1,14
+html body text table tbody tr td form table tbody tr td span  ,. But we all know what they mean.,1,13
+html body text table tbody tr td form table tbody tr td p span  ,Since no,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,portable,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,conversion,1,15
+html body text table tbody tr td form table tbody tr td p span  ,s exist in such a,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,configuration,1,15
+html body text table tbody tr td form table tbody tr td p span  ,", standard C unions are",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,limited,1,15
+html body text table tbody tr td form table tbody tr td p span  ,to,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,expressing,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"just the """,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,variant,1,15
+html body text table tbody tr td form table tbody tr td p span  ,""" part of",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Pascal,1,15
+html body text table tbody tr td form table tbody tr td p span  ,'s,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,variant record,1,15
+html body text table tbody tr td form table tbody tr td p span  ,s. C has,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,no notion,1,15
+html body text table tbody tr td form table tbody tr td p span  ,of the,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,type member,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"; if YOU want to know the type currently stored in a union, YOU have to make sure you know what it is. One way to do this could be to say",1,14
+html body text table tbody tr td form table tbody tr td blockquote pre a span  ,struct,1,16
+html body text table tbody tr td form table tbody tr td blockquote pre span  ,"variant { enum {e_pchar, e_int, e_double} type; union U value;};",1,15
+html body text table tbody tr td form table tbody tr td span  ,and use the,1,13
+html body text table tbody tr td form table tbody tr td code span  ,type,1,14
+html body text table tbody tr td form table tbody tr td span  ,field to,1,13
+html body text table tbody tr td form table tbody tr td a span  ,keep track,1,14
+html body text table tbody tr td form table tbody tr td span  ,of the type of the last stored data.,1,13
+html body text table tbody tr td form table tbody tr td p span  ,But C doesn't force you to do it this way. Your program might store types differently. For instance:,1,14
+html body text table tbody tr td form table tbody tr td blockquote pre span  ,"struct leaf { /* ... */ };struct node { /* ... */ };struct tree { struct tree *left, *right;",1,15
+html body text table tbody tr td form table tbody tr td blockquote pre a span  ,/*,1,16
+html body text table tbody tr td form table tbody tr td blockquote pre span  ,left and right subtrees */ union { struct leaf a_leaf; /* If (!left),1,15
+html body text table tbody tr td form table tbody tr td blockquote pre a span  ,&&,0,16
+html body text table tbody tr td form table tbody tr td blockquote pre span  ,(!right) */ struct node a_node; /* Otherwise */ } data;};,1,15
+html body text table tbody tr td form table tbody tr td span  ,could be one way to define a tree.,1,13
+html body text table tbody tr td form table tbody tr td h2 span  ,Undefined Behaviour,1,14
+html body text table tbody tr td form table tbody tr td p span  ,Once,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,compiler,1,15
+html body text table tbody tr td form table tbody tr td p span  ,-,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,specific,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,feature,1,15
+html body text table tbody tr td form table tbody tr td p span  ,s are,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,taken into account,1,15
+html body text table tbody tr td form table tbody tr td p span  ,", unions naturally become more flexible: you can taken advantage of specific knowledge of",1,14
+html body text table tbody tr td form table tbody tr td p em span  ,what,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"the ""undefined behaviour"" of reading from a ""wrong"" member will do. For instance, the standard",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,assign,1,15
+html body text table tbody tr td form table tbody tr td p span  ,s no meaning to this code:,1,14
+html body text table tbody tr td form table tbody tr td blockquote pre span  ,union address_convert { void *ptr; long addr;};,1,15
+html body text table tbody tr td form table tbody tr td blockquote pre a span  ,void *,1,16
+html body text table tbody tr td form table tbody tr td blockquote pre span  ,convert(long addr){ union address_convert cvt; cvt.addr = addr;,1,15
+html body text table tbody tr td form table tbody tr td blockquote pre a span  ,return,1,16
+html body text table tbody tr td form table tbody tr td blockquote pre span  ,cvt.ptr;},1,15
+html body text table tbody tr td form table tbody tr td span  ,"It invokes undefined behaviour. However, a particular implementation MAY specify that such code will work ""correctly"". This would involve ensuring that",1,13
+html body text table tbody tr td form table tbody tr td a span  ,long,1,14
+html body text table tbody tr td form table tbody tr td span  ,s and,1,13
+html body text table tbody tr td form table tbody tr td a span  ,void pointer,1,14
+html body text table tbody tr td form table tbody tr td span  ,s have appropriate,1,13
+html body text table tbody tr td form table tbody tr td a span  ,size,1,14
+html body text table tbody tr td form table tbody tr td span  ,"s, and that the ""correct"" conversion does indeed occur.",1,13
+html body text table tbody tr td form table tbody tr td p span  ,"For such purposes too, unions are a very practicable way for",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,implementation-specific,1,15
+html body text table tbody tr td form table tbody tr td p span  ,code to achieve certain behaviours.,1,14
+html body text table tbody tr td form table tbody tr td h1 span  ,The,1,14
+html body text table tbody tr td form table tbody tr td h1 a span  ,connection,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"There isn't really one, except that the",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,English,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,language,1,15
+html body text table tbody tr td form table tbody tr td p span  ,provides the same word for both. The C,1,14
+html body text table tbody tr td form table tbody tr td p code span  ,union { A a; B b; };,1,15
+html body text table tbody tr td form table tbody tr td p span  ,can store all values of the,1,14
+html body text table tbody tr td form table tbody tr td p a em span  ,disjoint,1,16
+html body text table tbody tr td form table tbody tr td p a span  ,union,1,15
+html body text table tbody tr td form table tbody tr td p span  ,A?B. But it relies on,1,14
+html body text table tbody tr td form table tbody tr td p em a span  ,label,1,16
+html body text table tbody tr td form table tbody tr td p em span  ,ed,1,15
+html body text table tbody tr td form table tbody tr td p span  ,values (you can store in either of the fields,1,14
+html body text table tbody tr td form table tbody tr td p code span  ,.a,1,15
+html body text table tbody tr td form table tbody tr td p span  ,and,1,14
+html body text table tbody tr td form table tbody tr td p code span  ,.b,1,15
+html body text table tbody tr td form table tbody tr td p span  ,", and you must specify which one you mean). And if",1,14
+html body text table tbody tr td form table tbody tr td p code span  ,A,1,15
+html body text table tbody tr td form table tbody tr td p span  ,and,1,14
+html body text table tbody tr td form table tbody tr td p code span  ,B,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"refer to the same type, the distinction is even more",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,pronounce,1,15
+html body text table tbody tr td form table tbody tr td p span  ,d.,1,14
+html body text table tbody tr td form table tbody tr td p span  ,C unions better fit (one of) the,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,semantics,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"commonly ascribed to ""A ``square cup'' B"", which isn't really a union in the mathematical sense.",1,14
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,(,0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,definition,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,) by,1,17
+html body text table tbody tr td form table tbody tr td table tbody tr td strong a span  ,Webster 1913,1,19
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,(,0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,print,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,),0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,1,0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td strong span  ,C!,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td small span  ,Wed Dec 22 1999 at 4:08:07,0,18
+html body text table tbody tr td form table tbody tr td p b span  ,"Un""ion",1,15
+html body text table tbody tr td form table tbody tr td p span  ,"[F., from L.",1,14
+html body text table tbody tr td form table tbody tr td p i span  ,unio,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"oneness, union, a single large pearl, a kind of onion, fr.",1,14
+html body text table tbody tr td form table tbody tr td p i span  ,unus,1,15
+html body text table tbody tr td form table tbody tr td p span  ,one. See,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,One,1,15
+html body text table tbody tr td form table tbody tr td p span  ,", and cf.",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Onion,1,15
+html body text table tbody tr td form table tbody tr td p span  ,",",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Unit,1,15
+html body text table tbody tr td form table tbody tr td p span  ,.],1,14
+html body text table tbody tr td form table tbody tr td p b span  ,1.,0,15
+html body text table tbody tr td form table tbody tr td p span  ,"The act of uniting or joining two or more things into one, or the state of being united or joined; junction; coalition; combination.",1,14
+html body text table tbody tr td form table tbody tr td p i span  ,Union,1,15
+html body text table tbody tr td form table tbody tr td p span  ,differs from,1,14
+html body text table tbody tr td form table tbody tr td p i span  ,connection,1,15
+html body text table tbody tr td form table tbody tr td p span  ,", as it implies that the bodies are in contact, without an interening body; whereas things may be",1,14
+html body text table tbody tr td form table tbody tr td p i span  ,connected,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"by the invention of a third body, as by a cord or chain.",1,14
+html body text table tbody tr td form table tbody tr td p b span  ,2.,0,15
+html body text table tbody tr td form table tbody tr td p span  ,"Agreement and conjunction of mind, spirit, will, affections, or the like; harmony; concord.",1,14
+html body text table tbody tr td form table tbody tr td p b span  ,3.,0,15
+html body text table tbody tr td form table tbody tr td p span  ,"That which is united, or made one; something formed by a combination or coalition of parts or members; a confederation; a consolidated body; a league; as, the weavers have formed a",1,14
+html body text table tbody tr td form table tbody tr td p b span  ,union,1,15
+html body text table tbody tr td form table tbody tr td p span  ,; trades,1,14
+html body text table tbody tr td form table tbody tr td p b span  ,unions,1,15
+html body text table tbody tr td form table tbody tr td p span  ,have become very numerous; the United States of America are often called the,1,14
+html body text table tbody tr td form table tbody tr td p b span  ,Union,1,15
+html body text table tbody tr td form table tbody tr td p span  ,.,1,14
+html body text table tbody tr td form table tbody tr td p i span  ,A. Hamilton.,1,15
+html body text table tbody tr td form table tbody tr td p b span  ,4.,0,15
+html body text table tbody tr td form table tbody tr td p span  ,"A textile fabric composed of two or more materials, as cotton, silk, wool, etc., woven together.",1,14
+html body text table tbody tr td form table tbody tr td p b span  ,5.,0,15
+html body text table tbody tr td form table tbody tr td p span  ,"A large, fine pearl.",1,14
+html body text table tbody tr td form table tbody tr td span  ,[Obs.],1,13
+html body text table tbody tr td form table tbody tr td blockquote span  ,"If they [pearls] be white, great, round, smooth, and weighty . . . our dainties and delicates here at Rome . . . call them",1,14
+html body text table tbody tr td form table tbody tr td blockquote b span  ,unions,1,15
+html body text table tbody tr td form table tbody tr td blockquote span  ,", as a man would say ""singular,"" and by themselves alone.",1,14
+html body text table tbody tr td form table tbody tr td blockquote i span  ,Holland.,1,15
+html body text table tbody tr td form table tbody tr td blockquote span  ,In the cup an,1,14
+html body text table tbody tr td form table tbody tr td blockquote b span  ,union,1,15
+html body text table tbody tr td form table tbody tr td blockquote span  ,"shall he throw,Richer than that which four successive kingsIn Denmark's crown have worn.",1,14
+html body text table tbody tr td form table tbody tr td blockquote i span  ,Shak.,1,15
+html body text table tbody tr td form table tbody tr td p b span  ,6.,0,15
+html body text table tbody tr td form table tbody tr td p span  ,"A device emblematic of union, used on a national flag or ensign, sometimes, as in the military standard of Great Britain, covering the whole field; sometimes, as in the flag of the United States, and the English naval and marine flag, occupying the upper inner corner, the rest of the flag being called the",1,14
+html body text table tbody tr td form table tbody tr td p i span  ,fly,1,15
+html body text table tbody tr td form table tbody tr td p span  ,". Also, a flag having such a device; especially, the flag of Great Britain.",1,14
+html body text table tbody tr td form table tbody tr td p span  ,? The,1,14
+html body text table tbody tr td form table tbody tr td p i span  ,union,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"of the United States ensign is a cluster of white stars, denoting the union of the States, and, properly, equal in number to that of the States, displayed on a blue field; the",1,14
+html body text table tbody tr td form table tbody tr td p i span  ,fly,1,15
+html body text table tbody tr td form table tbody tr td p span  ,being composed of alternate stripes of red and white. The,1,14
+html body text table tbody tr td form table tbody tr td p i span  ,union,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"of the British ensign is the three crosses of St. George, St. Andrew, and St. Patrick in combination, denoting the union of England, Scotland and Ireland, displayed on a blue field in the national banner used on shore, on a red, white, or blue field in naval ensigns, and with a white border or",1,14
+html body text table tbody tr td form table tbody tr td p i span  ,fly,1,15
+html body text table tbody tr td form table tbody tr td p span  ,in the merchant service.,1,14
+html body text table tbody tr td form table tbody tr td p b span  ,7.,0,15
+html body text table tbody tr td form table tbody tr td p span  ,Mach.,1,14
+html body text table tbody tr td form table tbody tr td p span  ,"A joint or other connection uniting parts of machinery, or the like, as the elastic pipe of a tender connecting it with the feed pipe of a locomotive engine; especially, a pipe fitting for connecting pipes, or pipes and fittings, in such a way as to facilitate disconnection.",1,14
+html body text table tbody tr td form table tbody tr td p b span  ,8.,0,15
+html body text table tbody tr td form table tbody tr td p span  ,Brewing,1,14
+html body text table tbody tr td form table tbody tr td p span  ,"A cask suspended on trunnions, in which fermentation is carried on.",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Hypostatic union,1,15
+html body text table tbody tr td form table tbody tr td p span  ,Theol. See under,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Hypostatic,1,15
+html body text table tbody tr td form table tbody tr td p span  ,. --,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Latin union,1,15
+html body text table tbody tr td form table tbody tr td p span  ,. See under,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Latin,1,15
+html body text table tbody tr td form table tbody tr td p span  ,. --,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Legislative Union,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,Eng.,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,Hist.,1,15
+html body text table tbody tr td form table tbody tr td p span  ,", the union of Great Britain and Ireland, which took place Jan. 1, 1801. --",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Union,1,15
+html body text table tbody tr td form table tbody tr td p span  ,", ?",0,14
+html body text table tbody tr td form table tbody tr td p a span  ,Act of Union,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,Eng.,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,Hist.,1,15
+html body text table tbody tr td form table tbody tr td p span  ,", the act by which Scotland was united to England, or by which the two kingdoms were incorporated into one, in 1707. --",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Union by the first,1,15
+html body text table tbody tr td form table tbody tr td p span  ,", ?",0,14
+html body text table tbody tr td form table tbody tr td p a span  ,second,1,15
+html body text table tbody tr td form table tbody tr td p span  ,",",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,intention,1,15
+html body text table tbody tr td form table tbody tr td p span  ,. Surg. See,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,"To heal by the first, ? second, intention",1,15
+html body text table tbody tr td form table tbody tr td p span  ,", under",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Intention,1,15
+html body text table tbody tr td form table tbody tr td p span  ,. --,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Union down,1,15
+html body text table tbody tr td form table tbody tr td p a span  ,Naut.,1,15
+html body text table tbody tr td form table tbody tr td p span  ,", a signal of distress at sea made by reversing the flag, or turning its union downward. --",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Union jack,1,15
+html body text table tbody tr td form table tbody tr td p span  ,.,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Naut.,1,15
+html body text table tbody tr td form table tbody tr td p span  ,See,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Jack,1,15
+html body text table tbody tr td form table tbody tr td p span  ,", n., 10. --",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Union joint,1,15
+html body text table tbody tr td form table tbody tr td p span  ,.,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Mech.,1,15
+html body text table tbody tr td form table tbody tr td p span  ,(a) A joint formed by means of a union. (b) A piece of pipe made in the form of the letter T.,1,14
+html body text table tbody tr td form table tbody tr td p span  ,Syn. -- Unity; junction; connection; concord; alliance; coalition; combination; confederacy. --,1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Union,1,15
+html body text table tbody tr td form table tbody tr td p span  ,",",1,14
+html body text table tbody tr td form table tbody tr td p a span  ,Unity,1,15
+html body text table tbody tr td form table tbody tr td p span  ,.,1,14
+html body text table tbody tr td form table tbody tr td p i span  ,Union,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"is the act of bringing two or more things together so as to make but one, or the state of being united into one.",1,14
+html body text table tbody tr td form table tbody tr td p i span  ,Unity,1,15
+html body text table tbody tr td form table tbody tr td p span  ,is a state of simple,1,14
+html body text table tbody tr td form table tbody tr td p i span  ,oneness,1,15
+html body text table tbody tr td form table tbody tr td p span  ,", either of essence, as the",1,14
+html body text table tbody tr td form table tbody tr td p i span  ,unity,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"of God, or of action, feeling, etc., as",1,14
+html body text table tbody tr td form table tbody tr td p i span  ,unity,1,15
+html body text table tbody tr td form table tbody tr td p span  ,"of design, of affection, etc. Thus, we may speak of effecting a",1,14
+html body text table tbody tr td form table tbody tr td p i span  ,union,1,15
+html body text table tbody tr td form table tbody tr td p span  ,of interests which shall result in a,1,14
+html body text table tbody tr td form table tbody tr td p i span  ,unity,1,15
+html body text table tbody tr td form table tbody tr td p span  ,of labor and interest in securing a given object.,1,14
+html body text table tbody tr td form table tbody tr td blockquote span  ,"One kingdom, joy, and",1,14
+html body text table tbody tr td form table tbody tr td blockquote b span  ,union,1,15
+html body text table tbody tr td form table tbody tr td blockquote span  ,without end.,1,14
+html body text table tbody tr td form table tbody tr td blockquote i span  ,Milton.,1,15
+html body text table tbody tr td form table tbody tr td blockquote span  ,"[Man] is to . . . begetLike of his like, his image multiplied.In",1,14
+html body text table tbody tr td form table tbody tr td blockquote b span  ,unity,1,15
+html body text table tbody tr td form table tbody tr td blockquote span  ,"defective; which requiresCollateral love, and dearest amity.",1,14
+html body text table tbody tr td form table tbody tr td blockquote i span  ,Milton.,1,15
+html body text table tbody tr td form table tbody tr td p span  ,Â©,0,14
+html body text table tbody tr td form table tbody tr td p a span  ,Webster 1913,0,15
+html body text table tbody tr td form table tbody tr td p span  ,.,0,14
+html body text table tbody tr td form p font a span  ,printable version,0,12
+html body text table tbody tr td form p font a span  ,chaos,0,12
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,Labor Union,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,Trade union,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,intersection,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,The Marriage of Pingouin and Knifegirl,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,struct,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,unionize,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,"How can a thinking, rational adult be a monotheist?",0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,There is Power in a Union,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,National Labor Relations Act,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,Civil War,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,Put your head down and your ass in the air,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,"Damn the torpedoes, full speed ahead!",0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,We Shall Overcome,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,Preamble to the IWW Constitution,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,Is the Confederacy part of the Union?,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,The Union,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,&cup;,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,Declaration of Southern Independence,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,God Save the Flag,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,Howard Lyman,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,SQL optimization,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,Generous Motors,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,An American Trilogy,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,Finite Plane,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,"Y'know, if you",0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,login,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,", you can write something here. You can also",0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,Create a New User,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,if you don't already have an account.,0,17
+html body text table tbody tr td table tbody tr td span table tbody tr td font span  ,Login:,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td font span  ,Password,0,18
+html body text table tbody tr td table tbody tr td span font span  ,remember me,0,14
+html body text table tbody tr td table tbody tr td span font a span  ,password reminder,0,15
+html body text table tbody tr td table tbody tr td span font a span  ,Create a New User,0,15
+html body text table tbody tr td table tbody tr td span font a span  ,Random Node,0,15
+html body text table tbody tr td table tbody tr td span font a span  ,Create a Node,0,15
+html body text table tbody tr td table tbody tr td span font span  ,[,0,14
+html body text table tbody tr td table tbody tr td span font tt span  ,*,0,15
+html body text table tbody tr td table tbody tr td span font span  ,],0,14
+html body text table tbody tr td table tbody tr td span font strong span  ,Read Em or Weep,0,15
+html body text table tbody tr td table tbody tr td span font strong a span  ,Getting Started,0,16
+html body text table tbody tr td table tbody tr td span font a span  ,Quick Start,0,15
+html body text table tbody tr td table tbody tr td span font a span  ,Everything FAQ,0,15
+html body text table tbody tr td table tbody tr td span font a span  ,Everything University,0,15
+html body text table tbody tr td table tbody tr td span font a span  ,Voting/Experience System,0,15
+html body text table tbody tr td table tbody tr td span font a span  ,E2 Mentoring Sign-Up,0,15
+html body text table tbody tr td table tbody tr td span em span  ,Drink up!,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Rhythming,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Underwork,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Chav,0,14
+html body text table tbody tr td table tbody tr td span a span  ,"Dream Log: July 27, 2002",0,14
+html body text table tbody tr td table tbody tr td span a span  ,Differential Sail,0,14
+html body text table tbody tr td table tbody tr td span a span  ,River Raid II,0,14
+html body text table tbody tr td table tbody tr td span a span  ,carnal tunnel syndrome,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Battle of Sholingarh,0,14
+html body text table tbody tr td table tbody tr td span a span  ,"December 8, 2003",0,14
+html body text table tbody tr td table tbody tr td span a span  ,Dr. Fredric Wertham,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Brontotherium,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Four Stiff Standers,0,14
+html body text table tbody tr td table tbody tr td span table tbody tr td strong a span  ,Angela,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td a span  ,Chartres,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,(,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small a span  ,place,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,),0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td strong a span  ,eruhgon,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td a span  ,True Metal,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,(,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small a span  ,idea,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,),0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td strong a span  ,eruhgon,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td a span  ,Hammerfall,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,(,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small a span  ,person,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,),0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td strong a span  ,too_fast_to_live,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td a span  ,Dungeons and Palm Trees,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,(,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small a span  ,idea,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,),0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td strong a span  ,smartalix,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td a span  ,Convergence,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,(,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small a span  ,thing,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,),0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td strong a span  ,Tem42,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td a span  ,houseboy,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,(,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small a span  ,person,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,),0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td strong a span  ,vidwan,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td a span  ,schistosomiasis,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,(,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small a span  ,thing,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,),0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td strong a span  ,Alcahest,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td a span  ,2+2=5,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,(,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small a span  ,idea,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,),0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td strong a span  ,ElectricDiptych,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td a span  ,mental floss,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,(,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small a span  ,idea,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,),0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td strong a span  ,TheLady,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td a span  ,The Clash of Civilizations between the West and Islam,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,(,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small a span  ,idea,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,),0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td strong a span  ,Tem42,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td a span  ,Tuya,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,(,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small a span  ,thing,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,),0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td strong a span  ,Apollyon,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td a span  ,Santa Visits Africa,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,(,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small a span  ,idea,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,),0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td strong a span  ,The Custodian,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td a span  ,"And her legs went on forever, like staring up at infinity",0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,(,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small a span  ,person,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,),0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td strong a span  ,lovejoyman,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td a span  ,Clement Moore,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,(,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small a span  ,person,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,),0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td strong a span  ,Chras4,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td a span  ,"and when you woke up, your goldfish bowl was empty?",0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,(,0,18
+html body text table tbody tr td table tbody tr td span table tbody tr td small a span  ,idea,0,19
+html body text table tbody tr td table tbody tr td span table tbody tr td small span  ,),0,18
+html body text table tbody tr td table tbody tr td span span  ,[,0,13
+html body text table tbody tr td table tbody tr td span tt span  ,*,0,14
+html body text table tbody tr td table tbody tr td span span  ,],0,13
+html body text table tbody tr td table tbody tr td span strong span  ,Maintenance,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Node Title Edit,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Broken Writeups,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Writeup Deletion Request,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Nodeshell Deletion Request,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Node Heaven,0,14
+html body text table tbody tr td table tbody tr td span a span  ,E2 Bugs,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Suggestions for E2,0,14
+html body text table tbody tr td table tbody tr td span span  ,[,0,13
+html body text table tbody tr td table tbody tr td span tt span  ,*,0,14
+html body text table tbody tr td table tbody tr td span span  ,],0,13
+html body text table tbody tr td table tbody tr td span strong span  ,Noding Information,0,14
+html body text table tbody tr td table tbody tr td span a span  ,E2 HTML Tags,0,14
+html body text table tbody tr td table tbody tr td span a span  ,HTML symbol reference,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Using Unicode on E2,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Reference Desk,0,14
+html body text table tbody tr td table tbody tr td span span  ,[,0,13
+html body text table tbody tr td table tbody tr td span tt span  ,*,0,14
+html body text table tbody tr td table tbody tr td span span  ,],0,13
+html body text table tbody tr td table tbody tr td span strong span  ,Noding Utilities,0,14
+html body text table tbody tr td table tbody tr td span a span  ,E2 Scratch Pad,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Scratch Pad Viewer,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Source Code Formatter,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Text Formatter,0,14
+html body text table tbody tr td table tbody tr td span span  ,[,0,13
+html body text table tbody tr td table tbody tr td span tt span  ,*,0,14
+html body text table tbody tr td table tbody tr td span span  ,],0,13
+html body text table tbody tr td table tbody tr td span strong span  ,Lists,0,14
+html body text table tbody tr td table tbody tr td span a span  ,100 Newest Writeups,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Cool Archive,0,14
+html body text table tbody tr td table tbody tr td span small span  ,(C! writeups),0,14
+html body text table tbody tr td table tbody tr td span a span  ,Page of Cool,0,14
+html body text table tbody tr td table tbody tr td span small span  ,(Editor Picks),0,14
+html body text table tbody tr td table tbody tr td span a span  ,A Year Ago Today,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Everything Finger,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Everything User Search,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Old News,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Everything's Most Wanted,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Your nodeshells,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Your filled nodeshells,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Random nodeshells,0,14
+html body text table tbody tr td table tbody tr td span span  ,[,0,13
+html body text table tbody tr td table tbody tr td span tt span  ,*,0,14
+html body text table tbody tr td table tbody tr td span span  ,],0,13
+html body text table tbody tr td table tbody tr td span strong span  ,Miscellaneous,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Voting/Experience System,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Message Inbox,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Java Chatterbox,0,14
+html body text table tbody tr td table tbody tr td span a span  ,chatterlight,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Gab Central,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Everything User Poll,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Everything Quote Server,0,14
+html body text table tbody tr td table tbody tr td span a span  ,Donation Box,0,14
+html body text table tbody tr td table tbody tr td span a span  ,E2 Merchandise,0,14
+html body text table tbody tr td table tbody tr td span span  ,You must log in first.,0,13
+html body text table tbody tr td span  ,E2 is a by-product of the existence of,0,8
+html body text table tbody tr td a span  ,The Everything Development Company,0,9
+html body text div a span  ,give money,0,6
+html body text div a span  ,give me something for my money,0,6
+html body text div span  ,Please report server problems to e2webmaster at everything2.com,0,5

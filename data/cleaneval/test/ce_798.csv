@@ -1,0 +1,332 @@
+tag,content,label,depth
+html body text div div div div div span  ,Hello,0,9
+html body text div div div div div a span  ,Change Preferences,0,10
+html body text div div div div div span  ,|,0,9
+html body text div div div div div a span  ,Sign Out,0,10
+html body text div div div div div b a span  ,Sign In,0,11
+html body text div div div div div span  ,|,0,9
+html body text div div div div div a span  ,Register Now,0,10
+html body text div div div a span  ,Print Edition,0,8
+html body text div div div span  ,|,0,7
+html body text div div div a span  ,Subscribe,0,8
+html body text div div div table tbody tr td a span  ,Politics,0,12
+html body text div div div table tbody tr td a span  ,Business,0,12
+html body text div div div table tbody tr td a span  ,Education,0,12
+html body text div div div table tbody tr td a nobr span  ,Real Estate,0,13
+html body text div div div table tbody tr td a span  ,Nation,0,12
+html body text div div div table tbody tr td a span  ,Technology,0,12
+html body text div div div table tbody tr td a span  ,KidsPost,0,12
+html body text div div div table tbody tr td a span  ,Obituaries,0,12
+html body text div div div table tbody tr td a span  ,World,0,12
+html body text div div div table tbody tr td a span  ,Entertainment,0,12
+html body text div div div table tbody tr td a span  ,Religion,0,12
+html body text div div div table tbody tr td a span  ,Corrections,0,12
+html body text div div div table tbody tr td a span  ,Metro,0,12
+html body text div div div table tbody tr td a span  ,Health,0,12
+html body text div div div table tbody tr td a nobr span  ,Post Magazine,0,13
+html body text div div div table tbody tr td a span  ,Archives,0,12
+html body text div div div table tbody tr td a nobr span  ,Politics Blog,0,13
+html body text div div div table tbody tr td a span  ,Congress,0,12
+html body text div div div table tbody tr td a span  ,Polls,0,12
+html body text div div div table tbody tr td a span  ,Elections,0,12
+html body text div div div table tbody tr td a nobr span  ,House/Senate Votes,0,13
+html body text div div div table tbody tr td a nobr span  ,Federal Page,0,13
+html body text div div div table tbody tr td a nobr span  ,Key Races,0,13
+html body text div div div table tbody tr td a nobr span  ,White House,0,13
+html body text div div div table tbody tr td a nobr span  ,In Depth,0,13
+html body text div div div table tbody tr td a span  ,Columns & Blogs,0,12
+html body text div div div table tbody tr td a span  ,Feedback,0,12
+html body text div div div table tbody tr td a span  ,Cartoons & Videos,0,12
+html body text div div div table tbody tr td a span  ,Outlook,0,12
+html body text div div div table tbody tr td a span  ,Editorials,0,12
+html body text div div div table tbody tr td a nobr span  ,Message Boards,0,13
+html body text div div div table tbody tr td a span  ,Redskins,0,12
+html body text div div div table tbody tr td a nobr span  ,D.C. United,0,13
+html body text div div div table tbody tr td a nobr span  ,Columns/Blogs,0,13
+html body text div div div table tbody tr td a span  ,NBA,0,12
+html body text div div div table tbody tr td a span  ,Nationals,0,12
+html body text div div div table tbody tr td a span  ,Capitals,0,12
+html body text div div div table tbody tr td a nobr span  ,College Football,0,13
+html body text div div div table tbody tr td a span  ,NHL,0,12
+html body text div div div table tbody tr td a span  ,Wizards,0,12
+html body text div div div table tbody tr td a nobr span  ,High Schools,0,13
+html body text div div div table tbody tr td a nobr span  ,Local Colleges,0,13
+html body text div div div table tbody tr td a span  ,NFL,0,12
+html body text div div div table tbody tr td a span  ,Style,0,12
+html body text div div div table tbody tr td a span  ,Movies,0,12
+html body text div div div table tbody tr td a span  ,Travel,0,12
+html body text div div div table tbody tr td a nobr span  ,Fashion & Beauty,0,13
+html body text div div div table tbody tr td a span  ,Horoscopes,0,12
+html body text div div div table tbody tr td a nobr span  ,City Guide,0,13
+html body text div div div table tbody tr td a span  ,Television,0,12
+html body text div div div table tbody tr td a span  ,Books,0,12
+html body text div div div table tbody tr td a nobr span  ,Home & Garden,0,13
+html body text div div div table tbody tr td a span  ,Comics,0,12
+html body text div div div table tbody tr td a nobr span  ,Entertainment News,0,13
+html body text div div div table tbody tr td a nobr span  ,Food & Dining,0,13
+html body text div div div table tbody tr td a span  ,Museums,0,12
+html body text div div div table tbody tr td a nobr span  ,Theater & Dance,0,13
+html body text div div div table tbody tr td a span  ,Crosswords,0,12
+html body text div div div table tbody tr td a span  ,Ad: Click here for Travel Specials & Deals,0,12
+html body text div div div table tbody tr td span  ,"Tues., Jan. 2, All Times ET",0,11
+html body text div div div table tbody tr td a nobr span  ,"K Street, 1",0,13
+html body text div div div table tbody tr td a nobr span  ,"NFL Insider, 11",0,13
+html body text div div div table tbody tr td a nobr span  ,Today's Schedule,0,13
+html body text div div div table tbody tr td a nobr span  ,"Life at Work, 11",0,13
+html body text div div div table tbody tr td a nobr span  ,"Post Politics, 11",0,13
+html body text div div div table tbody tr td a nobr span  ,Weekly Schedule,0,13
+html body text div div div table tbody tr td a nobr span  ,"Media Backtalk, 12",0,13
+html body text div div div table tbody tr td a nobr span  ,"Opinion, 1",0,13
+html body text div div div table tbody tr td a nobr span  ,Transcripts,0,13
+html body text div div div table tbody tr td a nobr span  ,Multimedia: Being A Black Man,0,13
+html body text div div div table tbody tr td a nobr span  ,Day in Photos,0,13
+html body text div div div table tbody tr td a nobr span  ,Photos: Eye On Entertainment,0,13
+html body text div div div table tbody tr td a nobr span  ,News Video,0,13
+html body text div div div table tbody tr td a nobr span  ,Videos: A Living HIV Quilt,0,13
+html body text div div div table tbody tr td a nobr span  ,Documentary Video,0,13
+html body text div div div table tbody tr td a span  ,Search D.C.-area events and locations.,0,12
+html body text div div div table tbody tr td a span  ,"Find movies, restaurants, bars and clubs.",0,12
+html body text div div div table tbody tr td a span  ,Merchandise,0,12
+html body text div div div table tbody tr td a span  ,Pets,0,12
+html body text div div div table tbody tr td a span  ,Death Notices,0,12
+html body text div div div table tbody tr td a span  ,Personals,0,12
+html body text div div div table tbody tr td a span  ,Rentals,0,12
+html body text div div div table tbody tr td a nobr span  ,Legal Notices,0,13
+html body text div div div table tbody tr td a nobr span  ,Find a Job,0,13
+html body text div div div table tbody tr td a nobr span  ,Post a Job,0,13
+html body text div div div table tbody tr td a nobr span  ,News & Advice,0,13
+html body text div div div table tbody tr td a nobr span  ,Employer Login,0,13
+html body text div div div table tbody tr td a nobr span  ,Buy a Car,0,13
+html body text div div div table tbody tr td a nobr span  ,Experts & Advice,0,13
+html body text div div div table tbody tr td a nobr span  ,Dealer Specials,0,13
+html body text div div div table tbody tr td a nobr span  ,Sell a Car,0,13
+html body text div div div table tbody tr td a span  ,Coupons,0,12
+html body text div div div table tbody tr td a nobr span  ,Buy a Home,0,13
+html body text div div div table tbody tr td a nobr span  ,Sell a Home,0,13
+html body text div div div table tbody tr td a nobr span  ,Property Values,0,13
+html body text div div div table tbody tr td a nobr span  ,Find a Rental,0,13
+html body text div div div table tbody tr td a nobr span  ,Rent Your Place,0,13
+html body text div div div table tbody tr td a nobr span  ,Rentals Section,0,13
+html body text div div div div span  ,SEARCH:,0,8
+html body text div div div form div span  ,washingtonpost.com,0,9
+html body text div div div form div span  ,Web,0,9
+html body text div div div div span span  ,|,0,9
+html body text div div div div a span  ,Search Archives,0,9
+html body text div div span a span  ,washingtonpost.com,0,8
+html body text div div span span  ,>,0,7
+html body text div div span a span  ,Politics,0,8
+html body text div div span span  ,>,0,7
+html body text div div span a span  ,Elections,0,8
+html body text div div span span  ,>,0,7
+html body text div div span a span  ,2004 Election,0,8
+html body text div div span span  ,>,0,7
+html body text div div span a span  ,Debates,0,8
+html body text div div div div a span  ,Print This Article,0,9
+html body text div div div div a span  ,E-Mail This Article,0,9
+html body text div div div h2 span  ,RSS News Feeds,0,8
+html body text div div div div div a span  ,Top News,0,10
+html body text div div div div div a span  ,Debates,0,10
+html body text div div div div a span  ,What is RSS?,0,9
+html body text div div div div span  ,|,0,8
+html body text div div div div a span  ,All RSS Feeds,0,9
+html body text div div div div h1 span  ,Debate Leads to Shifts in Strategy,1,9
+html body text div div div div h2 span  ,Advisers Predict Tightening Race,1,9
+html body text div div div div div font span  ,By Dan Balz,1,10
+html body text div div div div font span  ,Washington Post Staff Writer,1,9
+html body text div div div div font span  ,"Sunday, October 3, 2004; Page A01",1,9
+html body text div div div div div p nitf span  ,"A newly energized battle for the White House heads into a crucial two-week period with John F. Kerry planning to capitalize on the momentum from a strong debate performance by shifting the focus to President Bush's economic record, while the president revives his attack on Kerry's foreign policy credentials, according to officials with both campaigns.",1,11
+html body text div div div div div p nitf span  ,"Thursday's debate produced a dramatic psychological shift in the presidential race, but strategists said it is less clear how much impact the 90-minute encounter would have on a lead that Bush has enjoyed since his convention in New York a month ago.",1,11
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td div font sup span  ,___,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td div font b span  ,Debate Coverage,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td div font sup span  ,___,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font a strong span  ,Full Debate Video:,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font span  ,"The final presidential debate, held at Arizona State University in Tempe, Ariz.",0,22
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font span  ,•,0,23
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font a b span  ,Complete Debate Transcript,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font div font b sup span  ,_____,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font div font b span  ,Analysis,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font div font b sup span  ,_____,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font span  ,•,0,23
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font b a span  ,Debate Referee:,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font span  ,The Washington Post and washingtonpost.com examine the accuracy of the claims and charges leveled in the final presidential debate by President Bush and Sen. John F. Kerry.,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font b sup span  ,_____,0,28
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font b span  ,Thursday Discussions,0,27
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font b sup span  ,_____,0,28
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,•,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font b a span  ,Transcript:,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font span  ,Post Associate Editor Robert G. Kaiser analyzes the third presidential debate.,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,•,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font b a span  ,Transcript:,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font span  ,"PBS ""Washington Week"" host and moderator of the vice presidential debate Gwen Ifill.",0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,•,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font b a span  ,Transcript:,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font span  ,washingtonpost.com's Chief Political Correspondent Terry M. Neal on the latest election news.,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font b sup span  ,_____,0,28
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font b span  ,Latest News,0,27
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font b sup span  ,_____,0,28
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,•,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font b a span  ,Full Coverage of Debates,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,•,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font b a span  ,Latest Blogs on the Debate,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td div font sup span  ,___,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td div font b span  ,Compare Bush and Kerry,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td div font sup span  ,___,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font a font b span  ,Candidate Positions,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font span  ,A side-by-side comparison of the stands taken by,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font b span  ,President Bush,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font span  ,and,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font b span  ,Sen. John F. Kerry,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font span  ,.,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font sup span  ,___,0,27
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font b span  ,More Election Coverage,0,27
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font sup span  ,___,0,27
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,•,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font b a span  ,Electoral College Map:,0,27
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,"Post analysis, polls and recent voting history from 16 swing states.",0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,•,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font b a span  ,Live Discussions:,0,27
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,"Q&A With Post Reporters, Newsmakers and Pundits",0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font font span  ,•,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font b a span  ,News From the Trail:,0,27
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,"Updates and Analysis on Presidential, Senate and House Races",0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font b span  ,Friday's Question:,0,23
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font form span  ,It was not until the early 20th century that the Senate enacted rules allowing members to end filibusters and unlimited debate. How many votes were required to invoke cloture when the Senate first adopted the rule in 1917?,0,23
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font form strong span  ,51,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font form strong span  ,60,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font form strong span  ,64,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font form strong span  ,67,0,24
+html body text div div div div div table tbody tr td div h2 span  ,Free E-mail Newsletters,0,15
+html body text div div div div div table tbody tr td div div div ul li b span  ,Daily Politics News & Analysis,0,19
+html body text div div div div div table tbody tr td div div div ul li a b span  ,See a Sample,0,20
+html body text div div div div div table tbody tr td div div div ul li span  ,|,0,18
+html body text div div div div div table tbody tr td div div div ul li a b span  ,Sign Up Now,0,20
+html body text div div div div div table tbody tr td div div div ul li b span  ,Federal Insider,0,19
+html body text div div div div div table tbody tr td div div div ul li a b span  ,See a Sample,0,20
+html body text div div div div div table tbody tr td div div div ul li span  ,|,0,18
+html body text div div div div div table tbody tr td div div div ul li a b span  ,Sign Up Now,0,20
+html body text div div div div div table tbody tr td div div div ul li b span  ,Breaking News Alerts,0,19
+html body text div div div div div table tbody tr td div div div ul li a b span  ,See a Sample,0,20
+html body text div div div div div table tbody tr td div div div ul li span  ,|,0,18
+html body text div div div div div table tbody tr td div div div ul li a b span  ,Sign Up Now,0,20
+html body text div div div div div p nitf span  ,"Yesterday found the candidates in the nation's two most important battlegrounds, with Bush campaigning in Ohio and Kerry rallying supporters in Florida. Bush hammered Kerry as someone who would turn over decisions about the use of U.S. military power to other countries, and Kerry said middle-class Americans cannot afford another four years of a Bush administration.",1,11
+html body text div div div div div p nitf span  ,"Bush advisers were described as stunned by how negative the reviews were of the president's performance, which many of them regarded as not his best but not so bad. Bush was portrayed as upbeat while acknowledging to supporters that he knew he could have done better. His aides indicated they plan some retooling before Friday's debate, but they maintained a sense of outward confidence.",1,11
+html body text div div div div div p nitf span  ,"Advisers to both candidates predicted that the race would tighten when the debates end on Oct. 13, if not before, but Bush strategists say that will have less to do with the debates than on a natural tightening as the election nears. The first poll since Thursday night to measure the debate's impact, taken by Newsweek, showed Kerry leading Bush 49 percent to 46 percent -- a reversal from a series of polls over the past month.",1,11
+html body text div div div div div p nitf span  ,"On Tuesday, Vice President Cheney and Democratic vice presidential nominee John Edwards will meet in Cleveland for a 90-minute debate -- a session some Republicans believe may have more relevance as a result of what happened in Florida. On Friday, Bush and Kerry will attend a town hall meeting with voters in St. Louis. The final presidential debate will take place in Tempe, Ariz., on Oct. 13.",1,11
+html body text div div div div div p nitf span  ,Democratic and GOP strategists said both candidates face new challenges as a result of the first debate.,1,11
+html body text div div div div div p nitf span  ,"For Bush, the immediate objective is to wipe away impressions of that debate, in which he appeared annoyed and irritated by Kerry's criticism. But just as significant may be how well he passes the test of explaining why he believes his policies in Iraq are working at a time when conditions on the ground suggest that the insurgency is stronger than ever. The longer the focus is on Bush's record, these strategists said, the more trouble he may have.",1,11
+html body text div div div div div p nitf span  ,"Republicans said Bush must avoid debating Kerry on the details of micromanaging foreign policy and return to statements of principle with which most voters agree, from the threat of Saddam Hussein to the need to stay in Iraq. And, said one GOP strategist, Bush needs to keep reminding voters about Sept. 11, 2001, and the impact of the terrorist attacks on the country.",1,11
+html body text div div div div div p nitf span  ,"For Kerry, the test will be to translate a positive debate performance into sustained and consistent performance on the campaign trail, continuing to undo the damage Bush has inflicted on him as someone who lacks core convictions or clear positions, particularly on Iraq. The first debate may have helped, but even Democrats say that it was not enough to solve the problem. Beyond that, Democrats said, he must tie together his critiques of Bush's foreign and domestic records more effectively than he has so far.",1,11
+html body text div div div div div p nitf span  ,"The aftermath of the debate produced a strategic change for the Kerry campaign, which had used the two weeks before it to launch an argument about Bush's record in Iraq that was designed to take the pressure off Kerry's often-contradictory statements on the subject. Heading toward the final two debates that will dwell on domestic policy, Kerry advisers said they will use a big advertising buy to help put the focus on Bush's economic record.",1,11
+html body text div div div div div p nitf span  ,"Kerry strategist Tad Devine said voters want to know that the president can deal with Iraq and domestic needs at the same time and that Kerry would offer that assurance. ""This represents a very aggressive move to the domestic agenda,"" Devine told reporters yesterday as he described a 15-state, $7.7 million ad buy.",1,11
+html body text div div div div div p nitf span  ,"Bush's team indicated they plan to stick to the strategy that has guided their campaign by redoubling efforts to portray Kerry as a flip-flopper. ""While Senator Kerry was very articulate, I don't think he cleared up what voters believed to be a central flaw in his candidacy, which is that in response to very serious threats, his response is very often to vacillate with the politics of the moment,"" Bush's campaign manager Ken Mehlman said.",1,11
+html body text div div div div div p nitf span  ,"Bush has seized on a statement the Massachusetts Democrat made in the debate that U.S. decisions to launch military action needed to meet a ""global test"" of acceptability among major allies, and the campaign launched a new TV ad on the same theme. Kerry immediately responded with an ad describing the charge as a willful distortion of Kerry's position.",1,11
+html body text div div div div div p nitf span  ,"Publicly, the Bush campaign team maintained a sense of confidence about the outcome of the election and argued that, despite Kerry's attractive appearance, Thursday's debate had provided openings they will exploit. They also said they believe any Kerry gains from the debate will prove to be transitory.",1,11
+html body text div div div div div p nitf span  ,"""I remember the swoon everybody was in at the time of their convention and immediately afterward, and it turned out to be missed opportunity for him and a great opportunity for us,"" White House senior adviser Karl Rove said yesterday.",1,11
+html body text div div div div div p nitf span  ,"Other Republicans were privately less optimistic about the race, fearing that Kerry's debate performance could erase much of the impact of months of Bush-Cheney ads portraying the Democratic nominee as a flip-flopper. They said they were surprised by Bush's lackluster performance, even granting that the president is not the most skilled of debaters.",1,11
+html body text div div div div div p nitf span  ,"Asked whether he worried that Bush was on the defensive over his record in Iraq, one GOP strategist said: ""I'm far less worried about that than that we had [Kerry] firmly pinned down as a wishy-washy flip-flopper and that's now not nearly as pinned down as I wish it were."" The strategist, who declined to be identified to speak freely about the president's campaign, indicated that the debates offer Bush the opportunity to drive home that argument decisively and that in the Coral Gables debate he failed to do so.",1,11
+html body text div div div div div p nitf span  ,Kerry advisers and Democratic strategists said the debate provided them with much-needed momentum and marked a potential turning point that would take Kerry off the defensive and shift the focus onto Bush in an effort to capitalize on what polls show is continuing public disapproval of his policies in Iraq and at home.,1,11
+html body text div div div div div p nitf span  ,"""The Kerry campaign and the Democrats are very realistic in knowing they did not win the election Thursday night,"" strategist Anita Dunn said. ""The Republicans were the only ones who thought they could win the election Thursday night.""",1,11
+html body text div div div div div p nitf span  ,"Other Democratic strategists said the debate guarantees that Kerry will get a fresh look from some voters, but they noted that more work remains if he hopes to make the gains permanent. ""I think he has opened people's eyes and ears to him, and in the next debates he still needs to take advantage of the opportunity,"" Democratic pollster Geoffrey Garin said. ""But the opportunity is very, very real at this point.""",1,11
+html body text div div div div div p nitf span  ,"Democrats said the sequence of debates may work to Kerry's advantage, since foreign policy and national security have been Bush's perceived strengths, and the Kerry campaign's new ad strategy underscores their confidence. But Bush advisers said they are prepared to go toe-to-toe with Kerry on those issues, saying Bush can win the debate over taxes and regulatory issues and can hold down Kerry's advantage on health care. ""We feel comfortable debating on either turf,"" a Bush adviser said.",1,11
+html body text div div div div div p nitf span  ,"The real battle may still come over foreign policy, with Kerry advisers confident that the senator's performance in the debate demonstrated not only deep knowledge of foreign policy but the strength of someone voters would trust to be commander in chief.",1,11
+html body text div div div div div p nitf span  ,"Bush advisers, however, remain equally confident that voters already have come to the conclusion that, whatever their fears are about Iraq, they have more confidence in Bush as the one to lead the country in a war on terrorism.",1,11
+html body text div div div div div p nitf span  ,"""It's going to be more of a substantive slog, and there Kerry gave us some openings,"" Rove said. ""This global test thing was very big. This was shorthand for all the questions people have about the guy.""",1,11
+html body text div div div div div p nitf span  ,"Beyond the ""global test"" issue, another Bush adviser said they will challenge Kerry for suggesting that he has a workable plan to stabilize Iraq and get U.S. troops home. ""The notion that Kerry is hanging his hopes on this plan opens up a whole new avenue of discussion,"" the adviser said. ""What is Kerry's plan? What are the specifics? What nations does he think will join a colossal mistake? In the end, I don't think this is going to help Kerry at all.""",1,11
+html body text div div div div div p nitf span  ,"Bush's campaign is banking on the fact that rarely has a single debate turned around an election, and they express confidence that, in a highly polarized electorate, many judgments about the candidates have been locked away. Kerry's team sees the debates as pivotal in regaining ground lost in the past two months, and the team believes Iraq and the domestic environment provide them with the ammunition to win the election.",1,11
+html body text div div div div div a span  ,Print This Article,0,10
+html body text div div div div div a span  ,E-Mail This Article,0,10
+html body text div div div div div a span  ,RSS Feed,0,10
+html body text div div div div div a span  ,Permission to Republish,0,10
+html body text div div div div span  ,© 2004 The Washington Post Company,0,8
+html body text div div div h2 span  ,Featured Advertiser Links,0,8
+html body text div div div div div p a span  ,Refinance Rates As Low As 2.9% - FREE QUOTES!,0,11
+html body text div div div div div p a span  ,"$200,000 Loan for only $896?mo. Bad Credit OK.",0,11
+html body text div div div div div p a span  ,"$200,000 Loan for only $667?mo. Bad Credit OK.",0,11
+html body text div div div div div p a span  ,"$40,000 Home Equity Loan for only $287?mo fixed.",0,11
+html body text div div div div div p a span  ,Redskins Tickets,0,11
+html body text div div div div div p span  ,",",0,10
+html body text div div div div div p a span  ,Wizards Tickets,0,11
+html body text div div div div div p span  ,",",0,10
+html body text div div div div div p a span  ,BCS Championship,0,11
+html body text div div div div div p a span  ,Malpractice Lawyer,0,11
+html body text div div div div div p span  ,",",0,10
+html body text div div div div div p a span  ,Birth Defect Lawsuit,0,11
+html body text div div div div div p span  ,",",0,10
+html body text div div div div div p a span  ,Trasylol,0,11
+html body text div div div div div p a span  ,Promotional Pens,0,11
+html body text div div div div div p span  ,",",0,10
+html body text div div div div div p a span  ,T-shirts,0,11
+html body text div div div div div p span  ,",",0,10
+html body text div div div div div p a span  ,Custom Hats,0,11
+html body text div div div div div p a span  ,"Cool Gadgets, Great Deals, Visit CircuitCity.com",0,11
+html body text div div div div div p a span  ,7 Funds at Vanguard to BUY; 10 to SELL--Free!,0,11
+html body text div div div div div p a span  ,Travel downtown to downtown only on Acela.,0,11
+html body text div div div div span  ,SEARCH:,0,8
+html body text div div div form div span  ,washingtonpost.com,0,9
+html body text div div div form div span  ,Web,0,9
+html body text div div div div a span  ,NEWS,0,9
+html body text div div div div span span  ,|,0,9
+html body text div div div div a span  ,OPINIONS,0,9
+html body text div div div div span span  ,|,0,9
+html body text div div div div a span  ,SPORTS,0,9
+html body text div div div div span span  ,|,0,9
+html body text div div div div a span  ,ARTS & LIVING,0,9
+html body text div div div div span a span  ,Discussions,0,10
+html body text div div div div span span  ,|,0,9
+html body text div div div div a span  ,Photos & Video,0,9
+html body text div div div div span span  ,|,0,9
+html body text div div div div a span  ,City Guide,0,9
+html body text div div div div span a span  ,CLASSIFIEDS,0,10
+html body text div div div div span span  ,|,0,9
+html body text div div div div a span  ,JOBS,0,9
+html body text div div div div span span  ,|,0,9
+html body text div div div div a span  ,CARS,0,9
+html body text div div div div span span  ,|,0,9
+html body text div div div div a span  ,REAL ESTATE,0,9
+html body text div div p span a span  ,washingtonpost.com:,0,9
+html body text div div p nobr a b span  ,Help,0,10
+html body text div div p span  ,|,0,7
+html body text div div p a span  ,Contact Us,0,8
+html body text div div p span span  ,|,0,8
+html body text div div p a span  ,About Us,0,8
+html body text div div p span span  ,|,0,8
+html body text div div p a span  ,Advertisers,0,8
+html body text div div p span span  ,|,0,8
+html body text div div p a span  ,Site Index,0,8
+html body text div div p span span  ,|,0,8
+html body text div div p a span  ,Site Map,0,8
+html body text div div p span span  ,|,0,8
+html body text div div p a span  ,Make Us Your Homepage,0,8
+html body text div div p span span  ,|,0,8
+html body text div div p a span  ,mywashingtonpost.com,0,8
+html body text div div p span span  ,|,0,8
+html body text div div p a span  ,Work for Us,0,8
+html body text div div p span span  ,|,0,8
+html body text div div p a span  ,Mobile,0,8
+html body text div div p span span  ,|,0,8
+html body text div div p a span  ,RSS,0,8
+html body text div div p span span  ,The Washington Post:,0,8
+html body text div div p a b span  ,Subscribe,0,9
+html body text div div p span span  ,|,0,8
+html body text div div p a span  ,Subscriber Services,0,8
+html body text div div p span span  ,|,0,8
+html body text div div p a span  ,Advertisers,0,8
+html body text div div p span span  ,|,0,8
+html body text div div p a span  ,Electronic Edition,0,8
+html body text div div p span span  ,|,0,8
+html body text div div p a span  ,Online Photo Store,0,8
+html body text div div p span span  ,|,0,8
+html body text div div p a span  ,The Washington Post Store,0,8
+html body text div div p span span  ,|,0,8
+html body text div div p a span  ,About The Post,0,8
+html body text div div p span span  ,|,0,8
+html body text div div p a span  ,National Weekly,0,8
+html body text div div p span span  ,The Washington Post Company:,0,8
+html body text div div p a span  ,Information and Other Post Co. Websites,0,8
+html body text div div p span a span  ,© Copyright,0,9
+html body text div div p span span  ,1996-,0,8
+html body text div div p span span  ,The Washington Post Company,0,8
+html body text div div p span span span  ,|,0,9
+html body text div div p span a span  ,User Agreement and Privacy Policy,0,9
+html body text div div p span span span  ,|,0,9
+html body text div div p span a span  ,Rights and Permissions,0,9
