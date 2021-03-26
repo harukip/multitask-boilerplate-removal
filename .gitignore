@@ -1,3 +1,9 @@
 # Folders
 checkpoints/
 __pycache__/
+data/*fold/
+
+# Record and shell script
+*.ipynb
+*.sh
+*.txt
