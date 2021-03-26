@@ -47,7 +47,7 @@ def main(parser):
         train(args, myDataLoader, myModel)
     
     MODEL_NAME = "Bayesian" if args.bayesian else "LSTM"
-    BEST_MODEL = "/best_val" if args.best_loss_model else "/best_macro_f1"
+    BEST_MODEL = "/best_val/" if args.best_loss_model else "/best_macro_f1/"
     if not os.path.isdir(args.checkpoint_folder + MODEL_NAME + str(args.depth) + BEST_MODEL):
         print("Checkpoint doesn't exist. Start training.")
         Path(args.checkpoint_folder + MODEL_NAME + str(args.depth)).mkdir(parents=True, exist_ok=True)
@@ -175,8 +175,8 @@ def train(args, myDataLoader, myModel):
             if val_loss.result() < best_loss:
                 best_loss = val_loss.result()
                 if not os.path.isdir(args.checkpoint_folder + MODEL_NAME + str(args.depth)):
-                    Path(args.checkpoint_folder + MODEL_NAME + str(args.depth)).mkdir(parents=True, exist_ok=True)
-                myModel.save_weights(args.checkpoint_folder + MODEL_NAME + str(args.depth) + "/best_val")
+                    Path(args.checkpoint_folder + MODEL_NAME + str(args.depth) + "/best_val/").mkdir(parents=True, exist_ok=True)
+                myModel.save_weights(args.checkpoint_folder + MODEL_NAME + str(args.depth) + "/best_val/")
                 if args.verbose:
                     print("*")
             else:
@@ -197,8 +197,8 @@ def train(args, myDataLoader, myModel):
             if macro_f1 > best_macro_f1:
                 best_macro_f1 = macro_f1
                 if not os.path.isdir(args.checkpoint_folder + MODEL_NAME + str(args.depth)):
-                    Path(args.checkpoint_folder + MODEL_NAME + str(args.depth)).mkdir(parents=True, exist_ok=True)
-                myModel.save_weights(args.checkpoint_folder + MODEL_NAME + str(args.depth) + "/best_macro_f1")
+                    Path(args.checkpoint_folder + MODEL_NAME + str(args.depth) + "/best_macro_f1/").mkdir(parents=True, exist_ok=True)
+                myModel.save_weights(args.checkpoint_folder + MODEL_NAME + str(args.depth) + "/best_macro_f1/")
                 if args.verbose:
                     print("*")
             else:
