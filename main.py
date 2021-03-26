@@ -47,7 +47,7 @@ def main(parser):
         train(args, myDataLoader, myModel)
     
     MODEL_NAME = "Bayesian" if args.bayesian else "LSTM"
-    BEST_MODEL = "/best_macro_f1" if args.best_macro_model else "/best_val"
+    BEST_MODEL = "/best_val" if args.best_loss_model else "/best_macro_f1"
     if not os.path.isdir(args.checkpoint_folder + MODEL_NAME + str(args.depth) + BEST_MODEL):
         print("Checkpoint doesn't exist. Start training.")
         Path(args.checkpoint_folder + MODEL_NAME + str(args.depth)).mkdir(parents=True, exist_ok=True)
@@ -101,6 +101,22 @@ def train(args, myDataLoader, myModel):
     best_loss = float("inf")
     best_macro_f1 = 0
 
+    # Buffer
+    if args.no_buffer:
+        print("Train and val with dataset.")
+        train_source = myDataLoader.train_ds
+        val_source = myDataLoader.val_ds
+    else:
+        print("Fill up train and val buffer.")
+        train_buffer = []
+        val_buffer = []
+        train_source = train_buffer
+        val_source = val_buffer
+        for t, e, y, d in myDataLoader.train_ds:
+            train_buffer.append([t, e, y, d])
+        for t, e, y in myDataLoader.val_ds:
+            val_buffer.append([t, e, y])
+    
     # Start Training
     count = 0
     for epoch in range(args.epoch):
@@ -109,7 +125,9 @@ def train(args, myDataLoader, myModel):
         # =====================================================
         # Training
         # =====================================================
-        for t, e, y, d in myDataLoader.train_ds:
+        if not args.no_buffer:
+            random.shuffle(train_buffer)
+        for t, e, y, d in train_source:
             loss = 0
             myModel.mc_step = args.mc_step
             # Train step
@@ -128,7 +146,8 @@ def train(args, myDataLoader, myModel):
             if args.log:
                 with train_summary_writer.as_default():
                     tf.summary.scalar('loss', train_loss.result(), step=count)
-            print("train loss:\t%.4f" %train_loss.result())
+            if args.verbose:
+                print("train loss:\t%.4f" %train_loss.result())
             # =====================================================
             # Validation
             # =====================================================
@@ -136,7 +155,7 @@ def train(args, myDataLoader, myModel):
             all_y_true = None
             all_y_pred = None
             macro_f1 = None
-            for t, e, y in myDataLoader.val_ds:
+            for t, e, y in val_source:
                 # val step
                 p, lstm_out, out, _ = myModel.MC_sampling(t, e)
                 uncertainty = tf.nn.softmax_cross_entropy_with_logits(labels=p, logits=out)
@@ -153,7 +172,8 @@ def train(args, myDataLoader, myModel):
                             zero_division=1)
                 macro_f1 = util.concatAxisZero(macro_f1, np.expand_dims(t_f, 0))
 
-            print("val loss:\t%.4f" %val_loss.result(), end="")
+            if args.verbose:
+                print("val loss:\t%.4f" %val_loss.result(), end="")
             if val_loss.result() < best_loss:
                 best_loss = val_loss.result()
                 if not os.path.isdir(args.checkpoint_folder + MODEL_NAME + str(args.depth)):
@@ -161,9 +181,11 @@ def train(args, myDataLoader, myModel):
                     Path(args.checkpoint_folder + MODEL_NAME + str(args.depth) + "/best_val").mkdir(parents=True, exist_ok=True)
                     Path(args.checkpoint_folder + MODEL_NAME + str(args.depth) + "/best_macro_f1").mkdir(parents=True, exist_ok=True)
                 myModel.save_weights(args.checkpoint_folder + MODEL_NAME + str(args.depth) + "/best_val")
-                print("*")
+                if args.verbose:
+                    print("*")
             else:
-                print("")
+                if args.verbose:
+                    print("")
             macro_f1 = np.mean(macro_f1)
             micro_f1 = f1_score(y_true=all_y_true, y_pred=all_y_pred, average='macro', zero_division=0)
             val_macro_f1(macro_f1)
@@ -174,7 +196,8 @@ def train(args, myDataLoader, myModel):
                 with val_micro_summary_writer.as_default():
                     tf.summary.scalar('loss', val_loss.result(), step=count)
                     tf.summary.scalar('f1', val_micro_f1.result(), step=count)
-            print("val_macro_f1:\t%.4f" %macro_f1, end="")
+            if args.verbose:
+                print("val_macro_f1:\t%.4f" %macro_f1, end="")
             if macro_f1 > best_macro_f1:
                 best_macro_f1 = macro_f1
                 if not os.path.isdir(args.checkpoint_folder + MODEL_NAME + str(args.depth)):
@@ -182,12 +205,15 @@ def train(args, myDataLoader, myModel):
                     Path(args.checkpoint_folder + MODEL_NAME + str(args.depth) + "/best_val").mkdir(parents=True, exist_ok=True)
                     Path(args.checkpoint_folder + MODEL_NAME + str(args.depth) + "/best_macro_f1").mkdir(parents=True, exist_ok=True)
                 myModel.save_weights(args.checkpoint_folder + MODEL_NAME + str(args.depth) + "/best_macro_f1")
-                print("*")
+                if args.verbose:
+                    print("*")
             else:
+                if args.verbose:
+                    print("")
+            if args.verbose:
+                print("val_micro_f1:\t%.4f" %micro_f1, end="")
                 print("")
-            print("val_micro_f1:\t%.4f" %micro_f1, end="")
-            print("")
-            print("-"*5)
+                print("-"*5)
             train_loss.reset_states()
             val_loss.reset_states()
             val_macro_f1.reset_states()
@@ -260,15 +286,17 @@ if __name__ == "__main__":
     parser.add_argument("--lstm_layer", type=int, help="Set number of lstm layers.", default=2)
     parser.add_argument("--hidden_dim", type=int, help="Set hidden dim of model.", default=256)
     parser.add_argument("-mc", "--mc_step", type=int, help="Set mc step of bayesian model.", default=64)
-    parser.add_argument("-w", "--word", type=bool, help="Enable word embedding model.", default=False)
+    parser.add_argument("-w", "--word", action="store_true", help="Enable word embedding model.", default=False)
     parser.add_argument("-ls", "--label_size", type=int, help="Set your label size.", default=2)
-    parser.add_argument("-l", "--log", type=bool, help="Enable TensorBoard log.", default=False)
+    parser.add_argument("-l", "--log", action="store_true", help="Enable TensorBoard log.", default=False)
     parser.add_argument("--log_folder", type=str, help="Set log folder.", default="./logs/")
     parser.add_argument("--train_folder", type=str, help="Set train csvs location.", default="./data/cleaneval/train/")
     parser.add_argument("--val_folder", type=str, help="Set val csvs location.", default="./data/cleaneval/val/")
     parser.add_argument("--test_folder", type=str, help="Set test csvs location.", default="./data/cleaneval/test/")
     parser.add_argument("--checkpoint_folder", type=str, help="Set checkpoint folder.", default="./checkpoints/")
     parser.add_argument("--train", action="store_true", help="Train your own model.", default=False)
-    parser.add_argument("--best_macro_model", type=bool, help="Select model using best macro f1, if false use loss", default=True)
-    parser.add_argument("--micro", type=bool, help="Set evaluation metric as micro f1.", default=True)
+    parser.add_argument("--best_loss_model", action="store_true", help="Select model using best val loss, if not set use best macro f1", default=False)
+    parser.add_argument("--micro", action="store_true", help="Set evaluation metric as micro f1.", default=False)
+    parser.add_argument("--verbose", type=int, help="print out training detail.", default=1)
+    parser.add_argument("--no_buffer", action="store_true", help="Turn off buffer for train and val.", default=False)
     main(parser)
