@@ -1,0 +1,310 @@
+tag,content,label,depth
+html body header div div nav ul li a  ,記事一覧,0,9
+html body header div div nav ul li ul li a  ,トピックス,0,11
+html body header div div nav ul li a  ,連載,0,9
+html body header div div nav ul li a  ,特集,0,9
+html body header div div nav ul li ul li a  ,深層探訪,0,11
+html body header div div nav ul li ul li a  ,図解,0,11
+html body header div div nav ul li a  ,ランキング,0,9
+html body header div div nav ul li a  ,写真・動画,0,9
+html body header div div nav ul li ul li a  ,写真ニュース,0,11
+html body header div div nav ul li ul li a  ,ニュース動画,0,11
+html body header div div nav ul li ul li a  ,トレンド動画,0,11
+html body header div div nav ul li ul li a  ,写真特集,0,11
+html body header div div div  ,2021年3月26日(金),0,6
+html body header nav ul li a  ,トップ,0,7
+html body header nav ul li ul li a  ,ENGLISH,0,9
+html body header nav ul li a  ,政治,0,7
+html body header nav ul li ul li a  ,点描・永田町,0,9
+html body header nav ul li ul li a  ,戦後保守政治の裏側,0,9
+html body header nav ul li a  ,国際,0,7
+html body header nav ul li ul li a  ,ワールドEYE,0,9
+html body header nav ul li ul li a  ,地球コラム,0,9
+html body header nav ul li ul li a  ,崔さんの眼,0,9
+html body header nav ul li ul li a  ,中国ウォッチ,0,9
+html body header nav ul li ul li a  ,洞察☆中国,0,9
+html body header nav ul li ul li a  ,新次元の中国経済,0,9
+html body header nav ul li ul li a  ,ふらんす,0,9
+html body header nav ul li a  ,社会,0,7
+html body header nav ul li ul li a  ,おくやみ,0,9
+html body header nav ul li ul li a  ,教育最前線,0,9
+html body header nav ul li ul li a  ,メディカルサロン,0,9
+html body header nav ul li a  ,経済,0,7
+html body header nav ul li ul li a  ,マーケット,0,9
+html body header nav ul li ul li a  ,エクイティ,0,9
+html body header nav ul li ul li a  ,株価,0,9
+html body header nav ul li ul li a  ,BWリリース,0,9
+html body header nav ul li ul li a  ,外為,0,9
+html body header nav ul li ul li a  ,PRTIMES,0,9
+html body header nav ul li ul li a  ,商品,0,9
+html body header nav ul li ul li a  ,江上剛 コラム,0,9
+html body header nav ul li ul li a  ,投信,0,9
+html body header nav ul li ul li a  ,トップの視点,0,9
+html body header nav ul li ul li a  ,私の相場観,0,9
+html body header nav ul li a  ,スポーツ,0,7
+html body header nav ul li ul li a  ,東京五輪,0,9
+html body header nav ul li ul li a  ,スポーツストーリーズ,0,9
+html body header nav ul li ul li a  ,記録速報,0,9
+html body header nav ul li ul li a  ,スポーツの言葉考,0,9
+html body header nav ul li ul li a  ,野球,0,9
+html body header nav ul li ul li a  ,二刀流大谷を追う,0,9
+html body header nav ul li ul li a  ,サッカー,0,9
+html body header nav ul li ul li a  ,土俵百景,0,9
+html body header nav ul li ul li a  ,高校野球,0,9
+html body header nav ul li ul li a  ,五輪のミカタ,0,9
+html body header nav ul li ul li a  ,ラグビー,0,9
+html body header nav ul li ul li a  ,コトバのチカラ2020,0,9
+html body header nav ul li ul li a  ,JSPOスポーツニュース,0,9
+html body header nav ul li ul li a  ,スポーツ動画,0,9
+html body header nav ul li a  ,エンタメ,0,7
+html body header nav ul li ul li a  ,韓流,0,9
+html body header nav ul li ul li a  ,ＡＫＢ４８,0,9
+html body header nav ul li ul li a  ,八十亀ちゃん,0,9
+html body header nav ul li a  ,地域,0,7
+html body header nav ul li ul li a  ,にっぽんもぎたて便,0,9
+html body header nav ul li ul li a  ,トップインタビュー,0,9
+html body header nav ul li ul li a  ,自治体便り,0,9
+html body header nav ul li ul li a  ,ホストタウン情報,0,9
+html body header nav ul li a  ,ライフ,0,7
+html body header nav ul li ul li a  ,JIJI Trend,0,9
+html body header nav ul li ul li a  ,新商品,0,9
+html body header nav ul li ul li a  ,お魚情報,0,9
+html body header nav ul li ul li a  ,クルマ,0,9
+html body header nav ul li ul li a  ,なんでもランキング,0,9
+html body header nav ul li a  ,予定,0,7
+html body header nav ul li a  ,メディカル,0,7
+html body header nav ul li ul li a  ,一流に学ぶ,0,9
+html body header nav ul li ul li a  ,ピックアップ,0,9
+html body header nav ul li ul li a  ,ニュースドクターズガイド,0,9
+html body header nav ul li ul li a  ,家庭の医学,0,9
+html body div div div div p a  ,時事ドットコムニュース,0,8
+html body div div div div span  ,>,0,7
+html body div div div div p a  ,社会,0,8
+html body div div div div span  ,>,0,7
+html body div div div div p  ,エジプトが輸入規制撤廃 日本産の食品―農水省,0,7
+html body div div div div div ul li  ,小,0,9
+html body div div div div div ul li  ,中,0,9
+html body div div div div div ul li  ,大,0,9
+html body div div div div article div h1  ,エジプトが輸入規制撤廃 日本産の食品―農水省,1,9
+html body div div div div article div div p  ,2020年11月04日10時51分,1,10
+html body div div div div article div p  ,	 農林水産省は４日、エジプトが東京電力福島第１原発事故以来続けてきた日本産食品に対する輸入規制を全廃したと発表した。放射性物質の検査証明書や産地証明書を付けずに４７都道府県の食品を出荷することが可能となった。,1,9
+html body div div div div article div p a  ,フィリピン、輸入規制全廃 福島産牛肉など,0,10
+html body div div div div article div p  ,	 撤廃は２日付。輸入規制を設けている国・地域は、事故直後の５４から１８に減った。２０１９年のエジプト向けの出荷額はサバを中心に約３０億円。	,1,9
+html body div div div div ul li a  ,経済,0,9
+html body div div div div ul li a  ,社会,0,9
+html body div div div div ul li a  ,新型コロナ最新情報,0,9
+html body div div div div ul li a  ,元法相夫妻事件,0,9
+html body div div div div ul li a  ,原発処理水,0,9
+html body div div div div div p  ,関連記事,0,8
+html body div div div div div ul li a  ,大飯4号機、定期検査で停止 関電、3年半ぶり原発稼働ゼロ,0,10
+html body div div div div div ul li a  ,小泉元首相、原発再稼働の政府方針を批判 核ごみ調査応募の寿都町で,0,10
+html body div div div div div ul li a  ,【図解】福島第1原発の状況と動き,0,10
+html body div div div aside a span  ,全てのコメントを見る,0,8
+html body div div div section div p  ,特集,0,8
+html body div div div section div ul li a div  ,天皇陛下◆愛子さまのご結婚に言及,0,11
+html body div div div section div ul li a div  ,ＰＣＲ検査の現実◆医療従事者の姿,0,11
+html body div div div section div ul li a div  ,顔認証システム捜査◆実態は？水面下で運用,0,11
+html body div div div section div ul li a div  ,問われる生命の重み◆ペットショップの裏側で,0,11
+html body div div div section div ul li a div  ,コロナ禍に生まれた新しい歌舞伎のカタチ,0,11
+html body div div div section div ul li a div  ,日本と比較◆世界１２カ国のＰＣＲ検査事情,0,11
+html body div div div section div ul li a div  ,もう限界？◆不買運動を支えた韓国人の痩せ我慢,0,11
+html body div div div section div ul li a div  ,使い捨てられる教師たち,0,11
+html body div div div section div ul li a div  ,『非正規』の構造的課題,0,11
+html body div div div div div p  ,社会用語,0,8
+html body div div div div div ul li a  ,臨時国会,0,10
+html body div div div div div ul li span  ,(03/24 14:22),0,10
+html body div div div div div ul li a  ,尖閣の米軍演習場,0,10
+html body div div div div div ul li span  ,(03/22 14:45),0,10
+html body div div div div div ul li a  ,日米ガイドライン,0,10
+html body div div div div div ul li span  ,(03/22 14:43),0,10
+html body div div div div div ul li a  ,２０１７年の臨時国会召集,0,10
+html body div div div div div ul li span  ,(03/20 14:32),0,10
+html body div div div div div ul li a  ,四国電力伊方原発,0,10
+html body div div div div div ul li span  ,(03/18 16:04),0,10
+html body div div div div div ul li a  ,東海第２原発,0,10
+html body div div div div div ul li span  ,(03/18 14:58),0,10
+html body div div div div div p  ,社会,0,8
+html body div div div div div ul li a p  ,富士山溶岩流、到達早まる 噴火マップ１７年ぶり改定―対策協,0,11
+html body div div div div div ul li a span  ,(03/26 14:27),0,11
+html body div div div div div ul li a p  ,松竹、歌舞伎座公演が一部中止 出演者がコロナ陽性,0,11
+html body div div div div div ul li a span  ,(03/26 14:09),0,11
+html body div div div div div ul li a p  ,常磐線で車と電車が衝突 一部脱線、運転手が行方不明―茨城,0,11
+html body div div div div div ul li a span  ,(03/26 12:27),0,11
+html body div div div div div ul li a p  ,来年のお題は「窓」 歌会始,0,11
+html body div div div div div ul li a span  ,(03/26 12:03),0,11
+html body div div div div div ul li a p  ,両陛下、コロナ収束願う 「実」お題に歌会始―２カ月延期、オンライン利用も・皇居,0,11
+html body div div div div div ul li a span  ,(03/26 11:52),0,11
+html body div div div div div ul li a p  ,気候変動会議、３１日に初会合 メンバーに経団連会長ら―政府,0,11
+html body div div div div div ul li a span  ,(03/26 11:36),0,11
+html body div div div div div ul li a p  ,「厚労省承認済み」はうそ 抗原検査キット業者に指導―消費者庁,0,11
+html body div div div div div ul li a span  ,(03/26 11:26),0,11
+html body div div div div div ul li a p  ,昨年分の申請期限、５月末に延長 厚労省、中小企業労働者の休業支援金,0,11
+html body div div div div div ul li a span  ,(03/26 11:03),0,11
+html body div div div div div ul li a p  ,２日目、相馬からスタート 震災１０年「励みになった」―聖火リレー,0,11
+html body div div div div div ul li a span  ,(03/26 10:55),0,11
+html body div div div div div ul li a p  ,変異株検査「可能な限り多く」 宮城・大阪に危機感―田村厚労相,0,11
+html body div div div div div ul li a span  ,(03/26 10:48),0,11
+html body div div div div div ul li a p  ,姫路城継承へ寄付金贈呈 兵庫県姫路市〔地域〕,0,11
+html body div div div div div ul li a span  ,(03/26 10:01),0,11
+html body div div div div div ul li a p  ,侍従長に別所浩郎氏 侍従次長は坂根工博氏―宮内庁,0,11
+html body div div div div div ul li a span  ,(03/26 08:45),0,11
+html body div div div div div ul li a p  ,７０歳就業、準備進まず 中小の同一賃金も遅れ―雇用関連制度４月導入,0,11
+html body div div div div div ul li a span  ,(03/26 07:08),0,11
+html body div div div div div ul li a p  ,大田区の作業場で爆発、１人死亡 化学装置製造、ガラス割れる,0,11
+html body div div div div div ul li a span  ,(03/26 00:48),0,11
+html body div div div div div ul li a p  ,スエズ運河、復旧難航 航路遮断で物流停滞恐れ,0,11
+html body div div div div div ul li a span  ,(03/25 22:39),0,11
+html body div div div div div ul li a p  ,２県で最多、感染再拡大に警戒 国内の新規感染１９１７人―新型コロナ,0,11
+html body div div div div div ul li a span  ,(03/25 22:12),0,11
+html body div div div div div ul li a p  ,近大教授が３２００万円不正か 医療品会社の請求書偽造、私物購入疑い,0,11
+html body div div div div div ul li a span  ,(03/25 21:25),0,11
+html body div div div div div ul li a p  ,「走りで元気与える」 原発被災の古里に恩返し―福島・大熊町の聖火ランナー,0,11
+html body div div div div div ul li a span  ,(03/25 20:32),0,11
+html body div div div div div ul li a p  ,感染拡大地域に特例 ５～６月の休業支援金―厚労省,0,11
+html body div div div div div ul li a span  ,(03/25 20:26),0,11
+html body div div div div div ul li a p  ,１号機注水量を増加 格納容器の水位上昇―福島第１原発,0,11
+html body div div div div div ul li a span  ,(03/25 20:19),0,11
+html body div div div div div ul li a p  ,まん延防止、病床逼迫を注視 宮城の感染拡大で西村担当相,0,11
+html body div div div div div ul li a span  ,(03/25 20:17),0,11
+html body div div div div div ul li a p  ,熱中症、死者年１０００人以下に 早期達成へ初の行動計画―政府,0,11
+html body div div div div div ul li a span  ,(03/25 19:44),0,11
+html body div div div div div ul li a p  ,富山市元議長に有罪 政活費７２万円不正受給―地裁,0,11
+html body div div div div div ul li a span  ,(03/25 18:26),0,11
+html body div div div div div ul li a p  ,当時の工場長ら不起訴 １５人死傷の爆発事故―静岡地検支部,0,11
+html body div div div div div ul li a span  ,(03/25 18:01),0,11
+html body div div div div div ul li a p  ,テレワーク推進で指針改定 「企業にもメリット」―厚労省,0,11
+html body div div div div div ul li a span  ,(03/25 17:41),0,11
+html body div div div div div ul li a p  ,「Ｍ資金」詐欺、無罪主張 コロワイド会長３２億円被害―横浜地裁,0,11
+html body div div div div div ul li a span  ,(03/25 16:26),0,11
+html body div div div div div ul li a p  ,ＳＭＢＣ日興、逆転勝訴 元役員インサイダー―東京高裁,0,11
+html body div div div div div ul li a span  ,(03/25 16:02),0,11
+html body div div div div div ul li a p  ,山口５人殺害、再審棄却 ７１歳死刑囚,0,11
+html body div div div div div ul li a span  ,(03/25 15:58),0,11
+html body div div div div div ul li a p  ,笹子トンネル事故の現場再現 遺族が黙とう―東京,0,11
+html body div div div div div ul li a span  ,(03/25 15:29),0,11
+html body div div div div div ul li a p  ,ホンダ、１．９万台リコール 走行中エンスト恐れ,0,11
+html body div div div div div ul li a span  ,(03/25 15:19),0,11
+html body div div div div div div a  ,もっと見る,0,9
+html body div div div section div p  ,コラム・連載,0,8
+html body div div div section div ul li a div  ,東日本大震災１０年◆アスリートたちの思い,0,11
+html body div div div section div ul li a div  ,捕手３人体制に見る「金」への活路,0,11
+html body div div div section div ul li a div  ,中国海警船、このままで海保は本当に大丈夫なの？,0,11
+html body div div div section div ul li a div  ,涙の数だけ強くなった松田瑞生,0,11
+html body div div div section div ul li a div  ,在宅勤務◆ドイツは６００ユーロ還付,0,11
+html body div div div section div ul li a div  ,春の訪れはチョコレートとともに,0,11
+html body div div div section div ul li a div  ,長男の違法接待が首相を痛撃,0,11
+html body div div div section div ul li a div  ,遅れて来た新星◆英田理志が覆す卓球界の常識,0,11
+html body div div div aside div p a  ,新型コロナウイルス最新情報,0,9
+html body div div div aside div a p  ,感染者,0,9
+html body div div div aside div a p b  ,"+1,915人",0,10
+html body div div div aside div a p  ,総計,0,9
+html body div div div aside div a p b  ,"463,016人",0,10
+html body div div div aside div a p span  ,※3月25日現在、クルーズ船客ら除く,0,10
+html body div div div aside div p  ,フォーカス,0,8
+html body div div div aside div ul li a span  ,羽生結弦,0,11
+html body div div div aside div ul li a span  ,ＳＰ首位,0,11
+html body div div div aside div ul li a span  ,２位発進,0,11
+html body div div div aside div ul li a span  ,紀平梨花,0,11
+html body div div div aside div ul li a span  ,なぜ国民的,0,11
+html body div div div aside div ul li a span  ,女優に転身,0,11
+html body div div div aside div ul li a span  ,いいのか！,0,11
+html body div div div aside div ul li a span  ,韓国の新聞,0,11
+html body div div div aside div ul li a span  ,宿敵韓国に,0,11
+html body div div div aside div ul li a span  ,３−０快勝,0,11
+html body div div div aside div ul li a span  ,松井秀喜に並ぶ５号,0,11
+html body div div div aside div ul li a span  ,イージス艦,0,11
+html body div div div aside div ul li a span  ,８隻体制に,0,11
+html body div div div aside div ul li a span  ,ウィリアム王子が反論,0,11
+html body div div div aside div ul li a span  ,柔道古賀氏,0,11
+html body div div div aside div ul li a span  ,５３歳死去,0,11
+html body div div div aside div ul li a span  ,中畑清さん,0,11
+html body div div div aside div ul li a span  ,コロナ陽性,0,11
+html body div div div aside div ul li a span  ,女子ソフト五輪代表,0,11
+html body div div div aside div ul li a span  ,横綱鶴竜,0,11
+html body div div div aside div ul li a span  ,現役を引退,0,11
+html body div div div aside ul li  ,時事通信,0,8
+html body div div div aside ul li span  ,の,0,9
+html body div div div aside ul li  ,SNS,0,8
+html body div div div aside div p  ,読まれています,0,8
+html body div div div aside div ul li a p  ,福岡国際マラソン、今年で終了へ,0,11
+html body div div div aside div ul li a span  ,スポーツ,0,11
+html body div div div aside div ul li a p  ,米軍、日本海が「唯一の名称」 「東海」表記を訂正,0,11
+html body div div div aside div ul li a span  ,政治,0,11
+html body div div div aside div ul li a p  ,「賠償責任は船主に」 コンテナ船運航の台湾企業―スエズ運河座礁,0,11
+html body div div div aside div ul li a span  ,経済,0,11
+html body div div div aside div ul li a p  ,地元観光、国が財政支援 １泊最大７０００円、都道府県に―ＧｏＴｏ再開は６月以降,0,11
+html body div div div aside div ul li a span  ,経済,0,11
+html body div div div aside div ul li a p  ,「日本は人権尊重しているか」 中国外務省、慰安婦問題提起,0,11
+html body div div div aside div ul li a span  ,国際,0,11
+html body div div div aside div p  ,人気記事アーカイブ,0,8
+html body div div div aside div a  ,特集トップ,0,8
+html body div div div aside div ul li a p  ,逆切れ首相ⅤＳ若手,0,11
+html body div div div aside div ul li a p  ,記者が容赦ない質問,0,11
+html body div div div aside div ul li a p  ,問われる生命の重み,0,11
+html body div div div aside div ul li a p  ,ショップの裏側で,0,11
+html body div div div aside div ul li a p  ,ぷりぷりホタルイカ,0,11
+html body div div div aside div ul li a p  ,早くも手頃に,0,11
+html body div div div aside div ul li a p  ,「万能薬」か,0,11
+html body div div div aside div ul li a p  ,完全自動運転,0,11
+html body div div div aside div p  ,アクセスランキング 社会,0,8
+html body div div div aside div a  ,一覧へ,0,8
+html body div div div aside div ul li span  ,1,0,10
+html body div div div aside div ul li a p  ,常磐線で車と電車が衝突 一部脱線、運転手が行方不明―茨城,0,11
+html body div div div aside div ul li span  ,2,0,10
+html body div div div aside div ul li a p  ,「厚労省承認済み」はうそ 抗原検査キット業者に指導―消費者庁,0,11
+html body div div div aside div ul li span  ,3,0,10
+html body div div div aside div ul li a p  ,プログラミングも出題 新教科「情報」のサンプル問題―大学入学共通テスト,0,11
+html body div div div aside div ul li span  ,4,0,10
+html body div div div aside div ul li a p  ,松竹、歌舞伎座公演が一部中止 出演者がコロナ陽性,0,11
+html body div div div aside div ul li span  ,5,0,10
+html body div div div aside div ul li a p  ,共通テストに「情報」 ２５年から、高校必修で―科目スリム化も・大学入試センター,0,11
+html body div div div aside div p  ,今日は何の日？,0,8
+html body div div div aside div a p span  ,2010年,0,10
+html body div div div aside div a p  ,足利事件再審で無罪判決,0,9
+html body div div div div div a  ,【PR】日本有数の「お茶どころ」で動き,0,8
+html body div div div div div a  ,【PR】今田耕司さん、依存症啓発サポーターに,0,8
+html body div div div aside div h3  ,きょうの日本語検定 正しいのはどれ？,0,8
+html body div div div aside div h4  ,【四字熟語となるのは？】,0,8
+html body div div div aside div h4  ,この絵は贋作で、（ ）三文の値打ちしかない。[2級],0,8
+html body div div div aside div ol li a  ,二束,0,10
+html body div div div aside div ol li a  ,二捉,0,10
+html body div div div aside div ol li a  ,一束,0,10
+html body div div div aside span a  ,日本語検定受検申込みはこちら！,0,8
+html body div div a  ,ページの先頭へ,0,5
+html body div div div div a dl dt  ,【JAROってなんじゃろ？】,0,9
+html body div div div div a dl dd  ,JAROは、これからも広告・表示のフェアプレイを推進してます。詳しくはこちら。,0,9
+html body div div div div a dl dt  ,【e-World Premium】,0,9
+html body div div div div a dl dd  ,「国際情報電子書籍」,0,9
+html body div div div div a dl dd  ,３月号の特集は「歩み寄れるか日韓」。 日本と韓国が懸案を克服し、未来志向の関係を築けるかを考える。,0,9
+html body div div div div a dl dt  ,【農林水産業のデジタル情報誌】,0,9
+html body div div div div a dl dd  ,デジタル情報誌「Agrio」は２０１４年３月創刊。「６次産業化」「輸出」「ＴＰＰ対策」などをテーマに週１回発行。農林水産ビジネスのヒントも満載です。,0,9
+html body div div div div a dl dt  ,【時事メディカル】,0,9
+html body div div div div a dl dd  ,医療情報サイト「時事メディカル」が伝える最新の医療ニュースに加え、気になる慢性疾患や流行中の感染症など時宜にかなった情報を日々、紹介します。,0,9
+html body div div div div a dl dt  ,【新刊】「怒る上司のトリセツ」,0,9
+html body div div div div a dl dd  ,あなたの周りの「困った人」に、振り回されていませんか？ 理不尽な怒りは相手の問題で、あなたの問題ではありません。怒りは「初期消火」が肝心。怒りのストーリーを見極めて、上手に対処しましょう。,0,9
+html body div div div div a dl dt  ,【新刊】,0,9
+html body div div div div a dl dd  ,社団法人・地方行財政調査会の「全国知事・市町村長ファイル2020-2021」発売開始！,0,9
+html body div div div div a dl dt  ,【専門情報誌】,0,9
+html body div div div div a dl dd  ,教育・福祉・地方行政・税務・ビジネスの最前線にいるあなたに新聞が書かない情報を！,0,9
+html body div div div div a dl dt  ,【重要事実情報】,0,9
+html body div div div div a dl dd  ,「売買管理支援情報」とも呼ばれる当情報サービスは、インサイダー取引の防止や、株式投資情報として活用できます。Webサービスの他、データ提供サービスも。,0,9
+html body div div dl dt  ,時事通信の商品・サービス ラインナップ,0,6
+html body div div dl dd ul li a  ,時事通信ホール,0,9
+html body div div dl dd ul li a  ,内外情勢調査会,0,9
+html body div div dl dd ul li a  ,世論調査・内閣支持率,0,9
+html body div div dl dd ul li a  ,時事通信出版局,0,9
+html body div div dl dd ul li a  ,時事速報,0,9
+html body div div dl dd ul li a  ,時事トップセミナー,0,9
+html body div div dl dd ul li a  ,講演サポート.com,0,9
+html body div div dl dd ul li a  ,専門情報誌,0,9
+html body div div dl dd ul li a  ,iJAMP時事行政情報モニター,0,9
+html body div a  ,スマートフォン版へ,0,4
+html body footer div ul li a  ,お問い合わせ,0,7
+html body footer div ul li a  ,通知解除,0,7
+html body footer div ul li a  ,RSS規約,0,7
+html body footer div ul li a  ,リンク,0,7
+html body footer div ul li a  ,著作権・免責,0,7
+html body footer div ul li a  ,個人情報保護方針,0,7
+html body footer div ul li a  ,採用情報,0,7
+html body footer div ul li a  ,個人・法人向けサービス,0,7
+html body footer div ul li a  ,会社案内,0,7

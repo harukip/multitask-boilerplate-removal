@@ -1,0 +1,346 @@
+tag,content,label,depth
+html body header div div div h1 a span  ,西日本新聞,0,9
+html body header div div div div time  ,2021年3月26日(金),0,8
+html body header div div div div div p  ,福岡,0,9
+html body header div div div div ul li a span  ,マイページ,0,11
+html body header div div div div ul li a span  ,朝刊・夕刊,0,11
+html body header div div div div ul li a span  ,特集,0,11
+html body header div div div div ul li a span  ,イベント,0,11
+html body header div div div div ul li a span  ,紙面,0,11
+html body header div div div div ul li a span  ,あな特,0,11
+html body header div div div div div a span  ,登録する,0,10
+html body header div div div div div a span  ,ログイン,0,10
+html body header div div div nav ul li a  ,トップ,0,10
+html body header div div div nav ul li a  ,福岡,0,10
+html body header div div div nav ul li a  ,九州,0,10
+html body header div div div nav ul li a  ,ビジネス,0,10
+html body header div div div nav ul li a  ,行政,0,10
+html body header div div div nav ul li a  ,社会,0,10
+html body header div div div nav ul li a  ,東京報道部,0,10
+html body header div div div nav ul li a  ,特派員から,0,10
+html body header div div div nav ul li a  ,ホークス,0,10
+html body header div div div nav ul li a  ,全国・海外,0,10
+html body header div div div div span  ,カテゴリ一覧,0,8
+html body header div div div div span a  ,新聞購読申し込み,0,9
+html body div div div div div div a div  ,九州ニュース,0,10
+html body div div div div div div ul li a  ,福岡,0,11
+html body div div div div div div ul li a  ,佐賀,0,11
+html body div div div div div div ul li a  ,長崎,0,11
+html body div div div div div div ul li a  ,熊本,0,11
+html body div div div div div div ul li a  ,大分,0,11
+html body div div div div div div ul li a  ,宮崎,0,11
+html body div div div div div div ul li a  ,鹿児島,0,11
+html body div div div div div div ul li a  ,速報,0,11
+html body div div div div div div ul li a  ,社会,0,11
+html body div div div div div div ul li a  ,経済,0,11
+html body div div div div div div ul li a  ,政治,0,11
+html body div div div div div div ul li a  ,文化,0,11
+html body div div div div div div ul li a  ,芸能,0,11
+html body div div div div div div ul li a  ,くらし,0,11
+html body div div div div div div ul li a  ,スポーツ,0,11
+html body div div div div div div ul li a  ,教育,0,11
+html body div div div div div div ul li a  ,医療・健康,0,11
+html body div div div div div div ul li a  ,科学・環境,0,11
+html body div div div div div div ul li a  ,気象,0,11
+html body div div div div div div ul li a  ,こどもタイムズ,0,11
+html body div div div div div div ul li a  ,読書,0,11
+html body div div div div div div ul li a  ,福岡ソフトバンクホークス,0,11
+html body div div div div div div a div  ,全国・海外ニュース,0,10
+html body div div div div div div ul li a  ,政治,0,11
+html body div div div div div div ul li a  ,社会,0,11
+html body div div div div div div ul li a  ,国際,0,11
+html body div div div div div div ul li a  ,経済,0,11
+html body div div div div div div ul li a  ,文化,0,11
+html body div div div div div div ul li a  ,芸能,0,11
+html body div div div div div div ul li a  ,くらし,0,11
+html body div div div div div div ul li a  ,スポーツ,0,11
+html body div div div div div div ul li a  ,医療・健康,0,11
+html body div div div div div div ul li a  ,科学・環境,0,11
+html body div div div div div div ul li a  ,気象,0,11
+html body div div div div div div ul li a  ,ニュースリリース,0,11
+html body div div div div div div a div  ,社説・コラム,0,10
+html body div div div div div div ul li a  ,社説,0,11
+html body div div div div div div ul li a  ,春秋(オピニオン),0,11
+html body div div div div div div ul li a  ,デスク日記,0,11
+html body div div div div div div div  ,コンテンツ,0,9
+html body div div div div div div ul li a  ,朝刊・夕刊,0,11
+html body div div div div div div ul li a  ,福岡イベント情報,0,11
+html body div div div div div div ul li a  ,特集一覧,0,11
+html body div div div div div div ul li a  ,テーマ一覧,0,11
+html body div div div div div div ul li a  ,記者一覧,0,11
+html body div div div div div div ul li a  ,ランキング,0,11
+html body div div div div div div ul li a  ,写真特集,0,11
+html body div div div div div div ul li a  ,ワードBOX,0,11
+html body div div div div div div ul li a  ,天気予報,0,11
+html body div div div div div div ul li a  ,防災情報,0,11
+html body div div div div div div a div  ,あなたの特命取材班,0,10
+html body div div div div div div ul li a  ,調査依頼,0,11
+html body div div div div div div ul li a  ,アンケート,0,11
+html body div div div ul li a span  ,西日本新聞ニュース,0,9
+html body div div div ul li a span  ,九州ニュース,0,9
+html body div div div ul li a span  ,福岡,0,9
+html body div div div ul li span  ,気象予報士､12歳にサクラサク 小学生で九州初,0,8
+html body div div main article header div a  ,福岡,0,9
+html body div div main article header div a  ,気象,0,9
+html body div div main article header h1  ,気象予報士､12歳にサクラサク 小学生で九州初,1,8
+html body div div main article header span time  ,2021/3/16 6:02 (2021/3/17 15:03 更新),1,9
+html body div div main article header div div p a  ,水山 真人,0,11
+html body div div main article header div div div div div div div a span  ,拡大,0,16
+html body div div main article header div div div div div div div p  ,九州の小学生で初めて気象予報士に合格した島田有吾さん。合格証明書を手に笑顔を見せた（写真の一部を加工しています）,1,15
+html body div div main article div div div p  ,合格率5・5％の難関国家資格、気象予報士の試験に、福岡市早良区の西新小6年、島田有吾さん（12）が九州の小学生として初めて合格した。平日2時間、休日5時間の勉強で高校レベルの数学や理科の基礎を身に付け、気象の知識を深めた。4回目の挑戦で突破し「いつかテレビで予報したい」と張り切っている。,1,10
+html body div div main article div div div p  ,試験を実施した気象業務支援センター（東京）によると、小学生の合格は2017年の北海道の女子児童に続いて2人目。12歳0カ月での合格は最年少の女児と約1カ月の差だった。,1,10
+html body div div main article div div div p  ,気象に興味を持ったのは幼稚園の時。母の奈瑠美さん（40）と天気予報を見て、翌日に着る服を決めるのが日課だった。ある朝、空を見上げると予報と異なり雨の予感がした。傘を持っていき「正解」だったのがうれしく、予報が好きになった。,1,10
+html body div div main article div div div p  ,小学2年でテレビ局を見学し、気象予報士が実際に使う精緻なデータを見せてもらい、「君もなったら」という言葉に背中を押された。4年の3学期から通信講座のDVDで勉強を始めた。5年で初めて試験に挑戦。あきらめずに学び続け、過去の問題を解いては、シンクタンク勤務の父、龍さん（41）や奈瑠美さんにも解説した。「宿題より楽しかった」という。,1,10
+html body div div main article div div div p  ,今年1月、小学生最後となる4回目の試験に挑戦。今月12日に合格証明書が届いた。4月からは地元の中学校に進学し、放送部で話術に磨きをかける予定だ。現在は、台風のデータ分析に取り組む島田さん。「これからは試験に関係なく、勉強したい」と笑顔を見せた。,1,10
+html body div div main article div div div p  ,（水山真人）,1,10
+html body div div main article div div div div ul li a span  ,西日本新聞,0,14
+html body div div main article div div div div ul li a span  ,社会面,0,14
+html body div div main article div div div div ul li a span  ,今日の3本,0,14
+html body div div main article div div div div ul li a span  ,子育て・学校,0,14
+html body div div main section div div div div h2  ,関連記事,0,11
+html body div div main section div div div article div h3 a  ,玄界高フェンシング部女子全国へ 昨年中止、先輩の無念を勇気に,0,13
+html body div div main section div div div article div div div a  ,福岡,0,14
+html body div div main section div div div article div div div a  ,スポーツ,0,14
+html body div div main section div div div article div div div a  ,教育,0,14
+html body div div main section div div div article div div span  ,6:04,0,13
+html body div div main section div div div article div p a  ,玄界高（古賀市）フェンシング部の女子5人が、29日に大阪市で開幕する全国選抜大会に出場する。同高は昨年も出場が決まっていたが、新型コロナウイルス緊急事態宣言で直前に大会が...,0,13
+html body div div main section div div div article div h3 a  ,西新「プラリバ」に屋上庭園 都会の森に、にぎわいづくり期待,0,13
+html body div div main section div div div article div div div a  ,福岡,0,14
+html body div div main section div div div article div div span  ,6:02,0,13
+html body div div main section div div div article div p a  ,福岡市早良区西新の商業施設「プラリバ」（地上4階地下2階建て）の屋上庭園が25日、オープンした。同市の「西の副都心」の拠点として2019年7月に開業した同施設の憩いの場と...,0,13
+html body div div main section div div div article div h3 a  ,小倉・魚町に複合ビル計画、旦過市場と相乗効果狙う,0,13
+html body div div main section div div div article div div div a  ,経済,0,14
+html body div div main section div div div article div div div a  ,福岡,0,14
+html body div div main section div div div article div div span  ,6:00,0,13
+html body div div main section div div div article div p a  ,北九州市小倉北区の中心部にある商店街「魚町銀天街」とその周辺で、老朽化した一部の店舗などを取り壊し、マンションと商業施設が入る22階建て複合ビルを建設する計画が進んでいる...,0,13
+html body div div main section div div div article div h3 a  ,小川知事辞職、選挙戦25日幕開け 新人2人が出馬へ,0,13
+html body div div main section div div div article div div div a  ,福岡,0,14
+html body div div main section div div div article div div div a  ,政治,0,14
+html body div div main section div div div article div div span  ,3/25 6:04,0,13
+html body div div main section div div div article div p a  ,肺腺がんで入院中の福岡県の小川洋知事（71）が24日、任期を2年残して辞職した。治療が長期化する見通しとなり2月22日に県議会議長に辞表を提出していた。辞職に伴う知事選は...,0,13
+html body div div main section div div div article div h3 a  ,DV被害者が「仲間」に語る 動画チャンネル開設,0,13
+html body div div main section div div div article div div div a  ,社会,0,14
+html body div div main section div div div article div div div a  ,福岡,0,14
+html body div div main section div div div article div div div a  ,くらし,0,14
+html body div div main section div div div article div div span  ,3/25 6:02,0,13
+html body div div main section div div div article div p a  ,虐待やドメスティックバイオレンス（DV）に遭った女性を支援するNPO法人「アコア」（福岡市）は今月、被害を受けた当事者の証言動画を配信するチャンネルを動画投稿サイト「ユー...,0,13
+html body div div main section div div div h3  ,福岡県の天気予報,0,10
+html body div div main section div div div div article h4 a  ,今日明日の天気,0,13
+html body div div main section div div div div h2 a  ,話題の記事,0,12
+html body div div main section div div div div span a  ,一覧へ,0,12
+html body div div main section div div div article div h3 a  ,【動画】中国でコロナワクチン受けてみた,0,13
+html body div div main section div div div article div div div a  ,国際,0,14
+html body div div main section div div div article div div span  ,3/23 20:22,0,13
+html body div div main section div div div article div p a  ,【北京・坂本信博】中国政府は、北京に駐在する外国人への国産新型コロナウイルスワクチンの任意接種を始めた。中国では全国民への無償接種が進み、投与数は約7500万回に上る。た...,0,13
+html body div div main section div div div article div h3 a  ,気象予報士､12歳にサクラサク 小学生で九州初,0,13
+html body div div main section div div div article div div div a  ,福岡,0,14
+html body div div main section div div div article div div div a  ,気象,0,14
+html body div div main section div div div article div div span  ,3/16 6:02,0,13
+html body div div main section div div div article div p a  ,合格率5・5％の難関国家資格、気象予報士の試験に、福岡市早良区の西新小6年、島田有吾さん（12）が九州の小学生として初めて合格した。平日2時間、休日5時間の勉強で高校レベ...,0,13
+html body div div main section div div div article div h3 a  ,「ひどいことを…」亡き妻と幼子へ、10年消えぬ後悔,0,13
+html body div div main section div div div article div div div a  ,福岡,0,14
+html body div div main section div div div article div div div a  ,社会,0,14
+html body div div main section div div div article div div span  ,3/12 6:00,0,13
+html body div div main section div div div article div p a  ,東日本大震災10年、消えない後悔―10年たっても消えない後悔がある。宮城県石巻市の消防士（39）はあの日の朝、妻を怒鳴りつけ、仕事に出た。アパート1階のベランダで顔を紅潮...,0,13
+html body div div main section div div div article div h3 a  ,みんな敵だった。同級生も先生も、父親も,0,13
+html body div div main section div div div article div div div a  ,社会,0,14
+html body div div main section div div div article div div div a  ,連載,0,14
+html body div div main section div div div article div div div a  ,福岡,0,14
+html body div div main section div div div article div div span  ,2/21 6:00,0,13
+html body div div main section div div div article div p a  ,#生きづらさ抱えて01―――福岡市・天神の警固公園で、マスク姿のナツキ（22）＝仮名、福岡県＝はいつもの縁石に座っていた。昨年12月上旬の深夜、気温は5度。ナンパしてきた...,0,13
+html body div div main section div div div article div h3 a  ,倦怠感、脱毛、足指腫れ…軽症でも長引く後遺症,0,13
+html body div div main section div div div article div div div a  ,社会,0,14
+html body div div main section div div div article div div span  ,2/18 6:00,0,13
+html body div div main section div div div article div p a  ,新型コロナウイルスに感染し軽症で済んだのに、倦怠（けんたい）感や脱毛、においや味がしないといった後遺症に長期間苦しむ人が相次いでいる。発症のメカニズムは分かっておらず、根...,0,13
+html body div div main section div div div div h2 a  ,福岡,0,12
+html body div div main section div div div div span a  ,一覧へ,0,12
+html body div div main section div div div article div h3 a  ,筑肥線で列車と軽乗用車が接触,0,13
+html body div div main section div div div article div div div a  ,福岡,0,14
+html body div div main section div div div article div div div a  ,社会,0,14
+html body div div main section div div div article div div span  ,11:30,0,13
+html body div div main section div div div article div h3 a  ,コンビニ強盗未遂容疑、少年2人逮捕,0,13
+html body div div main section div div div article div div div a  ,福岡,0,14
+html body div div main section div div div article div div div a  ,社会,0,14
+html body div div main section div div div article div div span  ,11:30,0,13
+html body div div main section div div div article div h3 a  ,傷害容疑で高校生ら5人逮捕,0,13
+html body div div main section div div div article div div div a  ,福岡,0,14
+html body div div main section div div div article div div div a  ,社会,0,14
+html body div div main section div div div article div div span  ,11:30,0,13
+html body div div main section div div div article div h3 a  ,城南区で偽電話詐欺被害,0,13
+html body div div main section div div div article div div div a  ,福岡,0,14
+html body div div main section div div div article div div div a  ,社会,0,14
+html body div div main section div div div article div div span  ,11:30,0,13
+html body div div main section div div div article div h3 a  ,久留米縞織「シマオリチェック」学生ら考案の洋服をカフェで展示,0,13
+html body div div main section div div div article div div div a  ,福岡,0,14
+html body div div main section div div div article div div span  ,11:30,0,13
+html body div div main section div div div article div p a  ,筑後地区の伝統織物「久留米縞織（しまおり）」で若者向けの洋服をつくる「復活プロジェクト」の成果として、学生らが考案したチェック柄「シマオリチェック」を生かした洋服10着が...,0,13
+html body div div div section div div h2  ,PR,0,9
+html body div div div section div div h2 a  ,アクセスランキング,0,10
+html body div div div section div div span a  ,一覧,0,10
+html body div div div section div div div span  ,1日,0,10
+html body div div div section div div div div article div h3 a  ,かしいかえん12月末に閉園 福岡市唯一の遊園地、コロナ禍影響,0,14
+html body div div div section div div div div article div h3 a  ,西鉄、100円バスを150円に値上げ 7月から、中期経営計画を見直し,0,14
+html body div div div section div div div div article div h3 a  ,「昨日はご飯食べられたよ」 死亡の5歳、幼稚園で食べ物描き,0,14
+html body div div div section div div div div article div h3 a  ,電車内で「電話、かけた方がいいですよ」 思いやり感じた出来事,0,14
+html body div div div section div div div div article div h3 a  ,福岡県知事選告示、新人2氏の一騎打ち コロナ対策争点に,0,14
+html body div div div section div div div time  ,2021/3/26 14:00 更新,0,10
+html body div div div section div div div span  ,1週間,0,10
+html body div div div section div div div div article div h3 a  ,【動画】ふさふさ、すやすや「森の妖精」,0,14
+html body div div div section div div div div article div h3 a  ,「昨日はご飯食べられたよ」 死亡の5歳、幼稚園で食べ物描き,0,14
+html body div div div section div div div div article div h3 a  ,消極的な選択から始まった「週末婚」 しかし、願ってもない方向に,0,14
+html body div div div section div div div div article div h3 a  ,みんな敵だった。同級生も先生も、父親も,0,14
+html body div div div section div div div div article div h3 a  ,電車内で「電話、かけた方がいいですよ」 思いやり感じた出来事,0,14
+html body div div div section div div div time  ,2021/3/26 14:00 更新,0,10
+html body div div div section div div div span  ,1ヶ月,0,10
+html body div div div section div div div div article div h3 a  ,「昨日はご飯食べられたよ」 死亡の5歳、幼稚園で食べ物描き,0,14
+html body div div div section div div div div article div h3 a  ,思いがけない〝お年玉〟,0,14
+html body div div div section div div div div article div h3 a  ,死後も暴力の影におびえ。私は「鬼」にならない,0,14
+html body div div div section div div div div article div h3 a  ,「おい、マスクはどうした」…,0,14
+html body div div div section div div div div article div h3 a  ,電車内で「電話、かけた方がいいですよ」 思いやり感じた出来事,0,14
+html body div div div section div div div time  ,2021/3/26 14:00 更新,0,10
+html body div div div section div div h2  ,福岡 アクセスランキング,0,9
+html body div div div section div div div span  ,1日,0,10
+html body div div div section div div div div article div h3 a  ,「昨日はご飯食べられたよ」 死亡の5歳、幼稚園で食べ物描き,0,14
+html body div div div section div div div div article div h3 a  ,「おなかいっぱい食べさせたかった」祖母、児相対応に不信感,0,14
+html body div div div section div div div div article div h3 a  ,みんな敵だった。同級生も先生も、父親も,0,14
+html body div div div section div div div div article div h3 a  ,思いがけない〝お年玉〟,0,14
+html body div div div section div div div div article div h3 a  ,サイコロ？ 完成間近の「天神摩天楼」 地上19階、地下2階に潜入,0,14
+html body div div div section div div div time  ,2021/3/26 14:00 更新,0,10
+html body div div div section div div div span  ,1週間,0,10
+html body div div div section div div div div article div h3 a  ,「昨日はご飯食べられたよ」 死亡の5歳、幼稚園で食べ物描き,0,14
+html body div div div section div div div div article div h3 a  ,みんな敵だった。同級生も先生も、父親も,0,14
+html body div div div section div div div div article div h3 a  ,「おなかいっぱい食べさせたかった」祖母、児相対応に不信感,0,14
+html body div div div section div div div div article div h3 a  ,思いがけない〝お年玉〟,0,14
+html body div div div section div div div div article div h3 a  ,ボスと呼ばれた女性「利用され、許せない」,0,14
+html body div div div section div div div time  ,2021/3/26 14:00 更新,0,10
+html body div div div section div div div span  ,1ヶ月,0,10
+html body div div div section div div div div article div h3 a  ,「昨日はご飯食べられたよ」 死亡の5歳、幼稚園で食べ物描き,0,14
+html body div div div section div div div div article div h3 a  ,思いがけない〝お年玉〟,0,14
+html body div div div section div div div div article div h3 a  ,「おい、マスクはどうした」…,0,14
+html body div div div section div div div div article div h3 a  ,「幸せな一家なぜ」 篠栗町5歳児餓死 母から借金申し込まれた人も,0,14
+html body div div div section div div div div article div h3 a  ,みんな敵だった。同級生も先生も、父親も,0,14
+html body div div div section div div div time  ,2021/3/26 14:00 更新,0,10
+html body div div div section div div h2 a  ,速報,0,10
+html body div div div section div div span a  ,一覧,0,10
+html body div div div section div article span  ,13:38,0,9
+html body div div div section div article h3 a  ,福岡県八女市黒木町で林野火災 約30分後にほぼ鎮火,0,10
+html body div div div section div article h3 a small  ,New,0,11
+html body div div div section div article span  ,10:17,0,9
+html body div div div section div article h3 a  ,折れた遮断棹と接触の快速電車が運転再開 JR鹿児島線と日豊線で列車に遅れ,0,10
+html body div div div section div article span  ,9:49,0,9
+html body div div div section div article h3 a  ,快速列車が折れた遮断機棹と接触 JR鹿児島線ししぶ―新宮中央間の踏切内,0,10
+html body div div div section div article span  ,3/25 18:59,0,9
+html body div div div section div article h3 a  ,長崎県で5人の感染判明 新型コロナ,0,10
+html body div div div section div article span  ,3/25 18:47,0,9
+html body div div div section div article h3 a  ,福岡市中央区高砂2丁目で建物火災の情報,0,10
+html body div div div section div div div div h2  ,注目のテーマ,0,11
+html body div div div section div div ul li a span  ,エンタメ！,0,12
+html body div div div section div div ul li a span  ,シン・フクオカ人 熱き挑戦者たち,0,12
+html body div div div section div div ul li a span  ,Gohのおつまみフレンチ,0,12
+html body div div div section div div ul li a span  ,ラーメン記者、九州をすする,0,12
+html body div div div section div div ul li a span  ,鉄ガクの旅,0,12
+html body div div div section div div ul li a span  ,博学博多,0,12
+html body div div div section div div ul li a span  ,福岡コンフィデンシャル,0,12
+html body div div div section div div ul li a span  ,虚言の果てに 福岡５歳餓死,0,12
+html body div div div section div div ul li a span  ,#福岡都市圏,0,12
+html body div div div section div div ul li a span  ,#北九州,0,12
+html body div div div section div div h2  ,PR,0,9
+html body div div p  ,クリップ機能は有料会員の方のみお使いいただけます。,0,5
+html body div div div div div a span  ,西日本新聞meとは？,0,9
+html body footer div div p span  ,西日本新聞,0,7
+html body footer div div div div a  ,九州ニュース,0,8
+html body footer div div div div div ul li a  ,福岡,0,11
+html body footer div div div div div ul li a  ,佐賀,0,11
+html body footer div div div div div ul li a  ,長崎,0,11
+html body footer div div div div div ul li a  ,熊本,0,11
+html body footer div div div div div ul li a  ,大分,0,11
+html body footer div div div div div ul li a  ,宮崎,0,11
+html body footer div div div div div ul li a  ,鹿児島,0,11
+html body footer div div div div div ul li a  ,速報,0,11
+html body footer div div div div div ul li a  ,社会,0,11
+html body footer div div div div div ul li a  ,経済,0,11
+html body footer div div div div div ul li a  ,政治,0,11
+html body footer div div div div div ul li a  ,文化,0,11
+html body footer div div div div div ul li a  ,芸能,0,11
+html body footer div div div div div ul li a  ,くらし,0,11
+html body footer div div div div div ul li a  ,スポーツ,0,11
+html body footer div div div div div ul li a  ,教育,0,11
+html body footer div div div div div ul li a  ,医療・健康,0,11
+html body footer div div div div div ul li a  ,科学・環境,0,11
+html body footer div div div div div ul li a  ,気象,0,11
+html body footer div div div div div ul li a  ,こどもタイムズ,0,11
+html body footer div div div div div ul li a  ,読書,0,11
+html body footer div div div div div ul li a  ,福岡ソフトバンクホークス,0,11
+html body footer div div div div a  ,全国・海外ニュース,0,8
+html body footer div div div div div ul li a  ,政治,0,11
+html body footer div div div div div ul li a  ,社会,0,11
+html body footer div div div div div ul li a  ,国際,0,11
+html body footer div div div div div ul li a  ,経済,0,11
+html body footer div div div div div ul li a  ,文化,0,11
+html body footer div div div div div ul li a  ,芸能,0,11
+html body footer div div div div div ul li a  ,くらし,0,11
+html body footer div div div div div ul li a  ,スポーツ,0,11
+html body footer div div div div div ul li a  ,医療・健康,0,11
+html body footer div div div div div ul li a  ,科学・環境,0,11
+html body footer div div div div div ul li a  ,気象,0,11
+html body footer div div div div div ul li a  ,ニュースリリース,0,11
+html body footer div div div div a  ,社説・コラム,0,8
+html body footer div div div div div ul li a  ,社説,0,11
+html body footer div div div div div ul li a  ,春秋(オピニオン),0,11
+html body footer div div div div div ul li a  ,デスク日記,0,11
+html body footer div div div div a  ,あなたの特命取材班,0,8
+html body footer div div div div div ul li a  ,あな特調査依頼,0,11
+html body footer div div div div div ul li a  ,アンケート一覧,0,11
+html body footer div div div div p  ,コンテンツ,0,8
+html body footer div div div div div ul li a  ,朝刊・夕刊,0,11
+html body footer div div div div div ul li a  ,福岡イベント情報,0,11
+html body footer div div div div div ul li a  ,特集一覧,0,11
+html body footer div div div div div ul li a  ,テーマ一覧,0,11
+html body footer div div div div div ul li a  ,記者一覧,0,11
+html body footer div div div div div ul li a  ,ランキング,0,11
+html body footer div div div div div ul li a  ,写真特集,0,11
+html body footer div div div div div ul li a  ,ワードBOX,0,11
+html body footer div div div div div ul li a  ,天気予報,0,11
+html body footer div div div div div ul li a  ,防災情報,0,11
+html body footer div div div ul li a  ,お問い合わせ,0,9
+html body footer div div div ul li a  ,個人情報保護方針,0,9
+html body footer div div div ul li a  ,サイトポリシー,0,9
+html body footer div div div ul li a  ,利用規約,0,9
+html body footer div div div ul li a span  ,Facebook,0,10
+html body footer div div div ul li a span  ,Twitter,0,10
+html body footer div div div ul li a span  ,Line,0,10
+html body footer div div div div p  ,サービス,0,8
+html body footer div div div div ul li a  ,新聞購読申込,0,10
+html body footer div div div div ul li a  ,記事・写真の利用案内,0,10
+html body footer div div div div ul li a  ,ネット書店,0,10
+html body footer div div div div ul li a  ,後援申請,0,10
+html body footer div div div div ul li a  ,講師派遣,0,10
+html body footer div div div div ul li a  ,製作センター見学案内,0,10
+html body footer div div div div ul li a  ,出前授業,0,10
+html body footer div div div div p  ,コンテンツ,0,8
+html body footer div div div div ul li a  ,グルメ,0,10
+html body footer div div div div ul li a  ,クラウドファンディング,0,10
+html body footer div div div div ul li a  ,不動産,0,10
+html body footer div div div div ul li a  ,携帯サイト,0,10
+html body footer div div div div ul li a  ,西日本新聞×HOT PEPPER久留米,0,10
+html body footer div div div div ul li a  ,西日本新聞フォトライブラリー,0,10
+html body footer div div div div ul li a  ,ぐらんざ,0,10
+html body footer div div div div ul li a  ,イキカタ,0,10
+html body footer div div div div ul li a  ,お金,0,10
+html body footer div div div div p  ,提携サイト,0,8
+html body footer div div div div ul li a  ,JWN,0,10
+html body footer div div div div ul li a  ,PRESS9,0,10
+html body footer div div div div ul li a  ,47NEWS,0,10
+html body footer div div div div ul li a  ,47CLUB,0,10
+html body footer div div div ul li a  ,コーポレートサイト,0,9
+html body footer div div div ul li a  ,会社案内,0,9
+html body footer div div div ul li a  ,採用情報,0,9
+html body footer div div div ul li a  ,新聞広告,0,9
+html body footer div div div ul li a  ,Web広告,0,9
+html body footer div div div ul li a  ,主催イベント,0,9
+html body footer div div div ul li a  ,記事データベース,0,9
+html body footer div div div ul li a  ,西日本会,0,9
+html body footer div div div ul li a  ,西日本文化サークル,0,9
+html body footer div div small  ,Copyright The Nishinippon Shimbun. All rights reserved.,0,6
+html body div div a  ,【西日本新聞me】を公開しました。,0,5
+html body div div a  ,詳しくはこちら,0,5

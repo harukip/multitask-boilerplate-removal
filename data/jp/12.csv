@@ -1,0 +1,786 @@
+tag,content,label,depth
+html body header a span  ,メニュー,0,5
+html body header ul li a  ,アプリ,0,6
+html body header ul li a  ,English,0,6
+html body header ul li a  ,購読お申し込み,0,6
+html body header ul li a  ,ログイン,0,6
+html body header ul li a  ,新規登録,0,6
+html body header ul li a span  ,朝刊紙面,0,7
+html body header ul li a span  ,数独,0,7
+html body header ul li a span  ,人生案内,0,7
+html body header ul li a span  ,連載小説,0,7
+html body header ul li a span  ,よみぽランド,0,7
+html body header ul li a span  ,さがす,0,7
+html body header ul li a span  ,ヘルプ,0,7
+html body header ul li a span  ,お知らせ,0,7
+html body header nav ul li a  ,トップ,0,7
+html body header nav ul li a  ,ニュース,0,7
+html body header nav ul li div ul li a  ,新着・速報,0,10
+html body header nav ul li div ul li a  ,社会,0,10
+html body header nav ul li div ul li a  ,政治,0,10
+html body header nav ul li div ul li a  ,経済,0,10
+html body header nav ul li div ul li a  ,スポーツ,0,10
+html body header nav ul li div ul li a  ,国際,0,10
+html body header nav ul li div ul li a  ,地域,0,10
+html body header nav ul li div ul li a  ,科学・IT,0,10
+html body header nav ul li div ul li a  ,教育,0,10
+html body header nav ul li div ul li a  ,エンタメ・文化,0,10
+html body header nav ul li div ul li a  ,囲碁・将棋,0,10
+html body header nav ul li div ul li a  ,ライフ,0,10
+html body header nav ul li div ul li a  ,趣味,0,10
+html body header nav ul li div ul li a  ,社説,0,10
+html body header nav ul li div ul li a  ,まとめ読み,0,10
+html body header nav ul li div ul li a  ,選挙・世論調査,0,10
+html body header nav ul li div ul li a  ,紙面＋（プラス）,0,10
+html body header nav ul li div ul li a  ,New門,0,10
+html body header nav ul li div ul li a  ,令和・新時代,0,10
+html body header nav ul li div ul li a  ,東日本大震災,0,10
+html body header nav ul li span  ,動画・写真,0,7
+html body header nav ul li div ul li a  ,新着動画,0,10
+html body header nav ul li div ul li a  ,注目動画,0,10
+html body header nav ul li div ul li a  ,動画クイズ,0,10
+html body header nav ul li div ul li a  ,バーチャル紀行,0,10
+html body header nav ul li div ul li a  ,笑点,0,10
+html body header nav ul li div ul li a  ,ゴルフサバイバル,0,10
+html body header nav ul li div ul li a  ,猫ピッチャー,0,10
+html body header nav ul li div ul li a  ,読売新聞CM,0,10
+html body header nav ul li div ul li a  ,動画の投稿,0,10
+html body header nav ul li div ul li a  ,撮ろうよ！〜写真投稿,0,10
+html body header nav ul li div ul li a  ,今日の写真は語る,0,10
+html body header nav ul li div ul li a  ,デジタルストーリー,0,10
+html body header nav ul li div ul li a  ,写真の投稿,0,10
+html body header nav ul li span  ,コラム,0,7
+html body header nav ul li div ul li a  ,「世界と日本」史,0,10
+html body header nav ul li div ul li a  ,一押しマンガ,0,10
+html body header nav ul li div ul li a  ,日本ジャズの断面,0,10
+html body header nav ul li div ul li a  ,デスクの目～政治部,0,10
+html body header nav ul li div ul li a  ,デスクの目～経済部,0,10
+html body header nav ul li div ul li a  ,デスクの目～社会部,0,10
+html body header nav ul li div ul li a  ,今につながる日本史,0,10
+html body header nav ul li div ul li a  ,なるほど！医療,0,10
+html body header nav ul li div ul li a  ,スポットライト,0,10
+html body header nav ul li div ul li a  ,ちょっと前はどうだっけ？,0,10
+html body header nav ul li div ul li a  ,編集委員の目,0,10
+html body header nav ul li div ul li a  ,人生案内,0,10
+html body header nav ul li div ul li a  ,編集手帳,0,10
+html body header nav ul li div ul li a  ,よみうり寸評,0,10
+html body header nav ul li div ul li a  ,時代の証言者,0,10
+html body header nav ul li div ul li a  ,地球を読む,0,10
+html body header nav ul li div ul li a  ,医療ルネサンス,0,10
+html body header nav ul li div ul li a  ,教育ルネサンス,0,10
+html body header nav ul li div ul li a  ,演芸,0,10
+html body header nav ul li div ul li a  ,元ヤン子育て日記,0,10
+html body header nav ul li span  ,特集,0,7
+html body header nav ul li div ul li a  ,デジタルストーリー,0,10
+html body header nav ul li div ul li a  ,箱根駅伝,0,10
+html body header nav ul li div ul li a  ,選挙,0,10
+html body header nav ul li div ul li a  ,オリンピック,0,10
+html body header nav ul li div ul li a  ,竜王戦,0,10
+html body header nav ul li div ul li a  ,KODOMO新聞,0,10
+html body header nav ul li div ul li a  ,中高生新聞,0,10
+html body header nav ul li div ul li a  ,#フレイル予防中,0,10
+html body header nav ul li div ul li a  ,STOP自殺 #しんどい君へ,0,10
+html body header nav ul li div ul li a  ,入門!!デジタル部,0,10
+html body header nav ul li div ul li a  ,シングルスタイル,0,10
+html body header nav ul li div ul li a  ,eスポーツ,0,10
+html body header nav ul li div ul li a  ,昭和史の天皇,0,10
+html body header nav ul li span  ,おすすめ,0,7
+html body header nav ul li div ul li a  ,トピックス,0,10
+html body header nav ul li div ul li a  ,発言小町＋,0,10
+html body header nav ul li div ul li a  ,中学受験サポート,0,10
+html body header nav ul li div ul li a  ,発言小町,0,10
+html body header nav ul li div ul li a  ,ヨミドクター,0,10
+html body header nav ul li div ul li a  ,OTEKOMACHI,0,10
+html body header nav ul li div ul li a  ,ささっとー,0,10
+html body header nav ul li div ul li a  ,イニングキング,0,10
+html body header nav ul li span  ,会員限定,0,7
+html body header nav ul li div ul li a  ,AKB48月刊チーム8,0,10
+html body header nav ul li div ul li a  ,数独,0,10
+html body header nav ul li div ul li a  ,巨人プレミアム,0,10
+html body header nav ul li div ul li a  ,連載小説,0,10
+html body header nav ul li div ul li a  ,漫画,0,10
+html body header nav ul li div ul li a  ,日刊！ポケモン,0,10
+html body header nav ul li div ul li a  ,グルメ部,0,10
+html body header nav ul li div ul li a  ,ちょい読み英語,0,10
+html body header nav ul li a em  ,新型コロナ,0,8
+html body header nav ul li span  ,すべて,0,7
+html body header div div p a  ,ニュース,0,7
+html body header div div ul li a  ,社会,0,8
+html body header div div ul li a  ,政治,0,8
+html body header div div ul li a  ,経済,0,8
+html body header div div ul li a  ,国際,0,8
+html body header div div ul li a  ,地域,0,8
+html body header div div ul li a  ,科学・IT,0,8
+html body header div div ul li a  ,エンタメ・文化,0,8
+html body header div div ul li a  ,囲碁・将棋,0,8
+html body header div div ul li a  ,ライフ,0,8
+html body header div div ul li a  ,趣味,0,8
+html body header div div ul li a  ,社説,0,8
+html body header div div ul li a  ,まとめ読み,0,8
+html body header div div ul li a  ,選挙・世論調査,0,8
+html body header div div ul li a  ,紙面＋（プラス）,0,8
+html body header div div ul li a  ,New門,0,8
+html body header div div ul li a  ,令和・新時代,0,8
+html body header div div p a  ,動画,0,7
+html body header div div ul li a  ,新着動画,0,8
+html body header div div ul li a  ,注目動画,0,8
+html body header div div ul li a  ,動画クイズ,0,8
+html body header div div ul li a  ,バーチャル紀行,0,8
+html body header div div ul li a  ,笑点,0,8
+html body header div div ul li a  ,ゴルフサバイバル,0,8
+html body header div div ul li a  ,猫ピッチャー,0,8
+html body header div div ul li a  ,読売新聞CM,0,8
+html body header div div ul li a  ,投稿,0,8
+html body header div div p a  ,写真,0,7
+html body header div div ul li a  ,撮ろうよ！〜写真投稿,0,8
+html body header div div ul li a  ,今日の写真は語る,0,8
+html body header div div ul li a  ,デジタルストーリー,0,8
+html body header div div ul li a  ,投稿,0,8
+html body header div div p span  ,スポーツ,0,7
+html body header div div ul li a  ,ニュース,0,8
+html body header div div ul li a  ,東京2020,0,8
+html body header div div ul li a  ,巨人プレミアム,0,8
+html body header div div ul li a  ,プロ野球,0,8
+html body header div div ul li a  ,元気ニッポン！,0,8
+html body header div div ul li a  ,箱根駅伝,0,8
+html body header div div ul li a  ,eスポーツ,0,8
+html body header div div ul li a  ,ラグビーWカップ2019,0,8
+html body header div div ul li a  ,高校総体,0,8
+html body header div div p span  ,コラム・連載・解説,0,7
+html body header div div ul li a  ,編集手帳・よみうり寸評,0,8
+html body header div div ul li a  ,人生案内,0,8
+html body header div div ul li a  ,企画連載,0,8
+html body header div div ul li a  ,Webコラム,0,8
+html body header div div ul li a  ,深読みチャンネル,0,8
+html body header div div ul li a  ,解説,0,8
+html body header div div ul li a  ,トピックス,0,8
+html body header div div p a  ,発言小町,0,7
+html body header div div ul li a  ,発言小町＋,0,8
+html body header div div p a  ,漫画,0,7
+html body header div div ul li a  ,コボちゃん,0,8
+html body header div div ul li a  ,オフィスケン太,0,8
+html body header div div ul li a  ,猫ピッチャー,0,8
+html body header div div ul li a  ,猫ピッチャー（英語版）,0,8
+html body header div div p a  ,教育・受験・就活,0,7
+html body header div div ul li a  ,ニュース,0,8
+html body header div div ul li a  ,就活情報,0,8
+html body header div div ul li a  ,中学受験サポート,0,8
+html body header div div ul li a  ,日刊！ポケモン,0,8
+html body header div div ul li a  ,子育て,0,8
+html body header div div ul li a  ,中高生新聞,0,8
+html body header div div ul li a  ,KODOMO新聞,0,8
+html body header div div ul li a  ,ポケモン活動レポート,0,8
+html body header div div p a  ,調査研究,0,7
+html body header div div ul li a  ,読売国際経済懇話会,0,8
+html body header div div ul li a  ,ノーベル賞フォーラム,0,8
+html body header div div ul li a  ,テクノフォーラム,0,8
+html body header div div ul li a  ,読売・吉野作造賞,0,8
+html body header div div ul li a  ,読売国際協力賞,0,8
+html body header div div p span  ,紙面ビューアー,0,7
+html body header div div ul li a  ,朝刊紙面,0,8
+html body header div div ul li a  ,地域版,0,8
+html body header div div ul li a  ,おくやみ,0,8
+html body header div div p span  ,その他,0,7
+html body header div div ul li a  ,連載小説,0,8
+html body header div div ul li a  ,よみぽランド,0,8
+html body header div div ul li a  ,AKB48月刊チーム8,0,8
+html body header div div ul li a  ,数独,0,8
+html body header div div ul li a  ,人生案内,0,8
+html body header div div ul li a  ,グルメ部,0,8
+html body header div div ul li a  ,医療健康,0,8
+html body header div div ul li a  ,夢色☆占い,0,8
+html body header div div ul li a  ,ちょい読み英語,0,8
+html body header div div ul li a  ,チケットストア,0,8
+html body header div div ul li a  ,おでかけクーポン,0,8
+html body header div div ul li a  ,myニュース,0,8
+html body header div div ul li a  ,スクラップ,0,8
+html body header div div ul li a  ,紙面記事検索,0,8
+html body header div div ul li a  ,正倉院展,0,8
+html body header div div p span  ,サービス,0,7
+html body header div div ul li a  ,天気,0,8
+html body header div div ul li a  ,株・為替,0,8
+html body header div div ul li a  ,交通情報,0,8
+html body header div div p span  ,読売新聞のメディア,0,7
+html body header div div ul li a  ,OTEKOMACHI,0,8
+html body header div div ul li a  ,The Japan News,0,8
+html body header div div ul li a  ,ヨミドクター,0,8
+html body header div div ul li a  ,ささっとー,0,8
+html body header div div ul li a  ,美術展ナビ,0,8
+html body header div div ul li a  ,紡ぐプロジェクト,0,8
+html body header div div ul li a  ,データベース「ヨミダス」,0,8
+html body header div div ul li a  ,教育ネットワーク,0,8
+html body header div div ul li a  ,防災ニッポン,0,8
+html body header div div ul li a  ,未来貢献プロジェクト,0,8
+html body header div div ul li a  ,活字文化プロジェクト,0,8
+html body header div div ul li a  ,挑むKANSAI,0,8
+html body header div div ul li a  ,携帯用サービス,0,8
+html body header div div ul li a  ,NEWS読売・報知,0,8
+html body header div div ul li a  ,GIANTS公式サイト,0,8
+html body header div div ul li a  ,読売新聞広告局ポータルサイト,0,8
+html body header div div ul li a  ,YOMIURI BRAND STUDIO,0,8
+html body header div div p span  ,購読のお申し込み,0,7
+html body header div div ul li a  ,読売新聞,0,8
+html body header div div ul li a  ,おためし新聞２週間無料,0,8
+html body header div div ul li a  ,読売KODOMO新聞,0,8
+html body header div div ul li a  ,読売中高生新聞,0,8
+html body header div div ul li a  ,The Japan News,0,8
+html body header div div p span  ,読売新聞オンラインについて,0,7
+html body header div div ul li a  ,読売新聞オンラインとは,0,8
+html body header div div ul li a  ,ヘルプ,0,8
+html body header div div ul li a  ,会社案内,0,8
+html body header div div ul li a  ,お知らせ,0,8
+html body header div div ul li a  ,サイトマップ,0,8
+html body header div div ul li a  ,サイトポリシー,0,8
+html body header div div ul li a  ,個人情報,0,8
+html body header div div ul li a  ,著作権,0,8
+html body header div div ul li a  ,記事・写真・動画の利用申込,0,8
+html body header div div ul li a  ,採用情報,0,8
+html body header div div ul li a  ,お問い合わせ,0,8
+html body header div div ul li a  ,デジタル広告ガイド,0,8
+html body header div div ul li a  ,新聞広告ガイド,0,8
+html body header div div p span  ,公式SNSアカウント,0,7
+html body header div div ul li a  ,Facebook,0,8
+html body header div div ul li a  ,Twitter,0,8
+html body header div div ul li a  ,LINE,0,8
+html body header div nav ul li a span  ,朝刊紙面,0,9
+html body header div nav ul li a span  ,新着・速報,0,9
+html body header div nav ul li a span  ,天気,0,9
+html body header div nav ul li a span  ,交通情報,0,9
+html body header div nav ul li a span  ,社説,0,9
+html body header div nav ul li a span  ,編集手帳,0,9
+html body header div nav ul li a span  ,よみうり寸評,0,9
+html body header div nav ul li a span  ,時代の証言者,0,9
+html body header div nav ul li a span  ,Webコラム,0,9
+html body header div nav ul li a span  ,解説,0,9
+html body header div nav ul li a span  ,調査研究,0,9
+html body header div nav ul li a span  ,トピックス,0,9
+html body header div nav ul li a span  ,動画,0,9
+html body header div nav ul li a span  ,写真,0,9
+html body header div nav ul li a span  ,巨人プレミアム,0,9
+html body header div nav ul li a span  ,イニングキング,0,9
+html body header div nav ul li a span  ,コボちゃん・漫画,0,9
+html body header div nav ul li a span  ,月刊チーム８,0,9
+html body header div nav ul li a span  ,チケットストア,0,9
+html body header div nav ul li a span  ,おでかけクーポン,0,9
+html body header div nav ul li a span  ,myニュース,0,9
+html body header div nav ul li a span  ,スクラップ,0,9
+html body header div nav ul li a span  ,夢色☆占い,0,9
+html body header div nav ul li a span  ,ちょい読み英語,0,9
+html body header div nav ul li a span  ,グルメ部,0,9
+html body header div nav ul li a span  ,教育・受験・就活,0,9
+html body header div nav ul li a span  ,医療健康,0,9
+html body header div nav ul li a span  ,ヨミドクター,0,9
+html body header div nav ul li a span  ,日刊！ポケモン,0,9
+html body header div nav ul li a span  ,発言小町,0,9
+html body header div nav ul li a span  ,OTEKOMACHI,0,9
+html body header div nav ul li a span  ,地域版,0,9
+html body header div nav ul li a span  ,おくやみ,0,9
+html body header div nav ul li a span  ,株・為替,0,9
+html body header div nav ul li a span  ,数独,0,9
+html body header div nav ul li a span  ,人生案内,0,9
+html body header div nav ul li a span  ,連載小説,0,9
+html body header div nav ul li a span  ,よみぽランド,0,9
+html body header div nav ul li span  ,読売新聞のメディア,0,8
+html body header div nav ul li div ul li a  ,OTEKOMACHI,0,11
+html body header div nav ul li div ul li a  ,The Japan News,0,11
+html body header div nav ul li div ul li a  ,ヨミドクター,0,11
+html body header div nav ul li div ul li a  ,ささっとー,0,11
+html body header div nav ul li div ul li a  ,美術展ナビ,0,11
+html body header div nav ul li div ul li a  ,紡ぐプロジェクト,0,11
+html body header div nav ul li div ul li a  ,データベース「ヨミダス」,0,11
+html body header div nav ul li div ul li a  ,教育ネットワーク,0,11
+html body header div nav ul li div ul li a  ,防災ニッポン,0,11
+html body header div nav ul li div ul li a  ,未来貢献プロジェクト,0,11
+html body header div nav ul li div ul li a  ,活字文化プロジェクト,0,11
+html body header div nav ul li div ul li a  ,挑むKANSAI,0,11
+html body header div nav ul li div ul li a  ,携帯用サービス,0,11
+html body header div nav ul li div ul li a  ,NEWS読売・報知,0,11
+html body header div nav ul li div ul li a  ,GIANTS公式サイト,0,11
+html body header div nav ul li div ul li a  ,読売新聞広告局ポータルサイト,0,11
+html body header div nav ul li div ul li a  ,YOMIURI BRAND STUDIO,0,11
+html body header div nav a span  ,すべて,0,7
+html body div div div div a  ,購読お申し込み,0,7
+html body div div div div a span  ,閉じる,0,8
+html body div div div div ul li a  ,アプリ,0,9
+html body div div div div ul li a  ,English,0,9
+html body div div div div div ul li a span  ,さがす,0,11
+html body div div div div div ul li a span  ,ヘルプ,0,11
+html body div div div div div ul li a span  ,お知らせ,0,11
+html body div div div div div ul li p a  ,トップ,0,11
+html body div div div div div ul li p span  ,ニュース,0,11
+html body div div div div div ul li div ul li a  ,新着・速報,0,13
+html body div div div div div ul li div ul li a  ,社会,0,13
+html body div div div div div ul li div ul li a  ,政治,0,13
+html body div div div div div ul li div ul li a  ,経済,0,13
+html body div div div div div ul li div ul li a  ,スポーツ,0,13
+html body div div div div div ul li div ul li a  ,国際,0,13
+html body div div div div div ul li div ul li a  ,地域,0,13
+html body div div div div div ul li div ul li a  ,科学・IT,0,13
+html body div div div div div ul li div ul li a  ,エンタメ・文化,0,13
+html body div div div div div ul li div ul li a  ,囲碁・将棋,0,13
+html body div div div div div ul li div ul li a  ,ライフ,0,13
+html body div div div div div ul li div ul li a  ,趣味,0,13
+html body div div div div div ul li div ul li a  ,社説,0,13
+html body div div div div div ul li div ul li a  ,まとめ読み,0,13
+html body div div div div div ul li div ul li a  ,選挙・世論調査,0,13
+html body div div div div div ul li div ul li a  ,紙面＋（プラス）,0,13
+html body div div div div div ul li div ul li a  ,New門,0,13
+html body div div div div div ul li div ul li a  ,令和・新時代,0,13
+html body div div div div div ul li p span  ,動画・写真,0,11
+html body div div div div div ul li div ul li a  ,新着動画,0,13
+html body div div div div div ul li div ul li a  ,注目動画,0,13
+html body div div div div div ul li div ul li a  ,動画クイズ,0,13
+html body div div div div div ul li div ul li a  ,バーチャル紀行,0,13
+html body div div div div div ul li div ul li a  ,笑点,0,13
+html body div div div div div ul li div ul li a  ,ゴルフサバイバル,0,13
+html body div div div div div ul li div ul li a  ,猫ピッチャー,0,13
+html body div div div div div ul li div ul li a  ,読売新聞CM,0,13
+html body div div div div div ul li div ul li a  ,動画の投稿,0,13
+html body div div div div div ul li div ul li a  ,撮ろうよ！〜写真投稿,0,13
+html body div div div div div ul li div ul li a  ,今日の写真は語る,0,13
+html body div div div div div ul li div ul li a  ,デジタルストーリー,0,13
+html body div div div div div ul li div ul li a  ,写真の投稿,0,13
+html body div div div div div ul li p span  ,コラム,0,11
+html body div div div div div ul li div ul li a  ,「世界と日本」史,0,13
+html body div div div div div ul li div ul li a  ,一押しマンガ,0,13
+html body div div div div div ul li div ul li a  ,日本ジャズの断面,0,13
+html body div div div div div ul li div ul li a  ,デスクの目～政治部,0,13
+html body div div div div div ul li div ul li a  ,デスクの目～経済部,0,13
+html body div div div div div ul li div ul li a  ,デスクの目～社会部,0,13
+html body div div div div div ul li div ul li a  ,今につながる日本史,0,13
+html body div div div div div ul li div ul li a  ,人生案内,0,13
+html body div div div div div ul li div ul li a  ,編集手帳,0,13
+html body div div div div div ul li div ul li a  ,よみうり寸評,0,13
+html body div div div div div ul li div ul li a  ,時代の証言者,0,13
+html body div div div div div ul li div ul li a  ,地球を読む,0,13
+html body div div div div div ul li div ul li a  ,医療ルネサンス,0,13
+html body div div div div div ul li div ul li a  ,教育ルネサンス,0,13
+html body div div div div div ul li div ul li a  ,演芸,0,13
+html body div div div div div ul li div ul li a  ,元ヤン子育て日記,0,13
+html body div div div div div ul li p span  ,特集,0,11
+html body div div div div div ul li div ul li a  ,デジタルストーリー,0,13
+html body div div div div div ul li div ul li a  ,箱根駅伝,0,13
+html body div div div div div ul li div ul li a  ,選挙,0,13
+html body div div div div div ul li div ul li a  ,オリンピック,0,13
+html body div div div div div ul li div ul li a  ,竜王戦,0,13
+html body div div div div div ul li div ul li a  ,KODOMO新聞,0,13
+html body div div div div div ul li div ul li a  ,中高生新聞,0,13
+html body div div div div div ul li div ul li a  ,#フレイル予防中,0,13
+html body div div div div div ul li div ul li a  ,STOP自殺 #しんどい君へ,0,13
+html body div div div div div ul li div ul li a  ,入門!!デジタル部,0,13
+html body div div div div div ul li div ul li a  ,シングルスタイル,0,13
+html body div div div div div ul li div ul li a  ,eスポーツ,0,13
+html body div div div div div ul li div ul li a  ,昭和史の天皇,0,13
+html body div div div div div ul li p span  ,おすすめ,0,11
+html body div div div div div ul li div ul li a  ,トピックス,0,13
+html body div div div div div ul li div ul li a  ,発言小町＋,0,13
+html body div div div div div ul li div ul li a  ,中学受験サポート,0,13
+html body div div div div div ul li div ul li a  ,発言小町,0,13
+html body div div div div div ul li div ul li a  ,ヨミドクター,0,13
+html body div div div div div ul li div ul li a  ,OTEKOMACHI,0,13
+html body div div div div div ul li div ul li a  ,ささっとー,0,13
+html body div div div div div ul li div ul li a  ,イニングキング,0,13
+html body div div div div div ul li div ul li a  ,美術展ナビ,0,13
+html body div div div div div ul li p span  ,会員限定,0,11
+html body div div div div div ul li div ul li a  ,AKB48月刊チーム8,0,13
+html body div div div div div ul li div ul li a  ,数独,0,13
+html body div div div div div ul li div ul li a  ,巨人プレミアム,0,13
+html body div div div div div ul li div ul li a  ,連載小説,0,13
+html body div div div div div ul li div ul li a  ,漫画,0,13
+html body div div div div div ul li div ul li a  ,日刊！ポケモン,0,13
+html body div div div div div ul li div ul li a  ,グルメ部,0,13
+html body div div div div div ul li div ul li a  ,ちょい読み英語,0,13
+html body div div div div div ul li p a em  ,新型コロナ,0,12
+html body div div div div div a  ,すべて表示,0,8
+html body div div div div a span  ,閉じる,0,8
+html body div div div div a  ,購読お申し込み,0,7
+html body div div div div a span  ,閉じる,0,8
+html body div div div div ul li a  ,アプリ,0,9
+html body div div div div ul li a  ,English,0,9
+html body div div div div ul li h2 a  ,ニュース,0,10
+html body div div div div ul li ul li a  ,社会,0,11
+html body div div div div ul li ul li a  ,政治,0,11
+html body div div div div ul li ul li a  ,経済,0,11
+html body div div div div ul li ul li a  ,国際,0,11
+html body div div div div ul li ul li a  ,地域,0,11
+html body div div div div ul li ul li a  ,科学・IT,0,11
+html body div div div div ul li ul li a  ,エンタメ・文化,0,11
+html body div div div div ul li ul li a  ,囲碁・将棋,0,11
+html body div div div div ul li ul li a  ,ライフ,0,11
+html body div div div div ul li ul li a  ,趣味,0,11
+html body div div div div ul li ul li a  ,社説,0,11
+html body div div div div ul li ul li a  ,まとめ読み,0,11
+html body div div div div ul li ul li a  ,選挙・世論調査,0,11
+html body div div div div ul li ul li a  ,紙面＋（プラス）,0,11
+html body div div div div ul li ul li a  ,New門,0,11
+html body div div div div ul li ul li a  ,令和・新時代,0,11
+html body div div div div ul li ul li a  ,東日本大震災,0,11
+html body div div div div ul li h2 a  ,動画,0,10
+html body div div div div ul li ul li a  ,新着動画,0,11
+html body div div div div ul li ul li a  ,注目動画,0,11
+html body div div div div ul li ul li a  ,動画クイズ,0,11
+html body div div div div ul li ul li a  ,バーチャル紀行,0,11
+html body div div div div ul li ul li a  ,笑点,0,11
+html body div div div div ul li ul li a  ,ゴルフサバイバル,0,11
+html body div div div div ul li ul li a  ,猫ピッチャー,0,11
+html body div div div div ul li ul li a  ,読売新聞CM,0,11
+html body div div div div ul li ul li a  ,投稿,0,11
+html body div div div div ul li h2 a  ,写真,0,10
+html body div div div div ul li ul li a  ,撮ろうよ！〜写真投稿,0,11
+html body div div div div ul li ul li a  ,今日の写真は語る,0,11
+html body div div div div ul li ul li a  ,デジタルストーリー,0,11
+html body div div div div ul li ul li a  ,投稿,0,11
+html body div div div div ul li h2 span  ,スポーツ,0,10
+html body div div div div ul li ul li a  ,ニュース,0,11
+html body div div div div ul li ul li a  ,東京2020,0,11
+html body div div div div ul li ul li a  ,巨人プレミアム,0,11
+html body div div div div ul li ul li a  ,プロ野球,0,11
+html body div div div div ul li ul li a  ,元気ニッポン！,0,11
+html body div div div div ul li ul li a  ,箱根駅伝,0,11
+html body div div div div ul li ul li a  ,eスポーツ,0,11
+html body div div div div ul li ul li a  ,ラグビーWカップ2019,0,11
+html body div div div div ul li ul li a  ,高校総体,0,11
+html body div div div div ul li h2 span  ,コラム・連載・解説,0,10
+html body div div div div ul li ul li a  ,編集手帳・よみうり寸評,0,11
+html body div div div div ul li ul li a  ,人生案内,0,11
+html body div div div div ul li ul li a  ,企画連載,0,11
+html body div div div div ul li ul li a  ,Webコラム,0,11
+html body div div div div ul li ul li a  ,深読みチャンネル,0,11
+html body div div div div ul li ul li a  ,解説,0,11
+html body div div div div ul li ul li a  ,トピックス,0,11
+html body div div div div ul li h2 a  ,発言小町,0,10
+html body div div div div ul li ul li a  ,発言小町＋,0,11
+html body div div div div ul li h2 a  ,漫画,0,10
+html body div div div div ul li ul li a  ,コボちゃん,0,11
+html body div div div div ul li ul li a  ,オフィスケン太,0,11
+html body div div div div ul li ul li a  ,猫ピッチャー,0,11
+html body div div div div ul li ul li a  ,猫ピッチャー（英語版）,0,11
+html body div div div div ul li h2 a  ,教育・受験・就活,0,10
+html body div div div div ul li ul li a  ,ニュース,0,11
+html body div div div div ul li ul li a  ,就活情報,0,11
+html body div div div div ul li ul li a  ,中学受験サポート,0,11
+html body div div div div ul li ul li a  ,日刊！ポケモン,0,11
+html body div div div div ul li ul li a  ,子育て,0,11
+html body div div div div ul li ul li a  ,中高生新聞,0,11
+html body div div div div ul li ul li a  ,KODOMO新聞,0,11
+html body div div div div ul li ul li a  ,ポケモン活動レポート,0,11
+html body div div div div ul li h2 a  ,調査研究,0,10
+html body div div div div ul li ul li a  ,読売国際経済懇話会,0,11
+html body div div div div ul li ul li a  ,ノーベル賞フォーラム,0,11
+html body div div div div ul li ul li a  ,テクノフォーラム,0,11
+html body div div div div ul li ul li a  ,読売・吉野作造賞,0,11
+html body div div div div ul li ul li a  ,読売国際協力賞,0,11
+html body div div div div ul li h2 span  ,紙面ビューアー,0,10
+html body div div div div ul li ul li a  ,朝刊紙面,0,11
+html body div div div div ul li ul li a  ,地域版,0,11
+html body div div div div ul li ul li a  ,おくやみ,0,11
+html body div div div div ul li h2 span  ,その他,0,10
+html body div div div div ul li ul li a  ,連載小説,0,11
+html body div div div div ul li ul li a  ,よみぽランド,0,11
+html body div div div div ul li ul li a  ,AKB48月刊チーム8,0,11
+html body div div div div ul li ul li a  ,数独,0,11
+html body div div div div ul li ul li a  ,人生案内,0,11
+html body div div div div ul li ul li a  ,グルメ部,0,11
+html body div div div div ul li ul li a  ,医療健康,0,11
+html body div div div div ul li ul li a  ,ヨミドクター,0,11
+html body div div div div ul li ul li a  ,夢色☆占い,0,11
+html body div div div div ul li ul li a  ,ちょい読み英語,0,11
+html body div div div div ul li ul li a  ,チケットストア,0,11
+html body div div div div ul li ul li a  ,おでかけクーポン,0,11
+html body div div div div ul li ul li a  ,myニュース,0,11
+html body div div div div ul li ul li a  ,スクラップ,0,11
+html body div div div div ul li ul li a  ,紙面記事検索,0,11
+html body div div div div ul li ul li a  ,正倉院展,0,11
+html body div div div div ul li h2 span  ,サービス,0,10
+html body div div div div ul li ul li a  ,天気,0,11
+html body div div div div ul li ul li a  ,株・為替,0,11
+html body div div div div ul li ul li a  ,交通情報,0,11
+html body div div div div ul li h2 span  ,読売新聞のメディア,0,10
+html body div div div div ul li ul li a  ,OTEKOMACHI,0,11
+html body div div div div ul li ul li a  ,The Japan News,0,11
+html body div div div div ul li ul li a  ,ささっとー,0,11
+html body div div div div ul li ul li a  ,美術展ナビ,0,11
+html body div div div div ul li ul li a  ,紡ぐプロジェクト,0,11
+html body div div div div ul li ul li a  ,データベース「ヨミダス」,0,11
+html body div div div div ul li ul li a  ,教育ネットワーク,0,11
+html body div div div div ul li ul li a  ,防災ニッポン,0,11
+html body div div div div ul li ul li a  ,未来貢献プロジェクト,0,11
+html body div div div div ul li ul li a  ,活字文化プロジェクト,0,11
+html body div div div div ul li ul li a  ,挑むKANSAI,0,11
+html body div div div div ul li ul li a  ,携帯用サービス,0,11
+html body div div div div ul li ul li a  ,NEWS読売・報知,0,11
+html body div div div div ul li ul li a  ,GIANTS公式サイト,0,11
+html body div div div div ul li ul li a  ,読売新聞広告局ポータルサイト,0,11
+html body div div div div ul li ul li a  ,YOMIURI BRAND STUDIO,0,11
+html body div div div div ul li h2 span  ,購読のお申し込み,0,10
+html body div div div div ul li ul li a  ,読売新聞,0,11
+html body div div div div ul li ul li a  ,おためし新聞２週間無料,0,11
+html body div div div div ul li ul li a  ,読売KODOMO新聞,0,11
+html body div div div div ul li ul li a  ,読売中高生新聞,0,11
+html body div div div div ul li ul li a  ,The Japan News,0,11
+html body div div div div ul li h2 span  ,読売新聞オンラインについて,0,10
+html body div div div div ul li ul li a  ,読売新聞オンラインとは,0,11
+html body div div div div ul li ul li a  ,ヘルプ,0,11
+html body div div div div ul li ul li a  ,会社案内,0,11
+html body div div div div ul li ul li a  ,お知らせ,0,11
+html body div div div div ul li ul li a  ,サイトマップ,0,11
+html body div div div div ul li ul li a  ,サイトポリシー,0,11
+html body div div div div ul li ul li a  ,個人情報,0,11
+html body div div div div ul li ul li a  ,著作権,0,11
+html body div div div div ul li ul li a  ,記事・写真・動画の利用申込,0,11
+html body div div div div ul li ul li a  ,採用情報,0,11
+html body div div div div ul li ul li a  ,お問い合わせ,0,11
+html body div div div div ul li ul li a  ,デジタル広告ガイド,0,11
+html body div div div div ul li ul li a  ,新聞広告ガイド,0,11
+html body div div div div div h2  ,公式SNSアカウント,0,8
+html body div div div div div ul li a  ,Facebook,0,10
+html body div div div div div ul li a  ,Twitter,0,10
+html body div div div div div ul li a  ,LINE,0,10
+html body div div div div a span  ,閉じる,0,8
+html body div div div div div h2  ,購読お申し込み,0,8
+html body div div div div div ul li h3  ,読売新聞,0,10
+html body div div div div div ul li div a  ,お申し込み,0,11
+html body div div div div div ul li div a  ,二週間無料でおためし,0,11
+html body div div div div div ul li p a  ,読売新聞オンラインとは,0,11
+html body div div div div div ul li h3  ,読売KODOMO新聞,0,10
+html body div div div div div ul li div a  ,お申し込み,0,11
+html body div div div div div ul li h3  ,読売中高生新聞,0,10
+html body div div div div div ul li div a  ,お申し込み,0,11
+html body div div div div div ul li h3  ,The Japan News,0,10
+html body div div div div div ul li div a  ,お申し込み,0,11
+html body div div div div a span  ,閉じる,0,8
+html body div div div div a span  ,閉じる,0,8
+html body div div div div ul li a span  ,朝刊紙面,0,10
+html body div div div div ul li a span  ,新着・速報,0,10
+html body div div div div ul li a span  ,社説,0,10
+html body div div div div ul li a span  ,発言小町,0,10
+html body div div div div ul li a span  ,編集手帳,0,10
+html body div div div div ul li a span  ,よみうり寸評,0,10
+html body div div div div ul li a span  ,時代の証言者,0,10
+html body div div div div ul li a span  ,Webコラム,0,10
+html body div div div div ul li a span  ,解説,0,10
+html body div div div div ul li a span  ,トピックス,0,10
+html body div div div div ul li a span  ,動画,0,10
+html body div div div div ul li a span  ,写真,0,10
+html body div div div div ul li a span  ,巨人プレミアム,0,10
+html body div div div div ul li a span  ,イニングキング,0,10
+html body div div div div ul li a span  ,コボちゃん・漫画,0,10
+html body div div div div ul li a span  ,月刊チーム８,0,10
+html body div div div div ul li a span  ,チケットストア,0,10
+html body div div div div ul li a span  ,おでかけクーポン,0,10
+html body div div div div ul li a span  ,myニュース,0,10
+html body div div div div ul li a span  ,スクラップ,0,10
+html body div div div div ul li a span  ,夢色☆占い,0,10
+html body div div div div ul li a span  ,ちょい読み英語,0,10
+html body div div div div ul li a span  ,グルメ部,0,10
+html body div div div div ul li a span  ,教育・受験・就活,0,10
+html body div div div div ul li a span  ,医療健康,0,10
+html body div div div div ul li a span  ,ヨミドクター,0,10
+html body div div div div ul li a span  ,日刊！ポケモン,0,10
+html body div div div div ul li a span  ,OTEKOMACHI,0,10
+html body div div div div ul li a span  ,地域版,0,10
+html body div div div div ul li a span  ,おくやみ,0,10
+html body div div div div ul li a  ,OTEKOMACHI,0,9
+html body div div div div ul li a  ,The Japan News,0,9
+html body div div div div ul li a  ,ささっとー,0,9
+html body div div div div ul li a  ,美術展ナビ,0,9
+html body div div div div ul li a  ,データベース「ヨミダス」,0,9
+html body div div div div ul li a  ,教育ネットワーク,0,9
+html body div div div div ul li a  ,未来貢献プロジェクト,0,9
+html body div div div div ul li a  ,活字文化プロジェクト,0,9
+html body div div div div ul li a  ,挑むKANSAI,0,9
+html body div div div div ul li a  ,携帯用サービス,0,9
+html body div div div div ul li a  ,NEWS読売・報知,0,9
+html body div div div div ul li a  ,GIANTS公式サイト,0,9
+html body div div div div ul li a  ,読売新聞広告局ポータルサイト,0,9
+html body div div div div ul li a  ,YOMIURI BRAND STUDIO,0,9
+html body div div div div ul li a  ,RETAIL AD CONSORTIUM,0,9
+html body div div div a  ,ニュース,0,6
+html body div div nav ul li a  ,社会,0,8
+html body div nav ul li a span  ,ホーム,0,8
+html body div nav ul li a span  ,ニュース,0,8
+html body div nav ul li a span  ,社会,0,8
+html body div div div article div h1  ,【独自】担当詐欺事件の捜査情報、警部が知人に漏らす…停職３か月,1,8
+html body div div div article div div div time  ,2021/03/26 14:00,1,10
+html body div div div article div div div  ,メモ入力,0,9
+html body div div div article div div div div  ,-最大400文字まで,0,10
+html body div div div article div div p  ,完了しました,0,9
+html body div div div article div p  ,担当する事件の捜査情報を知人に漏らしたとして、兵庫県警は２６日、灘署刑事２課長で警部の志村哲史容疑者（５９）を地方公務員法（守秘義務）違反容疑で書類送検し、停職３か月の懲戒処分にした。捜査関係者への取材でわかった。志村容疑者は事実関係を認めており、県警は起訴を求める「厳重処分」の意見をつけた。志村容疑者は同日、依願退職した。,1,8
+html body div div div article div p  ,捜査関係者によると、志村容疑者は昨年、金取引の投資話などで複数の人から現金を詐取したとして詐欺容疑で逮捕した男（５９）の供述内容を、被害者側だった知人の男性（５９）に漏らすなどした疑い。,1,8
+html body div div div article div p  ,知人男性は志村容疑者と高校時代からの友人で、逮捕された男が幹部を務めていた人権団体のメンバー。志村容疑者は知人男性から、詐欺事件の被害者を紹介されたという。,1,8
+html body div div div article div p  ,この詐欺事件を巡っては、奈良市内の男の親族宅に押しかけて金を取り戻そうとしたなどとして、奈良県警が昨年１２月、知人男性ら８人を恐喝容疑で逮捕。いずれも不起訴（嫌疑不十分）となったが、捜査の中で、知人男性の携帯電話の通話記録などを調べたところ、志村容疑者が詐欺事件などの捜査情報を漏らしていたことが発覚した。,1,8
+html body div div div article div p  ,奈良県警から連絡を受けた兵庫県警が今年２月、志村容疑者と知人男性に任意で事情聴取を始めたが、知人男性は同月末、自宅で自殺。志村容疑者は事実関係を認め、「情報は伝えたが、被害者対応の一環だった」などと供述しているという。,1,8
+html body div div div article div aside h2  ,あわせて読みたい,0,9
+html body div div div article div aside ul li a  ,白い毛ふわふわ…ゴマフアザラシ赤ちゃん、２年ぶり誕生,0,11
+html body div div div article div aside ul li a  ,小学校長、いじめは「子ども同士のトラブル」と報告せず…保護者に解決を口約束,0,11
+html body div div div article div aside ul li a  ,あのカツオベル、鳴らすのはあなた…「恋人の聖地」にモニュメント除幕,0,11
+html body div div div article div aside ul li a  ,無許可で豚肉販売、冷蔵庫ない拠点で…ベトナム籍の女に有罪判決,0,11
+html body div div div article div  ,無断転載・複製を禁じます,0,7
+html body div div div article div div ul li a  ,twitter,0,11
+html body div div div article div div ul li a  ,facebook,0,11
+html body div div div article div div ul li a  ,line,0,11
+html body div div div article div div ul li a  ,mail,0,11
+html body div div div article div a  ,社会,0,8
+html body div div div article div span  ,1939074,0,8
+html body div div div article div span  ,0,0,8
+html body div div div article div span a  ,社会,0,9
+html body div div div article div span  ,2021/03/26 14:00:00,0,8
+html body div div div article div span  ,2021/03/26 14:00:00,0,8
+html body div div div article div span  ,2021/03/26 14:00:00,0,8
+html body div div div h3  ,ピックアップ,0,6
+html body div div div ul li article div div h3 a  ,伊吹氏「自助は弱者切り捨てというのは間違い、首相は理念堂々と」,0,12
+html body div div div ul li article div div h4 a  ,［菅流政治］検証半年＜８＞,0,12
+html body div div div ul li article div div h3 a  ,ＡＩで来客予測９０％的中…経験と勘の何がダメだったのか,0,12
+html body div div div ul li article div div h4 a  ,トピックス,0,12
+html body div div div ul li article div div h3 a  ,アンノン族とインスタ映え、個人旅行の楽しみ今昔,0,12
+html body div div div ul li article div div h4 a  ,ちょっと前はどうだっけ？ 片山一弘,0,12
+html body div div div ul li article div div h3 a  ,ＤｅＮＡ戦 午後５時４５分開始予定,0,12
+html body div div div ul li article div div h3 div  ,会員限定,0,12
+html body div div div ul li article div div h4 a  ,巨人プレミアム,0,12
+html body div div div ul li article div div h3 a  ,掛布雅之に投じた「一生悔いが残る１球」とは…元巨人・江川卓、宿命のライバルを語る,0,12
+html body div div div ul li article div div h4 a  ,［掛布雅之物語］番外編,0,12
+html body div div div ul li article div div h3 a  ,東京五輪 聖火リレースタート,0,12
+html body div div div ul li article div div h4 a  ,デジタルストーリー,0,12
+html body div div div ul li article div div h3 a  ,ユニクロのジーンズも担う｢黒子｣が挑む表舞台,0,12
+html body div div div ul li article div div h4 a  ,東洋経済オンラインから,0,12
+html body div div div ul li article div div h3 a  ,皮膚の内出血「紫斑」、重大な病気のサインかも,0,12
+html body div div div ul li article div div h4 a  ,ヨミドクター 子どもの健康を考える「子なび」,0,12
+html body div div div ul li article div div h3 a  ,爪の形も変わる？ すっぴんネイルに自信が持てる「育爪」とは,0,12
+html body div div div ul li article div div h4 a  ,大手小町・News&Column,0,12
+html body div div div ul li article div div h3 a  ,いつかこのコラムを読む娘へ…グレてタトゥーを入れ、ママになった私が伝えたいこと,0,12
+html body div div div ul li article div div h4 a  ,元ヤン子育て日記,0,12
+html body div div div ul li article div div h3 a  ,自動運転で乗客輸送…福井で全国初、「レベル３」公道でサービス開始,0,12
+html body div div div ul li article div div h4 a  ,社会,0,12
+html body div div div ul li article div div h3 a  ,「青ガエル」北国仕様に化粧直し…昨夏に渋谷から秋田に移設,0,12
+html body div div div ul li article div div h4 a  ,社会,0,12
+html body div div div ul li article div div h3 a  ,コロナ社会が問いかける先は…エスカレーター「片側空け」を考える,0,12
+html body div div div ul li article div div h4 a  ,社会,0,12
+html body div div div ul li article div div h3 a  ,観覧、県境越えないで…「密避けマスク着用」,0,12
+html body div div div ul li article div div h3 div  ,会員限定,0,12
+html body div div div ul li article div div h4 a  ,東京五輪・パラリンピック,0,12
+html body div div div ul li article div div h3 a  ,コロナで深刻化する「女性不況」…SDGsが指摘する不平等とは？,0,12
+html body div div div ul li article div div h4 a  ,大手小町・働く女性とSDGs,0,12
+html body div div div ul li article div div h3 a  ,【特集】卒業生座談会「互いの個性を認め、尊重し合う場」…学習院女子,0,12
+html body div div div ul li article div div h4 a  ,中学受験サポート,0,12
+html body div div div ul li article div div h3 a  ,主な国公立大二次・私立大を速報中,0,12
+html body div div div ul li article div div h4 a  ,大学入試速報２０２１,0,12
+html body div div div ul li article div div h3 a  ,【随時更新】最新ニュース、基本情報はこちらで,0,12
+html body div div div ul li article div div h4 a  ,新型コロナ,0,12
+html body div div div div  ,注目情報,0,6
+html body div div div div span  ,PR,0,7
+html body div div div h2  ,読売新聞オンラインからのお知らせ,0,6
+html body div div div ul li div a  ,今回も激ムズの「むずむずパズル」,0,9
+html body div div div ul li div a  ,あなたは解けるか挑戦！,0,9
+html body div div div ul li div a  ,読売新聞「んめもの担当記者」超神ネイガー,0,9
+html body div div div ul li div a  ,秋田の食の魅力を紹介します,0,9
+html body div div div ul li div a  ,"火,金は特別な日～ヒントは数字と雑談に?",0,9
+html body div div div ul li div a  ,オンライン部の恩田さん,0,9
+html body div div div ul li div a  ,東北の特産品プレゼント,0,9
+html body div div div ul li div a  ,前沢牛や海の幸など盛りだくさん,0,9
+html body div div div ul li div a  ,人生案内～義父の悩み相談,0,9
+html body div div div ul li div a  ,今日も誰かが悩んでいます,0,9
+html body div div div ul li div a  ,不妊治療の「４つの負担」,0,9
+html body div div div ul li div a  ,ヨミドクター オンライン講演会,0,9
+html body div div div ul li div a  ,大学入試速報2021,0,9
+html body div div div ul li div a  ,主要私大も解答を速報,0,9
+html body div div div ul li div a  ,Ｎｅｗ門 旬のニュース「種明かし」,0,9
+html body div div div ul li div a  ,あなたのきょうの運勢は？夢色☆占い,0,9
+html body div div div ul li div a  ,ニュースも知識もぐんぐん！,0,9
+html body div div div ul li div a  ,KODOMO・中高生新聞試し読み,0,9
+html body div div div ul li div a  ,いますぐ読める明治から令和の記事,0,9
+html body div div div ul li div a  ,新聞データベース ヨミダスパーソナル,0,9
+html body div div div h2  ,新着プレゼント,0,6
+html body div div div ul li a  ,白鶴「ぷるぷるフルーツ酒のみくらべ」を５人に,0,8
+html body div div div ul li a  ,豊島将之竜王、島朗九段、鈴木環那女流三段が出演！ 竜王アカデミー オンラインライブ 参加者募集,0,8
+html body div div div ul li a  ,「マリ・クレール スタイル」３月２５日発行号を１０人に,0,8
+html body div div div ul li a  ,「マリ・クレール スタイル」の人気コラムを書籍化 相川圭子著「心と体をととのえて、もっと楽に生きる」を１０人に,0,8
+html body div div div ul li a  ,イギリス産原料のサプリメント「Ｄｒ. Ｍａｒｉ ビタミンＣ」を５人に,0,8
+html body div div div h2 a  ,新着クーポン,0,7
+html body div div div ul li form h3 a  ,皆生グランドホテル 天水,0,10
+html body div div div ul li form p a  ,皆生グランドホテル 天水 1200円 → 1000円,0,10
+html body div div div ul li form h3 a  ,華水亭,0,10
+html body div div div ul li form p a  ,華水亭 1500円 → 1300円,0,10
+html body div div div ul li form h3 a  ,ウインドショップ とだ【水木しげるロード】,0,10
+html body div div div ul li form p a  ,ウインドショップ とだ【水木しげるロード】 5000円(税込）以上お買い上げで粗品進呈,0,10
+html body div div div ul li form h3 a  ,三平茶屋【水木しげるロード】,0,10
+html body div div div ul li form p a  ,三平茶屋【水木しげるロード】 ソフトクリームお買い上げの方にちょっぴり大盛り,0,10
+html body div div div ul li form h3 a  ,大漁市場なかうら,0,10
+html body div div div ul li form p a  ,大漁市場なかうら 店内で商品をお買い上げいただいた方に「かにスープ（1袋）」をプレゼント,0,10
+html body div div div div p  ,読売IDのご登録でもっと便利に,0,7
+html body div div div div a  ,一般会員登録はこちら（無料）,0,7
+html body footer div  ,		,0,4
+html body footer div ul li p  ,読売KODOMO新聞,0,7
+html body footer div ul li p  ,読売中高生新聞,0,7
+html body footer div ul li p  ,The Japan News,0,7
+html body footer div h2  ,読売新聞社の運営するサイト,0,5
+html body footer div ul li h3 a  ,発言小町,0,8
+html body footer div ul li p  ,「発言小町」は、読売新聞が運営する女性向け掲示板で、女性のホンネが分かる「ネット版井戸端会議」の場です。,0,7
+html body footer div ul li h3 a  ,ヨミドクター,0,8
+html body footer div ul li p  ,yomiDr.（ヨミドクター）は、読売新聞の医療・介護・健康情報サイトです。,0,7
+html body footer div ul li h3 a  ,OTEKOMACHI,0,8
+html body footer div ul li p  ,「ＯＴＥＫＯＭＡＣＨＩ（大手小町）」は読売新聞が運営する、働く女性を応援するサイトです。,0,7
+html body footer div ul li h3 a  ,idea market,0,8
+html body footer div ul li p  ,idea market（アイデア マーケット）」は、読売新聞が運営するクラウドファンディングのサイトです。,0,7
+html body footer div ul li h3 a  ,美術展ナビ,0,8
+html body footer div ul li p  ,読売新聞が運営する美術館・博物館情報の総合ポータルページです。読売新聞主催の展覧会の他、全国美術館の情報を紹介します。,0,7
+html body footer div ul li h3 a  ,紡ぐプロジェクト,0,8
+html body footer div ul li p  ,文化庁、宮内庁、読売新聞社で行う「紡ぐプロジェクト」公式サイト。日本美術と伝統芸能など日本文化の魅力を伝えます。,0,7
+html body footer div ul li h3 a  ,読売調査研究機構,0,8
+html body footer div ul li p  ,東京、北海道、東北、中部、北陸を拠点に、著名な講師を招いた講演会や対談、読売新聞記者によるセミナーなどを開催しています。,0,7
+html body footer div ul li h3 a  ,教育ネットワーク,0,8
+html body footer div ul li p  ,読売新聞の教育プログラムやイベントを紹介するサイトです。読売ワークシート通信や出前授業もこちらから申し込めます。,0,7
+html body footer div ul li h3 a  ,データベース「ヨミダス」,0,8
+html body footer div ul li p  ,"明治からの読売新聞記事1,400万件以上がネットで読める有料データベース「ヨミダス歴史館」などについて紹介しています。",0,7
+html body footer div ul li h3 a  ,防災ニッポン,0,8
+html body footer div ul li p  ,読売新聞社の新しいくらし×防災メディアです。災害時に命や家族を守れるように、身近な防災情報を幅広く紹介しています。,0,7
+html body footer div ul li h3 a  ,元気、ニッポン！,0,8
+html body footer div ul li p  ,読売新聞社はスポーツを通じて日本を元気にする「元気、ニッポン！」プロジェクトを始めます。,0,7
+html body footer div ul li h3 a  ,中学受験サポート,0,8
+html body footer div ul li p  ,読売新聞による私立中学受験のための総合情報ページです。学校の最新情報のほか人気ライターによるお役立ちコラムも掲載中です。,0,7
+html body footer div ul li h3 a  ,たびよみ,0,8
+html body footer div ul li p  ,知れば知るほど旅は楽しくなる。旅すれば旅するほど人生は楽しくなる。そう思っていただけるような楽しく便利なメディアです。,0,7
+html body footer div ul li h3 a  ,RETAIL AD CONSORTIUM,0,8
+html body footer div ul li p  ,小売業の広告・販促のアイデアや最新の話題、コラム、調査結果など、マーケティングに携わる方に役立つ情報を紹介しています。,0,7
+html body footer div ul li h3 a  ,YOMIURI BRAND STUDIO,0,8
+html body footer div ul li p  ,新聞社の信頼性・コンテンツ制作能力と、コンソーシアム企業のクリエイティブ力で、貴社のコミュニケーション課題を解決します。,0,7
+html body footer div ul li h3 a  ,福岡ふかぼりメディアささっとー,0,8
+html body footer div ul li p  ,読売新聞西部本社が運営する福岡県のローカルウェブメディアです。福岡をテーマにした「ささる」話題が「ささっと」読めます。,0,7
+html body footer div h2  ,読売新聞社グループ,0,5
+html body footer div ul li a  ,読売情報開発,0,7
+html body footer div ul li a  ,マロニエゲート銀座,0,7
+html body footer div ul li a  ,旅行読売出版,0,7
+html body footer div ul li a  ,読売理工学院,0,7
+html body footer div ul li a  ,読売育英奨学会,0,7
+html body footer div ul li a  ,読売プラス,0,7
+html body footer div ul li a  ,読売IS,0,7
+html body footer div ul li a  ,読売AG,0,7
+html body footer div ul li a  ,読売システック,0,7
+html body footer div ul li a  ,読売プリントメディア,0,7
+html body footer div ul li a  ,読売光と愛の事業団,0,7
+html body footer div ul li a  ,正力厚生会,0,7
+html body footer div ul li a  ,福島民友,0,7
+html body footer div ul li a  ,中央公論事業出版,0,7
+html body footer div ul li a  ,中央公論美術出版,0,7
+html body footer div h2  ,読売新聞オンライン公式SNSアカウント,0,5
+html body footer div ul li a  ,Facebook,0,7
+html body footer div ul li a  ,Twitter,0,7
+html body footer div ul li a  ,LINE,0,7
+html body footer div h2  ,読売新聞オンライン（YOL）について,0,5
+html body footer div ul li a  ,読売新聞オンラインとは,0,7
+html body footer div ul li a  ,ヘルプ,0,7
+html body footer div ul li a  ,会社案内,0,7
+html body footer div ul li a  ,お知らせ,0,7
+html body footer div ul li a  ,サイトマップ,0,7
+html body footer div ul li a  ,サイトポリシー,0,7
+html body footer div ul li a  ,個人情報,0,7
+html body footer div ul li a  ,著作権,0,7
+html body footer div ul li a  ,記事・写真・動画の利用申込,0,7
+html body footer div ul li a  ,採用情報,0,7
+html body footer div ul li a  ,お問い合わせ,0,7
+html body footer div ul li a  ,デジタル広告ガイド,0,7
+html body footer div ul li a  ,新聞広告ガイド,0,7
+html body footer p  ,読売新聞オンラインに掲載している記事や写真などは、日本の著作権法や国際条約などで保護されています。読売新聞社など著作権者の承諾を得ずに、転載、インターネット送信などの方法で利用することはできません。,0,4
+html body footer p  ,© The Yomiuri Shimbun.,0,4
+html body div div div div a  ,購読お申し込み,0,7
+html body div div div div a  ,二週間無料でおためし,0,7
+html body div div div div a  ,会員登録(無料),0,7
