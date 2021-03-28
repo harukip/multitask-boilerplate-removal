@@ -17,6 +17,8 @@ from loss import Custom_Cross_Entropy
 
 def main(parser):
     args = parser.parse_args()
+    MODEL_NAME = "Bayesian" if args.bayesian else "LSTM"
+    MODEL_NAME = MODEL_NAME + "-WORD" if args.word else MODEL_NAME
 
     # Model Definition
     if args.bayesian:
@@ -46,7 +48,6 @@ def main(parser):
         print("Start Training.")
         train(args, myDataLoader, myModel)
     
-    MODEL_NAME = "Bayesian" if args.bayesian else "LSTM"
     BEST_MODEL = "/best_val/" if args.best_loss_model else "/best_macro_f1/"
     if not os.path.isdir(args.checkpoint_folder + MODEL_NAME + str(args.depth) + BEST_MODEL):
         print("Checkpoint doesn't exist. Start training.")
@@ -61,6 +62,7 @@ def main(parser):
         total=args.micro)
 def train(args, myDataLoader, myModel):
     MODEL_NAME = "Bayesian" if args.bayesian else "LSTM"
+    MODEL_NAME = MODEL_NAME + "-WORD" if args.word else MODEL_NAME
     # Compute weight
     print("Calculate class weights...")
     all_y_true = None
