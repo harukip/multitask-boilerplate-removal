@@ -1,0 +1,166 @@
+tag,content,label,depth
+html body div div  ,x close,0,4
+html body div div div h2 a  ,HILIGHT,0,7
+html body div div div div div strong  ,ข่าว-ความรู้,0,8
+html body div div div div div a  ,ข่าว,0,8
+html body div div div div div a  ,ข่าวบันเทิง,0,8
+html body div div div div div a  ,ฟุตบอล,0,8
+html body div div div div div a  ,การเงิน,0,8
+html body div div div div div a  ,การศึกษา,0,8
+html body div div div div div strong  ,บันเทิง,0,8
+html body div div div div div a  ,รูปภาพ,0,8
+html body div div div div div a  ,ดูหนัง,0,8
+html body div div div div div a  ,Music Station,0,8
+html body div div div div div a  ,ละคร,0,8
+html body div div div div div a  ,บันเทิงเกาหลี,0,8
+html body div div div div div strong  ,ไลฟ์ไตล์,0,8
+html body div div div div div a  ,ดูดวง,0,8
+html body div div div div div a  ,ผู้หญิง,0,8
+html body div div div div div a  ,ผู้ชาย,0,8
+html body div div div div div a  ,สุขภาพ,0,8
+html body div div div div div a  ,ท่องเที่ยว,0,8
+html body div div div div div a  ,สูตรอาหารง่ายๆ,0,8
+html body div div div div div strong  ,ช้อปปิ้ง,0,8
+html body div div div div div a  ,รถยนต์,0,8
+html body div div div div div a  ,บ้านและการตกแต่ง,0,8
+html body div div div div div a  ,มือถือ,0,8
+html body div div div div div a  ,ราคาทอง,0,8
+html body div div div div div a  ,ราคาน้ำมัน,0,8
+html body div div div div div strong  ,วาไรตี้,0,8
+html body div div div div div a  ,แต่งงาน,0,8
+html body div div div div div a  ,แม่และเด็ก,0,8
+html body div div div div div a  ,สัตว์เลี้ยง,0,8
+html body div div div div div a  ,Infographic,0,8
+html body div div div div div strong  ,บริการ,0,8
+html body div div div div div a  ,แอปฯ กระปุก,0,8
+html body div div div div div a  ,คอร์สออนไลน์,0,8
+html body div div div div div a  ,เรียนเลขออนไลน์,0,8
+html body div div div div div a  ,ติดต่อโฆษณา,0,8
+html body div div div div div a  ,แจ้งปัญหา,0,8
+html body div div div div div a  ,ร่วมงานกับเรา,0,8
+html body div div ul li a  ,หน้าแรก,0,7
+html body div div ul li a  ,ข่าวดารา,0,7
+html body div div ul li a  ,ข่าวการเมือง,0,7
+html body div div ul li a  ,ข่าวอาชญากรรม,0,7
+html body div div ul li a  ,ข่าวต่างประเทศ,0,7
+html body div div ul li a  ,ข่าวฮิตสังคมออนไลน์,0,7
+html body div div ul li a  ,x-file,0,7
+html body div div ul li a  ,รวมคลิป,0,7
+html body div p span a span  ,hilight,0,7
+html body div p span a span  ,ข่าวต่างประเทศ,0,7
+html body div div h1  ,เปิดสาเหตุ คนเมียนมานับพัน ข้ามสาละวินลี้ภัยมาไทย เพราะอะไร - ไทยทำอะไรได้บ้าง,1,5
+html body div div div p  ,"23,070",0,6
+html body div div div p em  ,อ่าน,0,7
+html body div div div div a span  ,0,0,8
+html body div div div div div div b  ,คนเมียนมานับพันคน ข้ามแม่น้ำสาละวิน หนีไปฝั่งไทย ในขณะที่บางส่วนหนีเข้าป่า พร้อมเผย แม่ฮ่องสอนเตรียมแผนรับมือผู้อพยพที่มาฝั่งไทย ยืนยันไม่มีการผลักดันกลับประเทศ,1,9
+html body div div div div div div  ,ภาพจาก HANDOUT / EI TU HTA COMMUNITY LEADERS / AFP,1,8
+html body div div div div div div  ,วันที่ 30 มีนาคม 2564,1,8
+html body div div div div div div a  ,สำนักข่าวอิระวดี,1,9
+html body div div div div div div  ,รายงานว่า ชาวกะเหรี่ยงในเมียนมา ต้องลี้ภัยอย่างเร่งด่วน หลังจากที่ทางการเมียนมาเปิดการโจมตีทางอากาศในจังหวัดปาปุน รัฐกะเหรี่ยงในเมียนมา,1,8
+html body div div div div div div  ,ทั้งนี้ ความขัดแย้งได้ทวีความรุนแรงอย่างมาก ระหว่างกลุ่มติดอาวุธกะเหรี่ยง KNU กับทางการของเมียนมา ซึ่งการโจมตีทางอากาศครั้งนี้ ทางองค์กรชาติพันธุ์กะเหรี่ยงเผยว่า มุ่งเป้าโจมตีไปที่ประชาชน ไม่ใช่กลุ่มกะเหรี่ยง KNU,1,8
+html body div div div div div  ,"ทั้งนี้ ชาวกะเหรี่ยงกว่า 3,000 คน ได้ลี้ภัยเข้ามายังฝั่งไทย หลังจากที่บ้านเรือนถูกโจมตีทางอากาศจนราบเป็นหน้ากลอง ในขณะที่อีกกว่า 80,000 คนได้หนีเข้าไปในป่า",1,7
+html body div div div div div span b  ,การปฏิบัติการโจมตีทางอากาศครั้งนี้ เกิดขึ้นหลังจากที่กลุ่มกะเหรี่ยง KNU ได้ปิดกั้นเส้นทางการขนส่งเสบียงไปยังกองกำลังทหารเมียนมาที่อยู่ในเมืองปาปุน แม้ว่าทางกลุ่มกะเหรี่ยง KNU จะเซ็นสัญญาหยุดยิงกับทางการเมียนมาเมื่อปี 2015 ไปแล้วก็ตาม,1,9
+html body div div div div div span b  ,ทั้งนี้ ความขัดแย้งของทางกลุ่มกะเหรี่ยงและกองทัพเมียนมาได้เริ่มต้นหนักขึ้นเรื่อย ๆ หลังจากที่ทาง KNU ได้ประกาศสนับสนุนประชาชนในการต่อต้านรัฐบาลทหารที่เข้าทำรัฐประหาร เมื่อวันที่ 1 กุมภาพันธ์ 2564 โดยในตอนนี้ มีประชาชนอย่างน้อย 3 คนที่เสียชีวิต และได้รับบาดเจ็บอย่างน้อย 9 คน จากปฏิบัติการโจมตีทางอากาศเมื่อวันเสาร์ที่ผ่านมา,1,9
+html body div div div div div  ,ด้านนายเดวิด อูแบงก์ ประธานของกลุ่ม Free Myanmar Rangers กล่าวว่า มีชาวบ้านจำนวนมากในรัฐคะฉิน กะเหรี่ยง และรัฐฉาน จำเป็นต้องลี้ภัยภายหลังการโจมตีทางการทหาร 'ความสามารถของกองทัพเมียนมาเพิ่มสูงขึ้นเรื่อย ๆ หลังได้รับความช่วยเหลือจากรัสเซียและจีน รวมถึงชาติอื่น ๆ และนี่กำลังเป็นหายนะอย่างใหญ่หลวง',1,7
+html body div div div div div div  ,จังหวัดปาปุน เป็นหนึ่งในพื้นที่ดั้งเดิมของชาวกะเหรี่ยง และเป็นที่ตั้งของสวนสาละวิน ซึ่งเป็นสถานที่อยู่ของสัตว์ป่า พันธุ์พืช พันธุ์ไม้จำนวนมาก ที่ใกล้จะสูญพันธุ์,1,8
+html body div div div div div div  ,ภาพจาก AFP PHOTO / EI TU HTA COMMUNITY LEADERS,1,8
+html body div div div div div span b  ,ทางการไทยทำอย่างไร ในภาวะผู้อพยพหลั่งไหล,1,9
+html body div div div div div  ,ด้าน,1,7
+html body div div div div div a  ,บีบีซีไทย,1,8
+html body div div div div div  ,รายงานว่า ทางเจ้าหน้าที่ฝ่ายปกครองของไทย ยอมรับว่า มีผู้อพยพจากเมียนมาข้ามฝั่งมาที่ไทยผ่าน อ.แม่สะเรียง และ อ.สบเมย จ.แม่ฮ่องสอน จริง โดยเบื้องต้น เจ้าหน้าที่ของไทยได้เข้าไปดูแล และป้องกันการเคลื่อนย้าย ซึ่งในวันที่ 30 มีนาคม นี้ ทางผู้ว่าราชการจังหวัดแม่ฮ่องสอน จะแถลงข่าวถึงแผนรับมือผู้อพยพต่อไป,1,7
+html body div div div div div span  ,ด้านนายสิธิชัย จินดาหลวง ผู้ว่าราชการจังหวัดแม่ฮ่องสอน กล่าวว่า ทางจังหวัดได้เตรียมความพร้อมในเรื่องการรับผู้ลี้ภัยไว้แล้ว ซึ่งตอนนี้เข้ามายังจุดแรกรับ และกองกำลังนเรศวรได้เข้าไปควบคุมดูแลเบื้องต้น และจากนี้ไปจะเป็นการสอบสวน หากสอบสวนแล้วพบว่า ผู้อพยพตื่นตระหนก ก็จะให้กลับเข้าไปในเมียนมาในเขตที่อยู่อาศัยเดิม แต่หากผู้อพยพได้รับผลกระทบเสี่ยงต่อชีวิต ทางเราก็จะดูแลระยะหนึ่งตามมนุษยธรรม ซึ่งในขณะนี้ ผู้อพยพยังอยู่ในความดูแลของทหารบริเวณตะเข็บชายแดน ยังไม่ได้เข้ามาในพื้นที่ชั้นใน,1,8
+html body div div div div div  ,ด้าน นายธานี แสงรัตน์ อธิบดีกรมสารนิเทศและโฆษกกระทรวงการต่างประเทศ ได้ยืนยันว่า ทางการไทยไม่เคยผลักดันผู้อพยพกลับประเทศ ฝ่ายไทยยังคงยืนยันที่จะให้การดูแลผู้ที่ข้ามชายแดนมาอยู่ฝั่งไทยแล้ว และยังคงประเมินสถานการณ์และความต้องการในพื้นที่ต่อไป,1,7
+html body div div div div div  ,ข้อมูลจาก สำนักข่าว INN,1,7
+html body div div div div div div h3  ,ประเด็นที่เกี่ยวข้อง,0,9
+html body div div div div div div h3  ,บุคคลที่เกี่ยวข้อง,0,9
+html body div div div div div div h3  ,สถานที่ที่เกี่ยวข้อง,0,9
+html body div div div div div div h3  ,ประเด็นที่เกี่ยวข้อง,0,9
+html body div div div div div strong  ,เรื่องที่คุณอาจสนใจ,0,8
+html body div strong  ,เรื่องที่คุณอาจสนใจ,0,4
+html body div div strong  ,เปิดสาเหตุ คนเมียนมานับพัน ข้ามสาละวินลี้ภัยมาไทย เพราะอะไร - ไทยทำอะไรได้บ้าง,0,5
+html body div div em  ,อัปเดตล่าสุด 30 มีนาคม 2564 เวลา 09:30:00,0,5
+html body div div em  ,"23,070 อ่าน",0,5
+html body div div  ,อ่านความคิดเห็นของเพื่อนๆ ..คิดอย่างไรกับเรื่องนี้ เขียนเลย,0,4
+html body div a  ,TOP,0,4
+html body div div div strong  ,ข่าว:,0,6
+html body div div div a  ,ข่าววันนี้,0,6
+html body div div div a  ,หวย,0,6
+html body div div div a  ,สภาพอากาศ,0,6
+html body div div div a  ,ข่าวด่วน,0,6
+html body div div div a  ,ข่าว,0,6
+html body div div div a  ,ข่าวบันเทิง,0,6
+html body div div div a  ,คลิปข่าว,0,6
+html body div div div a  ,ตรวจหวย,0,6
+html body div div div a  ,เลขเด็ด,0,6
+html body div div div a  ,ข่าวดารา,0,6
+html body div div div strong  ,ข่าวฮิต:,0,6
+html body div div div a  ,หุ้นไทย,0,6
+html body div div div a  ,ราคาทองวันนี้,0,6
+html body div div div a  ,ราคาน้ำมันวันนี้,0,6
+html body div div div a  ,ข่าวอุบัติเหตุ,0,6
+html body div div div a  ,ข่าวต่างประเทศ,0,6
+html body div div div a  ,ข่าวอาชญากรรม,0,6
+html body div div div a  ,ผลบอล,0,6
+html body div div div a  ,ข่าวกีฬา,0,6
+html body div div div a  ,ฟุตบอล,0,6
+html body div div div a  ,ข่าวการเมือง,0,6
+html body div div div strong  ,โควิด :,0,6
+html body div div div a  ,ข่าวโควิด,0,6
+html body div div div a  ,อาการโควิด,0,6
+html body div div div a  ,ประกันโควิด,0,6
+html body div div div a  ,ตรวจโควิด 19,0,6
+html body div div div a  ,สถานการณ์โควิด,0,6
+html body div div div a  ,COVID-19,0,6
+html body div div div a  ,โควิด 19,0,6
+html body div div div a  ,สถานการณ์โควิดในไทย,0,6
+html body div div div a  ,ถาม-ตอบ COVID,0,6
+html body div div div a  ,ยอดผู้ป่วยโควิด,0,6
+html body div div div strong  ,เรื่องน่าอ่าน:,0,6
+html body div div div a  ,จั๊กจั่น,0,6
+html body div div div a  ,เรารักกัน,0,6
+html body div div div a  ,เราชนะ,0,6
+html body div div div a  ,ปลาวาฬ อิสสระ,0,6
+html body div div div a  ,วันสงกรานต์,0,6
+html body div div div a  ,สงกรานต์,0,6
+html body div div div a  ,เราผูกพัน,0,6
+html body div div div a  ,พระมหาเทวีเจ้า,0,6
+html body div div div a  ,ปฏิทินวันสำคัญ 2564,0,6
+html body div div div a  ,ปฏิทิน 2564,0,6
+html body div div div strong  ,ข้อคิด คำคม:,0,6
+html body div div div a  ,บทสวดแผ่เมตตา,0,6
+html body div div div a  ,บทกรวดน้ำ,0,6
+html body div div div a  ,พุทธศาสนสุภาษิต,0,6
+html body div div div a  ,มงคลชีวิต 38 ประการ,0,6
+html body div div div a  ,บทสวดมนต์,0,6
+html body div div div a  ,สวดมนต์ก่อนนอน,0,6
+html body div div div a  ,คําคม,0,6
+html body div div div a  ,คําคมภาษาอังกฤษ,0,6
+html body div div div a  ,คําคมธรรมะ,0,6
+html body div div div a  ,บทสวดอิติปิโส,0,6
+html body div div div strong  ,บทความน่ารู้ :,0,6
+html body div div div a  ,การละเล่นพื้นบ้าน,0,6
+html body div div div a  ,รำวงมาตรฐาน,0,6
+html body div div div a  ,คําขวัญประจําจังหวัด,0,6
+html body div div div a  ,คําไทยที่มักเขียนผิด,0,6
+html body div div div a  ,คําราชาศัพท์,0,6
+html body div div div a  ,ประวัติเปตอง,0,6
+html body div div div a  ,ประวัติแชร์บอล,0,6
+html body div div div a  ,ประวัติกีฬาแบดมินตัน,0,6
+html body div div div a  ,สํานวนไทย,0,6
+html body div div div a  ,วันสําคัญของไทย,0,6
+html body div div div h2  ,บริการของเรา (Services & Solutions),0,6
+html body div div div ul li a h3  ,ผลิตเนื้อหา-ลงโฆษณา,0,9
+html body div div div ul li a span  ,พื้นที่โฆษณาประชาสัมพันธ์ที่ตอบโจทย์ทางการตลาด เข้าถึงกลุ่มเป้าหมายที่หลากหลาย,0,9
+html body div div div ul li a h3  ,ผลิตวิดีโอโปรโมต,0,9
+html body div div div ul li a span  ,"รับผลิตรายการโชว์ทางอินเทอร์เน็ตในรูปแบบตอนสั้น ๆ ไปจนถึงซีรีส์ , วิดีโอโปรโมชั่นสินค้าและบริการ",0,9
+html body div div div ul li a h3  ,พัฒนาระบบองค์กร,0,9
+html body div div div ul li a span  ,ครอบคลุมในทุกความต้องการด้านเทคโนโลยี ในยุค Big Data ด้วยทีมงานผู้เชี่ยวชาญ,0,9
+html body div div div ul li a h3  ,บริหารโซเชียลมีเดีย,0,9
+html body div div div ul li a span  ,บริการรับวางแผนและบริหาร ผลิตเนื้อหาที่หลากหลายบนเครือข่าย Social Media,0,9
+html body div div div em a  ,ดูบริการทั้งหมด คลิกที่นี่,0,7
+html body div div div h2  ,ช่องทางการติดต่อ,0,6
+html body div div div div ul li a  ,ติดต่อเรา,0,9
+html body div div div div ul li a  ,Disclaimer,0,9
+html body div div div div ul li a  ,ร่วมงานกับเรา,0,9
+html body div div div div ul li a  ,แจ้งปัญหา,0,9
+html body div div div div p  ,Kapook App ดาวน์โหลดได้เลย,0,7

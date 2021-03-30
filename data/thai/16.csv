@@ -1,0 +1,135 @@
+tag,content,label,depth
+html body p  ,-->,0,3
+html body div header div div div div ul li a span  ,เข้าสู่ระบบ,0,12
+html body div header div div nav ul li a  ,HOME,0,10
+html body div header div div nav ul li a  ,NEWS,0,10
+html body div header div div nav ul li div div div div div ul li a  ,DARA,0,17
+html body div header div div nav ul li div div div div div ul li a  ,TV,0,17
+html body div header div div nav ul li div div div div div ul li a  ,MUSIC,0,17
+html body div header div div nav ul li div div div div div ul li a  ,MOVIES,0,17
+html body div header div div nav ul li div div div div div ul li a  ,SCOOP,0,17
+html body div header div div nav ul li div div div div div ul li a  ,INTER,0,17
+html body div header div div nav ul li div div div div div ul li a  ,VDO CLIPS,0,17
+html body div header div div nav ul li a  ,VDO,0,10
+html body div header div div nav ul li a  ,GALLERY,0,10
+html body div header div div nav ul li a  ,เรื่องย่อละคร,0,10
+html body div header div div nav ul li a  ,ดูดวง,0,10
+html body div header div div nav ul li a  ,OTHER,0,10
+html body div header div div nav ul li div div div div div ul li a  ,MOVIE TRAILER,0,17
+html body div header div div nav ul li div div div div div ul li a  ,ร่วมงานกับเรา,0,17
+html body div header div div nav ul li div div div div div ul li a  ,ABOUT US,0,17
+html body div header div div nav ul li div div div div div ul li a  ,CONTACT US,0,17
+html body div header div div nav ul li div div div div div ul li a  ,FACEBOOK,0,17
+html body div header div div nav ul li div div div div div ul li a  ,INSTAGRAM,0,17
+html body div header div div nav ul li div div div div div ul li a  ,TWITTER,0,17
+html body div header div div nav ul li div div div div div ul li a  ,YOUTUBE,0,17
+html body div header div div nav ul li div div div div div ul li a  ,LINE OFFICIAL,0,17
+html body div div div div span  ,					Close				,0,7
+html body div div div ul li a  ,HOME,0,8
+html body div div div ul li a  ,NEWS,0,8
+html body div div div ul li ul li a  ,DARA,0,10
+html body div div div ul li ul li a span  ,TV,0,11
+html body div div div ul li ul li a  ,MUSIC,0,10
+html body div div div ul li ul li a  ,MOVIES,0,10
+html body div div div ul li ul li a  ,SCOOP,0,10
+html body div div div ul li ul li a  ,INTER,0,10
+html body div div div ul li ul li a  ,VDO CLIPS,0,10
+html body div div div ul li a  ,VDO,0,8
+html body div div div ul li a  ,GALLERY,0,8
+html body div div div ul li a  ,เรื่องย่อละคร,0,8
+html body div div div ul li a  ,ดูดวง,0,8
+html body div div div ul li a  ,OTHER,0,8
+html body div div div ul li ul li a  ,TV ONLINE,0,10
+html body div div div ul li ul li a  ,MOVIE TRAILER,0,10
+html body div div div ul li ul li a  ,SHOP DD,0,10
+html body div div div ul li ul li a  ,PRODUCTS,0,10
+html body div div div ul li ul li a  ,ABOUT US,0,10
+html body div div div ul li ul li a  ,CONTACT US,0,10
+html body div div div ul li ul li a  ,CAREER,0,10
+html body div section div div div div div h1  ,"“วาววา” พักร้ายเปลี่ยนโหมดหวาน มงลงเป็นนางเอก “Groovin""On รักนี้ต้องอิมโพรไวส์”",1,10
+html body div section div div div div div ul li a  ,16 มีค. 2564,1,12
+html body div section div div div div div div strong  ,0,0,11
+html body div section div div div div div p span strong  ,“,0,12
+html body div section div div div div div p span strong span  ,วาววา,0,13
+html body div section div div div div div p span strong  ,”,0,12
+html body div section div div div div div p span strong span  ,พักร้ายเปลี่ยนโหมดหวาน มงลงเป็นนางเอก,0,13
+html body div section div div div div div p span strong  ,“Groovin’On,0,12
+html body div section div div div div div p span strong span  ,รักนี้ต้องอิมโพรไวส์,0,13
+html body div section div div div div div p span strong  ,”,0,12
+html body div section div div div div div p span span span span strong  ,งานแน่นมากสำหรับ,1,15
+html body div section div div div div div p span span span span strong em  ,"""วาววา ณิชชา""",1,16
+html body div section div div div div div p span span span span strong  ,นางเอกฟรีแลนซ์ที่ตอนนี้ผู้จัดคนไหนๆ ก็อยากให้เธอไปรับบทร้ายบทแรงพริกสิบไร่กันทั้งนั้น,1,15
+html body div section div div div div div p span strong span  ,"แต่งานนี้มีอีกหนึ่งทางเลือกดีๆ กับอีกหนึ่งบทบาทใหม่ๆในซีรีส์ที่ดีต่อใจ """,1,13
+html body div section div div div div div p span strong  ,Groovin’On,1,12
+html body div section div div div div div p span strong span  ,"รักนี้ต้องอิมโพรไวส์"" ผลงานการผลิต",1,13
+html body div section div div div div div p span strong  ,Original Series,1,12
+html body div section div div div div div p span strong span  ,สุดปังเรื่องแรกจาก,1,13
+html body div section div div div div div p span strong  ,POPS Application,1,12
+html body div section div div div div div p span strong span  ,"ที่ขอหยิบอีกด้านของ ""สาววาววา"" ฉีกลุคเดิมๆ สลัดคราบจากทุกบทบาทเดิมๆ มารับบทสาวหวานไม่ใส่น้ำตาล คืนบัลลังก์นางเอกเต็มตัวอีกครั้งประกบพระเอกสายเกรียน ""เก้า-จิรายุ"" ที่เคมีตรงกันเป๊ะ",1,13
+html body div section div div div div div p span strong span  ,แถมยังปล่อยเบื้องหลังเรียกน้ำย่อยมาให้เราฟินกันบ่อยๆ ซึ่งแค่ได้ยินชื่อเรื่อง,1,13
+html body div section div div div div div p span strong span  ,"ก็รับประกันได้เลยว่า องค์ประกอบต่างๆ และจังหวะดนตรีของซีรีส์เรื่องนี้ต้องโดนใจ มาพร้อมความบันเทิงแน่นๆ ที่สำคัญยังมีฉากไฮไลท์โหมดฟรุ้งฟริ้งที่ ""สาววาววา"" บินไปถ่ายทำไกลถึงเชียงใหม่ สุดแสนจะโรแมนติกอีกเพียบ บอกเลยว่าใครพลาดซีรีส์เรื่องนี้ คุณเสียใจอย่างแรงรอรับชมพร้อมกันได้ทาง",1,13
+html body div section div div div div div p span strong  ,POPS Application ( https://pops.tv/th ),1,12
+html body div section div div div div div p span strong span  ,ในวันที่ 27 มีนาคม 2564 นี้,1,13
+html body div section div div div div div div span  ,TAG :,0,11
+html body div section div div div div div div a  ,Daradaily,0,11
+html body div section div div div div div div a  ,NEWS,0,11
+html body div section div div div div div div a  ,Today,0,11
+html body div section div div div div div div a  ,ข่าว,0,11
+html body div section div div div div div div a  ,ข่าวHOT,0,11
+html body div section div div div div div div a  ,ข่าวดารา,0,11
+html body div section div div div div div div a  ,ข่าวบันเทิง,0,11
+html body div section div div div div div div a  ,ข่าวล่าสุด,0,11
+html body div section div div div div div div a  ,ข่าววันนี้,0,11
+html body div section div div div div div div a  ,ข่าวสด,0,11
+html body div section div div div div div div a  ,ข่าวใหม่,0,11
+html body div section div div div div div div a  ,ดาราเดลี่,0,11
+html body div section div div div div div div div h2  ,ข่าวที่เกี่ยวข้อง,0,12
+html body div section div div div div div div div div div div div ul li a  ,29 มีค. 2564,0,18
+html body div section div div div div div div div div div div div ul li a  ,by daradaily,0,18
+html body div section div div div div div div div div div h3 a  ,"“วาววา” ประกบคู่ “เก้า"" ยิ้มรับความสำเร็จ “รักนี้ต้องอิมโพรไวส์” โกยคำชมอย่างรัวๆ",0,15
+html body div section div div div div div div div div div div div ul li a  ,29 มีค. 2564,0,18
+html body div section div div div div div div div div div div div ul li a  ,by daradaily,0,18
+html body div section div div div div div div div div div h3 a  ,สวยมาก! “กบ เสาวนิตย์” สักเบญจมาศรับซีรีส์ “รักนี้ต้องอิมโพรไวส์”,0,15
+html body div section div div div div div div div div div div div ul li a  ,23 มีค. 2564,0,18
+html body div section div div div div div div div div div div div ul li a  ,by daradaily,0,18
+html body div section div div div div div div div div div h3 a  ,“เก้า จิรายุ” ประกบคู่ “วาววา” เปิดประสบการณ์ทางด้านดนตรีแจ๊สครั้งแรก,0,15
+html body div section div div div div div div div div div div div ul li a  ,23 มีค. 2564,0,18
+html body div section div div div div div div div div div div div ul li a  ,by daradaily,0,18
+html body div section div div div div div div div div div h3 a  ,“เก้า จิรายุ” ประกบคู่ “วาววา” เปิดประสบการณ์ทางด้านดนตรีแจ๊สครั้งแรก,0,15
+html body div section div div div div div div div div div div div ul li a  ,16 มีค. 2564,0,18
+html body div section div div div div div div div div div div div ul li a  ,by daradaily,0,18
+html body div section div div div div div div div div div h3 a  ,"“วาววา” พักร้ายเปลี่ยนโหมดหวาน มงลงเป็นนางเอก “Groovin""On รักนี้ต้องอิมโพรไวส์”",0,15
+html body div section div div div div div div div div div div div ul li a  ,16 มีค. 2564,0,18
+html body div section div div div div div div div div div div div ul li a  ,by daradaily,0,18
+html body div section div div div div div div div div div h3 a  ,"“วาววา” พักร้ายเปลี่ยนโหมดหวาน มงลงเป็นนางเอก “Groovin""On รักนี้ต้องอิมโพรไวส์”",0,15
+html body div section div div div div div div div div div div div ul li a  ,15 มีค. 2564,0,18
+html body div section div div div div div div div div div div div ul li a  ,by daradaily,0,18
+html body div section div div div div div div div div div h3 a  ,"เรื่องย่อ ""เดอะ เดบิวต์..อวสานไอดอล”",0,15
+html body div section div div div div div div div h2  ,Gallery ที่เกี่ยวข้อง,0,12
+html body div section div div div div div div div div div div div a  ,21 Photos,0,16
+html body div section div div div div div div div div div div h3 a  ,"พลอย, ดีเจพี่ฉอด, ออย, เก้า, ฝน ร่วมงานแถลงข่าวช่อง GMM",0,16
+html body div section div div div div div div div div div div div ul li a  ,26 พค. 2560,0,18
+html body div section div div div div div div div div div div div a  ,58 Photos,0,16
+html body div section div div div div div div div div div div h3 a  ,"ฤกษ์ดีทัพนักแสดงบวงสรวงละครน้ำดี 2 เรื่อง ""ละครคน"" และ ""เรื่องหลงไฟ""",0,16
+html body div section div div div div div div div div div div div ul li a  ,19 เมย. 2560,0,18
+html body div section div div div div div div span  ,Comments,0,11
+html body div section div div aside div div div a h3  ,เรื่องย่อละคร,0,12
+html body div section div div aside div div div a h3  ,Movie & Series,0,12
+html body div section div div aside div div div div div h3 a  ,SEOBOK : ซอบก,0,14
+html body div section div div aside div div div div div h3 a  ,Happy Together : โลกนี้รักใครไม่ได้นอกจากเขา,0,14
+html body div section div div aside div div div div div h3 a  ,My Rhythm : มายริทึ่ม,0,14
+html body div footer div section div ul li a  ,Facebook,0,10
+html body div footer div section div ul li a  ,Twitter,0,10
+html body div footer div section div ul li a  ,Instagram,0,10
+html body div footer div section div ul li a  ,Youtube,0,10
+html body div footer div section div ul li a  ,LINE,0,10
+html body div footer div section div div p  ,"9 Soi Ladplakao 14, Ladplakao Rd., Jorakaebua, Ladprao, Bangkok 10230 Thailand",0,9
+html body div footer div section div div p  ,"Tel :: (+662) 116-6888, Fax :: (+662) 116-9821",0,9
+html body div footer div section div div div div  ,สมาชิกของ,0,10
+html body div footer div section div div div div  ,สมาคมผู้ผลิตข่าวออนไลน์,0,10
+html body div footer div div span  ,"				©2013. Daradaily Co., Ltd. All rights reserved.			",0,7
+html body div footer div div ul li a  ,ABOUT,0,9
+html body div footer div div ul li a  ,CONTACT,0,9
+html body div footer div div ul li a  ,CAREER,0,9
+html body div footer div div ul li a  ,PRIVACY POLICY,0,9
+html body div div div  ,[x]			close,0,5

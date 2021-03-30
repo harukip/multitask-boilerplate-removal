@@ -1,0 +1,157 @@
+tag,content,label,depth
+html body div div  ,x close,0,4
+html body div div div h2 a  ,HILIGHT,0,7
+html body div div div div div strong  ,ข่าว-ความรู้,0,8
+html body div div div div div a  ,ข่าว,0,8
+html body div div div div div a  ,ข่าวบันเทิง,0,8
+html body div div div div div a  ,ฟุตบอล,0,8
+html body div div div div div a  ,การเงิน,0,8
+html body div div div div div a  ,การศึกษา,0,8
+html body div div div div div strong  ,บันเทิง,0,8
+html body div div div div div a  ,รูปภาพ,0,8
+html body div div div div div a  ,ดูหนัง,0,8
+html body div div div div div a  ,Music Station,0,8
+html body div div div div div a  ,ละคร,0,8
+html body div div div div div a  ,บันเทิงเกาหลี,0,8
+html body div div div div div strong  ,ไลฟ์ไตล์,0,8
+html body div div div div div a  ,ดูดวง,0,8
+html body div div div div div a  ,ผู้หญิง,0,8
+html body div div div div div a  ,ผู้ชาย,0,8
+html body div div div div div a  ,สุขภาพ,0,8
+html body div div div div div a  ,ท่องเที่ยว,0,8
+html body div div div div div a  ,สูตรอาหารง่ายๆ,0,8
+html body div div div div div strong  ,ช้อปปิ้ง,0,8
+html body div div div div div a  ,รถยนต์,0,8
+html body div div div div div a  ,บ้านและการตกแต่ง,0,8
+html body div div div div div a  ,มือถือ,0,8
+html body div div div div div a  ,ราคาทอง,0,8
+html body div div div div div a  ,ราคาน้ำมัน,0,8
+html body div div div div div strong  ,วาไรตี้,0,8
+html body div div div div div a  ,แต่งงาน,0,8
+html body div div div div div a  ,แม่และเด็ก,0,8
+html body div div div div div a  ,สัตว์เลี้ยง,0,8
+html body div div div div div a  ,Infographic,0,8
+html body div div div div div strong  ,บริการ,0,8
+html body div div div div div a  ,แอปฯ กระปุก,0,8
+html body div div div div div a  ,คอร์สออนไลน์,0,8
+html body div div div div div a  ,เรียนเลขออนไลน์,0,8
+html body div div div div div a  ,ติดต่อโฆษณา,0,8
+html body div div div div div a  ,แจ้งปัญหา,0,8
+html body div div div div div a  ,ร่วมงานกับเรา,0,8
+html body div div ul li a  ,หน้าแรก,0,7
+html body div div ul li a  ,ข่าวดารา,0,7
+html body div div ul li a  ,ข่าวการเมือง,0,7
+html body div div ul li a  ,ข่าวอาชญากรรม,0,7
+html body div div ul li a  ,ข่าวต่างประเทศ,0,7
+html body div div ul li a  ,ข่าวฮิตสังคมออนไลน์,0,7
+html body div div ul li a  ,x-file,0,7
+html body div div ul li a  ,รวมคลิป,0,7
+html body div p span a span  ,hilight,0,7
+html body div p span a span  ,ข่าวต่างประเทศ,0,7
+html body div div h1  ,ทริปแห่งฝันร้าย ฮ. ตก กลางเขา ขณะพาคนเล่นสกี คร่ามหาเศรษฐีอันดับ 1 ของเช็ก ดับสลด,1,5
+html body div div div p  ,"5,390",0,6
+html body div div div p em  ,อ่าน,0,7
+html body div div div div a span  ,0,0,8
+html body div div div div div div b  ,ฮ. ตกในรัฐอะแลสกา คร่าชีวิต ปีเตอร์ เคลล์เนอร์ มหาเศรษฐีอันดับ 1 ของสาธารณรัฐเช็ก ขณะนำคณะไปเล่นสกีใกล้ธารน้ำแข็ง ยังไม่ทราบสาเหตุการตก พบ 6 ชีวิตบนเครื่อง รอดเพียง 1,1,9
+html body div div div div div div  ,ภาพจาก AFP PHOTO / PPF GROUP,0,8
+html body div div div div div div  ,วันที่ 29 มีนาคม 2564,1,8
+html body div div div div div div a  ,สำนักข่าวซีเอ็นเอ็น,1,9
+html body div div div div div div  ,รายงานว่า เกิดอุบัติเหตุเฮลิคอปเตอร์โดยสารตกในพื้นที่ใกล้ธารน้ำแข็งนิค ในรัฐอะแลสกา สหรัฐฯ เป็นผลให้มีผู้เสียชีวิต 5 ราย และบาดเจ็บสาหัส 1 ราย โดยหนึ่งในผู้เสียชีวิตคือ ปีเตอร์ เคลล์เนอร์ (Petr Kellner) มหาเศรษฐีอันดับ 1 ของสาธารณรัฐเช็ก ซึ่งเดินทางไปเล่นสกีในพื้นที่ดังกล่าวพร้อมผู้ติดตาม,1,8
+html body div div div div div div  ,อุบัติเหตุดังกล่าวเกิดขึ้นในช่วงเย็นวันเสาร์ที่ผ่านมา (27 มีนาคม) ตามเวลาท้องถิ่น ข้อมูลจากแถลงการณ์ของหน่วยงานตำรวจประจำรัฐอะแลสกา ระบุว่า ทางคณะกรรมการความปลอดภัยด้านการขนส่งแห่งชาติกำลังอยู่ระหว่างสอบสวนอุบัติเหตุที่เกิดขึ้น แต่ยังไม่ทราบสาเหตุของการตกในขณะนี้ สำหรับเฮลิคอปเตอร์ที่เกิดเหตุ เป็นรุ่น Airbus AS350 B3 ของบริษัท Soloy Helicopters โดยเชื่อว่าคณะดังกล่าวอยู่ระหว่างการเล่นเฮลิ-สกี ซึ่งเป็นการเล่นสกีแบบกระโดดลงจากเฮลิคอปเตอร์ในพื้นที่ห่างไกล,1,8
+html body div div div div div span b  ,อนึ่ง สำหรับ ปีเตอร์ เคลล์เนอร์ มหาเศรษฐีวัย 56 ปี นับเป็นหนึ่งในนักลงทุนที่มีบทบาทสำคัญอย่างยิ่งต่อเศรษฐกิจของสาธารณรัฐเช็ก โดยเขาเป็นผู้ร่วมก่อตั้งบริษัท PPF Group ในปี 2534 ซึ่งเป็นส่วนหนึ่งในการแปรรูปเศรษฐกิจของประเทศหลังการล่มสลายของลัทธิคอมมิวนิสต์ โดยเคลล์เนอร์มีสัดส่วนความเป็นเจ้าของถึง 99% ขณะที่ปัจจุบัน PPF Group เป็นบริษัทการลงทุนที่มีการลงทุนในบริษัทกว่า 20 แห่งทั่วโลก,1,9
+html body div div div div div div  ,ปัจจุบัน เคลล์เนอร์ มีทรัพย์สินสุทธิอยู่ที่ 1.57 หมื่นล้านดอลลาร์สหรัฐ หรือราว 4.9 แสนล้านบาท โดยเขาเป็นบุคคลเพียงหนึ่งเดียวจากสาธารณรัฐเช็ก ที่มีรายชื่ออยู่ในดัชนีมหาเศรษฐีของบลูมเบิร์ก ซึ่งเป็นดัชนีจัดอันดับ 500 มหาเศรษฐีที่รวยสุดในโลก,1,8
+html body div div div div div div  ,ขอบคุณข้อมูลจาก,1,8
+html body div div div div div div a  ,CNN,1,9
+html body div div div div div div h3  ,ประเด็นที่เกี่ยวข้อง,0,9
+html body div div div div div div h3  ,บุคคลที่เกี่ยวข้อง,0,9
+html body div div div div div div h3  ,สถานที่ที่เกี่ยวข้อง,0,9
+html body div div div div div div h3  ,ประเด็นที่เกี่ยวข้อง,0,9
+html body div div div div div strong  ,เรื่องที่คุณอาจสนใจ,0,8
+html body div strong  ,เรื่องที่คุณอาจสนใจ,0,4
+html body div div strong  ,ทริปแห่งฝันร้าย ฮ. ตก กลางเขา ขณะพาคนเล่นสกี คร่ามหาเศรษฐีอันดับ 1 ของเช็ก ดับสลด,0,5
+html body div div em  ,อัปเดตล่าสุด 30 มีนาคม 2564 เวลา 11:23:00,0,5
+html body div div em  ,"5,390 อ่าน",0,5
+html body div div  ,อ่านความคิดเห็นของเพื่อนๆ ..คิดอย่างไรกับเรื่องนี้ เขียนเลย,0,4
+html body div a  ,TOP,0,4
+html body div div div strong  ,ข่าว:,0,6
+html body div div div a  ,ข่าววันนี้,0,6
+html body div div div a  ,หวย,0,6
+html body div div div a  ,สภาพอากาศ,0,6
+html body div div div a  ,ข่าวด่วน,0,6
+html body div div div a  ,ข่าว,0,6
+html body div div div a  ,ข่าวบันเทิง,0,6
+html body div div div a  ,คลิปข่าว,0,6
+html body div div div a  ,ตรวจหวย,0,6
+html body div div div a  ,เลขเด็ด,0,6
+html body div div div a  ,ข่าวดารา,0,6
+html body div div div strong  ,ข่าวฮิต:,0,6
+html body div div div a  ,หุ้นไทย,0,6
+html body div div div a  ,ราคาทองวันนี้,0,6
+html body div div div a  ,ราคาน้ำมันวันนี้,0,6
+html body div div div a  ,ข่าวอุบัติเหตุ,0,6
+html body div div div a  ,ข่าวต่างประเทศ,0,6
+html body div div div a  ,ข่าวอาชญากรรม,0,6
+html body div div div a  ,ผลบอล,0,6
+html body div div div a  ,ข่าวกีฬา,0,6
+html body div div div a  ,ฟุตบอล,0,6
+html body div div div a  ,ข่าวการเมือง,0,6
+html body div div div strong  ,โควิด :,0,6
+html body div div div a  ,ข่าวโควิด,0,6
+html body div div div a  ,อาการโควิด,0,6
+html body div div div a  ,ประกันโควิด,0,6
+html body div div div a  ,ตรวจโควิด 19,0,6
+html body div div div a  ,สถานการณ์โควิด,0,6
+html body div div div a  ,COVID-19,0,6
+html body div div div a  ,โควิด 19,0,6
+html body div div div a  ,สถานการณ์โควิดในไทย,0,6
+html body div div div a  ,ถาม-ตอบ COVID,0,6
+html body div div div a  ,ยอดผู้ป่วยโควิด,0,6
+html body div div div strong  ,เรื่องน่าอ่าน:,0,6
+html body div div div a  ,จั๊กจั่น,0,6
+html body div div div a  ,เรารักกัน,0,6
+html body div div div a  ,เราชนะ,0,6
+html body div div div a  ,ปลาวาฬ อิสสระ,0,6
+html body div div div a  ,วันสงกรานต์,0,6
+html body div div div a  ,สงกรานต์,0,6
+html body div div div a  ,เราผูกพัน,0,6
+html body div div div a  ,พระมหาเทวีเจ้า,0,6
+html body div div div a  ,ปฏิทินวันสำคัญ 2564,0,6
+html body div div div a  ,ปฏิทิน 2564,0,6
+html body div div div strong  ,ข้อคิด คำคม:,0,6
+html body div div div a  ,บทสวดแผ่เมตตา,0,6
+html body div div div a  ,บทกรวดน้ำ,0,6
+html body div div div a  ,พุทธศาสนสุภาษิต,0,6
+html body div div div a  ,มงคลชีวิต 38 ประการ,0,6
+html body div div div a  ,บทสวดมนต์,0,6
+html body div div div a  ,สวดมนต์ก่อนนอน,0,6
+html body div div div a  ,คําคม,0,6
+html body div div div a  ,คําคมภาษาอังกฤษ,0,6
+html body div div div a  ,คําคมธรรมะ,0,6
+html body div div div a  ,บทสวดอิติปิโส,0,6
+html body div div div strong  ,บทความน่ารู้ :,0,6
+html body div div div a  ,การละเล่นพื้นบ้าน,0,6
+html body div div div a  ,รำวงมาตรฐาน,0,6
+html body div div div a  ,คําขวัญประจําจังหวัด,0,6
+html body div div div a  ,คําไทยที่มักเขียนผิด,0,6
+html body div div div a  ,คําราชาศัพท์,0,6
+html body div div div a  ,ประวัติเปตอง,0,6
+html body div div div a  ,ประวัติแชร์บอล,0,6
+html body div div div a  ,ประวัติกีฬาแบดมินตัน,0,6
+html body div div div a  ,สํานวนไทย,0,6
+html body div div div a  ,วันสําคัญของไทย,0,6
+html body div div div h2  ,บริการของเรา (Services & Solutions),0,6
+html body div div div ul li a h3  ,ผลิตเนื้อหา-ลงโฆษณา,0,9
+html body div div div ul li a span  ,พื้นที่โฆษณาประชาสัมพันธ์ที่ตอบโจทย์ทางการตลาด เข้าถึงกลุ่มเป้าหมายที่หลากหลาย,0,9
+html body div div div ul li a h3  ,ผลิตวิดีโอโปรโมต,0,9
+html body div div div ul li a span  ,"รับผลิตรายการโชว์ทางอินเทอร์เน็ตในรูปแบบตอนสั้น ๆ ไปจนถึงซีรีส์ , วิดีโอโปรโมชั่นสินค้าและบริการ",0,9
+html body div div div ul li a h3  ,พัฒนาระบบองค์กร,0,9
+html body div div div ul li a span  ,ครอบคลุมในทุกความต้องการด้านเทคโนโลยี ในยุค Big Data ด้วยทีมงานผู้เชี่ยวชาญ,0,9
+html body div div div ul li a h3  ,บริหารโซเชียลมีเดีย,0,9
+html body div div div ul li a span  ,บริการรับวางแผนและบริหาร ผลิตเนื้อหาที่หลากหลายบนเครือข่าย Social Media,0,9
+html body div div div em a  ,ดูบริการทั้งหมด คลิกที่นี่,0,7
+html body div div div h2  ,ช่องทางการติดต่อ,0,6
+html body div div div div ul li a  ,ติดต่อเรา,0,9
+html body div div div div ul li a  ,Disclaimer,0,9
+html body div div div div ul li a  ,ร่วมงานกับเรา,0,9
+html body div div div div ul li a  ,แจ้งปัญหา,0,9
+html body div div div div p  ,Kapook App ดาวน์โหลดได้เลย,0,7

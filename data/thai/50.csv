@@ -1,0 +1,159 @@
+tag,content,label,depth
+html body div div  ,x close,0,4
+html body div div div h2 a  ,HILIGHT,0,7
+html body div div div div div strong  ,ข่าว-ความรู้,0,8
+html body div div div div div a  ,ข่าว,0,8
+html body div div div div div a  ,ข่าวบันเทิง,0,8
+html body div div div div div a  ,ฟุตบอล,0,8
+html body div div div div div a  ,การเงิน,0,8
+html body div div div div div a  ,การศึกษา,0,8
+html body div div div div div strong  ,บันเทิง,0,8
+html body div div div div div a  ,รูปภาพ,0,8
+html body div div div div div a  ,ดูหนัง,0,8
+html body div div div div div a  ,Music Station,0,8
+html body div div div div div a  ,ละคร,0,8
+html body div div div div div a  ,บันเทิงเกาหลี,0,8
+html body div div div div div strong  ,ไลฟ์ไตล์,0,8
+html body div div div div div a  ,ดูดวง,0,8
+html body div div div div div a  ,ผู้หญิง,0,8
+html body div div div div div a  ,ผู้ชาย,0,8
+html body div div div div div a  ,สุขภาพ,0,8
+html body div div div div div a  ,ท่องเที่ยว,0,8
+html body div div div div div a  ,สูตรอาหารง่ายๆ,0,8
+html body div div div div div strong  ,ช้อปปิ้ง,0,8
+html body div div div div div a  ,รถยนต์,0,8
+html body div div div div div a  ,บ้านและการตกแต่ง,0,8
+html body div div div div div a  ,มือถือ,0,8
+html body div div div div div a  ,ราคาทอง,0,8
+html body div div div div div a  ,ราคาน้ำมัน,0,8
+html body div div div div div strong  ,วาไรตี้,0,8
+html body div div div div div a  ,แต่งงาน,0,8
+html body div div div div div a  ,แม่และเด็ก,0,8
+html body div div div div div a  ,สัตว์เลี้ยง,0,8
+html body div div div div div a  ,Infographic,0,8
+html body div div div div div strong  ,บริการ,0,8
+html body div div div div div a  ,แอปฯ กระปุก,0,8
+html body div div div div div a  ,คอร์สออนไลน์,0,8
+html body div div div div div a  ,เรียนเลขออนไลน์,0,8
+html body div div div div div a  ,ติดต่อโฆษณา,0,8
+html body div div div div div a  ,แจ้งปัญหา,0,8
+html body div div div div div a  ,ร่วมงานกับเรา,0,8
+html body div div ul li a  ,หน้าแรก,0,7
+html body div div ul li a  ,ข่าวดารา,0,7
+html body div div ul li a  ,ข่าวการเมือง,0,7
+html body div div ul li a  ,ข่าวอาชญากรรม,0,7
+html body div div ul li a  ,ข่าวต่างประเทศ,0,7
+html body div div ul li a  ,ข่าวฮิตสังคมออนไลน์,0,7
+html body div div ul li a  ,x-file,0,7
+html body div div ul li a  ,รวมคลิป,0,7
+html body div p span a span  ,hilight,0,7
+html body div p span a span  ,ข่าวฮิตสังคมออนไลน์,0,7
+html body div div h1  ,OMG ห้างดังกลางกรุง จากล็อกละเป็นแสน กับวันนี้ร้างคน ชาวเน็ตถกเกิดอะไรขึ้น,1,5
+html body div div div p  ,"18,184",0,6
+html body div div div p em  ,อ่าน,0,7
+html body div div div div a span  ,0,0,8
+html body div div div div div div b  ,โลกออนไลน์ถกสนั่น กับภาพห้างดังกลางกรุง ขายส่งเสื้อผ้าชื่อดัง ครั้งหนึ่งคนเคยแออัดมาซื้อของที่นี่ วันนี้กลายเป็นมีความร้าง จนทำให้ต้องขบคิด เกิดอะไรขึ้นกับธุรกิจของคนไทย,1,9
+html body div div div div div div  ,ภาพจาก,1,8
+html body div div div div div div span a  ,ทวิตเตอร์ @A_MAELiZA,1,10
+html body div div div div div div  ,คงปฏิเสธไม่ได้ว่า จากเหตุการณ์การแพร่ระบาดของ,1,8
+html body div div div div div div a  ,โควิด 19,1,9
+html body div div div div div div  ,ได้ส่งผลกระทบอย่างใหญ่หลวงต่อธุรกิจของคนไทย ทั้งรายเล็กรายใหญ่ หลายเจ้าอยู่ไม่ไหวก็ต้องถอนตัวออกมาเพื่อเก็บกระแสเงินสดไว้รอวันที่เศรษฐกิจฟื้น,1,8
+html body div div div div div span  ,เฉกเช่นกับที่ล่าสุด,1,8
+html body div div div div div span a  ,ทวิตเตอร์ @A_MAELiZA,1,9
+html body div div div div div span  ,ได้ออกมาเผยสภาพห้างดังค้าส่งเสื้อผ้ารายใหญ่แห่งหนึ่ง ที่เงียบเหงา ล็อกหลายล็อกที่ในอดีต ต้องจ่ายค่าเช่ากันเป็นแสน ในวันนี้กลับมีแต่ความว่างเปล่า ไม่มีทั้งคนซื้อและคนขาย ซึ่งทางเจ้าของโพสต์ได้ย้ำว่า ภาพที่เห็นนั้นไม่ใช่ทั้งหมดของห้าง เป็นเพียงส่วนของห้างฝั่งที่ติดกับโรงแรม แต่อีกฝั่งก็ยังคนขายของกันปกติ แต่ก็เดินน้อยลง,1,8
+html body div div div div div  ,เรื่องนี้ทำให้หลายคนมาร่วมกันขบคิดว่าปัญหาเกิดจากอะไร โดยมีคนเข้ามาบอกว่า แต่ก่อนตอนที่ห้างนี้ยังเปิดอยู่ มีลูกค้าคนจีนชอบมาซื้อของกลับไปขาย รวมไปถึงลูกค้าชาติอื่น ๆ แต่ตอนนี้ลูกค้าคนจีนเข้ามาไม่ได้ ลูกค้าต่างชาติอื่น ๆ ก็ไม่มี กลายเป็นห้างซบเซาลงไปทันตา,1,7
+html body div div div div div span  ,นอกจากนี้ ยังมีคนบอกว่า อาจจะด้วยพฤติกรรมของผู้บริโภคที่เปลี่ยนไป ทุกวันนี้ไม่ใช่คนไม่ซื้อเสื้อผ้า แต่หันไปซื้อทางออนไลน์มากขึ้น พ่อค้าแม่ค้าหลายคนอาจจะเน้นไปขายออนไลน์มากกว่าขายหน้าร้าน บางคนขายออนไลน์อย่างเดียวไม่มีหน้าร้าน ห้างก็เลยโหวงเหวงอย่างที่เห็น,1,8
+html body div div div div div div  ,อย่างไรก็ตาม ในภาวะเศรษฐกิจแบบนี้ ใครปรับตัวได้ไว ก็รอดตายได้สูง สู้ไปด้วยกันนะคะ,1,8
+html body div div div div div div h3  ,ประเด็นที่เกี่ยวข้อง,0,9
+html body div div div div div div h3  ,บุคคลที่เกี่ยวข้อง,0,9
+html body div div div div div div h3  ,สถานที่ที่เกี่ยวข้อง,0,9
+html body div div div div div div h3  ,ประเด็นที่เกี่ยวข้อง,0,9
+html body div div div div div strong  ,เรื่องที่คุณอาจสนใจ,0,8
+html body div strong  ,เรื่องที่คุณอาจสนใจ,0,4
+html body div div strong  ,OMG ห้างดังกลางกรุง จากล็อกละเป็นแสน กับวันนี้ร้างคน ชาวเน็ตถกเกิดอะไรขึ้น,0,5
+html body div div em  ,อัปเดตล่าสุด 30 มีนาคม 2564 เวลา 10:50:30,0,5
+html body div div em  ,"18,184 อ่าน",0,5
+html body div div  ,อ่านความคิดเห็นของเพื่อนๆ ..คิดอย่างไรกับเรื่องนี้ เขียนเลย,0,4
+html body div a  ,TOP,0,4
+html body div div div strong  ,ข่าว:,0,6
+html body div div div a  ,ข่าววันนี้,0,6
+html body div div div a  ,หวย,0,6
+html body div div div a  ,สภาพอากาศ,0,6
+html body div div div a  ,ข่าวด่วน,0,6
+html body div div div a  ,ข่าว,0,6
+html body div div div a  ,ข่าวบันเทิง,0,6
+html body div div div a  ,คลิปข่าว,0,6
+html body div div div a  ,ตรวจหวย,0,6
+html body div div div a  ,เลขเด็ด,0,6
+html body div div div a  ,ข่าวดารา,0,6
+html body div div div strong  ,ข่าวฮิต:,0,6
+html body div div div a  ,หุ้นไทย,0,6
+html body div div div a  ,ราคาทองวันนี้,0,6
+html body div div div a  ,ราคาน้ำมันวันนี้,0,6
+html body div div div a  ,ข่าวอุบัติเหตุ,0,6
+html body div div div a  ,ข่าวต่างประเทศ,0,6
+html body div div div a  ,ข่าวอาชญากรรม,0,6
+html body div div div a  ,ผลบอล,0,6
+html body div div div a  ,ข่าวกีฬา,0,6
+html body div div div a  ,ฟุตบอล,0,6
+html body div div div a  ,ข่าวการเมือง,0,6
+html body div div div strong  ,โควิด :,0,6
+html body div div div a  ,ข่าวโควิด,0,6
+html body div div div a  ,อาการโควิด,0,6
+html body div div div a  ,ประกันโควิด,0,6
+html body div div div a  ,ตรวจโควิด 19,0,6
+html body div div div a  ,สถานการณ์โควิด,0,6
+html body div div div a  ,COVID-19,0,6
+html body div div div a  ,โควิด 19,0,6
+html body div div div a  ,สถานการณ์โควิดในไทย,0,6
+html body div div div a  ,ถาม-ตอบ COVID,0,6
+html body div div div a  ,ยอดผู้ป่วยโควิด,0,6
+html body div div div strong  ,เรื่องน่าอ่าน:,0,6
+html body div div div a  ,จั๊กจั่น,0,6
+html body div div div a  ,เรารักกัน,0,6
+html body div div div a  ,เราชนะ,0,6
+html body div div div a  ,ปลาวาฬ อิสสระ,0,6
+html body div div div a  ,วันสงกรานต์,0,6
+html body div div div a  ,สงกรานต์,0,6
+html body div div div a  ,เราผูกพัน,0,6
+html body div div div a  ,พระมหาเทวีเจ้า,0,6
+html body div div div a  ,ปฏิทินวันสำคัญ 2564,0,6
+html body div div div a  ,ปฏิทิน 2564,0,6
+html body div div div strong  ,ข้อคิด คำคม:,0,6
+html body div div div a  ,บทสวดแผ่เมตตา,0,6
+html body div div div a  ,บทกรวดน้ำ,0,6
+html body div div div a  ,พุทธศาสนสุภาษิต,0,6
+html body div div div a  ,มงคลชีวิต 38 ประการ,0,6
+html body div div div a  ,บทสวดมนต์,0,6
+html body div div div a  ,สวดมนต์ก่อนนอน,0,6
+html body div div div a  ,คําคม,0,6
+html body div div div a  ,คําคมภาษาอังกฤษ,0,6
+html body div div div a  ,คําคมธรรมะ,0,6
+html body div div div a  ,บทสวดอิติปิโส,0,6
+html body div div div strong  ,บทความน่ารู้ :,0,6
+html body div div div a  ,การละเล่นพื้นบ้าน,0,6
+html body div div div a  ,รำวงมาตรฐาน,0,6
+html body div div div a  ,คําขวัญประจําจังหวัด,0,6
+html body div div div a  ,คําไทยที่มักเขียนผิด,0,6
+html body div div div a  ,คําราชาศัพท์,0,6
+html body div div div a  ,ประวัติเปตอง,0,6
+html body div div div a  ,ประวัติแชร์บอล,0,6
+html body div div div a  ,ประวัติกีฬาแบดมินตัน,0,6
+html body div div div a  ,สํานวนไทย,0,6
+html body div div div a  ,วันสําคัญของไทย,0,6
+html body div div div h2  ,บริการของเรา (Services & Solutions),0,6
+html body div div div ul li a h3  ,ผลิตเนื้อหา-ลงโฆษณา,0,9
+html body div div div ul li a span  ,พื้นที่โฆษณาประชาสัมพันธ์ที่ตอบโจทย์ทางการตลาด เข้าถึงกลุ่มเป้าหมายที่หลากหลาย,0,9
+html body div div div ul li a h3  ,ผลิตวิดีโอโปรโมต,0,9
+html body div div div ul li a span  ,"รับผลิตรายการโชว์ทางอินเทอร์เน็ตในรูปแบบตอนสั้น ๆ ไปจนถึงซีรีส์ , วิดีโอโปรโมชั่นสินค้าและบริการ",0,9
+html body div div div ul li a h3  ,พัฒนาระบบองค์กร,0,9
+html body div div div ul li a span  ,ครอบคลุมในทุกความต้องการด้านเทคโนโลยี ในยุค Big Data ด้วยทีมงานผู้เชี่ยวชาญ,0,9
+html body div div div ul li a h3  ,บริหารโซเชียลมีเดีย,0,9
+html body div div div ul li a span  ,บริการรับวางแผนและบริหาร ผลิตเนื้อหาที่หลากหลายบนเครือข่าย Social Media,0,9
+html body div div div em a  ,ดูบริการทั้งหมด คลิกที่นี่,0,7
+html body div div div h2  ,ช่องทางการติดต่อ,0,6
+html body div div div div ul li a  ,ติดต่อเรา,0,9
+html body div div div div ul li a  ,Disclaimer,0,9
+html body div div div div ul li a  ,ร่วมงานกับเรา,0,9
+html body div div div div ul li a  ,แจ้งปัญหา,0,9
+html body div div div div p  ,Kapook App ดาวน์โหลดได้เลย,0,7
