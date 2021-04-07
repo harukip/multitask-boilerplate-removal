@@ -60,19 +60,10 @@ class HTML2df():
         return [], [], []
         
     def convert2df(self, 
-                   filepath, 
-                   encoding=None, 
+                   htmlstr, 
                    generate_label=False, 
                    depth=float("inf")):
-        if encoding is None:
-            with open(filepath, 'rb') as file:
-                d = file.read()
-            encoding = chardet.detect(d)['encoding']
-            encoding = encoding if encoding != 'GB2312' else 'GB18030'
-        with open(filepath, 'r', encoding=encoding, errors='ignore') as file:
-            html = file.read()
-        html = html.replace("&lt;", "<").replace("&gt;", ">")
-        soup = BeautifulSoup(html, 'lxml')
+        soup = BeautifulSoup(htmlstr, 'lxml')
         leafnodes, tags, labels = self._traversalTree(soup.html, depth)
         if generate_label:
             df = pd.DataFrame({"tag":tags, "content":leafnodes, "label":labels})
@@ -86,3 +77,19 @@ class HTML2df():
         df = df.drop(dropList, axis='index', inplace=False).reset_index(drop=True)
         
         return df
+    
+    def file2df(self, 
+                filepath, 
+                encoding=None, 
+                generate_label=False, 
+                depth=float("inf")):
+        if encoding is None:
+            with open(filepath, 'rb') as file:
+                d = file.read()
+            encoding = chardet.detect(d)['encoding']
+            encoding = encoding if encoding != 'GB2312' else 'GB18030'
+        with open(filepath, 'r', encoding=encoding, errors='ignore') as file:
+            html = file.read()
+        html = html.replace("&lt;", "<").replace("&gt;", ">")
+        
+        return self.convert2df(html, generate_label, depth)

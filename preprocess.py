@@ -7,7 +7,7 @@ def main(parser):
     html_processer = HTML2df()
     for filepath in glob(args.input_path + "*." + args.file_type):
         filename = filepath.split("/")[-1]
-        df = html_processer.convert2df(filepath, generate_label=args.with_label)
+        df = html_processer.file2df(filepath, generate_label=args.with_label)
         df.to_csv(args.output_path + filename.split(".")[0] + ".csv", index=False)
         print(filename, "processed.")
 
