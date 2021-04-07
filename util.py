@@ -54,7 +54,8 @@ def preprocess_df(df, model, WORD, depth=False):
     else:
         bert_emb = model.bert.encode(df_content)
         content_emb = bert_emb
-    
+    if "label" not in df.columns:
+        df['label'] = [-1 for _ in range(len(df))]
     label = tf.one_hot(np.array(df['label']), 2)
     if depth:
         if "depth" not in df.columns:
