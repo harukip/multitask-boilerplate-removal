@@ -21,9 +21,6 @@ def limit_gpu():
         # Visible devices must be set before GPUs have been initialized
         print(e)
 
-def notify(msg):
-    requests.post("https://widm-slack-bot.herokuapp.com/bot_speak", json={"channel":"U014ZKKBDCJ", "text":msg})
-
 def preprocess_df(df, model, WORD, depth=False):
     df_tag = [str(t) for t in list(df['tag'])]
     tag_emb = None
