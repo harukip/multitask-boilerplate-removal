@@ -4,6 +4,8 @@ import json
 import pandas as pd
 import numpy as np
 import re
+import os
+from . import model
 
 def limit_gpu():
     gpus = tf.config.experimental.list_physical_devices('GPU')
@@ -40,7 +42,7 @@ def preprocess_df(df, model, WORD, depth=False):
     
     if WORD:
         word_emb = None
-        word_map = load_tokenizer(name="word_tokenizer.json")
+        word_map = load_tokenizer(name=os.path.dirname(model.__file__)+"/word_tokenizer.json")
         for content in df_content:
             word_dict = tf.keras.preprocessing.text.Tokenizer()
             word_dict.fit_on_texts([content])
@@ -79,7 +81,7 @@ def concatAxisZero(all_pred, pred):
         all_pred = np.concatenate([all_pred, pred], axis=0)
     return all_pred
 
-def load_tokenizer(name="tag_tokenizer.json"):
+def load_tokenizer(name=os.path.dirname(model.__file__)+"/tag_tokenizer.json"):
 #     fileName = "word_tokenizer.json" if not tag else "tag_tokenizer.json"
     with open(name, "r") as file:
         tk_json = file.read()
