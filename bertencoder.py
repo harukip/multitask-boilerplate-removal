@@ -1,17 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-import tokenization
 import tensorflow as tf
 import tensorflow_hub as hub
 import numpy as np
-
-
-# In[ ]:
-
+from . import tokenization
 
 class BertEncoder():
     
@@ -99,52 +89,3 @@ class BertEncoder():
         encode_out = tf.reshape(seq_out.stack(), [-1, 768]) if not PAD else tf.reshape(seq_out.stack(), [-1, 768])[:-PAD]
         seq_out.close()
         return encode_out
-
-#     def encode(self, arrayOfSentences):
-#         batch = self.NUM_SPLIT_LENGTH
-#         result_embedding = None
-#         while(len(arrayOfSentences) > batch):
-#             batch_ids = None
-#             batch_masks = None
-#             batch_segments = None
-#             for i in arrayOfSentences[:batch]:
-#                 ids, masks, segments = self._convert_id(i, self._tokenizer)
-#                 if batch_ids is None:
-#                     batch_ids = np.expand_dims(ids, 0)
-#                     batch_masks = np.expand_dims(masks, 0)
-#                     batch_segments = np.expand_dims(segments, 0)
-#                 else:
-#                     batch_ids = np.concatenate([batch_ids, np.expand_dims(ids, 0)], axis=0)
-#                     batch_masks = np.concatenate([batch_masks, np.expand_dims(masks, 0)], axis=0)
-#                     batch_segments = np.concatenate([batch_segments, np.expand_dims(segments, 0)], axis=0)
-#             if result_embedding is None:
-#                 result_embedding = self._bert_layer([batch_ids, batch_masks, batch_segments])[0].numpy()
-#             else:
-#                 result_embedding = np.concatenate([result_embedding, self._bert_layer([batch_ids, batch_masks, batch_segments])[0].numpy()], axis=0)
-#             arrayOfSentences = arrayOfSentences[batch:]
-#         if len(arrayOfSentences) > 0:
-#             batch_ids = None
-#             batch_masks = None
-#             batch_segments = None
-#             for i in arrayOfSentences:
-#                 ids, masks, segments = self._convert_id(i, self._tokenizer)
-#                 if batch_ids is None:
-#                     batch_ids = np.expand_dims(ids, 0)
-#                     batch_masks = np.expand_dims(masks, 0)
-#                     batch_segments = np.expand_dims(segments, 0)
-#                 else:
-#                     batch_ids = np.concatenate([batch_ids, np.expand_dims(ids, 0)], axis=0)
-#                     batch_masks = np.concatenate([batch_masks, np.expand_dims(masks, 0)], axis=0)
-#                     batch_segments = np.concatenate([batch_segments, np.expand_dims(segments, 0)], axis=0)
-#             if result_embedding is None:
-#                 result_embedding = self._bert_layer([batch_ids, batch_masks, batch_segments])[0].numpy()
-#             else:
-#                 result_embedding = np.concatenate([result_embedding, self._bert_layer([batch_ids, batch_masks, batch_segments])[0].numpy()], axis=0)
-#         return result_embedding
-
-
-# In[ ]:
-
-
-
-

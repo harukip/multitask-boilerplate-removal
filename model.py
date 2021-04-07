@@ -1,5 +1,5 @@
 import tensorflow as tf
-from BertEncoder import BertEncoder
+from . import bertencoder
 
 class LSTMModel(tf.keras.Model):
     def __init__(self, 
@@ -14,7 +14,7 @@ class LSTMModel(tf.keras.Model):
                 topk=None, 
                 masking=None):
         super(LSTMModel, self).__init__()
-        self.bert = BertEncoder(trainable=bert_trainable)
+        self.bert = bertencoder.BertEncoder(trainable=bert_trainable)
         self.topTag_layer = tf.keras.layers.Dense(ff_dim, activation='relu', name="topTag Layer")
         self.topEmb_layer = tf.keras.layers.Dense(ff_dim, activation='relu', name="topEmb Layer")
         self.dropout_layer = tf.keras.layers.Dropout(dropout)
