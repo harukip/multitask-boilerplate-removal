@@ -1,7 +1,7 @@
 import tensorflow as tf
 import tensorflow_hub as hub
 import numpy as np
-from . import tokenization
+from module import tokenization
 
 class BertEncoder():
     

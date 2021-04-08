@@ -1,5 +1,5 @@
 import tensorflow as tf
-from . import bertencoder
+from module import bertencoder
 
 class LSTMModel(tf.keras.Model):
     def __init__(self, 

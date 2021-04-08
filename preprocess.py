@@ -1,6 +1,6 @@
 import argparse
 from glob import glob
-from html2df import HTML2df
+from module.html2df import HTML2df
 
 def main(parser):
     args = parser.parse_args()

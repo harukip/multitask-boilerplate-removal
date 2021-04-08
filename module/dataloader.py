@@ -1,6 +1,6 @@
 import tensorflow as tf
 from glob import glob
-import util
+from utils import util
 
 class DataLoader():
     def __init__(self, args, model):

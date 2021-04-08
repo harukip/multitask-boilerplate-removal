@@ -10,9 +10,9 @@ import math
 import argparse
 from pathlib import Path
 import shutil
-import util
+from utils import util
 import model
-from dataloader import DataLoader
+from module.dataloader import DataLoader
 from loss import Custom_Cross_Entropy
 
 def main(parser):
