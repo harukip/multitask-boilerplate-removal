@@ -2,9 +2,12 @@
 checkpoints/
 __pycache__/
 data/*fold/
+data/combine-train/
 data/combine-val/
 raw_data/
 # Record and shell script
 *.ipynb
 *.sh
 *.txt
+tmp.html
+.vscode/
