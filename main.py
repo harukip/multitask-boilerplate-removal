@@ -146,7 +146,7 @@ def train(args, myDataLoader, myModel):
                 count += 1
                 p1, lstm_out, outs1, d_pred = myModel.MC_sampling(
                     t, e, training=True)
-                loss += My_Mask_CE(y_true=y, y_pred=outs1) + \
+                loss += (1-args.depth)*My_Mask_CE(y_true=y, y_pred=outs1) + \
                     args.depth*MSE(d, d_pred)
             trainable_variables = myModel.trainable_variables
             grads = tape.gradient(loss, trainable_variables)
