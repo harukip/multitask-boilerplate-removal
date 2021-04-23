@@ -23,10 +23,10 @@ def limit_gpu():
             print(e)
 
 
-def preprocess_df(df, model, WORD, depth=False):
+def preprocess_df(df, dataloader, WORD, depth=False):
     df_tag = [str(t) for t in list(df['tag'])]
     tag_emb = None
-    tag_map = load_tokenizer()
+    tag_map = dataloader.tokenizer
     for tag in df_tag:
         tag_dict = tf.keras.preprocessing.text.Tokenizer()
         tag_dict.fit_on_texts([tag])
@@ -54,7 +54,7 @@ def preprocess_df(df, model, WORD, depth=False):
             word_emb = concatAxisZero(word_emb, np.expand_dims(word_vec, 0))
         content_emb = word_emb
     else:
-        bert_emb = model.bert.encode(df_content)
+        bert_emb = dataloader.model.bert.encode(df_content)
         content_emb = bert_emb
     if "label" not in df.columns:
         df['label'] = [-1 for _ in range(len(df))]
@@ -63,18 +63,41 @@ def preprocess_df(df, model, WORD, depth=False):
         if "depth" not in df.columns:
             df['depth'] = [len(list(filter(None, t.split(" "))))
                            for t in df.tag]
-        depth = np.expand_dims(np.array(df['depth']), [-1])
+        df['prev_x'] = df.x.shift(1, fill_value=0)
+        df['next_x'] = df.x.shift(-1, fill_value=0)
+        df['prev_y'] = df.y.shift(1, fill_value=0)
+        df['next_y'] = df.y.shift(-1, fill_value=0)
+        df['prev_width'] = df.width.shift(1, fill_value=0)
+        df['next_width'] = df.width.shift(-1, fill_value=0)
+        df['prev_height'] = df.height.shift(1, fill_value=0)
+        df['next_height'] = df.height.shift(-1, fill_value=0)
+        cols = [
+            "prev_x",
+            "x",
+            "next_x",
+            "prev_y",
+            "y",
+            "next_y",
+            "prev_width",
+            "width",
+            "next_width",
+            "prev_height",
+            "height",
+            "next_height"
+        ]
+        depth = np.array(df[cols])
+        depth = dataloader.scaler.fit_transform(depth)
         return tag_emb, content_emb, label, depth
     return tag_emb, content_emb, label
 
 
-def get_data(file, model, WORD=False, depth=False):
+def get_data(file, dataloader, WORD=False, depth=False):
     df = pd.read_csv(file)
     if depth:
         tag_out, emb_out, label_out, depth_out = preprocess_df(
-            df, model, WORD, depth)
+            df, dataloader, WORD, depth)
         return tag_out, emb_out, label_out, depth_out
-    tag_out, emb_out, label_out = preprocess_df(df, model, WORD, depth)
+    tag_out, emb_out, label_out = preprocess_df(df, dataloader, WORD, depth)
     return tag_out, emb_out, label_out
 
 

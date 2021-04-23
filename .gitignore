@@ -4,6 +4,7 @@ __pycache__/
 data/*fold/
 data/combine-train/
 data/combine-val/
+data/pos-size/
 raw_data/
 # Record and shell script
 *.ipynb
