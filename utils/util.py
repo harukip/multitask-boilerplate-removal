@@ -23,19 +23,23 @@ def limit_gpu():
             print(e)
 
 
+def embedding_lookup(token_list, tag_embedding_table):
+    embedding = np.empty((0, 128), float)
+    for token in token_list:
+        emb = np.expand_dims(tag_embedding_table[token], 0)
+        embedding = np.append(embedding, emb, axis=0)
+    return embedding
+
+
 def preprocess_df(df, model, WORD, depth=False):
     df_tag = [str(t) for t in list(df['tag'])]
     tag_emb = None
     tag_map = load_tokenizer()
-    for tag in df_tag:
-        tag_dict = tf.keras.preprocessing.text.Tokenizer()
-        tag_dict.fit_on_texts([tag])
-        tag_vec = np.zeros(tag_map.num_words, dtype=np.int32)
-        for tag, count in dict(tag_dict.word_counts).items():
-            index = tag_map.word_index.get(tag, 1)
-            index = index if index <= tag_map.num_words else 1
-            tag_vec[index-1] += count
-        tag_emb = concatAxisZero(tag_emb, np.expand_dims(tag_vec, 0))
+    tag_lists = tag_map.texts_to_sequences(list(df['tag']))
+    for tag in tag_lists:
+        emb = tf.cast(np.expand_dims(embedding_lookup(
+            tag, model.embedding_table), 0), tf.float32)
+        tag_emb = concatAxisZero(tag_emb, model.tag_encoder.get_embedding(emb))
 
     df_content = [re.sub("\d+", "NUMPLACE", str(c))
                   for c in list(df['content'])]
