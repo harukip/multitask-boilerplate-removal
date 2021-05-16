@@ -148,7 +148,7 @@ def train(args, myDataLoader, myModel):
                     t, e, training=True)
                 loss += (1-args.depth)*My_Mask_CE(y_true=y, y_pred=outs1) + \
                     args.depth*MSE(d, d_pred)
-            trainable_variables = myModel.trainable_variables
+            trainable_variables = myModel.tag_encoder.trainable_variables + myModel.trainable_variables
             grads = tape.gradient(loss, trainable_variables)
             clip_grads, _ = tf.clip_by_global_norm(grads, 5.0)
 
@@ -195,7 +195,9 @@ def train(args, myDataLoader, myModel):
                 best_loss = val_loss.result()
                 if not os.path.isdir(FOLDER):
                     Path(FOLDER + "/best_val/").mkdir(parents=True, exist_ok=True)
+                    Path(FOLDER + "/best_val/tag_encoder/").mkdir(parents=True, exist_ok=True)
                 myModel.save_weights(FOLDER + "/best_val/")
+                myModel.tag_encoder.save_weights(FOLDER + "/best_val/tag_encoder/")
                 if args.verbose:
                     print("*")
             else:
@@ -218,8 +220,11 @@ def train(args, myDataLoader, myModel):
                 best_macro_f1 = macro_f1
                 if not os.path.isdir(FOLDER):
                     Path(FOLDER + "/best_macro_f1/").mkdir(parents=True, exist_ok=True)
+                    Path(FOLDER + "/best_macro_f1/tag_encoder/").mkdir(parents=True, exist_ok=True)
                 myModel.save_weights(
                     FOLDER + "/best_macro_f1/")
+                myModel.tag_encoder.save_weights(
+                    FOLDER + "/best_macro_f1/tag_encoder/")
                 if args.verbose:
                     print("*")
             else:
@@ -241,7 +246,8 @@ def test(args,
          checkpoint="",
          total=False):
     myModel.load_weights(checkpoint)
-    myModel.mc_step = 128
+    myModel.tag_encoder.load_weights(checkpoint + "tag_encoder/")
+    myModel.mc_step = 64
     all_y_true = None
     all_y_pred = None
     all_s = None

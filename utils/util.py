@@ -22,24 +22,13 @@ def limit_gpu():
             # Visible devices must be set before GPUs have been initialized
             print(e)
 
-
-def embedding_lookup(token_list, tag_embedding_table):
-    embedding = np.empty((0, 128), float)
-    for token in token_list:
-        emb = np.expand_dims(tag_embedding_table[token], 0)
-        embedding = np.append(embedding, emb, axis=0)
-    return embedding
-
-
 def preprocess_df(df, model, WORD, depth=False):
     df_tag = [str(t) for t in list(df['tag'])]
-    tag_emb = None
     tag_map = load_tokenizer()
     tag_lists = tag_map.texts_to_sequences(list(df['tag']))
-    for tag in tag_lists:
-        emb = tf.cast(np.expand_dims(embedding_lookup(
-            tag, model.embedding_table), 0), tf.float32)
-        tag_emb = concatAxisZero(tag_emb, model.tag_encoder.get_embedding(emb))
+    tag_tokens = tf.keras.preprocessing.sequence.pad_sequences(
+        tag_lists, maxlen=50
+    )
 
     df_content = [re.sub("\d+", "NUMPLACE", str(c))
                   for c in list(df['content'])]
@@ -68,8 +57,8 @@ def preprocess_df(df, model, WORD, depth=False):
             df['depth'] = [len(list(filter(None, t.split(" "))))
                            for t in df.tag]
         depth = np.expand_dims(np.array(df['depth']), [-1])
-        return tag_emb, content_emb, label, depth
-    return tag_emb, content_emb, label
+        return tag_tokens, content_emb, label, depth
+    return tag_tokens, content_emb, label
 
 
 def get_data(file, model, WORD=False, depth=False):

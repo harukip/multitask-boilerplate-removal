@@ -19,8 +19,6 @@ class LSTMModel(tf.keras.Model):
         super(LSTMModel, self).__init__()
         self.bert = bertencoder.BertEncoder(trainable=bert_trainable)
         self.tag_encoder = tag2vec.Leafnode_Encoder()
-        self.tag_encoder.load_weights("../tag_emb/checkpoint/")
-        self.embedding_table = np.load("../tag_emb/tag_embedding.npz")['emb']
         self.topEmb_layer = tf.keras.layers.Dense(
             ff_dim, activation='relu', name="topEmb Layer")
         self.dropout_layer = tf.keras.layers.Dropout(dropout)
@@ -35,6 +33,7 @@ class LSTMModel(tf.keras.Model):
         self.Opt = tf.keras.optimizers.Adam(lr)
 
     def call(self, t, e, training=False):
+        t = self.tag_encoder(t)
         e = self.topEmb_layer(e)
         x = self.concat_layer([t, e])
         x = self.mask_layer(x)
@@ -67,8 +66,8 @@ class MCModel(tf.keras.Model):
         super(MCModel, self).__init__()
         self.bert = bertencoder.BertEncoder(trainable=bert_trainable)
         self.tag_encoder = tag2vec.Leafnode_Encoder()
-        self.tag_encoder.load_weights("../tag_emb/checkpoint/")
-        self.embedding_table = np.load("../tag_emb/tag_embedding.npz")['emb']
+        self.topTag_layer = tf.keras.layers.Dense(
+            ff_dim, activation='relu', name="topTag Layer")
         self.topEmb_layer = tf.keras.layers.Dense(
             ff_dim, activation='relu', name="topEmb Layer")
         self.concat_layer = tf.keras.layers.Concatenate()
@@ -88,6 +87,8 @@ class MCModel(tf.keras.Model):
         return tf.keras.layers.SpatialDropout1D(rate=dropout)(x, training=True)
 
     def call(self, t, e):
+        t = self.tag_encoder(t)
+        t = self.topTag_layer(t)
         e = self.topEmb_layer(e)
         x = self.concat_layer([t, e])
         x = self.mask_layer(x)
