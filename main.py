@@ -164,7 +164,6 @@ def train(args, myDataLoader, myModel):
             # =====================================================
             # Validation
             # =====================================================
-            myModel.mc_step = 128
             all_y_true = None
             all_y_pred = None
             macro_f1 = None
@@ -241,7 +240,6 @@ def test(args,
          checkpoint="",
          total=False):
     myModel.load_weights(checkpoint)
-    myModel.mc_step = 128
     all_y_true = None
     all_y_pred = None
     all_s = None
