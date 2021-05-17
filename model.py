@@ -104,31 +104,33 @@ class MCModel(tf.keras.Model):
         return p, lstm_out, out, d
 
     def MC_sampling(self, t, e, training=False):
-        mc_t = tf.repeat(t, repeats=self.mc_step, axis=0)
-        mc_e = tf.repeat(e, repeats=self.mc_step, axis=0)
+        seq_len = e.shape[1]
+        mc_time = min(self.mc_step, (200*self.mc_step)//seq_len)
+        mc_t = tf.repeat(t, repeats=mc_time, axis=0)
+        mc_e = tf.repeat(e, repeats=mc_time, axis=0)
         p, lstm_out, out, d = self.call(mc_t, mc_e)
         p = tf.reshape(
             p, [
                 t.shape[0],
-                self.mc_step,
+                mc_time,
                 p.shape[1],
                 p.shape[2]])
         lstm_out = tf.reshape(
             lstm_out, [
                 t.shape[0],
-                self.mc_step,
+                mc_time,
                 lstm_out.shape[1],
                 lstm_out.shape[2]])
         out = tf.reshape(
             out, [
                 t.shape[0],
-                self.mc_step,
+                mc_time,
                 out.shape[1],
                 out.shape[2]])
         d = tf.reshape(
             d, [
                 t.shape[0],
-                self.mc_step,
+                mc_time,
                 d.shape[1],
                 d.shape[2]])
         p = tf.reduce_mean(p, axis=1)

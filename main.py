@@ -51,7 +51,9 @@ def main(parser):
         print("Start Training.")
         train(args, myDataLoader, myModel)
 
-    BEST_MODEL = "/best_val/" if args.best_loss_model else "/best_macro_f1/"
+    BEST_MODEL = ""
+    BEST_MODEL = "/best_val/" if args.best_loss_model else BEST_MODEL
+    BEST_MODEL = "/best_macro_f1/" if args.best_macro_f1 else BEST_MODEL
     FOLDER = args.checkpoint_folder + MODEL_NAME + str(args.depth)
     if not os.path.isdir(FOLDER + BEST_MODEL):
         print("Checkpoint doesn't exist. Start training.")
@@ -59,11 +61,25 @@ def main(parser):
         train(args, myDataLoader, myModel)
 
     # Test
-    test(args,
-         myDataLoader,
-         myModel,
-         checkpoint=FOLDER + BEST_MODEL,
-         total=args.micro)
+    if BEST_MODEL is "":
+        print("Best loss model:")
+        test(args,
+            myDataLoader,
+            myModel,
+            checkpoint=FOLDER + "/best_val/",
+            total=args.micro)
+        print("Best F1 model:")
+        test(args,
+            myDataLoader,
+            myModel,
+            checkpoint=FOLDER + "/best_macro_f1/",
+            total=args.micro)
+    else:
+        test(args,
+            myDataLoader,
+            myModel,
+            checkpoint=FOLDER + BEST_MODEL,
+            total=args.micro)
 
 
 def train(args, myDataLoader, myModel):
@@ -164,7 +180,6 @@ def train(args, myDataLoader, myModel):
             # =====================================================
             # Validation
             # =====================================================
-            myModel.mc_step = 128
             all_y_true = None
             all_y_pred = None
             macro_f1 = None
@@ -247,7 +262,6 @@ def test(args,
          total=False):
     myModel.load_weights(checkpoint)
     myModel.tag_encoder.load_weights(checkpoint + "tag_encoder/")
-    myModel.mc_step = 64
     all_y_true = None
     all_y_pred = None
     all_s = None
@@ -341,7 +355,9 @@ if __name__ == "__main__":
     parser.add_argument("--train", action="store_true",
                         help="Train your own model.", default=False)
     parser.add_argument("--best_loss_model", action="store_true",
-                        help="Select model using best val loss, if not set use best macro f1", default=False)
+                        help="Select model using best val loss", default=False)
+    parser.add_argument("--best_macro_f1", action="store_true",
+                        help="Select model using best macro f1", default=False)
     parser.add_argument("--micro", action="store_true",
                         help="Set evaluation metric as micro f1.", default=False)
     parser.add_argument("--verbose", type=int,
