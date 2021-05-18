@@ -1,0 +1,87 @@
+tag,content,x,y,width,height,label,depth
+html body text div div span a span  ,Skip to Left Navigation Menu,8,8,197,17,0,8
+html body text div div span span  ,|,205,8,7,17,0,7
+html body text div div span a span  ,Skip to page content,212,8,131,17,0,8
+html body text div div div h6 span  ,"Charles H. Bronson, Commissioner - Dr. Thomas J. Holt, Director",8,135,318,12,1,8
+html body text div div div ul li a span  ,Animal Industry Home,48,172,148,17,0,10
+html body text div div div ul li a span  ,Director's Office,48,190,107,17,0,10
+html body text div div div ul li a span  ,Animal Disease Control,48,208,155,17,0,10
+html body text div div div ul li a span  ,Diagnostic Laboratories,48,226,154,17,0,10
+html body text div div div ul li a span  ,Animal Diseases,48,244,108,17,0,10
+html body text div div div ul li a span  ,Animal Movement,48,262,121,17,0,10
+html body text div div div ul li a span  ,Emergency Management,48,280,160,17,0,10
+html body text div div div ul li a span  ,Forms,48,298,41,17,0,10
+html body text div div div ul li a span  ,Publications,48,316,79,17,0,10
+html body text div div div ul li a span  ,Rules,48,334,36,17,0,10
+html body text div div div ul li a span  ,Links,48,352,36,17,0,10
+html body text div div div ul li a span  ,Animal Industry Site Map,48,370,168,17,0,10
+html body text div div div ul li a span  ,FAQ,48,388,31,17,0,10
+html body text div div div ul li a span  ,Contact Us,48,406,72,17,0,10
+html body text div div div ul li a span  ,Search,48,424,44,17,0,10
+html body text div div div ul li a span  ,Department Home,48,442,119,17,0,10
+html body text div div div form label select option  ,Select a Division,0,0,0,0,0,10
+html body text div div div form label select option  ,Department Home,0,0,0,0,0,10
+html body text div div div form label select option  ,Administration,0,0,0,0,0,10
+html body text div div div form label select option  ,Ag. Environmental Services,0,0,0,0,0,10
+html body text div div div form label select option  ,Agricultural Law Enforcement,0,0,0,0,0,10
+html body text div div div form label select option  ,Agricultural Water Policy,0,0,0,0,0,10
+html body text div div div form label select option  ,Animal Industry,0,0,0,0,0,10
+html body text div div div form label select option  ,Aquaculture,0,0,0,0,0,10
+html body text div div div form label select option  ,Consumer Services,0,0,0,0,0,10
+html body text div div div form label select option  ,Dairy Industry,0,0,0,0,0,10
+html body text div div div form label select option  ,Food Safety,0,0,0,0,0,10
+html body text div div div form label select option  ,Forestry,0,0,0,0,0,10
+html body text div div div form label select option  ,Fruit and Vegetables,0,0,0,0,0,10
+html body text div div div form label select option  ,Licensing,0,0,0,0,0,10
+html body text div div div form label select option  ,Marketing and Development,0,0,0,0,0,10
+html body text div div div form label select option  ,Office of Ag. Emergency Prep.,0,0,0,0,0,10
+html body text div div div form label select option  ,Office of Inspector General,0,0,0,0,0,10
+html body text div div div form label select option  ,Office of the Commissioner,0,0,0,0,0,10
+html body text div div div form label select option  ,Plant Industry,0,0,0,0,0,10
+html body text div div div form label select option  ,Standards,0,0,0,0,0,10
+html body text div div div h1 span  ,Florida Equine ID Cards for Intrastate and Interstate Movement,8,586,735,73,1,8
+html body text div div div p span  ,"The Division of Animal Industry of the Department of Agriculture and Consumer Services is now offering laminated cards, containing digital pictures of the horse, as a voluntary alternative to the current paper EIA test document (VS Form 10-11) and the Equine Event Extension. There are two types of cards available:",8,716,748,53,1,8
+html body text div div div ol li strong span  ,The Negative EIA Test Verification Card,48,786,281,17,1,10
+html body text div div div ol li span  ,will be accepted as proof of a negative EIA test within the state of Florida. The card has the same expiration date as the VS form 10-11 (coggins form). This card is,48,786,702,35,1,9
+html body text div div div ol li strong span  ,not,670,804,27,17,1,10
+html body text div div div ol li span  ,"valid for change of ownership, only the original VS form 10-11 or certified lab copy of the VS form 10-11 (coggins form) can be used for this purpose.",48,804,720,53,1,9
+html body text div div div ol li strong span  ,The Equine Interstate Passport Card,48,858,257,17,1,10
+html body text div div div ol li span  ,"will be accepted by participating states as proof of a negative EIA test and an Official Certificate of Veterinary Inspection (OCVI) within the previous six months, for interstate movement to equine events. This card is intended for the owner who frequents equine events in participating states. When traveling the OCVI and EIA do",48,858,705,71,1,9
+html body text div div div ol li strong span  ,not,338,912,26,17,1,10
+html body text div div div ol li span  ,"need to accompany the Passport Card as it contains the OCVI, EIA, owner and veterinarian information. This card is",48,912,715,35,1,9
+html body text div div div ol li strong span  ,not,396,930,26,17,1,10
+html body text div div div ol li span  ,"valid for change of ownership, only the original VS form 10-11 or certified lab copy of the VS form 10-11 can be used for this purpose.",48,930,704,35,1,9
+html body text div div div p span  ,"The Equine Event Extension is a paper document which has been used in the past, and will still be offered by the State of Florida. The Event Extension, like the Passport Card, acts as an extension of the OCVI from 30 days to 6 months. For interstate travel, using the Equine Event Extension, the OCVI, current EIA and Event Extension document must be carried.",8,982,762,71,1,8
+html body text div div div p span  ,The states currently honoring the Florida Equine Passport Card and the Equine Event Extensions are:,8,1070,652,17,1,8
+html body text div div div p strong span  ,"Alabama, Arkansas, Georgia, Louisiana, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Virginia and West Virginia",8,1070,762,53,1,9
+html body text div div div p span  ,.,106,1106,4,17,1,8
+html body text div div div p span  ,The Division of Animal Industry is now charging a fee of $10 for the first horse on the,8,1140,558,17,1,8
+html body text div div div p strong span  ,Equine Event Extension,566,1140,164,17,1,9
+html body text div div div p span  ,application and $5 for each additional animal included on the same application. The,8,1158,541,17,1,8
+html body text div div div p strong span  ,Negative EIA Test Verification Card,8,1158,747,35,1,9
+html body text div div div p span  ,will be $5 per card and the,48,1176,174,17,1,8
+html body text div div div p strong span  ,Equine Interstate Passport Card,222,1176,227,17,1,9
+html body text div div div p span  ,will carry a fee of $15 for the first horse on the application and $5 for each additional animal listed on the same application.,8,1176,741,35,1,8
+html body text div div div p span  ,"Requests for applications or questions about the Equine Cards can be made through our Bartow office by contacting Dr. John Irby, Bob Crawford Building, 605 E. Main St., Bartow, Florida 33830-4831, (863)519-8507 or by contacting the Tallahassee office at, 407 South Calhoun Street, Room 331 Mayo Building, Tallahassee, Florida 32399-0800, (850)410-0900 or by e-mailing to",8,1228,768,71,1,8
+html body text div div div p a span  ,ecards@doacs.state.fl.us,163,1282,161,17,1,9
+html body text div div div p span  ,". Applications can be requested and digital images taken by individuals or veterinarians. The digital pictures required for the equine cards are the entire left side, entire right side and front view of the entire head. Each view should have approximately 10% background bordering all 4 sides of the image. The pictures for the equine cards can be submitted on a CD to our Bartow office with a completed application.",8,1282,754,71,1,8
+html body text div div div p span  ,The Florida Department of Agriculture and Consumer Services is now participating in the USDA sponsored National Animal Identification System (NAIS). Anyone requesting a Florida Equine Card will be required to register the location where their horse resides. For more information on the National Animal Identification System you may log on to,8,1370,768,53,1,8
+html body text div div div p a span  ,www.usda.gov/nais,8,1424,129,17,1,9
+html body text div div div p span  ,. If you have questions regarding the NAIS please email the Department at,137,1424,478,17,1,8
+html body text div div div p a span  ,animalid@doacs.state.fl.us,8,1442,176,17,1,9
+html body text div div div p span  ,.,184,1442,4,17,1,8
+html body text div div div p a span  ,Back to Top,8,1476,78,17,0,9
+html body text div div div p span  ,Last Updated:,8,1510,94,17,0,8
+html body text div div div p span  ,"July 17, 2006",102,1510,87,17,0,8
+html body text div a span  ,Privacy Policy,8,1544,98,17,0,6
+html body text div span  ,|,106,1544,7,17,0,5
+html body text div a span  ,Disclaimer,113,1544,74,17,0,6
+html body text div span  ,|,187,1544,7,17,0,5
+html body text div a span  ,Contact Webmaster,194,1544,129,17,0,6
+html body text div span  ,|,323,1544,8,17,0,5
+html body text div a span  ,Best Viewed In,331,1544,102,17,0,6
+html body text div span  ,|,433,1544,7,17,0,5
+html body text div a span  ,Department Site Map,440,1544,142,17,0,6
+html body text div span  ,|,582,1544,7,17,0,5
+html body text div a span  ,Email Privacy Policy,589,1544,136,17,0,6
+html body text div span  ,Â© 2004-2006 Florida Department of Agriculture and Consumer Services,8,1562,465,17,0,5

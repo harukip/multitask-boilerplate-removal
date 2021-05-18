@@ -1,0 +1,111 @@
+tag,content,x,y,width,height,label,depth
+html body text p a span  ,Skip navigation,8,8,105,17,0,6
+html body text p span  ,.,113,8,4,17,0,5
+html body text div a span  ,Text-only version,8,42,113,17,0,6
+html body text div div ul li a span  ,RHS Home,48,214,74,17,0,9
+html body text div div ul li a span  ,About the RHS,48,232,99,17,0,9
+html body text div div ul li a span  ,What's On,48,250,67,17,0,9
+html body text div div ul li a span  ,Plants,48,268,39,17,0,9
+html body text div div ul li a span  ,Advice,48,286,46,17,0,9
+html body text div div ul li a span  ,Learning,48,304,58,17,0,9
+html body text div ul li a span  ,General Learning,48,338,112,17,0,8
+html body text div ul li a span  ,Education,48,356,65,17,0,8
+html body text div ul li a span  ,Publications,48,374,79,17,0,8
+html body text div ul li a span  ,Research,48,392,59,17,0,8
+html body text div ul li a span  ,Libraries,48,410,58,17,0,8
+html body text div div h1 span  ,Learning,8,449,126,36,0,7
+html body text div div a span  ,Books,8,526,45,17,0,7
+html body text div div span  ,|,53,526,7,17,0,6
+html body text div div a span  ,Journals,60,526,57,17,0,7
+html body text div div span  ,|,117,526,7,17,0,6
+html body text div div a span  ,Videos,124,526,49,17,0,7
+html body text div div span  ,|,173,526,7,17,0,6
+html body text div div a span  ,Speakers and judges,180,526,135,17,0,7
+html body text div div span  ,|,315,526,7,17,0,6
+html body text div div a span  ,Colour Chart,322,526,88,17,0,7
+html body text div div span  ,|,410,526,7,17,0,6
+html body text div div a span  ,Plant Bulletins,417,526,99,17,0,7
+html body text div div span  ,|,516,526,7,17,0,6
+html body text div div a span  ,Plant Registers,523,526,100,17,0,7
+html body text div div span  ,|,623,526,4,17,0,6
+html body text div div h1 span  ,Publications,8,565,169,36,0,7
+html body text div div h4 span  ,The Garden,8,624,83,17,0,7
+html body text div div h4 span  ,November 2003,8,642,107,17,0,7
+html body text div div h4 span  ,Underground partnership,8,681,178,17,1,7
+html body text div div p span  ,"Think all fungi are bad? Not the ones that have been pairing up with plant roots for 500 million years. Now available at garden centres, these can greatly benefit your plants, explains Jon Ardle",8,720,764,35,1,7
+html body text div div p span  ,Images: Tim Sandall,8,772,132,17,0,7
+html body text div div table tbody tr td span  ,The fine white strands (hyphae) of fungal tissue are supplying the roots they have colonised with water and nutrients. Formulations containing such fungi are now available in easy-to-use powdered form,206,809,522,53,1,10
+html body text div div p span  ,"It is probably fair to say that, to most gardeners, fungi are an anathema. Whether turning the leaves of roses yellow and black, appearing in rings in a manicured lawn or, horror of horrors, as",8,1078,762,35,1,7
+html body text div div p em span  ,Armillaria,458,1096,71,17,1,8
+html body text div div p span  ,"(honey fungus) rampaging through a garden’s trees, moulds are costly nightmares.",8,1096,757,35,1,7
+html body text div div p span  ,"Think again. In the wild, more than 95 percent of higher plant species not only harbour fungi in their roots, they actually supply them with sugars and other foods. In return, the fungi furnish the plants with raw materials - water and nutrients from which food substances are synthesised - and protect them from soil-borne diseases. The relationship is therefore of benefit to both: a symbiosis.",8,1148,757,71,1,7
+html body text div div p span  ,"The close association of the roots of trees with certain fungi was described as long ago as 1885, by German forester AB Frank. The name for the association, mycorrhiza, literally means ‘fungus root’. It is only within the last 30 years, however, that scientists have begun to realise that far from being the exception, such relationships are actually the norm in the plant kingdom.",8,1236,765,71,1,7
+html body text div div p span  ,"The fungal partner’s network of thin tubes, or hyphae, are much more efficient at absorbing both water and nutrients than even the thinnest root hairs, as hyphae have a much bigger surface area. Under less-than-ideal conditions, studies have shown that the efficiency of mycorrhizal roots can make the difference between life and death. Plants with mycorrhizal root systems are better able to resist stresses such as drought, heat, and even diseases - many mycorrhizal fungi secrete antibiotics, protecting roots from pathogenic fungi such as",8,1324,755,89,1,7
+html body text div div p em span  ,Phytophthora,471,1396,92,17,1,8
+html body text div div p span  ,and,563,1396,28,17,1,7
+html body text div div p em span  ,Armillaria,591,1396,71,17,1,8
+html body text div div p span  ,", nematodes and bacteria.",8,1396,758,35,1,7
+html body text div div h4 span  ,Structures and functions,8,1454,169,17,1,7
+html body text div div p span  ,"There are two main types of mycorrhizal fungi, associated with different plant species. On trees, the most common type is known as ectomycorrhizae or EM, as most of its structure is outside the root, often forming a visible sheath over its surface. Hyphae also grow inside the root between the cells, forming a characteristic structure known as a Hartig net, and most EM fungi also produce fruiting structures like mushrooms and puffballs.",8,1493,766,71,1,7
+html body text div div p span  ,"The other major type, endomycorrhizae, have most of their structure inside the root. Also known as arbuscular mycorrhizae or AM, these are more primitive fungi than the EM type, making up only 150 of the estimated 6,000 mycorrhizal fungi species. However, AM is the predominant type, found on 65 percent of plant families, including grasses, herbaceous plants and woody species, with most colonising a wide range of plants. The branches of the tree-like structures - the arbuscules - that AM fungi produce have a large surface area across which the plant and fungus can exchange substances to the benefit of both. This occurs inside the root but outside individual cell membranes.",8,1581,763,107,1,7
+html body text div div p span  ,"Their microscopic structure makes AM fungi difficult to see and they do not form above-ground fruiting bodies, but more than 90 percent of vascular plants are thought to associate regularly with them. They send out thin hyphae into the soil that actively mobilise nutrients (particularly insoluble phosphates that are often the limiting factor in plant growth) from dead organic material and the soil’s mineral fraction.",8,1705,767,71,1,7
+html body text div div h4 span  ,Working with nature,8,1798,144,17,1,7
+html body text div div p span  ,"The early attempts of forestry researchers to inoculate young trees with mycorrhizal fungi of the EM type involved macerating and liquidising the root systems of ‘donor’ trees, and dipping seedling root systems into the slurry. Results were patchy, and such preparations had short shelf lives.",8,1837,755,53,1,7
+html body text div div p span  ,"In the 1980s, EM mycorrhizal fungi were finally cultured on a commercial scale without host roots, and induced to form spores. A company called Plant Health Care in the USA was one of the first to offer a viable mycorrhizal inoculant, based on the species",8,1907,736,53,1,7
+html body text div div p em span  ,Pisolithus tinctorius,210,1943,133,17,1,8
+html body text div div p span  ,", found on more than 100 species of trees and shrubs worldwide. Trials by the company produced increased growth rates of up to 200 percent in the seedlings of several pine species.",8,1943,748,35,1,7
+html body text div div p span  ,"Since then, research has continued apace with more species cultured, including the more difficult AM species that are obligate symbionts (they only grow on host roots). Companies such as PlantWorks in Kent are now producing formulations increasingly tailored to different host species and soil conditions. Many of these now contain both AM and EM fungi, making them suitable for a wide range of plants. These are beginning to appear in garden centres, but how useful are they to home gardeners?",8,1995,768,89,1,7
+html body text div div p span  ,"The short answer is: it varies, depending on the site, conditions and plants grown. For plants on poor, disturbed or contaminated soils, mycorrhizal inoculation can be vital. On the Betteshanger Colliery shale deposits in Kent, a study by Christ Church College Canterbury and PlantWorks showed that inoculated birch seedlings had mortality rates of less than 3 percent, compared with 60 percent in untreated plants.",8,2101,767,71,1,7
+html body text div div p span  ,"Mycorrhizal fungi dislike disturbed ground and are not found in subsoil, so in areas such as gardens of new-build houses or recent landscaping they are often not present and may not appear naturally until too late for newly-planted seedlings. Simply digging over beds or hoeing in a garden can disrupt existing mycorrhizal relationships.",8,2189,745,53,1,7
+html body text div div p span  ,"A cycle of negative feedbacks is common in gardens: disturbance damages the fungal partners of plants, making them less able to absorb nutrients, so the gardener adds a chemical ‘fix’ of inorganic fertiliser, which is toxic to the fungi, making them even less able to supply the plant.",8,2259,754,53,1,7
+html body text div div p span  ,"In organically-managed gardens and areas cultivated for wildlife interest, in particular, it makes sense to encourage mycorrhizal growth with early inoculation, minimal digging and mulching with organic matter that the fungi can break down slowly and naturally rather than using chemical fertilisers. Plants in such regimes are much better equipped to resist stresses such as drought, disease and excess heat - all of which may become increasingly important as global warming seems set to accelerate.",8,2329,761,89,1,7
+html body text div div h4 span  ,Application,8,2441,80,17,1,7
+html body text div div table tbody tr td span  ,A gel-based root-dip formulation containing both AM and EM mycorrhizal fungi used in the planting of new woods at RHS Garden Hyde Hall.,216,2483,551,35,1,10
+html body text div div p span  ,"Mycorrhizal fungi are most effective in fine, actively growing fibrous roots, so the initial problem is physically how to introduce the fungus to these parts of the plant. The simplest method, now well-established in forestry and landscaping, is to apply a solution containing the inoculant by dipping the roots in a liquid or gel formulation (pictured, right). This technique is only really suitable for dormant, bare-root woody plants.",8,2752,764,71,1,7
+html body text div div p span  ,"For pot-grown plants, tablets or powdered formulations can be mixed into the growing medium. The nursery industry has been quite slow to take up this method, probably because plants grown in sterile media and supplied with all their water and nutrient needs may show little extra growth after inoculation. While large growth increases have been found in some cases, results have been mixed. Generally, though, inoculated plants rarely if ever perform worse than those that have been left untreated.",8,2840,758,89,1,7
+html body text div div p span  ,"Treated, pot-grown stock, when planted out and exposed to soil pathogens for the first time, has been shown to establish more quickly with better disease-resistance, and thus suffer less from ‘transplant shock’.",8,2946,709,35,1,7
+html body text div div h4 span  ,Terravention,8,3003,89,17,1,7
+html body text div div table tbody tr td span  ,Terravention can both reduce soil compaction and inoculate trees with mycorrhizal fungi.,196,3045,572,17,1,10
+html body text div div p span  ,"Well-established plants including mature trees can also be inoculated, using a system known as Terravention. This physically blasts fungal inoculants into the rootball using pressurised nitrogen gas, and is particularly valuable in areas that are suffering from soil compaction, as the gas opens up air channels to some depth. The Royal Botanic Gardens, Kew reversed the seemingly-terminal decline of several specimens, including some of its oldest trees, with Terravention. A",8,3314,759,89,1,7
+html body text div div p em span  ,Platanus orientalis,111,3386,127,17,1,8
+html body text div div p span  ,planted in the original garden in 1761 and a,238,3386,283,17,1,7
+html body text div div p em span  ,Sophora japonica,521,3386,118,17,1,8
+html body text div div p span  ,"from 1762 were both re-invigorated by Terravention in 1997, and a",8,3386,765,35,1,7
+html body text div div p em span  ,Cedrus deodara,302,3404,107,17,1,8
+html body text div div p span  ,", marked for removal since two-thirds of its crown was completely defoliated, greened-up within months of treatment. All three continue to recover well.",8,3404,753,35,1,7
+html body text div div p span  ,"Success at Kew has been repeated at The Savill Garden, Windsor. Keeper of the Garden Mark Flanagan reports positive results from Terravention treatment to six important, ancient trees that were formerly in decline at Frogmore, near Windsor Castle. The Savill Garden, like Kew, is now inoculating some seedlings routinely at the pricking-out stage.",8,3456,767,53,1,7
+html body text div div p span  ,"How much of the improvement shown by such venerable specimens is due to the soil being better aerated, and how much to the introduction of fungi, is difficult to quantify. The method works, and has been used at RHS Garden Hyde Hall (see below).",8,3526,752,53,1,7
+html body text div div p span  ,"Mycorrhizal inoculation is not suited to every garden situation, and a few plant families, notably poppies and brassicas, rarely if ever form such relationships. For well-fed, well-watered plants, it may be unnecessary, but in many cases mycorrhizal fungi can act both as growth promoters and insurance policies against sources of stress (including diseases), contributing to a more natural, low-intervention, ecological form of gardening.",8,3596,763,71,1,7
+html body text div div h4 span  ,Mycorrhizae at RHS Gardens,8,3690,205,17,1,7
+html body text div div p span  ,"At RHS Garden Hyde Hall in Essex, mycorrhizae-based formulations have been used in a number of ways. The garden suffered badly from waterlogging during much of 2000, so Terravention with inoculation was tried on several of the garden’s trees that had been badly affected. Many including a Lebanon cedar, a bird cherry and a venerable willow seem to have benefited.",8,3729,762,71,1,7
+html body text div div p span  ,"‘They certainly look a lot healthier,’ says Curator Matthew Wilson, ‘but it’s impossible to say if this is the fungi, decompaction, weather or all three.’ Attempting to quantify the benefits of mycorrhizal inoculation is inherently difficult because so many other factors affect the plant-fungus relationship. The best results with mature trees have been recorded at both the New York Botanic Gardens and Royal Botanic Gardens, Kew where Terravention has been combined with turf removal under the trees out to their driplines, and the exposed soil has been mulched heavily.",8,3817,768,89,1,7
+html body text div div p span  ,"Root dips have been used in the planting of Hyde Hall’s new woodland areas, with treated and non-treated seedlings planted to compare establishment and growth. Matthew describes the results as ‘encouraging’, but stresses it is too early to draw conclusions. A recent study at RHS Garden Wisley, comparing the effect of extra fertiliser and endomycorrhizal fungi on the resistance of",8,3923,744,71,1,7
+html body text div div p em span  ,Fragaria vesca,286,3977,102,17,1,8
+html body text div div p span  ,(alpine strawberry) to,388,3977,143,17,1,7
+html body text div div p em span  ,Armillaria,531,3977,72,17,1,8
+html body text div div p span  ,"fungus, produced mixed results. Inoculation with pure AM",8,3977,749,35,1,7
+html body text div div p em span  ,Glomus intradices,228,3995,122,17,1,8
+html body text div div p span  ,"fungus gave the lowest death rates, but a mycorrhizal formulation for trees produced plants with the lowest weights. Fertiliser-treated plants were the heaviest.",8,3995,763,35,1,7
+html body text div div h4 span  ,Contacts,8,4052,60,17,1,7
+html body text div div p span  ,"Terravent system: Contact Pinnacle Concepts, Cornwall, for local contractors; tel: 01209 821613;",8,4091,628,17,0,7
+html body text div div p a span  ,visit the website: www.terravent.com,8,4091,737,35,0,8
+html body text div div p span  ,; or,138,4109,26,17,0,7
+html body text div div p a span  ,e-mail: info@terravent.com,164,4109,178,17,0,8
+html body text div div p span  ,"PlantWorks, Sittingbourne, Kent, suppliers of TerraVital and Friendly Fungi ranges. Tel: 01795 411527 or",8,4143,681,17,0,7
+html body text div div p a span  ,visit the website www.plantworksuk.co.uk,8,4143,733,35,0,8
+html body text div div p span  ,See also,8,4195,57,17,0,7
+html body text div div p a span  ,www.friendlyfungi.co.uk,65,4195,165,17,0,8
+html body text div div p span  ,and,230,4195,27,17,0,7
+html body text div div p a span  ,www.planthealthcare.com,257,4195,167,17,0,8
+html body text div div p span  ,Jon Ardle is Features Editor for The Garden,8,4229,281,17,0,7
+html body text div div p a span  ,back to,8,4263,51,17,0,8
+html body text div div p a em span  ,The Garden,59,4263,80,17,0,9
+html body text div div p a span  ,contents page,139,4263,87,17,0,8
+html body text div div div form a span  ,Advertise Online,166,4297,113,17,0,9
+html body text div div div form a span  ,Accessibility,279,4297,87,17,0,9
+html body text div div div form a span  ,Help,366,4297,36,17,0,9
+html body text div div div form a span  ,Contact Us,402,4297,75,17,0,9
+html body text div div div form a span  ,Disclaimer,477,4297,74,17,0,9
+html body text div div div form label span  ,SEARCH:,551,4297,68,17,0,9
+html body text div div div span  ,© The Royal Horticultural Society 2006 -,144,4349,271,17,0,7
+html body text div div div a span  ,Registered charity Number 222879,415,4349,226,17,0,8

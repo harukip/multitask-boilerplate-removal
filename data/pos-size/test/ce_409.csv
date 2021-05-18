@@ -1,0 +1,433 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,STRUCTURE OF EDUCATION SYSTEM IN UKRAINE,0,0,777,36,0,6
+html body text table tbody tr td a font b u span  ,EuroEducation.,11,32,225,36,0,12
+html body text table tbody tr td a font b u i span  ,net,236,32,41,36,0,13
+html body text table tbody tr td a font i span  ,The European Education Directory,11,69,226,17,0,11
+html body text table tbody tr td center font span  ,A Guide to Graduate Programmes,91,122,180,15,0,10
+html body text table tbody tr td center font span  ,"in Arts,Business,Economics,Engineering,Humanities,Management,MBA,Science",271,122,423,15,0,10
+html body text center table tbody tr td form font b span  ,Match,239,183,49,17,0,12
+html body text center table tbody tr td form font b select option  ,All,0,0,0,0,0,13
+html body text center table tbody tr td form font b select option  ,Any,0,0,0,0,0,13
+html body text center table tbody tr td form font b span  ,term in Index:,336,183,103,17,0,12
+html body text center table tbody tr td form font select option  ,Study Europe,0,0,0,0,0,12
+html body text center table tbody tr td form font select option  ,Study USA,0,0,0,0,0,12
+html body text center table tbody tr td form font select option  ,Study Canada,0,0,0,0,0,12
+html body text table tbody tr td font b span  ,Ukraine,11,309,112,36,1,10
+html body text table tbody tr td font span  ,Structure of Educational System,11,406,233,20,1,9
+html body text table tbody tr td font span  ,Admissions to Higher Education and Recognition of Foreign Credentials,11,427,529,20,1,9
+html body text table tbody tr td font span  ,Student Life,11,448,89,20,1,9
+html body text table tbody tr td font span  ,International Cooperation and Exchanges,11,469,298,20,1,9
+html body text table tbody tr td p span span  ,INSTITUTION TYPES & CREDENTIALS,11,585,377,24,1,10
+html body text table tbody tr td p b span span  ,Types of higher educationinstitutions:,11,626,258,17,1,11
+html body text table tbody tr td p span span  ,Uniwersytet(University),11,660,156,17,1,10
+html body text table tbody tr td p span span  ,Akademia (Academy),11,694,142,17,1,10
+html body text table tbody tr td p span span  ,Instytut (Istitute),11,728,108,17,1,10
+html body text table tbody tr td p span span  ,Konservatoria(Conservatoire),11,762,191,17,1,10
+html body text table tbody tr td p span span  ,Koledge (College),11,796,119,17,1,10
+html body text table tbody tr td p b span span  ,School leaving and higher educationcredentials:,11,830,327,17,1,11
+html body text table tbody tr td p span span  ,Atestat/MatriculationSchool Certificate,11,864,253,17,1,10
+html body text table tbody tr td p span span  ,Dyplom MolodshogoSpetsialista,11,898,210,17,1,10
+html body text table tbody tr td p span span  ,Dyplom Bakalavra,11,932,121,17,1,10
+html body text table tbody tr td p span span  ,Dyplom Spetsialista,11,966,129,17,1,10
+html body text table tbody tr td p span span  ,Master,11,1000,44,17,1,10
+html body text table tbody tr td p span span  ,Dyplom Magistra,11,1034,113,17,1,10
+html body text table tbody tr td p span span  ,Internatura,11,1068,70,17,1,10
+html body text table tbody tr td p span span  ,Kandydat Nauk,11,1102,101,17,1,10
+html body text table tbody tr td p span span  ,Doktor Nauk,11,1136,84,17,1,10
+html body text table tbody tr td p span span  ,STRUCTURE OF EDUCATION SYSTEM,11,1208,374,24,1,10
+html body text table tbody tr td p b span span  ,Pre-highereducation:,11,1249,145,17,1,11
+html body text table tbody tr td p span span  ,Durationof compulsory education:,11,1283,220,17,1,10
+html body text table tbody tr td p span span  ,Age ofentry:,24,1317,86,17,1,10
+html body text table tbody tr td p span span  ,6,110,1317,8,17,1,10
+html body text table tbody tr td p span span  ,Age ofexit:,24,1351,77,17,1,10
+html body text table tbody tr td p span span  ,15,101,1351,16,17,1,10
+html body text table tbody tr td p span span  ,Structure of school system:,11,1385,175,17,1,10
+html body text table tbody tr td p i span span  ,Elementary,24,1407,74,17,1,11
+html body text table tbody tr td p span span  ,Type ofschool providing this education:,24,1441,259,17,1,10
+html body text table tbody tr td p span span  ,Elementary School,283,1441,122,17,1,10
+html body text table tbody tr td p span span  ,Lengthof program in years:,24,1475,180,17,1,10
+html body text table tbody tr td p span span  ,4,204,1475,8,17,1,10
+html body text table tbody tr td p span span  ,Age level from:,24,1509,106,17,1,10
+html body text table tbody tr td p span span  ,6,130,1509,12,17,1,10
+html body text table tbody tr td p span span span  ,to:,142,1509,21,17,1,11
+html body text table tbody tr td p span span  ,10,163,1509,16,17,1,10
+html body text table tbody tr td p i span span  ,Lower Secondary,24,1531,113,17,1,11
+html body text table tbody tr td p span span  ,Type ofschool providing this education:,24,1565,259,17,1,10
+html body text table tbody tr td p span span  ,Lower Secondary (Osnowna Serednia Shkola),283,1565,297,17,1,10
+html body text table tbody tr td p span span  ,Lengthof program in years:,24,1599,180,17,1,10
+html body text table tbody tr td p span span  ,5,204,1599,8,17,1,10
+html body text table tbody tr td p span span  ,Agelevel from:,24,1633,102,17,1,10
+html body text table tbody tr td p span span  ,10,126,1633,20,17,1,10
+html body text table tbody tr td p span span span  ,to:,146,1633,21,17,1,11
+html body text table tbody tr td p span span  ,15,167,1633,16,17,1,10
+html body text table tbody tr td p span span  ,Certificate/diploma awarded:,24,1667,191,17,1,10
+html body text table tbody tr td p span span  ,Swidoctwo Pro NepownuSeredniu Oswitu/Lower Secondary School Leaving Certificate,24,1667,686,35,1,10
+html body text table tbody tr td p i span span  ,Upper Secondary,24,1707,113,17,1,11
+html body text table tbody tr td p span span  ,Type ofschool providing this education:,24,1741,259,17,1,10
+html body text table tbody tr td p span span  ,Upper Secondary Special School (Licei),283,1741,259,17,1,10
+html body text table tbody tr td p span span  ,Lengthof program in years:,24,1775,180,17,1,10
+html body text table tbody tr td p span span  ,3,204,1775,8,17,1,10
+html body text table tbody tr td p span span  ,Agelevel from:,24,1809,102,17,1,10
+html body text table tbody tr td p span span  ,15,126,1809,20,17,1,10
+html body text table tbody tr td p span span span  ,to:,146,1809,21,17,1,11
+html body text table tbody tr td p span span  ,18,167,1809,16,17,1,10
+html body text table tbody tr td p span span  ,Certificate/diploma awarded:,24,1843,190,17,1,10
+html body text table tbody tr td p span span  ,Atestat/MatriculationSchool Certificate,214,1843,253,17,1,10
+html body text table tbody tr td p i span span  ,Upper Secondary,24,1865,113,17,1,11
+html body text table tbody tr td p span span  ,Type ofschool providing this education:,24,1899,259,17,1,10
+html body text table tbody tr td p span span  ,Upper Secondary School (Starsha Serednia Shkola),283,1899,330,17,1,10
+html body text table tbody tr td p span span  ,Lengthof program in years:,24,1933,180,17,1,10
+html body text table tbody tr td p span span  ,2,204,1933,8,17,1,10
+html body text table tbody tr td p span span  ,Agelevel from:,24,1967,102,17,1,10
+html body text table tbody tr td p span span  ,15,126,1967,20,17,1,10
+html body text table tbody tr td p span span span  ,to:,146,1967,21,17,1,11
+html body text table tbody tr td p span span  ,17,167,1967,16,17,1,10
+html body text table tbody tr td p span span  ,Certificate/diploma awarded:,24,2001,190,17,1,10
+html body text table tbody tr td p span span  ,Atestat/MatriculationSchool Certificate,214,2001,253,17,1,10
+html body text table tbody tr td p i span span  ,Special Education,24,2023,117,17,1,11
+html body text table tbody tr td p span span  ,Type ofschool providing this education:,24,2057,259,17,1,10
+html body text table tbody tr td p span span  ,Upper Secondary Special School (Gimnazia),283,2057,288,17,1,10
+html body text table tbody tr td p span span  ,Lengthof program in years:,24,2091,180,17,1,10
+html body text table tbody tr td p span span  ,3,204,2091,8,17,1,10
+html body text table tbody tr td p span span  ,Agelevel from:,24,2125,102,17,1,10
+html body text table tbody tr td p span span  ,15,126,2125,20,17,1,10
+html body text table tbody tr td p span span span  ,to:,146,2125,21,17,1,11
+html body text table tbody tr td p span span  ,18,167,2125,16,17,1,10
+html body text table tbody tr td p span span  ,Certificate/diploma awarded:,24,2159,190,17,1,10
+html body text table tbody tr td p span span  ,Atestat/MatriculationSchool Certificate,214,2159,253,17,1,10
+html body text table tbody tr td p i span span  ,Vocational,24,2181,69,17,1,11
+html body text table tbody tr td p span span  ,Type ofschool providing this education:,24,2215,259,17,1,10
+html body text table tbody tr td p span span  ,Vocational Secondary School (Technikum),283,2215,274,17,1,10
+html body text table tbody tr td p span span  ,Lengthof program in years:,24,2249,180,17,1,10
+html body text table tbody tr td p span span  ,5,204,2249,8,17,1,10
+html body text table tbody tr td p span span  ,Agelevel from:,24,2283,102,17,1,10
+html body text table tbody tr td p span span  ,15,126,2283,20,17,1,10
+html body text table tbody tr td p span span span  ,to:,146,2283,21,17,1,11
+html body text table tbody tr td p span span  ,20,167,2283,16,17,1,10
+html body text table tbody tr td p span span  ,Certificate/diploma awarded:,24,2317,190,17,1,10
+html body text table tbody tr td p span span  ,"Atestat, DiplomTechnika/Matriculation School Certificate, Professional Secondary SchoolLeaving Diploma, Junior Specialist",24,2317,721,35,1,10
+html body text table tbody tr td p i span span  ,Vocational,24,2357,69,17,1,11
+html body text table tbody tr td p span span  ,Type ofschool providing this education:,24,2391,259,17,1,10
+html body text table tbody tr td p span span  ,Vocational School (Profesijno-TecnichneUchylyshche),283,2391,351,17,1,10
+html body text table tbody tr td p span span  ,Lengthof program in years:,24,2425,180,17,1,10
+html body text table tbody tr td p span span  ,4,204,2425,8,17,1,10
+html body text table tbody tr td p span span  ,Agelevel from:,24,2459,102,17,1,10
+html body text table tbody tr td p span span  ,15,126,2459,20,17,1,10
+html body text table tbody tr td p span span span  ,to:,146,2459,21,17,1,11
+html body text table tbody tr td p span span  ,20,167,2459,16,17,1,10
+html body text table tbody tr td p span span  ,Certificate/diplomaawarded:,24,2493,186,17,1,10
+html body text table tbody tr td p span span  ,"Atestat, Swidoctwo Pro Zakinchennia Uchylyshcha/Matriculation SchoolCertificate, Vocational School Leaving Certificate",24,2493,728,35,1,10
+html body text table tbody tr td p b span span  ,Schooleducation:,11,2545,117,17,1,11
+html body text table tbody tr td p span span  ,"All children 7 to 15 years oldattend the nine year compulsory school. If parents so wish, the child may startfrom the age of six. Options after the comprehensive school are upper secondaryschool or vocational education. Upper secondary school: 2-year general schoolleading to the Matriculation Examination, giving successful students access touniversity and other higher education schools. The present vocational educationsystem covers both general secondary and vocational programmes, with separatetracks for comprehensive school leavers and matriculated students. The systemis being reformed.",11,2579,741,107,1,10
+html body text table tbody tr td p b span span  ,Highereducation:,11,2703,120,17,1,11
+html body text table tbody tr td p span span  ,Higher education in Ukraine isadministered by the Ministry of Education,11,2737,473,17,1,10
+html body text table tbody tr td p span span  ,"which coordinates the activities of higher schools and supervises thehigher schools which are under other ministries. According to the ""Law onEducation"", higher education includes the following levels and categoriesof establishment: level I -",11,2737,737,53,1,10
+html body text table tbody tr td p span span  ,"vocationalschools and other HEIs of a corresponding level; level II - colleges and other HEIsof a corresponding level which teach Bachelor and junior specialist courses;level III - institutes, conservatories,academies and universities that teachBachelor's and Specialist, as well as junior specialist courses and ; level IV- institutes, conservatories, academies and universities which teach Bachelor's,Master's and Specialist courses. The degree system is under reform: The oldsystem had only one stage of undergraduate studies, the degree of""Specialist"", awarded after 5 years of study. The new systemcomprises two stages: undergraduate and graduate, with several degree levels. AUnion of Rectors was created in 1993.",11,2773,748,143,1,10
+html body text table tbody tr td p b span span  ,Mainlaws/decrees governing higher education:,11,2933,318,17,1,11
+html body text table tbody tr td p span span  ,Decree:,11,2967,54,17,1,10
+html body text table tbody tr td p span span  ,Decree on autonomy,65,2967,136,17,1,10
+html body text table tbody tr td p span span span  ,Year:,201,2967,38,17,1,11
+html body text table tbody tr td p span span  ,1990,239,2967,32,17,1,10
+html body text table tbody tr td p span span  ,Concerns:,11,3001,69,17,1,10
+html body text table tbody tr td p span span  ,higher education institutions,80,3001,182,17,1,10
+html body text table tbody tr td p span span  ,Decree:,11,3032,54,17,1,10
+html body text table tbody tr td p span span  ,Law on Education,65,3032,120,17,1,10
+html body text table tbody tr td p span span span  ,Year:,185,3032,38,17,1,11
+html body text table tbody tr td p span span  ,1996,223,3032,32,17,1,10
+html body text table tbody tr td p span span  ,Concerns:,11,3066,69,17,1,10
+html body text table tbody tr td p span span  ,stateand private system of education,80,3066,233,17,1,10
+html body text table tbody tr td p b span span  ,Academicyear:,11,3100,103,17,1,11
+html body text table tbody tr td p span span  ,Classesfrom:,11,3134,88,17,1,10
+html body text table tbody tr td p span span  ,Sep,99,3134,28,17,1,10
+html body text table tbody tr td p span span span  ,to:,127,3134,20,17,1,11
+html body text table tbody tr td p span span  ,Jun,147,3134,23,17,1,10
+html body text table tbody tr td p span span  ,Longvacation from:,11,3168,132,17,1,10
+html body text table tbody tr td p span span  ,1 Jul,143,3168,34,17,1,10
+html body text table tbody tr td p span span span  ,to:,177,3168,21,17,1,11
+html body text table tbody tr td p span span  ,31 Aug,198,3168,47,17,1,10
+html body text table tbody tr td p b span span  ,Languagesof instruction:,11,3202,175,17,1,11
+html body text table tbody tr td p span span  ,"English, Russian, Ukrainian",186,3202,180,17,1,10
+html body text table tbody tr td p b span span  ,Stagesof studies:,11,3236,113,17,1,11
+html body text table tbody tr td p span span  ,Post-secondary studies (technical/vocationaltype):,11,3270,322,17,1,10
+html body text table tbody tr td p span span  ,Non-universitylevel,24,3304,132,17,1,10
+html body text table tbody tr td p span span  ,:,156,3304,5,17,1,10
+html body text table tbody tr td p span span  ,"Since 1992 the wholesystem of Ukrainian postsecondary education is considered ""highereducation"". According to the ""Law on Education"", the followinglevels and categories of establishments offer higher vocational education:level I - technical and vocational schools; level II - technicums and colleges.They award the qualification of Junior Specialist. Level III institutes areuniversity-level institutions. Graduates from post-secondary vocational schoolsmust sit for final examinations and defend a graduation thesis/work. TheDiploma confers a right to employement at a pre-set level or the right tocontinue training in institutions of a higher level.",24,3338,749,107,1,10
+html body text table tbody tr td p span span  ,University level studies:,11,3462,156,17,1,10
+html body text table tbody tr td p span span  ,Universitylevel first stage,24,3496,170,17,1,10
+html body text table tbody tr td p b span span  ,:,194,3496,9,17,1,11
+html body text table tbody tr td p span span  ,"Bakalavr, Specialist:",203,3496,132,17,1,10
+html body text table tbody tr td p span span  ,"The academic and professional diploma of Bakalavr(BA, BEd., BMed.) is generally awarded after four years of successful study(six years for Medicine). The Bakalavr programme comprises basic highereducation and professional training in a given professional field. It is anintermediate degree. The degree (Diplom) of Specialist is awarded after five orsix years of study, depending on the type of institution.",24,3530,734,71,1,10
+html body text table tbody tr td p span span  ,Universitylevel second stage,24,3618,188,17,1,10
+html body text table tbody tr td p b span span  ,:,212,3618,10,17,1,11
+html body text table tbody tr td p span span  ,Magister:,222,3618,61,17,1,10
+html body text table tbody tr td p span span  ,The Magister (Master's Degree) is awarded on thebasis of a Bachelor's Degree or Specialist's qualification generally one to twoyears after the first degree. Students must pass final examinations and defenda thesis.,24,3652,743,35,1,10
+html body text table tbody tr td p span span  ,Universitylevel third stage,24,3704,174,17,1,10
+html body text table tbody tr td p b span span  ,:,198,3704,9,17,1,11
+html body text table tbody tr td p span span  ,Doctoral Degree-1:,207,3704,124,17,1,10
+html body text table tbody tr td p span span  ,"Ukraine keeps a two-degree system at doctorallevel: Kandydat nauk (Candidate of Sciences, comparable to the Ph.D.), andDoctor nauk. The first qualification is obtained after three or four years ofstudy by submitting and publicly defending a thesis and passing the requiredexaminations. The candidate's thesis can be prepared while following variousforms of post-graduate studies.",24,3738,711,71,1,10
+html body text table tbody tr td p span span  ,Universitylevel fourth stage,24,3826,183,17,1,10
+html body text table tbody tr td p b span span  ,:,207,3826,9,17,1,11
+html body text table tbody tr td p span span  ,Doctoral Degree-2:,216,3826,124,17,1,10
+html body text table tbody tr td p span span  ,The,24,3860,29,17,1,10
+html body text table tbody tr td p span span  ,"""Doctor nauk"" is the highestscientific degree in Ukraine, comparable to ""Habilitation"" in someWestern countries. It is awarded to candidates already holding a ""Kandidatnauk"", on the successful presentation and defence of the ""Doctornauk"" (habilitation) dissertation. The Habilitation dissertation shouldrepresent a major contribution to the development of a given field or branch oflearning, and has to be published entirely or at least its main parts.",24,3860,742,71,1,10
+html body text table tbody tr td p span span  ,Teacher education:,11,3948,121,17,1,10
+html body text table tbody tr td p span span  ,Trainingof pre-primary and primary/basic school teachers,24,3982,370,17,1,10
+html body text table tbody tr td p span span  ,"Pre-primary and and primary school teachers aretrained in teacher-training institutions of Levels I, II, and III ofaccreditation (vocational schools, technikums, and colleges). Practicaltraining at kindergarten and primary schools are part of the teacher trainingprogramme.",24,4016,746,53,1,10
+html body text table tbody tr td p span span  ,Trainingof secondary school teachers,24,4086,239,17,1,10
+html body text table tbody tr td p span span  ,Training is provided by higher educationinstitutions of Levels III and IV,24,4120,468,17,1,10
+html body text table tbody tr td p span span  ,"ofaccreditation (institutes and universities), in different faculties (Education,Mathematics and Natural Sciences, Physical Education, etc.). The programme forteachers includes standard topics of education and psychology. Teachers ofpractical/vocational courses are trained in the technical education institutes.",24,4120,748,71,1,10
+html body text table tbody tr td p span span  ,Trainingof higher education teachers,24,4208,236,17,1,10
+html body text table tbody tr td p span span  ,There are no specialforms of training for higher education teachers. Teachers of higher educationare recruited among university graduates holding a Magister or Kandidat NaukDegree who have followed special education courses through various types ofassistance.,24,4242,749,53,1,10
+html body text table tbody tr td p span span  ,Non-traditional studies:,11,4312,152,17,1,10
+html body text table tbody tr td p span span  ,Distancehigher education,24,4346,163,17,1,10
+html body text table tbody tr td p span span  ,"A network of correspondence and evening courses isintended for persons who are already employed. Candidates for such courses mustnot only pass an entrance examination, but also prove they effectively workedfor a certain time.",24,4380,743,35,1,10
+html body text table tbody tr td p span span  ,Lifelonghigher education,24,4432,163,17,1,10
+html body text table tbody tr td p span span  ,"Some institutions of higher education (mostlyprivate) have departments of continuing education providing teaching based onthe principles of general higher education. Obtaining Diplomas depends oncredits obtained in required topics, as well as on the presentation of amemoire.",24,4466,740,53,1,10
+html body text table tbody tr td p span span  ,Highereducation training in industry,24,4536,234,17,1,10
+html body text table tbody tr td p span span  ,A certain number of higher education institutionsorganize evening classes in industry which are of the same level as full-timestudies.,24,4570,742,35,1,10
+html body text table tbody tr td p span span  ,Otherforms of non-formal higher education,24,4622,278,17,1,10
+html body text table tbody tr td p span span  ,The television ofUkraine broadcasts educational programmes of different levels for students andteachers in schools ranging from primary to upper secondary. These programmesare desiged to introduce teachers to new pedagogical methods.,24,4656,738,53,1,10
+html body text table tbody tr td p span span  ,NATIONAL BODIES,11,4763,189,24,1,10
+html body text table tbody tr td p b span span  ,Administration& co-ordination:,11,4804,220,17,1,11
+html body text table tbody tr td p span span  ,Responsibleauthorities:,11,4838,150,17,1,10
+html body text table tbody tr td p span span  ,Ministry ofEducation,11,4872,137,17,1,10
+html body text table tbody tr td p span span  ,Minister: Vasyl Kremen,24,4894,154,17,1,10
+html body text table tbody tr td p span span  ,Prosp.Peremohi 10,24,4928,122,17,1,10
+html body text table tbody tr td p span span  ,252135 Kyiv,24,4946,84,17,1,10
+html body text table tbody tr td p span span  ,Kyiv Region,24,4964,83,17,1,10
+html body text table tbody tr td p span span  ,Ukraine,24,4982,52,17,1,10
+html body text table tbody tr td p span span  ,Tel:,24,5016,29,17,0,10
+html body text table tbody tr td p span span  ,+38(44) 226-24-42,53,5016,122,17,0,10
+html body text table tbody tr td p span span  ,Fax:,24,5050,33,17,0,10
+html body text table tbody tr td p span span  ,+38(44) 274-10-49,57,5050,122,17,0,10
+html body text table tbody tr td p span span  ,EMail:,24,5084,49,17,0,10
+html body text table tbody tr td p u span span  ,vvv@minosvit.niit.kiev.ua,73,5084,169,17,0,11
+html body text table tbody tr td p span span  ,WWW:,24,5118,49,17,0,10
+html body text table tbody tr td p span span  ,Council of Rectorsof Ukrainian Institutions of Higher Education,11,5152,413,17,1,10
+html body text table tbody tr td p span span  ,President: Viktor Skopenko,24,5174,177,17,1,10
+html body text table tbody tr td p span span  ,"T.Shevchenko Kyiv National University, 60 Volodymyrska St",24,5208,395,17,1,10
+html body text table tbody tr td p span span  ,01017 Kyiv,24,5226,76,17,1,10
+html body text table tbody tr td p span span  ,Ukraine,24,5244,52,17,1,10
+html body text table tbody tr td p span span  ,Associationof Non-State-owned Educational Institutions of Ukraine,11,5278,435,17,1,10
+html body text table tbody tr td p span span  ,16-v VernadskyAvenue,24,5312,149,17,1,10
+html body text table tbody tr td p span span  ,Kyiv,24,5330,32,17,1,10
+html body text table tbody tr td p span span  ,252115,24,5348,48,17,1,10
+html body text table tbody tr td p span span  ,Ukraine,24,5366,52,17,1,10
+html body text table tbody tr td p span span  ,Tel:,24,5400,29,17,0,10
+html body text table tbody tr td p span span  ,+38(44) 452-7655,53,5400,117,17,0,10
+html body text table tbody tr td p span span  ,EMail:,24,5434,49,17,0,10
+html body text table tbody tr td p u span span  ,assoc@ufimb.kiev.ua,73,5434,137,17,0,11
+html body text table tbody tr td p span span  ,ADMISSIONS TO HIGHER EDUCATION,11,5506,377,24,1,10
+html body text table tbody tr td p b span span  ,Admissionto non university higher education studies,11,5547,358,17,1,11
+html body text table tbody tr td p span span  ,Name ofsecondary school credential required:,11,5581,298,17,1,10
+html body text table tbody tr td p span span  ,Atestat/Matriculation School Certificate,309,5581,257,17,1,10
+html body text table tbody tr td p span span  ,Minimumscore/requirement:,11,5615,188,17,1,10
+html body text table tbody tr td p span span  ,satisfactory,199,5615,74,17,1,10
+html body text table tbody tr td p span span  ,Forentry to:,11,5649,80,17,1,10
+html body text table tbody tr td p span span  ,all higher technical/vocational and professional non-university studies,91,5649,449,17,1,10
+html body text table tbody tr td p span span  ,Alternativesto credentials:,11,5683,168,17,1,10
+html body text table tbody tr td p span span  ,none,11,5717,31,17,1,10
+html body text table tbody tr td p span span  ,Numerusclausus/restrictions:,11,5751,186,17,1,10
+html body text table tbody tr td p span span  ,"These studies are intended forgraduates of general secondary schools holding the Matriculation SchoolCertificate. However, graduates with other secondary school certificates may beaccepted.",11,5785,730,35,1,10
+html body text table tbody tr td p b span span  ,Admissionto university-level studies,11,5837,245,17,1,11
+html body text table tbody tr td p span span  ,Name ofsecondary school credential required:,11,5871,298,17,1,10
+html body text table tbody tr td p span span  ,Atestat/Matriculation School Certificate,309,5871,257,17,1,10
+html body text table tbody tr td p span span  ,Minimumscore/requirement:,11,5905,188,17,1,10
+html body text table tbody tr td p span span  ,satisfactory,199,5905,74,17,1,10
+html body text table tbody tr td p span span  ,Forentry to:,11,5939,80,17,1,10
+html body text table tbody tr td p span span  ,all institutions of higher education,91,5939,220,17,1,10
+html body text table tbody tr td p span span  ,Alternativesto credentials:,11,5973,172,17,1,10
+html body text table tbody tr td p span span  ,none,183,5973,32,17,1,10
+html body text table tbody tr td p span span  ,Entranceexams required:,11,6007,163,17,1,10
+html body text table tbody tr td p span span  ,"Entrance examination, qualification test or qualifying interview for someuniversity level studies. The marks are determined by each institution ordepartment.",11,6007,730,35,1,10
+html body text table tbody tr td p span span  ,Numerusclausus/restrictions:,11,6059,190,17,1,10
+html body text table tbody tr td p span span  ,"Specific ability requirements are set for artisticstudies, physical education and architectural preservation studies. A certainage limit is also set.",11,6059,689,35,1,10
+html body text table tbody tr td p span span  ,Otheradmission requirements:,11,6111,197,17,1,10
+html body text table tbody tr td p span span  ,Physical and mental predisposition of candidates to workin a certain professional field must first be ascertained,11,6111,750,35,1,10
+html body text table tbody tr td p b span span  ,Foreignstudents admission,11,6163,182,17,1,11
+html body text table tbody tr td p span span  ,Definitionof foreign student:,11,6197,187,17,1,10
+html body text table tbody tr td p span span  ,A person not having Ukrainian citizenship.,198,6197,275,17,1,10
+html body text table tbody tr td p span span  ,Admissionrequirements:,11,6231,161,17,1,10
+html body text table tbody tr td p span span  ,Students must hold a secondary school leaving certificate giving accessto higher education.,172,6231,585,17,1,10
+html body text table tbody tr td p span span  ,Entryregulations:,11,6265,115,17,1,10
+html body text table tbody tr td p span span  ,The possession of a student visa is necessary. Students must beofficially admitted by the Rector of the chosen institution.,11,6265,743,35,1,10
+html body text table tbody tr td p span span  ,Healthrequirements:,11,6317,135,17,1,10
+html body text table tbody tr td p span span  ,Candidates seeking admission to higher studies should submit a healthcertificate.,146,6317,519,17,1,10
+html body text table tbody tr td p span span  ,Languagerequirements:,11,6351,155,17,1,10
+html body text table tbody tr td p span span  ,Students must be proficient in Ukrainian or Russian. A 9 to 10 monthcourse is offered in each university or institution.They,11,6351,754,35,1,10
+html body text table tbody tr td p span span  ,then sit for an examination which givesentry to the institution.,202,6369,398,17,1,10
+html body text table tbody tr td p b span span  ,Applicationprocedures:,11,6403,161,17,1,11
+html body text table tbody tr td p span span  ,Apply toindividual institution for entry to:,11,6437,275,17,1,10
+html body text table tbody tr td p span span  ,Institution selected (for addresses see List ofinstitutions) and all academic programmes of this institution.,11,6437,748,35,1,10
+html body text table tbody tr td p span span  ,Apply tonational body for entry to:,11,6489,228,17,1,10
+html body text table tbody tr td p span span  ,All institutions of higher education and to all academicprogrammes.,239,6489,435,17,1,10
+html body text table tbody tr td p span span  ,Applyto:,24,6523,57,17,1,10
+html body text table tbody tr td p span span  ,"Ministry ofEducation and Science,Office of Foreign Education via Embassies.",11,6557,502,17,1,10
+html body text table tbody tr td p span span  ,"Peremohy prosp., 10",24,6591,133,17,1,10
+html body text table tbody tr td p span span  ,252135 Kiev,24,6609,83,17,1,10
+html body text table tbody tr td p span span  ,Ukraine,24,6627,52,17,1,10
+html body text table tbody tr td p span span  ,Tel:,24,6661,29,17,0,10
+html body text table tbody tr td p span span  ,+380(44) 226-2661,53,6661,125,17,0,10
+html body text table tbody tr td p span span  ,Fax:,24,6695,33,17,0,10
+html body text table tbody tr td p span span  ,+380(44) 274-1049,57,6695,125,17,0,10
+html body text table tbody tr td p span span  ,Applicationclosing dates:,11,6729,163,17,1,10
+html body text table tbody tr td p span span  ,Fornon-university level (technical/vocational type) studies:,24,6763,383,17,1,10
+html body text table tbody tr td p span span  ,1 Mar,407,6763,39,17,1,10
+html body text table tbody tr td p span span  ,Foruniversity level studies:,24,6797,179,17,1,10
+html body text table tbody tr td p span span  ,1 Mar,203,6797,38,17,1,10
+html body text table tbody tr td p span span  ,Foradvanced/doctoral studies:,24,6831,197,17,1,10
+html body text table tbody tr td p span span  ,1 Mar,221,6831,38,17,1,10
+html body text table tbody tr td p b span span  ,Recognitionof studies & qualifications:,11,6865,265,17,1,11
+html body text table tbody tr td p span span  ,Studiespursued in home country (System of recognition/accreditation):,11,6899,458,17,1,10
+html body text table tbody tr td p span span  ,Institutions awarddegrees according to the decision of the authority appointed by the Ministry ofEducation,11,6899,729,35,1,10
+html body text table tbody tr td p span span  ,Studiespursued in foreign countries (bodies dealing with recognition of foreigncredentials):,11,6951,585,17,1,10
+html body text table tbody tr td p span span  ,"Department forInternational Co-operation, Ministry of Education",11,6985,418,17,1,10
+html body text table tbody tr td p span span  ,Head of Staff Department: VitalyPogrebnyak,24,7007,289,17,1,10
+html body text table tbody tr td p span span  ,Prosp.Peremohi 10,24,7041,122,17,1,10
+html body text table tbody tr td p span span  ,252135 Kyiv,24,7059,84,17,1,10
+html body text table tbody tr td p span span  ,Kyiv Region,24,7077,83,17,1,10
+html body text table tbody tr td p span span  ,Ukraine,24,7095,52,17,1,10
+html body text table tbody tr td p span span  ,Tel:,24,7129,29,17,0,10
+html body text table tbody tr td p span span  ,+380(44) 226-29-93,53,7129,130,17,0,10
+html body text table tbody tr td p span span  ,Fax:,24,7163,33,17,0,10
+html body text table tbody tr td p span span  ,+380(44) 274-10-49,57,7163,130,17,0,10
+html body text table tbody tr td p span span  ,Dealswith credential recognition for entry to:,24,7197,294,17,1,10
+html body text table tbody tr td p span span  ,University and Profession,318,7197,166,17,1,10
+html body text table tbody tr td p span span  ,Servicesprovided & students dealt with:,24,7231,260,17,1,10
+html body text table tbody tr td p span span  ,Information and guidance.,284,7231,170,17,1,10
+html body text table tbody tr td p span span  ,Otherinformation sources on recognition of foreign studies:,11,7265,385,17,1,10
+html body text table tbody tr td p span span  ,"Ministry of Agriculture andFood, Ministry of Transport/Division of Education, The Vice-Rector forInternational Affairs of the higher education institutions",11,7265,701,35,1,10
+html body text table tbody tr td p b span span  ,Specialprovisions for recognition:,11,7317,229,17,1,11
+html body text table tbody tr td p span span  ,Foraccess to non-university post-secondary studies:,11,7351,334,17,1,10
+html body text table tbody tr td p span span  ,Applicants must submit completeofficial academic documents together with their application form to thisspecific institution.,11,7351,732,35,1,10
+html body text table tbody tr td p span span  ,Foraccess to university level studies:,11,7403,239,17,1,10
+html body text table tbody tr td p span span  ,Applicants must submit complete official academicdocuments together with their application form to a specific institution.,11,7403,759,35,1,10
+html body text table tbody tr td p span span  ,Foraccess to advanced studies and research:,11,7455,284,17,1,10
+html body text table tbody tr td p span span  ,All applicants must submitcomplete official documents together with their application form to a specificuniversity or research institute.,11,7455,761,35,1,10
+html body text table tbody tr td p span span  ,For theexercise of a profession:,11,7507,205,17,1,10
+html body text table tbody tr td p span span  ,Applicants must present relevant documents to theappropriate ministry.,216,7507,456,17,1,10
+html body text table tbody tr td p b span span  ,Multilateralagreements concerning recognition of foreign studies,11,7541,442,17,1,11
+html body text table tbody tr td p span span  ,Name ofagreement:,11,7575,131,17,1,10
+html body text table tbody tr td p span span  ,"Paris Convention. Convention For the Recognition of Studies, Diplomas andDegrees Concerning Higher Education in the States Belonging To the EuropeanRegion.",11,7575,752,35,1,10
+html body text table tbody tr td p span span  ,Year of signature:,11,7627,118,17,1,10
+html body text table tbody tr td p span span  ,1979,129,7627,32,17,1,10
+html body text table tbody tr td p span span  ,Name ofagreement:,11,7658,131,17,1,10
+html body text table tbody tr td p span span  ,"Prague Convention. Convention of Socialist Countries For the MutualRecognition Or Equivalence of Education Documents, Scientific Degrees andTitles.",11,7658,761,35,1,10
+html body text table tbody tr td p span span  ,Year ofsignature:,11,7710,114,17,1,10
+html body text table tbody tr td p span span  ,1972,125,7710,32,17,1,10
+html body text table tbody tr td p b span span  ,Referencesto further information on foreign student admissions and recognition of studies,11,7744,613,17,1,11
+html body text table tbody tr td p span span  ,Title:,11,7778,38,17,1,10
+html body text table tbody tr td p span span  ,Study Abroad2000-2001,49,7778,158,17,1,10
+html body text table tbody tr td p span span  ,Publisher:,11,7812,69,17,1,10
+html body text table tbody tr td p span span  ,UNESCO/BIE,80,7812,94,17,1,10
+html body text table tbody tr td p span span  ,Year ofpublication:,11,7846,127,17,1,10
+html body text table tbody tr td p span span  ,1999,138,7846,32,17,1,10
+html body text table tbody tr td p span span  ,STUDENT LIFE,11,7917,147,24,1,10
+html body text table tbody tr td p b span span  ,Mainstudent services as national level,11,7958,258,17,1,11
+html body text table tbody tr td p span span  ,"Office of SocialService for Students, Ministry of Education and Science",11,7992,462,17,1,10
+html body text table tbody tr td p span span  ,Peremoha prosp. 10,24,8026,128,17,1,10
+html body text table tbody tr td p span span  ,252135 Kyiv,24,8044,84,17,1,10
+html body text table tbody tr td p span span  ,Ukraine,24,8062,52,17,1,10
+html body text table tbody tr td p span span  ,Tel:,24,8096,29,17,0,10
+html body text table tbody tr td p span span  ,+380(44) 226-26-61,53,8096,130,17,0,10
+html body text table tbody tr td p span span  ,Fax:,24,8130,33,17,0,10
+html body text table tbody tr td p span span  ,+380(44) 274-10-79,57,8130,130,17,0,10
+html body text table tbody tr td p span span  ,Categoryof services provided:,24,8164,197,17,1,10
+html body text table tbody tr td p span span  ,Social and welfare services; Special services/Centre forforeign students,221,8164,458,17,1,10
+html body text table tbody tr td p span span  ,Servicesavailable to foreign Students:,24,8198,246,17,1,10
+html body text table tbody tr td p span span  ,Yes,270,8198,23,17,1,10
+html body text table tbody tr td p span span  ,"Office of StudentsAffairs, Ministry of Education and Science",11,8232,392,17,1,10
+html body text table tbody tr td p span span  ,"Peremohy prosp., 10",24,8266,133,17,1,10
+html body text table tbody tr td p span span  ,252135 Kyiv,24,8284,84,17,1,10
+html body text table tbody tr td p span span  ,Ukraine,24,8302,52,17,1,10
+html body text table tbody tr td p span span  ,Tel:,24,8336,29,17,0,10
+html body text table tbody tr td p span span  ,+380(44) 216-22-88,53,8336,130,17,0,10
+html body text table tbody tr td p span span  ,Fax:,24,8370,33,17,0,10
+html body text table tbody tr td p span span  ,+380(44) 274-10-49,57,8370,130,17,0,10
+html body text table tbody tr td p span span  ,Categoryof services provided:,24,8404,196,17,1,10
+html body text table tbody tr td p span span  ,Academic and career counselling services; Specialservices/Centre for foreign students,220,8404,552,17,1,10
+html body text table tbody tr td p span span  ,Servicesavailable to foreign Students:,24,8438,246,17,1,10
+html body text table tbody tr td p span span  ,Yes,270,8438,23,17,1,10
+html body text table tbody tr td p span span  ,"UkrainianInternational Centre ""Osvita""",11,8472,251,17,1,10
+html body text table tbody tr td p span span  ,27 ShevchenkoBoulevard,24,8506,165,17,1,10
+html body text table tbody tr td p span span  ,25032 Kiev,24,8524,75,17,1,10
+html body text table tbody tr td p span span  ,Ukraine,24,8542,52,17,1,10
+html body text table tbody tr td p span span  ,Tel:,24,8576,29,17,0,10
+html body text table tbody tr td p span span  ,+380(44) 226-29-16,53,8576,130,17,0,10
+html body text table tbody tr td p span span  ,Fax:,24,8610,33,17,0,10
+html body text table tbody tr td p span span  ,+380(44) 274-60-20,57,8610,130,17,0,10
+html body text table tbody tr td p span span  ,EMail:,24,8644,49,17,0,10
+html body text table tbody tr td p u span span  ,vvs@minosvit.niiit.kiev.ua,73,8644,172,17,0,11
+html body text table tbody tr td p span span  ,Categoryof services provided:,24,8678,196,17,1,10
+html body text table tbody tr td p span span  ,Academic and career counselling services,220,8678,269,17,1,10
+html body text table tbody tr td p b span span  ,Specialstudent travel fares:,11,8712,186,17,1,11
+html body text table tbody tr td p span span  ,By road:,11,8746,59,17,1,10
+html body text table tbody tr td p span span  ,Yes,70,8746,23,17,1,10
+html body text table tbody tr td p span span  ,By rail:,11,8780,52,17,1,10
+html body text table tbody tr td p span span  ,Yes,63,8780,23,17,1,10
+html body text table tbody tr td p span span  ,By air:,11,8814,47,17,1,10
+html body text table tbody tr td p span span  ,Yes,58,8814,24,17,1,10
+html body text table tbody tr td p span span  ,Availableto foreign students:,11,8848,188,17,1,10
+html body text table tbody tr td p span span  ,Yes,199,8848,23,17,1,10
+html body text table tbody tr td p b span span  ,Studentexpenses and financial aid,11,8882,232,17,1,11
+html body text table tbody tr td p span span  ,Studentcosts:,11,8916,85,17,1,10
+html body text table tbody tr td p span span  ,Averageliving costs:,24,8950,135,17,1,10
+html body text table tbody tr td p span span  ,1000 (US Dollar),159,8950,112,17,1,10
+html body text table tbody tr td p span span  ,Homestudents tuition fees: Minimum:,24,8984,248,17,1,10
+html body text table tbody tr td p span span  ,0 (Hryvna),272,8984,71,17,1,10
+html body text table tbody tr td p span span  ,Maximum:,24,9018,75,17,1,10
+html body text table tbody tr td p span span  ,19250(Hryvna),99,9018,99,17,1,10
+html body text table tbody tr td p span span  ,Foreignstudents tuition fees: Minimum:,24,9052,259,17,1,10
+html body text table tbody tr td p span span  ,450 (US Dollar),283,9052,104,17,1,10
+html body text table tbody tr td p span span  ,Maximum:,24,9086,75,17,1,10
+html body text table tbody tr td p span span  ,2000(US Dollar),99,9086,108,17,1,10
+html body text table tbody tr td p span span  ,Bodiesproviding information on student financial aid:,11,9120,344,17,1,10
+html body text table tbody tr td p span span  ,"Office of ForeignEducation, Ministry of Education",11,9154,326,17,1,10
+html body text table tbody tr td p span span  ,"Peremohy prosp., 10",24,9188,133,17,1,10
+html body text table tbody tr td p span span  ,252135 Kyiv,24,9206,84,17,1,10
+html body text table tbody tr td p span span  ,Ukraine,24,9224,52,17,1,10
+html body text table tbody tr td p span span  ,Tel:,24,9258,29,17,0,10
+html body text table tbody tr td p span span  ,+380(44) 216-22-88,53,9258,130,17,0,10
+html body text table tbody tr td p span span  ,Fax:,24,9292,33,17,0,10
+html body text table tbody tr td p span span  ,+380(44) 274-10-49,57,9292,130,17,0,10
+html body text table tbody tr td p span span  ,Dealswith:,24,9326,74,17,1,10
+html body text table tbody tr td p span span  ,Grants,98,9326,42,17,1,10
+html body text table tbody tr td p span span  ,Publicationson student services and financial aid:,11,9360,316,17,1,10
+html body text table tbody tr td p span span  ,Title:,24,9394,38,17,1,10
+html body text table tbody tr td p span span  ,Study Abroad2000-2001,62,9394,158,17,1,10
+html body text table tbody tr td p span span  ,Publisher:,24,9428,69,17,1,10
+html body text table tbody tr td p span span  ,UNESCO/IBE,93,9428,94,17,1,10
+html body text table tbody tr td p span span  ,Year ofpublication:,24,9462,128,17,1,10
+html body text table tbody tr td p span span  ,1999,152,9462,32,17,1,10
+html body text table tbody tr td p span span  ,INTERNATIONAL COOPERATION & EXCHANGES,11,9534,480,24,1,10
+html body text table tbody tr td p b span span  ,Participationof country in multilateral or bilateral higher education programmes,11,9575,553,17,1,11
+html body text table tbody tr td p span span  ,Name ofexchange programme:,11,9609,202,17,1,10
+html body text table tbody tr td p span span  ,Tempus,213,9609,50,17,1,10
+html body text table tbody tr td p span span  ,GRADING SYSTEM,11,9680,188,24,1,10
+html body text table tbody tr td p b span span  ,Usualgrading system in secondary school,11,9721,280,17,1,11
+html body text table tbody tr td p span span  ,FullDescription:,11,9755,109,17,1,10
+html body text table tbody tr td p span span  ,Numerical grading system from 2 to 5 is used: 2 - unsatisfactory; 3 -satisfactory; 4 - good; 5 - excellent.,11,9755,708,35,1,10
+html body text table tbody tr td p span span  ,Higheston scale:,11,9807,110,17,1,10
+html body text table tbody tr td p span span  ,5,121,9807,8,17,1,10
+html body text table tbody tr td p span span  ,Pass/faillevel:,11,9841,94,17,1,10
+html body text table tbody tr td p span span  ,3/2,105,9841,20,17,1,10
+html body text table tbody tr td p span span  ,Loweston scale:,11,9875,108,17,1,10
+html body text table tbody tr td p span span  ,2,119,9875,8,17,1,10
+html body text table tbody tr td p b span span  ,Maingrading system used by higher education institutions,11,9909,395,17,1,11
+html body text table tbody tr td p span span  ,FullDescription:,11,9943,109,17,1,10
+html body text table tbody tr td p span span  ,"5-2 (very good, good, satisfactory, unsatisfactory; sometimes the marks'+' and '-' are added to the principal grades).",11,9943,729,35,1,10
+html body text table tbody tr td p span span  ,Higheston scale:,11,9995,110,17,1,10
+html body text table tbody tr td p span span  ,5(very good),121,9995,83,17,1,10
+html body text table tbody tr td p span span  ,Pass/faillevel:,11,10029,94,17,1,10
+html body text table tbody tr td p span span  ,3(satisfactory),105,10029,92,17,1,10
+html body text table tbody tr td p span span  ,Loweston scale:,11,10063,108,17,1,10
+html body text table tbody tr td p span span  ,2(unsatisfactory),119,10063,108,17,1,10
+html body text table tbody tr td p span span  ,NOTES ON HIGHER EDUCATION SYSTEM,11,10134,408,24,1,10
+html body text table tbody tr td p span span  ,Data foracademic year:,11,10175,153,17,1,10
+html body text table tbody tr td p span span  ,2000-2001,164,10175,70,17,1,10
+html body text table tbody tr td p span span  ,Source:,11,10209,53,17,1,10
+html body text table tbody tr td p span span  ,"Ministry ofEducation, Kiev, 1998, updated from Ukraine's Website, EDNU, 2001",64,10209,521,17,1,10
+html body text table tbody tr td span span  ,Copyright,11,10280,69,17,0,9
+html body text table tbody tr td span i span  ,ï¿½,80,10280,20,17,0,10
+html body text table tbody tr td span span  ,International Associations of Universities,100,10280,265,17,0,9
+html body text table tbody tr td div a b span  ,Back to EuroEducation Net,298,10446,189,17,0,11

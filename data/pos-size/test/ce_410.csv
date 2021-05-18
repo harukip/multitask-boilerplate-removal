@@ -1,0 +1,150 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Eurofighter Technology and Performance,0,0,705,18,0,6
+html body text table tbody tr td p span  ,The Eurofighter Typhoon benefits from a number of advances in technology and engineering. The aircraft makes extensive use of,59,492,627,35,1,9
+html body text table tbody tr td p b span  ,composites,261,510,79,17,1,10
+html body text table tbody tr td p span  ,in the airframe with only 15% of the surface comprising metal. The newly developed,59,510,640,35,1,9
+html body text table tbody tr td p a span  ,EJ200 powerplants,244,528,126,17,1,10
+html body text table tbody tr td p span  ,combined with the aircraft's aerodynamics allow it to cruise supersonically without the use of reheat for extended periods of time even with a normal weapons load. The advanced flight control system and,59,528,651,53,1,9
+html body text table tbody tr td p b span  ,pitch unstable,411,564,101,17,1,10
+html body text table tbody tr td p span  ,"design impart great manoeuvrability at high and low speeds. These, combined with; cutting edge",59,564,576,35,1,9
+html body text table tbody tr td p a span  ,automated defences,554,582,131,17,1,10
+html body text table tbody tr td p span  ,", advanced active and passive sensors, leading cockpit ergonomics and a reduced RCS instil Eurofighter with more than an even chance of success against most competing aircraft.",59,582,657,53,1,9
+html body text table tbody tr td p span  ,"Beyond present and near-future threats a key feature of Eurofighter development has been a committment to future enhancement of all its systems, the so called",59,652,587,35,1,9
+html body text table tbody tr td p b span  ,C,494,670,16,17,1,10
+html body text table tbody tr td p span  ,apability,510,670,60,17,1,9
+html body text table tbody tr td p b span  ,E,570,670,15,17,1,10
+html body text table tbody tr td p span  ,nhancement,585,670,81,17,1,9
+html body text table tbody tr td p b span  ,P,666,670,9,17,1,10
+html body text table tbody tr td p span  ,rogramme. Most of the aircrafts systems are specifically designed to be easily swapped out and replaced in future years. This should enable the Typhoon to remain competitive as improvements in technology and reductions in cost allow the fitting of more advanced equipment. Many of these potential system upgrades are covered on this site.,59,688,637,71,1,9
+html body text table tbody tr td h1 span  ,OpEval,97,782,105,36,1,9
+html body text table tbody tr td p span  ,"The Eurofighter project has been subject to several operational evaluations. These have been carried out, independently from the Eurofighter consortium, primarily by Britain's",59,841,641,35,1,9
+html body text table tbody tr td p b span  ,DERA,540,859,48,17,1,10
+html body text table tbody tr td p span  ,", the",588,859,32,17,1,9
+html body text table tbody tr td p b span  ,D,620,859,15,17,1,10
+html body text table tbody tr td p span  ,efence,635,859,46,17,1,9
+html body text table tbody tr td p b span  ,E,681,859,11,17,1,10
+html body text table tbody tr td p span  ,valuation and,59,877,91,17,1,9
+html body text table tbody tr td p b span  ,R,150,877,15,17,1,10
+html body text table tbody tr td p span  ,esearch,165,877,52,17,1,9
+html body text table tbody tr td p b span  ,A,217,877,15,17,1,10
+html body text table tbody tr td p span  ,"gency (now split into QinetiQ and DSTL). Unlike many previous theoretical operational capability studies, the Eurofighter analysis utilised a",59,877,662,35,1,9
+html body text table tbody tr td p i span  ,true,474,895,29,17,1,10
+html body text table tbody tr td p span  ,"simulation approach. This was achieved through a number of networked battle simulation computers, termed",59,895,640,35,1,9
+html body text table tbody tr td p a span  ,JOUST,561,913,51,17,1,10
+html body text table tbody tr td p span  ,", each of which can be",59,913,651,35,1,9
+html body text table tbody tr td p i span  ,flown,104,931,40,17,1,10
+html body text table tbody tr td p span  ,by human pilots.,144,931,107,17,1,9
+html body text table tbody tr td table tbody tr td table tbody tr th span  ,BVR Combat Rating,157,981,144,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,91%,358,1008,29,17,0,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,82%,358,1035,29,17,1,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,50%,358,1062,29,17,0,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,43%,358,1089,29,17,0,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,25%,358,1116,29,17,0,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,21%,358,1143,29,17,0,20
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,21%,358,1170,29,17,1,20
+html body text table tbody tr td p span  ,This system was used to comprehensively evaluate the,399,965,326,35,1,9
+html body text table tbody tr td p a span  ,BVR (Beyond Visual Range),423,983,190,17,1,10
+html body text table tbody tr td p span  ,"performance of the Eurofighter and other aircraft against an upgraded Su-27 Flanker (comparable to an Su-35 Super Flanker and its equivalents). The studies investigated all aspect best performances from the major systems on each aircraft; avionics, structure (including RCS data), engine performance (including fuel usage), defences and man-machine interfaces. In these tests the French Rafale utilised the Matra-BAe MICA air to air missile (which is the primary AA weapon of the French airforce) while the other aircraft used the Raytheon-Hughes AMRAAM.",399,983,323,233,1,9
+html body text table tbody tr td p span  ,"These simulations concluded that Eurofighter has a win rating of 82% (100% equals always win, 0% equals always lose, 50% equals parity) against the target aircraft. A more typical way to present this data is as a combat exchange ratio, for the Typhoon this equals",59,1233,645,53,1,9
+html body text table tbody tr td p b span  ,4.5:1,464,1269,37,17,1,10
+html body text table tbody tr td p span  ,. In other words statistically one Eurofighter would be lost for every 4.5 Su-35 fighters shot down. This compares extremely favourably to the other aircraft (see also the BVR Combat Rating table);,59,1269,659,53,1,9
+html body text table tbody tr td p i span  ,F-16C Falcon,452,1305,95,17,1,10
+html body text table tbody tr td p span  ,"(0.3:1),",547,1305,51,17,1,9
+html body text table tbody tr td p i span  ,F-15C Eagle,598,1305,84,17,1,10
+html body text table tbody tr td p span  ,"(0.8:1),",59,1323,51,17,1,9
+html body text table tbody tr td p i span  ,F-18C Hornet,110,1323,95,17,1,10
+html body text table tbody tr td p span  ,"(0.3:1),",205,1323,51,17,1,9
+html body text table tbody tr td p i span  ,F-18+,256,1323,46,17,1,10
+html body text table tbody tr td p span  ,"(0.4:1, NB this is not the current F-18E/F which is apparently a downgraded version of the F-18+ used in the studies) and Dassault",59,1323,648,35,1,9
+html body text table tbody tr td p i span  ,Rafale,491,1341,45,17,1,10
+html body text table tbody tr td p span  ,(1:1). Only the LM/Boeing,536,1341,174,17,1,9
+html body text table tbody tr td p i span  ,F-22 Raptor,59,1359,84,17,1,10
+html body text table tbody tr td p span  ,bettered the Eurofighter's performance with a combat exchange ratio of 10.1:1.,143,1359,504,17,1,9
+html body text table tbody tr td p span  ,In addition to these overall combat performance results a number of,59,1393,439,17,1,9
+html body text table tbody tr td p i span  ,individual comparisons,498,1393,154,17,1,10
+html body text table tbody tr td p span  ,"have been made available. Of enormous importance for BVR combat is acceleration at medium altitudes and here the Eurofighter's acceleration at Mach 0.9 and 22,000ft equals that of the F-22. At supersonic velocities (Mach 1.6 and 36,000ft) the sustained turn rate of the Eurofighter betters all but the F-22, while its instantaneous turn rate is superior to the F-22. At low altitudes, Eurofighter can accelerate from 200kts to Mach 1.0 in under 30 seconds. In a similar vain to its supersonic performance, the sustained and instantaneous subsonic turn rates of the Eurofighter are bettered only by the F-22. Only the Rafale comes close to the matching the Eurofighter's capabilities in these comparisons.",59,1393,662,143,1,9
+html body text table tbody tr td p span  ,An important point to keep in mind when examining this data is that full details on the simulations have not been released. Without this information it is not possible to determine whether Eurofighter optimal profiles were examined at the expense of more,59,1553,665,53,1,9
+html body text table tbody tr td p i span  ,varied,362,1589,45,17,1,10
+html body text table tbody tr td p span  ,combat missions. However these studies do give some indication as to the potential of the Typhoon.,59,1589,658,35,1,9
+html body text table tbody tr td h1 span  ,National evaluation,97,1647,268,36,1,9
+html body text table tbody tr td p span  ,"When selecting a fighter aircraft national airforces have to compare and contrast numerous criteria; technological, operational and political. This section gives you some idea of how changing the basic requirements of a fighter can effect the selection process. Of course in practice a fighter is chosen on more than some simple estimation of performance of a few key indicators. The recent South Korean process is a good example of how other factors can override any decision based purely on technical and compatibility grounds.",59,1706,663,107,1,9
+html body text table tbody tr td p span  ,"Please note the method of defining each aircrafts capability for a given criteria is purely empirical, being manually estimated from available data, reports and other factors. We bear no responsbility should a national airforce use this application to select their fighter aircraft!",59,1830,630,53,1,9
+html body text table tbody tr td form table tbody tr th span  ,Criteria,224,1905,55,17,1,13
+html body text table tbody tr td form table tbody tr th span  ,Percent,323,1905,52,17,1,13
+html body text table tbody tr td form table tbody tr th span  ,Criteria,425,1905,56,17,1,13
+html body text table tbody tr td form table tbody tr th span  ,Percent,529,1905,52,17,1,13
+html body text table tbody tr td form table tbody tr td span  ,Twin Seat,196,1931,64,17,1,13
+html body text table tbody tr td form table tbody tr td span  ,Thrust to Weight,390,1931,108,17,1,13
+html body text table tbody tr td form table tbody tr td span  ,Twin Engines,196,1965,88,17,1,13
+html body text table tbody tr td form table tbody tr td span  ,Air to Ground Combat,390,1956,91,35,1,13
+html body text table tbody tr td form table tbody tr td span  ,Stealth,196,1999,44,17,1,13
+html body text table tbody tr td form table tbody tr td span  ,Air to Air Combat,390,1999,117,17,1,13
+html body text table tbody tr td form table tbody tr td span  ,Range,196,2024,41,17,1,13
+html body text table tbody tr td form table tbody tr td span  ,Agility,390,2024,45,17,1,13
+html body text table tbody tr td form table tbody tr td span  ,Electronic Warfare,196,2049,66,35,1,13
+html body text table tbody tr td form table tbody tr td span  ,STOL capability,390,2058,106,17,1,13
+html body text table tbody tr td form table tbody tr td span  ,Cost,196,2092,29,17,1,13
+html body text table tbody tr td form table tbody tr td span  ,Maintanence,390,2092,83,17,1,13
+html body text table tbody tr td form table tbody tr td span  ,Weapon selection,196,2117,113,17,1,13
+html body text table tbody tr td form table tbody tr td span  ,Supercruise,390,2117,76,17,1,13
+html body text table tbody tr td p span  ,"As you can see, even a simple analysis can result in some significant differences in the selection depending on which criteria are important in a given situation. This also shows that while the Typhoon does not typically dominate in any one area it does compare well when looking at swing role operations, i.e. combinations of both air to air and air to ground operations. This is particularly true when cost is also considered.",59,2184,656,89,1,9
+html body text table tbody tr td h1 span  ,Basic Data,97,2296,147,36,1,9
+html body text table tbody tr td p span  ,The following tables detail some basic performance data. It should however be remembered that all of these figures are drawn from anticipated/expected performances as required by contractual obligations. At this time much of this data has been verified or indeed surpassed. The range data in particular though should be considered approximate rather than final.,59,2355,667,71,1,9
+html body text table tbody tr td table tbody tr td table tbody tr th span  ,Performance Specifications,299,2448,187,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,Max Level Speed,129,2474,113,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,"Mach 2.0 @ 11,000m",479,2474,139,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,"Time to 35,000ft / mach 1.5 from runway alert",129,2499,298,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,2 minutes 30 seconds,479,2499,137,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,Air Combat take-off distance,129,2524,187,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,300 metre run,479,2524,90,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,Air Combat take-off time,129,2549,163,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,7 seconds,479,2549,63,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,Service Ceiling,129,2574,99,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,18300m (60000ft),479,2574,117,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr th span  ,Combat radii (with appropriate weapons loads),230,2619,324,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,Ground attack : lo-lo-lo,182,2645,152,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,325 nm (601 km),464,2645,112,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,Ground attack : hi-lo-hi,182,2670,152,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,750 nm (1389 km),464,2670,120,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,Air combat : 10 minute loiter at dest.,182,2695,236,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,750 nm (1389 km),464,2695,120,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,Air combat : 3 hour CAP,182,2720,161,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,100 nm (185 km),464,2720,112,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,Ferry range (2 External Tanks),182,2745,197,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,2000 nm (3706 km),464,2745,128,17,1,16
+html body text table tbody tr td p span  ,Sources :,59,2783,59,17,1,9
+html body text table tbody tr td p span  ,"[1] : BAE Systems, Warton, UK",59,2817,206,17,1,9
+html body text table tbody tr td p span  ,"[2] : The Air League, No. 7 December 1997",59,2835,281,17,1,9
+html body text table tbody tr td p span  ,"[3] : Eurofighter 2000, Hugh Harkins, Key Publishing, 1997",59,2853,386,17,1,9
+html body text table tbody tr td p span  ,"[4] : Defence Evaluation and Research Agency, UK",59,2871,330,17,1,9
+html body text table tbody tr td table tbody tr td div a span  ,Cockpit,138,2907,54,17,0,14
+html body text table tbody tr td table tbody tr td div span  ,|,193,2907,8,17,0,13
+html body text table tbody tr td table tbody tr td div a span  ,Defences,200,2907,63,17,0,14
+html body text table tbody tr td table tbody tr td div span  ,|,264,2907,7,17,0,13
+html body text table tbody tr td table tbody tr td div a span  ,Flight Systems,271,2907,100,17,0,14
+html body text table tbody tr td table tbody tr td div span  ,|,370,2907,7,17,0,13
+html body text table tbody tr td table tbody tr td div a span  ,Propulsion,378,2907,73,17,0,14
+html body text table tbody tr td table tbody tr td div span  ,|,451,2907,8,17,0,13
+html body text table tbody tr td table tbody tr td div a span  ,Sensors,458,2907,53,17,0,14
+html body text table tbody tr td table tbody tr td div span  ,|,512,2907,8,17,0,13
+html body text table tbody tr td table tbody tr td div a span  ,Structure,519,2907,62,17,0,14
+html body text table tbody tr td table tbody tr td div span  ,|,582,2907,7,17,0,13
+html body text table tbody tr td table tbody tr td div a span  ,Weapons,589,2907,58,17,0,14
+html body text table tbody tr td table tbody tr td a span  ,History,171,2925,52,17,0,13
+html body text table tbody tr td table tbody tr td span  ,|,223,2925,7,17,0,12
+html body text table tbody tr td table tbody tr td a span  ,News,230,2925,41,17,0,13
+html body text table tbody tr td table tbody tr td span  ,|,270,2925,7,17,0,12
+html body text table tbody tr td table tbody tr td a span  ,Production,278,2925,74,17,0,13
+html body text table tbody tr td table tbody tr td span  ,|,352,2925,8,17,0,12
+html body text table tbody tr td table tbody tr td a span  ,Squadron service,359,2925,114,17,0,13
+html body text table tbody tr td table tbody tr td span  ,|,474,2925,7,17,0,12
+html body text table tbody tr td table tbody tr td a span  ,Gallery,481,2925,52,17,0,13
+html body text table tbody tr td table tbody tr td span  ,|,533,2925,8,17,0,12
+html body text table tbody tr td table tbody tr td a span  ,Main Index,540,2925,74,17,0,13
+html body text table tbody tr td table tbody tr td p span  ,Visit the Official Eurofighter Typhoon site at,177,2959,291,17,0,13
+html body text table tbody tr td table tbody tr td p a span  ,www.eurofighter.com,468,2959,139,17,0,14
+html body text table tbody tr td table tbody tr td p span  ,All the source and data on this site is subject to copyright. Please read the,92,2993,474,17,0,13
+html body text table tbody tr td table tbody tr td p a span  ,disclaimer,567,2993,71,17,0,14
+html body text table tbody tr td table tbody tr td p span  ,for more information and contact the,208,2993,485,35,0,13
+html body text table tbody tr td table tbody tr td p a span  ,webmasters,388,3011,79,17,0,14
+html body text table tbody tr td table tbody tr td p span  ,with any queries.,468,3011,110,17,0,13

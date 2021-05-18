@@ -1,0 +1,68 @@
+tag,content,x,y,width,height,label,depth
+html body text div div div a span  ,Homepage >,8,26,86,17,0,8
+html body text div div div a span  ,Bits >,94,26,42,17,0,8
+html body text div div div a span  ,AMD and Lucasfilm: Making Episode III,136,26,267,17,0,8
+html body text div div div div span span  ,Search:,8,44,48,17,0,9
+html body text div div div form div select option  ,Search All,0,0,0,0,0,10
+html body text div div div form div select option  ,Hardware,0,0,0,0,0,10
+html body text div div div form div select option  ,Modding,0,0,0,0,0,10
+html body text div div div form div select option  ,Columns,0,0,0,0,0,10
+html body text div div div form div select option  ,Gaming,0,0,0,0,0,10
+html body text div div div form div select option  ,Bits,0,0,0,0,0,10
+html body text div div div form div select option  ,News,0,0,0,0,0,10
+html body text div div div a span  ,HARDWARE,8,212,91,17,0,8
+html body text div div div a span  ,MODDING,8,230,77,17,0,8
+html body text div div div a span  ,COLUMNS,8,248,78,17,0,8
+html body text div div div a span  ,GAMING,8,266,66,17,0,8
+html body text div div div a span  ,FORUM,8,284,57,17,0,8
+html body text div div div a span  ,NEWS,8,302,45,17,0,8
+html body text div div div a span  ,ABOUT,8,320,55,17,0,8
+html body text div div div a span  ,BITS,8,338,35,17,0,8
+html body text div div div div a span  ,Discuss this article,8,974,121,17,0,9
+html body text div div div div span  ,AMD and Lucasfilm: Making Episode III,8,992,267,17,1,8
+html body text div div div div b span  ,Author:,8,1010,59,17,0,9
+html body text div div div div span  ,Wil Harris,67,1010,67,17,0,8
+html body text div div div div b span  ,Published:,8,1028,77,17,0,9
+html body text div div div div span  ,24th May 2005,85,1028,98,17,0,8
+html body text div div div div div form select option  ,1 - AMD and Episode III,0,0,0,0,0,11
+html body text div div div div div form select option  ,2 - Digital Media in the future,0,0,0,0,0,11
+html body text div div div div div a span  ,Next page >>,8,1065,87,17,0,10
+html body text div div div span  ,"With Episode III now in theaters across the world, many of you will have had a chance to be blown away by the final part of the Star Wars saga. Rest assured that, for those of you who haven't had a chance to experience the film yet, this article won't contain any spoilers. Rather, we're taking a close look at the work that AMD have done with Lucasfilm to bring the film from the mind of George Lucas to your cinema screen.",8,1119,759,71,1,7
+html body text div div div span  ,"We caught up with Charlie Boswell, Director of AMD's Digital Media and Entertainment group and Dan Gregoire, Pre-Visualization Effects Supervisor at JAK Films, a division of Lucasfilm.",8,1227,765,35,1,7
+html body text div div div h4 span  ,It's time for Animaniacs,8,1281,165,17,1,8
+html body text div div div span  ,"So what does AMD have to do with Episode III? Well, many of you will by now be familiar with the term Animatics. Effectively invented for Episode I, Animatics are computer-generated pre-renders of a film scene. By creating a version of the scene in a computer before filming, the Director can get an idea of what shots work well, the pacing of the scene, ideas of camera angles and suchlike. This can save time and money when it comes to actually filming.",8,1317,765,71,1,7
+html body text div div div span  ,"Animatics can also be used to pre-render all-CGI sequences, with simpler realisations of space battles and other similar sequences giving an idea to the Director of how he wants the sequence handled.",8,1407,763,35,1,7
+html body text div div div span  ,"Of course, all this computer pre-rendering requires some pretty spiffy computers. Animators require fast machines to work on, and even faster machines to render some of the bigger segments. This is where AMD step in.",8,1461,747,35,1,7
+html body text div div div span  ,"""Star Wars Producer, Rick McCallum's secretary called me and asked to arrange a meeting,"" Charlie told",8,1515,674,17,1,7
+html body text div div div i span  ,bit-tech,682,1515,53,17,1,8
+html body text div div div span  ,". ""I was straight up there the next day.""",8,1515,747,35,1,7
+html body text div div div span  ,"Dan elaborates, ""Our relationship started a few years ago, with our original Athlon MP systems. They came in at the end of Episode II, when we had the end battle and the Droid Factory sequences to deal with. These were scenes that were really going to take a lot more horsepower than we had at the time. They kitted us out with Athlon MP systems... we were very impressed with their performance.""",8,1569,756,71,1,7
+html body text div div div center i span  ,"Dan admires his Opteron systems. Nice rack, eh?",235,1659,315,17,0,9
+html body text div div div span  ,"For Episode 2, JAK pre-rendered 4400 shots, of which 2200 were used. For Star Wars 3, 6500 shots were pre-rendered, of which 2200 were used. What enabled them to add to their output so significantly?",8,1695,764,35,1,7
+html body text div div div h4 span  ,The 64-bit Question,8,1767,136,17,1,8
+html body text div div div span  ,"""For Episode III, AMD set us up with all new systems,"" continues Dan. ""Sometime during Episode III - we had always been on this track - we moved over to 64-bit chips and dabbling with 64-bit Windows. We hacked some of our apps to be large address aware.""",8,1803,761,53,1,7
+html body text div div div span  ,"If you've been wondering just how long it's going to be before the average punter sees a decent increase in performance through 64-bit technology in everyday system usage, rest assured that these guys are already seeing it. ""We're putting such a huge amount of data through the system, AMD64 is so much faster at handling this stuff.""",8,1875,765,53,1,7
+html body text div div div span  ,"Which specific technologies in the platform enabled the performance increase that JAK needed? ""Even before we had the 64-bit aware software, HyperTransport was delivering a performance increase. It's just so much of a stronger connecting force than other platforms out there. We're working with such huge amounts of data, and it's all about getting the data through the architecture.""",8,1947,755,71,1,7
+html body text div div div span  ,"Charlie expands: ""HyperTransport is really one of the key performance enablers for the platform. We designed AMD64 from the ground up to be an efficient architecture, putting a memory controller on each chip. With the (Intel) Xeon architecture, the two chips share a single connection to the memory controller and the rest of the system. It's a bottleneck. Even now, when Intel have upgraded their chips to 64-bit, putting 64-bits of data across that bottleneck just exacerbates the problem.""",8,2037,764,89,1,7
+html body text div div div span  ,"The net result? Media intensive applications slow-down like crazy on Xeon workstations, and fly on Opteron workstations, according to Charlie. Rather than going straight to Apple Macs, the previous choice of the media-savvy, ""AMD technology makes doing this stuff on Windows a possibility. A few years ago, we would have been flogged for even suggesting Windows workstations to these guys. Now, they're the fastest systems out there.""",8,2145,755,71,1,7
+html body text div div div span  ,"Hacking 64-bit applications? Dan: ""The software was in a chicken-and-egg situation. Companies were slow at updating their software for 64-bit until the hardware was out there, and people weren't buying the hardware because of the lack of software support.",8,2235,765,53,1,7
+html body text div div div span  ,"""We went straight in and hacked our apps so that they were large address aware. That gave us an extra tool in our arsenal. Even under 32-bit, our Opteron systems kicked ass, we were seeing render times dropping in half from our previous setups. But if we had a really intense scene that caused us to run into problems, we could move to 64-bit rendering to help with that and increase the performance.""",8,2307,737,71,1,7
+html body text div div div div div form select option  ,1 - AMD and Episode III,0,0,0,0,0,11
+html body text div div div div div form select option  ,2 - Digital Media in the future,0,0,0,0,0,11
+html body text div div div div div a span  ,Next page >>,8,2416,87,17,0,10
+html body text div div div div div span  ,Related articles on bit-tech.net,8,2504,195,17,0,9
+html body text div div div div div span a span  ,Supreme Commander Beta Key Giveaway,8,2522,273,17,0,11
+html body text div div div div div div span span  ,Posted 19 December 2006 by Ryan Garside,8,2540,279,17,0,11
+html body text div div div div div span a span  ,How to spend Â£125 at Christmas,8,2558,209,17,0,11
+html body text div div div div div div span span  ,Posted 13 December 2006 by Ryan Garside,8,2576,279,17,0,11
+html body text div div div div div span a span  ,The Technology of Money,8,2594,171,17,0,11
+html body text div div div div div div span span  ,Posted 29 November 2006 by Brett Thomas,8,2612,281,17,0,11
+html body text div div div div div span a span  ,Dolby Headphone demos,8,2630,163,17,0,11
+html body text div div div div div div span span  ,Posted 18 November 2006 by Wil Harris,8,2648,261,17,0,11
+html body text div div div div div span a span  ,Win a signed Gabe Newell 7950 GT!,8,2666,238,17,0,11
+html body text div div div div div div span span  ,Posted 12 November 2006 by Wil Harris,8,2684,261,17,0,11
+html body text div div div div div span a span  ,Hidden gems of the interweb,8,2702,186,17,0,11
+html body text div div div div div div span span  ,Posted 6 November 2006 by Alex Wilks,8,2720,258,17,0,11
+html body text div div div div span a span  ,about bit-tech.net,8,2738,112,17,0,10
+html body text div div div div span a span  ,Email Editor,8,2756,82,17,0,10
+html body text div div div div span a span  ,RSS,8,2774,28,17,0,10

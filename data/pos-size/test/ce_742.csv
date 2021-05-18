@@ -1,0 +1,270 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,The Test Manager at the Project Status Meeting,0,0,743,18,0,6
+html body text table tbody tr td p a span  ,testing.com,11,11,78,17,0,10
+html body text table tbody tr td p span  ,>,89,11,13,17,0,9
+html body text table tbody tr td p a span  ,Writings,102,11,59,17,0,10
+html body text table tbody tr td p span  ,> Test Manager at theStatus Meeting,161,11,236,17,0,9
+html body text table tbody tr td p font strong span  ,Testing Foundations,289,39,207,26,0,11
+html body text table tbody tr td p font strong span  ,Consulting in Software Testing,307,66,171,15,0,11
+html body text table tbody tr td p a span  ,Brian Marick,350,82,85,17,0,10
+html body text table tbody tr td p a span  ,Services,127,108,55,17,0,10
+html body text table tbody tr td p a span  ,Writings,344,108,55,17,0,10
+html body text table tbody tr td p a span  ,Tools,483,108,35,17,0,10
+html body text table tbody tr td p a span  ,Agile Testing,625,108,86,17,0,10
+html body text p font b span  ,TheTest Manager at the Project Status Meeting,38,143,709,36,1,7
+html body text p b span  ,"Brian Marick,",199,196,101,17,1,6
+html body text p a span  ,Testing Foundations,300,196,134,17,1,6
+html body text p span  ,(,434,196,10,17,1,5
+html body text p a span  ,marick@testing.com,444,196,137,17,1,6
+html body text p span  ,),581,196,5,17,1,5
+html body text p b span  ,"Steve Stukenborg,",245,214,128,17,1,6
+html body text p a span  ,PureAtria,373,214,67,17,1,6
+html body text p span  ,(now,440,214,37,17,1,5
+html body text p a span  ,Rational,476,214,58,17,1,6
+html body text p span  ,),535,214,5,17,1,5
+html body text p b span  ,Copyright,101,233,74,17,0,6
+html body text p font b span  ,ï¿½,175,233,20,17,0,7
+html body text p b span  ,1997 byBrian Marick and Pure Atria Corporation. All Rights Reserved.,195,233,489,17,0,6
+html body text p a span  ,A PDF version,345,267,95,17,0,6
+html body text p a span  ,A discussion,352,285,81,17,0,6
+html body text p span  ,"Project management must decide when a product is ready torelease to end users. That decision is based on a mass ofinevitably imperfect information, including an estimate of theproduct's bugginess. The testing team creates that estimate. Thetest manager reports it, together with an assessment of howaccurate it is. If it's not accurate enough, because not enoughtesting has been done, the test manager must also report on whatthe testing team is doing to obtain better information. When willproject management know enough to make a reasoned ship decision?",8,319,755,89,1,5
+html body text p span  ,The test manager has two responsibilities: to report the,8,425,355,17,1,5
+html body text p u span  ,right,363,425,34,17,1,6
+html body text p span  ,"information, and to report the information",397,425,273,17,1,5
+html body text p u span  ,right,670,425,34,17,1,6
+html body text p span  ,". Both areequally important. If you don't have the right information, you'renot doing your job. If you don't report it so that it's accepted,valued, and acted upon, you might as well not be doing your job.",8,425,757,53,1,5
+html body text p span  ,"To address both topics, this paper is organized around thesituation in which the test manager presents ""the publicface"" of the testing team: the status meeting. It covers theinformation to be presented and the needs of the people involved(which govern how to present that information usefully).",8,495,755,53,1,5
+html body text p font b span  ,1. Context,8,565,116,27,1,7
+html body text p span  ,"We assume a product developed in two distinct phases: featuredevelopment and product stabilization. We are specificallyconcerned with status meetings during stabilization, which iswhen the pressure is highest. During the stabilization phase,developers should do nothing but fix bugs. Ideally, they do notadd or change features.",8,609,721,53,1,5
+html body text p span  ,Testers do three types of testing during stabilization:,8,679,335,17,1,5
+html body text ol li b span  ,Planned testing.,48,713,113,17,1,7
+html body text ol li span  ,"The tester is assigned some functional area or property of the product (such as the ""printing subsystem"" or ""response to heavy network load""). At the beginning of the task, he knows the approach to take, what a ""complete"" set of tests would look like, and how much time is allocated. (This knowledge, like anything else in the project, is subject to revision, but it should be roughly correct.)",48,713,713,71,1,6
+html body text ol li b span  ,Guerrilla testing.,48,785,121,17,1,7
+html body text ol li span  ,"This is testing that opportunistically seeks to find severe bugs wherever they may be. Guerrilla testing is much less planned than the previous kind. The extent of planning might be: ""Jane, you're the most experienced tester, and you have a knack for finding bugs. From now until the end of the project, bash away at whatever seem to be the shakiest parts of the product."" Guerrilla tests are usually not documented or preserved. See [Kaner93] for more information.",48,785,727,89,1,6
+html body text ol li b span  ,Regression testing.,48,875,132,17,1,7
+html body text ol li span  ,"The tester reruns tests to see if one that used to pass now fails. If so, some change has broken the product.",48,875,727,35,1,6
+html body text p span  ,"In the first part of stabilization, planned tests dominate. Asstabilization proceeds, more and more regression testing is done.At the end of the project, the testing effort shifts entirely toregression testing and guerrilla testing.",8,927,750,35,1,5
+html body text p span  ,"For more about the stabilization phase, see [Cusumano96] and [Kaner93].For various software development models, see [McConnell96].",8,979,746,35,1,5
+html body text p font b span  ,2. A Note on Numbers,8,1031,249,27,1,7
+html body text p span  ,"Throughout the paper, we ask you to compare actual results toyour plan. For example, we recommend that you track whatproportion of their time your team spends rerunning tests vs. howmuch you expected they'd spend. A natural question is, ""Well,then, what proportion",8,1075,745,53,1,5
+html body text p u span  ,should,267,1111,47,17,1,6
+html body text p span  ,"we expect?"" We're notgoing to answer that question because the answers vary and, to beuseful, require project-specific context. On the other hand, wethink it's terrible that test managers have nowhere to go to getthose answers, other than to buttonhole their colleagues and swapwar stories. For that reason, we will try to collect a variety ofanswers and rules of thumb from experienced test managers and putthem on the web page",8,1111,755,89,1,5
+html body text p font b span  ,3. Questions toAnswer in the Status Meeting,8,1217,508,27,1,7
+html body text p span  ,"During the project status meeting, you should be ready toanswer certain questions, both explicit and implicit.",8,1261,698,17,1,5
+html body text p font b i span  ,3.1 When will webe ready to ship?,8,1295,291,20,1,8
+html body text p span  ,"During stabilization, successive builds are made, found not tobe good enough, and replaced. It's a stressful time because,early in stabilization, it often seems as if the product will",8,1332,714,35,1,5
+html body text p u span  ,never,431,1350,39,17,1,6
+html body text p span  ,be good enough. There's a lot of pressure to show forwardprogress. Much attention revolves around a graph like this:,8,1350,742,35,1,5
+html body text p span  ,"Everyone wants to know when those lines will cross, meaningall must-fix bugs have been fixed. Part of the answer comes fromknowing how fast open bugs will be resolved. But another part ofit comes from knowing how many new must-fix bugs can be expected.Our argument in this section is as follows:",8,1742,746,53,1,5
+html body text ol li span  ,Estimating this number is extremely difficult.,48,1812,291,17,1,6
+html body text ol li span  ,"If you don't do it, someone else will, probably worse than you would. So you should do it.",48,1830,577,17,1,6
+html body text ol li span  ,"Slight changes to the ""intuitive way"" of test planning and tracking can make the estimates better. So make those changes, as long as they don't get in the way of finding bugs.",48,1848,715,35,1,6
+html body text p span  ,"To estimate this number, the natural tendency is to do somesort of curve-fitting (by using a ruler, a spreadsheet, or somemore sophisticated tool). If you do, your extrapolations willlikely be wildly wrong, because that curve is due to a changingmixture of completed tasks, tasks in progress, and tasks not yetbegun, each with a different rate of finding bugs. Better thanextrapolating from the summary graph is extrapolating from eachtesting task individually, using a spreadsheet like this:",8,1900,757,89,1,5
+html body text p b span  ,Important,8,2126,71,17,1,6
+html body text p span  ,What's being estimated with this spreadsheet is the totalnumber of bugs,8,2160,462,17,1,5
+html body text p i span  ,this testing effort will find before it'sfinished,470,2160,287,17,1,6
+html body text p span  ,". It is not the total number of bugs in the product.It is not the number of failures customers will see or report.Those would be better numbers to know, but this one isnevertheless useful.",8,2160,766,53,1,5
+html body text p b span  ,Comparing apples and oranges,8,2230,213,17,1,6
+html body text p span  ,The spreadsheet above assumes that bugs will be found atroughly the same rate throughout a task. That's unlikely. Atypical graph of cumulative bugs discovered vs. working time (whichis more meaningful than calendar time) will look like this:,8,2264,737,53,1,5
+html body text p span  ,"The reason for the curve is that different activities arelumped together in one task. Early in the task, the tester islearning an area of the product and designing tests. While testdesign does find bugs, the rate of bug discovery is lower thanwhen the tests are run for the first time. So, when testexecution begins, the curve turns up. As testing proceeds, anincreasing amount of time will be spent in regression testing (especiallychecking bug fixes). Because rerunning a test is less likely tofind a bug than running it for the first time, the curve beginsto flatten out.",8,2559,767,89,1,5
+html body text p span  ,"Your estimates will be more accurate if you track test design,first-time execution, and regression testing separately.",8,2665,736,17,1,5
+html body text p span  ,Notes:,8,2699,42,17,1,5
+html body text ol li span  ,"We don't pretend that test execution doesn't have an element of design in it - while running tests, testers get ideas for new tests, which they then execute. But counting that ""embedded design"" as test execution should do no harm to what are already rough estimates. Major discoveries should make you schedule additional explicit tasks to be tracked separately.",48,2733,726,71,1,6
+html body text ol li span  ,"The beginning of test execution will probably find more bugs than the end, because it's common for testers to run the most promising tests first. Even if tests were run in random order, some bugs are obvious enough that many of the tests will find them. While this ""front-loading"" of bugs might skew your estimates, you certainly don't want to improve them by intentionally finding bugs later!",48,2805,728,71,1,6
+html body text ol li span  ,"You might find it most useful not to track retesting of bug fixes. Instead, simply assume that some percentage of fixed bugs will cause new bugs that will later be found by retesting. Discover the percentage not by searching the literature (the numbers vary widely) but by reference to experience with your own project or other projects in your company.",48,2877,725,71,1,6
+html body text ol li span  ,"In guerrilla testing, in which there's no formal design nor much rerunning of tests, the bug discovery rate nevertheless usually follows an S-shaped pattern, if not a more sawtooth pattern as the tester switches from opportunity to opportunity:",48,2949,686,53,1,6
+html body text blockquote p span  ,"A linear estimate early in the effort would guess high. That's not necessarily bad - not because it gives you more breathing room, but because the harm of estimating high is less than the harm of estimating low. You should temper the estimate with some judgment about when the curve is likely to level off.",48,3261,682,53,1,6
+html body text p b span  ,Reality Check,8,3331,96,17,1,6
+html body text p span  ,"You may object that this approach seems hopelessly idealistic.Your project is chaotic enough, with code that changes so much,and so many bugs, and so much churn in the features, and... thatthere's no hope of having tasks that stay the same long enoughfor extrapolations to be meaningful. If that's the case - if yourstabilization phase is anything but stable and you're reallydoing mostly guerrilla testing - there's no point in presentingwildly inaccurate estimates at the project status meeting.Concentrate on answering the other questions presented in thispaper.",8,3365,767,89,1,5
+html body text p b span  ,What about unstarted tasks?,8,3471,198,17,1,6
+html body text p span  ,"Here's a different spreadsheet, one for a project in whichconfiguration testing hasn't started yet:",8,3505,610,17,1,5
+html body text p span  ,"If you haven't started a task, you have no data from which toextrapolate. But you have to, because the project manager needsestimates in order to run the project. Here are some solutions:",8,3659,758,35,1,5
+html body text ul li span  ,"Don't get into this situation. By the time the stabilization phase is well enough underway that this graph becomes the focus of attention, you should have made some progress on all testing tasks. That almost certainly means some context switching. For example, the tester responsible for the scenario testing task will have to stop part-way through and do some configuration testing. That's annoying, disruptive, and reduces efficiency - but only if you take a tester-centric view of the universe, one where getting testing done is the primary goal. Your team's primary goal is discovering useful information and making it available as early as possible. The project manager needs to know if there are configuration problems before the last minute.",48,3711,722,125,1,6
+html body text ul li span  ,"Extrapolate using numbers for testing that's already underway. For example, both ""test printing"" and ""test editing"" are functional tests of discrete subsystems. If the printing subsystem is half the size of the editing subsystem, and half as much testing is planned, you might reasonable predict half as many fatal bugs will be discovered. There are, of course, many variables that might confound that estimate: the programmer who wrote the printing code may be a much better programmer, the size metric you used (be it lines of code, number of branches, function points, programmer hours spent) may not capture the relative bugginess of the two subsystems, and so on. However, it's a better estimate than simply guessing, and it will improve rapidly as real testing begins.",48,3837,729,125,1,6
+html body text ul li span  ,Extrapolate using numbers from past projects. We recommend that anyone doing any sort of data mining read up on the statistical subfield of exploratory data analysis. Two entertaining and influential early books are [Tukey77] and [Mosteller77].,48,3963,727,53,1,6
+html body text p b span  ,Reality check: you will certainly be wrong,8,4033,287,17,1,6
+html body text p span  ,"Even if you are careful with your extrapolation, you shouldrealize that the number calculated is certainly wrong. Attachingtoo much certainty to the numbers - and especially striving formeaningless precision - will lead to madness. Concentrate ontesting, and hope that the errors in your estimates roughlycancel each other out.",8,4067,752,53,1,5
+html body text p span  ,"Ideally, you'd like to give your estimates in the form ofintervals, like this:",8,4137,470,17,1,5
+html body text table tbody tr td font span  ,Week 1,18,4181,39,15,1,9
+html body text table tbody tr td font span  ,"""We predict 122 to 242 bugs. Best estimate is 182.""",119,4181,268,15,1,9
+html body text table tbody tr td font span  ,Week 2,18,4214,39,15,1,9
+html body text table tbody tr td font span  ,"""We predict 142 to 242 bugs. Best estimate is 192.""",119,4214,268,15,1,9
+html body text table tbody tr td font span  ,Week 3,18,4247,39,15,1,9
+html body text table tbody tr td font span  ,"""We predict 173 to 233 bugs. Best estimate is 203.""",119,4247,268,15,1,9
+html body text table tbody tr td font span  ,Week 4,18,4280,39,15,1,9
+html body text table tbody tr td font span  ,"""We predict 188 to 228 bugs. Best estimate is 208.""",119,4280,268,15,1,9
+html body text table tbody tr td font span  ,Week 5,18,4313,39,15,1,9
+html body text table tbody tr td font span  ,"""We predict 205 to 215 bugs. Best estimate is 210.""",119,4313,268,15,1,9
+html body text p span  ,"Unfortunately, we expect your data will be unstable enoughthat your calculated ""confidence intervals"" will be sowide as to be pointless. We're also unaware of statisticaltechniques that apply to this particular problem. If you wish toexplore related notions, see the large body of literature onsoftware reliability and software reliability growth ([Musa87][Lyu96]).Your best bet might be using historical project data. If yourcompany keeps good records of past projects, and has a reasonablyconsistent process, you may be able to use errors in historicalestimates to make predictions for this project.",8,4355,769,107,1,5
+html body text p span  ,"We think that, rather than straining for numbers far moreexact than anything else in the project, you should concentrateon understanding and explaining what caused any recent changes inthe estimates. Here, your goal is confidence - in you and yourteam - not confidence intervals. You want to say things like:",8,4479,714,53,1,5
+html body text dir li span  ,"""Last week's prediction was roughly 69 more must-fix bugs. However, Dawn noticed some oddities as she continued the testing of the modules from our outsource partners, NightFly Technologies. She beefed up her test plan with some targeted use case tests. That led to last week's jump in bugs found, and it raised our prediction to roughly 95 bugs.""",48,4549,718,71,1,6
+html body text p span  ,The description behind the numbers is,8,4637,249,17,1,5
+html body text p i span  ,much,257,4637,39,17,1,6
+html body text p span  ,"more usefulthan the numbers, because it helps the project manager makecontingency plans.",8,4637,714,35,1,5
+html body text p b span  ,Final notes on estimation,8,4689,171,17,1,6
+html body text ol li span  ,"Toward the end of the stabilization phase, your estimates will become useless. That's the point at which your team is concentrating on regression tests for the last few bug fixes, together with guerrilla testing that tries to squeeze out a few more must-fix bugs. This period is inherently unpredictable - a single lingering bug could take a month to fix. It's the worst part of the project. You will still have provided a valuable service by helping to predict when the hellish period starts.",48,4723,722,89,1,6
+html body text ol li span  ,"[DeMarco82] has useful things to say about estimation. [Bach94] describes a bug tracking system initially used to produce estimates of the sort described here. See also the description of Bach's work in [Keuffel94], which says, ""Bach now believes too many independent variables exist to make useful predictions of ship dates by simply leveraging off the critical-bug database."" [Keuffel95] continues the description with some interesting deductions you can make from the shape of a project-wide graph.",48,4813,713,89,1,6
+html body text ol li span  ,"Make sure that the graph of found vs. fixed ""must fix"" bugs doesn't dominate attention to the exclusion of other shipping criteria. Other criteria that are sometimes used include trends in number of bugs found, active, fixed, and verified; number of lower-severity unfixed bugs; changes in bug severity distribution; and amount of recent change to the source code ([Cusumano95], [Kaner93], [Rothman96]). And the product shouldn't ship until testing is finished, including regression testing and a last-chance guerrilla test of the final build.",48,4903,726,89,1,6
+html body text p font b i span  ,3.2 Which bugsshould be fixed?,8,5009,275,20,1,8
+html body text p span  ,"A discussion of individual bugs might happen in the projectmeeting or in a separate bug classification meeting. (This mightbe a discussion of all bugs or, more productively, a discussionof only controversial bugs.) You are likely to be the person whoprints and distributes the summaries and detailed listings of newand unresolved bugs. It's preferable if the project manager leadsthe meeting, not you. First, he or she has the ultimateresponsibility. Second, you will be an active participant, and it'sdifficult to do a good job as both participant and meeting leader.",8,5046,763,89,1,5
+html body text p span  ,Here are some key points:,8,5152,167,17,1,5
+html body text ol li span  ,"Developers have a psychological interest in assigning bugs a low priority or deferring them. However, you may well tend to over-emphasize the severity of a bug, which is just as harmful. The best advocates for fixing a bug are the people who will have to live with its consequences. That's not you. It's more likely to be customer service people and marketing people. They should be invited to bug classification meetings. Your role as advocate is to make sure that the bug report is understood correctly. If the bug report is being misinterpreted (for example, as being an unlikely special case instead of a symptom of a more general problem), correct the misinterpretation.",48,5186,723,107,1,6
+html body text ol li span  ,"The key issue in such a meeting is determining whether the risk of fixing a bug exceeds the risk of shipping it with the product. When helping assess risk, your job is to provide two bits of informed opinion:",48,5294,702,35,1,6
+html body text blockquote ul li span  ,What are the testing implications of fixing the bug (whether it's fixed alone or batched with other bugs in the same subsystem)? How much will adequately testing the fix cost? Do you have the resources to do it? Is it a matter of rerunning regression tests? (What's the backlog?) Or will new tests have to be written?,88,5346,621,71,1,7
+html body text blockquote ul li span  ,"What's the rate of regressions? How often do bug fixes fail? (If the rate of regressions is high, especially in the subsystem in question, and that subsystem has light test coverage, the risk of a bugfix is high.)",88,5418,610,53,1,7
+html body text ol li span  ,"Higher management may be tracking open bug counts. That can lead to unproductive pressure to make the numbers look good at the expense of fixing fewer but more important bugs. (See [Kaner93], chapter six.) As a responsible project member, you should be alert to decisions that provide only internal benefit, not benefit to the customer.",48,5488,719,71,1,6
+html body text p span  ,We urge you to read the discussions of bugs and bug reportingin [Bach94] and [Kaner93].,8,5576,576,17,1,5
+html body text p font b i span  ,3.3 Where are thedanger areas in the project?,8,5610,390,20,1,8
+html body text p span  ,"As part of the estimation process, you will become aware of""hot spots"" in the product: areas where there areunusually many bugs. In the charts above, testing editing isfinding far more bugs than any other testing task.",8,5647,754,35,1,5
+html body text p span  ,"The project manager is sometimes the last to know about hotspots, since developers are incorrigibly optimistic. They tendnot to admit (to themselves) that a particular subsystem is outof control until too late. It's your job as a test manager toreport on hot spots at the status meeting. You need to do thiswith care, lest your team be viewed as the enemy by development.Here are some tips.",8,5699,767,71,1,5
+html body text ul li b span  ,Make sure it really is a hot spot.,48,5787,218,17,1,7
+html body text blockquote p span  ,"The heat of a hot spot is relative to the size and complexity of the area under test. If the editing subsystem is four times as complex as the printing subsystem, four times as many bugs is not surprising. You should have complexity information available, because you should have used it in test planning.",48,5821,677,53,1,6
+html body text blockquote p span  ,"Historical information will help to keep hot spots in perspective. What's the bug rate for previous projects (per line of code, function point, or some other measure of size)? What parts of this project are out of line with the historical averages?",48,5891,676,53,1,6
+html body text ul li b span  ,"Report on product, not people.",48,5961,210,17,1,7
+html body text blockquote p span  ,"With perhaps a few exceptions, such as configuration testing, the hot spots you find will be associated with a particular person or team. Don't criticize them. Maybe they've done a shoddy job, but don't assume you have enough information to make that judgement. Even if you do, it's counterproductive at this point.",48,5995,685,53,1,6
+html body text blockquote p span  ,"Not only must you not criticize the developers, it's important that they not think you're criticizing them. Your manner should be calm, dispassionate, and professional. Use ""we"" instead of ""you"". You should take care to say something good along with the bad news:",48,6065,678,53,1,6
+html body text blockquote blockquote p span  ,"""That last overhaul of the account management module has really streamlined the user interface. Paul, the tester, says that it takes half as many mouse moves to get through a test as before. Of course, that means that users will see the same speedup. Unfortunately, his tests have found a big jump in the number of bugs, to the point where we're well above average for modules in this product.""",88,6135,600,89,1,7
+html body text ul li b span  ,Warn of hot spots in advance.,48,6241,203,17,1,7
+html body text blockquote p span  ,"Do not announce a hot spot without prior warning. You know you've damaged your usefulness when the project manager explodes, ""What do you mean, the networking subsystem is in crisis! Why haven't I heard about this before?!""",48,6275,683,53,1,6
+html body text blockquote p span  ,"One reason for no prior warning is that there's no data. Some testing task hadn't started until the past week. When it did start, the tester involved found so many bugs she had to down tools right away. Avoid the issue by doing at least a little testing on all tasks as soon as possible. You can defuse the issue by reporting, at each status meeting, which important tasks haven't started, along with a prediction of when each will start.",48,6345,687,71,1,6
+html body text blockquote p span  ,"Another reason for a sudden announcement is that a testing task suddenly crosses the threshold where you feel you should raise the alarm. Avoid this by announcing which tasks you're watching more carefully, though they don't yet merit the designation ""hot spot"".",48,6433,679,53,1,6
+html body text ul li b span  ,Track hot spots carefully.,48,6503,173,17,1,7
+html body text blockquote p span  ,"The response to a hot spot should be some development effort (redesign or rework). When that's complete, report on the success: ""We reran all the regression tests on the new build, with unusually few regressions, which personally gives me a warm and fuzzy feeling. We've started executing new tests on the module, and things look good so far - many fewer bugs than in the last version. I think we're out of the woods on this one.""",48,6537,687,89,1,6
+html body text blockquote p span  ,"An alternative to rework is to ""debug the code into working"". In that case, you need to adjust your plans. Whereas before you scheduled a fixed amount of testing, you now have an open-ended testing task. You might increase the number of designed tests; you will certainly devote more time to guerrilla testing. You need to continue testing until you stop discovering a disproportionately large number of bugs. You will look for a graph like this:",48,6643,673,89,1,6
+html body text blockquote p span  ,"After nearly twice as much testing as planned, you seem to have exhausted the bugs in the code.",48,6969,615,17,1,6
+html body text p b span  ,Another type of hot spot,8,7003,166,17,1,6
+html body text p span  ,"In addition to total bugs, track ""churn"": how manyregression tests fail. If a disproportionately high number of bugfixes or other changes break what used to work, there's a problem.The subsystem is likely fragile and deserves rework or a greatertesting effort. Here's a chart that might cause alarm:",8,7037,758,53,1,5
+html body text p font b i span  ,3.4 Are youworking smart?,8,7360,230,20,1,8
+html body text p span  ,"Any buggy area announced late in the project is going to bestressful. It will likely mean some upheaval, some shifting ofdevelopment priorities. As test manager, you must also shift yourpriorities, both because you now know more about risky areas andalso because you must be seen as doing more than smuglyannouncing a crisis and letting someone else deal with it. It'simportant to both be helpful and also be seen to be helpful.",8,7397,755,71,1,5
+html body text p span  ,"Display graphs to show that the testing team is flexiblyadapting what you do to what you discover. One such graph follows.It breaks testing down by task. It plots effectiveness (bugsfound) behind measures of effort to date. That way, mismatchesbetween effort and result are visually striking. The graph usestwo measures of effort: time spent and",8,7485,751,53,1,5
+html body text p i span  ,coverage,8,7539,63,17,1,6
+html body text p span  ,"achieved.Code coverage measures how thoroughly tests exercise the code.That correlates roughly with thoroughness of testing. The mostcommon type of code coverage measures which lines of code havebeen executed. For other types of coverage, see [Kaner96] and [Marick95].For a discussion of how coverage can be misused, see [Marick97].",8,7539,765,71,1,5
+html body text p span  ,Here's what you might say in the project status meeting. (Noticethat the individual testing activities tracked separately for bugcount estimation are here grouped into larger tasks.),8,8247,755,35,1,5
+html body text p span  ,"""The stress tests and db tests are paying off in terms ofbugs found. The stress tests are only 14% complete, so you canexpect a lot of stress-type bugs in the next few weeks. You'llnotice that we early in the project cut back on the number ofstress tests - although we're 14% complete against plan, that'sonly",8,8299,728,53,1,5
+html body text p i span  ,three percent,500,8335,88,17,1,6
+html body text p span  ,"of what we originally hoped to do. Ifstress testing keeps finding bugs, we'll up the amount of stresstesting planned.",8,8335,760,35,1,5
+html body text p span  ,"""The db tests are 55% complete against plan, and they'vegot 80% coverage. Given the type of testing we're doing, we mightsee the bug finding rate start leveling off soon. We may not doall the testing planned.",8,8387,752,35,1,5
+html body text p span  ,"""The GUI tests have been a washout. We're not findingbugs. The code seems solid. We're stopping that testing now andshifting the tester onto network testing, where we're findingtons of bugs. In the network testing, you'll note that thecoverage is high in comparison to the number of tests written.That's because we've finished the ""normal use tests"".The error handling tests, which we couldn't start until thenetwork simulator was ready, will add less coverage, but weexpect them to be a good source of bugs.",8,8439,767,89,1,5
+html body text p span  ,"""The calc tests were a botch. We're nearly done, withoutmuch to show for it. My fault - I let the schedule get away fromme. We're stopping testing right away.""",8,8545,732,35,1,5
+html body text p b span  ,Comparing yourself to others,8,8597,201,17,1,6
+html body text p span  ,"It's a common developer prejudice that testers write a lot oftests, but it's wasted motion because they're not finding theimportant bugs. First, the test manager needs to check whetherthe prejudice is justified. (All too often, it is.) Second, if it'snot, reassure the project team. Doing both things starts with agraph like this, which shows what percentage of bugs are beingfound by different types of planned testing vs. those found bychance.",8,8631,767,71,1,5
+html body text p span  ,"This shows a fairly reasonable breakdown. Most new bugs arefound by the testing team: newly written feature tests,regression tests run again, guerrilla tests, and plannedconfiguration tests. 10% of new bugs reported are due toregressions, which is not outlandish. Beta customers arereporting configuration bugs at a good clip, which is what youexpect from them. (You might want to consider doing more in-houseconfiguration testing if the total number of configuration bugsis unusually high.) There are a reasonable number of bugs fromother sources (beta bugs that are not configuration problems,bugs found by developers and other in-house use, and so on).",8,8979,758,107,1,5
+html body text p span  ,This graph is more alarming:,8,9103,186,17,1,5
+html body text p span  ,"Too many bugs are being found by ""other"", not enoughby the testing team. They're being discovered by chance. Can thetesting effort change to detect them more reliably? The fact thatguerrilla testing is doing so much better than the new featuretests is also evidence that something's wrong with the plannedtesting effort. Perhaps the problem is that the project is ""churning"":there are too many regressions. Maybe almost everyone on thetesting team is spending so much time running regression teststhat they have little time to execute new ones (except for a fewvery productive guerrilla testers).",8,9401,767,107,1,5
+html body text p span  ,"When many bugs have been found, the testing team can become abottleneck. Report clearly when regression testing load exceedsthe plan. Such reports, made early and forthrightly, leave theimpression that slips in the testing schedule are a result ofpitching in to help the project. Done late, you may get the blamefor the final slips, slips that happen as developers wait for youto finish up your testing.",8,9525,748,71,1,5
+html body text p span  ,"When reporting on your schedule, remind everyone that theearliest possible ship date is the time required to complete allplanned tests, plus the time required to rerun all repeatabletests (both manual and automated) on the final build, and timefor a series of guerrilla tests on that build.",8,9613,756,53,1,5
+html body text p font b i span  ,3.5 What does yourwork mean?,8,9683,270,20,1,8
+html body text p span  ,We've seen how you can predict the number of bugs testing willfind and use graphs to reallocate the testing effortappropriately. But what does all this effort mean?,8,9720,687,35,1,5
+html body text p span  ,"Recall that the project manager wants to reduce uncertaintyand risk. He worries that this product will be an embarrassmentor worse after it ships. Knowing how many bugs testing will findis useful, because it lets him predict whether the product canship on time, but what he",8,9772,743,53,1,5
+html body text p i span  ,really,328,9808,41,17,1,6
+html body text p span  ,wants to know is how manybugs testing,369,9808,260,17,1,5
+html body text p i span  ,won't,629,9808,38,17,1,6
+html body text p span  ,find.,667,9808,30,17,1,5
+html body text p span  ,Let's assume that you graph the bugs found by,8,9842,301,17,1,5
+html body text p u span  ,new,309,9842,31,17,1,6
+html body text p span  ,"(notrerun) designed tests for some particular testing task. If thattask is consistent throughout (you don't apply different testingtechniques during different parts of the task, or save thetrickiest tests for the end), you'd expect a graph that lookssomething like this:",8,9842,764,53,1,5
+html body text p span  ,"You'd expect something of a flurry of new bugs at first. Manyof those are the bugs that are easy to find, so that manydifferent tests would hit them. After those have been disposed of,there's a more-or-less steady stream of new bugs. (In practice,the curve might tail down more sharply, since there's a tendencyto concentrate on the most productive tests first, in order toget bugs to the developers quickly.)",8,10152,767,71,1,5
+html body text p span  ,"This graph doesn't really let you predict what happens in thefield. You can't simply extrapolate the curve. If you did aperfect job of test design, you've tried all the bug-revealingcases, and all bugs have been found. If your test cases are veryunrepresentative of typical customer use, you might have missedmany of the bugs customers will find, in which case there will bea surge of new bug reports when the product is released (notunusual).",8,10240,753,71,1,5
+html body text p span  ,So what can you do? You have to extrapolate from previousprojects.,8,10328,437,17,1,5
+html body text ul li span  ,"If you discovered 70% of the configuration bugs during test in release 3.0, and if you continue to perform configuration testing roughly the same way, the safest bet is that you'll again miss 30% of the bugs.",48,10362,675,35,1,6
+html body text ul li span  ,"If you consistently apply the same set of testing techniques, and you size the testing effort against the product in a consistent way, you should hope that you'll find the same proportion of bugs from effort to effort. In practice, of course, the variability among testers ""doing the same thing"" is as large as it is for programmers (that is to say, enormous). You can reduce variability by having testers review each other's test designs, but you won't eliminate it. That's OK. Saying ""based on the past three projects, we predict between 50 and 120 more must-fix bugs will be found by customers"" beats only being able to say ""We tested hard, and we hope we didn't miss too much.""",48,10398,728,107,1,6
+html body text p span  ,"When reporting extrapolations, don't give raw numbers. Say,""we predict the reliability of this product will be typical[or high, or low] for this company."" If possible, makecomparisons to specific products: ""This product did aboutaverage on the planned tests, but remarkably few bugs were foundin guerrilla testing or regression testing. The last product withthat pattern was FuzzBuster 2.0, which did quite well in thefield. We predict the same for this one.""",8,10522,763,71,1,5
+html body text p span  ,"The accuracy of your predictions depends on a consistentprocess. Consistent processes are the subject of industrialquality control, especially the work of Shewhart, Deming, Juran,and others. We in software can learn much from them, so long aswe're careful not to draw unthinking analogies. [Deming82] isoften cited, but the style is somewhat telegraphic. [Aguayo91]has been recommended to one of us (Marick), who first learnedabout statistical quality control from a draft of [Devor91]. TheSoftware Engineering Institute's Capability Maturity Model can bethought of as an adaptation of modern industrial quality controlto software, though the coverage of testing is sketchy. See [Humphry89]or [Curtis95].",8,10610,765,125,1,5
+html body text p font b span  ,4. Summary of thepaper,8,10752,273,27,1,7
+html body text p span  ,"As the frequent bearer of bad news, the test manager has adifficult job. The job is easier if he or she appears competent,knowledgeable, and proactive. It's a matter of having therelevant information, presenting it well, being able to answerreasonable questions. A goal should be to walk out of the statusmeeting knowing that the testing team and its work have beenrepresented well.",8,10796,758,71,1,5
+html body text p span  ,"As the test manager, you are the keeper of data that can helpyou understand trends and special occurrences in the project,provided you avoid the two ""data traps"": havingunjustified faith in numbers, and rejecting numbers completelybecause they're imperfect. Take a balanced view and use data as aspringboard to understanding.",8,10884,723,53,1,5
+html body text p font b span  ,5. Acknowledgements,8,10954,251,27,1,7
+html body text p span  ,Keith Davis made helpful comments on an earlier draft of thispaper.,8,10998,436,17,1,5
+html body text p font b span  ,6. References,8,11032,156,27,1,7
+html body text p span  ,[Aguayo91],8,11076,77,17,0,5
+html body text p span  ,"Rafael Aguayo,",8,11094,104,17,0,5
+html body text p i span  ,"Dr. Deming,",112,11094,82,17,0,6
+html body text p span  ,"Fireside / Simon and Schuster,1991.",194,11094,232,17,0,5
+html body text p span  ,[Bach94],8,11128,60,17,0,5
+html body text p span  ,"James Bach, ""Process Evolution in a Mad World,"" in",8,11146,342,17,0,5
+html body text p i span  ,Proceedingsof the Seventh International Quality Week,350,11146,350,17,0,6
+html body text p span  ,", (Software Research,San Francisco, CA), 1994.",8,11146,764,35,0,5
+html body text p span  ,[Curtis95],8,11198,66,17,0,5
+html body text p span  ,"Mark C. Paulk, Charles V. Weber, and Bill Curtis (ed),",8,11216,352,17,0,5
+html body text p i span  ,TheCapability Maturity Model: Guidelines for Improving the SoftwareProcess,8,11216,744,35,0,6
+html body text p span  ,", Addison-Wesley, 1995.",118,11234,157,17,0,5
+html body text p span  ,[Cusumano95],8,11268,95,17,0,5
+html body text p span  ,"M. Cusumano and R. Selby,",8,11286,184,17,0,5
+html body text p i span  ,"Microsoft Secrets,",192,11286,119,17,0,6
+html body text p span  ,"Free Press,1995.",311,11286,106,17,0,5
+html body text p span  ,[DeMarco82],8,11320,87,17,0,5
+html body text p span  ,"Tom DeMarco,",8,11338,102,17,0,5
+html body text p i span  ,"Controlling Software Projects: Management,Measurement, and Estimation",110,11338,483,17,0,6
+html body text p span  ,", Prentice Hall, 1982.",593,11338,136,17,0,5
+html body text p span  ,[Deming82],8,11372,78,17,0,5
+html body text p span  ,"J. Edwards Deming,",8,11390,134,17,0,5
+html body text p i span  ,"Out of the Crisis,",142,11390,114,17,0,6
+html body text p span  ,"MIT Center forAdvanced Engineering Study, 1982.",256,11390,330,17,0,5
+html body text p span  ,[Devor92],8,11424,67,17,0,5
+html body text p span  ,"Richard E. Devor, Tsong-How Chang, and John W. Sutherland",8,11442,405,17,0,5
+html body text p i span  ,",Statistical Quality Design and Control: Contemporary Concepts andMethods",8,11442,757,35,0,6
+html body text p span  ,", MacMillan, 1992.",155,11460,123,17,0,5
+html body text p span  ,[Humphrey89],8,11494,95,17,0,5
+html body text p span  ,"Watts Humphrey,",8,11512,115,17,0,5
+html body text p i span  ,"Managing the Software Process,",123,11512,212,17,0,6
+html body text p span  ,"Addison-Wesley,1989.",335,11512,145,17,0,5
+html body text p span  ,[Kaner93],8,11546,66,17,0,5
+html body text p span  ,"C. Kaner, J. Falk, and H.Q. Nguyen,",8,11564,237,17,0,5
+html body text p i span  ,"Testing Computer Software(2/e),",245,11564,212,17,0,6
+html body text p span  ,"Van Nostrand Reinhold, 1993.",457,11564,194,17,0,5
+html body text p span  ,[Kaner96],8,11598,66,17,0,5
+html body text p span  ,"Cem Kaner, """,8,11616,91,17,0,5
+html body text p a span  ,SoftwareNegligence & Testing Coverage,99,11616,267,17,0,6
+html body text p span  ,","" in",366,11616,31,17,0,5
+html body text p i span  ,Proceedings ofSTAR 96,397,11616,155,17,0,6
+html body text p span  ,", (Software Quality Engineering, Jacksonville, FL),1996. ()",8,11616,754,35,0,5
+html body text p span  ,[Keuffel94],8,11668,75,17,0,5
+html body text p span  ,"Warren Keuffel, ""James Bach: Making Metrics Fly at Borland,""",8,11686,412,17,0,5
+html body text p i span  ,Software Development,420,11686,149,17,0,6
+html body text p span  ,", December 1994.",569,11686,113,17,0,5
+html body text p span  ,[Keuffel94],8,11720,75,17,0,5
+html body text p span  ,"Warren Keuffel, ""Further Metrics Flights at Borland,""",8,11738,348,17,0,5
+html body text p i span  ,SoftwareDevelopment,356,11738,145,17,0,6
+html body text p span  ,", January 1995.",501,11738,97,17,0,5
+html body text p span  ,[Lyu96],8,11772,52,17,0,5
+html body text p span  ,"Michael R. Lyu (ed.),",8,11790,142,17,0,5
+html body text p i span  ,"Handbook of Software ReliabilityEngineering,",150,11790,301,17,0,6
+html body text p span  ,"McGraw-Hill, 1996.",451,11790,131,17,0,5
+html body text p span  ,[Marick95],8,11824,73,17,0,5
+html body text p span  ,"Brian Marick,",8,11842,94,17,0,5
+html body text p i span  ,"The Craft of Software Testing,",102,11842,196,17,0,6
+html body text p span  ,"Prentice Hall,1995.",298,11842,124,17,0,5
+html body text p span  ,[Marick97],8,11876,73,17,0,5
+html body text p span  ,"Brian Marick, """,8,11894,104,17,0,5
+html body text p a span  ,ClassicTesting Mistakes,112,11894,159,17,0,6
+html body text p span  ,","" in",271,11894,31,17,0,5
+html body text p i span  ,Proceedings of STAR 97,302,11894,159,17,0,6
+html body text p span  ,", (SoftwareQuality Engineering, Jacksonville, FL), 1997.",8,11894,746,35,0,5
+html body text p span  ,[McConnell96],8,11946,99,17,0,5
+html body text p span  ,"Steve McConnell,",8,11964,120,17,0,5
+html body text p i span  ,"Rapid Development,",128,11964,134,17,0,6
+html body text p span  ,"Microsoft Press, 1996.",262,11964,145,17,0,5
+html body text p span  ,[Mosteller77],8,11998,88,17,0,5
+html body text p span  ,"Frederick Mosteller and John W. Tukey,",8,12016,260,17,0,5
+html body text p i span  ,"Data Analysis andRegression,",268,12016,197,17,0,6
+html body text p span  ,"Addison-Wesley, 1977.",465,12016,149,17,0,5
+html body text p span  ,[Musa87],8,12050,62,17,0,5
+html body text p span  ,"J. Musa, A. Iannino, and K. Okumoto,",8,12068,248,17,0,5
+html body text p i span  ,"Software Reliability :Measurement, Prediction, Application",256,12068,385,17,0,6
+html body text p span  ,", McGraw-Hill, 1987.",8,12068,731,35,0,5
+html body text p span  ,[Rothman96],8,12120,85,17,0,5
+html body text p span  ,"Johanna Rothman, """,8,12138,134,17,0,5
+html body text p a span  ,Measurements toReduce Risk in Product Ship Decisions,142,12138,365,17,0,6
+html body text p span  ,","" in",507,12138,31,17,0,5
+html body text p i span  ,Proceedingsof the Ninth International Quality Week,8,12138,686,35,0,6
+html body text p span  ,", (Software Research,San Francisco, CA), 1996.",186,12156,307,17,0,5
+html body text p span  ,[Tukey77],8,12190,67,17,0,5
+html body text p span  ,"John W. Tukey,",8,12208,103,17,0,5
+html body text p i span  ,"Exploratory Data Analysis,",111,12208,179,17,0,6
+html body text p span  ,"Addison-Wesley,1977.",290,12208,145,17,0,5
+html body text table tbody tr td p a span  ,Services,127,12243,55,17,0,10
+html body text table tbody tr td p a span  ,Writings,344,12243,55,17,0,10
+html body text table tbody tr td p a span  ,Tools,483,12243,35,17,0,10
+html body text table tbody tr td p a span  ,Agile Testing,625,12243,86,17,0,10
+html body text p span  ,Comments to,281,12278,90,17,0,5
+html body text p a span  ,marick@testing.com,371,12278,133,17,0,6

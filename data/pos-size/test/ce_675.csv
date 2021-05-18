@@ -1,0 +1,167 @@
+tag,content,x,y,width,height,label,depth
+html body text table tbody tr td h1 span  ,Land Tax,12,68,131,36,0,9
+html body text table tbody tr td h2 span  ,Latest News,12,175,125,26,0,9
+html body text table tbody tr td p strong span  ,State Budget 2005-2006:,12,222,166,17,0,10
+html body text table tbody tr td p span  ,See,12,240,27,17,0,9
+html body text table tbody tr td p a span  ,Circular 254,39,240,85,17,0,10
+html body text table tbody tr td p span  ,for details of changes announced in the Budget handed down on 26th May 2005.,124,240,516,17,0,9
+html body text table tbody tr td h2 span  ,Frequently Asked Questions,12,323,289,26,1,9
+html body text table tbody tr td ul li a span  ,What is Land Tax?,52,370,121,17,0,11
+html body text table tbody tr td ul li a span  ,Who is liable for the payment of Land Tax?,52,388,279,17,0,11
+html body text table tbody tr td ul li a span  ,How is Land Tax calculated?,52,406,186,17,0,11
+html body text table tbody tr td ul li a span  ,What are the Land Tax rates?,52,424,187,17,0,11
+html body text table tbody tr td ul li a span  ,Single and Multiple Holding Tax,52,442,211,17,0,11
+html body text table tbody tr td ul li a span  ,Why this may be your first Land Tax Notice,52,460,283,17,0,11
+html body text table tbody tr td ul li a span  ,What land is exempt from Land Tax?,52,478,239,17,0,11
+html body text table tbody tr td ul li a span  ,Does GST apply to Land Tax?,52,496,194,17,0,11
+html body text table tbody tr td ul li a span  ,How do I pay my Land Tax Notice?,52,514,230,17,0,11
+html body text table tbody tr td ul li a span  ,How is the value of my land assessed?,52,532,247,17,0,11
+html body text table tbody tr td ul li a span  ,What should I do if my Notice is wrong?,52,550,262,17,0,11
+html body text table tbody tr td ul li a span  ,Trusts,52,568,39,17,0,11
+html body text table tbody tr td ul li a span  ,Changing Address Details,52,586,167,17,0,11
+html body text table tbody tr td ul li a span  ,Customer service charter,52,604,160,17,0,11
+html body text table tbody tr td p strong span  ,What is Land Tax?,12,638,130,17,1,10
+html body text table tbody tr td p span  ,"Land Tax is an annual tax based on land ownership and usage of land as at 30 June. Revenue from Land Tax is paid into the general revenue account of the South Australian Government, and assists in the provision of public services such as education, health and public safety.",12,672,741,53,1,9
+html body text table tbody tr td p strong span  ,Who is liable for the payment of Land Tax?,12,742,297,17,1,10
+html body text table tbody tr td p span  ,The owner of the property as at 30 June is liable to pay the land tax assessed for the new financial year. The owner is generally taken to be the person whose name appears on the Certificate of Title at the Land Titles Office.,12,776,747,35,1,9
+html body text table tbody tr td p span  ,"As Land Tax is calculated as at 30 June, the Notice for Payment will contain details of properties owned as at that time. Where a property was sold after 30 June, the vendor (seller) is still liable for the land tax. However, it should be noted, if the Land Tax is not paid at settlement it remains a first charge on the land and may be passed on to the purchaser.",12,828,752,71,1,9
+html body text table tbody tr td p span  ,It is an industry based convention for the legal real estate contract to provide for land tax to be apportioned (based on a calculation of the single holding tax see,12,916,761,35,1,9
+html body text table tbody tr td p a span  ,single and multiple holding tax,270,934,203,17,1,10
+html body text table tbody tr td p span  ,) between the buyer and seller of land.,473,934,245,17,1,9
+html body text table tbody tr td p strong span  ,How is Land Tax calculated?,12,968,197,17,1,10
+html body text table tbody tr td p span  ,"The Land Tax Notice for Payment is calculated on the basis of the total site value of all land owned (either solely or jointly) as at midnight 30 June, excluding exempt land. (see",12,1002,741,35,1,9
+html body text table tbody tr td p a span  ,what land is exempt from land tax,399,1020,222,17,1,10
+html body text table tbody tr td p span  ,),621,1020,6,17,1,9
+html body text table tbody tr td p span  ,"It should be noted that where an owner owns more than one taxable property, land tax is calculated on the total site value of all properties owned. (For examples of calculation of land tax, see",12,1054,735,35,1,9
+html body text table tbody tr td p a span  ,single and multiple holding tax,495,1072,203,17,1,10
+html body text table tbody tr td p span  ,).,698,1072,9,17,1,9
+html body text table tbody tr td p strong span  ,What are the Land Tax Rates?,12,1106,209,17,1,10
+html body text table tbody tr td p span  ,Land tax is calculated according to the following:,12,1140,318,17,1,9
+html body text table tbody tr td table caption span span  ,Rates effective from 1/7/2005,220,1174,192,17,0,11
+html body text table tbody tr td table tbody tr th span  ,Total Taxable Site Value,86,1196,164,17,0,12
+html body text table tbody tr td table tbody tr th span  ,Rate,455,1196,32,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"Up to $110, 000",16,1223,103,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Nil,326,1223,20,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"$110,001 - $350,000",16,1262,133,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"30 cents for each $100 or part $100 above $110,000",326,1253,269,35,0,12
+html body text table tbody tr td table tbody tr td span  ,"$350,001 - $550,000",16,1309,133,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"$720 plus 70 cents for each $100 or part $100 above $350,000",326,1300,258,35,0,12
+html body text table tbody tr td table tbody tr td span  ,"$550,001 - $750,000",16,1354,133,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"$2,120 plus $1.65 for each $100 or part $100 above $550,000",326,1345,289,35,0,12
+html body text table tbody tr td table tbody tr td span  ,"$750,001 - $1,000,000",16,1397,145,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"$5,420 plus $2.40 for each $100 or part $100 above $750,000",326,1388,289,35,0,12
+html body text table tbody tr td table tbody tr td span  ,"Over $1,000,000",16,1439,108,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"$11,420 plus $3.70 for each $100 or part $100 above $1,000,000",326,1430,260,35,0,12
+html body text table tbody tr td p strong span  ,Single and Multiple Holding Tax,12,1486,222,17,1,10
+html body text table tbody tr td p span  ,"The terms ""single holding"" and ""multiple holding"" refer to the apportionment of land tax amongst taxable properties within an ownership.",12,1520,743,35,1,9
+html body text table tbody tr td p span  ,Single holding tax refers to the calculation of land tax where there is only one taxable property in the ownership (see example below):,12,1572,746,35,1,9
+html body text table tbody tr td table tbody tr th span  ,Example - only one non-exempt land holding,163,1628,306,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"Site value is $120,000",16,1652,142,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"Tax on first $110,000 = Nil",16,1676,174,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"$120,000 - $110,000 = $10,000 @ 30 cents per $100 = $30",16,1700,379,17,0,12
+html body text table tbody tr td table tbody tr td p strong span  ,Total tax = $30.00,16,1734,121,17,0,14
+html body text table tbody tr td p span  ,Multiple holding tax refers to where more than one non-exempt property is owned. RevenueSA is required to apportion the total land tax payable to each taxable property within the ownership. The total land tax payable is therefore apportioned amongst each of the taxable properties in the ownership based on their value as a proportion of the total site value of the ownership. (see example below):,12,1772,749,71,1,9
+html body text table tbody tr td table tbody tr th span  ,Example - more than one non-exempt land holding,143,1864,346,17,1,12
+html body text table tbody tr td table tbody tr td p strong span  ,Site values are:,16,1888,104,17,0,14
+html body text table tbody tr td table tbody tr td div center table tbody tr td span  ,12 Smith St,185,1925,76,17,0,18
+html body text table tbody tr td table tbody tr td div center table tbody tr td span  ,"$250,000",387,1925,60,17,0,18
+html body text table tbody tr td table tbody tr td div center table tbody tr td span  ,51 Johns St,185,1947,74,17,0,18
+html body text table tbody tr td table tbody tr td div center table tbody tr td span  ,"$200,000",387,1947,60,17,0,18
+html body text table tbody tr td table tbody tr td div center table tbody tr td span  ,2/41 Queen St,185,1969,92,17,0,18
+html body text table tbody tr td table tbody tr td div center table tbody tr td u span  ,"$150,000",387,1969,60,17,0,19
+html body text table tbody tr td table tbody tr td div center table tbody tr td p strong span  ,Total Site Value,185,1991,107,17,0,20
+html body text table tbody tr td table tbody tr td div center table tbody tr td p strong span  ,"$600,000",387,1991,60,17,0,20
+html body text table tbody tr td table tbody tr td p span  ,"Tax on site value up to $550,000 = $2,120",16,2028,270,17,0,13
+html body text table tbody tr td table tbody tr td p span  ,"Tax on $600,000 - $550,000 = $825.00 ($50,000 @ $1.65 per $100)",16,2046,436,17,0,13
+html body text table tbody tr td table tbody tr td p strong span  ,"Total Tax = $2,945.00",16,2080,145,17,0,14
+html body text table tbody tr td table tbody tr td p strong span  ,Apportionment between properties:,16,2104,245,17,0,14
+html body text table tbody tr td table tbody tr td p strong span  ,Tax for 12 Smith St,16,2138,132,17,0,14
+html body text table tbody tr td table tbody tr td table tbody tr td u span  ,"$250,000 (site value)",19,2175,136,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,"x $2,945 (total tax) = $1,227.08",238,2175,204,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,"$600,000 (total site value)",19,2197,168,17,0,16
+html body text table tbody tr td table tbody tr td p strong span  ,Tax for 51 Johns St,16,2234,132,17,0,14
+html body text table tbody tr td table tbody tr td table tbody tr td u span  ,"$200,000 (site value)",19,2271,136,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,"x $2,945 (total tax) = $981.67",243,2271,192,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,"$600,000 (total site value)",19,2293,168,17,0,16
+html body text table tbody tr td table tbody tr td p strong span  ,Tax for 2/41 Queens St,16,2330,155,17,0,14
+html body text table tbody tr td table tbody tr td table tbody tr td u span  ,"$150,000 (site value)",19,2367,136,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,"x $2,945 (total tax) = $736.25",245,2367,192,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,"$600,000 (total site value)",19,2389,168,17,0,16
+html body text table tbody tr td table tbody tr td p strong span  ,"Total Tax = $2,945.00",16,2426,145,17,0,14
+html body text table tbody tr td p span  ,Where land is sold and adjustments are made to account for land tax (see,12,2464,471,17,1,9
+html body text table tbody tr td p a span  ,who is liable for the payment of land tax,483,2464,263,17,1,10
+html body text table tbody tr td p span  ,) the calculation of land tax to be apportioned between the seller and buyer must be based on the calculation of a,12,2464,740,35,1,9
+html body text table tbody tr td p a span  ,single holding tax,12,2482,752,35,1,10
+html body text table tbody tr td p span  ,for the property concerned. By using the,88,2500,263,17,1,9
+html body text table tbody tr td p a span  ,single holding tax,351,2500,119,17,1,10
+html body text table tbody tr td p span  ,", the adjustment is calculated as if the property being sold is the only taxable property in the ownership.",12,2500,756,35,1,9
+html body text table tbody tr td p strong span  ,Why this may be your first Land Tax account,12,2552,310,17,1,10
+html body text table tbody tr td ul li span  ,"The total site value of all taxable land owned by you as at 30 June may have exceeded the general threshold level of $110,000 for the first time;",52,2586,690,35,1,10
+html body text table tbody tr td ul li span  ,"You may have bought additional land, or your land has been revalued in the last financial year;",52,2622,607,17,1,10
+html body text table tbody tr td ul li span  ,Land previously,52,2640,108,17,1,10
+html body text table tbody tr td ul li a span  ,exempt,160,2640,52,17,1,11
+html body text table tbody tr td ul li span  ,may now no longer satisfy the exemption criteria.,212,2640,318,17,1,10
+html body text table tbody tr td p strong span  ,What land is exempt from Land Tax?,12,2674,256,17,1,10
+html body text table tbody tr td p strong em span  ,Principal Place of Residence Exemptions:,12,2708,277,17,1,11
+html body text table tbody tr td p span  ,Land that is owned by a natural person and is used as their principal place of residence as at 30 June is exempt. A land tax exemption is available to natural person's for the land on which their principal family home is situated (caravans or tents are not regarded as a principal place of residence).,12,2726,760,53,1,9
+html body text table tbody tr td p span  ,Properties that are the owner's principal place of residence and a business is run from the premises may also be eligible for a partial exemption provided that:,12,2796,710,35,1,9
+html body text table tbody tr td ul li span  ,one of the registered owners lived at the property on 30 June;,52,2848,392,17,1,10
+html body text table tbody tr td ul li span  ,buildings on the land have a predominantly residential character; and,52,2866,442,17,1,10
+html body text table tbody tr td ul li span  ,no more than 75% of the floor area of all the buildings are used for business purposes.,52,2884,551,17,1,10
+html body text table tbody tr td p span  ,"A 'natural person', means an individual and does not include a company (or other body), which is classed as an artificial person. The principal place of residence exemption is not available for companies or other organisations, even if the land is occupied by any of its shareholders or members.",12,2918,729,53,1,9
+html body text table tbody tr td p a span  ,Application form for Residential Exemption,12,2988,284,17,0,10
+html body text table tbody tr td p span  ,Land Tax relief may be provided under the following three scenarios:,12,3024,444,17,1,9
+html body text table tbody tr td ol li span  ,"Where a person as at 30 June owns a property subject to land tax and occupies this property during the new financial year as their principal place of residence e.g., construction of a residence on vacant land.",52,3058,687,35,1,10
+html body text table tbody tr td ol li a span  ,Application Form,52,3076,705,35,1,11
+html body text table tbody tr td ol li span  ,"Where a person is in the process of selling a home and as a result owns 2 properties as at 30 June, one of which is the current principal place of residence (and eligible for exemption) and the other is intended but not yet occupied principal place of residence (and liable for land tax).",52,3112,712,53,1,10
+html body text table tbody tr td ol li a span  ,Application Form,452,3148,114,17,1,11
+html body text table tbody tr td ol li span  ,"Where a person purchases a property, which was taxable in the ownership of the vendor (seller) and is to be occupied as a principal place of residence, the purchaser may be refunded any proportionate land tax paid as part of settlement.",52,3166,693,53,1,10
+html body text table tbody tr td ol li a span  ,Application Form,171,3202,114,17,1,11
+html body text table tbody tr td p span  ,It should be noted that:,12,3236,148,17,1,9
+html body text table tbody tr td ul li span  ,"Unless the Commissioner otherwise allows, no rental income can be received from properties during the period that homes are owned concurrently and the former residence must be sold before the end of the financial year.",52,3270,713,35,1,10
+html body text table tbody tr td ul li span  ,Land Tax assessed will still be payable if the property was not your principal place of residence on or before the due date of your Notice for Payment.,52,3306,717,35,1,10
+html body text table tbody tr td p span  ,"If you would like to apply for exemption under any of the above scenarios, please download and complete an applicable Application Form and return it to RevenueSA. Please note all Applications must be submitted by 30 September of the year following the year of assessment.",12,3358,709,53,1,9
+html body text table tbody tr td p em strong span  ,Other Exemptions,12,3428,120,17,1,11
+html body text table tbody tr td p span  ,Exemptions are also available where land is used for the following purposes;,12,3446,492,17,1,9
+html body text table tbody tr td ul li span  ,Land which is used wholly or mainly for primary production purposes and primary production is the owner's main business;,52,3480,696,35,1,10
+html body text table tbody tr td ul li span  ,Land which is used wholly or mainly for religious or educational purposes;,52,3516,481,17,1,10
+html body text table tbody tr td ul li span  ,"Land which is used for non-profit associations for the purpose of recreation for the local community, the preservation of buildings, the holding of agricultural shows or other specified purposes (charitable or sporting purposes).",52,3534,703,53,1,10
+html body text table tbody tr td p span  ,Applications for these other exemptions must be submitted in writing and forwarded to RevenueSA.,12,3604,642,17,1,9
+html body text table tbody tr td p strong span  ,Does GST apply to land tax?,12,3638,196,17,1,10
+html body text table tbody tr td p span  ,"Land Tax is included in the Federal Treasurer's determination under section 81.5 of A New Tax System (Goods and Services Tax) Act, 1999 and is NOT subject to GST.",12,3672,736,35,1,9
+html body text table tbody tr td p strong span  ,How do I pay my Land Tax Notice?,12,3724,242,17,1,10
+html body text table tbody tr td p span  ,Details of the payment methods available are listed on our,12,3760,377,17,1,9
+html body text table tbody tr td p a span  ,payments page,389,3760,99,17,1,10
+html body text table tbody tr td p span  ,.,488,3760,4,17,1,9
+html body text table tbody tr td p strong span  ,Penalties and Legal Action,12,3794,182,17,1,10
+html body text table tbody tr td p span  ,"If your account is not paid by the due date, interest and penalties will be imposed on the unpaid tax.",12,3828,638,17,1,9
+html body text table tbody tr td p span  ,"If the tax and penalty then remains unpaid, legal action may be commenced without further notice and you may be liable for any costs incurred.",12,3862,733,35,1,9
+html body text table tbody tr td p strong span  ,How is the value of my land assessed?,12,3914,257,17,1,10
+html body text table tbody tr td p span  ,"The land/site value is determined by the Valuer-General. If the site value on the account differs from the previous year, it will be as a result of a revaluation by the State Valuation Office.",12,3948,760,35,1,9
+html body text table tbody tr td p span  ,Formal objections regarding the valuations must be in writing served personally or by post to the State Valuation Office. Objections must be lodged within 60 days after the date of service of the first Notice served.,12,4000,721,35,1,9
+html body text table tbody tr td p span  ,PLEASE NOTE:,12,4054,110,17,1,9
+html body text table tbody tr td ul li span  ,"The 60-day objection period starts at the date of the first Notice received. If you receive further Notices under the Land Tax Act, 1936, the objection period does not change.",52,4088,706,35,1,10
+html body text table tbody tr td ul li span  ,You may not object to the valuation if the Valuer-General has already considered an objection by you in response to another rating authority for this financial year.,52,4124,668,35,1,10
+html body text table tbody tr td p span  ,"All queries and objections regarding the valuation of your land, should be directed to:",12,4176,548,17,1,9
+html body text table tbody tr td p span  ,State Valuation Office,12,4210,142,17,0,9
+html body text table tbody tr td p span  ,GPO Box 1354,12,4228,99,17,0,9
+html body text table tbody tr td p span  ,ADELAIDE SA 5001,12,4246,140,17,0,9
+html body text table tbody tr td p strong span  ,What should I do if my Notice is wrong?,12,4280,275,17,1,10
+html body text table tbody tr td p span  ,"If you think your Land Tax Notice for Payment is incorrect in any way, please return it to RevenueSA with an explanation of the amendments required. Please provide a daytime contact and telephone number in order to process your enquiry promptly.",12,4314,745,53,1,9
+html body text table tbody tr td p span  ,"If you lodge an objection, your Land Tax Notice should still be paid in accordance with the due date shown thereon - any reduction in Land Tax resulting from the objection will be provided by way of refund.",12,4384,748,35,1,9
+html body text table tbody tr td p strong span  ,Trusts,12,4436,43,17,1,10
+html body text table tbody tr td p span  ,"Where a property is owned by an individual or organisation on behalf of a trust, the owner(s) (trustees) can apply to have that property assessed separately from other land owned by the trustee in another capacity.",12,4470,740,35,1,9
+html body text table tbody tr td p span  ,"To apply, please provide this Office with:Â·",12,4524,269,17,1,9
+html body text table tbody tr td ul li span  ,A letter advising which property is owned on behalf of the trust.,52,4558,410,17,1,10
+html body text table tbody tr td ul li span  ,A stamped copy of the relevant trust deed in its entirety.,52,4576,358,17,1,10
+html body text table tbody tr td ul li span  ,"Evidence to show that the property was purchased on behalf of the trust.This can be in the form of a stamped transfer document, settlement statement, minutes of the Trust meeting, contract for sale or financial statements of the trust. If financial statements are supplied the statements should identify that the property is an asset of the trust.",52,4594,716,71,1,10
+html body text table tbody tr td p strong span  ,Changing Address Details,12,4682,177,17,1,10
+html body text table tbody tr td span  ,"If you wish to change your address details, please complete the online",12,4716,452,17,1,8
+html body text table tbody tr td a span  ,change of address form,464,4716,154,17,1,9
+html body text table tbody tr td span  ,or telephone us on 08 8204 9870.,12,4716,743,35,1,8
+html body text table tbody tr td p strong span  ,Customer service charter,12,4768,173,17,1,10
+html body text table tbody tr td p span  ,"RevenueSA aims to provide you with a service, which is efficient and responsive and will ensure that your privacy and confidentially is respected.",12,4802,760,35,1,9
+html body text table tbody tr td p span  ,"In responding to enquiries during the period from October to February each year, it should be recognised that RevenueSA experiences a major increase in workload with relation to land tax.",12,4854,699,35,1,9
+html body text table tbody tr td p span  ,"Over 88,000 Notices will be issued during this period and based on previous experience, delays can be expected. However, as many as possible of our staff will be dedicated to addressing customer enquiries and will strive, at all times, to respond to your queries in the shortest possible time.",12,4906,730,53,1,9
+html body text table tbody tr td p span  ,This page was last updated,12,5018,176,17,0,9
+html body text table tbody tr td p span  ,"3 November, 2006",188,5018,119,17,0,9

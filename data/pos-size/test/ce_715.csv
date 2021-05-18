@@ -1,0 +1,1228 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,"SoftLookup.com - Welcome to one of the world's biggest and fastest download site. lot of shareware, freeware, utilities, Internet, and desktop software.",0,0,785,36,0,6
+html body text table tbody tr td table tbody tr td font b span  ,Free Tutorials,24,142,85,15,0,14
+html body text table tbody tr td table tbody tr td b a font span  ,HTML,48,161,37,15,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn HTML,7,182,75,15,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn CSS,7,204,66,15,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn XML,7,226,66,15,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn WML,7,248,70,15,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Database,38,268,57,15,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn Access,7,289,84,15,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn Data-VB,7,311,90,15,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn Oracle,7,333,80,15,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn SQL,7,355,66,15,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Programming,24,375,85,15,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn C++,7,396,64,15,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn JavaScript,7,418,105,15,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn Vbscript,7,440,91,15,0,15
+html body text table tbody tr td table tbody tr td b a font span  ,Learn VisualBasic,7,462,112,15,0,15
+html body text table tbody tr td table tbody tr td center table tbody tr td center h1 font span  ,- Chapter 3 -,1266,169,186,36,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td center h1 font span  ,"Expressions, Conditions, and Operators",1053,206,612,36,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h2 font span  ,Objectives,142,265,121,27,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"On Chapter 2, ""Introduction to the Query: The",142,313,327,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,469,316,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Statement,""you used",524,313,152,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,676,316,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and,731,313,31,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FROM,762,316,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,to manipulate data in interesting (anduseful) ways. ToChapter you learn more about,801,313,595,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1396,316,54,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and,1450,313,32,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FROM,1482,316,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"and expandthe basic query with some new terms to go with query, table, and row, as well asa new clause and a group of handy items called operators. When the sun sets on Day3, you will",142,313,2367,35,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td ul li span  ,Know what an expression is and how to use it,182,365,324,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td ul li span  ,Know what a condition is and how to use it,182,399,302,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td ul li span  ,Be familiar with the basic uses of the,182,433,264,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td ul li tt span  ,WHERE,446,436,47,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td ul li span  ,clause,493,433,46,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td ul li span  ,"Be able to use arithmetic, comparison, character, logical, and set operators",182,467,530,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td ul li span  ,Have a working knowledge of some miscellaneous operators,182,501,430,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,182,545,54,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,"We used Oracle's Personal Oracle7 to generate today's examples. Other implementations of SQL may differ slightly in the way in which commands are entered or output is displayed, but the results are basically the same for all implementations that conform to the ANSI standard.",236,545,1969,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h2 font span  ,Expressions,142,593,143,27,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The definition of an expression is simple: An,142,641,317,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p i span  ,expression,459,641,81,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"returns a value.Expression types are very broad, covering different data types such as String, Numeric,and Boolean. In fact, pretty much anything following a clause (",540,641,1173,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1713,644,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,or,1768,641,19,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FROM,1786,644,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", for example) is an expression. In the following example",1826,641,402,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,amount,2228,644,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is an expression that returns the value contained in the,142,641,2411,35,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,amount,259,662,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,column.,314,659,56,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SELECT amount FROM checks;,142,693,203,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,In the following statement,142,724,186,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,"NAME, ADDRESS, PHONE",328,727,164,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and,492,724,31,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,ADDRESSguide,523,727,101,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,are expressions:,624,724,118,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,"SELECT NAME, ADDRESS, PHONEFROM ADDRESSguide;",142,758,351,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Now, examine the following expression:",142,789,280,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,WHERE NAME = 'BROWN',142,823,156,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"It contains a condition,",142,854,164,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NAME = 'BROWN',306,857,117,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", which is an example of a Booleanexpression.",423,854,333,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NAME = 'BROWN',756,857,117,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,will be either,873,854,94,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,TRUE,967,857,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,or,1006,854,18,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FALSE,1024,857,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,",depending on the condition",1071,854,201,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,=,1272,857,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.,1288,854,4,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h2 font span  ,Conditions,142,892,125,27,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"If you ever want to find a particular item or group of items in your database,you need one or more conditions. Conditions are contained in the",142,939,998,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1140,942,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"clause.In the preceding example, the condition is",1187,939,346,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME = 'BROWN',142,973,109,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,To find everyone in your organization who worked more than,142,1004,432,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,100,574,1007,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"hourslast month, your condition would be",605,1004,291,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NUMBEROFHOURS > 100,142,1038,148,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Conditions enable you to make selective queries. In their most common form, conditionscomprise a variable, a constant, and a comparison operator. In the first examplethe variable is",142,1069,1291,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NAME,1433,1072,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", the constant is",1472,1069,117,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,'BROWN',1589,1072,62,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", and the comparisonoperator is",1651,1069,230,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,=,1881,1072,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. In the second example the variable is,1896,1069,278,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NUMBEROFHOURS,2174,1072,109,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,",the constant is",2283,1069,112,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,100,2395,1072,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", and the comparison operator is",142,1069,2434,35,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,>,222,1090,16,15,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. You needto know about two more elements before you can write conditional queries: the,238,1087,637,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,874,1090,46,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause and operators.,921,1087,154,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,The WHERE Clause,142,1124,175,21,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The syntax of the,142,1165,127,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,269,1168,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause is,316,1165,62,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,SYNTAX:,142,1205,57,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,WHERE,142,1242,47,15,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,142,1276,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,",",197,1273,9,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FROM,206,1276,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", and",245,1273,40,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,285,1276,46,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,are the three most frequentlyused clauses in SQL.,331,1273,361,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,692,1276,46,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,simply causes your queries to be more selective.Without the,738,1273,431,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1169,1276,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"clause, the most useful thing you could do with a queryis display all records in the selected table(s). For example:",1216,1273,800,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,1313,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,1351,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM BIKES;,181,1351,156,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,lists all rows of data in the table,142,1382,227,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,BIKES,369,1385,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.,416,1382,4,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,OUTPUT:,142,1422,57,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME FRAMESIZE COMPOSITION MILESRIDDEN TYPE-------------- --------- ------------ ----------- -------TREK 2300 22.5 CARBON FIBER 3500 RACINGBURLEY 22 STEEL 2000 TANDEMGIANT 19 STEEL 1500 COMMUTERFUJI 20 STEEL 500 TOURINGSPECIALIZED 16 STEEL 100 MOUNTAINCANNONDALE 22.5 ALUMINUM 3000 RACING,142,1459,2247,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,142,1487,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"If you wanted a particular bike, you could type",142,1518,325,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,1558,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,1595,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM BIKES WHERE NAME = 'BURLEY';,181,1595,328,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,which would yield only one record:,142,1626,244,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME FRAMESIZE COMPOSITION MILESRIDDEN TYPE-------------- --------- -------------- ----------- -------BURLEY 22 STEEL 2000 TANDEM,142,1660,1006,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,1697,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,This simple example shows how you can place a condition on the data that you wantto retrieve.,142,1735,674,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h2 font span  ,Operators,142,1772,115,27,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Operators are the elements you use inside an expression to articulate how youwant specified conditions to retrieve data. Operators fall into six groups: arithmetic,comparison, character, logical, set, and miscellaneous.",142,1820,1529,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,Arithmetic Operators,142,1857,187,21,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The arithmetic operators are plus (,142,1898,249,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,+,391,1901,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"), minus (-), divide (",407,1898,142,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,/,549,1901,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"),multiply (",564,1898,79,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,*,643,1901,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"), and modulo (",658,1898,112,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,%,770,1901,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,). The first four are self-explanatory.Modulo returns the integer remainder of a division. Here are two examples:,786,1898,782,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,5 % 2 = 16 % 2 = 0,142,1932,140,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"The modulo operator does not work with data types that have decimals, such asReal or Number.",142,1963,682,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"If you place several of these arithmetic operators in an expression without anyparentheses, the operators are resolved in this order: multiplication, division,modulo, addition, and subtraction. For example, the expression",142,1997,1538,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2*6+9/3,142,2031,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,equals,142,2062,47,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,12 + 3 = 15,142,2096,86,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"However, the expression",142,2127,175,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2 * (6 + 9) / 3,142,2161,117,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,equals,142,2192,47,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2 * 15 / 3 = 10,142,2226,117,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Watch where you put those parentheses! Sometimes the expression does exactly whatyou tell it to do, rather than what you want it to do.",142,2257,968,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The following sections examine the arithmetic operators in some detail and giveyou a chance to write some queries.,142,2291,819,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Plus (+),142,2330,58,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,You can use the plus sign in several ways. Type the following statement to displaythe,142,2369,606,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,PRICE,748,2372,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,table:,795,2369,39,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,2410,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,2447,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PRICE;,181,2447,156,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,2484,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ----------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45CHEESE .89APPLES .23,142,2521,819,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,142,2549,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Now type:,142,2580,71,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,2620,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,2657,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT ITEM, WHOLESALE, WHOLESALE + 0.15 FROM PRICE;",181,2657,406,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Here the,142,2688,66,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,+,208,2691,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,adds 15 cents to each price to produce the following:,223,2688,374,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE WHOLESALE+0.15-------------- --------- --------------TOMATOES .34 .49POTATOES .51 .66BANANAS .67 .82TURNIPS .45 .60CHEESE .89 1.04APPLES .23 .38,142,2722,1240,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,142,2750,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,2788,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,What is this last column with the unattractive column heading,142,2825,437,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHOLESALE+0.15,579,2828,117,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"?It's not in the original table. (Remember, you used",696,2825,365,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,*,1061,2828,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,in the,1076,2825,44,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1120,2828,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"clause, which causes all the columns to be shown.) SQL allows you to create a virtualor derived column by combining or modifying existing columns.",1175,2825,1049,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Retype the original entry:,142,2859,178,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,2899,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,2936,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PRICE;,181,2936,156,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The following table results:,142,2967,189,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ---------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45CHEESE .89APPLES .23,142,3001,811,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,142,3029,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,3066,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The output confirms that the original data has not been changed and that the columnheading,142,3103,660,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHOLESALE+0.15,802,3106,117,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"is not a permanent part of it. In fact, the columnheading is so unattractive that you should do something about it.",919,3103,791,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Type the following:,142,3137,133,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,3178,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,3215,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT ITEM, WHOLESALE, (WHOLESALE + 0.15) RETAIL FROM PRICE;",181,3215,476,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Here's the result:,142,3246,120,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE RETAIL-------------- --------- ------TOMATOES .34 .49POTATOES .51 .66BANANAS .67 .82TURNIPS .45 .60CHEESE .89 1.04APPLES .23 .38,142,3280,1116,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,142,3308,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,3345,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"This is wonderful! Not only can you create new columns, but you can also renamethem on the fly. You can rename any of the columns using the syntax",142,3382,1071,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,column_namealias,1213,3385,132,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,(note the space between,1345,3382,180,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,column_name,1525,3385,93,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and,1618,3382,32,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,alias,1650,3385,46,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,).,1696,3382,10,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"For example, the query",142,3416,165,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,3456,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,3493,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT ITEM PRODUCE, WHOLESALE, WHOLESALE + 0.25 RETAIL FROM PRICE;",181,3493,523,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,renames the columns as follows:,142,3524,232,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,PRODUCE WHOLESALE RETAIL-------------- --------- ---------TOMATOES .34 .59POTATOES .51 .76BANANAS .67 .92TURNIPS .45 .70CHEESE .89 1.14APPLES .23 .48,142,3558,1162,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,182,3599,54,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,Some implementations of SQL use the syntax,236,3599,329,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,. The preceding example would be written as follows:,565,3599,375,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,SQL>,182,3633,39,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font b span  ,"SELECT ITEM = PRODUCE, WHOLESALE, WHOLESALE + 0.25 = RETAIL, FROM PRICE;",221,3633,562,15,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote p span  ,Check your implementation for the exact syntax.,182,3664,342,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"You might be wondering what use aliasing is if you are not using command-lineSQL. Fair enough. Have you ever wondered how report builders work? Someday, whenyou are asked to write a report generator, you'll remember this and not spend weeksreinventing what Dr. Codd and IBM have wrought.",142,3716,2126,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"So far, you have seen two uses of the plus sign. The first instance was the useof the plus sign in the",142,3750,710,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,852,3753,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause to perform a calculation on the dataand display the calculation. The second use of the plus sign is in the,907,3750,788,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1695,3753,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause. Using operators in the,1742,3750,216,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1958,3753,46,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause gives you more flexibility whenyou specify conditions for retrieving data.,2004,3750,557,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"In some implementations of SQL, the plus sign does double duty as a characteroperator. You'll see that side of the plus a little later today.",142,3784,970,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Minus (-),142,3824,67,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Minus also has two uses. First, it can change the sign of a number. You can usethe table",142,3863,630,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,HILOW,772,3866,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,to demonstrate this function.,819,3863,201,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,3903,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,3940,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM HILOW;,173,3940,164,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,3977,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,STATE HIGHTEMP LOWTEMP---------- -------- ---------CA -50 120FL 20 110LA 15 99ND -70 101NE -60 100,142,4015,765,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"For example, here's a way to manipulate the data:",142,4046,354,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,4086,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,4123,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT STATE, -HIGHTEMP LOWS, -LOWTEMP HIGHS FROM HILOW;",181,4123,437,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,STATE LOWS HIGHS---------- -------- ---------CA 50 -120FL -20 -110LA -15 -99ND 70 -101NE 60 -100,618,4123,749,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The second (and obvious) use of the minus sign is to subtract one column fromanother. For example:,142,4154,715,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,4194,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,4231,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT STATE,",181,4231,101,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,282,4231,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"HIGHTEMP LOWS,",298,4231,117,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,415,4231,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"LOWTEMP HIGHS,",438,4231,118,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,4,556,4231,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,(LOWTEMP - HIGHTEMP) DIFFERENCE,571,4231,250,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,5,821,4231,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM HILOW;,844,4231,94,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,STATE LOWS HIGHS DIFFERENCE---------- -------- -------- ----------CA -50 120 170FL 20 110 90LA 15 99 84ND -70 101 171NE -60 100 160,938,4231,1022,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Notice the use of aliases to fix the data that was entered incorrectly. This remedyis merely a temporary patch, though, and not a permanent fix. You should see to itthat the data is corrected and entered correctly in the future. On Chapter 21, ""CommonSQL Mistakes/Errors and Resolutions,"" you'll learn how to correct bad data.",142,4262,2296,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,This query not only fixed (at least visually) the incorrect data but also createda new column containing the difference between the highs and lows of each state.,142,4296,1123,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"If you accidentally use the minus sign on a character field, you get somethinglike this:",142,4330,603,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,4371,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,4408,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT -STATE FROM HILOW;,173,4408,203,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ERROR:ORA-01722: invalid numberno rows selected,376,4408,367,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"The exact error message varies with implementation, but the result is the same.",142,4439,563,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Divide (/),142,4478,68,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The division operator has only the one obvious meaning. Using the table,142,4517,517,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,PRICE,659,4520,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,",type the following:",706,4517,132,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,4557,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,4595,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PRICE;,181,4595,156,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,4632,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ---------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45CHEESE .89APPLES .23,142,4669,811,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,142,4697,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,You can show the effects of a two-for-one sale by typing the next statement:,142,4728,536,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,4768,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,4805,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT ITEM, WHOLESALE, (WHOLESALE/2) SALEPRICE 2 FROM PRICE;",181,4805,476,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE SALEPRICE-------------- --------- ---------TOMATOES .34 .17POTATOES .51 .255BANANAS .67 .335TURNIPS .45 .225CHEESE .89 .445APPLES .23 .115,657,4805,1194,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,142,4833,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The use of division in the preceding,142,4864,256,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,398,4867,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,statement is straightforward(except that coming up with half pennies can be tough).,453,4864,589,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Multiply (*),142,4904,82,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"The multiplication operator is also straightforward. Again, using the",142,4943,476,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,PRICE,618,4946,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"table, type the following:",665,4943,171,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,4983,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,5020,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PRICE;,181,5020,156,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,5057,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ---------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45CHEESE .89APPLES .23,142,5094,811,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,142,5122,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,This query changes the table to reflect an across-the-board 10 percent discount:,142,5153,567,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,5194,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,5231,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT ITEM, WHOLESALE, WHOLESALE * 0.9 NEWPRICE FROM PRICE;",181,5231,468,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE NEWPRICE-------------- --------- --------TOMATOES .34 .306POTATOES .51 .459BANANAS .67 .603TURNIPS .45 .405CHEESE .89 .801APPLES .23 .207,649,5231,1186,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,142,5259,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,These operators enable you to perform powerful calculations in a,142,5290,464,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,606,5293,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,statement.,661,5290,75,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Modulo (%),142,5329,86,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The modulo operator returns the integer remainder of the division operation. Usingthe table,142,5368,648,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,REMAINS,790,5371,63,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", type the following:",853,5368,137,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,5409,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,5446,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM REMAINS;,181,5446,172,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,5483,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NUMERATOR DENOMINATOR--------- ------------ 10 5 8 3 23 9 40 17 1024 16 85 34,142,5520,601,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,142,5548,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"You can also create a new column,",142,5579,252,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,REMAINDER,394,5582,78,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", to hold the values of",472,5579,157,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NUMERATOR% DENOMINATOR,629,5582,179,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,:,808,5579,4,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,5619,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,5656,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT NUMERATOR, DENOMINATOR, NUMERATOR%DENOMINATOR REMAINDER FROM REMAINS;",181,5656,593,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NUMERATOR DENOMINATOR REMAINDER--------- ----------- --------- 10 5 0 8 3 2 23 9 5 40 17 6 1024 16 0 85 34 17,774,5656,850,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,142,5684,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Some implementations of SQL implement modulo as a function called,142,5715,497,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,MOD,639,5718,32,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"(see Chapter 4, ""Functions: Molding the Data You Retrieve""). The followingstatement produces results that are identical to the results in the preceding statement:",671,5715,1136,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,5749,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT NUMERATOR, DENOMINATOR, MOD(NUMERATOR,DENOMINATOR) REMAINDER FROM REMAINS;",181,5749,632,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Precedence,142,5786,90,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,This section examines the use of precedence in a,142,5825,356,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,498,5828,54,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,statement. Usingthe database,552,5825,217,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,PRECEDENCE,769,5828,86,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", type the following:",855,5825,137,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,5859,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PRECEDENCE;,181,5859,195,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,N1 N2 N3 N4--------- --------- --------- --------- 1 2 3 4 13 24 35 46 9 3 23 5 63 2 45 3 7 2 1 4,376,5859,765,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Use the following code segment to test precedence:,142,5890,367,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,5930,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,5967,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT 2 N1+N2*N3/N4, 3 (N1+N2)*N3/N4, 4 N1+(N2*N3)/N4 5 FROM PRECEDENCE;",173,5967,578,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,N1+N2*N3/N4 (N1+N2)*N3/N4 N1+(N2*N3)/N4----------- ------------- ------------- 2.5 2.25 2.5 31.26087 28.152174 31.26087 22.8 55.2 22.8 93 975 93 7.5 2.25 7.5,751,5967,1224,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Notice that the first and last columns are identical. If you added a fourth column,142,5998,565,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,N1+N2* (N3/N4),707,6001,117,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", its values would also be identical to those of the currentfirst and last columns.",824,5998,556,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,Comparison Operators,142,6035,204,21,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"True to their name, comparison operators compare expressions and return one ofthree values:",142,6076,673,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,TRUE,815,6079,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,",",854,6076,9,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FALSE,863,6079,46,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", or",909,6076,28,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Unknown,937,6079,62,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. Wait a minute!,999,6076,115,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Unknown,1114,6079,63,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,?,1177,6076,13,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,TRUE,1190,6079,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and,1229,6076,31,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FALSE,1260,6079,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"are self-explanatory, but whatis",1307,6076,225,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Unknown,1532,6079,62,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,?,1594,6076,9,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,To understand how you could get an,142,6110,262,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Unknown,404,6113,62,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", you need to know a littleabout the concept of",466,6110,330,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,796,6113,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. In database terms,835,6110,141,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,976,6113,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is the absenceof data in a field. It does not mean a column has a zero or a blank in it. A zeroor a blank is a value.,1015,6110,802,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1817,6113,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,means nothing is in that field. If you makea comparison like,1856,6110,423,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Field = 9,2279,6113,78,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and the only value for,2357,6110,158,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Field,2515,6113,46,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is,2561,6110,12,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,142,6131,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,",the comparison will come back",181,6128,227,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Unknown,408,6131,62,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. Because,470,6128,76,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Unknown,546,6131,62,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"is an uncomfortablecondition, most flavors of SQL change",608,6128,414,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Unknown,1022,6131,63,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,to,1085,6128,17,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FALSE,1102,6131,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"and providea special operator,",1149,6128,219,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,IS NULL,1368,6131,62,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", to test for a",1430,6128,94,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1524,6131,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,condition.,1563,6128,68,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Here's an example of,142,6162,155,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,297,6165,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,: Suppose an entry in the,336,6162,183,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,PRICE,518,6165,46,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,tabledoes not contain a value for,565,6162,236,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHOLESALE,801,6165,78,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. The results of a query might looklike this:,879,6162,299,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,6202,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,6239,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PRICE;,181,6239,156,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,6276,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ----------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45CHEESE .89APPLES .23ORANGES,142,6313,874,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Notice that nothing is printed out in the,142,6344,278,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHOLESALE,420,6347,78,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,field position fororanges. The value for the field,498,6344,336,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHOLESALE,834,6347,78,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,for oranges is,912,6344,102,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1014,6347,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.The,1053,6344,36,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1089,6347,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"is noticeable in this case because it is in a numeric column. However,if the",1128,6344,529,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,1657,6347,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,appeared in the,1696,6344,116,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,ITEM,1812,6347,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"column, it would be impossibleto tell the difference between",1851,6344,426,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,2277,6347,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and a blank.,2316,6344,87,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Try to find the,142,6378,102,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,244,6381,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,:,283,6378,4,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,6419,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,6456,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,6456,62,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,243,6456,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM PRICE,267,6456,93,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,360,6456,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE WHOLESALE IS NULL;,376,6456,195,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ----------ORANGES,571,6456,359,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,6493,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"As you can see by the output,",142,6530,215,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,ORANGES,357,6533,63,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is the only item whose value for,420,6530,227,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHOLESALE,647,6533,78,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is,725,6530,16,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,741,6533,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,or does not contain a value. What if you usethe equal sign (,780,6530,426,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,=,1206,6533,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,) instead?,1221,6530,70,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,6570,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,6607,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PRICE WHERE WHOLESALE = NULL;,181,6607,335,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,no rows selected,142,6635,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,6673,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,You didn't find anything because the comparison,142,6710,348,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHOLESALE = NULL,490,6713,132,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,returneda,622,6710,73,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FALSE,695,6713,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,--the result was unknown. It would be more appropriate to use an,742,6710,465,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,IS NULL,1207,6713,63,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,instead of,1270,6710,73,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,=,1343,6713,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", changing the",1359,6710,105,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1464,6713,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,statement to,1511,6710,92,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE WHOLESALE IS NULL,1603,6713,187,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. In this case you would get all the rows where a,1790,6710,345,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,2135,6713,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,existed.,2174,6710,55,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"This example also illustrates both the use of the most common comparison operator,the equal sign (",142,6744,711,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,=,853,6747,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"), and the playground of all comparison operators, the",869,6744,384,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1253,6747,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause. You already know about the,1300,6744,256,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1556,6747,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"clause, so here'sa brief look at the equal sign.",1603,6744,324,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Equal (=),142,6783,68,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Earlier toChapter you saw how some implementations of SQL use the equal sign in the,142,6822,618,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,760,6825,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause to assign an alias. In the,815,6822,228,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,1043,6825,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"clause, the equalsign is the most commonly used comparison operator. Used alone, the equal sign isa very convenient way of selecting one value out of many. Try this:",1090,6822,1182,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,6862,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,6900,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FRIENDS;,181,6900,172,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,6937,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MEZA AL 200 555-2222 UKMERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332,142,6974,1927,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Let's find JD's row. (On a short list this task appears trivial, but you may havemore friends than we do--or you may have a list with thousands of records.)",142,7005,1078,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,7045,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,7082,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FRIENDS WHERE FIRSTNAME = 'JD';,181,7082,351,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MAST JD 381 555-6767 LA 23456,532,7082,983,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,We got the result that we expected. Try this:,142,7113,311,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,7153,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,7191,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FRIENDS WHERE FIRSTNAME = 'AL';,181,7191,351,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MEZA AL 200 555-2222 UK,532,7191,1170,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,182,7232,54,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,Here you see that,236,7232,131,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,=,367,7235,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,can pull in multiple records. Notice that,383,7232,279,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,ZIP,662,7235,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,is blank on the second record.,693,7232,218,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,ZIP,911,7235,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,"is a character field (you learn how to create and populate tables on Chapter 8, ""Manipulating Data""), and in this particular record the",942,7232,935,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,NULL,1877,7235,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,demonstrates that a,1916,7232,146,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,NULL,2062,7235,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,in a character field is impossible to differentiate from a blank field.,182,7232,2343,35,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Here's another very important lesson concerning case sensitivity:,142,7294,460,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,7334,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,7371,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FRIENDS WHERE FIRSTNAME = 'BUD';,181,7371,359,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,FIRSTNAME--------------BUD1 row selected.,540,7371,320,15,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Now try this:,142,7402,88,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,7442,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,7479,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,select * from friends where firstname = 'Bud';,181,7479,359,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,no rows selected.,540,7479,133,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,7517,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Even though SQL syntax is not case sensitive, data is. Most companies prefer tostore data in uppercase to provide data consistency. You should always store dataeither in all uppercase or in all lowercase. Mixing case creates difficulties whenyou try to retrieve accurate data.",142,7554,1936,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Greater Than (>) and Greater Than or Equal To (>=),142,7593,386,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The greater than operator (,142,7632,197,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,>,339,7635,15,15,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,) works like this:,354,7632,114,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,7672,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,7710,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FRIENDS WHERE AREACODE > 300;,181,7710,335,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font b span  ,OUTPUT:,142,7747,57,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332,142,7784,1256,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,7821,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,This example found all the area codes greater than (but not including),142,7858,497,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,300,639,7861,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.To include,670,7858,81,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,300,751,7861,32,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", type this:",783,7858,72,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,7898,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,7936,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,7936,62,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,243,7936,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,259,7936,101,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,360,7936,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE AREACODE >= 300;,376,7936,180,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332,556,7936,1513,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,7973,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,With this change you get area codes starting at,142,8010,338,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,300,480,8013,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and going up. Youcould achieve the same results with the statement,511,8010,487,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,AREACODE > 299,998,8013,117,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.,1115,8010,4,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,182,8054,54,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,Notice that no quotes surround,236,8054,223,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,300,459,8057,32,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,in this SQL statement. Number-defined fieldsnumber-defined fields do not require quotes.,491,8054,631,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Less Than (,142,8103,345,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"As you might expect, these comparison operators work the same way as",142,8142,518,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,>,660,8145,16,15,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and,676,8142,31,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,>=,707,8145,24,15,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"work, only in reverse:",731,8142,151,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,8183,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,8220,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,8220,62,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,243,8220,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,267,8220,101,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,368,8220,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE STATE < 'LA';,384,8220,156,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,8257,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- ------BUNDY AL 100 555-1111 IL 22333MERRICK BUD 300 555-6666 CO 80212BULHER FERRIS 345 555-3223 IL 23332,142,8294,1529,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,182,8335,54,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,How did,236,8335,62,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,STATE,298,8338,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,get changed to,345,8335,111,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,ST,456,8338,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,"? Because the column has only two characters, the column name is shortened to two characters in the returned rows. If the column name had been",479,8335,1047,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,COWS,1526,8338,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,", it would come out",1565,8335,138,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,CO,1703,8338,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,. The widths of,1726,8335,108,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,AREACODE,1834,8338,70,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,and,1904,8335,32,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,PHONE,1936,8338,46,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,"are wider than their column names, so they are not truncated.",1982,8335,436,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,8385,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Wait a minute. Did you just use,142,8422,224,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,<,366,8426,16,15,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"on a character field? Of courseyou did. You can use any of these operators on any data type. The result varies bydata type. For example, use lowercase in the following state search:",382,8422,1282,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,8463,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,8500,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,8500,62,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,243,8500,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,259,8500,101,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,360,8500,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE STATE < 'la';,376,8500,156,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MEZA AL 200 555-2222 UKMERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332,532,8500,1927,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,8537,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Uppercase is usually sorted before lowercase; therefore, the uppercase codes returnedare less than",142,8574,713,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,'la',855,8577,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,". Again, to be safe, check your implementation.",894,8574,332,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,TIP:,182,8618,35,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,"To be sure of how these operators will behave, check your language tables. Most PC implementations use the ASCII tables. Some other platforms use EBCDIC.",217,8618,1131,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"To include the state of Louisiana in the original search, type",142,8662,420,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,8702,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,8740,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,8740,70,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,251,8740,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,267,8740,101,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,368,8740,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE STATE <= 'LA';,384,8740,164,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332,548,8740,1747,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Inequalities (< > or !=),142,8776,166,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"When you need to find everything except for certain data, use the inequality symbol,which can be either",142,8815,736,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,< >,878,8818,32,15,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,or,910,8815,18,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,!=,928,8818,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", depending on your SQL implementation.For example, to find everyone who is not",952,8815,587,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,AL,1539,8818,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", type this:",1562,8815,73,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,8855,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,8892,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,8892,62,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,243,8892,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,267,8892,101,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,368,8892,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE FIRSTNAME <> 'AL';,384,8892,195,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,8930,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332,142,8967,1513,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"To find everyone not living in California, type this:",142,8998,347,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,9038,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,9075,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,9075,62,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,243,9075,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,267,9075,101,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,368,9075,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE STATE != 'CA';,392,9075,164,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MEZA AL 200 555-2222 UKMERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332,556,9075,1926,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,182,9116,54,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,"Notice that both symbols,",236,9116,184,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,<>,420,9119,24,15,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,and,444,9116,31,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,!=,475,9119,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,", can express ""not equals.""",498,9116,190,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,Character Operators,142,9163,182,21,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"You can use character operators to manipulate the way character strings are represented,both in the output of data and in the process of placing conditions on data to beretrieved. This section describes two character operators: the",142,9204,1632,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,LIKE,1774,9207,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"operatorand the || operator, which conveys the concept of character concatenation.",1813,9204,587,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,I Want to Be Like,142,9246,133,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font tt span  ,LIKE,275,9243,48,23,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"What if you wanted to select parts of a database that fit a pattern but weren'tquite exact matches? You could use the equal sign and run through all the possiblecases, but that process would be boring and time-consuming. Instead, you could use",142,9287,1730,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,LIKE,1872,9290,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. Consider the following:,1911,9287,171,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,9327,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,9364,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PARTS;,173,9364,164,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,9402,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME LOCATION PARTNUMBER-------------- -------------- ----------APPENDIX MID-STOMACH 1ADAMS APPLE THROAT 2HEART CHEST 3SPINE BACK 4ANVIL EAR 5KIDNEY MID-BACK 6,142,9439,1240,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"How can you find all the parts located in the back? A quick visual inspectionof this simple table shows that it has two parts, but unfortunately the locationshave slightly different names. Try this:",142,9470,1349,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,9510,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,9547,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,9547,62,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,243,9547,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM PARTS,267,9547,93,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,360,9547,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE LOCATION LIKE '%BACK%';,384,9547,234,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME LOCATION PARTNUMBER-------------- -------------- ----------SPINE BACK 4KIDNEY MID-BACK 6,618,9547,725,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,9584,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,You can see the use of the percent sign (,142,9621,295,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,%,437,9624,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,) in the statement after,452,9621,165,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,LIKE,617,9624,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.When used inside a,656,9621,149,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,LIKE,805,9624,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"expression, % is a wildcard. What you asked forwas any occurrence of",844,9621,505,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,BACK,1349,9624,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,in the column location. If you queried,1388,9621,260,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,9662,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,9699,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PARTS,181,9699,148,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE LOCATION LIKE 'BACK%';,368,9699,219,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,you would get any occurrence that started with,142,9730,334,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,BACK,476,9733,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,:,515,9730,5,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,OUTPUT:,142,9770,57,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME LOCATION PARTNUMBER-------------- -------------- ----------SPINE BACK 4,142,9807,593,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,If you queried,142,9838,97,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,9878,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,9915,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PARTS,181,9915,148,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE NAME LIKE 'A%';,360,9915,172,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,you would get any name that starts with,142,9946,285,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,A,427,9949,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,:,443,9946,5,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,OUTPUT:,142,9987,57,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME LOCATION PARTNUMBER-------------- -------------- ----------APPENDIX MID-STOMACH 1ADAMS APPLE THROAT 2ANVIL EAR 5,142,10024,913,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Is,142,10055,17,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,LIKE,159,10058,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,case sensitive? Try the next query to find out.,198,10055,321,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,10095,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,10132,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PARTS WHERE NAME LIKE 'a%';,181,10132,320,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,no rows selected,501,10132,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,10169,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The answer is yes. References to data are always case sensitive.,142,10206,463,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,What if you want to find data that matches all but one character in a certainpattern? In this case you could use a different type of wildcard: the underscore.,142,10240,1088,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Underscore (_),142,10280,113,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The underscore is the single-character wildcard. Using a modified version of thetable,142,10319,604,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FRIENDS,746,10322,62,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", type this:",808,10319,73,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,10359,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,10396,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FRIENDS;,181,10396,172,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,10434,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MEZA AL 200 555-2222 UKMERRICK UD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332PERKINS ALTON 911 555-3116 CA 95633BOSS SIR 204 555-2345 CT 95633,142,10471,2426,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,To find all the records where,142,10502,205,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,STATE,347,10505,46,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,starts with,393,10502,77,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,C,470,10505,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", type thefollowing:",485,10502,133,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,10542,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,10579,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,10579,70,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,251,10579,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,267,10579,101,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,368,10579,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE STATE LIKE 'C_';,392,10579,179,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MERRICK BUD 300 555-6666 CO 80212PERKINS ALTON 911 555-3116 CA 95633BOSS SIR 204 555-2345 CT 95633,142,10607,1521,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,You can use several underscores in a statement:,142,10638,345,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,10678,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,10715,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,10715,70,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,251,10715,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,275,10715,109,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,384,10715,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE PHONE LIKE'555-6_6_';,399,10715,219,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456,142,10743,1240,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The previous statement could also be written as follows:,142,10774,397,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,10815,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,10852,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,10852,70,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,251,10852,8,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,259,10852,109,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,368,10852,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE PHONE LIKE '555-6%';,384,10852,211,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456,595,10852,1240,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Notice that the results are identical. These two wildcards can be combined. Thenext example finds all records with,142,10883,810,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,L,952,10886,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,as the second character:,968,10883,175,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,10923,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,10960,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,10960,62,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,243,10960,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,259,10960,109,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,368,10960,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE FIRSTNAME LIKE '_L%';,384,10960,218,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MEZA AL 200 555-2222 UKPERKINS ALTON 911 555-3116 CA 95633,602,10960,1444,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,Concatenation (||),142,10996,135,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The,142,11036,32,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,||,174,11039,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,(double pipe) symbol concatenates two strings. Try this:,197,11036,394,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,11076,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,11113,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT FIRSTNAME || LASTNAME ENTIRENAME,181,11113,312,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,493,11113,8,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS;,501,11113,109,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font b span  ,OUTPUT:,142,11150,57,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ENTIRENAME----------------------AL BUNDYAL MEZABUD MERRICKJD MASTFERRIS BULHERALTON PERKINSSIR BOSS,142,11187,772,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,7 rows selected.,142,11215,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,11252,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Notice that,142,11290,81,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,||,223,11293,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is used instead of,246,11290,129,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,+,375,11293,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. If you use,391,11290,83,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,+,474,11293,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"totry to concatenate the strings, the SQL interpreter used for this example (PersonalOracle7) returns the following error:",489,11290,845,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,11330,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,11367,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT FIRSTNAME + LASTNAME ENTIRENAME FROM FRIENDS;,181,11367,406,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ERROR:ORA-01722: invalid number,587,11367,242,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,It is looking for two numbers to add and throws the error,142,11398,400,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,invalid number,542,11401,117,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,when it doesn't find any.,659,11398,170,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,182,11442,54,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,Some implementations of SQL use the plus sign to concatenate strings. Check your implementation.,236,11442,709,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Here's a more practical example using concatenation:,142,11486,380,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,11526,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,11563,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT LASTNAME || ',' || FIRSTNAME NAME FROM FRIENDS;",181,11563,421,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,"NAME------------------------------------------------------BUNDY , ALMEZA , ALMERRICK , BUDMAST , JDBULHER , FERRISPERKINS , ALTONBOSS , SIR",602,11563,1085,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,7 rows selected.,142,11591,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,11629,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,This statement inserted a comma between the last name and the first name.,142,11666,539,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,182,11710,54,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,"Notice the extra spaces between the first name and the last name in these examples. These spaces are actually part of the data. With certain data types, spaces are right-padded to values less than the total length allocated for a field. See your implementation. Data types will be discussed on Chapter 9, ""Creating and Maintaining Tables.""",182,11710,2297,35,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"So far you have performed the comparisons one at a time. That method is fine forsome problems, but what if you need to find all the people at work with last namesstarting with P who have less than three days of vacation time?",142,11772,1602,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,Logical Operators,142,11808,160,21,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,logical operatorsLogical operators separate two or more conditions in the,142,11849,520,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHERE,662,11852,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause of an SQL statement.,709,11849,201,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Vacation time is always a hot topic around the workplace. Say you designed a tablecalled,142,11883,636,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,VACATION,778,11886,70,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,for the accounting department:,848,11883,217,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,11923,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,11960,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM VACATION;,181,11960,179,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,11998,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME EMPLOYEENUM YEARS LEAVETAKEN-------------- ----------- --------- ----------ABLE 101 2 4BAKER 104 5 23BLEDSOE 107 8 45BOLIVAR 233 4 80BOLD 210 15 100COSTALES 211 10 78,142,12035,1365,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,142,12063,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Suppose your company gives each employee 12 days of leave each year. Using whatyou have learned and a logical operator, find all the employees whose names startwith",142,12094,1221,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,B,1363,12097,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and who have more than,1379,12094,180,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,50,1559,12097,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,days of leave coming.,1583,12094,155,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,12134,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,12171,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"SELECT LASTNAME,",181,12171,133,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,314,12171,7,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,YEARS * 12 - LEAVETAKEN REMAINING,321,12171,274,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,594,12171,7,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM VACATION,602,12171,117,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,4,719,12171,8,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE LASTNAME LIKE 'B%',727,12171,195,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,5,922,12171,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,AND,938,12171,31,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6,969,12171,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,YEARS * 12 - LEAVETAKEN > 50;,992,12171,234,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME REMAINING-------------- ---------BLEDSOE 51BOLD 80,1226,12171,461,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,12208,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,This query is the most complicated you have done so far. The,142,12246,440,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,582,12248,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,clause(lines 1 and 2) uses arithmetic operators to determine how many days of leave eachemployee has remaining. The normal precedence computes,637,12246,1070,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,YEARS * 12 - LEAVETAKEN,1707,12248,187,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.(A clearer approach would be to write,1894,12246,273,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,(YEARS * 12) - LEAVETAKEN,2167,12248,203,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.),2370,12246,10,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,LIKE,142,12282,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is used in line 4 with the wildcard,181,12280,237,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,%,418,12282,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,to find all the,434,12280,95,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,B,529,12282,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,names. Line 6 uses the,545,12280,170,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,>,715,12282,15,15,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,to find all occurrences greater than,730,12280,251,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,50,981,12282,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.,1005,12280,4,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The new element is on line 5. You used the logical operator,142,12314,423,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,AND,565,12316,32,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,to ensurethat you found records that met the criteria in lines 4 and 6.,597,12314,483,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,AND,142,12353,35,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,AND,142,12395,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,means that the expressions on both sides must be true to return,173,12392,457,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,TRUE,630,12395,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,".If either expression is false,",669,12392,203,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,AND,872,12395,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,returns,903,12392,55,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FALSE,958,12395,46,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,". For example,to find out which employees have been with the company for",1004,12392,536,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,5,1540,12395,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,years or lessand have taken more than,1555,12392,281,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,20,1836,12395,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"days leave, try this:",1860,12392,137,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,12432,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,12469,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT LASTNAME,181,12469,117,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,298,12469,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM VACATION,321,12469,110,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,431,12469,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE YEARS <= 5,446,12469,141,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,4,587,12469,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,AND,610,12469,39,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,5,649,12469,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,LEAVETAKEN > 20 ;,673,12469,140,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,12507,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME--------BAKERBOLIVAR,142,12544,218,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,If you want to know which employees have been with the company for,142,12575,500,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,5,642,12578,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,years or more and have taken less than,657,12575,286,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,50,943,12578,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"percent of their leave, you couldwrite:",966,12575,265,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,12615,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,12652,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT LASTNAME WORKAHOLICS,181,12652,211,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,392,12652,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM VACATION,407,12652,117,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,524,12652,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE YEARS >= 5,548,12652,140,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,4,688,12652,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,AND,704,12652,39,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,5,743,12652,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,((YEARS *12)-LEAVETAKEN)/(YEARS * 12) < 0.50;,758,12652,359,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,WORKAHOLICS---------------BAKERBLEDSOE,1117,12652,297,15,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Check these people for burnout. Also check out how we used the,142,12683,464,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,AND,606,12686,32,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,tocombine these two conditions.,638,12683,227,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,OR,142,12722,24,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,You can also use,142,12762,126,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,OR,268,12765,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"to sum up a series of conditions. If any of the comparisonsis true,",291,12762,465,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,OR,756,12765,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,returns,780,12762,54,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,TRUE,834,12765,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,". To illustrate the difference, conditionsrunthe last query with",873,12762,428,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,OR,1301,12765,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,instead of with,1324,12762,107,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,AND,1431,12765,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,:,1462,12762,5,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,12802,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,12839,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT LASTNAME WORKAHOLICS,181,12839,218,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,399,12839,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM VACATION,415,12839,117,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,532,12839,8,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE YEARS >= 5,540,12839,140,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,4,680,12839,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,OR,696,12839,23,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,5,719,12839,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,((YEARS *12)-LEAVETAKEN)/(YEARS * 12) >= 0.50;,735,12839,367,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,12876,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,WORKAHOLICS---------------ABLEBAKERBLEDSOEBOLDCOSTALES,142,12913,421,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,12950,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"The original names are still in the list, but you have three new entries (whowould probably resent being called workaholics). These three new names made the listbecause they satisfied one of the conditions.",142,12988,1460,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,OR,1602,12991,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,requires that only oneof the conditions be true in order for data to be returned.,1625,12988,551,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,NOT,142,13027,34,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NOT,142,13069,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,means just that. If the condition it applies to evaluates to,173,13066,402,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,TRUE,575,13069,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,",",614,13066,9,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NOT,623,13069,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,make it,654,13066,56,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FALSE,710,13069,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,. If the condition after the,757,13066,181,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NOT,938,13069,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is,969,13066,16,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FALSE,985,13069,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,",it becomes",1032,13066,86,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,TRUE,1118,13069,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,". For example, the following",1157,13066,200,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,1357,13069,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,returns theonly two names not beginning with,1412,13066,325,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,B,1737,13069,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,in the table:,1753,13066,83,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,13106,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,13144,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,13144,62,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,243,13144,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM VACATION,267,13144,117,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,384,13144,8,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE LASTNAME NOT LIKE 'B%';,392,13144,234,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font b span  ,OUTPUT:,142,13181,57,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME EMPLOYEENUM YEARS LEAVETAKEN-------------- ----------- -------- ----------ABLE 101 2 4COSTALES 211 10 78,142,13218,882,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NOT,142,13252,31,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,can also be used with the operator,173,13249,249,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,IS,422,13252,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,when applied to,446,13249,116,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,562,13252,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.Recall the,601,13249,80,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,PRICES,681,13252,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,table where we put a,736,13249,152,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,888,13252,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,value in the,927,13249,86,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,WHOLESALE,1013,13252,78,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,column opposite the item,1091,13249,183,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,ORANGES,1274,13252,62,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.,1336,13249,4,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,13289,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,13326,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM PRICE;,181,13326,156,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ---------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45CHEESE .89APPLES .23ORANGES,337,13326,866,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,7 rows selected.,142,13354,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,To find the non-,142,13385,115,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,NULL,257,13388,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"items, type this:",296,13385,111,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,13425,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,13463,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,13463,70,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,251,13463,8,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM PRICE,259,13463,86,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,345,13463,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE WHOLESALE IS NOT NULL;,360,13463,227,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ---------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45CHEESE .89APPLES .23,587,13463,811,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6 rows selected.,142,13491,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,Set Operators,142,13524,124,21,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"On Chapter 1, ""Introduction to SQL,"" you learned that SQL is based on thetheory of sets. The following sections examine set operators.",142,13565,956,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,UNION and UNION ALL,142,13604,175,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,UNION,142,13646,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,returns the results of two queries minus the duplicate rows. Thefollowing two tables represent the rosters of teams:,189,13644,810,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,13684,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,13721,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FOOTBALL;,181,13721,179,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font b span  ,OUTPUT:,142,13758,57,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME--------------------ABLEBRAVOCHARLIEDECONEXITORFUBARGOOBER,142,13795,484,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,7 rows selected.,142,13823,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,INPUT:,142,13860,43,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,13898,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM SOFTBALL;,181,13898,179,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,13935,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME--------------------ABLEBAKERCHARLIEDEANEXITORFALCONERGOOBER,142,13972,499,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,7 rows selected.,142,14000,125,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,How many different people play on one team or another?,142,14031,404,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,14071,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,14108,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT NAME FROM SOFTBALL,181,14108,203,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,384,14108,8,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,UNION,392,14108,46,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,438,14108,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT NAME FROM FOOTBALL;,454,14108,211,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME--------------------ABLEBAKERBRAVOCHARLIEDEANDECONEXITORFALCONERFUBARGOOBER,665,14108,616,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,10 rows selected.,142,14136,133,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,UNION,142,14170,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,returns 10 distinct names from the two lists. How many names areon both lists (including duplicates)?,189,14167,717,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,14207,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,14245,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT NAME FROM SOFTBALL,181,14245,203,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,384,14245,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,UNION ALL,399,14245,86,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,485,14245,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT NAME FROM FOOTBALL;,509,14245,210,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME--------------------ABLEBAKERCHARLIEDEANEXITORFALCONERGOOBERABLEBRAVOCHARLIEDECONEXITORFUBARGOOBER,719,14245,796,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,14 rows selected.,142,14273,133,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,14310,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The combined list--courtesy of the,142,14347,245,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,UNION ALL,387,14350,78,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,statement--has 14 names.,465,14347,191,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,UNION ALL,656,14350,78,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,works just like,734,14347,104,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,UNION,838,14350,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,except it does not eliminate duplicates.Now show me a list of players who are on both teams. You can't do that with,885,14347,817,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,UNION,1702,14350,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,--youneed to learn,1749,14347,134,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,INTERSECT,1883,14350,79,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,.,1962,14347,4,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,INTERSECT,142,14386,91,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,INTERSECT,142,14428,78,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,returns only the rows found by both queries. The next,220,14425,382,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,602,14428,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,statement shows the list of players who play on both teams:,657,14425,422,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,14466,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,14503,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FOOTBALL,181,14503,172,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,353,14503,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,INTERSECT,376,14503,78,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,454,14503,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM SOFTBALL;,470,14503,187,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,14540,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME--------------------ABLECHARLIEEXITORGOOBER,142,14577,367,15,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,14614,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,In this example,142,14651,112,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,INTERSECT,254,14654,78,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,finds the short list of players who are onboth teams by combining the results of the two,332,14651,616,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,948,14654,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,statements.,1003,14651,83,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h4 font span  ,MINUS (Difference),142,14691,145,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,Minus,142,14733,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,returns the rows from the first query that were not present inthe second. For example:,189,14730,605,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,14770,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,14807,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FOOTBALL,181,14807,179,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,360,14807,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,MINUS,384,14807,47,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,431,14807,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM SOFTBALL;,454,14807,187,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,14845,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME--------------------BRAVODECONFUBAR,142,14882,304,15,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,14919,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"The preceding query shows the three football players who are not on the softballteam. If you reverse the order, you get the three softball players who aren't onthe football team:",142,14956,1240,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,14996,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,15033,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM SOFTBALL,181,15033,172,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,353,15033,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,MINUS,376,15033,55,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,431,15033,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT * FROM FOOTBALL;,454,15033,187,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,15071,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,NAME--------------------BAKERDEANFALCONER,142,15108,320,15,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,Miscellaneous Operators: IN and BETWEEN,142,15141,390,21,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The two operators,142,15182,133,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,IN,275,15185,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and,299,15182,31,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,BETWEEN,330,15185,62,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"provide a shorthand for functionsyou already know how to do. If you wanted to find friends in Colorado, California,and Louisiana, you could type the following:",392,15182,1113,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT:,142,15222,43,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,15260,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,15260,70,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,251,15260,8,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,259,15260,109,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,368,15260,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE STATE= 'CA',392,15260,148,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,4,540,15260,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,OR,556,15260,31,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,5,587,15260,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,STATE ='CO',602,15260,102,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,6,704,15260,15,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,OR,719,15260,32,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,7,751,15260,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,STATE = 'LA';,774,15260,109,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 font span  ,OUTPUT:,142,15297,57,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456PERKINS ALTON 911 555-3116 CA 95633,142,15334,1513,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Or you could type this:,142,15365,159,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,15405,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,15442,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,15442,70,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,251,15442,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM FRIENDS,267,15442,109,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,376,15442,8,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"WHERE STATE IN('CA','CO','LA');",384,15442,250,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----MERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456PERKINS ALTON 911 555-3116 CA 95633,142,15470,1513,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,ANALYSIS:,142,15507,70,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,The second example is shorter and more readable than the first. You never knowwhen you might have to go back and work on something you wrote months ago.,142,15545,1142,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,IN,1284,15548,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"also works with numbers. Consider the following, where the column",1307,15545,482,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,AREACODE,1789,15548,70,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,is a number:,1859,15545,88,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,15585,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,15622,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,15622,70,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,251,15622,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,FROM FRIENDS,282,15622,94,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,376,15622,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,"WHERE AREACODE IN(100,381,204);",399,15622,250,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MAST JD 381 555-6767 LA 23456BOSS SIR 204 555-2345 CT 95633,649,15622,1451,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,If you needed a range of things from the,142,15653,288,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,PRICE,430,15656,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"table, you could writethe following:",477,15653,244,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,15693,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,15730,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,15730,70,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,251,15730,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM PRICE,267,15730,93,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,360,15730,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE WHOLESALE > 0.25,376,15730,180,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,4,556,15730,23,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,AND,579,15730,31,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,5,610,15730,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHOLESALE < 0.75;,626,15730,140,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ---------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45,766,15730,656,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Or using,142,15761,65,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,BETWEEN,207,15764,62,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,", you would write this:",269,15761,153,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h5 span  ,INPUT/OUTPUT:,142,15801,101,15,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,SQL>,142,15839,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,SELECT *,181,15839,62,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,2,243,15839,24,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,FROM PRICE,267,15839,93,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,3,360,15839,16,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font b span  ,WHERE WHOLESALE BETWEEN 0.25 AND 0.75;,376,15839,304,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,ITEM WHOLESALE-------------- ---------TOMATOES .34POTATOES .51BANANAS .67TURNIPS .45,680,15839,656,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"Again, the second example is a cleaner, more readable solution than the first.",142,15870,547,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote font b span  ,NOTE:,182,15914,54,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,If a,236,15914,27,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,WHOLESALE,263,15917,78,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,value of,341,15914,60,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,0.25,401,15917,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,existed in the,440,15914,99,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,PRICE,539,15917,47,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,"table, that record would have been retrieved also. Parameters used in the",586,15914,525,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote tt span  ,BETWEEN,1111,15917,62,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote span  ,operator are inclusive parametersinclusive.,1173,15914,304,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h2 font span  ,Summary,142,15961,109,27,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"At the beginning of Chapter 3, you knew how to use the basic",142,16009,439,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,SELECT,581,16012,55,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,and,636,16009,31,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FROM,667,16012,39,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"clauses. Now you know how to use a host of operators that enable you to fine-tuneyour requests to the database. You learned how to use arithmetic, comparison, character,logical, and set operators. This powerful set of tools provides the cornerstone ofyour SQL knowledge.",142,16009,2411,35,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h2 font span  ,Q&A,142,16065,53,27,0,19
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd b span  ,Q How does all of this information apply to me if I am not using SQL from the command line as depicted in the examples?,182,16113,924,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p b span  ,A,182,16147,15,17,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,"Whether you use SQL in COBOL as Embedded SQL or in Microsoft's Open Database Connectivity (ODBC), you use the same basic constructions. You will use what you learned toChapter and yesterChapter repeatedly as you work with SQL.",197,16147,1707,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p b span  ,Q,182,16181,17,17,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p b span  ,Why are you constantly telling me to check my implementation? I thought there was a standard!,199,16181,730,17,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p b span  ,A,182,16215,15,17,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,"There is an ANSI standard (the most recent version is 1992); however, most vendors modify it somewhat to suit their databases. The basics are similar if not identical, and each instance has extensions that other vendors copy and improve. We have chosen to use ANSI as a starting point but point out the differences as we go along.",197,16215,2347,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td h2 font span  ,Workshop,142,16253,117,27,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,"The Workshop provides quiz questions to help solidify your understanding of thematerial covered, as well as exercises to provide you with experience in using whatyou have learned. Try to answer the quiz and exercise questions before checking theanswers in Appendix F, ""Answers to Quizzes and Exercises.""",142,16301,2186,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,Quiz,142,16338,41,21,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,Use the,142,16378,60,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td p tt span  ,FRIENDS,202,16381,62,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td p span  ,table to answer the following questions.,264,16378,279,17,1,18
+html body text table tbody tr td table tbody tr td center table tbody tr td pre font span  ,LASTNAME FIRSTNAME AREACODE PHONE ST ZIP-------------- -------------- --------- -------- -- -----BUNDY AL 100 555-1111 IL 22333MEZA AL 200 555-2222 UKMERRICK BUD 300 555-6666 CO 80212MAST JD 381 555-6767 LA 23456BULHER FERRIS 345 555-3223 IL 23332PERKINS ALTON 911 555-3116 CA 95633BOSS SIR 204 555-2345 CT 95633,142,16412,2434,15,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd b span  ,1.,182,16443,18,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd span  ,Write a query that returns everyone in the database whose last name begins with,200,16443,578,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd tt span  ,M,778,16446,15,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd span  ,.,793,16443,5,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p b span  ,2.,182,16477,18,17,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,Write a query that returns everyone who lives in Illinois with a first name of,200,16477,530,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p tt span  ,AL,730,16480,23,15,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,.,753,16477,4,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p b span  ,3.,182,16511,18,17,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,Given two tables (,200,16511,132,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p tt span  ,PART1,332,16514,47,15,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,and,379,16511,31,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p tt span  ,PART2,410,16514,47,15,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,) containing columns named,457,16511,205,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p tt span  ,PARTNO,662,16514,54,15,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,", how would you find out which part numbers are in both tables? Write the query.",716,16511,568,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p b span  ,4.,182,16545,18,17,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,What shorthand could you use instead of,200,16545,294,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p tt span  ,WHERE a >= 10 AND a <=30,494,16548,195,15,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,?,689,16545,9,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p b span  ,5.,182,16579,18,17,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd p span  ,What will this query return?,200,16579,193,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font b span  ,SELECT FIRSTNAMEFROM FRIENDSWHERE FIRSTNAME = 'AL' AND LASTNAME = 'BULHER';,182,16613,585,15,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td h3 font span  ,Exercises,142,16647,87,21,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd b span  ,1.,182,16688,18,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd span  ,Using the,200,16688,72,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd tt span  ,FRIENDS,272,16691,62,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd span  ,"table, write a query that returns the following:",334,16688,319,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,NAME ST------------------- --AL FROM IL,182,16722,304,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote h5 font span  ,INPUT:,182,16759,43,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,SQL>,182,16796,39,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font b span  ,"SELECT (FIRSTNAME || 'FROM') NAME, STATE",221,16796,320,15,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,2,541,16796,15,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font b span  ,FROM FRIENDS,556,16796,110,15,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,3,666,16796,8,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font b span  ,WHERE STATE = 'IL',674,16796,156,15,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,4,830,16796,7,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font b span  ,AND,837,16796,32,15,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,5,869,16796,23,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font b span  ,LASTNAME = 'BUNDY';,892,16796,148,15,1,21
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote h5 font span  ,OUTPUT:,182,16833,57,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,NAME ST------------------- --AL FROM IL,182,16871,304,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd b span  ,2.,182,16902,18,17,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd span  ,Using the,200,16902,72,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd tt span  ,FRIENDS,272,16905,62,15,1,20
+html body text table tbody tr td table tbody tr td center table tbody tr td dl dd span  ,"table, write a query that returns the following:",334,16902,319,17,1,19
+html body text table tbody tr td table tbody tr td center table tbody tr td blockquote pre font span  ,"NAME PHONE-------------------------- -------------MERRICK, BUD 300-555-6666MAST, JD 381-555-6767BULHER, FERRIS 345-555-3223",182,16936,960,15,1,20
+html body text table tbody tr td table tbody tr td center center font span  ,|,1133,17070,5,11,0,15
+html body text table tbody tr td table tbody tr td center center font a font b span  ,About us,1138,17070,47,11,0,18
+html body text table tbody tr td table tbody tr td center center font font b span  ,|,1184,17070,5,11,0,17
+html body text table tbody tr td table tbody tr td center center font font b a font b span  ,Categories,1190,17070,55,11,0,20
+html body text table tbody tr td table tbody tr td center center font font b font b span  ,|,1245,17070,5,11,0,19
+html body text table tbody tr td table tbody tr td center center font font b font b a font b span  ,New Releases,1250,17070,70,11,0,22
+html body text table tbody tr td table tbody tr td center center font font b font b font b span  ,|,1320,17070,5,11,0,21
+html body text table tbody tr td table tbody tr td center center font font b font b font b a font b span  ,Most Popular,1325,17070,66,11,0,24
+html body text table tbody tr td table tbody tr td center center font font b font b font b font b span  ,|,1391,17070,6,11,0,23
+html body text table tbody tr td table tbody tr td center center font font b font b font b font b a font b span  ,Web Tutorial,1397,17070,62,11,0,26
+html body text table tbody tr td table tbody tr td center center font font b font b font b font b font b span  ,|,1459,17070,6,11,0,25
+html body text table tbody tr td table tbody tr td center center font font b font b font b font b font b a font b span  ,Free Download,1465,17070,74,11,0,28
+html body text table tbody tr td table tbody tr td center center font font b font b font b font b font b font b span  ,|,1539,17070,6,11,0,27
+html body text table tbody tr td table tbody tr td center center font font b font b font b font b font b font b a font b span  ,Drivers,1545,17070,37,11,0,30
+html body text table tbody tr td table tbody tr td center center font font b font b font b font b font b font b font b span  ,|,1582,17070,3,11,0,29
+html body text table tbody tr td font b span  ,ï¿½ 2004 Soft Lookup Corp.,1148,17098,176,15,0,10
+html body text table tbody tr td font b a font span  ,Privacy Statement,1324,17098,113,15,0,12

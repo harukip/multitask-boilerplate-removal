@@ -1,0 +1,64 @@
+tag,content,x,y,width,height,label,depth
+html body text div div a span  ,Skip Navigation,8,8,104,17,0,7
+html body text div div div a span  ,Home,8,44,43,17,0,8
+html body text div div div span  ,|,51,44,6,17,0,7
+html body text div div div a span  ,A-Z index,57,44,71,17,0,8
+html body text div div div span  ,|,128,44,7,17,0,7
+html body text div div div a span  ,FAQ,135,44,35,17,0,8
+html body text div div div span  ,|,170,44,6,17,0,7
+html body text div div div a span  ,Accessibility,176,44,88,17,0,8
+html body text div div div span  ,|,264,44,7,17,0,7
+html body text div div div a span  ,Site map,271,44,60,17,0,8
+html body text div div div span  ,|,331,44,7,17,0,7
+html body text div div div a span  ,Contact us,338,44,72,17,0,8
+html body text div div div span  ,|,410,44,7,17,0,7
+html body text div div div a span  ,Text only,417,44,65,17,0,8
+html body text div div div span  ,|,482,44,7,17,0,7
+html body text div div div a span  ,Change contrast,489,44,108,17,0,8
+html body text div div div span  ,|,597,44,7,17,0,7
+html body text div div div a span  ,Print friendly version,604,44,137,17,0,8
+html body text div div div form label span  ,Search,8,62,44,17,0,9
+html body text div div div p a span  ,Business,8,96,61,17,0,9
+html body text div div div p span span  ,|,69,96,3,17,0,9
+html body text div div div p a span  ,Community and living,8,130,149,17,0,9
+html body text div div div p span span  ,|,157,130,3,17,0,9
+html body text div div div p a span  ,Council and democracy,8,164,156,17,0,9
+html body text div div div p span span  ,|,164,164,3,17,0,9
+html body text div div div p a span  ,Education,8,198,69,17,0,9
+html body text div div div p span span  ,|,77,198,3,17,0,9
+html body text div div div p a span  ,Environment,8,232,88,17,0,9
+html body text div div div p span span  ,|,96,232,3,17,0,9
+html body text div div div p a span  ,Housing,8,266,58,17,0,9
+html body text div div div p span span  ,|,66,266,3,17,0,9
+html body text div div div p a span  ,Jobs and careers,8,300,109,17,0,9
+html body text div div div p span span  ,|,117,300,3,17,0,9
+html body text div div div p a span  ,Leisure and culture,8,334,128,17,0,9
+html body text div div div p span span  ,|,136,334,3,17,0,9
+html body text div div div p a span  ,News,8,368,40,17,0,9
+html body text div div div p span span  ,|,48,368,4,17,0,9
+html body text div div div p a span  ,Policing and public safety,8,402,171,17,0,9
+html body text div div div p span span  ,|,179,402,3,17,0,9
+html body text div div div p a span  ,Social care and health,8,436,145,17,0,9
+html body text div div div p span span  ,|,153,436,3,17,0,9
+html body text div div div p a span  ,Transport and streets,8,470,138,17,0,9
+html body text div div div p span span  ,|,146,470,3,17,0,9
+html body text div div div a span  ,Home,8,504,39,17,0,8
+html body text div div div h1 span  ,Page not found,8,543,206,36,0,8
+html body text div div div p span  ,The page you requested cannot be found. Please try,8,602,334,17,0,8
+html body text div div div p a span  ,searching our website,342,602,144,17,0,9
+html body text div div div p span  ,or using the,486,602,78,17,0,8
+html body text div div div p a span  ,A-Z index,564,602,71,17,0,9
+html body text div div div p span  ,.,634,602,4,17,0,8
+html body text div div div ul li b span  ,"Many web addresses have changed on our new website, please update your favourites / bookmarks",48,636,672,17,0,10
+html body text div div div ul li span  ,"If you followed a link from another page on our website, please",48,654,411,17,0,9
+html body text div div div ul li a span  ,email the web manager,459,654,153,17,0,10
+html body text div div div ul li span  ,giving the address of the page which has the link,48,654,721,35,0,9
+html body text div div div ul li span  ,"If you followed the link from another website, please use the back button on your browser and inform the website that the link is no longer valid",48,690,728,35,0,9
+html body text div div div ul li span  ,"If you typed the web address yourself, please check the address and spelling",48,726,487,17,0,9
+html body text div div div p span  ,This page was last updated on 07 November 2006,8,760,320,17,0,8
+html body text div div span  ,Â© Walsall Council 2006 |,8,794,165,17,0,6
+html body text div div a span  ,Copyright,173,794,69,17,0,7
+html body text div div span  ,|,242,794,7,17,0,6
+html body text div div a span  ,Disclaimer,249,794,75,17,0,7
+html body text div div span  ,|,324,794,7,17,0,6
+html body text div div a span  ,Privacy statement,331,794,114,17,0,7

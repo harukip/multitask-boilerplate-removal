@@ -1,0 +1,355 @@
+tag,content,x,y,width,height,label,depth
+html body text div div div div div a span  ,Log in,0,0,0,0,0,10
+html body text div div div div div span  ,|,0,0,0,0,0,9
+html body text div div div div div a span  ,Sign up,0,0,0,0,0,10
+html body text div div div div a span  ,Why join?,0,0,0,0,0,9
+html body text div div div form div label span  ,Remember me,0,0,0,0,0,10
+html body text div div div form div span  ,|,0,0,0,0,0,9
+html body text div div div form div a span  ,Forgot password?,0,0,0,0,0,10
+html body text div div div div span span  ,Welcome,0,0,0,0,0,9
+html body text div div div div span span  ,(,0,0,0,0,0,9
+html body text div div div div span a span  ,log out,0,0,0,0,0,10
+html body text div div div div span span  ,),0,0,0,0,0,9
+html body text div div div div a span  ,View profile,0,0,0,0,0,9
+html body text div div div div div form div span  ,Search:,8,97,48,17,0,11
+html body text div div div div div form select option  ,News,0,0,0,0,0,11
+html body text div div div div div form select option  ,All CNET,0,0,0,0,0,11
+html body text div div div div div form select option  ,The Web,0,0,0,0,0,11
+html body text div div div div div form div a span  ,Advanced,8,140,65,17,0,12
+html body text div div div div div form div a span  ,search,8,158,41,17,0,12
+html body text div div div div a span  ,Today on CNET,8,228,106,17,0,9
+html body text div div div div a span  ,Reviews,8,246,55,17,0,9
+html body text div div div div a span  ,News,8,264,36,17,0,9
+html body text div div div div a span  ,Downloads,8,282,73,17,0,9
+html body text div div div div a span  ,Tips & Tricks,8,300,88,17,0,9
+html body text div div div div a span  ,CNET TV,8,318,67,17,0,9
+html body text div div div div a span  ,Compare Prices,8,336,102,17,0,9
+html body text div div div div div div a span  ,Today on News,8,354,104,17,0,11
+html body text div div div div div div span  ,|,112,354,7,17,0,10
+html body text div div div div div div a span  ,Business Tech,119,354,96,17,0,11
+html body text div div div div div div span  ,|,215,354,7,17,0,10
+html body text div div div div div div a span  ,Cutting Edge,222,354,89,17,0,11
+html body text div div div div div div span  ,|,311,354,6,17,0,10
+html body text div div div div div div a span  ,Access,317,354,50,17,0,11
+html body text div div div div div div span  ,|,367,354,7,17,0,10
+html body text div div div div div div a span  ,Threats,374,354,52,17,0,11
+html body text div div div div div div span  ,|,426,354,7,17,0,10
+html body text div div div div div div a span  ,Media 2.0,433,354,69,17,0,11
+html body text div div div div div div span  ,|,502,354,7,17,0,10
+html body text div div div div div div a span  ,Markets,509,354,56,17,0,11
+html body text div div div div div div span  ,|,565,354,7,17,0,10
+html body text div div div div div div a span  ,Digital Life,572,354,80,17,0,11
+html body text div div div div div div span  ,|,652,354,7,17,0,10
+html body text div div div div div div a span  ,Blogs,659,354,41,17,0,11
+html body text div div div div div div span  ,|,700,354,7,17,0,10
+html body text div div div div div div a span  ,Extra,707,354,39,17,0,11
+html body text div div div div div div span  ,|,746,354,7,17,0,10
+html body text div div div div div div a span  ,My News,8,354,768,35,0,11
+html body text div div div div div div span  ,|,48,372,8,17,0,10
+html body text div div div div div div a span  ,RSS,56,372,28,17,0,11
+html body text div div div div div h1 span  ,Sun open-source license could mean Solaris-Linux barrier,8,411,685,73,1,10
+html body text div div div div div div span  ,New license likely will be used to govern Solaris OS. But it may inhibit cross-pollination between Solaris and Linux.,8,507,750,17,0,10
+html body text div div div div div div div div div div span  ,By,8,525,23,17,1,14
+html body text div div div div div div div div div div a span  ,Stephen Shankland,31,525,123,17,1,15
+html body text div div div div div div div div div div span  ,"Staff Writer, CNET News.com",8,543,196,17,1,14
+html body text div div div div div div div div div div span  ,"Published: December 2, 2004, 2:22 PM PST",8,561,284,17,1,14
+html body text div div div div div div div div div div a span  ,TalkBack,27,581,65,17,0,15
+html body text div div div div div div div div div div a span  ,E-mail,111,581,47,17,0,15
+html body text div div div div div div div div div div a span  ,Print,177,581,35,17,0,15
+html body text div div div div div div div div div div a span  ,del.icio.us,230,581,70,17,0,15
+html body text div div div div div div div div div div a span  ,Digg this,320,581,59,17,0,15
+html body text div div div div div div div div p b span  ,Sun Microsystems has quietly begun seeking official open-source status for a new software license that likely will be used to govern its Solaris operating system.,8,615,766,35,1,14
+html body text div div div div div div div div p span  ,But the license may inhibit cross-pollination between Solaris and Linux--a sacrifice Sun appears willing to make in its effort to attract developers and revitalize its version of Unix.,8,667,757,35,1,13
+html body text div div div div div div div div div div span  ,News.context,8,719,88,17,1,14
+html body text div div div div div div div div div b span  ,What's new:,8,755,86,17,1,14
+html body text div div div div div div div div div span  ,"Sidestepping existing open-source licenses, such as the GPL that governs the heart of Linux, Sun has proposed a new type of license that could cover its open-source release of Solaris.",8,773,750,35,1,13
+html body text div div div div div div div div div p b span  ,Bottom line:,8,825,85,17,1,15
+html body text div div div div div div div div div p span  ,"Sun hopes an open-source Solaris will attract developers and revitalize the OS. But the proposed license could hamper cross-pollination between Solaris and Linux and, as one commentator has it, add to a list of licenses that create ""lots of little lumps of software that can't be combined."" Sun, however, calls its license ""less burdensome"" and seems ready to sacrifice any benefits of Linux intermingling.",8,843,714,71,1,14
+html body text div div div div div div div div div p a span  ,More stories on open-source Solaris,8,931,231,17,1,15
+html body text div div div div div div div div p span  ,"On Wednesday evening, CNET News.com has learned, Sun submitted a",8,965,464,17,1,13
+html body text div div div div div div div div p a span  ,description,472,965,75,17,1,14
+html body text div div div div div div div div p span  ,of its,547,965,37,17,1,13
+html body text div div div div div div div div p a span  ,Common Development and Distribution License,8,965,752,35,1,14
+html body text div div div div div div div div p span  ,", or CDDL, to the",143,983,117,17,1,13
+html body text div div div div div div div div p a span  ,Open Source Initiative,260,983,149,17,1,14
+html body text div div div div div div div div p span  ,. The nonprofit group reviews licenses and bestows official open-source status on those that meet the,8,983,729,35,1,13
+html body text div div div div div div div div p a span  ,Open Source Definition,325,1001,157,17,1,14
+html body text div div div div div div div div p span  ,requirements.,482,1001,87,17,1,13
+html body text div div div div div div div div p span  ,"The CDDL lets programmers see, change and distribute source code for any programming project it governs. Unlike some open-source licenses, it requires that modifications be shared as open-source software.",8,1035,745,35,1,13
+html body text div div div div div div div div p span  ,"Sun hopes its open-source move will attract developers to Solaris and reinvigorate the operating system. Solaris waned in popularity with the Internet bubble burst and with the rise of Linux, which works better on widely used servers based on x86 processors such as Intel's Xeon.",8,1087,767,53,1,13
+html body text div div div div div div div div p span  ,"But if Sun chooses to release Solaris under the CDDL--and it hasn't committed to doing so--the choice likely will prevent direct cross-pollination between the Unix variant and its prime competitor, Linux. That sharing is one of the prime advantages of the open-source philosophy; making Solaris open-source raised the possibility that it could benefit from Linux features such as widespread hardware support, and Linux could gain from Solaris features such as multiprocessor abilities.",8,1157,763,89,1,13
+html body text div div div div div div div div p span  ,Sun's CDDL description addressed the difficulties of intermingling software covered by the CDDL with software covered by the,8,1263,724,35,1,13
+html body text div div div div div div div div p a span  ,General Public License,106,1281,153,17,1,14
+html body text div div div div div div div div p span  ,", or GPL--the license that governs Linux.",259,1281,264,17,1,13
+html body text div div div div div div div div p span  ,"""The CDDL is not expected to be compatible with the GPL, since it contains requirements that are not in the GPL,"" Claire Giordano of Sun's CDDL team said in its submission. ""Thus, it is likely that files released under the CDDL will not be able to be combined with files released under the GPL to create a larger program.""",8,1315,757,53,1,13
+html body text div div div div div div div div p span  ,"Open Source Initiative President Eric Raymond declined to comment yet on whether the license meets those criteria. But if the Open Source Initiative approves the license, the CDDL will join a",8,1385,747,35,1,13
+html body text div div div div div div div div p a span  ,list that already includes dozens,498,1403,209,17,1,14
+html body text div div div div div div div div p span  ,of licenses.,8,1403,712,35,1,13
+html body text div div div div div div div div p span  ,"This proliferation of open-source licenses is a problem, said Larry Rosen, an intellectual-property attorney who has advised OSI and who wrote ""Open Source Licensing: Software Freedom and Intellectual Property Law.""",8,1455,738,35,1,13
+html body text div div div div div div div div newselement newselement div h4 span  ,Now on News.com:,8,1512,130,17,0,16
+html body text div div div div div div div div newselement newselement div ul li a span  ,Year in review: Social networking catches fire,48,1551,296,17,0,18
+html body text div div div div div div div div newselement newselement div ul li a span  ,How I helped Spider-Man save Santa Claus,48,1569,280,17,0,18
+html body text div div div div div div div div newselement newselement div ul li a span  ,Crave: Digital pets for the dateless,48,1587,222,17,0,18
+html body text div div div div div div div div newselement newselement div ul li a span  ,Extra: Most memorable ads of 2006,48,1605,231,17,0,18
+html body text div div div div div div div div newselement newselement div ul li a span  ,Video: Goofiest tech moves of '06,48,1623,218,17,0,18
+html body text div div div div div div div div p span  ,"""What we end with up is...lots of little lumps of software that can't be combined,"" Rosen said in an interview. ""It is, in fact, a problem creating a commons of software if every company has its own commons.""",8,1657,754,35,1,13
+html body text div div div div div div div div p span  ,Sun wouldn't comment on whether,8,1709,227,17,1,13
+html body text div div div div div div div div p a span  ,Solaris 10,235,1709,69,17,1,14
+html body text div div div div div div div div p span  ,"will be covered by the CDDL. ""We're not drawing linkage between that and any of Sun's products,"" spokesman Russ Castronovo said.",8,1709,753,35,1,13
+html body text div div div div div div div div p span  ,"However, executives have said Sun will seek the blessing of the Open Source Initiative for the license, and the clock is ticking. Sun had",8,1761,760,35,1,13
+html body text div div div div div div div div div a span  ,CONTINUED,8,1813,93,17,0,14
+html body text div div div div div div div div div span  ,Page,8,1831,35,17,0,13
+html body text div div div div div div div div div span span  ,1,43,1831,12,17,0,14
+html body text div div div div div div div div div span  ,|,55,1831,7,17,0,13
+html body text div div div div div div div div div a span  ,2,62,1831,8,17,0,14
+html body text div div div div div div div div div div a span  ,TalkBack,27,1851,65,17,0,15
+html body text div div div div div div div div div div a span  ,E-mail,111,1851,47,17,0,15
+html body text div div div div div div div div div div a span  ,Print,177,1851,35,17,0,15
+html body text div div div div div div div div div div a span  ,del.icio.us,230,1851,70,17,0,15
+html body text div div div div div div div div div div a span  ,Digg this,320,1851,59,17,0,15
+html body text div div div div div div div div div div h3 span  ,Read more on this story's topics and companies,8,1888,378,21,0,15
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,48,1929,115,17,0,18
+html body text div div div div div div div div div div ul li span span  ,|,163,1929,7,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,170,1929,97,17,0,18
+html body text div div div div div div div div div div ul li a span  ,Open source,267,1929,81,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,48,1947,115,17,0,18
+html body text div div div div div div div div div div ul li span span  ,|,163,1947,7,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,170,1947,97,17,0,18
+html body text div div div div div div div div div div ul li a span  ,Linux,267,1947,38,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,48,1965,115,17,0,18
+html body text div div div div div div div div div div ul li span span  ,|,163,1965,7,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,170,1965,97,17,0,18
+html body text div div div div div div div div div div ul li a span  ,Unix,267,1965,32,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,48,1983,115,17,0,18
+html body text div div div div div div div div div div ul li span span  ,|,163,1983,7,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,170,1983,97,17,0,18
+html body text div div div div div div div div div div ul li a span  ,Operating systems,267,1983,119,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,48,2001,115,17,0,18
+html body text div div div div div div div div div div ul li span span  ,|,163,2001,7,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,170,2001,97,17,0,18
+html body text div div div div div div div div div div ul li a span  ,Software,267,2001,58,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,48,2019,115,17,0,18
+html body text div div div div div div div div div div ul li span span  ,|,163,2019,7,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,170,2019,97,17,0,18
+html body text div div div div div div div div div div ul li a span  ,Sun Microsystems Inc,267,2019,143,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,48,2037,115,17,0,18
+html body text div div div div div div div div div div ul li span span  ,|,163,2037,7,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,170,2037,97,17,0,18
+html body text div div div div div div div div div div ul li a span  ,Red Hat Inc,267,2037,77,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,48,2055,115,17,0,18
+html body text div div div div div div div div div div ul li span span  ,|,163,2055,7,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,170,2055,97,17,0,18
+html body text div div div div div div div div div div ul li a span  ,Novell Inc,267,2055,68,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,48,2073,115,17,0,18
+html body text div div div div div div div div div div ul li span span  ,|,163,2073,7,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,170,2073,97,17,0,18
+html body text div div div div div div div div div div ul li a span  ,Intel Corp,267,2073,65,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,48,2091,115,17,0,18
+html body text div div div div div div div div div div ul li span span  ,|,163,2091,7,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,170,2091,97,17,0,18
+html body text div div div div div div div div div div ul li a span  ,Intl Business Machines Corp,267,2091,185,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Add to My News,48,2109,115,17,0,18
+html body text div div div div div div div div div div ul li span span  ,|,163,2109,7,17,0,17
+html body text div div div div div div div div div div ul li span a span  ,Create an alert,170,2109,97,17,0,18
+html body text div div div div div div div div div div ul li a span  ,Hewlett-packard,267,2109,107,17,0,17
+html body text div div div div div div div div h3 span  ,TalkBack,8,2146,76,21,0,13
+html body text div div div div div div div div p span  ,"No discussion exists,",8,2186,139,17,0,13
+html body text div div div div div div div div p a span  ,click here to start it,147,2186,127,17,0,14
+html body text div div div div div div div div p span  ,.,274,2186,4,17,0,13
+html body text div div div div div div div div div a span  ,Related stories,8,2230,95,17,0,14
+html body text div div div div div div div div div div div h4 span  ,Related news,8,2270,90,17,0,16
+html body text div div div div div div div div div div div ul li a span  ,Sun plans patent protection for open-source Solaris,48,2309,328,17,0,18
+html body text div div div div div div div div div div div ul li div span  ,"November 18, 2004",48,2327,128,17,0,18
+html body text div div div div div div div div div div div ul li a span  ,'Open Source Solaris' to debut this year,48,2345,252,17,0,18
+html body text div div div div div div div div div div div ul li div span  ,"September 13, 2004",48,2363,128,17,0,18
+html body text div div div div div div div div div div div ul li a span  ,Netscape now--for free,48,2381,148,17,0,18
+html body text div div div div div div div div div div div ul li div span  ,"January 22, 1998",48,2399,110,17,0,18
+html body text div div div div div div div div div div div a span  ,"Get this story's ""Big Picture"" >",8,2433,198,17,0,16
+html body text div div div div div div div div div div div h4 span  ,Related videos,8,2472,99,17,0,16
+html body text div div div div div div div div div div div div a span  ,"Amid the many, start-ups to look out for",8,2583,262,17,0,17
+html body text div div div div div div div div div div div div span span  ,"November 8, 2006",270,2583,119,17,0,17
+html body text div div div div div div div div div div div div a span  ,Adobe CEO Bruce Chizen speaks on Apollo,8,2673,288,17,0,17
+html body text div div div div div div div div div div div div span span  ,"November 8, 2006",296,2673,120,17,0,17
+html body text div div div div div div div div div div div div a span  ,CEO Jeff Bezos says Web services will be a 'meaningful business',8,2763,426,17,0,17
+html body text div div div div div div div div div div div div span span  ,"November 8, 2006",434,2763,120,17,0,17
+html body text div div div div div div div div div div div a span  ,Watch more videos >,8,2781,136,17,0,16
+html body text div div div div div div div div div div div h5 span  ,From News.com Extra,8,2822,128,15,0,16
+html body text div div div div div div div div div div div ul li a span  ,Test drive Solaris 10 for free,48,2860,187,17,0,18
+html body text div div div div div div div div div div div ul li span  ,from,235,2860,35,17,0,17
+html body text div div div div div div div div div div div ul li cite span  ,OSNews,270,2860,55,17,0,18
+html body text div div div div div div div div div div div ul li a span  ,Can Solaris 10 Make Sun Shine Again?,48,2878,257,17,0,18
+html body text div div div div div div div div div div div ul li span  ,from,305,2878,35,17,0,17
+html body text div div div div div div div div div div div ul li cite span  ,BusinessWeek,340,2878,90,17,0,18
+html body text div div div div div div div div div div div ul li a span  ,Solaris attempts sunshine for tenth time,48,2896,258,17,0,18
+html body text div div div div div div div div div div div ul li span  ,from,306,2896,35,17,0,17
+html body text div div div div div div div div div div div ul li cite span  ,the INQUIRER,341,2896,97,17,0,18
+html body text div div div div div div div div div div div ul li a span  ,Sun stares down Red Hat with Solaris 10,48,2914,267,17,0,18
+html body text div div div div div div div div div div div ul li span  ,from,315,2914,35,17,0,17
+html body text div div div div div div div div div div div ul li cite span  ,The Register,350,2914,81,17,0,18
+html body text div div div div div div div div div div div a span  ,Get more news around the Web with News.com Extra >,8,2948,358,17,0,16
+html body text div div div div div div div div div div div h5 span  ,Related white papers,8,2988,119,15,0,16
+html body text div div div div div div div div div div div ul li a span  ,Top Ten Considerations for Choosing a Server Virtualization Technology,48,3026,468,17,0,18
+html body text div div div div div div div div div div div ul li span  ,SWsoft,48,3044,48,17,0,17
+html body text div div div div div div div div div div div ul li a span  ,An Introduction to OS Virtualization and Virtuozzo,48,3062,329,17,0,18
+html body text div div div div div div div div div div div ul li span  ,SWsoft,48,3080,48,17,0,17
+html body text div div div div div div div div div div div ul li a span  ,Virtualizing High Network I/O Environments,48,3098,291,17,0,18
+html body text div div div div div div div div div div div ul li span  ,SWsoft,48,3116,48,17,0,17
+html body text div div div div div div div div div div div ul li a span  ,HP Integrity Essentials: Management Solutions for HP Integrity Servers,48,3134,461,17,0,18
+html body text div div div div div div div div div div div ul li span  ,Hewlett-Packard,48,3152,108,17,0,17
+html body text div div div div div div div div div div div ul li a span  ,HP-UX 11i - Approaching a Virtualized IT World With Confidence,48,3170,429,17,0,18
+html body text div div div div div div div div div div div ul li span  ,Hewlett-Packard,48,3188,108,17,0,17
+html body text div div div div div div div div div div div span span  ,More results for,8,3222,107,17,0,16
+html body text div div div div div div div div div div div span a span  ,open source,115,3222,81,17,0,17
+html body text div div div div div div div div div div div span span  ,>,196,3222,9,17,0,16
+html body text div div div div div div div div h3 span  ,Resource center,8,3259,132,21,0,13
+html body text div div div div div div div div h3 span span  ,from News.com sponsors,140,3259,199,21,0,14
+html body text div div div div div div div div div h4 span  ,Aligning CIO & CEO visions,8,3302,199,17,0,14
+html body text div div div div div div div div div div h5 span  ,What CIOs need to know,8,3342,144,15,0,15
+html body text div div div div div div div div div div p span  ,"It's a simple truth. The closer you and your CEO see things, the greater your chance for success. Our exclusive report can help you get there—and help your business grow. Get the report featuring the views of 765 CEOs on innovation.",8,3446,749,35,0,15
+html body text div div div div div div div div div div p a span  ,learn more,8,3498,69,17,0,16
+html body text div div div div div div div div div div ul li a span  ,What CEOs think: Innovation Insights for CIOs,48,3608,311,17,0,17
+html body text div div div div div div div div div div ul li a span span  ,Learn How CIOs can deliver strategic success for their enterprises,48,3608,661,35,0,18
+html body text div div div div div div div div div div ul li a span  ,The New CIO: Beyond Technology,48,3644,232,17,0,17
+html body text div div div div div div div div div div ul li a span span  ,Learn how CIOs become heroes,280,3644,206,17,0,18
+html body text div div div div div div div div div div ul li a span  ,Podcast: Chris Gorog of Napster,48,3662,213,17,0,17
+html body text div div div div div div div div div div ul li a span span  ,Learn about the impact of technology in strategy execution,261,3662,378,17,0,18
+html body text div div div div div div div div div div ul li a span  ,The future of the Enterprise,48,3680,182,17,0,17
+html body text div div div div div div div div div div ul li a span span  ,Read more about tomorrow's organization,230,3680,269,17,0,18
+html body text div div div div div div div div div div ul li a span  ,CIO Vision Series:Innovating within a retail industry disrupted by the Web,48,3698,483,17,0,17
+html body text div div div div div div div div div div ul li a span span  ,"Video: CIO of Virgin Entertainment Group, Robert Fort",48,3698,713,35,0,18
+html body text div div div div div div div div div div ul li a span  ,CIO Vision Series: Innovating around social search,48,3734,332,17,0,17
+html body text div div div div div div div div div div ul li a span span  ,Video: Yahoo CIO Lars Rabbe,380,3734,196,17,0,18
+html body text div div div div div div div div div h3 span  ,Top picks from News.com readers,8,3771,270,21,0,14
+html body text div div div div div div div div div div p span  ,Readers who read,8,3812,119,17,0,15
+html body text div div div div div div div div div div p strong span  ,Sun open-source license could mean Solaris-Linux barrier,127,3812,400,17,0,16
+html body text div div div div div div div div div div p span  ,also read...,526,3812,69,17,0,15
+html body text div div div div div div div div div div ul li a span  ,Sun considers GPL for Solaris,48,3846,194,17,0,17
+html body text div div div div div div div div div div a span  ,More Info,8,3880,65,17,0,15
+html body text div div div div div div div div h3 span  ,Markets,8,3933,68,21,0,13
+html body text div div div div div div div div p a span  ,"Market news, charts, SEC filings, and more",8,3973,280,17,0,14
+html body text div div div div div div div div h4 span  ,Related quotes,8,4012,101,17,0,13
+html body text div div div div div div div div table tbody tr td a span  ,Sun Microsystems Inc,8,4052,143,17,0,17
+html body text div div div div div div div div table tbody tr td span  ,5.51,217,4052,28,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,0.05,281,4052,28,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.92%),317,4052,52,17,0,16
+html body text div div div div div div div div table tbody tr td a span  ,Red Hat Inc,8,4070,77,17,0,17
+html body text div div div div div div div div table tbody tr td span  ,16.22,217,4070,36,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,0.00,281,4070,28,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.00%),317,4070,52,17,0,16
+html body text div div div div div div div div table tbody tr td a span  ,Novell Inc,8,4088,68,17,0,17
+html body text div div div div div div div div table tbody tr td span  ,6.25,217,4088,28,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,0.11,281,4088,27,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,(1.79%),317,4088,52,17,0,16
+html body text div div div div div div div div table tbody tr td a span  ,Intel Corp,8,4106,65,17,0,17
+html body text div div div div div div div div table tbody tr td span  ,20.15,217,4106,36,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,0.07,281,4106,28,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.35%),317,4106,52,17,0,16
+html body text div div div div div div div div table tbody tr td a span  ,International Business Machines,8,4124,209,17,0,17
+html body text div div div div div div div div table tbody tr td span  ,95.66,217,4124,36,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,0.41,281,4124,28,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.43%),317,4124,52,17,0,16
+html body text div div div div div div div div table tbody tr td a span  ,HEWLETT PACKARD CO,8,4142,180,17,0,17
+html body text div div div div div div div div table tbody tr td span  ,40.93,217,4142,36,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,0.30,281,4142,28,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.74%),317,4142,52,17,0,16
+html body text div div div div div div div div table tbody tr td a span  ,DJIA,8,4160,35,17,0,17
+html body text div div div div div div div div table tbody tr td span  ,"12,407.63",217,4160,64,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,64.41,281,4160,36,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.52%),317,4160,52,17,0,16
+html body text div div div div div div div div table tbody tr td a span  ,S&P 500,8,4178,58,17,0,17
+html body text div div div div div div div div table tbody tr td span  ,"1,416.90",217,4178,56,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,6.14,281,4178,28,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.44%),317,4178,52,17,0,16
+html body text div div div div div div div div table tbody tr td a span  ,NASDAQ,8,4196,67,17,0,17
+html body text div div div div div div div div table tbody tr td span  ,"2,413.51",217,4196,56,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,12.33,281,4196,36,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.51%),317,4196,52,17,0,16
+html body text div div div div div div div div table tbody tr td a span  ,CNET TECH,8,4214,87,17,0,17
+html body text div div div div div div div div table tbody tr td span  ,"1,590.52",217,4214,56,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,7.81,281,4214,28,17,0,16
+html body text div div div div div div div div table tbody tr td span  ,(0.49%),317,4214,52,17,0,16
+html body text div div div div div div div div form a span  ,Symbol Lookup,8,4232,104,17,0,14
+html body text div div div div div div div a span  ,Site map,8,4276,60,17,0,12
+html body text div div div div div div div span  ,|,68,4276,8,17,0,11
+html body text div div div div div div div a span  ,Help center,76,4276,78,17,0,12
+html body text div div div div div div div span  ,|,154,4276,7,17,0,11
+html body text div div div div div div div a span  ,Corrections,161,4276,79,17,0,12
+html body text div div div div div div div span  ,|,240,4276,7,17,0,11
+html body text div div div div div div div a span  ,Newsletters,247,4276,79,17,0,12
+html body text div div div div div div div span  ,|,326,4276,8,17,0,11
+html body text div div div div div div div a span  ,Send tips,334,4276,63,17,0,12
+html body text div div div div div div div span  ,|,397,4276,7,17,0,11
+html body text div div div div div div div a span  ,News.com mobile,404,4276,120,17,0,12
+html body text div div div div div div div span  ,|,524,4276,8,17,0,11
+html body text div div div div div div div a span  ,Content licensing,532,4276,116,17,0,12
+html body text div div div div div div div span  ,|,648,4276,7,17,0,11
+html body text div div div div div div div a span  ,RSS feeds,655,4276,70,17,0,12
+html body text div div div div div div div span  ,|,725,4276,8,17,0,11
+html body text div div div div div div div form div span  ,Search:,8,4294,48,17,0,13
+html body text div div div div div div div form select option  ,News,0,0,0,0,0,13
+html body text div div div div div div div form select option  ,All CNET,0,0,0,0,0,13
+html body text div div div div div div div form select option  ,The Web,0,0,0,0,0,13
+html body text div div div div div div span  ,Popular topics:,8,4371,100,17,0,10
+html body text div div div div div div a span  ,Camcorders,108,4371,82,17,0,11
+html body text div div div div div div span  ,|,190,4371,7,17,0,10
+html body text div div div div div div a span  ,Desktops,197,4371,64,17,0,11
+html body text div div div div div div span  ,|,261,4371,7,17,0,10
+html body text div div div div div div a span  ,DVD Players,268,4371,89,17,0,11
+html body text div div div div div div span  ,|,357,4371,8,17,0,10
+html body text div div div div div div a span  ,Internet Explorer 7,365,4371,125,17,0,11
+html body text div div div div div div span  ,|,490,4371,8,17,0,10
+html body text div div div div div div a span  ,iPod Nano,498,4371,72,17,0,11
+html body text div div div div div div span  ,|,570,4371,7,17,0,10
+html body text div div div div div div a span  ,iPod Shuffle,577,4371,84,17,0,11
+html body text div div div div div div span  ,|,661,4371,7,17,0,10
+html body text div div div div div div a span  ,Nikon D80,668,4371,76,17,0,11
+html body text div div div div div div span  ,|,744,4371,3,17,0,10
+html body text div div div div div div a span  ,Notebooks,8,4389,73,17,0,11
+html body text div div div div div div span  ,|,81,4389,8,17,0,10
+html body text div div div div div div a span  ,Projectors,89,4389,68,17,0,11
+html body text div div div div div div span  ,|,157,4389,8,17,0,10
+html body text div div div div div div a span  ,Speed Test,165,4389,73,17,0,11
+html body text div div div div div div span  ,|,238,4389,7,17,0,10
+html body text div div div div div div a span  ,Web Hosting,245,4389,83,17,0,11
+html body text div div div div div div div a span  ,Today on CNET,8,4450,109,17,0,12
+html body text div div div div div div div span  ,|,117,4450,7,17,0,11
+html body text div div div div div div div a span  ,Reviews,124,4450,60,17,0,12
+html body text div div div div div div div span  ,|,184,4450,7,17,0,11
+html body text div div div div div div div a span  ,News,191,4450,40,17,0,12
+html body text div div div div div div div span  ,|,231,4450,7,17,0,11
+html body text div div div div div div div a span  ,Compare prices,238,4450,105,17,0,12
+html body text div div div div div div div span  ,|,343,4450,7,17,0,11
+html body text div div div div div div div a span  ,Tips & Tricks,350,4450,93,17,0,12
+html body text div div div div div div div span  ,|,443,4450,7,17,0,11
+html body text div div div div div div div a span  ,Downloads,450,4450,77,17,0,12
+html body text div div div div div div div span  ,|,527,4450,7,17,0,11
+html body text div div div div div div div a span  ,CNET TV,534,4450,66,17,0,12
+html body text div div div div span  ,Popular on CNET Networks:,8,4468,190,17,0,8
+html body text div div div div a span  ,PS3,198,4468,30,17,0,9
+html body text div div div div span  ,|,228,4468,7,17,0,8
+html body text div div div div a span  ,Wii,235,4468,27,17,0,9
+html body text div div div div span  ,|,262,4468,7,17,0,8
+html body text div div div div a span  ,Xbox 360,269,4468,68,17,0,9
+html body text div div div div span  ,|,337,4468,7,17,0,8
+html body text div div div div a span  ,Pussycat Dolls,344,4468,99,17,0,9
+html body text div div div div span  ,|,443,4468,7,17,0,8
+html body text div div div div a span  ,Free Music Videos,450,4468,124,17,0,9
+html body text div div div div span  ,|,574,4468,7,17,0,8
+html body text div div div div a span  ,TV Listings,581,4468,81,17,0,9
+html body text div div div div span  ,|,662,4468,7,17,0,8
+html body text div div div div a span  ,Prison Break,669,4468,87,17,0,9
+html body text div div div div span  ,|,756,4468,3,17,0,8
+html body text div div div div a span  ,Game Cheats,8,4486,86,17,0,9
+html body text div div div div a span  ,About CNET Networks,8,4504,156,17,0,9
+html body text div div div div span  ,|,164,4504,7,17,0,8
+html body text div div div div a span  ,Jobs,171,4504,32,17,0,9
+html body text div div div div span  ,|,203,4504,7,17,0,8
+html body text div div div div a span  ,Advertise,210,4504,66,17,0,9
+html body text div div div div span  ,|,276,4504,7,17,0,8
+html body text div div div div a span  ,Partnerships,283,4504,83,17,0,9
+html body text div div div div span  ,|,366,4504,7,17,0,8
+html body text div div div div a span  ,Site map,373,4504,57,17,0,9
+html body text div div div div span  ,"Copyright ©2006 CNET Networks, Inc. All rights reserved.",8,4574,387,17,0,8
+html body text div div div div a span  ,Privacy policy,395,4574,97,17,0,9
+html body text div div div div span  ,|,492,4574,7,17,0,8
+html body text div div div div a span  ,Terms of use,499,4574,83,17,0,9

@@ -1,0 +1,245 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Forms and Publications,0,0,590,18,0,6
+html body text table tbody tr td span  ,Updates to Publication 1001,27,116,182,17,0,8
+html body text table tbody tr td table tbody tr td b span  ,Revision Date,84,158,95,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,2005 Revision Details,200,158,146,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,09/13/06,103,180,57,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,"Publication 1001, instructions under Dividend Income, column 3",200,180,439,17,1,13
+html body text table tbody tr td table tbody tr td ul li span  ,The column is (as referenced) an addition to income for California tax calculation. The above quantity should be a subtraction (column B) in line 9 of Schedule CA.,240,214,449,53,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,It currently reads:,240,284,126,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"If the value of U.S. and California state or municipal obligations is at least 50% of the fund’s total assets, enter the amount of exempt interest dividends that are attributed to U.S. obligations included in federal income on Schedule CA (540 or 540NR), line 9, column C.",240,318,417,89,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,It should read:,240,424,101,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"If the value of U.S. and California state or municipal obligations is at least 50% of the fund’s total assets, enter the amount of exempt interest dividends that are attributed to U.S. obligations included in federal income on Schedule CA (540 or 540NR), line 9, column B.",240,458,417,89,1,14
+html body text table tbody tr td table tbody tr td p span  ,"The revision needs to be noted in printed products 2005 Publication 1001, booklet page 3, and 2005 Package X, page 13. The Internet version of Publication 1001 is available for download.",200,564,474,53,1,13
+html body text table tbody tr td table tbody tr td b span  ,03/29/06,103,644,57,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,"2005 Publication 1001, 2005 Supplemental Guidelines to California Adjustments",200,644,457,35,1,13
+html body text table tbody tr td table tbody tr td ul li span  ,"Page 4, Column 2, second row from bottom - Depreciation of qualified leasehold improvements and qualified restaurant property acquired before1/1/2006 currently shows the recovery period as 7 years:",240,696,455,53,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,It should read:,240,766,101,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,Federal law requires a 15-year recovery period. For California,240,800,399,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"purposes, qualified leasehold improvements and qualified",240,818,370,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,restaurant property must be recovered over a,240,836,290,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p b font span  ,39 year,530,836,54,17,1,16
+html body text table tbody tr td table tbody tr td blockquote p span  ,recovery,584,836,56,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,period.,240,854,45,17,1,14
+html body text table tbody tr td table tbody tr td p span  ,"This revision is required in the 2005 Package X, page 14. The internet version of the Publication 1001, page 4, will be available for download on 03/29/06.",200,888,500,35,1,13
+html body text table tbody tr td table tbody tr td b span  ,03/08/06,103,950,57,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,"Publication 1001,",200,950,122,17,1,13
+html body text table tbody tr td table tbody tr td b i span  ,Supplemental Guidelines to California Adjustments,322,950,340,17,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,"FTB conformed by date change to AJCA Act Section 840 as explained on page 4 of our Legislative Change Notice for AB 115 (Stats. 2005, Ch. 691) regarding IRC Section 121(d)(10); property acquired in a like-kind exchange.",240,984,460,71,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,It should read:,240,1072,101,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Publication 1001, page 8, on the Gain on sale of personal residence bullet:",240,1106,366,35,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"For sale or exchanges after 5/6/97, federal law allows an exclusion of gain on the sale of a personal residence in the amount of $250,000 ($500,000 if married filing jointly). The taxpayer must have owned and occupied the residence as a principal residence for at least 2 of the 5 years before the sale. California conforms to this provision. However, California taxpayers who served in the Peace Corps during the 5 year period ending on the date of the sale may reduce the 2 year period by the period of service, not to exceed 18 months.",240,1158,421,161,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"If there is a difference between the amounts excluded (or depreciated, if recapture applies) for federal and California, complete California Schedule D (540 or 540NR). Transfer the amount from California Schedule D, line 12a, to Schedule CA (540 or 540NR), line 13, column B (if gain is less than federal). Transfer the amount from California Schedule D, line 12b, to Schedule CA (540 or 540NR), line 13, column C (if gain is more than federal).",240,1336,415,143,1,14
+html body text table tbody tr td table tbody tr td p span  ,"This change must be made in 2005 Package X, page 18; and the Publication 1001 page 8. A revised internet version is available for download as of 3/9/06.",200,1496,500,35,1,13
+html body text table tbody tr td table tbody tr td b span  ,1/19/06,107,1558,49,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,"Publication 1001, page 12, second column revised.",200,1558,340,17,1,13
+html body text table tbody tr td table tbody tr td ul li span  ,Current instructions read:,240,1592,164,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Column two: California law conforms to federal law in the tax treatment of expenses for reservists, performing artists, and fee-based Government officials.",240,1626,409,53,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,It should read:,240,1696,101,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Column two: California law conforms to federal law in the tax treatment of expenses for reservists, performing artists, and fee-basis government officials.",240,1730,409,53,1,14
+html body text table tbody tr td table tbody tr td p span  ,"This revision needs to be noted in printed products of 2005 Publication 1001 and 2005 Package X, page 22 only. Revised internet versions are available for download as of 1/13/06.",200,1800,499,53,1,13
+html body text table tbody tr td table tbody tr td b span  ,12/31/2005,95,1880,73,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,"Publication 1001, Supplemental Guidelines to California Adjustments",200,1880,475,17,1,13
+html body text table tbody tr td table tbody tr td p span  ,"Publication 1001, Page 12, bulleted item regarding certain business expenses of reservists, performing artists, and fee-basis governmental officials.",200,1914,493,35,1,13
+html body text table tbody tr td table tbody tr td ul li b span  ,Column 2 (DIFFERENCES BETWEEN FEDERAL AND CALIFORNIA LAW) reads:,240,1966,392,35,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,Federal law allows a deduction. California conforms to deductions regarding certain expenses of reservists and fee-basis governmental officials. California has not conformed to deductions of performing artists,240,2018,414,71,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,It should read:,240,2106,101,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"California has conforms to federal law in the tax treatment of expenses for reservists, performing artists, and fee-basis Governmental officials.",240,2140,392,53,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"However, there could be continuing differences in the depreciation deduction such as IRC Section 179 or bonus depreciation.",240,2210,367,53,1,14
+html body text table tbody tr td table tbody tr td ul li b span  ,Column 3 (WHAT TO DO FOR CALIFORNIA) reads:,240,2280,377,17,1,15
+html body text table tbody tr td table tbody tr td ul li p span  ,"Enter the amount of expenses claimed for performing artists on Schedule CA (540 or 540NR), line 24, column B.",240,2314,405,35,1,15
+html body text table tbody tr td table tbody tr td ul li p b span  ,It should read:,240,2366,101,17,1,16
+html body text table tbody tr td table tbody tr td blockquote p span  ,"If the federal depreciation deduction is more than the California depreciation deduction, enter the difference on line 24, column B. If the federal depreciation deduction is less than the California depreciation, enter the difference in column C.",240,2400,421,71,1,14
+html body text table tbody tr td table tbody tr td p span span  ,Revised copies of the publication are available for download as of 01/04/05.,200,2488,488,17,1,14
+html body text table tbody tr td table tbody tr td b span  ,Revision Date,84,2510,95,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,2004 Revision Details,200,2510,146,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,09/13/2006,95,2532,73,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,"Publication 1001, instructions under Dividend Income, column 3",200,2532,439,17,1,13
+html body text table tbody tr td table tbody tr td ul li span  ,The column is (as referenced) an addition to income for California tax calculation. The above quantity should be a subtraction (column B) in line 9 of Schedule CA.,240,2566,449,53,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,It currently reads:,240,2636,126,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"If the value of U.S. and California state or municipal obligations is at least 50% of the fund’s total assets, enter the amount of exempt interest dividends that are attributed to U.S. obligations included in federal income on Schedule CA (540 or 540NR), line 9, column C.",240,2670,417,89,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,It should read:,240,2776,101,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"If the value of U.S. and California state or municipal obligations is at least 50% of the fund’s total assets, enter the amount of exempt interest dividends that are attributed to U.S. obligations included in federal income on Schedule CA (540 or 540NR), line 9, column B.",240,2810,417,89,1,14
+html body text table tbody tr td table tbody tr td p span  ,"The revision needs to be noted in printed products 2004 Publication 1001, booklet page 3, and 2004 Package X, page 13. The Internet version of Publication 1001 is available for download.",200,2916,474,53,1,13
+html body text table tbody tr td table tbody tr td b span  ,12/30/2004,95,2974,73,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,"Publication 1001,",200,2974,122,17,1,13
+html body text table tbody tr td table tbody tr td b i span  ,Supplemental Guidelines to California Adjustments,322,2974,340,17,1,14
+html body text table tbody tr td table tbody tr td p span  ,"Revisions are required on page 12 of the publication explaining that due to California's conformity to the reservist and performing artist, the instructions for Schedule CA were revised. Since Publication 1001 supports Schedule CA, the text heading has to be revised as well. This has been updated in the Package X and on the Internet.",200,3008,499,89,1,13
+html body text table tbody tr td table tbody tr td ul li span  ,Page 12,240,3114,51,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,It should read:,240,3148,101,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"""Certain business expenses of fee-basis government officials""",240,3182,395,17,1,14
+html body text table tbody tr td table tbody tr td b span  ,Revision Date,84,3220,95,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,2003 Revision Details,200,3220,146,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,09/17/2004,95,3242,73,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,"Publication 1001,",200,3242,122,17,1,13
+html body text table tbody tr td table tbody tr td b i span  ,Supplemental Guidelines to California Adjustments,322,3242,340,17,1,14
+html body text table tbody tr td table tbody tr td p span  ,"The Internet version of the form has been revised. A revised copy is available to download on the Internet. This revision is due to the California Legislature enactment of SB 615 (Stats. 2004 CH 388), which makes California law compatible with the Servicemembers Civil Relief Act (Public Law 108-189). ). Income exclusion may decrease total tax liability.",200,3276,495,89,1,13
+html body text table tbody tr td table tbody tr td ul li p span  ,"The revision is required on the 2003 Publication 1001, page 1and 2; Package X page 11.",240,3382,435,35,1,15
+html body text table tbody tr td table tbody tr td blockquote p b span  ,It should read,240,3434,100,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,", under",340,3434,48,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"What’s Changed?, page 1",388,3434,179,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,:,567,3434,4,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"The California legislature enacted SB 615 (Stats. 2004 CH. 688), which makes California law compatible with Servicemembers Civil Relief Act (Public Law 108-189). This means that servicemembers domiciled outside of California, and their spouses, may exclude the member’s military compensation from gross income when computing the tax rate on nonmilitary income.",240,3468,417,125,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Requirements for military servicemembers domiciled in California remain unchanged. Military servicemembers domiciled in California must include their military pay in total income. In addition, they must include their military pay in California source income when stationed in California. However, military pay is not California source income when a servicemember is permanently stationed outside of California.",240,3610,423,125,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"It should read,",240,3752,104,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,under,344,3752,40,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"Differences Between Federal and California Law, page 1:",240,3752,369,35,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Special rules apply to active duty military pay. Native Americans with military pay also see ""Earning of American Indians"" on this page.",240,3804,417,53,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"It should read, under Earnings of American Indians, page 2:",240,3874,411,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,Federal law taxes income received by Indians from reservation sources.,240,3908,403,35,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"California does not tax income earned by tribal members who live in Indian country affiliated with their tribe and receive earning from the same tribal source of which they are members. Military compensation is considered income from tribal sources. For more information get FTB 674, Frequently Asked Questions about the Income Taxation of American Indians.",240,3960,413,107,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,Native Americans who receive military compensation must re-figure any AGI percentage calculation(s) by first subtracting military compensation from Federal AGI.,240,4084,401,53,1,14
+html body text table tbody tr td table tbody tr td b span  ,Revision Date,84,4158,95,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,2002 Revision Details,200,4158,146,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,09/13/2006,95,4180,73,17,1,13
+html body text table tbody tr td table tbody tr td ul li span  ,The column is (as referenced) an addition to income for California tax calculation. The above quantity should be a subtraction (column B) in line 9 of Schedule CA.,240,4180,449,53,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,It currently reads:,240,4250,126,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"If the value of U.S. and California state or municipal obligations is at least 50% of the fund’s total assets, enter the amount of exempt interest dividends that are attributed to U.S. obligations included in federal income on Schedule CA (540 or 540NR), line 9, column C.",240,4284,417,89,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"It should read,",240,4390,100,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"If the value of U.S. and California state or municipal obligations is at least 50% of the fund’s total assets, enter the amount of exempt interest dividends that are attributed to U.S. obligations included in federal income on Schedule CA (540 or 540NR), line 9, column B.",240,4424,417,89,1,14
+html body text table tbody tr td table tbody tr td p span  ,"The revision needs to be noted in the printed 2002 Publication 1001, booklet page 2. The Internet version of Publication 1001 is available for download.",200,4530,490,35,1,13
+html body text table tbody tr td table tbody tr td b span  ,09/17/2004,95,4570,73,17,1,13
+html body text table tbody tr td table tbody tr td p b span  ,"Publication 1001,",200,4570,122,17,1,14
+html body text table tbody tr td table tbody tr td p b i span  ,Supplemental Guidelines to California Adjustments,322,4570,340,17,1,15
+html body text table tbody tr td table tbody tr td p span  ,"The Internet version of the form has been revised. A revised copy is available to download on the Internet. This revision is due to the California Legislature enactment of SB 615 (Stats. 2004 CH 388), which makes California law compatible with the Servicemembers Civil Relief Act (Public Law 108-189). ). Income exclusion may decrease total tax liability.",200,4604,495,89,1,13
+html body text table tbody tr td table tbody tr td ul li p span  ,"The revision is required on the 2002 Publication 1001, page 1and 2.",240,4710,434,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p b span  ,It should read,240,4744,100,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,", under",340,4744,48,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"What’s Changed?, page 1",388,4744,179,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,:,567,4744,4,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"The California legislature enacted SB 615 (Stats. 2004 CH. 688), which makes California law compatible with Servicemembers Civil Relief Act (Public Law 108-189). This means that servicemembers domiciled outside of California, and their spouses, may exclude the member’s military compensation from gross income when computing the tax rate on nonmilitary income.",240,4778,417,125,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Requirements for military servicemembers domiciled in California remain unchanged. Military servicemembers domiciled in California must include their military pay in total income. In addition, they must include their military pay in California source income when stationed in California. However, military pay is not California source income when a servicemember is permanently stationed outside of California.",240,4920,423,125,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"It should read,",240,5062,104,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,under,344,5062,40,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"Differences Between Federal and California Law, page 1:",240,5062,369,35,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Special rules apply to active duty military pay. Native Americans with military pay also see ""Earning of American Indians"" on this page.",240,5114,417,53,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"It should read, under Earnings of American Indians, page 2:",240,5184,411,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,Federal law taxes income received by Indians from reservation sources.,240,5218,403,35,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"California does not tax income earned by tribal members who live in Indian country affiliated with their tribe and receive earning from the same tribal source of which they are members. Military compensation is considered income from tribal sources. For more information get FTB 674, Frequently Asked Questions about the Income Taxation of American Indians.",240,5270,413,107,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,Native Americans who receive military compensation must re-figure any AGI percentage calculation(s) by first subtracting military compensation from Federal AGI.,240,5394,401,53,1,14
+html body text table tbody tr td table tbody tr td b span  ,Revision Date,84,5468,95,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,2001 Revision Details,200,5468,146,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,09/17/2004,95,5490,73,17,1,13
+html body text table tbody tr td table tbody tr td p b span  ,"Publication 1001,",200,5490,122,17,1,14
+html body text table tbody tr td table tbody tr td p b i span  ,Supplemental Guidelines to California Adjustments,322,5490,340,17,1,15
+html body text table tbody tr td table tbody tr td p span  ,"The Internet version of the form has been revised. A revised copy is available to download on the Internet. This revision is due to the California Legislature enactment of SB 615 (Stats. 2004 CH 388), which makes California law compatible with the Servicemembers Civil Relief Act (Public Law 108-189). ). Income exclusion may decrease total tax liability.",200,5524,495,89,1,13
+html body text table tbody tr td table tbody tr td ul li p span  ,"The revision is required on the 2001 Publication 1001, page 1and 2; and Package X, page 3.",240,5630,462,35,1,15
+html body text table tbody tr td table tbody tr td blockquote p b span  ,It should read,240,5682,100,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,", under",340,5682,48,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"What’s Changed?, page 1",388,5682,179,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,:,567,5682,4,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"The California legislature enacted SB 615 (Stats. 2004 CH. 688), which makes California law compatible with Servicemembers Civil Relief Act (Public Law 108-189). This means that servicemembers domiciled outside of California, and their spouses, may exclude the member’s military compensation from gross income when computing the tax rate on nonmilitary income.",240,5716,417,125,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Requirements for military servicemembers domiciled in California remain unchanged. Military servicemembers domiciled in California must include their military pay in total income. In addition, they must include their military pay in California source income when stationed in California. However, military pay is not California source income when a servicemember is permanently stationed outside of California.",240,5858,423,125,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"It should read,",240,6000,104,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,under,344,6000,40,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"Differences Between Federal and California Law, page 1:",240,6000,369,35,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Special rules apply to active duty military pay. Native Americans with military pay also see ""Earning of American Indians"" on this page.",240,6052,417,53,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"It should read, under Earnings of American Indians, page 2:",240,6122,411,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,Federal law taxes income received by Indians from reservation sources.,240,6156,403,35,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"California does not tax income earned by tribal members who live in Indian country affiliated with their tribe and receive earning from the same tribal source of which they are members. Military compensation is considered income from tribal sources. For more information get FTB 674, Frequently Asked Questions about the Income Taxation of American Indians.",240,6208,413,107,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,Native Americans who receive military compensation must re-figure any AGI percentage calculation(s) by first subtracting military compensation from Federal AGI.,240,6332,401,53,1,14
+html body text table tbody tr td table tbody tr td b span  ,Revision Date,84,6406,95,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,2000 Revision Details,200,6406,146,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,09/17/2004,95,6428,73,17,1,13
+html body text table tbody tr td table tbody tr td p b span  ,"Publication 1001,",200,6428,122,17,1,14
+html body text table tbody tr td table tbody tr td p b i span  ,Supplemental Guidelines to California Adjustments,322,6428,340,17,1,15
+html body text table tbody tr td table tbody tr td p span  ,"The Internet version of the form has been revised. A revised copy is available to download on the Internet. This revision is due to the California Legislature enactment of SB 615 (Stats. 2004 CH 388), which makes California law compatible with the Servicemembers Civil Relief Act (Public Law 108-189). ). Income exclusion may decrease total tax liability.",200,6462,495,89,1,13
+html body text table tbody tr td table tbody tr td ul li p span  ,"The revision is required on the 2000 Publication 1001, page 1and 2 and Package X, page 3.",240,6568,457,35,1,15
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"It should read, under What’s Changed?, page 1:",240,6620,328,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"The California legislature enacted SB 615 (Stats. 2004 CH. 688), which makes California law compatible with Servicemembers Civil Relief Act (Public Law 108-189). This means that servicemembers domiciled outside of California, and their spouses, may exclude the member’s military compensation from gross income when computing the tax rate on nonmilitary income.",240,6654,417,125,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Requirements for military servicemembers domiciled in California remain unchanged. Military servicemembers domiciled in California must include their military pay in total income. In addition, they must include their military pay in California source income when stationed in California. However, military pay is not California source income when a servicemember is permanently stationed outside of California.",240,6796,423,125,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"It should read, under Differences Between Federal and California Law, page 1:",240,6938,373,35,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Special rules apply to active duty military pay. Native Americans with military pay also see ""Earning of American Indians"" on this page.",240,6990,417,53,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"It should read, under Earnings of American Indians, page 2:",240,7060,411,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,Federal law taxes income received by Indians from reservation sources.,240,7094,403,35,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"California does not tax income earned by tribal members who live in Indian country affiliated with their tribe and receive earning from the same tribal source of which they are members. Military compensation is considered income from tribal sources. For more information get FTB 674, Frequently Asked Questions about the Income Taxation of American Indians.",240,7146,413,107,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,Native Americans who receive military compensation must re-figure any AGI percentage calculation(s) by first subtracting military compensation from Federal AGI.,240,7270,401,53,1,14
+html body text table tbody tr td table tbody tr td b span  ,Revision Date,84,7344,95,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,1999 Revision Details,200,7344,146,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,09/17/2004,95,7366,73,17,1,13
+html body text table tbody tr td table tbody tr td p b span  ,"Publication 1001,",200,7366,122,17,1,14
+html body text table tbody tr td table tbody tr td p b i span  ,Supplemental Guidelines to California Adjustments,322,7366,340,17,1,15
+html body text table tbody tr td table tbody tr td p span  ,"The Internet version of the form has been revised. A revised copy is available to download on the Internet. This revision is due to the California Legislature enactment of SB 615 (Stats. 2004 CH 388), which makes California law compatible with the Servicemembers Civil Relief Act (Public Law 108-189). ). Income exclusion may decrease total tax liability.",200,7400,495,89,1,13
+html body text table tbody tr td table tbody tr td ul li p span  ,"The revision is required on the 1999 Publication 1001, page 1and Package X, page 3.",240,7506,418,35,1,15
+html body text table tbody tr td table tbody tr td blockquote p b span  ,It should read,240,7558,100,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,",",340,7558,8,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,under,348,7558,44,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"What’s Changed?, page 1",392,7558,179,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,:,571,7558,4,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"The California legislature enacted SB 615 (Stats. 2004 CH. 688), which makes California law compatible with Servicemembers Civil Relief Act (Public Law 108-189). This means that servicemembers domiciled outside of California, and their spouses, may exclude the member’s military compensation from gross income when computing the tax rate on nonmilitary income.",240,7592,417,125,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Requirements for military servicemembers domiciled in California remain unchanged. Military servicemembers domiciled in California must include their military pay in total income. In addition, they must include their military pay in California source income when stationed in California. However, military pay is not California source income when a servicemember is permanently stationed outside of California.",240,7734,423,125,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"It should read,",240,7876,104,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,under,344,7876,40,17,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"Differences Between Federal and California Law, page 1:",240,7876,369,35,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,"Special rules apply to active duty military pay. Native Americans with military pay also see ""Earning of American Indians"" on this page.",240,7928,417,53,1,14
+html body text table tbody tr td table tbody tr td blockquote p b span  ,"It should read, under Earnings of American Indians, page 1:",240,7998,411,17,1,15
+html body text table tbody tr td table tbody tr td blockquote p span  ,Federal law taxes income received by Indians from reservation sources.,240,8032,403,35,1,14
+html body text table tbody tr td table tbody tr td blockquote p span  ,"California does not tax income earned by tribal members who live in Indian country affiliated with their tribe and receive earning from the same tribal source of which they are members. Military compensation is considered income from tribal sources. For more information get FTB 674, Frequently Asked Questions about the Income Taxation of American Indians.",240,8084,413,107,1,14
+html body text table tbody tr td table tbody tr td blockquote span  ,Native Americans who receive military compensation must re-figure any AGI percentage calculation(s) by first subtracting military compensation from Federal AGI.,240,8208,401,53,1,13
+html body text table tbody tr td form p b span  ,View updates to a different Form or Publication.,252,8306,331,17,0,11
+html body text table tbody tr td form p select option  ,Form 100,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 100 Booklet,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 100S Booklet,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 100W,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 100W Booklet,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 540/540A Resident Booklet,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 540 2EZ Booklet,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 540 ES,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 540NR Non Resident Booklet,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 540NR (Long),0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 540NR (Short),0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 540X,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 541 Booklet,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 541 ES,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 565 Booklet,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 568 Booklet,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 3506,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 3537,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 3553,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 3801,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 3801-CR,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 3803,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 3805P,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 3805Q,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 3805V,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 3805Z Booklet,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 3807,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 3885,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 5123,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 5805,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 8453-C,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Form 9000H/9000R - Homeowner & Renter Assistance Booklet,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Schedule B/ C/ D/ and H (100S),0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Schedule CA (540),0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Schedule CA (540NR),0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Schedule D (100S),0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Schedule D (540),0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Schedule D (540NR),0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Schedule D (541),0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Schedule D-1,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Schedule P (100),0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Schedule P (100W),0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Schedule P (540),0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Schedule P (540NR),0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Schedule R,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Publication 1001,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Publication 1032,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Publication 1061,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Publication 1095D,0,0,0,0,0,11
+html body text table tbody tr td form p select option  ,Publication 1098,0,0,0,0,0,11
+html body text table tbody tr td div a span  ,Back to Law & Legislation Page,188,8375,213,17,0,10
+html body text table tbody tr td div span b span  ,|,401,8375,8,17,0,11
+html body text table tbody tr td div a span  ,Back to Forms and Publications page,409,8375,238,17,0,10
+html body text table tbody tr td p a span  ,Privacy,131,8416,53,17,0,10
+html body text table tbody tr td p span  ,|,184,8416,6,17,0,9
+html body text table tbody tr td p a span  ,Webmaster,190,8416,76,17,0,10
+html body text table tbody tr td p span  ,|,266,8416,7,17,0,9
+html body text table tbody tr td p a span  ,Careers,273,8416,53,17,0,10
+html body text table tbody tr td p span  ,|,326,8416,6,17,0,9
+html body text table tbody tr td p a span  ,Accessibility,332,8416,88,17,0,10
+html body text table tbody tr td p span  ,|,420,8416,7,17,0,9
+html body text table tbody tr td p a span  ,Flex Your Power,427,8416,112,17,0,10
+html body text table tbody tr td p span  ,|,539,8416,7,17,0,9
+html body text table tbody tr td p a span  ,California Home,546,8416,108,17,0,10
+html body text table tbody tr td p span  ,Last modified:,307,8450,98,17,0,9
+html body text table tbody tr td p span  ,09/19/2006,405,8450,73,17,0,9

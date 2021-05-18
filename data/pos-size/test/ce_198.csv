@@ -1,0 +1,552 @@
+tag,content,x,y,width,height,label,depth
+html body text header title span span  ,Alcator C-Mod Shot Information for shot 1010719014,0,0,777,36,0,7
+html body text center h2 span  ,Alcator C-Mod Shot Information for shot 1010719014,117,8,551,26,1,6
+html body text table tbody tr td b span  ,Miniproposals,13,60,98,17,1,9
+html body text table tbody tr td table tbody tr td b span  ,Miniproposal:,16,87,98,17,1,13
+html body text table tbody tr td table tbody tr td a span  ,137b,133,87,32,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,Date Filed:,16,109,76,17,1,13
+html body text table tbody tr td table tbody tr td span  ,1/14/1999,133,109,65,17,1,12
+html body text table tbody tr td table tbody tr td b span  ,Title:,16,140,37,17,1,13
+html body text table tbody tr td table tbody tr td span  ,Local Edge Threshold for H-Mode (Rev. 2),133,131,261,35,1,12
+html body text table tbody tr td table tbody tr td b span  ,First Author:,16,171,91,17,1,13
+html body text table tbody tr td table tbody tr td span  ,Amanda Hubbard,133,171,114,17,1,12
+html body text table tbody tr td table tbody tr td b span  ,Session Leader:,16,193,108,17,1,13
+html body text table tbody tr td table tbody tr td span  ,Amanda Hubbard (shots 1-22),133,193,195,17,1,12
+html body text table tbody tr td table tbody tr td b span  ,Miniproposal:,16,223,98,17,1,13
+html body text table tbody tr td table tbody tr td a span  ,289a,133,223,31,17,1,13
+html body text table tbody tr td table tbody tr td b span  ,Date Filed:,16,245,76,17,1,13
+html body text table tbody tr td table tbody tr td span  ,5/2/2001,133,245,57,17,1,12
+html body text table tbody tr td table tbody tr td b span  ,Title:,16,276,37,17,1,13
+html body text table tbody tr td table tbody tr td span  ,Investigations of Double Transport Barrier Plasmas,133,267,273,35,1,12
+html body text table tbody tr td table tbody tr td b span  ,First Author:,16,307,91,17,1,13
+html body text table tbody tr td table tbody tr td span  ,John Rice,133,307,64,17,1,12
+html body text table tbody tr td table tbody tr td b span  ,Session Leader:,16,329,108,17,1,13
+html body text table tbody tr td table tbody tr td span  ,John Rice (shots 1-22),133,329,144,17,1,12
+html body text table tbody tr td b span  ,Operators,13,376,70,17,1,9
+html body text table tbody tr td b span  ,Session leader(s):,13,409,119,17,1,9
+html body text table tbody tr td span  ,"Amanda Hubbard,John Rice",190,400,148,35,1,8
+html body text table tbody tr td b span  ,Physics operator(s):,13,442,136,17,1,9
+html body text table tbody tr td span  ,Ian Hutchinson,190,442,98,17,1,8
+html body text table tbody tr td b span  ,Engineering operator(s):,13,468,169,17,1,9
+html body text table tbody tr td span  ,"Gary Dekow,Bill Parkin",190,468,155,17,1,8
+html body text table tbody tr td center span  ,Data Plots (hover mouse over plot to see maximum value),28,514,392,17,0,9
+html body text table tbody tr td table tbody tr td center b span  ,B,95,538,15,17,0,14
+html body text table tbody tr td table tbody tr td center b sub span  ,t,110,544,8,15,0,15
+html body text table tbody tr td table tbody tr td center b span  ,(T),118,538,21,17,0,14
+html body text table tbody tr td table tbody tr td center b span  ,I,305,538,10,17,0,14
+html body text table tbody tr td table tbody tr td center b sub span  ,p,315,544,11,15,0,15
+html body text table tbody tr td table tbody tr td center b span  ,(kA),326,538,31,17,0,14
+html body text table tbody tr td table tbody tr td center b span  ,nel (m,86,588,47,17,0,14
+html body text table tbody tr td table tbody tr td center b sup span  ,-2),133,584,15,15,0,15
+html body text table tbody tr td table tbody tr td center b span  ,Te0 (keV),298,586,66,17,0,14
+html body text table tbody tr td table tbody tr td center b span  ,W,79,630,19,17,0,14
+html body text table tbody tr td table tbody tr td center b sub span  ,mhd,98,636,30,15,0,15
+html body text table tbody tr td table tbody tr td center b span  ,(kJ),128,630,27,17,0,14
+html body text table tbody tr td table tbody tr td center b span  ,H,307,630,16,17,0,14
+html body text table tbody tr td table tbody tr td center b sub span  ,alpha,323,636,32,15,0,15
+html body text table tbody tr td table tbody tr td center b span  ,P,81,676,13,17,0,14
+html body text table tbody tr td table tbody tr td center b sub span  ,icrf,94,682,23,15,0,15
+html body text table tbody tr td table tbody tr td center b span  ,(kW),117,676,36,17,0,14
+html body text table tbody tr td center span  ,Logbook entries for this shot,294,742,197,17,1,9
+html body text table tbody tr td b span  ,Topic,13,766,38,17,1,9
+html body text table tbody tr td b span  ,Entered,167,766,55,17,1,9
+html body text table tbody tr td b span  ,Author,251,766,50,17,1,9
+html body text table tbody tr td b span  ,Text,330,766,30,17,1,9
+html body text table tbody tr td small span  ,SESSION_LEADER,13,822,113,15,1,9
+html body text table tbody tr td small span  ,Jul 19 2001 01:21PM,167,814,62,31,1,9
+html body text table tbody tr td small span  ,Amanda Hubbard,251,814,47,31,1,9
+html body text table tbody tr td small span  ,"Got 2.3 MW, only a few minor trips. This time we had a series of more ELM-free H-modes, with",330,790,435,31,1,9
+html body text table tbody tr td small span  ,accumulating impurities and radiation. Not a pretty sight. H/D is up to 0.18!,330,822,405,15,1,9
+html body text table tbody tr td small span  ,"Next shot, lower Ip to 0.9 MW in an attempt to get EDA conditions.",330,854,363,15,1,9
+html body text table tbody tr td small span  ,PHYSICS_OPERATOR,13,900,130,15,1,9
+html body text table tbody tr td small span  ,Jul 19 2001 01:31PM,167,892,62,31,1,9
+html body text table tbody tr td small span  ,Ian Hutchinson,251,892,61,31,1,9
+html body text table tbody tr td small span  ,Plasma. Similar to previous. Disruption in ramp down. Horrid,330,876,331,15,1,9
+html body text table tbody tr td small span  ,ragged H-modes.,330,892,92,15,1,9
+html body text table tbody tr td small span  ,Ip to .9MA.,330,924,63,15,1,9
+html body text table tbody tr td small span  ,RF,13,970,16,15,1,9
+html body text table tbody tr td small span  ,Jul 19 2001 07:44AM,167,962,62,31,1,9
+html body text table tbody tr td small span  ,"JV1/JV3 Phase balance detector setpoint changed from .5V to 0V, or from +/-65deg. to +/-90deg. Voltage ref. caps on phase reference",330,946,395,31,1,9
+html body text table tbody tr td small span  ,and power threshold inputs to comparators were changed from .005 to 1uf.,330,978,399,15,1,9
+html body text table tbody tr td small span  ,Same was done on JV2/JV4 phase balance detector.,330,994,276,15,1,9
+html body text table tbody tr td small span  ,RF,13,1152,16,15,1,9
+html body text table tbody tr td small span  ,Jul 19 2001 01:24PM,167,1144,62,31,1,9
+html body text table tbody tr td small span  ,Paul Bonoli,251,1152,63,15,1,9
+html body text table tbody tr td small span  ,"BT = 5.3T, Ip~ 1.0 MA, nl_04~0.76x10^20 m^-2",330,1032,263,15,1,9
+html body text table tbody tr td small span  ,Request:,330,1064,47,15,1,9
+html body text table tbody tr td small span  ,"D: 1.0 MW [0.6,1.5] sec",330,1096,130,15,1,9
+html body text table tbody tr td small span  ,"E: 1.3 MW [0.6,1.5] sec",330,1112,129,15,1,9
+html body text table tbody tr td small span  ,J: Off,330,1128,30,15,1,9
+html body text table tbody tr td small span  ,Result: Plasma - H-mode,330,1160,134,15,1,9
+html body text table tbody tr td small span  ,D: Ran,330,1192,38,15,1,9
+html body text table tbody tr td small span  ,E: Ran,330,1208,37,15,1,9
+html body text table tbody tr td small span  ,J:,330,1224,9,15,1,9
+html body text table tbody tr td small span  ,Note:,330,1256,30,15,1,9
+html body text table tbody tr td small span  ,Next Shot: Reduce current to 900 kA,330,1288,198,15,1,9
+html body text table tbody tr td center span  ,Logbook entries for this run,296,1330,193,17,1,9
+html body text table tbody tr td b span  ,Topic,13,1354,38,17,1,9
+html body text table tbody tr td b span  ,Entered,170,1354,55,17,1,9
+html body text table tbody tr td b span  ,Author,273,1354,50,17,1,9
+html body text table tbody tr td b span  ,Text,364,1354,30,17,1,9
+html body text table tbody tr td small span  ,SESSION_LEADER,13,1778,113,15,1,9
+html body text table tbody tr td small span  ,Jul 19 2001 04:14PM,170,1770,62,31,1,9
+html body text table tbody tr td small span  ,Amanda Hubbard,273,1770,47,31,1,9
+html body text table tbody tr td small span  ,"Physics Run plan for 1010719, MP 287 Asdex H-mode similarity experiment",364,1378,348,31,1,9
+html body text table tbody tr td small span  ,"Goal: To make high density, high power EDA H-modes in a shape identical to",364,1426,402,31,1,9
+html body text table tbody tr td small span  ,"that in ASDEX-Upgrade 'Type II ELM' discharges. This regime,",364,1458,342,15,1,9
+html body text table tbody tr td small span  ,"which was only recently obtained on AUG, appears rather similar to that",364,1474,386,15,1,9
+html body text table tbody tr td small span  ,"obtained on C-Mod when power is increased into EDA H-modes. At reduced powers,",364,1490,365,31,1,9
+html body text table tbody tr td small span  ,AUG sometimes sees a 'quasi-coherent' mode. We would like to see if the same,364,1522,393,31,1,9
+html body text table tbody tr td small span  ,behaviour is observed on the two machines with the same dimensionless,364,1554,386,15,1,9
+html body text table tbody tr td small span  ,parameters. We will obtain edge profiles both at threshold and in the steady,364,1570,402,15,1,9
+html body text table tbody tr td small span  ,H-mode period. AUG will then try to match the,364,1586,254,15,1,9
+html body text table tbody tr td small span  ,"dimensionless parameters (nu*,beta, rho*) of these discharges.",364,1602,334,15,1,9
+html body text table tbody tr td small span  ,Plan:,364,1634,27,15,1,9
+html body text table tbody tr td small span  ,"1) Obtain suitable shape, plasma parameters. Start with shape from shot",364,1666,383,15,1,9
+html body text table tbody tr td small span  ,"1010605016. Raise Ip to 1.0 MA, keep Bt at 5.3 T. L-mode nel=1.1e20 m-2.",364,1682,407,15,1,9
+html body text table tbody tr td small span  ,"Once plasma is obtained, adjust shape to get a better match to AUG pulse 14265.",364,1698,392,31,1,9
+html body text table tbody tr td small span  ,This will involve increasing the inner gap and the radius of the x-point.,364,1730,379,15,1,9
+html body text table tbody tr td small span  ,RF should use these shots (3-4?) to tune and condition;,364,1746,294,15,1,9
+html body text table tbody tr td small span  ,For the last shot we would like a power ramp up to >~2 MW to get the,364,1762,377,15,1,9
+html body text table tbody tr td small span  ,"threshold power, and both L and H-mode tunes.",364,1778,254,15,1,9
+html body text table tbody tr td small span  ,2) High power EDAs. Use square wave RF pulse at Ptot=2.5 MW using D and E at,364,1810,396,31,1,9
+html body text table tbody tr td small span  ,"80 MHz (more if we can get it). Measure pedestals, and fluctuations.",364,1842,366,15,1,9
+html body text table tbody tr td small span  ,Tune J-port at low power on these.,364,1858,185,15,1,9
+html body text table tbody tr td small span  ,"3) Add power from J-port (70 MHz), at maximum available power. This will be",364,1906,384,31,1,9
+html body text table tbody tr td small span  ,"off-axis, which is non-optimal, but should help to raise pedestal temperature.",364,1938,339,31,1,9
+html body text table tbody tr td small span  ,4) Increase density. A dimensionless match to the best AUG 'grassy ELM' shots,364,2002,393,31,1,9
+html body text table tbody tr td small span  ,"would correspond to a line integrated density of 4.7e20, higher than our usual",364,2034,382,31,1,9
+html body text table tbody tr td small span  ,"range. Increase starting density, and probably puff gas into EDA, to see how",364,2066,406,15,1,9
+html body text table tbody tr td small span  ,"high we can get and still maintain a decent, steady H-mode (and couple enough",364,2082,381,31,1,9
+html body text table tbody tr td small span  ,"power). ECE will probably be cut off, so good ETS data are essential.",364,2114,372,15,1,9
+html body text table tbody tr td small span  ,"Again, use max available power without and with J-port.",364,2130,303,15,1,9
+html body text table tbody tr td small span  ,"4) Once the 'high density' H-mode has been characterized, use a slow power",364,2162,406,15,1,9
+html body text table tbody tr td small span  ,ramp to determine the corresponding threshold power and edge parameters.,364,2178,403,15,1,9
+html body text table tbody tr td small span  ,PHYSICS_OPERATOR,13,2248,130,15,1,9
+html body text table tbody tr td small span  ,Jul 19 2001 08:36AM,170,2240,62,31,1,9
+html body text table tbody tr td small span  ,Ian Hutchinson,273,2248,82,15,1,9
+html body text table tbody tr td small span  ,MP 287 AUG Similarity,364,2200,130,15,1,9
+html body text table tbody tr td small span  ,Cold start.,364,2232,56,15,1,9
+html body text table tbody tr td small span  ,Start PCS.,364,2248,56,15,1,9
+html body text table tbody tr td small span  ,Import segment 2 from USER10:[WOLFE.MDS.SHOTS.HYBRID.PCS]PCS_1010706000,364,2264,311,31,1,9
+html body text table tbody tr td small span  ,Load.,364,2296,31,15,1,9
+html body text table tbody tr td small span  ,SL_SUMMARY,13,4926,90,15,1,9
+html body text table tbody tr td small span  ,Jul 07 2004 03:49PM,170,4918,62,31,1,9
+html body text table tbody tr td small span  ,To Be Determined,273,4918,63,31,1,9
+html body text table tbody tr td small span  ,#41 of 43 OPS,364,2318,79,15,1,9
+html body text table tbody tr td small span  ,Date: 20-JUL-2001 15:03 Expires: 3-AUG-2001 15:03,364,2334,294,15,1,9
+html body text table tbody tr td small span  ,From: AMAZON::HUBBARD,364,2350,166,15,1,9
+html body text table tbody tr td small span  ,Subj: Run Summary 1010719 (ASDEX Upgrade Similarity),364,2366,321,15,1,9
+html body text table tbody tr td small span  ,"Physics Run Summary for 1010719, MP 287 Asdex H-mode similarity experiment",364,2398,377,31,1,9
+html body text table tbody tr td small span  ,Session Leader: Amanda Hubbard,364,2446,182,15,1,9
+html body text table tbody tr td small span  ,Physics Operator: Ian Hutchinson,364,2462,180,15,1,9
+html body text table tbody tr td small span  ,"RF Operators: S. Wukitch, Y. Lin",364,2478,178,15,1,9
+html body text table tbody tr td small span  ,"Goal: To make high density, high power EDA H-modes in a shape identical to",364,2510,402,31,1,9
+html body text table tbody tr td small span  ,"that in ASDEX-Upgrade 'Type II ELM' discharges. This regime,",364,2542,342,15,1,9
+html body text table tbody tr td small span  ,"which was only recently obtained on AUG, appears rather similar to that",364,2558,386,15,1,9
+html body text table tbody tr td small span  ,"obtained on C-Mod when power is increased into EDA H-modes. At reduced powers,",364,2574,365,31,1,9
+html body text table tbody tr td small span  ,AUG sometimes sees a 'quasi-coherent' mode. We would like to see if the same,364,2606,393,31,1,9
+html body text table tbody tr td small span  ,behaviour is observed on the two machines with the same dimensionless,364,2638,386,15,1,9
+html body text table tbody tr td small span  ,parameters. We will obtain edge profiles both at threshold and in the steady,364,2654,402,15,1,9
+html body text table tbody tr td small span  ,H-mode period. AUG will then try to match the,364,2670,254,15,1,9
+html body text table tbody tr td small span  ,"dimensionless parameters (nu*,beta, rho*) of these discharges.",364,2686,334,15,1,9
+html body text table tbody tr td small span  ,Plan:,364,2718,27,15,1,9
+html body text table tbody tr td small span  ,"1) Obtain suitable shape, plasma parameters. Start with shape from shot",364,2750,383,15,1,9
+html body text table tbody tr td small span  ,"1010605016. Raise Ip to 1.0 MA, keep Bt at 5.3 T. L-mode nel=1.1e20 m-2.",364,2766,407,15,1,9
+html body text table tbody tr td small span  ,"Once plasma is obtained, adjust shape to get a better match to AUG pulse 14265.",364,2798,392,31,1,9
+html body text table tbody tr td small span  ,This will involve increasing the inner gap and the radius of the x-point.,364,2830,379,15,1,9
+html body text table tbody tr td small span  ,RF should use these shots (3-4?) to tune and condition;,364,2846,294,15,1,9
+html body text table tbody tr td small span  ,For the last shot we would like a power ramp up to >~2 MW to get the,364,2862,377,15,1,9
+html body text table tbody tr td small span  ,"threshold power, and both L and H-mode tunes.",364,2878,254,15,1,9
+html body text table tbody tr td small span  ,2) High power EDAs. Use square wave RF pulse at Ptot=2.5 MW using D and E at,364,2910,396,31,1,9
+html body text table tbody tr td small span  ,"80 MHz (more if we can get it). Measure pedestals, and fluctuations.",364,2942,366,15,1,9
+html body text table tbody tr td small span  ,Tune J-port at low power on these.,364,2958,185,15,1,9
+html body text table tbody tr td small span  ,"3) Add power from J-port (70 MHz), at maximum available power. This will be",364,3006,384,31,1,9
+html body text table tbody tr td small span  ,"off-axis, which is non-optimal, but should help to raise pedestal temperature.",364,3038,339,31,1,9
+html body text table tbody tr td small span  ,4) Increase density. A dimensionless match to the best AUG 'grassy ELM' shots,364,3086,393,31,1,9
+html body text table tbody tr td small span  ,"would correspond to a line integrated density of 4.7e20, higher than our usual",364,3118,382,31,1,9
+html body text table tbody tr td small span  ,"range. Increase starting density, and probably puff gas into EDA, to see how",364,3150,406,15,1,9
+html body text table tbody tr td small span  ,"high we can get and still maintain a decent, steady H-mode (and couple enough",364,3166,381,31,1,9
+html body text table tbody tr td small span  ,"power). ECE will probably be cut off, so good ETS data are essential.",364,3198,372,15,1,9
+html body text table tbody tr td small span  ,"Again, use max available power without and with J-port.",364,3214,303,15,1,9
+html body text table tbody tr td small span  ,"4) Once the 'high density' H-mode has been characterized, use a slow power",364,3246,406,15,1,9
+html body text table tbody tr td small span  ,ramp to determine the corresponding threshold power and edge parameters.,364,3262,403,15,1,9
+html body text table tbody tr td small span  ,Results:,364,3294,43,15,1,9
+html body text table tbody tr td small span  ,"We had limited success with this run, primarily due to poor machine conditions.",364,3326,364,31,1,9
+html body text table tbody tr td small span  ,"This was probably a result of the recent vent, combined with the fact that we",364,3358,389,31,1,9
+html body text table tbody tr td small span  ,"were running non-standard shapes, and thus putting power on different vessel",364,3390,377,31,1,9
+html body text table tbody tr td small span  ,"surfaces. This led to impurity injections and, most critically, to a high",364,3422,370,15,1,9
+html body text table tbody tr td small span  ,hydrogen fraction (up to 20%) which limited the RF power absorption; H/D,364,3438,405,15,1,9
+html body text table tbody tr td small span  ,"typically increases during each discharge, with Pabs decreasing.",364,3454,341,15,1,9
+html body text table tbody tr td small span  ,"The shape development part of the run went quite smoothly, and we",364,3486,362,15,1,9
+html body text table tbody tr td small span  ,did get shots which were a very close match to ASDEX Upgrade shapes (see,364,3502,384,31,1,9
+html body text table tbody tr td small span  ,physics operator summary for details of changes made). These had elongation,364,3534,356,31,1,9
+html body text table tbody tr td small span  ,"close to our vertical stability limits (k~1.73), and were close to double null,",364,3566,401,15,1,9
+html body text table tbody tr td small span  ,"which may have caused some interaction with upper vessel surfaces, and possibly",364,3582,388,31,1,9
+html body text table tbody tr td small span  ,"also increased H-mode thresholds. The last AUG shaped shot, 1010719020, is a",364,3614,403,31,1,9
+html body text table tbody tr td small span  ,"good example (Delta_u=0.34, delta_l= 0.47)",364,3646,237,15,1,9
+html body text table tbody tr td small span  ,"J-port was not available for the run after all, so we ran with typically 2.3",364,3678,386,15,1,9
+html body text table tbody tr td small span  ,"MW at 80 MHz from D and E port antennas. However, the low absorption means",364,3694,396,31,1,9
+html body text table tbody tr td small span  ,"that the effective power was actually much lower, especially late in the pulse.",364,3726,377,31,1,9
+html body text table tbody tr td small span  ,"We were unable to get any H-modes which had a steady, EDA character. Many were",364,3758,386,31,1,9
+html body text table tbody tr td small span  ,"ELM-free, with strongly increasing impurities. (eg. shot 2, 14). Others, with",364,3790,406,15,1,9
+html body text table tbody tr td small span  ,"lower power and higher radiation, had periodic behaviour typical of Type III",364,3806,407,15,1,9
+html body text table tbody tr td small span  ,"ELMs; the pedestal was very cold (eg. shots 5,13). On shots 9 and 11 we ramped",364,3822,388,31,1,9
+html body text table tbody tr td small span  ,"the RF up slowly to get threshold data, and found it was over the 2.3 MW",364,3854,393,15,1,9
+html body text table tbody tr td small span  ,injected); this is very high for these C-Mod conditions. Making the discharge,364,3870,357,31,1,9
+html body text table tbody tr td small span  ,more 'single null' had little effect (shot 12). Lowering the target density,364,3902,380,15,1,9
+html body text table tbody tr td small span  ,"from nel= 0.9 to 0.7e20 m-2, while it had minimal effect on nebar at the RF",364,3918,403,15,1,9
+html body text table tbody tr td small span  ,"onset (1.35-1.4e20m-3 in both cases), resulted in much lower neutral pressure",364,3934,367,31,1,9
+html body text table tbody tr td small span  ,anda threshold of Prf=1.13 MW (shot 13). This may be a good point for threshold,364,3966,383,31,1,9
+html body text table tbody tr td small span  ,"comparison, though it was rather early in the ramp. Shot 14 had full RF power",364,3998,381,31,1,9
+html body text table tbody tr td small span  ,"at this density, and resulted in ELM-free H-modes.",364,4030,270,15,1,9
+html body text table tbody tr td small span  ,"In an attempts to favour the EDA regime, Ip was lowered from 1.0 to 0.9 MA from",364,4062,388,31,1,9
+html body text table tbody tr td small span  ,shot 15 on. This raised q95 to 4.2. The rates of density rise did decrease,364,4094,382,15,1,9
+html body text table tbody tr td small span  ,"slightly, though not an obvious EDA regime. Shot 16 had hints of a weak",364,4110,390,15,1,9
+html body text table tbody tr td small span  ,quasi-coherent,364,4126,78,15,1,9
+html body text table tbody tr td small span  ,mode on PCI. Shot 17 was colder and more ELMy. From shot 19 Bt was raised,364,4142,387,31,1,9
+html body text table tbody tr td small span  ,"from 5.3 T to 5.6 T, raising q95 still further and a better match to the AUG",364,4174,396,15,1,9
+html body text table tbody tr td small span  ,"target. This proved more difficult for the RF to match, for reasons not well",364,4190,397,15,1,9
+html body text table tbody tr td small span  ,"understood at least by me, and power was not as steady as the rest of the day.",364,4206,386,31,1,9
+html body text table tbody tr td small span  ,"The density did appear to be getting more steady, and QC modes characteristic",364,4238,345,31,1,9
+html body text table tbody tr td small span  ,"of EDA were seen on PCI. Shot 21, about 0.75-0.8 secs, may be a good time for",364,4270,407,31,1,9
+html body text table tbody tr td small span  ,"pedestal analysis. For shot 22, we went back to a standard shape, 800 kA shot",364,4302,388,31,1,9
+html body text table tbody tr td small span  ,"to check we could get EDA there. We did, but it quickly cooled and reverted to",364,4334,407,31,1,9
+html body text table tbody tr td small span  ,Type III ELMs as H/D rose.,364,4366,149,15,1,9
+html body text table tbody tr td small span  ,"In summary, as expected, it was more difficult to get steady H-modes in the",364,4398,403,15,1,9
+html body text table tbody tr td small span  ,"lower triangularity ASDEX-Upgrade shape. However, the poor machine conditions",364,4414,385,31,1,9
+html body text table tbody tr td small span  ,"and low absorbed power undoubtedly were a major impediment, and there were",364,4446,396,31,1,9
+html body text table tbody tr td small span  ,indications we were getting close. There was insufficient power to try raising,364,4478,371,31,1,9
+html body text table tbody tr td small span  ,"the density. Since the discharge development has been successfully completed,",364,4510,358,31,1,9
+html body text table tbody tr td small span  ,we would very much like to revisit this experiment on a day with better vessel,364,4542,381,31,1,9
+html body text table tbody tr td small span  ,conditions and all three RF antennas available.,364,4574,249,15,1,9
+html body text table tbody tr td small span  ,Shot Details:,364,4606,69,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,4638,337,15,0,9
+html body text table tbody tr td small span  ,1010719001 hubbard SESSION_LEADER Jul 19 2001 8:54:52:166AM,364,4654,385,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,4670,130,15,1,9
+html body text table tbody tr td small span  ,"First shot had 5.6 T, 2 MW RF with several trips. 3 H-modes, very ELM-free.",364,4686,390,31,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,4718,337,15,0,9
+html body text table tbody tr td small span  ,1010719002 hubbard SESSION_LEADER Jul 19 2001 9:13:07:103AM,364,4734,385,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,4750,130,15,1,9
+html body text table tbody tr td small span  ,"Bt= 5.35 T, 2 MW RF. 3 H-modes, very ELM-free. 3 H-modes, ended by big",364,4766,390,31,1,9
+html body text table tbody tr td small span  ,injections.,364,4798,55,15,1,9
+html body text table tbody tr td small span  ,Disrupts 1.3 secs.,364,4830,94,15,1,9
+html body text table tbody tr td small span  ,"H/D getting to 10%, and second half of flat-top is L-mode, indicating poor",364,4862,398,15,1,9
+html body text table tbody tr td small span  ,heating and/or high radiation.,364,4878,158,15,1,9
+html body text table tbody tr td small span  ,"For next shot, increase outer gap.",364,4894,177,15,1,9
+html body text table tbody tr td small span  ,-----------------------------------------------------------------------------,364,4910,342,15,0,9
+html body text table tbody tr td small span  ,1010719005 hubbard SESSION_LEADER Jul 19 2001 10:35:02:120AM,364,4926,392,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,4942,130,15,1,9
+html body text table tbody tr td small span  ,"Better; makes it to 1.47 secs. Three H-modes, and the third is quite steady.",364,4958,396,15,1,9
+html body text table tbody tr td small span  ,"However, H/D at this point is 20%, radiation is high and net power therefore",364,4974,408,15,1,9
+html body text table tbody tr td small span  ,presumably very low.,364,4990,115,15,1,9
+html body text table tbody tr td small span  ,Pedestal Te ~ 200 eV; may be in an intermittent ELMy/EDA regime.,364,5022,366,15,1,9
+html body text table tbody tr td small span  ,"For next shot, try to increase RF power. Asked Stu Zweben to delay D2 puffing",364,5054,381,31,1,9
+html body text table tbody tr td small span  ,to 1.4 secs.,364,5086,59,15,1,9
+html body text table tbody tr td small span  ,-----------------------------------------------------------------------------,364,5102,342,15,0,9
+html body text table tbody tr td small span  ,1010719006 hubbard SESSION_LEADER Jul 19 2001 10:36:52:666AM,364,5118,392,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,5134,130,15,1,9
+html body text table tbody tr td small span  ,"Disrupted 0.82 seconds. Two H-modes, not EDA. Both end due to rapid increase",364,5150,383,31,1,9
+html body text table tbody tr td small span  ,of Prad.,364,5182,42,15,1,9
+html body text table tbody tr td small span  ,"H/D still very high, though core heating seems OK in this early period.",364,5214,378,15,1,9
+html body text table tbody tr td small span  ,"Next shot: ramp RF power slowly to get threshold point, and also see if",364,5246,381,15,1,9
+html body text table tbody tr td small span  ,injections are related to,364,5262,125,15,1,9
+html body text table tbody tr td small span  ,Prf.,364,5278,20,15,1,9
+html body text table tbody tr td small span  ,-----------------------------------------------------------------------------,364,5294,342,15,0,9
+html body text table tbody tr td small span  ,1010719008 hubbard SESSION_LEADER Jul 19 2001 11:01:57:353AM,364,5310,391,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,5326,130,15,1,9
+html body text table tbody tr td small span  ,"Disrupted 0.92 seconds; vertical instability, no big injections.",364,5342,326,15,1,9
+html body text table tbody tr td small span  ,"RF ramp got to 1.2 MW, stayed in L-mode. H/D~8%.",364,5374,285,15,1,9
+html body text table tbody tr td small span  ,"Will increase outer gap a bit to try to improve stability, try ramp again.",364,5406,377,15,1,9
+html body text table tbody tr td small span  ,-----------------------------------------------------------------------------,364,5422,342,15,0,9
+html body text table tbody tr td small span  ,1010719009 hubbard SESSION_LEADER Jul 19 2001 11:49:21:743AM,364,5438,391,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,5454,130,15,1,9
+html body text table tbody tr td small span  ,"Made it all the way to rampdown, but with a huge injection 0.75 secs. RF ramps",364,5470,391,31,1,9
+html body text table tbody tr td small span  ,"to 2.3 MW, but",364,5502,81,15,1,9
+html body text table tbody tr td small span  ,stays in L-mode. Why??,364,5518,130,15,1,9
+html body text table tbody tr td small span  ,ECE valve was closed.,364,5550,122,15,1,9
+html body text table tbody tr td small span  ,"Nice shape match, esp earlier in flat-top",364,5582,213,15,1,9
+html body text table tbody tr td small span  ,-----------------------------------------------------------------------------,364,5598,342,15,0,9
+html body text table tbody tr td small span  ,1010719011 hubbard SESSION_LEADER Jul 19 2001 12:20:25:196PM,364,5614,389,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,5630,130,15,1,9
+html body text table tbody tr td small span  ,"Made it to 1.4 seconds. RF ramps 1.0 to 2.3 MW, as requested. Plasma STILL",364,5646,377,31,1,9
+html body text table tbody tr td small span  ,stays in L-mode. Why??,364,5678,130,15,1,9
+html body text table tbody tr td small span  ,"Got good central heating, Te0 1.3-2.6 keV.",364,5694,227,15,1,9
+html body text table tbody tr td small span  ,Possibly we are too close to double-null; will change upper x-pt for next shot,364,5726,386,31,1,9
+html body text table tbody tr td small span  ,and repeat.,364,5758,58,15,1,9
+html body text table tbody tr td small span  ,-----------------------------------------------------------------------------,364,5774,342,15,0,9
+html body text table tbody tr td small span  ,1010719012 hubbard SESSION_LEADER Jul 19 2001 12:45:39:916PM,364,5790,390,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,5806,130,15,1,9
+html body text table tbody tr td small span  ,VERY similar to shot 11.,364,5822,134,15,1,9
+html body text table tbody tr td small span  ,"Made it to 1.4 seconds. RF ramps 1.0 to 2.3 MW, as requested. Plasma STILL",364,5838,377,31,1,9
+html body text table tbody tr td small span  ,stays in L-mode. Why??,364,5870,130,15,1,9
+html body text table tbody tr td small span  ,"Try backing off on density, replace ~200 kW of D-port power by E-port in case",364,5918,396,31,1,9
+html body text table tbody tr td small span  ,it is contributing to the,364,5950,121,15,1,9
+html body text table tbody tr td small span  ,injection.,364,5966,50,15,1,9
+html body text table tbody tr td small span  ,-----------------------------------------------------------------------------,364,5982,342,15,0,9
+html body text table tbody tr td small span  ,1010719013 hubbard SESSION_LEADER Jul 19 2001 1:09:58:650PM,364,5998,383,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,6014,130,15,1,9
+html body text table tbody tr td small span  ,"Lowering density got us into H-mode, at 0.665 secs, 1.13 MW. H-mode was very",364,6030,406,31,1,9
+html body text table tbody tr td small span  ,ELMy; low pedestal,364,6062,109,15,1,9
+html body text table tbody tr td small span  ,"temperatures. RF ramped up slowly as requested, H/D ramped up to 0.2 (as NOT",364,6078,402,31,1,9
+html body text table tbody tr td small span  ,requested).,364,6110,59,15,1,9
+html body text table tbody tr td small span  ,Next shot try full RF power right away.,364,6142,210,15,1,9
+html body text table tbody tr td small span  ,-----------------------------------------------------------------------------,364,6158,342,15,0,9
+html body text table tbody tr td small span  ,1010719014 hubbard SESSION_LEADER Jul 19 2001 1:21:51:980PM,364,6174,383,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,6190,130,15,1,9
+html body text table tbody tr td small span  ,"Got 2.3 MW, only a few minor trips. This time we had a series of more ELM-free",364,6206,378,31,1,9
+html body text table tbody tr td small span  ,"H-modes, with",364,6238,79,15,1,9
+html body text table tbody tr td small span  ,accumulating impurities and radiation. Not a pretty sight. H/D is up to 0.18!,364,6254,405,15,1,9
+html body text table tbody tr td small span  ,"Next shot, lower Ip to 0.9 MW in an attempt to get EDA conditions.",364,6286,363,15,1,9
+html body text table tbody tr td small span  ,-----------------------------------------------------------------------------,364,6302,342,15,0,9
+html body text table tbody tr td small span  ,1010719015 hubbard SESSION_LEADER Jul 19 2001 2:08:46:020PM,364,6318,383,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,6334,130,15,1,9
+html body text table tbody tr td small span  ,"Reducing Ip to 900 kA increased q95 to ~4.2. Got a somewhat longer, steadier",364,6350,373,31,1,9
+html body text table tbody tr td small span  ,H-mode;,364,6382,47,15,1,9
+html body text table tbody tr td small span  ,not quite EDA I think. A few RF trips; retune and repeat.,364,6398,302,15,1,9
+html body text table tbody tr td small span  ,-----------------------------------------------------------------------------,364,6430,342,15,0,9
+html body text table tbody tr td small span  ,1010719016 hubbard SESSION_LEADER Jul 19 2001 2:16:33:593PM,364,6446,383,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,6462,130,15,1,9
+html body text table tbody tr td small span  ,"Steady RF on this one, 2.2 MW. For some reason H-modes are shorter, accumulate",364,6478,377,31,1,9
+html body text table tbody tr td small span  ,more ne and,364,6510,66,15,1,9
+html body text table tbody tr td small span  ,"impurities. Next shot, increase nel ~ 10%.",364,6526,224,15,1,9
+html body text table tbody tr td small span  ,Nel was 0.75-1.84x10^20 m-2 on this one.,364,6542,227,15,1,9
+html body text table tbody tr td small span  ,Appears to be a weak quasicoherent mode partway through these H-modes (as seen,364,6574,399,31,1,9
+html body text table tbody tr td small span  ,on PCI).,364,6606,45,15,1,9
+html body text table tbody tr td small span  ,Frequency is lower than usual.,364,6622,163,15,1,9
+html body text table tbody tr td small span  ,-----------------------------------------------------------------------------,364,6638,342,15,0,9
+html body text table tbody tr td small span  ,1010719017 hubbard SESSION_LEADER Jul 19 2001 2:38:33:220PM,364,6654,383,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,6670,130,15,1,9
+html body text table tbody tr td small span  ,"At slightly higher nel 0.87-1.9x10^20 m-2, got into a series of ELMy periods.",364,6686,369,31,1,9
+html body text table tbody tr td small span  ,"Temperatures, edge and",364,6718,127,15,1,9
+html body text table tbody tr td small span  ,"core, drop dramatically through RF pulse, presumably due to high H/D.",364,6734,382,15,1,9
+html body text table tbody tr td small span  ,"For the next shot, raise Bt to 5.6 T, as in the original run plan, thus raising",364,6766,393,15,1,9
+html body text table tbody tr td small span  ,q95.,364,6782,23,15,1,9
+html body text table tbody tr td small span  ,-----------------------------------------------------------------------------,364,6798,342,15,0,9
+html body text table tbody tr td small span  ,1010719019 hubbard SESSION_LEADER Jul 19 2001 3:09:55:533PM,364,6814,383,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,6830,130,15,1,9
+html body text table tbody tr td small span  ,"Bt 5.6, q95=4.3. two H-modes, but really not at all EDAish. ne, Prad rise",364,6846,389,15,1,9
+html body text table tbody tr td small span  ,and erode Tedge.,364,6862,91,15,1,9
+html body text table tbody tr td small span  ,RF had some trips; will retune for the new field and try again.,364,6878,330,15,1,9
+html body text table tbody tr td small span  ,Also increasing outer gap slightly.,364,6910,182,15,1,9
+html body text table tbody tr td small span  ,-----------------------------------------------------------------------------,364,6926,342,15,0,9
+html body text table tbody tr td small span  ,1010719020 hubbard SESSION_LEADER Jul 19 2001 3:43:27:930PM,364,6942,383,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,6958,130,15,1,9
+html body text table tbody tr td small span  ,"Rather similar. RF finds big loading changes ~0.8-0.9. Retune, lower power",364,6974,404,15,1,9
+html body text table tbody tr td small span  ,and try again.,364,6990,73,15,1,9
+html body text table tbody tr td small span  ,-----------------------------------------------------------------------------,364,7006,342,15,0,9
+html body text table tbody tr td small span  ,1010719021 hubbard SESSION_LEADER Jul 19 2001 3:52:12:270PM,364,7022,383,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,7038,130,15,1,9
+html body text table tbody tr td small span  ,"Still a lot of RF trips. Two H-modes. The first has a steadier density,",364,7054,363,15,1,9
+html body text table tbody tr td small span  ,though conditions never get,364,7070,148,15,1,9
+html body text table tbody tr td small span  ,"quite stationary. Period 0.75-0.8 secs is fairly steady, may be good to look",364,7086,394,15,1,9
+html body text table tbody tr td small span  ,at pedestal parameters.,364,7102,122,15,1,9
+html body text table tbody tr td small span  ,QC mode appears during this window too (on PCI),364,7118,272,15,1,9
+html body text table tbody tr td small span  ,"nel1.6e20 m-2, nebar=2.8e20 m-3, TE,ped 340 ev(Thomson) (also Te7, ECE), te_95",364,7150,381,31,1,9
+html body text table tbody tr td small span  ,"=400 eV,",364,7182,48,15,1,9
+html body text table tbody tr td small span  ,ne_95 1.8e20.,364,7198,75,15,1,9
+html body text table tbody tr td small span  ,"All profiles, parameters need checking!",364,7230,211,15,1,9
+html body text table tbody tr td small span  ,"For next shot, load a standard C-Mod shape from 1010716004, 780 kA, 5.36 T, to",364,7262,382,31,1,9
+html body text table tbody tr td small span  ,see if we get back,364,7294,95,15,1,9
+html body text table tbody tr td small span  ,a good EDA.,364,7310,70,15,1,9
+html body text table tbody tr td small span  ,-----------------------------------------------------------------------------,364,7342,342,15,0,9
+html body text table tbody tr td small span  ,1010719022 hubbard SESSION_LEADER Jul 19 2001 4:10:21:470PM,364,7358,383,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,7374,130,15,1,9
+html body text table tbody tr td small span  ,"reload of 1010716004 (780 kA, standard shape) does give EDA, at least to ~0.8",364,7390,398,31,1,9
+html body text table tbody tr td small span  ,seconds. Edge and core,364,7422,125,15,1,9
+html body text table tbody tr td small span  ,"temps then decrease, presumably due to H/D increase (8-12 %), and discharge",364,7438,363,31,1,9
+html body text table tbody tr td small span  ,gets ELMy.,364,7470,62,15,1,9
+html body text table tbody tr td small span  ,PCI sees 'classic QC mode',364,7486,145,15,1,9
+html body text table tbody tr td small span  ,"~1.9 MW RF, better loading.",364,7518,154,15,1,9
+html body text table tbody tr td small span  ,-,364,7534,4,15,1,9
+html body text table tbody tr td small span  ,PO_SUMMARY,13,9348,92,15,1,9
+html body text table tbody tr td small span  ,Jul 07 2004 04:37PM,170,9340,62,31,1,9
+html body text table tbody tr td small span  ,To Be Determined,273,9340,63,31,1,9
+html body text table tbody tr td small span  ,Physop Summary for 19 Jul 2001,364,7564,179,15,1,9
+html body text table tbody tr td small span  ,MP 287 AUG Similarity.,364,7596,133,15,1,9
+html body text table tbody tr td small span  ,PO Hutch,364,7628,53,15,1,9
+html body text table tbody tr td small span  ,SL Hubbard.,364,7644,68,15,1,9
+html body text table tbody tr td small span  ,Summary,364,7692,52,15,1,9
+html body text table tbody tr td small span  ,_______,364,7708,47,15,1,9
+html body text table tbody tr td small span  ,Shapes that are an excellent match to the scaled AUG shape were,364,7740,348,15,1,9
+html body text table tbody tr td small span  ,obtained (e.g. 21) and many were run. A comparison plot is in,364,7756,330,15,1,9
+html body text table tbody tr td small span  ,user10:[hutch.ps]aug_match.ps. They are close to double null;,364,7772,332,15,1,9
+html body text table tbody tr td small span  ,although a range of three sseps was run without obvious effect on the,364,7788,369,15,1,9
+html body text table tbody tr td small span  ,plasma character. No solid EDA H-modes were obtained. The H/D was high,364,7804,407,15,1,9
+html body text table tbody tr td small span  ,"and rose strongly with RF in the early part of the day. Later on, the",364,7820,356,15,1,9
+html body text table tbody tr td small span  ,"rises seemed less significant, but in all cases the H/D was above 10%",364,7836,369,15,1,9
+html body text table tbody tr td small span  ,during much of the RF pulse. Heating was clearly inefficient in many,364,7852,370,15,1,9
+html body text table tbody tr td small span  ,cases. In some others heating was ok even at high H/D.,364,7868,295,15,1,9
+html body text table tbody tr td small span  ,The early part of the day was plagued with injections. Many appeared,364,7900,372,15,1,9
+html body text table tbody tr td small span  ,to be caused by visible sparks on the upper left corner of D-antenna.,364,7916,364,15,1,9
+html body text table tbody tr td small span  ,"Some others were not RF induced. As the day wore on, these problems",364,7932,378,15,1,9
+html body text table tbody tr td small span  ,"were less severe, and the plasma ran reasonably reliably.",364,7948,301,15,1,9
+html body text table tbody tr td small span  ,These shapes are fairly close to stability limits. One or two VDEs were,364,7980,378,15,1,9
+html body text table tbody tr td small span  ,experienced. The chopper V was set to 150 to 200 instead of the usual 0,364,7996,383,15,1,9
+html body text table tbody tr td small span  ,to lower the operating average current to a position closer to the center,364,8012,377,15,1,9
+html body text table tbody tr td small span  ,of its range. This adjustment seemed to be a significant improvement in,364,8028,382,15,1,9
+html body text table tbody tr td small span  ,that it allowed operation with an elongation that gave rise to noisy chopper,364,8044,399,15,1,9
+html body text table tbody tr td small span  ,behaviour without leading to saturations and subsequent VDE.,364,8060,334,15,1,9
+html body text table tbody tr td small span  ,A manual gas puff during the RF did not significantly improve the,364,8092,353,15,1,9
+html body text table tbody tr td small span  ,"operation, but also did not seem to give much impact on the RF coupling",364,8108,389,15,1,9
+html body text table tbody tr td small span  ,despite a x2 rise in main chamber neutral pressure.,364,8124,271,15,1,9
+html body text table tbody tr td small span  ,It appears to be confirmed that the lower triangularity that is needed to,364,8156,376,15,1,9
+html body text table tbody tr td small span  ,match AUG makes it harder to get into EDA. The high H level was also,364,8172,383,15,1,9
+html body text table tbody tr td small span  ,definitely a handicap.,364,8188,115,15,1,9
+html body text table tbody tr td small span  ,Scorecard.,364,8236,57,15,1,9
+html body text table tbody tr td small span  ,__________,364,8252,67,15,0,9
+html body text table tbody tr td small span  ,"Shot,Duration(s),Ipmax(MA) Shot,Duration(s),Ipmax",364,8284,287,15,1,9
+html body text table tbody tr td small span  ,1 1.910 1.005 2 1.322 1.059,364,8300,150,15,1,9
+html body text table tbody tr td small span  ,3 0.745 1.012 4 0.934 1.002,364,8316,150,15,1,9
+html body text table tbody tr td small span  ,5 1.533 0.992 6 0.816 0.999,364,8332,150,15,1,9
+html body text table tbody tr td small span  ,7 0.000 0.031 8 0.939 1.062,364,8348,150,15,1,9
+html body text table tbody tr td small span  ,9 1.889 0.992 10 0.000 0.034,364,8364,157,15,1,9
+html body text table tbody tr td small span  ,11 1.443 1.012 12 1.456 1.023,364,8380,163,15,1,9
+html body text table tbody tr td small span  ,13 1.925 0.999 14 1.671 1.005,364,8396,163,15,1,9
+html body text table tbody tr td small span  ,15 1.905 0.911 16 1.912 0.909,364,8412,163,15,1,9
+html body text table tbody tr td small span  ,17 1.895 0.908 18 0.000 0.024,364,8428,163,15,1,9
+html body text table tbody tr td small span  ,19 1.920 0.914 20 1.905 0.914,364,8444,163,15,1,9
+html body text table tbody tr td small span  ,21 1.928 0.914 22 1.921 0.810,364,8460,163,15,1,9
+html body text table tbody tr td small span  ,Finished summary for 1010719 Total of 22 shots.,364,8492,263,15,1,9
+html body text table tbody tr td small span  ,22 shots. 19 plasmas. 1 fizzles. 2 PS duds.,364,8508,225,15,1,9
+html body text table tbody tr td small span  ,Details,364,8556,38,15,1,9
+html body text table tbody tr td small span  ,_______,364,8572,47,15,1,9
+html body text table tbody tr td small span  ,1010719xxx hutch PHYSICS_OPERATOR Jul 19 2001 8:36:56:150AM,364,8604,388,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,8620,130,15,1,9
+html body text table tbody tr td small span  ,MP 287 AUG Similarity,364,8636,130,15,1,9
+html body text table tbody tr td small span  ,Cold start.,364,8668,56,15,1,9
+html body text table tbody tr td small span  ,Start PCS.,364,8684,56,15,1,9
+html body text table tbody tr td small span  ,Import segment 2 from USER10:[WOLFE.MDS.SHOTS.HYBRID.PCS]PCS_1010706000,364,8700,311,31,1,9
+html body text table tbody tr td small span  ,Load.,364,8732,31,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,8748,337,15,0,9
+html body text table tbody tr td small span  ,1010719001 hutch PHYSICS_OPERATOR Jul 19 2001 8:56:17:993AM,364,8764,388,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,8780,130,15,1,9
+html body text table tbody tr td small span  ,Plasma. 3 ELM-free H-modes and a ramp-down. RF a ragged 2MW max.,364,8796,393,15,1,9
+html body text table tbody tr td small span  ,zxu to 0 from +2cm,364,8844,106,15,1,9
+html body text table tbody tr td small span  ,Bt to 5.4T (150kA),364,8860,103,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,8876,337,15,0,9
+html body text table tbody tr td small span  ,1010719002 hutch PHYSICS_OPERATOR Jul 19 2001 9:13:21:963AM,364,8892,388,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,8908,130,15,1,9
+html body text table tbody tr td small span  ,Plasma disrupts at 1.3s seems to be an injection.,364,8924,257,15,1,9
+html body text table tbody tr td small span  ,RF antenna injections earlier in the shot cause H-mode drop outs.,364,8940,349,15,1,9
+html body text table tbody tr td small span  ,Move rcur in 2-3mm. Lower clearin 0-1mm.,364,8972,238,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,8988,337,15,0,9
+html body text table tbody tr td small span  ,1010719003 hutch PHYSICS_OPERATOR Jul 19 2001 9:34:30:933AM,364,9004,388,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,9020,130,15,1,9
+html body text table tbody tr td small span  ,Plasma disrupts at 0.73s. Big injection. Appears on wide angle at D.,364,9036,362,15,1,9
+html body text table tbody tr td small span  ,Take 1 ms off the fill puff to compensate for the DNB.,364,9068,290,15,1,9
+html body text table tbody tr td small span  ,Add 2mm to rxl.,364,9084,89,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,9100,337,15,0,9
+html body text table tbody tr td small span  ,1010719004 hutch PHYSICS_OPERATOR Jul 19 2001 9:55:15:370AM,364,9116,388,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,9132,130,15,1,9
+html body text table tbody tr td small span  ,Plasma disrupts at 0.92s.,364,9148,132,15,1,9
+html body text table tbody tr td small span  ,Multiple injections starting at 0.56s. Which is before the,364,9164,300,15,1,9
+html body text table tbody tr td small span  ,RF turns on.,364,9180,66,15,1,9
+html body text table tbody tr td small span  ,Install a ramp in rxl to try to avoid the injections.,364,9212,262,15,1,9
+html body text table tbody tr td small span  ,Raise nl04 at 0.2ms to try to keep puff on.,364,9228,224,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,9244,337,15,0,9
+html body text table tbody tr td small span  ,1010719005 hutch PHYSICS_OPERATOR Jul 19 2001 10:20:30:026AM,364,9260,394,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,9276,130,15,1,9
+html body text table tbody tr td small span  ,Plasma. Disrupts at 1.52s. H to D ratio is high.,364,9292,248,15,1,9
+html body text table tbody tr td small span  ,Repeat,364,9324,37,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,9340,337,15,0,9
+html body text table tbody tr td small span  ,1010719006 hutch PHYSICS_OPERATOR Jul 19 2001 10:38:06:526AM,364,9356,394,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,9372,130,15,1,9
+html body text table tbody tr td small span  ,Plasma. Disrupts at .62s.,364,9388,132,15,1,9
+html body text table tbody tr td small span  ,Remove the big rxl jerk in ramp-down.,364,9420,208,15,1,9
+html body text table tbody tr td small span  ,Also ramp to the lower triangularity quicker. By .9s.,364,9436,279,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,9452,337,15,0,9
+html body text table tbody tr td small span  ,1010719007 hutch PHYSICS_OPERATOR Jul 19 2001 10:49:54:806AM,364,9468,394,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,9484,130,15,1,9
+html body text table tbody tr td small span  ,No TF. Dud.,364,9500,67,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,9516,337,15,0,9
+html body text table tbody tr td small span  ,1010719008 hutch PHYSICS_OPERATOR Jul 19 2001 11:25:21:853AM,364,9532,394,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,9548,130,15,1,9
+html body text table tbody tr td small span  ,Plasma. Disrupts at 0.93s. VDE. Chopper working hard.,364,9564,300,15,1,9
+html body text table tbody tr td small span  ,Reduce clearin by 2mm.,364,9596,130,15,1,9
+html body text table tbody tr td small span  ,Put chopper V to +150V during shot to change offset,364,9612,282,15,1,9
+html body text table tbody tr td small span  ,and try to give us more headroom on vertical control.,364,9628,284,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,9644,337,15,0,9
+html body text table tbody tr td small span  ,1010719009 hutch PHYSICS_OPERATOR Jul 19 2001 11:47:15:823AM,364,9660,394,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,9676,130,15,1,9
+html body text table tbody tr td small span  ,Plasma. Survived to ramp-down.,364,9692,175,15,1,9
+html body text table tbody tr td small span  ,Chopper average current was lowered as anticipated and this seems,364,9724,359,15,1,9
+html body text table tbody tr td small span  ,to be a better place to run.,364,9740,139,15,1,9
+html body text table tbody tr td small span  ,RF stayed on. No H-mode.,364,9756,144,15,1,9
+html body text table tbody tr td small span  ,Repeat,364,9788,37,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,9804,337,15,0,9
+html body text table tbody tr td small span  ,1010719010 hutch PHYSICS_OPERATOR Jul 19 2001 12:05:42:963PM,364,9820,392,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,9836,130,15,1,9
+html body text table tbody tr td small span  ,Fizzle.,364,9852,36,15,1,9
+html body text table tbody tr td small span  ,Take 0.5ms off the gas fill puff.,364,9884,168,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,9900,337,15,0,9
+html body text table tbody tr td small span  ,1010719011 hutch PHYSICS_OPERATOR Jul 19 2001 12:28:12:823PM,364,9916,392,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,9932,130,15,1,9
+html body text table tbody tr td small span  ,Plasma disrupts at 1.4s. Injection. No H-mode.,364,9948,250,15,1,9
+html body text table tbody tr td small span  ,"zxu to .01 from 0, to back away from double null and",364,9980,285,15,1,9
+html body text table tbody tr td small span  ,see if we can get H-mode back,364,9996,164,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,10012,337,15,0,9
+html body text table tbody tr td small span  ,1010719012 hutch PHYSICS_OPERATOR Jul 19 2001 12:48:03:806PM,364,10028,392,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,10044,130,15,1,9
+html body text table tbody tr td small span  ,Plasma. Disrupts at 1.45s. These injections seem to occur at D antenna.,364,10060,380,15,1,9
+html body text table tbody tr td small span  ,nl04 to 0.9 from 1.1,364,10092,107,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,10108,337,15,0,9
+html body text table tbody tr td small span  ,1010719013 hutch PHYSICS_OPERATOR Jul 19 2001 1:10:14:790PM,364,10124,386,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,10140,130,15,1,9
+html body text table tbody tr td small span  ,Plasma. H-modes. No disruption.,364,10156,178,15,1,9
+html body text table tbody tr td small span  ,Repeat.,364,10188,40,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,10204,337,15,0,9
+html body text table tbody tr td small span  ,1010719014 hutch PHYSICS_OPERATOR Jul 19 2001 1:31:57:056PM,364,10220,386,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,10236,130,15,1,9
+html body text table tbody tr td small span  ,Plasma. Similar to previous. Disruption in ramp down. Horrid,364,10252,331,15,1,9
+html body text table tbody tr td small span  ,ragged H-modes.,364,10268,92,15,1,9
+html body text table tbody tr td small span  ,Ip to .9MA.,364,10300,63,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,10316,337,15,0,9
+html body text table tbody tr td small span  ,1010719015 hutch PHYSICS_OPERATOR Jul 19 2001 1:55:33:776PM,364,10332,386,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,10348,130,15,1,9
+html body text table tbody tr td small span  ,Plasma. H/D peaks at 17%.,364,10364,146,15,1,9
+html body text table tbody tr td small span  ,Chopper V ramps to 200 at 1.3s,364,10396,169,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,10412,337,15,0,9
+html body text table tbody tr td small span  ,1010719016 hutch PHYSICS_OPERATOR Jul 19 2001 2:23:02:633PM,364,10428,386,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,10444,130,15,1,9
+html body text table tbody tr td small span  ,Plasma. Similar to previous.,364,10460,151,15,1,9
+html body text table tbody tr td small span  ,Raise early nl04 and target to .95.,364,10492,180,15,1,9
+html body text table tbody tr td small span  ,Put a V gas 3 puff of 50V at .75 to .85s.,364,10508,212,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,10524,337,15,0,9
+html body text table tbody tr td small span  ,1010719017 hutch PHYSICS_OPERATOR Jul 19 2001 2:38:23:720PM,364,10540,386,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,10556,130,15,1,9
+html body text table tbody tr td small span  ,Plasma. Radiative L/H sustained phase.,364,10572,211,15,1,9
+html body text table tbody tr td small span  ,TF current to 156kA.,364,10604,113,15,1,9
+html body text table tbody tr td small span  ,Back off slightly on nl04 during .5s.,364,10620,193,15,1,9
+html body text table tbody tr td small span  ,Manual V pulse to 100V.,364,10636,133,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,10652,337,15,0,9
+html body text table tbody tr td small span  ,1010719018 hutch PHYSICS_OPERATOR Jul 19 2001 2:53:27:166PM,364,10668,386,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,10684,130,15,1,9
+html body text table tbody tr td small span  ,Dud. No EF4.,364,10700,75,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,10716,337,15,0,9
+html body text table tbody tr td small span  ,1010719019 hutch PHYSICS_OPERATOR Jul 19 2001 3:16:23:890PM,364,10732,386,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,10748,130,15,1,9
+html body text table tbody tr td small span  ,Plasma.,364,10764,42,15,1,9
+html body text table tbody tr td small span  ,Move in Rcur by 2mm.,364,10796,125,15,1,9
+html body text table tbody tr td small span  ,Turn off nl04 gain at .6s.,364,10812,132,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,10828,337,15,0,9
+html body text table tbody tr td small span  ,1010719020 hutch PHYSICS_OPERATOR Jul 19 2001 3:38:09:733PM,364,10844,386,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,10860,130,15,1,9
+html body text table tbody tr td small span  ,Plasma. 3 H-modes. RF tripping. Survives the narrower shape.,364,10876,334,15,1,9
+html body text table tbody tr td small span  ,RF reports a big drop in load during the time the neutral pressure,364,10908,346,15,1,9
+html body text table tbody tr td small span  ,is rising. Hence remove the gas puff.,364,10924,196,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,10940,337,15,0,9
+html body text table tbody tr td small span  ,1010719021 hutch PHYSICS_OPERATOR Jul 19 2001 4:03:49:336PM,364,10956,386,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,10972,130,15,1,9
+html body text table tbody tr td small span  ,Plasma.,364,10988,42,15,1,9
+html body text table tbody tr td small span  ,Import segment 2 from 1010716004 a standard EDA shot at .8MA.,364,11020,358,15,1,9
+html body text table tbody tr td small span  ,"The ramp in antenna loading is still strong, apparently. Hence",364,11036,328,15,1,9
+html body text table tbody tr td small span  ,we can probably rule out the gas puff as the cause.,364,11052,269,15,1,9
+html body text table tbody tr td small span  ,----------------------------------------------------------------------------,364,11068,337,15,0,9
+html body text table tbody tr td small span  ,1010719022 hutch PHYSICS_OPERATOR Jul 19 2001 4:04:45:336PM,364,11084,386,15,1,9
+html body text table tbody tr td small span  ,. . . . . . . . . . . . . . . . . . . .,364,11100,130,15,1,9
+html body text table tbody tr td small span  ,Plasma. EDA just. But not pretty.,364,11116,178,15,1,9
+html body text table tbody tr td small span  ,TCI,13,11170,21,15,1,9
+html body text table tbody tr td small span  ,Jul 19 2001 07:55AM,170,11162,62,31,1,9
+html body text table tbody tr td small span  ,Rick Murray,273,11170,68,15,1,9
+html body text table tbody tr td small span  ,TCI signal levels look good this morning.,364,11170,223,15,1,9

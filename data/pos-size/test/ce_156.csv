@@ -1,0 +1,138 @@
+tag,content,x,y,width,height,label,depth
+html body text div div div div div a span  ,Log in,0,0,0,0,0,10
+html body text div div div div div span  ,|,0,0,0,0,0,9
+html body text div div div div div a span  ,Sign up,0,0,0,0,0,10
+html body text div div div div a span  ,Why join?,0,0,0,0,0,9
+html body text div div div form div label span  ,Remember me,0,0,0,0,0,10
+html body text div div div form div span  ,|,0,0,0,0,0,9
+html body text div div div form div a span  ,Forgot password?,0,0,0,0,0,10
+html body text div div div div span span  ,Welcome,0,0,0,0,0,9
+html body text div div div div span span  ,(,0,0,0,0,0,9
+html body text div div div div span a span  ,log out,0,0,0,0,0,10
+html body text div div div div span span  ,),0,0,0,0,0,9
+html body text div div div div a span  ,View profile,0,0,0,0,0,9
+html body text div div div div div form div span  ,Search:,8,97,48,17,0,11
+html body text div div div div div form select option  ,Reviews,0,0,0,0,0,11
+html body text div div div div div form select option  ,All CNET,0,0,0,0,0,11
+html body text div div div div div form select option  ,The Web,0,0,0,0,0,11
+html body text div div div div a span  ,Today on CNET,8,192,106,17,0,9
+html body text div div div div a span  ,Reviews,8,210,55,17,0,9
+html body text div div div div a span  ,News,8,228,36,17,0,9
+html body text div div div div a span  ,Downloads,8,246,73,17,0,9
+html body text div div div div a span  ,Tips & Tricks,8,264,88,17,0,9
+html body text div div div div a span  ,CNET TV,8,282,67,17,0,9
+html body text div div div div a span  ,Compare Prices,8,300,102,17,0,9
+html body text div div div div div div a span  ,Cell phones,8,318,80,17,0,11
+html body text div div div div div div span  ,|,88,318,7,17,0,10
+html body text div div div div div div a span  ,Desktops,95,318,64,17,0,11
+html body text div div div div div div span  ,|,159,318,7,17,0,10
+html body text div div div div div div a span  ,Digital cameras,166,318,105,17,0,11
+html body text div div div div div div span  ,|,271,318,7,17,0,10
+html body text div div div div div div a span  ,Laptops,278,318,56,17,0,11
+html body text div div div div div div span  ,|,334,318,7,17,0,10
+html body text div div div div div div a span  ,MP3 players,341,318,85,17,0,11
+html body text div div div div div div span  ,|,426,318,7,17,0,10
+html body text div div div div div div a span  ,TVs,433,318,32,17,0,11
+html body text div div div div div div span  ,|,465,318,6,17,0,10
+html body text div div div div div div a span  ,All Categories,471,318,93,17,0,11
+html body text div div div div div div div div div b span  ,What's on CNET,28,356,118,17,0,14
+html body text div div div div div div div div div b a span  ,Find the perfect gift,16,522,136,17,0,15
+html body text div div div div div div div div div div span  ,"Who doesn't want an MP3 player, a big TV, or a shiny new laptop? CNET's editors have picked the best tech you can get this year--more than 200 gift ideas for every budget and desire.",18,543,134,179,0,14
+html body text div div div div div div div div div a span  ,Read more,54,726,70,17,0,14
+html body text div div div div div div div div div div b span  ,More shopping help:,23,786,103,35,0,15
+html body text div div div div div div div div div div ul li a span  ,Holiday Helpdesk,63,840,60,35,0,17
+html body text div div div div div div div div div div ul li a span  ,Personal shopper podcasts,63,876,55,53,0,17
+html body text div div div div div div div div div div ul li a span  ,Ultimate luxuries,63,930,56,35,0,17
+html body text div div div div div div div div div div ul li a span  ,Holiday Countdown,63,966,75,35,0,17
+html body text div div div div div div div div div div ul li a span  ,Holiday treat calendar,63,1002,84,35,0,17
+html body text div div div div div div table tbody tr td div table tbody tr td span b span  ,Anarchy Online (PC),20,1111,145,17,1,21
+html body text div div div div div div table tbody tr td div table tbody tr td span  ,By: Andrew Park,20,1133,111,17,1,19
+html body text div div div div div div table tbody tr td div table tbody tr td p span  ,"It's safe to say that Funcom's online role-playing game, Anarchy Online, has been one of the most widely and eagerly anticipated games this year...",20,1167,700,35,1,20
+html body text div div div div div div table tbody tr td div form span b span  ,Email this to:,18,1221,92,17,0,18
+html body text div div div div div div table tbody tr td div form span span  ,Enter the email address of the recipient.,18,1257,255,17,0,17
+html body text div div div div div div table tbody tr td div form span p b span  ,Add your own personal message:,18,1291,226,17,0,19
+html body text div div div div div div table tbody tr td div form span p b span  ,Enter your email address:,18,1434,177,17,0,19
+html body text div div div div div div table tbody tr td div form span p font span  ,Note:,18,1470,39,17,0,19
+html body text div div div div div div table tbody tr td div form span p span  ,Your email address is used,57,1470,175,17,0,18
+html body text div div div div div div table tbody tr td div form span p i span  ,only,232,1470,31,17,0,19
+html body text div div div div div div table tbody tr td div form span p span  ,to let the recipient know who sent the email and in case of transmission error. Neither your address nor the recipient's address will be used for any other purpose.,18,1470,741,35,0,18
+html body text div div div div div div table tbody tr td div p span span  ,Dell Home PCs,8,1564,104,17,0,17
+html body text div div div div div div table tbody tr td div p span a span  ,Dell,112,1564,32,17,0,18
+html body text div div div div div div table tbody tr td div p span span span  ,•,144,1564,10,17,0,18
+html body text div div div div div div table tbody tr td div p span a span  ,Home,154,1564,43,17,0,18
+html body text div div div div div div table tbody tr td div p span span span  ,•,197,1564,9,17,0,18
+html body text div div div div div div table tbody tr td div p span a span  ,Systems,206,1564,54,17,0,18
+html body text div div div div div div div a span  ,Help Center,8,1582,82,17,0,12
+html body text div div div div div div div span  ,|,90,1582,7,17,0,11
+html body text div div div div div div div a span  ,Corrections,97,1582,79,17,0,12
+html body text div div div div div div div span  ,|,176,1582,7,17,0,11
+html body text div div div div div div div a span  ,What's New,183,1582,82,17,0,12
+html body text div div div div div div div span  ,|,264,1582,6,17,0,11
+html body text div div div div div div div a span  ,All Product Reviews,271,1582,137,17,0,12
+html body text div div div div div div div span  ,|,408,1582,7,17,0,11
+html body text div div div div div div div form div span  ,Search:,8,1600,48,17,0,13
+html body text div div div div div div div form select option  ,Reviews,0,0,0,0,0,13
+html body text div div div div div div div form select option  ,All CNET,0,0,0,0,0,13
+html body text div div div div div div div form select option  ,The Web,0,0,0,0,0,13
+html body text div div div div div div span  ,Popular topics:,8,1677,100,17,0,10
+html body text div div div div div div a span  ,Adobe,108,1677,46,17,0,11
+html body text div div div div div div span  ,|,154,1677,7,17,0,10
+html body text div div div div div div a span  ,Antivirus,161,1677,64,17,0,11
+html body text div div div div div div span  ,|,225,1677,6,17,0,10
+html body text div div div div div div a span  ,AVG,231,1677,37,17,0,11
+html body text div div div div div div span  ,|,268,1677,7,17,0,10
+html body text div div div div div div a span  ,Games,275,1677,49,17,0,11
+html body text div div div div div div span  ,|,324,1677,7,17,0,10
+html body text div div div div div div a span  ,Drivers,331,1677,52,17,0,11
+html body text div div div div div div span  ,|,383,1677,7,17,0,10
+html body text div div div div div div a span  ,Java,390,1677,32,17,0,11
+html body text div div div div div div span  ,|,422,1677,8,17,0,10
+html body text div div div div div div a span  ,Photoshop,430,1677,71,17,0,11
+html body text div div div div div div span  ,|,501,1677,7,17,0,10
+html body text div div div div div div a span  ,Spyware,508,1677,60,17,0,11
+html body text div div div div div div span  ,|,568,1677,7,17,0,10
+html body text div div div div div div a span  ,Windows Media Player,575,1677,155,17,0,11
+html body text div div div div div div span  ,|,730,1677,3,17,0,10
+html body text div div div div div div a span  ,WinRAR,8,1695,60,17,0,11
+html body text div div div div div div div a span  ,Today on CNET,8,1756,109,17,0,12
+html body text div div div div div div div span  ,|,117,1756,7,17,0,11
+html body text div div div div div div div a span  ,Reviews,124,1756,60,17,0,12
+html body text div div div div div div div span  ,|,184,1756,7,17,0,11
+html body text div div div div div div div a span  ,News,191,1756,40,17,0,12
+html body text div div div div div div div span  ,|,231,1756,7,17,0,11
+html body text div div div div div div div a span  ,Compare prices,238,1756,105,17,0,12
+html body text div div div div div div div span  ,|,343,1756,7,17,0,11
+html body text div div div div div div div a span  ,Tips & Tricks,350,1756,93,17,0,12
+html body text div div div div div div div span  ,|,443,1756,7,17,0,11
+html body text div div div div div div div a span  ,Downloads,450,1756,77,17,0,12
+html body text div div div div div div div span  ,|,527,1756,7,17,0,11
+html body text div div div div div div div a span  ,CNET TV,534,1756,66,17,0,12
+html body text div div div div span  ,Popular on CNET Networks:,8,1774,190,17,0,8
+html body text div div div div a span  ,PS3,198,1774,30,17,0,9
+html body text div div div div span  ,|,228,1774,7,17,0,8
+html body text div div div div a span  ,Wii,235,1774,27,17,0,9
+html body text div div div div span  ,|,262,1774,7,17,0,8
+html body text div div div div a span  ,Xbox 360,269,1774,68,17,0,9
+html body text div div div div span  ,|,337,1774,7,17,0,8
+html body text div div div div a span  ,Pussycat Dolls,344,1774,99,17,0,9
+html body text div div div div span  ,|,443,1774,7,17,0,8
+html body text div div div div a span  ,Free Music Videos,450,1774,124,17,0,9
+html body text div div div div span  ,|,574,1774,7,17,0,8
+html body text div div div div a span  ,TV Listings,581,1774,81,17,0,9
+html body text div div div div span  ,|,662,1774,7,17,0,8
+html body text div div div div a span  ,Prison Break,669,1774,87,17,0,9
+html body text div div div div span  ,|,756,1774,3,17,0,8
+html body text div div div div a span  ,Game Cheats,8,1792,86,17,0,9
+html body text div div div div a span  ,About CNET Networks,8,1810,156,17,0,9
+html body text div div div div span  ,|,164,1810,7,17,0,8
+html body text div div div div a span  ,Jobs,171,1810,32,17,0,9
+html body text div div div div span  ,|,203,1810,7,17,0,8
+html body text div div div div a span  ,Advertise,210,1810,66,17,0,9
+html body text div div div div span  ,|,276,1810,7,17,0,8
+html body text div div div div a span  ,Partnerships,283,1810,83,17,0,9
+html body text div div div div span  ,|,366,1810,7,17,0,8
+html body text div div div div a span  ,Site map,373,1810,57,17,0,9
+html body text div div div div span  ,"Copyright ©2006 CNET Networks, Inc. All rights reserved.",8,1880,387,17,0,8
+html body text div div div div a span  ,Privacy policy,395,1880,97,17,0,9
+html body text div div div div span  ,|,492,1880,7,17,0,8
+html body text div div div div a span  ,Terms of use,499,1880,83,17,0,9

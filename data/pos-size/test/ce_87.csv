@@ -1,0 +1,81 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Jade Empire: A Labour of Love - BioWare's Official Jade Empire Site,0,0,777,36,0,6
+html body text div table tbody tr td a span  ,Games,147,9,48,17,0,10
+html body text div table tbody tr td a span  ,Support,213,9,55,17,0,10
+html body text div table tbody tr td a span  ,Forums,286,9,53,17,0,10
+html body text div table tbody tr td a span  ,BioWare Info,357,9,91,17,0,10
+html body text div table tbody tr td a span  ,My Account,466,9,84,17,0,10
+html body text div table tbody tr td a span  ,Login,568,9,42,17,0,10
+html body text div table tbody tr td a span  ,Community Sign Up,628,9,137,17,0,10
+html body text div table tbody tr td a span  ,Store,147,27,34,17,0,10
+html body text div table tbody tr td div h4 span  ,BioWare Community,52,304,146,17,0,11
+html body text div table tbody tr td div span  ,"3,305,889 Users: (225 Online)",52,343,195,17,0,10
+html body text div table tbody tr td div form span  ,Name:,52,361,43,17,0,11
+html body text div table tbody tr td div form span  ,Password:,52,379,66,17,0,11
+html body text div table tbody tr td div a span span  ,Sign Up,52,413,57,17,0,12
+html body text div table tbody tr td div span  ,|,109,413,7,17,0,10
+html body text div table tbody tr td div a span  ,Login Help,117,413,73,17,0,11
+html body text div table tbody tr td table tbody tr td div h3 span  ,Jade Empire: A Labour Of Love,54,515,259,21,0,15
+html body text div table tbody tr td table tbody tr td div p span  ,Go to Section (,54,556,101,17,0,15
+html body text div table tbody tr td table tbody tr td div p a span  ,Previous Section,155,556,112,17,0,16
+html body text div table tbody tr td table tbody tr td div p span  ,-,267,556,10,17,0,15
+html body text div table tbody tr td table tbody tr td div p a span  ,1. Design,277,556,65,17,0,16
+html body text div table tbody tr td table tbody tr td div p span  ,",",342,556,8,17,0,15
+html body text div table tbody tr td table tbody tr td div p a span  ,2. Art,350,556,40,17,0,16
+html body text div table tbody tr td table tbody tr td div p span  ,", 3. Animation,",390,556,100,17,0,15
+html body text div table tbody tr td table tbody tr td div p a span  ,4. Combat,490,556,71,17,0,16
+html body text div table tbody tr td table tbody tr td div p span  ,",",561,556,8,17,0,15
+html body text div table tbody tr td table tbody tr td div p a span  ,5. Production,569,556,90,17,0,16
+html body text div table tbody tr td table tbody tr td div p span  ,",",659,556,8,17,0,15
+html body text div table tbody tr td table tbody tr td div p a span  ,6. QA,667,556,42,17,0,16
+html body text div table tbody tr td table tbody tr td div p span  ,-,709,556,5,17,0,15
+html body text div table tbody tr td table tbody tr td div p a span  ,Next Section,54,574,87,17,0,16
+html body text div table tbody tr td table tbody tr td div p span  ,),141,574,5,17,0,15
+html body text div table tbody tr td table tbody tr td div h3 span  ,"Animation - Deo Perez, Lead Animator on Jade Empire",54,649,443,21,1,15
+html body text div table tbody tr td table tbody tr td div h4 span  ,Explain the animation process. When does it begin and what is your role?,54,693,501,17,1,15
+html body text div table tbody tr td table tbody tr td div p strong span  ,Deo:,54,732,36,17,1,16
+html body text div table tbody tr td table tbody tr td div p span  ,"I am the lead animator for Jade Empire and am in charge of the all the in-game animations - movements, exploration, dialogue, creature and of course, combat. Basically, I am the first animator on board the game and I'm the last animator to come off the game.",54,732,540,71,1,15
+html body text div table tbody tr td table tbody tr td div p span  ,"I was there in the very beginning of the project, making decisions on the animation pipeline, what animations are needed in the game, how and when they should be played. Since we have a completely different combat system from our past games, I also helped develop this real-time combat system. With the help of the other members of the core group, I plotted out the number of attacks per style, all the different reactions, and the cool combat movements shared by the different characters in the game. I also helped define what the dozens of styles would be after consulting members of the Jade team, looking through different references collected from the internet, books, movies and instructional videos.",54,820,675,125,1,15
+html body text div table tbody tr td table tbody tr td div p span  ,"Once we knew what we wanted for combat, the next step was to decide whether to continue the old tradition of hand animating every move in the game like our past games or try something called ""motion capture."" After the long debate between the 2 processes, we decided on using motion capture since we wanted the moves in the game especially in each martial art styles to look authentic. Besides, it would help us go through 700+ actions quicker. Did I say 700+ actions? With 30 fighting styles with around 20 - 40 moves each, add in the different damage reactions, blocks, die cycles, movements and all the exploration animations, it came out to more than 700+ actions. Not every animation in Jade is motion captured. Creatures, animals and monsters were still hand animated.",54,962,677,143,1,15
+html body text div table tbody tr td table tbody tr td div p span  ,"Luckily I was not the only animator in the project. As other projects were winding down and Jade's production ramping up, I had the pleasure of leading most of the skilled and talented animators at BioWare at least at one point in the project. My job was to assign them different tasks and made sure that the quality of animations they produced exceeded expectations.",184,1122,539,89,1,15
+html body text div table tbody tr td table tbody tr td div p span  ,"As we are coming to the end of the production cycle, some of the animators moved to the cinematic department while others moved to new projects. The remaining animators, including myself, are ironing out animation bugs, fixing glitches, and polishing actions. We are also assisting with balancing the styles, and like everyone on the project, making sure that Jade Empire is engaging, fun, and one of the best games ever developed by BioWare!",54,1228,674,89,1,15
+html body text div table tbody tr td table tbody tr td div h4 span  ,What challenges does the theme of Jade Empire -- one focused on martial arts and Chinese mythology -- bring to animation?,54,1339,619,35,1,15
+html body text div table tbody tr td table tbody tr td div p strong span  ,Deo:,54,1396,36,17,1,16
+html body text div table tbody tr td table tbody tr td div p span  ,"Since the game was inspired by Ancient mythical China, it was a challenge to gather specific reference during that time. Not only it was hard to recreate that time period but we had to create the time period if their myths and legends actually came true.",54,1396,670,53,1,15
+html body text div table tbody tr td table tbody tr td div p span  ,"The bulk of the challenge was developing a completely new combat system, different from the Baldur's Gate series, Neverwinter Nights, and Star Wars: Knights of the Old Republic. We wanted to immerse the player in the combat scenarios, be in control of the character in the midst of battle, and not just be a spectator. We needed a real time combat system. Not only that, we wanted to give the player the ability to learn different martial arts styles as he or she explores the world of Jade Empire. So aside from coming up with a new combat system, we had to come up with more than 30 unique fighting styles-including weapons and magic with the martial arts.",54,1466,676,125,1,15
+html body text div table tbody tr td table tbody tr td div h4 span  ,I imagine you're not creating all of these complex martial arts animations off the top of your head. What are you using for point of reference?,54,1614,668,35,1,15
+html body text div table tbody tr td table tbody tr td div p strong span  ,Deo:,54,1671,36,17,1,16
+html body text div table tbody tr td table tbody tr td div p span  ,"Hmmm... it seems you underestimate me. Just kidding! First of all, I use my memories as one point of reference. I grew up in the Philippines, studying in a Filipino-Chinese school from kindergarten to high school (unfortunately, until now, I cannot speak Mandarin). My friends then were Chinese whose parents came from either China or Taiwan. One of my closest friends came straight from Taiwan. While all of us were struggling learning Mandarin, he was struggling learning English and Tagalog. I tried to recall some if not all their mannerisms, even the way my Chinese teachers taught, how they acted in a given situation and used that as reference in the game. Working on Jade Empire makes me regret doodling during my Chinese classes instead of paying attention to some of the lessons.",54,1671,679,143,1,15
+html body text div table tbody tr td table tbody tr td div p span  ,"Second, my wife is Thai but of Chinese ethnicity. Both her parents came from China and immigrated to Thailand. I've been to Thailand with her a few times and observed some of her Thai/Chinese/Buddhist traditions. I know Thailand is no China, but like China, its culture was untouched by western civilization. Thanks to my wife and her family's love for Chinese soap operas, I was able to watch a few of them, especially those set in ancient China.",54,1831,674,89,1,15
+html body text div table tbody tr td table tbody tr td div p span  ,"I have studied Taekwondo, Aikido, Capoiera, and a little kung fu self defense but not enough to be a master of any. These helped create the prototype style dubbed the ""Deo"" style. Bruce Lee, Jackie Chan, Jet Li, Chow Yun Fat, Donnie Yen, Michelle Yeoh, Zhang Ziyi and other martial arts experts were the greatest points of reference for most of the martial arts styles. Thanks to Jade Empire, BioWare has a DVD and VHS collection of the best martial arts movies and instructional tapes. I also have to give credit to the mocap actors and stunt persons who were gracious enough to lend their talents and expertise to us. They helped us come up with the coolest moves for each style and the best knock downs and die animations ever made for an action RPG.",54,1937,676,143,1,15
+html body text div table tbody tr td table tbody tr td div h4 span  ,Is Jade Empire going to have the best animation we've ever seen in an RPG?,54,2102,521,17,1,15
+html body text div table tbody tr td table tbody tr td div p strong span  ,Deo:,54,2142,36,17,1,16
+html body text div table tbody tr td table tbody tr td div p span  ,The proud person in me says it is the best animation among the recently released RPGs. The humble side of me says it's up there with the best RPGs to date.,54,2142,678,35,1,15
+html body text div table tbody tr td table tbody tr td div p span  ,Go to Section (,54,2228,101,17,0,15
+html body text div table tbody tr td table tbody tr td div p a span  ,Previous Section,155,2228,112,17,0,16
+html body text div table tbody tr td table tbody tr td div p span  ,-,267,2228,10,17,0,15
+html body text div table tbody tr td table tbody tr td div p a span  ,1. Design,277,2228,65,17,0,16
+html body text div table tbody tr td table tbody tr td div p span  ,",",342,2228,8,17,0,15
+html body text div table tbody tr td table tbody tr td div p a span  ,2. Art,350,2228,40,17,0,16
+html body text div table tbody tr td table tbody tr td div p span  ,", 3. Animation,",390,2228,100,17,0,15
+html body text div table tbody tr td table tbody tr td div p a span  ,4. Combat,490,2228,71,17,0,16
+html body text div table tbody tr td table tbody tr td div p span  ,",",561,2228,8,17,0,15
+html body text div table tbody tr td table tbody tr td div p a span  ,5. Production,569,2228,90,17,0,16
+html body text div table tbody tr td table tbody tr td div p span  ,",",659,2228,8,17,0,15
+html body text div table tbody tr td table tbody tr td div p a span  ,6. QA,667,2228,42,17,0,16
+html body text div table tbody tr td table tbody tr td div p span  ,-,709,2228,5,17,0,15
+html body text div table tbody tr td table tbody tr td div p a span  ,Next Section,54,2246,87,17,0,16
+html body text div table tbody tr td table tbody tr td div p span  ,),141,2246,5,17,0,15
+html body text div table tbody tr td table tbody tr td div div span  ,~,54,2280,9,17,0,15
+html body text div table tbody tr td table tbody tr td div p span  ,Want to comment on this article or read what others have to say about it?,54,2314,471,17,0,15
+html body text div table tbody tr td table tbody tr td div p a span  ,Join the official discussion!,525,2314,176,17,0,16
+html body text div table tbody tr td table tbody tr td a span  ,Email This Page,533,2360,105,17,0,14
+html body text div table tbody tr td table tbody tr td a span  ,Newsletter Sign Up,533,2378,126,17,0,14
+html body text div table tbody tr td div a span  ,BioWare,9,2402,60,17,0,11
+html body text div table tbody tr td div span  ,|,69,2402,8,17,0,10
+html body text div table tbody tr td div a span  ,Jobs,77,2402,32,17,0,11
+html body text div table tbody tr td div span  ,|,109,2402,7,17,0,10
+html body text div table tbody tr td div a span  ,Copyright and Trademark Information,116,2402,246,17,0,11
+html body text div table tbody tr td div a span  ,Website Terms of Use Agreement,9,2420,219,17,0,11
+html body text div table tbody tr td div span  ,|,228,2420,7,17,0,10
+html body text div table tbody tr td div a span  ,Privacy Policy,235,2420,94,17,0,11

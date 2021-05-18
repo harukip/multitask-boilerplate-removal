@@ -1,0 +1,785 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Shakespeare Authorship,0,0,594,18,0,6
+html body text center h1 span  ,The Shakespeare Authorship Page,158,216,469,36,1,6
+html body text center h2 span  ,Dedicated to the Proposition that Shakespeare Wrote Shakespeare,53,275,679,26,1,6
+html body text h3 span  ,Contents,8,322,72,21,0,5
+html body text ul li a span  ,Introduction,48,362,79,17,0,7
+html body text ul li a span  ,How We Know that Shakespeare Wrote Shakespeare,48,380,338,17,0,7
+html body text ul li a span  ,"Featured External Site: Tom Veal's ""Stromata Blog""",48,398,332,17,0,7
+html body text ul li a span  ,To the New York,48,416,113,17,0,7
+html body text ul li a i span  ,Times,161,416,37,17,0,8
+html body text ul li a span  ,A Letter to,48,434,73,17,0,7
+html body text ul li a i span  ,Harper's,121,434,57,17,0,8
+html body text ul li a span  ,Critically Examining Oxfordian Claims,48,452,254,17,0,7
+html body text ul li a span  ,The Spelling and Pronunciation of Shakespeare's Name,48,470,356,17,0,7
+html body text ul li a span  ,Shakespeare's Education and Social Background,48,488,311,17,0,7
+html body text ul li ul li a span  ,Were Shakespeare's Plays Written by an Aristocrat?,88,506,330,17,0,9
+html body text ul li ul li a span  ,Shakespeare's Stratford Friends,88,524,202,17,0,9
+html body text ul li ul li a span  ,"Shakespeare's Knowledge of Italy, the Classics, and the Law",88,542,388,17,0,9
+html body text ul li ul li a span  ,Shakespeare and Richard Field,88,560,199,17,0,9
+html body text ul li a span  ,Dating the Works,48,578,112,17,0,7
+html body text ul li ul li a span  ,Barksted and Shakespeare,88,596,168,17,0,9
+html body text ul li ul li a span  ,Dating,88,614,48,17,0,9
+html body text ul li ul li a i span  ,The Tempest,136,614,79,17,0,10
+html body text ul li a span  ,Shakespeare's Eulogies,48,632,149,17,0,7
+html body text ul li a span  ,Images of Shakespeare,48,650,148,17,0,7
+html body text ul li ul li a span  ,Shakespeare's Stratford Monument,88,668,224,17,0,9
+html body text ul li ul li a span  ,The Droeshout Engraving: Why It's Not Queen Elizabeth,88,686,367,17,0,9
+html body text ul li ul li a span  ,The Ashbourne Portrait: Why It's Not the Earl of Oxford,88,704,362,17,0,9
+html body text ul li a span  ,Manuscripts and Publication,48,722,183,17,0,7
+html body text ul li ul li a span  ,"Tudor Aristocrats and the Mythical ""Stigma of Print""",88,740,339,17,0,9
+html body text ul li ul li a span  ,The Survival of Manuscripts,88,758,184,17,0,9
+html body text ul li ul li a span  ,Shakespeare's Hand in,88,776,148,17,0,9
+html body text ul li ul li a i span  ,Sir Thomas More,236,776,112,17,0,10
+html body text ul li a span  ,Oxford the Poet,48,794,102,17,0,7
+html body text ul li ul li a span  ,Oxford's Literary Reputation,88,812,185,17,0,9
+html body text ul li ul li a span  ,Puttenham on Oxford,88,830,139,17,0,9
+html body text ul li ul li a span  ,"Shakespeare, Oxford, and Verbal Parallels",88,848,270,17,0,9
+html body text ul li ul li a span  ,Was the Earl of Oxford the True Shakespeare?,88,866,297,17,0,9
+html body text ul li ul li a span  ,The Verse Forms of Shakespeare and Oxford,88,884,288,17,0,9
+html body text ul li a span  ,Oxfordian Myths,48,902,111,17,0,7
+html body text ul li ul li a span  ,First Heir of My Invention,88,920,171,17,0,9
+html body text ul li ul li a span  ,The Question Marks in the 1640,88,938,212,17,0,9
+html body text ul li ul li a i span  ,Poems,300,938,42,17,0,10
+html body text ul li ul li a span  ,"Burghley as ""Polus""",88,956,129,17,0,9
+html body text ul li a span  ,Reviews and Commentary,48,974,170,17,0,7
+html body text ul li ul li a i span  ,Shakespeare IN FACT,88,992,141,17,0,10
+html body text ul li ul li a i span  ,This Star of England,88,1010,133,17,0,10
+html body text ul li ul li a span  ,Why I'm Not an Oxfordian,88,1028,173,17,0,9
+html body text ul li ul li a span  ,Joseph Sobran's,88,1046,106,17,0,9
+html body text ul li ul li a i span  ,Alias Shakespeare,194,1046,117,17,0,10
+html body text ul li ul li a span  ,Here Comes Everybody,88,1064,154,17,0,9
+html body text ul li ul li a span  ,The Oxfordian,88,1082,99,17,0,9
+html body text ul li ul li a i span  ,Hamlet,187,1082,47,17,0,10
+html body text ul li a span  ,The Code That Failed,48,1100,140,17,0,7
+html body text ul li a i span  ,Funeral Elegy,48,1118,96,17,0,8
+html body text ul li a span  ,Bardlinks Elsewhere on the Web,48,1136,209,17,0,7
+html body text h3 a span  ,Introduction,8,1191,102,21,1,6
+html body text span  ,"Many books and articles have been written arguing that someone other thanWilliam Shakespeare, the glover's son from Stratford-upon-Avon, wrote theplays and poems published under his name. There exist sincere andintelligent people who believe there is strong evidence that Edward deVere, Seventeenth Earl of Oxford, was the author of these plays and poems.Yet professional Shakespeare scholars -- those whose job it is to study,write, and teach about Shakespeare -- generally find Oxfordianclaims to be groundless, often not even worth discussing.",8,1232,768,89,1,4
+html body text p span  ,"Why is this? Oxfordians claim that these scholars are blinded to theevidence by a vested self-interest in preserving the authorship of ""theStratford Man,"" and some more extreme Oxfordians claim that there is anactive conspiracy among orthodox scholars to suppress pro-Oxford evidenceand keep it from the attention of the general public. The truth, however,is far more prosaic. Oxfordians are not taken seriously by theShakespeare establishment because (with few exceptions) they do not followbasic standards of scholarship, and the ""evidence"" they present for theirfantastic scenarios is either distorted, taken out of context, or flat-outfalse.",8,1338,756,107,1,5
+html body text p span  ,"This web site is for the intelligent nonspecialist who doesn't knowwhat to make of these challenges to Shakespeare's authorship. Oxfordianbooks can be deceptively convincing to a reader who is unaware of therelevant historical background and unused to the rhetorical tricks used byOxfordians. Our aim is to provide context where needed, exposemisinformation passed off by Oxfordians as fact, and in general show thenonspecialist reader why professional Shakespeare scholars have so littleregard for Oxfordian claims. We know from experience that we are notlikely to convince any Oxfordians to change their views, but we hope thatother readers will find something of value here. We will be updating andadding new material as time permits, and we welcome any comments orsuggestions.",8,1462,755,125,1,5
+html body text h3 a span  ,How We Know that Shakespeare Wrote Shakespeare,8,1659,422,21,1,6
+html body text a span  ,"Antistratfordians try to seduce their readers into believing that thereis some sort of ""mystery"" about the authorship of Shakespeare'sworks. They often assert that nothing (or at most very little)connects William Shakespeare of Stratford to the works ofWilliam Shakespeare the author, or that the evidence which exists is ""circumstantial""and subject to some doubt. These are astounding misrepresentationsthat bear little resemblance to reality. Indeed, abundant evidence testifies tothe fact that William Shakespeare of Stratford wrote the works publishedunder his name, and this evidence is as extensive and direct as the evidencefor virtually any of Shakespeare's contemporaries. In their essay",8,1699,764,107,1,5
+html body text a span  ,How WeKnow That Shakespeare Wrote Shakespeare: The Historical Facts,8,1789,756,35,1,5
+html body text span  ,", Tom Reedy and DavidKathman summarize the extensive web of evidence that identifies William Shakespeare of Stratfordas the man who wrote the works of William Shakespeare.",8,1807,755,53,1,4
+html body text h3 a span  ,"Featured External Site: Tom Veal's ""Stromata Blog""",8,1898,420,21,1,6
+html body text a span  ,"When the Shakespeare Authorship page began 10 years ago, it was the only site on the Internet dedicated to countering claims that someone other than William Shakespeare wrote the lion's share of the works professional literary historians have always assigned to Shakespeare. We have more company now (as you can see from the sites listed in our",8,1939,762,53,1,5
+html body text a span  ,Bardlinks,8,1993,66,17,1,5
+html body text span  ,"area below), and we'd like to direct your attention to Tom Veal's blog, which contains some of the best recent commentary on the authorship of Shakespeare's works.",8,1993,763,35,1,4
+html body text ul li span  ,Tom responds to,48,2045,110,17,0,6
+html body text ul li i span  ,The Truth Will Out,158,2045,125,17,0,7
+html body text ul li span  ,"by Brenda James and William D. Rubinstein, a book claiming that Sir Henry Neville really wrote Shakespeare's works.",48,2045,725,35,0,6
+html body text ul li ul li a span  ,"A New ""Shakespeare""",88,2081,142,17,0,9
+html body text ul li ul li a span  ,"More on the ""New"" Shakespeare",88,2099,209,17,0,9
+html body text ul li ul li a span  ,Arguing Further With Professor Rubinstein,88,2117,277,17,0,9
+html body text ul li ul li a span  ,The Neville-Shakespeare Theory: An Aperçu,88,2135,289,17,0,9
+html body text ul li span  ,"Tom looks critically at Roger Stritmatter's Ph.D. dissertation in comparative literature, which took as its starting point the assumption that the Earl of Oxford really wrote Shakespeare's works.",48,2153,716,35,0,6
+html body text ul li ul li a span  ,Part One,88,2189,56,17,0,9
+html body text ul li ul li a span  ,Part Two,88,2207,58,17,0,9
+html body text ul li ul li a span  ,Part Three,88,2225,67,17,0,9
+html body text ul li ul li a span  ,Part Four,88,2243,60,17,0,9
+html body text ul li ul li a span  ,Part Five,88,2261,58,17,0,9
+html body text ul li span  ,"Tom replies to Michael Brame and Galina Popova, who in",48,2279,377,17,0,6
+html body text ul li i span  ,Shakespeare's Fingerprints,425,2279,179,17,0,7
+html body text ul li span  ,claimed that 17th Earl of Oxford wrote not only Shakespeare's works but also just about everything else written in the last half of the 16th Century.,48,2279,719,53,0,6
+html body text ul li ul li a span  ,VERitable Lunacy,88,2333,120,17,0,9
+html body text h3 a span  ,To the New York,8,2388,138,21,1,6
+html body text h3 a i span  ,Times,146,2388,46,21,1,7
+html body text span  ,The,8,2428,29,17,1,4
+html body text i span  ,Times,37,2428,41,17,1,5
+html body text span  ,"published a strongly pro-Oxfordian piece on February 10, 2002, that fell far short of the standards we expect from the ""paper of record."" See our",8,2428,765,35,1,4
+html body text a span  ,response,238,2446,60,17,1,5
+html body text span  ,to the,298,2446,40,17,1,4
+html body text i span  ,Times,338,2446,41,17,1,5
+html body text span  ,.,379,2446,4,17,1,4
+html body text h3 a span  ,A Letter to,8,2501,92,21,1,6
+html body text h3 a i span  ,Harper's,100,2501,68,21,1,7
+html body text a span  ,"In April 1999,",8,2542,94,17,1,5
+html body text a i span  ,Harper's,102,2542,61,17,1,6
+html body text a span  ,magazine published a group of ten essays collectivelyentitled,163,2542,396,17,1,5
+html body text a span  ,"""TheGhost of Shakespeare.""",559,2542,186,17,1,5
+html body text span  ,"Five of the essays were by Oxfordians,arguing that the Earl of Oxford wrote the works of Shakespeare, while five wereby Shakespeare scholars arguing that William Shakespeare was the author. DavidKathman promptly wrote a letter to",8,2542,765,53,1,4
+html body text i span  ,Harper's,8,2596,61,17,1,5
+html body text span  ,", pointing out some of the manyfactual errors and distortions in the five Oxfordian articles and outlining themajor reasons why Shakespeare scholars do not take Oxfordians seriously.",8,2596,726,35,1,4
+html body text i span  ,Harper's,509,2614,60,17,1,5
+html body text span  ,"elected not to publish the letter, instead publishing a group of shortand superficial responses which failed to address the main issues. However,we're posting David Kathman's letter",8,2614,763,53,1,4
+html body text a span  ,here,211,2650,31,17,1,5
+html body text span  ,in order to provide a concise summary of theserious problems with Oxfordian arguments.,8,2650,733,35,1,4
+html body text h3 a span  ,Critically Examining Oxfordian Claims,8,2714,316,21,1,6
+html body text span  ,"The following essays were posted to the newsgrouphumanities.lit.authors.shakespeare, and are presented here in edited form. The original impetus for most of these essays was an Oxfordian article byMark Anderson entitled ""Shake-speare's Good Book,"" posted to the newsgroupby Mr. Anderson under the nom de net ""E of O."" (Interested readers cansee this article at",8,2755,768,71,1,4
+html body text span  ,--- but be sure to return here!) I posted a quick,68,2809,300,17,1,4
+html body text a span  ,initial response,368,2809,102,17,1,5
+html body text span  ,"to the article, to which Mr. Anderson replied with a further posting in which he made several morepoints, the substance of which should be clear from my responses. I wroteand posted the next eight essays, each of which deals with a specificOxfordian claim, in response to both the initial posting and thefollow-up. They are informal in tone, but I tried to make them as accurate andfactual as possible. The next two essays were written later, as parts oflonger essays in progress on Shakespeare's death and education. The last essay was written in response to Mark Alexander, one of the Oxfordianregulars on the newsgroup. Mark has always been a highly articulate and intelligentopponent, and he has often forced me to think through my own positions more thoroughly than I wouldotherwise have done. In this post, I address some of the broader issues involved in theShakespeare authorship debate, and try to articulate the major reasons why I find the Oxfordianapproach fundamentally flawed.",8,2809,767,179,1,4
+html body text ul li a span  ,Alleged Parallels between the Plays and Oxford's Life,48,3005,346,17,0,7
+html body text ul li a span  ,Biographical Information: Shakespeare vs. His Contemporaries,48,3023,406,17,0,7
+html body text ul li a span  ,Oxford's Letters,48,3041,104,17,0,7
+html body text ul li a span  ,Oxford's Bible,48,3059,98,17,0,7
+html body text ul li span  ,with a complete,146,3059,106,17,0,6
+html body text ul li a span  ,list of annotations,252,3059,115,17,0,7
+html body text ul li a span  ,Stylometry and the Shakespeare Clinic,48,3077,249,17,0,7
+html body text ul li a span  ,SHAXICON,48,3095,83,17,0,7
+html body text ul li a span  ,Response to Criticisms on Stylometry,48,3113,243,17,0,7
+html body text ul li a span  ,Further Response: Shakespeare's Acting Career,48,3131,303,17,0,7
+html body text ul li a span  ,Shakespeare's Will,48,3149,121,17,0,7
+html body text ul li a span  ,The Stratford Grammar School,48,3167,200,17,0,7
+html body text ul li a span  ,Some General Thoughts: Oxfordians vs. Literary Scholars,48,3185,373,17,0,7
+html body text h3 a span  ,The Spelling and Pronunciation of Shakespeare'sName,8,3240,438,21,1,6
+html body text span  ,"The most obvious evidence that William Shakespeare wrote the worksattributed to him is that everyone at the time said he did: he was oftenpraised in writing as a poet and playwright, he was named as the author ofmany of the works while he was alive, and seven years after his death theFirst Folio explicitly attributed the rest of the works to him. Oxfordians try to account for this evidence by claiming that the man fromStratford was actually ""William Shaksper"" (or ""Shakspere""), a man whosename was spelled and pronounced differently from that of the great poet""William Shakespeare,"" and that nobody at the time would have thought toconfuse the two. Needless to say, such claims bear little resemblance toreality. To see just how badly Oxfordians have misrepresented the nameissue, read David Kathman's essay on",8,3281,763,143,1,4
+html body text a span  ,the spelling andpronunciation of Shakespeare's name,138,3407,344,17,1,5
+html body text span  ,", accompanied by the complete lists(in original spelling) of all contemporary",8,3407,719,35,1,4
+html body text a span  ,non-literary references,252,3425,149,17,1,5
+html body text span  ,and,401,3425,27,17,1,4
+html body text a span  ,literary references,428,3425,120,17,1,5
+html body text span  ,to William Shakespeare.,548,3425,156,17,1,4
+html body text h3 a span  ,Shakespeare's Education and Social Background,8,3479,390,21,1,6
+html body text span  ,"Two assumptions are almost universally held by antistratfordians: the authorof Shakespeare's plays must have been a well-educated aristocrat, and WilliamShakespeare of Stratford could not possibly have had the education or socialconnections to have been that author. To those who are familiar withElizabethan society in general, and with William Shakespeare's life inparticular, neither of these assumptions comes close to holding water. In thissection we present two pairs of articles, the first pair dealing with thearistocrat/class issue, the second dealing with the education issue.",8,3520,750,107,1,4
+html body text a h4 span  ,Were Shakespeare's Plays Written by an Aristocrat?,8,3649,358,17,1,6
+html body text a span  ,In this,8,3689,44,17,1,5
+html body text a span  ,essay,52,3689,39,17,1,5
+html body text span  ,"based on a series of posts from thehumanities.lit.authors.shakespeare newsgroup, David Kathman addresses the common Oxfordianassumption that the author of Shakespeare's plays must have been an aristocratwho was intimate with the corridors of power. He points out that nobody inShakespeare's day or for centuries afterward thought that the plays displayed anaccurate knowledge of royal courts (in fact, the opposite was the case), andthat modern social historians familiar with 16th-century court life have cometo a similar conclusion.",8,3689,746,89,1,4
+html body text a h4 span  ,Shakespeare's Stratford Friends,8,3800,221,17,1,6
+html body text a span  ,"Oxfordians mercilessly attack the character and background of WilliamShakespeare, depicting him as an ""unlettered boob"" and Stratford as adensely ignorant backwater bereft of any culture. As usual, the Oxfordiansare guilty of twisting facts and ignoring any evidence that they don'tlike. David Kathman's",8,3839,765,53,1,5
+html body text a span  ,essay,453,3875,39,17,1,5
+html body text span  ,"illustrates that Shakespeare's closest friends in Stratford were actually a rather cultured lot, and that their hometownbore little resemblance to the cesspool depicted by Oxfordians.",8,3875,763,53,1,4
+html body text h4 a span  ,"Shakespeare's Knowledge of Italy, the Classics, and the Law",8,3950,410,17,1,6
+html body text span  ,"Paired with Oxfordians' insistence that the author of Shakespeare's plays musthave been an aristocrat is their insistence that he must have had lots offormal education. As usual, though, the antistratfordians are badly mistakenin some key elements of their arguments. In",8,3990,761,53,1,4
+html body text a span  ,"Shakespeare's Knowledge of Italy,the Classics, and the Law",211,4026,388,17,1,5
+html body text span  ,", David Kathman focuses on three areas whereantistratfordians have often claimed that the plays exhibit knowledge beyondthe ability of William Shakespeare of Stratford: Italy, the classics, and law.In each case, he responds directly to claims by Oxfordians, showing that theyhave greatly overestimated the extent of Shakespeare's knowledge and greatlyunderestimated the resources available to any intelligent Elizabethan whowished to learn about virtually any subject.",8,4026,762,89,1,4
+html body text a h4 span  ,Shakespeare and Richard Field,8,4137,214,17,1,6
+html body text span  ,"Since William Shakespeare did not have much formal education, he must have beena voracious reader on many subjects. Oxfordians like to ridicule this veryreasonable inference; where, they ask, could Shakespeare have gotten the bookshe would have had to read? But in fact, Shakespeare was particularlywell-positioned in this regard. Richard Field, who grew up down the streetfrom Shakespeare and in very similar circumstances, became one of the leadingpublishers and booksellers in London. More importantly, he published many ofthe works his townsman Shakespeare relied on most heavily in composing hisplays. Find out more about the connections between these celebrated sons ofStratford in David Kathman's",8,4176,767,125,1,4
+html body text a span  ,Shakespeare and Richard Field,123,4284,202,17,1,5
+html body text span  ,.,325,4284,4,17,1,4
+html body text a h3 span  ,Dating the Works,8,4339,141,21,1,6
+html body text h4 a span  ,Barksted and Shakespeare,8,4382,182,17,1,6
+html body text a span  ,Some Oxfordians are not satisfied with claiming that Shakespeare'sworks,8,4421,474,17,1,5
+html body text a i span  ,could,482,4421,40,17,1,6
+html body text a span  ,"have been written before Oxford's death in 1604;they try to turn the tables and argue that the author of Shakespeare's works was actually dead many years before William Shakespeare'sdeath in 1616. One of their favorite pieces of ""evidence"" for sucha scenario is William Barksted's poem",8,4421,763,71,1,5
+html body text a i span  ,Mirrha,118,4475,49,17,1,6
+html body text a span  ,", which appears torefer to Shakespeare in the past tense. Since Barksted's poem waspublished in 1607 -- after Oxford's death but before Shakespeare's --some Oxfordians regard it as a prime piece of evidence for their theory.The problem with such an argument is that it completely ignoresthe context of Barksted's use of the past tense, both within the poem as a whole and in comparison with other contemporary praise of livingpoets. When looked at in this context, there is nothing at all unusualabout Barksted's usage. Learn more about Barksted,",8,4475,762,89,1,5
+html body text a i span  ,Mirrha,648,4547,50,17,1,6
+html body text a span  ,", and the meaning of the past tense in Terry Ross and David Kathman's essay",8,4547,744,35,1,5
+html body text a span  ,Barksted and Shakespeare,445,4565,172,17,1,5
+html body text span  ,.,617,4565,4,17,1,4
+html body text h4 a span  ,Dating,8,4605,50,17,1,6
+html body text h4 a i span  ,The Tempest,58,4605,84,17,1,7
+html body text a span  ,"The biggeststumbling block for the idea that Edward de Vere could have writtenShakespeare's plays is the fact that he died in 1604, before about a thirdof the plays were written, according to the standard chronology.Oxfordians reply by claiming that this chronology is mistaken, and thatthe plays were actually written much earlier than orthodox scholarshipsupposes. Such a wholesale redating raises a host of questions andignores strong evidence that several of the later plays, at least, werewritten well after 1604. Don't take our word for it, though: read DavidKathman's essay on",8,4644,767,89,1,5
+html body text a span  ,dating,8,4734,44,17,1,5
+html body text a i span  ,The Tempest,52,4734,84,17,1,6
+html body text span  ,",whichpresents the remarkably extensive evidence that Shakespeare, in writingthis play, was heavily influenced by written accounts of events in Bermudathat happened in 1609-10, at least five years after Oxford's death.",8,4734,764,53,1,4
+html body text h3 a span  ,Shakespeare's Eulogies,8,4825,185,21,1,6
+html body text span  ,"One of the most common features of antistratfordian arguments is a claimthat the death of William Shakespeare of Stratford went unnoticed inEngland, in supposed contrast to other prominent men of letters. But thisOxfordian claim, like so many others, is based on a distortion of the factscombined with an ignorance of the necessary context. Contrary to Oxfordian assertions, only sociallyprominent people such as noblemen were the subject of printed eulogies soonafter they died; eulogies for poets and playwrights generally remained inmanuscript, often for decades. In",8,4865,765,89,1,4
+html body text a span  ,Shakespeare'sEulogies,8,4955,149,17,1,5
+html body text span  ,", David Kathman compares Shakespeare with the most prominentplaywrights and poets of the day, and concludes that William Shakespearewas actually the best-memorialized English playwright until Ben Jonson morethan 20 years later.",8,4955,753,53,1,4
+html body text h3 a span  ,Images of Shakespeare,8,5046,183,21,1,6
+html body text a span  ,"There are only two portraits of Shakespeare which we can reasonably take asauthentic: the monument in Stratford's Holy Trinity Church, and the engravingby Martin Droeshout on the title page of the 1623 First Folio.Antistratfordians have seen all kinds of shady doings and hidden meanings inthese portraits, as well as in other ""Shakespeare"" portraits with less claim toauthenticity. Yet these claims, like so much other antistratfordian rhetoric,turn out to be founded on ignorance, misunderstanding, and pure conjecture.",8,5087,755,89,1,5
+html body text h4 a span  ,Shakespeare's Stratford Monument,8,5198,244,17,1,6
+html body text a span  ,"Shortly after Shakespeare's death, a monument was erected to his memoryin his home town of Stratford. However, manyOxfordians believe that the monument originallydepicted Shakespeare holding a sack, and that it was subsequently alteredto depict him as a writer. Their basis for thinking this is an engravingof the monument which appeared in William Dugdale's",8,5237,734,71,1,5
+html body text a i span  ,Antiquities ofWarwickshire,209,5291,177,17,1,6
+html body text a span  ,"in 1656, and which depicts a monument significantlydifferent from what we see today; Charlton Ogburn writes in",8,5291,633,35,1,5
+html body text a i span  ,TheMysterious William Shakespeare,480,5309,238,17,1,6
+html body text a span  ,"that ""there seems scant room for doubtthat the subject of the original sculpture was not a literary figure but adealer in bagged commodities"" (p. 213). However, the evidence isoverwhelmingly against the Oxfordian scenario. First, read M. H. Spielmann's detailed",8,5309,763,71,1,5
+html body text a span  ,discussion of themonument,164,5363,180,17,1,5
+html body text span  ,", and his demonstrations of the many errors andinconsistencies to be found in seventeenth-century engravings. Then read David Kathman's discussion of",8,5363,753,35,1,4
+html body text a span  ,17th-century references,567,5381,155,17,1,5
+html body text span  ,"to the monument, whichshows that it was always seen as representing a famous poet and not agrain dealer. We have also put up",8,5381,755,53,1,4
+html body text a span  ,illustrations,28,5417,80,17,1,5
+html body text span  ,of both the Stratford monument andDugdale's rendition.,108,5417,358,17,1,4
+html body text h4 a span  ,The Droeshout Engraving: Why It's Not Queen Elizabeth,8,5457,392,17,1,6
+html body text span  ,"Antistratfordians since the mid-1800s have found something fishy about thefamous Droeshout engraving that graces the title page of the First Folio. In1995, Lillian Schwartz tried to put a scientific gloss on such speculationswhen she wrote an article for",8,5496,769,53,1,4
+html body text i span  ,Scientific American,94,5532,129,17,1,5
+html body text span  ,which used computer modellingto suggest that the Droeshout portrait is actually of Queen Elizabeth. But asTerry Ross shows in,8,5532,745,35,1,4
+html body text a span  ,this article,297,5550,71,17,1,5
+html body text span  ,", Schwartz's methods left a lot to be desired, and although her very tentative conclusions have been accepted as gospel by eager antistratfordians, a fresh look shows just how different Shakespeare and Elizabeth were.",8,5550,753,53,1,4
+html body text h4 a span  ,The Ashbourne Portrait: Why It's Not the Earl of Oxford,8,5625,392,17,1,6
+html body text span  ,"More than half a century before Schwartz, Oxfordian Charles Wisner Barrellwrote another article for",8,5664,650,17,1,4
+html body text i span  ,Scientific American,8,5664,709,35,1,5
+html body text span  ,", in which he attempted to useX-rays to show that the so-called ""Ashbourne Portrait,"" often taken to be ofShakespeare, is actually a painted-over portrait of the Earl of Oxford. Yeteven though Barrell's results were conclusively debunked more than 20 yearsago, they're still accepted uncritically by many antistratfordians. Read DavidKathman's brief",8,5682,723,71,1,4
+html body text a span  ,article,153,5736,44,17,1,5
+html body text span  ,for the full story.,197,5736,107,17,1,4
+html body text h3 a span  ,Manuscripts and Publication,8,5791,232,21,1,6
+html body text h4 a span  ,"Tudor Aristocrats and the Mythical ""Stigma ofPrint""",8,5834,364,17,1,6
+html body text a span  ,"Oxfordians claim that Edward de Vere could not have beennamed as the author of Shakespeare's works because doing so would have violatedthe Elizabethan social code, which prohibited aristocrats from havingworks published under their own names. However, as Steven May points outin his",8,5874,755,53,1,5
+html body text a span  ,essay,389,5910,38,17,1,5
+html body text span  ,", ""the alleged code, handy andtime-honored as it has become, does not square with the evidence."" As Maydemonstrates, ""Tudor aristocrats published regularly."" The ""stigma ofprint"" is a myth. May does concede that there was for a time a ""stigma ofverse"" among the early Tudor aristocrats, ""but even this inhibitiondissolved during the reign of Elizabeth until anyone, of whatever exaltedstanding in society, might issue a sonnet or play without fear of losingstatus."" This essay first appeared in",8,5910,766,89,1,4
+html body text i span  ,Renaissance Papers,559,5982,133,17,1,5
+html body text span  ,.,692,5982,4,17,1,4
+html body text h4 a span  ,The Survival of Manuscripts,8,6021,196,17,1,6
+html body text a span  ,"Oxfordians find it suspicious that the original manuscripts ofShakespeare's plays have not survived. They darkly hint that this isevidence of a coverup, and have even gone so far as to x-ray theShakespeare monument in Stratford because of a suspicion that themanuscripts may have been hidden inside. (They weren't.) But there isnothing the slightest bit suspicious about the absence of Shakespeare'smanuscripts, since virtually no playhouse manuscripts from that era havesurvived at all. Read",8,6060,761,89,1,5
+html body text a span  ,The Survival ofManuscripts,173,6132,184,17,1,5
+html body text span  ,by Giles Dawson and Laetitia Kennedy-Skipton (taken fromtheir 1965 book,8,6132,764,35,1,4
+html body text i span  ,Elizabethan Handwriting,80,6150,166,17,1,5
+html body text span  ,) for the opinion of twoscholars who spent decades examining documents from Shakespeare's era.,8,6150,745,35,1,4
+html body text h4 a span  ,Shakespeare's Hand in,8,6207,160,17,1,6
+html body text h4 a i span  ,Sir Thomas More,168,6207,117,17,1,7
+html body text a span  ,"Even though the original manuscripts of Shakespeare's canonical plays havenot survived, there is strong evidence that three pages of the manuscriptplay",8,6247,755,35,1,5
+html body text a i span  ,Sir Thomas More,228,6265,115,17,1,6
+html body text a span  ,"are in Shakespeare's hand. This evidence, which cutsacross handwriting, spelling, vocabulary, imagery, and more, has persuadedmany Shakespeare scholars, but is generally ignored or ridiculed byantistratfordians because accepting it would be a crippling blow for theirtheories. Read David Kathman's",8,6265,747,71,1,5
+html body text a span  ,summary,80,6319,63,17,1,5
+html body text span  ,of the evidence for Shakespeare'shand and judge for yourself.,143,6319,395,17,1,4
+html body text h3 a span  ,Oxford the Poet,8,6373,128,21,1,6
+html body text span  ,"The Seventeenth Earl of Oxford was a recognized poet in his own day, andOxfordians make the most of this fact in their attempts to prove thathe actually wrote the works of Shakespeare. However, most Oxfordianwork in this area involves highly selective use of evidence, and oftenreveals a distressing lack of knowledge about Elizabethan poetry in general.In this section we critically examine Oxford's surviving poetry and theconclusions Oxfordians have tried to draw from it.",8,6414,762,89,1,4
+html body text h4 a span  ,Oxford's Literary Reputation,8,6525,203,17,1,6
+html body text span  ,"Oxford was praised in print as a poet and playwright when he was alive, afact which Oxfordians understandably try to use to their advantage. Indoing so, though, they quote this praise selectively and present it out ofcontext, leading unwary readers to a greatly inflated view of Oxford'sreputation as a poet. Terry Ross's",8,6565,756,53,1,4
+html body text a span  ,essay,562,6601,39,17,1,5
+html body text span  ,"looks atOxford's reputation in the actual context of the times, and shows thatwhile Oxford's work had its admirers, nobody seems to have considered hima great poet or playwright.",8,6601,767,53,1,4
+html body text h4 a span  ,Puttenham on Oxford,8,6676,150,17,1,6
+html body text span  ,"If Oxford did indeed write the works of Shakespeare, why did he neveracknowledge them? Oxfordians claim that the works contain dangerouspolitical allegories, and that Oxford could not safely allow them toappear under his own name. Hence, he used the name ""Shakespeare."" Tosupport this claim, Oxfordians cite George Puttenham's 1589 book,",8,6715,766,53,1,4
+html body text i span  ,TheArte of English Poesie,8,6751,766,35,1,5
+html body text span  ,". However, a close examination of Puttenham's workshows that Oxfordians have relied on doctored evidence, and thatPuttenham's actual words contradict the Oxfordian claim. Find out foryourself",8,6769,751,35,1,4
+html body text a span  ,What Puttenham Really Said About Oxford,8,6787,728,35,1,5
+html body text span  ,",and why it matters. This case study of the Oxfordian misuse of evidencewas written by Terry Ross; it appeared on thehumanities.lit.authors.shakespeare newsgroup, and has been revised forthis forum. Parts of the essay criticize the PBS",8,6805,756,53,1,4
+html body text i span  ,Frontline,199,6841,64,17,1,5
+html body text span  ,"program""The Shakespeare Mystery,"" and",263,6841,267,17,1,4
+html body text i span  ,Frontline,530,6841,64,17,1,5
+html body text span  ,has issued a response to whichTerry Ross has replied. We have made available the texts of the,8,6841,739,35,1,4
+html body text a span  ,Response from,456,6859,101,17,1,5
+html body text a i span  ,Frontline,557,6859,64,17,1,6
+html body text a span  ,-- and a Reply,621,6859,95,17,1,5
+html body text span  ,. Wehave also made the relevant portions of Puttenham's,8,6859,766,35,1,4
+html body text a i span  ,Arte of English Poesie,311,6877,147,17,1,6
+html body text span  ,available.,458,6877,62,17,1,4
+html body text h4 a span  ,"Shakespeare, Oxford, and Verbal Parallels",8,6916,290,17,1,6
+html body text span  ,"Oxfordians have consistently defended the quality of Oxford's poetry,arguing that it is not inconsistent with his later having written theShakespeare canon. Joseph Sobran has recently gone further, claiming thatthe verbal parallels he has found constitute proof that the poetry ofOxford and Shakespeare were written by the same person. In",8,6956,760,53,1,4
+html body text a span  ,"Shakespeare, Oxford, and Verbal Parallels",8,6992,734,35,1,5
+html body text span  ,", DavidKathman examines Sobran's claim and finds it seriously defective,reflecting ignorance of both attribution studies and Elizabethan poetry.",8,7010,720,35,1,4
+html body text h4 a span  ,Was the Earl of Oxford the True Shakespeare?,8,7067,320,17,1,6
+html body text span  ,"The Shakespeare Clinic, under the direction of Ward Elliott andRobert Valenza of Claremont-McKenna College in California, was a projectwhich compared Shakespeare's poetry with the work of other contemporarypoets by means of various objective tests. The goal was to see if any ofthe claimants' poetry matched the Bard's, and none did; furthermore, theEarl of Oxford was one of the poorest matches for Shakespeare out of allthe poets tested. Read Elliott and Valenza's",8,7106,757,89,1,4
+html body text a span  ,article,99,7178,44,17,1,5
+html body text span  ,"on Oxford's candidacy, originally publishedin",143,7178,296,17,1,4
+html body text i span  ,Notes and Queries,439,7178,123,17,1,5
+html body text span  ,.,562,7178,4,17,1,4
+html body text h4 a span  ,The Verse Forms of Shakespeare and Oxford,8,7218,307,17,1,6
+html body text span  ,"Oxfordians from J. Thomas Looney onward have noted that some of theverse forms used by Oxford were also used by Shakespeare, and they haveseized upon this coincidence as support for their theories. In",8,7257,759,35,1,4
+html body text a span  ,The Verse Forms of Shakespeare and Oxford,8,7275,692,35,1,5
+html body text span  ,", TerryRoss looks at this issue in detail and shows how badly Oxfordians havedistorted the facts in an attempt to exaggerate Oxford's similarity toShakespeare and his role in the history of English poetry.",8,7293,740,35,1,4
+html body text h3 a span  ,Oxfordian Myths,8,7366,139,21,1,6
+html body text a span  ,"Belief in the Oxfordian story that Shakespeare's works were written not by Shakespearebut by the seventeenth Earl of Oxford requires not merely suspending the rules of evidence that would normally be used to establish the authorship of a body of work, but also accepting a set of Oxfordian myths -- tales that are presented as fact but that research shows are simply not true. Some of these myths have been repeated and handed down from Oxfordian to Oxfordian for decades, without any attempt being made to verify them.Here are three essays, each exposing an Oxfordian myth and demonstrating that the Oxfordian faith in them has been misplaced.",8,7406,762,107,1,5
+html body text h4 a span  ,First Heir of My Invention,8,7535,182,17,1,6
+html body text a span  ,Shakespeare referred to,8,7575,155,17,1,5
+html body text a i span  ,Venus and Adonis,163,7575,118,17,1,6
+html body text a span  ,"as the ""first heir of my invention.""Many antistratfordians have been puzzled by the phrase, and have suggested that by ""invention,"" theauthor must have meant ""pseudonym""; and thus arose the myth that the phrase means something like ""the first product published under my assumed name."" The phrase would not have puzzled Shakespeare's contemporaries, however, as Terry Ross points out in his",8,7575,768,71,1,5
+html body text a span  ,essay,555,7629,39,17,1,5
+html body text span  ,", sincethey were familiar with the contemporary habit of referring to works as one's children. Moreover, contemporary writers never used ""invention"" to mean ""pseudonym""; the word referred to thewriter's wit or imagination. Far from suggesting the use of a pseudonym, Shakespeare's use of the phrase ""first heir of myinvention"" tells us that he wrote",8,7629,763,71,1,4
+html body text i span  ,Venus and Adonis,605,7683,118,17,1,5
+html body text span  ,by himself and as himself.,8,7683,730,35,1,4
+html body text h4 a span  ,The Question Marks in the 1640,8,7740,224,17,1,6
+html body text h4 a i span  ,Poems,232,7740,44,17,1,7
+html body text a span  ,In John Benson's 1640 edition of Shakespeare's,8,7779,308,17,1,5
+html body text a i span  ,Poems,316,7779,46,17,1,6
+html body text a span  ,", question marks appear in places where one would expect exclamation points. From this, Oxfordians have decided that Benson must not have thought that Shakespeare was really Shakespeare. Terry Ross has",8,7779,767,53,1,5
+html body text a span  ,looked at the evidence,195,7815,147,17,1,5
+html body text span  ,", however, and shows that in Benson's time question marks were often used as exclamation points. Moreover, Benson nowhere expresses any doubt that the author of the poems was the William Shakespeare whose plays were collected in the First Folio and who died in April of 1616.",8,7815,763,53,1,4
+html body text h4 a span  ,"Burghley as ""Polus""",8,7891,140,17,1,6
+html body text a span  ,For fifty years Oxfordians have contended that strong evidence that the character Polonius in,8,7930,599,17,1,5
+html body text a i span  ,Hamlet,607,7930,51,17,1,6
+html body text a span  ,"was based on Lord Burghley is that Burghley's nickname was ""Polus."" In this",8,7930,735,35,1,5
+html body text a span  ,essay,418,7948,38,17,1,5
+html body text span  ,"Terry Ross traces the ""Polus"" myth to its sources and reveals that it is absolutely without foundation. He also outlines a fifty year history of Oxfordians parroting and even embellishing the myth without their ever checking to see whether it was true.",8,7948,759,53,1,4
+html body text h3 a span  ,Reviews,8,8039,65,21,1,6
+html body text h4 a i span  ,Shakespeare IN FACT,8,8082,150,17,1,7
+html body text span  ,Irvin Leigh Matus's,8,8121,130,17,1,4
+html body text i span  ,"Shakespeare, In Fact",138,8121,138,17,1,5
+html body text span  ,"(Continuum, 1994) is agood book-length examination of the authorship question, containingthorough demolitions of many Oxfordian claims. Even if you've read thebook, check out Thomas A. Pendleton's",8,8121,753,53,1,4
+html body text a span  ,review,105,8157,47,17,1,5
+html body text span  ,", whichoriginally appeared in",152,8157,192,17,1,4
+html body text i span  ,The Shakespeare Newsletter,344,8157,184,17,1,5
+html body text span  ,". Not only doesPendleton cogently summarize Matus's arguments, he also adds an excellentdiscussion of the vast scope of the conspiracy that would have beennecessary to conceal Oxford's authorship of the Shakespeare plays.",8,8157,759,53,1,4
+html body text h4 a i span  ,This Star of England,8,8232,139,17,1,7
+html body text span  ,"In 1953, Dorothy Ogburn and Charlton Ogburn Sr. published",8,8272,395,17,1,4
+html body text i span  ,This Star ofEngland,403,8272,133,17,1,5
+html body text span  ,", a 1300-page Oxfordian tome which was a precursor to their sonCharlton Jr.'s",8,8272,763,35,1,4
+html body text i span  ,The Mysterious William Shakespeare,272,8290,241,17,1,5
+html body text span  ,thirty yearslater. Giles Dawson's,513,8290,212,17,1,4
+html body text a span  ,review,725,8290,43,17,1,5
+html body text span  ,of this book for,8,8308,103,17,1,4
+html body text i span  ,Shakespeare Quarterly,111,8308,151,17,1,5
+html body text span  ,provides an excellent summary of the shoddyscholarship and questionable methods which typify so much Oxfordian work.,8,8308,730,35,1,4
+html body text h4 a span  ,Why I'm not an Oxfordian,8,8365,183,17,1,6
+html body text span  ,Charlton Ogburn's book,8,8404,158,17,1,4
+html body text i span  ,The Mysterious William Shakespeare,166,8404,241,17,1,5
+html body text span  ,"is generally considered the mostthorough exposition of the Oxfordian case; it is certainly one of the mostpassionately argued. However, Ogburn has a distressing tendency to brushaside facts which he finds inconvenient, and to invent or distort other""facts"" to suit his purpose; he employs a blatant double standard inevaluating evidence which makes his thesis unfalsifiable. David Kathman'sarticle",8,8404,752,71,1,4
+html body text a span  ,Why I'm Not an Oxfordian,8,8458,746,35,1,5
+html body text span  ,", whichoriginally appeared in",125,8476,191,17,1,4
+html body text a i span  ,TheElizabethan Review,316,8476,155,17,1,6
+html body text span  ,", looks in detail at some of the many problemswith Ogburn's book and explains why academic Shakespeareans do not takeOgburn and his Oxfordian brethren seriously.",8,8476,715,53,1,4
+html body text h4 a span  ,Joseph Sobran's,8,8551,116,17,1,6
+html body text h4 a i span  ,Alias Shakespeare,124,8551,121,17,1,7
+html body text a span  ,"In 1997, Joseph Sobran's book",8,8591,199,17,1,5
+html body text a i span  ,Alias Shakespeare,207,8591,121,17,1,6
+html body text a span  ,"introduced many newcomersto the Shakespeare authorship question. Written in an accessible stylewithout the bitterness that characterizes some Oxfordian writings, Sobran'sbook presented a superficially plausible case for Oxford's authorship ofShakespeare. Unfortunately, beneath the glossy surface lies a mass ofdistortions, half-truths, and contradictions which renders Sobran's book nobetter as a historical account than other Oxfordian works. David Kathman haswritten a number of",8,8591,764,89,1,5
+html body text a span  ,responses to reader queries,419,8663,177,17,1,5
+html body text span  ,which discuss some of the major problems with Sobran's book.,8,8663,757,35,1,4
+html body text h4 a span  ,Here Comes Everybody,8,8720,162,17,1,6
+html body text span  ,John Michell's,8,8759,97,17,1,4
+html body text i span  ,WhoWrote Shakespeare?,105,8759,163,17,1,5
+html body text span  ,"marks a rebirth of the ""groupist"" view ofShakespearean authorship. Michell thinks that just about everybody everproposed as a candidate for authorship had his oar in the Avon. BobGrumman's",8,8759,745,35,1,4
+html body text a span  ,review,8,8795,48,17,1,5
+html body text span  ,"describes Michell's approach,exposes his loose way with the evidence, and corrects several commonantistratfordian misreadings.",8,8795,630,35,1,4
+html body text h4 a span  ,The Oxfordian,8,8852,106,17,1,6
+html body text h4 a i span  ,Hamlet,114,8852,53,17,1,7
+html body text h4 a span  ,: ThePlaywright's the Thing,167,8852,192,17,1,6
+html body text span  ,In this,8,8892,44,17,1,4
+html body text a span  ,essay,52,8892,39,17,1,5
+html body text span  ,", excerpted from a talk delivered at the Library of Congress, IrvinMatus, the author of",91,8892,553,17,1,4
+html body text i span  ,Shakespeare IN FACT,8,8892,736,35,1,5
+html body text span  ,", discusses the common Oxfordian claim that",49,8910,292,17,1,4
+html body text i span  ,Hamlet,341,8910,51,17,1,5
+html body text span  ,"is actually a thinly veiled autobiography of Edward de Vere.Matus points out the weaknesses of the Oxfordian case, and also arguesthat the Oxfordian approach to the play seeks to diminish its power as awork of art, reducing a profound exploration of the deepest issues thatconcern us as people to a petty expression of pique.",8,8910,743,71,1,4
+html body text h3 a span  ,The Code That Failed: Testing a Bacon-Shakespeare Cipher,8,9018,479,21,1,6
+html body text span  ,"Until the 1920s, Francis Bacon was the favorite candidate of those whodoubted that Shakespeare wrote the plays and poems that have beenattributed to him. The Oxford faction is today the more numerous, butthere are still Baconians around. In",8,9059,749,53,1,4
+html body text a span  ,The Code thatFailed,77,9095,135,17,1,5
+html body text span  ,", Terry Ross examines the methods of one Baconian, Penn Leary,who claims that he has found cryptographical proof that Bacon wrote theworks of Shakespeare. We have also made available",8,9095,767,35,1,4
+html body text a span  ,Penn Leary's reply,8,9113,737,35,1,5
+html body text span  ,"to the piece, as well as",45,9131,148,17,1,4
+html body text a span  ,Hiawatha's Cryptographing,193,9131,180,17,1,5
+html body text span  ,", Terry Ross's response tohim. In addition we have put up the texts of some",8,9131,754,35,1,4
+html body text a span  ,UNIX and Perl scripts,97,9149,147,17,1,5
+html body text span  ,that were used to testLeary's methods.,244,9149,244,17,1,4
+html body text h3 a i span  ,Funeral Elegy,8,9204,116,21,1,7
+html body text span  ,The 1612,8,9245,65,17,1,4
+html body text i span  ,Funeral Elegy,73,9245,96,17,1,5
+html body text span  ,"by W.S. has been in the news in recentyears, as scholars and other interested readers argued whether it had been written byWilliam Shakespeare; the current scholarly consensus is that the poem wasprobably written by John Ford. The case for Shakespeare's authorship wasmade in Donald Foster's 1989 book",8,9245,746,53,1,4
+html body text i span  ,Elegy by W.S.,653,9281,92,17,1,5
+html body text span  ,", and in subsequentarticles by Foster, Richard Abrams, and others. Time and space do notallow us to present the arguments over the poem's authorship here but wecan provide the text of the",8,9281,768,53,1,4
+html body text a i span  ,Funeral Elegy,430,9317,96,17,1,6
+html body text span  ,itself. There was spirited debate over the elegy's authorship on theelectronic Shakespeare conference,8,9317,755,35,1,4
+html body text a span  ,SHAKSPER,416,9335,85,17,1,5
+html body text span  ,", and on the newsgroup",501,9335,149,17,1,4
+html body text a span  ,humanities.lit.authors.Shakespeare,8,9353,227,17,1,5
+html body text span  ,. Much of the new evidence whichconvinced Foster that the Elegy was Shakespeare's comes from his lexicaldatabase SHAXICON. He wrote an,8,9353,679,35,1,4
+html body text a span  ,article,478,9371,44,17,1,5
+html body text span  ,forthe Summer 1995,522,9371,137,17,1,4
+html body text i span  ,Shakespeare Newsletter,8,9371,731,35,1,5
+html body text span  ,", which, while it did notspecifically deal with the Elegy evidence, described the workings ofSHAXICON in some detail. Also, read David Kathman's",8,9389,761,35,1,4
+html body text a span  ,1996 post,273,9407,67,17,1,5
+html body text span  ,"to the humanities.lit.authors.shakespearenewsgroup, responding to early Oxfordian criticisms and clearing up somecommon misunderstandings about Foster's work on the Elegy, as well as a",8,9407,757,53,1,4
+html body text a span  ,2002 post,36,9443,67,17,1,5
+html body text span  ,on the matter.,138,9443,88,17,1,4
+html body text p span  ,A number ofcandidates were proposed as the real author of the,8,9477,405,17,1,5
+html body text p i span  ,Funeral Elegy,413,9477,96,17,1,6
+html body text p span  ,",including George Chapman, an unnamed member of ""a stable of elegywriters"", a country parson, Simon Wastell, Sir William Strode, WilliamSclater, and",8,9477,767,35,1,5
+html body text p a span  ,the 17th Earlof Oxford,8,9495,737,35,1,6
+html body text p span  ,. John Ford was first suggested in 1996 by,135,9513,274,17,1,5
+html body text p a span  ,Richard J.Kennedy,409,9513,127,17,1,6
+html body text p span  ,"on Shaksper, but it was not until 2002 that the case for Fordwas generally considered to be stronger than the case for Shakespeare.",8,9513,734,35,1,5
+html body text p span  ,The principal arguments in favor of John Ford's authorship may be found in,8,9565,485,17,1,5
+html body text ul li span  ,"Ward Elliott and Robert Valenza. ""Smoking Guns, Silver Bullets:Could John Ford Have Written the Funeral Elegy?""",48,9599,691,35,1,6
+html body text ul li i span  ,Literary and LinguisticComputing,103,9617,224,17,1,7
+html body text ul li span  ,16:205-32 [2001].,327,9617,116,17,1,6
+html body text ul li span  ,"Gilles D. Monsarrat """,48,9635,142,17,1,6
+html body text ul li i span  ,A Funeral Elegy:,190,9635,115,17,1,7
+html body text ul li span  ,"Ford, W.S., andShakespeare"" in",305,9635,206,17,1,6
+html body text ul li i span  ,The Review of English Studies,511,9635,198,17,1,7
+html body text ul li span  ,53:186-203 [May2002]. Here is,48,9635,711,35,1,6
+html body text ul li a span  ,anabstract,206,9653,69,17,1,7
+html body text ul li span  ,of Monsarrat's essay.,275,9653,133,17,1,6
+html body text ul li span  ,"Brian Vickers,",48,9671,96,17,1,6
+html body text ul li i span  ,"Counterfeiting Shakespeare: Evidence, Authorship andJohn Ford's ""Funerall Elegye""",144,9671,554,17,1,7
+html body text ul li span  ,. Here is the,698,9671,77,17,1,6
+html body text ul li a span  ,publisher's description,48,9689,148,17,1,7
+html body text ul li span  ,of the book.,196,9689,77,17,1,6
+html body text span  ,"After Monsarrat's essay appeared, Foster and Abrams",8,9723,346,17,1,4
+html body text a span  ,conceded,354,9723,64,17,1,5
+html body text span  ,thatthe case for Ford was now stronger than the case for Shakespeare.,8,9723,769,35,1,4
+html body text p span  ,Ward E.Y. Elliott and Robert J. Valenza have put their own account of thematter online:,8,9775,564,17,1,5
+html body text p a span  ,"""So MuchHardball, So Little of it Over the Plate: Conclusions from our 'Debate'with Donald Foster.""",8,9775,766,35,1,6
+html body text p span  ,"For a series of skeptical responses to the attribution to Ford, see",8,9827,408,17,1,5
+html body text h3 a span  ,Bardlinks Elsewhere on the Web,8,9881,260,21,0,6
+html body text ul li span  ,Shakespeare's Works,48,9922,134,17,0,6
+html body text ul li ul li a span  ,CompleteWorks,88,9940,108,17,0,9
+html body text ul li ul li span  ,(from MIT),196,9940,75,17,0,8
+html body text ul li ul li span  ,Old-spelling editions of,88,9958,156,17,0,8
+html body text ul li ul li a span  ,Quarto & Folio,244,9958,103,17,0,9
+html body text ul li ul li span  ,texts.,347,9958,34,17,0,8
+html body text ul li ul li a span  ,Search Engine forCollected Works,88,9976,222,17,0,9
+html body text ul li span  ,David Kathman's,48,9994,115,17,0,6
+html body text ul li a span  ,Biographical Index of English Drama Before 1660,163,9994,328,17,0,7
+html body text ul li span  ,is a draft list of all people known to have been involved with theater in England between 1558 and 1642.,48,9994,705,35,0,6
+html body text ul li span  ,Collections of Shakespeare Links,48,10030,215,17,0,6
+html body text ul li ul li span  ,Terry A. Gray's,88,10048,102,17,0,8
+html body text ul li ul li a span  ,Mr. William Shakespeare and the Internet,190,10048,271,17,0,9
+html body text ul li ul li span  ,": in addition to the mostcomprehensive guide to Shakespearean resources on the internet, thisindispensable site also includes many documents relating to Shakespearethat are available nowhere else on the web, such as an annotated versionof Nicholas Rowe's 1709",88,10048,678,71,0,8
+html body text ul li ul li a span  ,biography,124,10102,69,17,0,9
+html body text ul li ul li span  ,.,193,10102,4,17,0,8
+html body text ul li ul li span  ,Find more links to material by and about Shakespeare (and a great manyother writers of the English Renaisance and 17th Century) at the,88,10120,639,35,0,8
+html body text ul li ul li a span  ,Voiceof the Shuttle,324,10138,122,17,0,9
+html body text ul li span  ,"Since 1990, scholars and common readers have discussed the works and life of Shakespeare on the",48,10156,637,17,0,6
+html body text ul li a span  ,SHAKSPER,685,10156,82,17,0,7
+html body text ul li span  ,"mailing list, which is edited by Hardy M. Cook.",48,10174,306,17,0,6
+html body text ul li span  ,Oxford's Writings,48,10192,114,17,0,6
+html body text ul li ul li span  ,Alan Nelson has put up a great deal of information about,88,10210,368,17,0,8
+html body text ul li ul li a span  ,the 17th earl of Oxford,456,10210,152,17,0,9
+html body text ul li ul li span  ,"including transcriptions of his letters and memoranda, an analysisof his spelling habits, and information about his trip to Italy. (Ofrelated interest is our",88,10210,689,53,0,8
+html body text ul li ul li a span  ,list,249,10246,23,17,0,9
+html body text ul li ul li span  ,"of the annotationsin Oxford's Bible.) In addition, Nelson has also made available newevidence of the relationship betweenShakespeare and",88,10246,640,35,0,8
+html body text ul li ul li a span  ,Sir GeorgeBuc,522,10264,99,17,0,9
+html body text ul li ul li span  ,", the Master of Revels from 1610 to 1622.",88,10264,674,35,0,8
+html body text ul li ul li span  ,Versions of,88,10300,76,17,0,8
+html body text ul li ul li a span  ,Poemsby Oxford,164,10300,113,17,0,9
+html body text ul li ul li span  ,(and others) were inexpertly edited by J. Thomas Looney.,277,10300,374,17,0,8
+html body text ul li ul li i span  ,Caveat lector,651,10300,90,17,0,9
+html body text ul li ul li span  ,.,741,10300,4,17,0,8
+html body text ul li span  ,General Discussions of Authorship,48,10318,224,17,0,6
+html body text ul li ul li span  ,The Shakespeare Birthplace Trust discusses various responses that havebeen given to,88,10336,549,17,0,8
+html body text ul li ul li a span  ,The Shakespeare Authorship Question,88,10336,659,35,0,9
+html body text ul li ul li span  ,.,226,10354,4,17,0,8
+html body text ul li ul li span  ,Links to websites of the candidates may be found on the,88,10372,363,17,0,8
+html body text ul li ul li a span  ,AuthorshipDebates,451,10372,128,17,0,9
+html body text ul li ul li span  ,page of J. M. Pressley's,579,10372,150,17,0,8
+html body text ul li ul li a span  ,Shakespeare Resource Center,88,10390,190,17,0,9
+html body text ul li ul li span  ,John George Robertson's 1911 essay,88,10408,238,17,0,8
+html body text ul li ul li a span  ,"""The Shakespeare-Bacon Theory""",326,10408,222,17,0,9
+html body text ul li ul li span  ,appeared in the,548,10408,102,17,0,8
+html body text ul li ul li i span  ,Encyclopedia Britannica,88,10408,649,35,0,9
+html body text ul li ul li span  ,and has been put online by,160,10426,175,17,0,8
+html body text ul li ul li a span  ,TheatreHistory.com,335,10426,128,17,0,9
+html body text ul li ul li span  ,Ward Elliott tells the history of,88,10444,202,17,0,8
+html body text ul li ul li a span  ,The Shakespeare Clinic,290,10444,156,17,0,9
+html body text ul li ul li span  ,", a project that used stylometric methods to investigate the authorship of Shakespeare's works.",88,10444,633,35,0,8
+html body text ul li ul li ul li span  ,"Using stylometrics, Ward Elliott and Robert Valenza calculate the odds against Oxford's having written Shakespeare in",128,10480,610,35,0,10
+html body text ul li ul li ul li a span  ,Oxford by the Numbers,278,10498,152,17,0,11
+html body text ul li ul li ul li span  ,In,128,10516,17,17,0,10
+html body text ul li ul li ul li a span  ,Two Tough Nuts to Crack,145,10516,170,17,0,11
+html body text ul li ul li ul li span  ,", Elliott and Valenza test whether their methods support the view that Shakespeare contributed to",128,10516,627,35,0,10
+html body text ul li ul li ul li i span  ,Sir Thomas More,305,10534,116,17,0,11
+html body text ul li ul li ul li span  ,and,421,10534,27,17,0,10
+html body text ul li ul li ul li i span  ,Edward III,448,10534,74,17,0,11
+html body text ul li ul li ul li span  ,.,522,10534,4,17,0,10
+html body text ul li ul li span  ,Irvin Leigh Matus 's site,88,10552,159,17,0,8
+html body text ul li ul li a span  ,WillyShakes.com,247,10552,117,17,0,9
+html body text ul li ul li span  ,contains several essays on the authorship of Shakespeare's works.,88,10552,649,35,0,8
+html body text ul li ul li span  ,"Steven Dutch, a scientist at the University of Wisconsin-Green Bay,believes that antistratfordianism is at best a",88,10588,669,35,0,8
+html body text ul li ul li a span  ,Pseudoscience,129,10606,97,17,0,9
+html body text ul li ul li span  ,.,226,10606,4,17,0,8
+html body text ul li ul li span  ,Clark Holloway's,88,10624,116,17,0,8
+html body text ul li ul li a span  ,Shakespeare,204,10624,84,17,0,9
+html body text ul li ul li span  ,page includes a look at,288,10624,150,17,0,8
+html body text ul li ul li a span  ,"The Authorship ""Problem""",438,10624,171,17,0,9
+html body text ul li ul li span  ,James Boyle blends law and literaturein,88,10642,259,17,0,8
+html body text ul li ul li a span  ,TheSearch for an Author: Shakespeare and the Framers,347,10642,354,17,0,9
+html body text ul li ul li span  ,Diana Price argues in her new book,88,10660,232,17,0,8
+html body text ul li ul li a span  ,Shakespeare's Unorthodox Biography,320,10660,246,17,0,9
+html body text ul li ul li span  ,that he was not a writer.,566,10660,153,17,0,8
+html body text ul li ul li ul li span  ,Alan Nelson has,128,10678,110,17,0,10
+html body text ul li ul li ul li a span  ,responded,238,10678,70,17,0,11
+html body text ul li ul li ul li span  ,to Price.,308,10678,53,17,0,10
+html body text ul li ul li span  ,The Wikipedia includes an entry on,88,10696,232,17,0,8
+html body text ul li ul li a span  ,Shakespearean authorship,320,10696,167,17,0,9
+html body text ul li ul li span  ,Alan Haley describes a moot court,88,10714,225,17,0,8
+html body text ul li ul li a span  ,Authorship Debate,313,10714,125,17,0,9
+html body text ul li ul li span  ,between supporters of Shakespeare and of Oxford.,438,10714,324,17,0,8
+html body text ul li ul li span  ,Brad Strickland asks,88,10732,136,17,0,8
+html body text ul li ul li a span  ,Who Wrote Shakespeare?,224,10732,169,17,0,9
+html body text ul li ul li span  ,", and asnwers,""Shakespeare did.""",393,10732,212,17,0,8
+html body text ul li ul li span  ,Amanda J. Crawford reviews Irvin Matus's,88,10750,280,17,0,8
+html body text ul li ul li a span  ,"Shakespeare,IN FACT",368,10750,144,17,0,9
+html body text ul li ul li span  ,Authorship is also a popular topic on the newsgroup,88,10768,338,17,0,8
+html body text ul li ul li a span  ,humanities.lit.authors.shakespeare,426,10768,224,17,0,9
+html body text ul li ul li span  ,.,650,10768,4,17,0,8
+html body text ul li ul li span  ,After the release of,88,10786,127,17,0,8
+html body text ul li ul li i span  ,Shakespeare in Love,215,10786,136,17,0,9
+html body text ul li ul li span  ,", the authorship of Shakespeare's works became a topic at",351,10786,372,17,0,8
+html body text ul li ul li a span  ,Mr. Cranky,88,10786,658,35,0,9
+html body text ul li ul li span  ,The topic sometimes arises on a German,88,10822,264,17,0,8
+html body text ul li ul li a span  ,ShakespeareForum,352,10822,123,17,0,9
+html body text ul li ul li span  ,Authorship issues are often discussed in,88,10840,260,17,0,8
+html body text ul li ul li a i span  ,The Elizabethan Review,348,10840,159,17,0,10
+html body text ul li ul li span  ,", atwice-yearly journal edited by Gary Goldstein.",88,10840,663,35,0,8
+html body text ul li ul li span  ,The,88,10876,29,17,0,8
+html body text ul li ul li a span  ,ShakespeareAuthorship Rountable,117,10876,226,17,0,9
+html body text ul li ul li span  ,does notendorse any alternative candidate -- but they're pretty sure theauthor was someone other than Shakespeare.,88,10876,680,35,0,8
+html body text ul li ul li span  ,Ian Chadwick goes,88,10912,127,17,0,8
+html body text ul li ul li a span  ,InSearch of the Real Bard,215,10912,166,17,0,9
+html body text ul li ul li span  ,"Meg Greene Malvasi asks,",88,10930,175,17,0,8
+html body text ul li ul li a span  ,Did He or Didn't He?,263,10930,141,17,0,9
+html body text ul li ul li span  ,at the History for Children site.,404,10930,200,17,0,8
+html body text ul li ul li span  ,Polly Rance reviews John Michell's,88,10948,233,17,0,8
+html body text ul li ul li a i span  ,Who Wrote Shakespeare?,321,10948,163,17,0,10
+html body text ul li ul li span  ,. . . as does,88,10966,75,17,0,8
+html body text ul li ul li a span  ,Jim Loy,163,10966,57,17,0,9
+html body text ul li ul li span  ,on his book review page.,220,10966,160,17,0,8
+html body text ul li ul li span  ,Nigel Davies,88,10984,84,17,0,8
+html body text ul li ul li ul li span  ,offers an authorship Q&A at,128,11002,186,17,0,10
+html body text ul li ul li ul li a span  ,WhoWrote Shakespeare?,314,11002,161,17,0,11
+html body text ul li ul li ul li span  ,Summarizes the case,128,11020,138,17,0,10
+html body text ul li ul li ul li i span  ,against,266,11020,51,17,0,11
+html body text ul li ul li ul li span  ,Oxford at,317,11020,66,17,0,10
+html body text ul li ul li ul li a span  ,Why Oxford wasn't Shakespeare,383,11020,209,17,0,11
+html body text ul li ul li ul li span  ,"Shows how angrams can be used to ""prove"" just about anything at",128,11038,427,17,0,10
+html body text ul li ul li ul li a span  ,Shakespeare Ciphers,555,11038,134,17,0,11
+html body text ul li ul li span  ,"From Austria, Patricia Hoda asks",88,11056,216,17,0,8
+html body text ul li ul li a span  ,Wer war Shakespeare?,304,11056,145,17,0,9
+html body text ul li ul li span  ,T. L. Hubeart looks briefly at,88,11074,190,17,0,8
+html body text ul li ul li a span  ,The ShakespeareAuthorship Question,278,11074,243,17,0,9
+html body text ul li ul li span  ,"A site for schools in Urbana, Ohio, asks",88,11092,258,17,0,8
+html body text ul li ul li a span  ,WhoWrote Shakespeare?,346,11092,162,17,0,9
+html body text ul li ul li span  ,"From Richard Stockton College, a brief listing of points",88,11110,362,17,0,8
+html body text ul li ul li a span  ,for and against,450,11110,99,17,0,9
+html body text ul li ul li span  ,Shakespeare's authorship of his works.,88,11110,661,35,0,8
+html body text ul li ul li span  ,"Libby Maia asks,",88,11146,114,17,0,8
+html body text ul li ul li a span  ,WereThere Two Shakespeares?,202,11146,200,17,0,9
+html body text ul li ul li span  ,Barbara Rosson Davis describes her,88,11164,235,17,0,8
+html body text ul li ul li a span  ,screenplay,323,11164,72,17,0,9
+html body text ul li ul li span  ,about the authorship of Shakespeare's works.,395,11164,289,17,0,8
+html body text ul li span  ,Oxford,48,11182,46,17,0,6
+html body text ul li ul li span  ,The founding tract of Oxfordianism is J. Thomas Looney's,88,11200,379,17,0,8
+html body text ul li ul li a i span  ,'Shakespeare'Identified,467,11200,153,17,0,10
+html body text ul li ul li i span  ,in Edward de Vere the Seventeenth Earl of Oxford,88,11200,673,35,0,9
+html body text ul li ul li span  ,.,266,11218,4,17,0,8
+html body text ul li ul li a span  ,The Shakespeare Oxford Society Home Page,88,11236,293,17,0,9
+html body text ul li ul li span  ,is the principal Oxfordian web site.,381,11236,226,17,0,8
+html body text ul li ul li span  ,The Oxfordian,88,11254,99,17,0,8
+html body text ul li ul li a span  ,Shakespeare Fellowship,187,11254,159,17,0,9
+html body text ul li ul li span  ,site includes essays from the group's magazine,346,11254,303,17,0,8
+html body text ul li ul li a span  ,Shakespeare Matters,88,11254,640,35,0,9
+html body text ul li ul li span  ,.,141,11272,4,17,0,8
+html body text ul li ul li span  ,Mark Alexander's,88,11290,118,17,0,8
+html body text ul li ul li a span  ,Shakespeare AuthorshipSourcebook,206,11290,235,17,0,9
+html body text ul li ul li span  ,", an Oxfordian survey of materials related to Shakespeareand Oxford.",88,11290,637,35,0,8
+html body text ul li ul li span  ,Nina Green's,88,11326,87,17,0,8
+html body text ul li ul li a span  ,Oxford Authorship Site,175,11326,155,17,0,9
+html body text ul li ul li span  ,"credits Edward de Vere with being not merely himself and Shakespeare but also Martin Marprelate, Thomas Nashe, and Robert Greene.",88,11326,614,35,0,8
+html body text ul li ul li span  ,The Oxfordian musings of,88,11362,173,17,0,8
+html body text ul li ul li a span  ,Randall Barron,261,11362,103,17,0,9
+html body text ul li ul li span  ,total 31 briefchapters (so far).,364,11362,190,17,0,8
+html body text ul li ul li span  ,The Oxfordian case was promoted by the PBS,88,11380,300,17,0,8
+html body text ul li ul li i span  ,Frontline,388,11380,64,17,0,9
+html body text ul li ul li span  ,"program,",452,11380,62,17,0,8
+html body text ul li ul li a span  ,"""TheShakespeare Mystery.""",514,11380,179,17,0,9
+html body text ul li ul li span  ,"In 1991, the Oxfordian case was debated in",88,11398,281,17,0,8
+html body text ul li ul li a i span  ,TheAtlantic Monthly,369,11398,132,17,0,10
+html body text ul li ul li span  ,"In 1999, the Oxfordian case was debated in",88,11416,281,17,0,8
+html body text ul li ul li a i span  ,Harper's,369,11416,61,17,0,10
+html body text ul li ul li a span  ,magazine,430,11416,65,17,0,9
+html body text ul li ul li span  ,.,495,11416,4,17,0,8
+html body text ul li ul li span  ,A number of pieces by the late Oxfordian Charlton Ogburn Jr. areavailable online:,88,11434,527,17,0,8
+html body text ul li ul li a span  ,The Man Shakespeare Was Not,88,11452,205,17,0,9
+html body text ul li ul li span  ,|,293,11452,7,17,0,8
+html body text ul li ul li a span  ,Shakespeare's Self-Portrait,300,11452,176,17,0,9
+html body text ul li ul li span  ,|,476,11452,8,17,0,8
+html body text ul li ul li a span  ,Interview with Charlton Ogburn,484,11452,210,17,0,9
+html body text ul li ul li span  ,|,694,11452,3,17,0,8
+html body text ul li ul li a span  ,Shakespeare and the Fair Youth,88,11470,202,17,0,9
+html body text ul li ul li ul li span  ,Mark Anderson's,128,11488,113,17,0,10
+html body text ul li ul li ul li a span  ,obituary,241,11488,57,17,0,11
+html body text ul li ul li ul li span  ,of Ogburn.,298,11488,71,17,0,10
+html body text ul li ul li span  ,Joseph Sobran sprinkles his,88,11506,181,17,0,8
+html body text ul li ul li a span  ,Oxfordian writings,269,11506,127,17,0,9
+html body text ul li ul li span  ,with laments that hedoesn't get enough respect from Shakespearean scholars:,88,11506,640,35,0,8
+html body text ul li ul li a span  ,The Problem of the Funeral Elegy,88,11542,222,17,0,9
+html body text ul li ul li span  ,|,310,11542,7,17,0,8
+html body text ul li ul li a span  ,Bible holds proof of Shakespeare's identity,317,11542,280,17,0,9
+html body text ul li ul li span  ,|,597,11542,7,17,0,8
+html body text ul li ul li a span  ,Shakespeare's Disgrace,604,11542,154,17,0,9
+html body text ul li ul li span  ,|,758,11542,3,17,0,8
+html body text ul li ul li a span  ,The Mystery ofEmaricdulfe,88,11560,183,17,0,9
+html body text ul li ul li span  ,|,271,11560,7,17,0,8
+html body text ul li ul li a span  ,"David Kathman and the ""Historical Record""",278,11560,287,17,0,9
+html body text ul li ul li span  ,|,565,11560,7,17,0,8
+html body text ul li ul li a span  ,The Bard’s Orphans,572,11560,128,17,0,9
+html body text ul li ul li ul li span  ,Sobran's Oxfordian tract,128,11578,161,17,0,10
+html body text ul li ul li ul li i span  ,Alias Shakespeare,289,11578,121,17,0,11
+html body text ul li ul li ul li span  ,has been reviewed by,410,11578,142,17,0,10
+html body text ul li ul li ul li a span  ,Jeffrey Gantz,552,11578,86,17,0,11
+html body text ul li ul li ul li span  ,Favorable comments about Sobran's book by,128,11596,292,17,0,10
+html body text ul li ul li ul li a span  ,Kathleen van Schaijik,420,11596,145,17,0,11
+html body text ul li ul li ul li span  ,led to a lively online discussion.,565,11596,206,17,0,10
+html body text ul li ul li span  ,Richard Whalen's,88,11614,117,17,0,8
+html body text ul li ul li i span  ,Shakespeare:Who Was He? The Oxford Challenge to the Bard of Avon,205,11614,454,17,0,9
+html body text ul li ul li span  ,is reviewedby,659,11614,89,17,0,8
+html body text ul li ul li a span  ,Paul Franssen,88,11632,93,17,0,9
+html body text ul li ul li span  ,.,181,11632,4,17,0,8
+html body text ul li ul li span  ,Peter Morton reviews,88,11650,143,17,0,8
+html body text ul li ul li a span  ,two novels promoting theOxfordian view,231,11650,268,17,0,9
+html body text ul li ul li span  ,and also Denis Baron's,499,11650,151,17,0,8
+html body text ul li ul li a span  ,De Vere is Shakespeare,88,11650,628,35,0,9
+html body text ul li ul li a span  ,Ruth LoydMiller,88,11686,113,17,0,9
+html body text ul li ul li span  ,has republished some of the basic Oxfordian tracts.,201,11686,328,17,0,8
+html body text ul li ul li span  ,David Roper's,88,11704,95,17,0,8
+html body text ul li ul li a span  ,Shakespeare Story,183,11704,123,17,0,9
+html body text ul li ul li span  ,"holds that ciphers in Shakespeare's monument point to Oxford as the ""real"" author of Shakespeare's works.",88,11704,657,35,0,8
+html body text ul li ul li span  ,Robert Brazil has put up,88,11740,160,17,0,8
+html body text ul li ul li a span  ,OXPIX,248,11740,53,17,0,9
+html body text ul li ul li span  ,", a page of""images relevant to the Shakespeare-Oxford debate"" as well as chaptersfrom his book",88,11740,682,35,0,8
+html body text ul li ul li a i span  ,TheTrue Story of the Shakespeare Publications,235,11758,300,17,0,10
+html body text ul li ul li span  ,Dennis Hirsch thinks,88,11776,139,17,0,8
+html body text ul li ul li a span  ,The Mystery of Shake-speare's Sonnets,227,11776,256,17,0,9
+html body text ul li ul li span  ,goes away if Oxford is assumed to be the real author.,88,11776,688,35,0,8
+html body text ul li ul li span  ,Barbara Van Duyn asks the unmusical question,88,11812,306,17,0,8
+html body text ul li ul li a span  ,"Shakespeare, Earl of Oxford?",394,11812,189,17,0,9
+html body text ul li ul li i span  ,Time,88,11830,35,17,0,9
+html body text ul li ul li span  ,magazine's Howard Chua-Eoan wonders whether Oxford was,123,11830,399,17,0,8
+html body text ul li ul li a span  ,The Bard's Beard,522,11830,115,17,0,9
+html body text ul li ul li span  ,.,637,11830,4,17,0,8
+html body text ul li ul li span  ,Paige Norris ponders,88,11848,139,17,0,8
+html body text ul li ul li a span  ,The Shakespearean Controversy,227,11848,207,17,0,9
+html body text ul li ul li span  ,The,88,11866,29,17,0,8
+html body text ul li ul li i span  ,Seattle Times,117,11866,89,17,0,9
+html body text ul li ul li span  ,covered a,206,11866,66,17,0,8
+html body text ul li ul li a span  ,1997debate,272,11866,77,17,0,9
+html body text ul li ul li span  ,"between Joseph Sobran and Alan Nelson. (You may have to register to view this article, but there is no charge to do so).",88,11866,644,35,0,8
+html body text ul li ul li a span  ,L. James Hammond,88,11902,132,17,0,9
+html body text ul li ul li span  ,offers a summary of the Oxfordian case quarried from Ogburn.,220,11902,404,17,0,8
+html body text ul li ul li span  ,Oxfordian Eric Altschuler thinks,88,11920,213,17,0,8
+html body text ul li ul li i span  ,Hamlet,301,11920,51,17,0,9
+html body text ul li ul li span  ,contains a,352,11920,69,17,0,8
+html body text ul li ul li a span  ,CosmicClue to Bard's Identity,421,11920,197,17,0,9
+html body text ul li ul li span  ,", according to Constance Holden.",88,11920,689,35,0,8
+html body text ul li ul li span  ,Volker Multhopp thinks Oxford collaborated on the Shakespeare playswith John Lyly; his,88,11956,578,17,0,8
+html body text ul li ul li a span  ,Small Shakespeare Authorship Page,88,11956,616,35,0,9
+html body text ul li ul li span  ,includes a,282,11974,69,17,0,8
+html body text ul li ul li a span  ,response,351,11974,60,17,0,9
+html body text ul li ul li span  ,to David Kathman's,411,11974,131,17,0,8
+html body text ul li ul li a span  ,Dating,542,11974,47,17,0,9
+html body text ul li ul li a i span  ,the Tempest,589,11974,76,17,0,10
+html body text ul li ul li span  ,John Rollett's notion that the dedication to,88,11992,274,17,0,8
+html body text ul li ul li i span  ,Shakespeare's Sonnets,362,11992,148,17,0,9
+html body text ul li ul li span  ,containsOxfordian cryptograms was discussed in,88,11992,654,35,0,8
+html body text ul li ul li a span  ,Chance News,170,12010,92,17,0,9
+html body text ul li ul li span  ,.,262,12010,4,17,0,8
+html body text ul li ul li span  ,Old Arcadia has a pretty (and pretty unreliable),88,12028,307,17,0,8
+html body text ul li ul li a span  ,Oxfordian site,395,12028,96,17,0,9
+html body text ul li ul li span  ,.,491,12028,4,17,0,8
+html body text ul li ul li span  ,A. C. Challinor is also anOxfordian-centeredgroupist. His publisher's website classifies his book,88,12046,617,17,0,8
+html body text ul li ul li a span  ,TheAlternative Shakespeare,88,12064,185,17,0,9
+html body text ul li ul li span  ,as fiction.,273,12064,63,17,0,8
+html body text ul li ul li span  ,Oxford was a twig on the,88,12082,166,17,0,8
+html body text ul li ul li a span  ,deVere Family Tree,254,12082,130,17,0,9
+html body text ul li ul li span  ,", though that does not mean he was Shakespeare.",384,12082,313,17,0,8
+html body text ul li ul li span  ,Lazy students might want to peek at this sample Oxfordian,88,12100,381,17,0,8
+html body text ul li ul li a span  ,term paper,469,12100,73,17,0,9
+html body text ul li ul li span  ,.,542,12100,4,17,0,8
+html body text ul li ul li span  ,A,88,12118,15,17,0,8
+html body text ul li ul li a span  ,Geronimo Reviewer,103,12118,134,17,0,9
+html body text ul li ul li span  ,supports Oxford.,237,12118,108,17,0,8
+html body text ul li ul li span  ,Amie Ader sees a case for Oxford in,88,12136,237,17,0,8
+html body text ul li ul li a span  ,The GreatConspiracy,325,12136,137,17,0,9
+html body text ul li ul li span  ,Joseph Eldredge thinks Oxford may have had,88,12154,295,17,0,8
+html body text ul li ul li a span  ,Martha's Vineyard,383,12154,122,17,0,9
+html body text ul li ul li span  ,in mind as the setting fot,505,12154,163,17,0,8
+html body text ul li ul li i span  ,The Tempest,668,12154,84,17,0,9
+html body text ul li ul li span  ,.,752,12154,4,17,0,8
+html body text ul li ul li span  ,Introduce schoolchildren to Oxfordianism by playing,88,12172,345,17,0,8
+html body text ul li ul li a span  ,Who WasShakespeare? A Mock Trial,433,12172,238,17,0,9
+html body text ul li ul li span  ,"Nicole Blank, a 9th grader at Willits (California) High School, asks,",88,12190,439,17,0,8
+html body text ul li ul li a span  ,Is Shakespeare A Fraud?,527,12190,158,17,0,9
+html body text ul li ul li span  ,"Oxfordianism is all the rage at California's Carmel Shake-speare Festival, but the",88,12208,523,17,0,8
+html body text ul li ul li a span  ,localpaper,611,12208,71,17,0,9
+html body text ul li ul li span  ,isn't convinced.,88,12208,620,35,0,8
+html body text ul li ul li span  ,The,88,12244,29,17,0,8
+html body text ul li ul li a span  ,Ojai Shakespeare Festival,117,12244,170,17,0,9
+html body text ul li ul li span  ,also seems interested in Oxfordianism.,287,12244,248,17,0,8
+html body text ul li ul li span  ,The,88,12262,29,17,0,8
+html body text ul li ul li a span  ,Edward de Vere StudiesConference,117,12262,231,17,0,9
+html body text ul li ul li span  ,is held every April at Concordia University in Portland OR.,348,12262,381,17,0,8
+html body text ul li ul li span  ,"Oxfordianism in Italy: was the name ""Shakespeare"" actually the",88,12280,413,17,0,8
+html body text ul li ul li a span  ,pseudonimo del poeta e drammaturgo Edward de Vere,88,12280,655,35,0,9
+html body text ul li ul li span  ,?,194,12298,7,17,0,8
+html body text ul li ul li span  ,Norma Howe's,88,12316,100,17,0,8
+html body text ul li ul li a span  ,Blue Avenger Cracks the Code,188,12316,201,17,0,9
+html body text ul li ul li span  ,presents the exploits of a teen-aged Oxfordian superhero.,389,12316,366,17,0,8
+html body text ul li ul li span  ,The Oxfordian,88,12334,99,17,0,8
+html body text ul li ul li a span  ,StephanieCaruana,187,12334,120,17,0,9
+html body text ul li ul li span  ,has written a play to promote her views.,307,12334,257,17,0,8
+html body text ul li ul li span  ,Jerry Fey's Oxfordian fantasy,88,12352,193,17,0,8
+html body text ul li ul li a span  ,Oxford's Will,281,12352,91,17,0,9
+html body text ul li ul li span  ,has been performed by the Colony Theater in Los Angeles.,372,12352,377,17,0,8
+html body text ul li span  ,Francis Bacon,48,12370,92,17,0,6
+html body text ul li ul li span  ,The principal Baconian site is,88,12388,195,17,0,8
+html body text ul li ul li a span  ,Shake-n-Bacon,283,12388,99,17,0,9
+html body text ul li ul li span  ,Another handsome Baconian site: Lawrence Gerald's,88,12406,344,17,0,8
+html body text ul li ul li a span  ,SirFrancisBacon's New Advancement of Learning,432,12406,321,17,0,9
+html body text ul li ul li a i span  ,Is ShakespeareDead?,88,12424,142,17,0,10
+html body text ul li ul li span  ,is a classic Baconian text by Mark Twain.,230,12424,267,17,0,8
+html body text ul li ul li ul li span  ,Was Twain's book the product of plagiarism? Read contemporarynews accounts from the New York,128,12442,638,17,0,10
+html body text ul li ul li ul li i span  ,Times:,128,12460,43,17,0,11
+html body text ul li ul li ul li a span  ,"May 1, 1909",128,12478,85,17,0,11
+html body text ul li ul li ul li span  ,|,213,12478,8,17,0,10
+html body text ul li ul li ul li a span  ,"June 9, 1909",221,12478,85,17,0,11
+html body text ul li ul li ul li span  ,|,306,12478,7,17,0,10
+html body text ul li ul li ul li a span  ,"June 10, 1909",313,12478,93,17,0,11
+html body text ul li ul li ul li span  ,|,406,12478,8,17,0,10
+html body text ul li ul li ul li a span  ,"June 11, 1909",414,12478,88,17,0,11
+html body text ul li ul li ul li span  ,Read Twain's friend and biographer Albert Bigelow Paine on,128,12496,394,17,0,10
+html body text ul li ul li ul li a span  ,Shakespeare-BaconTalk,522,12496,158,17,0,11
+html body text ul li ul li ul li span  ,and,680,12496,23,17,0,10
+html body text ul li ul li ul li a span  ,"""IsShakespeare Dead?""",128,12514,149,17,0,11
+html body text ul li ul li a span  ,Walt Whitman,88,12532,97,17,0,9
+html body text ul li ul li span  ,wrote a poem on the Baconiancontroversy.,185,12532,274,17,0,8
+html body text ul li ul li span  ,"A classic response to Baconism is Andrew Lang's 1912 book,",88,12550,397,17,0,8
+html body text ul li ul li a span  ,"Shakespeare, Bacon and the Great Unknown",485,12550,286,17,0,9
+html body text ul li ul li span  ,.,88,12568,4,17,0,8
+html body text ul li ul li span  ,Penn Leary has written extensively on the,88,12586,272,17,0,8
+html body text ul li ul li a span  ,Baconian ciphers,360,12586,115,17,0,9
+html body text ul li ul li span  ,he finds inShakespeare's works. Leary died on,475,12586,297,17,0,8
+html body text ul li ul li a span  ,"March 9th, 2005",88,12604,110,17,0,9
+html body text ul li ul li span  ,.,198,12604,4,17,0,8
+html body text ul li ul li span  ,Mather Walker invites you to download an,88,12622,277,17,0,8
+html body text ul li ul li a span  ,acrostic-anagrammatic Bacon cipher,365,12622,235,17,0,9
+html body text ul li ul li span  ,Another person interested in Baconian ciphersis,88,12640,311,17,0,8
+html body text ul li ul li a span  ,Kevin Scott Boomsma,399,12640,149,17,0,9
+html body text ul li ul li span  ,", a student in a cryptography seminar at theUniversity of Illinois Chicago.",88,12640,642,35,0,8
+html body text ul li ul li span  ,Virginia Fellows believes that secrets are hidden behind,88,12676,361,17,0,8
+html body text ul li ul li a span  ,Bacon and Shakespeare Cyphers,449,12676,214,17,0,9
+html body text ul li ul li span  ,.,663,12676,4,17,0,8
+html body text ul li ul li span  ,Baconian Grant Scicluna is surethat,88,12694,233,17,0,8
+html body text ul li ul li a span  ,WilliamShakespeare Did Not Exist,321,12694,225,17,0,9
+html body text ul li ul li span  ,Francis Carr insists that Bacon was notonly,88,12712,282,17,0,8
+html body text ul li ul li a span  ,Shakespeare,370,12712,84,17,0,9
+html body text ul li ul li span  ,butalso,454,12712,50,17,0,8
+html body text ul li ul li a span  ,Cervantes,504,12712,68,17,0,9
+html body text ul li ul li span  ,.,572,12712,4,17,0,8
+html body text ul li ul li span  ,"Jerome Harner, a Baconian, explains why he is",88,12730,304,17,0,8
+html body text ul li ul li a span  ,not an Oxfordian,392,12730,109,17,0,9
+html body text ul li ul li a span  ,Brian Jarvis,88,12748,81,17,0,9
+html body text ul li ul li span  ,thinks a collaboration between Shakespeare and Bacon may explain everything.,169,12748,511,17,0,8
+html body text ul li span  ,Marlowe,48,12766,58,17,0,6
+html body text ul li ul li span  ,Claims for Marlowe's authorship of Shakespeare's works may be foundat the,88,12784,495,17,0,8
+html body text ul li ul li a span  ,Marlowe Society,583,12784,110,17,0,9
+html body text ul li ul li span  ,Another Marlovian site: Peter Farey's,88,12802,243,17,0,8
+html body text ul li ul li a span  ,A Deception in Deptford,331,12802,159,17,0,9
+html body text ul li ul li a span  ,A. D. Wraight,88,12820,95,17,0,9
+html body text ul li ul li span  ,alsobelieves in Marlowe.,183,12820,160,17,0,8
+html body text ul li ul li span  ,John Baker is responsible for the,88,12838,214,17,0,8
+html body text ul li ul li a span  ,Marlowe/ShakespeareSchool of Thought Emporium,302,12838,339,17,0,9
+html body text ul li ul li span  ,.,640,12838,4,17,0,8
+html body text ul li ul li a span  ,JeanJofen,88,12856,67,17,0,9
+html body text ul li ul li span  ,thinks that Marlowe was Jewish and that he also wrote the MartinMarprelate tracts when he wasn't writing the works of Shakespeare (shethinks Bacon and Oxford helped Marlowe be the bard).,88,12856,655,35,0,8
+html body text ul li ul li a span  ,CarolynGage,88,12892,89,17,0,9
+html body text ul li ul li span  ,has very personal reasons for supporting Marlowe,177,12892,321,17,0,8
+html body text ul li span  ,Other Candidates,48,12910,112,17,0,6
+html body text ul li ul li span  ,"John Raithel looks into the possibility that the works were penned by William Stanley, the sixth Earl of",88,12928,659,17,0,8
+html body text ul li ul li a span  ,Derby,88,12946,40,17,0,9
+html body text ul li ul li span  ,Patrick Buckridge puts his money on,88,12964,241,17,0,8
+html body text ul li ul li a span  ,Sir Edward Dyer,329,12964,112,17,0,9
+html body text ul li ul li span  ,.,441,12964,4,17,0,8
+html body text ul li ul li span  ,Would you believe,88,12982,124,17,0,8
+html body text ul li ul li a span  ,theEarl of Rutland,212,12982,123,17,0,9
+html body text ul li ul li span  ,"? Ilya Gililov does, according to the",335,12982,233,17,0,8
+html body text ul li ul li i span  ,ChristianScience Monitor,568,12982,170,17,0,9
+html body text ul li ul li span  ,.,738,12982,4,17,0,8
+html body text ul li ul li ul li span  ,Gililov's work has been reviewed (in Russian) by,128,13000,318,17,0,10
+html body text ul li ul li ul li a span  ,AnnaBernikova,446,13000,106,17,0,11
+html body text ul li ul li ul li span  ,and by,552,13000,47,17,0,10
+html body text ul li ul li ul li a span  ,BorisKuz'minsky,599,13000,111,17,0,11
+html body text ul li ul li span  ,Joanne Ambrose believes Shakespeare's works were written by,88,13018,407,17,0,8
+html body text ul li ul li a span  ,Edmund Campion,495,13018,121,17,0,9
+html body text ul li ul li span  ,.,616,13018,4,17,0,8
+html body text ul li ul li span  ,Was Shakespeare Sicilian? See,88,13036,201,17,0,8
+html body text ul li ul li a span  ,Antonio Casa's news account,289,13036,192,17,0,9
+html body text ul li ul li span  ,of Martino Iuvara's notion (would it surpise anyone to learn that Iuvara himself is Sicilian?). Iuvara's idea was considered newsworthy by the,88,13036,672,35,0,8
+html body text ul li ul li a span  ,Times of London.,88,13054,680,35,0,9
+html body text ul li ul li span  ,Peter Zenner thinks somebody named,88,13090,245,17,0,8
+html body text ul li ul li a span  ,William Pierce,333,13090,100,17,0,9
+html body text ul li ul li span  ,"was not only Shakespearebut also Edmund Spenser, John Donne, Christopher Marlowe, Francis Bacon, John Milton and many others.",88,13090,678,35,0,8
+html body text span  ,Thanks to,65,13152,68,17,0,4
+html body text a span  ,SevenWonders,133,13152,99,17,0,5
+html body text span  ,"for naming the SHAKESPEARE AUTHORSHIP Home Page the Site ofthe Day on April 23, 1996.",65,13152,700,35,0,4
+html body text span  ,This page is managed by,8,13206,163,17,0,4
+html body text a span  ,David Kathman,171,13206,106,17,0,5
+html body text span  ,and,277,13206,27,17,0,4
+html body text a span  ,Terry Ross,304,13206,73,17,0,5
+html body text span  ,.,377,13206,4,17,0,4
+html body text span  ,We thank all our visitors (we've been,8,13224,241,17,0,4
+html body text a span  ,counting,249,13224,60,17,0,5
+html body text span  ,"you), and we invite your comments.",309,13224,231,17,0,4

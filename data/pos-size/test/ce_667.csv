@@ -1,0 +1,314 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Dave Winer's RSS Weblog,0,0,610,18,0,6
+html body text div div span a span  ,Really Simple Syndication,8,26,172,17,1,8
+html body text div div span span  ,Everything new about RSS 2.0.,8,44,202,17,0,7
+html body text div div span span  ,"Friday, May 6, 2005",24,83,130,17,0,7
+html body text div div p b a span  ,A brief essay about advocacy of XML formats,8,135,312,17,1,9
+html body text div div p span  ,"Thankfully there hasn't been much format-bashing going on in the last year or so, but it looks like it might be starting again, so let's do something before it becomes a problem.",8,169,750,35,1,7
+html body text div div p span  ,I suggest that the entire XML development community adopt the,8,221,419,17,1,7
+html body text div div p a span  ,Canons of Conduct,427,221,127,17,1,8
+html body text div div p span  ,of the Linux Advocacy mini-HOWTO. Let's consider RSS to be part of Linux as far as advocacy is concerned. They got it right. You can't win by trashing the other guy. You can have a good format without the other guy being incompetent.,8,221,745,53,1,7
+html body text div div p span  ,"I've been reading a certain mail list, and observing that a certain person is now posting again, after a long hiatus that allowed us to find this relatively peaceful status.",8,291,743,35,1,7
+html body text div div p span  ,Let's make it clear that,8,343,149,17,1,7
+html body text div div p em span  ,"we like the way things are now,",157,343,204,17,1,8
+html body text div div p span  ,and won't stand by and say nothing if the level of discourse starts slipping. Thanks for listening.,8,343,731,35,1,7
+html body text div div a span  ,#,8,395,12,17,0,7
+html body text div div span  ,Posted by,20,395,67,17,0,6
+html body text div div a span  ,Dave Winer,87,395,80,17,0,7
+html body text div div span  ,on 5/6/05; 7:40:29 AM - --,167,395,172,17,0,6
+html body text div div span span  ,"Thursday, May 5, 2005",24,466,148,17,0,7
+html body text div div p b a span  ,Notes on my talk later this month at the Syndicate conference,8,518,419,17,1,9
+html body text div div p span  ,I'm speaking at the,8,552,125,17,1,7
+html body text div div p a span  ,Syndicate conference,133,552,141,17,1,8
+html body text div div p span  ,"in New York on May 17. I plan to talk a little bit about formats that aren't RSS and what they're good for, since it seems everyone has mastered the technology of RSS at this time. I'll happily answer questions, of course.",8,552,767,53,1,7
+html body text div div p span  ,But mostly I expect to talk about,8,622,214,17,1,7
+html body text div div p a span  ,how to make money on the Internet,222,622,231,17,1,8
+html body text div div p span  ,", how everything is flipped around, and why the level-playing-field of RSS shouldn't be overlooked, or else it'll surprise you later. Sure it can deliver more click-throughs, but it also gives a podium to the sources of journalism, routing around the former ink-barrel purchasters.",8,622,752,53,1,7
+html body text div div p span  ,"The shifting and moving are still going on. We've reached a happy place, but don't expect the equilibrium to last very long.",8,692,749,35,1,7
+html body text div div p strong span  ,Act now -- sponsor a pundit!,8,744,195,17,1,8
+html body text div div p span  ,"Anyway, since one of the hot topics is advertising and sponsorship, and since the conference isn't paying me a fee, or even covering my expenses, I thought I'd offer sponsorship opportunities to people or companies who would like to be talked about, briefly, from my speaking space. I can't guarantee what I'll say about you or your company, but I do promise to mention you, and will thank you for picking up my expenses for the New York trip.",8,778,758,71,1,7
+html body text div div p span  ,"I also do this to demonstrate that I am not utopian, that I can be a crass commercial whore with the best of them. However, because of who I am, I must be open about it. Which will prove even more lucrative for my sponsor because they'll be out in the open too.",8,866,760,53,1,7
+html body text div div p span  ,"It's an experiment, yes I have the money, I could spend it myself, but unlike the other speakers at the conference, I don't have a company to advertise on stage, I'm just me, and I'd rather not pay for this trip out of my pocket. That part is not an experiment, it's for real. Send me an",8,936,765,53,1,7
+html body text div div p a span  ,email,262,972,40,17,1,8
+html body text div div p span  ,if you're interested in sponsoring my speech at the conference.,302,972,399,17,1,7
+html body text div div a span  ,#,8,1006,12,17,0,7
+html body text div div span  ,Posted by,20,1006,67,17,0,6
+html body text div div a span  ,Dave Winer,87,1006,80,17,0,7
+html body text div div span  ,on 5/5/05; 10:45:40 AM - --,167,1006,180,17,0,6
+html body text div div span span  ,"Saturday, April 30, 2005",24,1077,157,17,0,7
+html body text div div p b a span  ,Jason Calcanis on ads in RSS feeds,8,1129,239,17,1,9
+html body text div div p a span  ,Jason posts,8,1163,76,17,1,8
+html body text div div p span  ,here on the Really Simple Syndication weblog:,84,1163,303,17,1,7
+html body text div div blockquote p span  ,"""Very simple question: If you're not willing to have ads in your RSS feed are you going to be willing to pay for the content you get? If not , how will the writers get paid? (and don't give me that nonsense about writers don't need to get paid because for some of us writing is our trade--not scripting).",48,1197,711,53,1,8
+html body text div div blockquote p span  ,"""I know Dave's position was that he wouldn't pay for a feed and that he would get if for free somewhere else, but clearly that's not going to happen. The best content out there will be either ad-supported or subscription.",48,1267,723,35,1,8
+html body text div div blockquote p span  ,"""Since the world has voted for ad-supported content over subscriptions you're going to need to one or the other: deal with the ads or click on the paypal button.",48,1319,714,35,1,8
+html body text div div blockquote p span  ,"""There ain't no such thing as a free lunch Dave... RSS was just a temporary free lunch just like the web was in 1994. However, both those parties are over (thank God!) and now we have great free content available to everyone around the world.",48,1371,704,53,1,8
+html body text div div blockquote p span  ,"""You can cry about it all you want, but this train has left the station and you're still at the ticket counter bitching about why you even need a ticket.""",48,1441,714,35,1,8
+html body text div div p strong span  ,My response...,8,1493,98,17,1,8
+html body text div div p span  ,"Okay, that's kind of rude, but let's look beyond that to see where the disagreement is, if there actually is any.",8,1527,691,17,1,7
+html body text div div p span  ,"How the writers get paid is a problem you created not me. It's not up to me to solve it Jason, that's your job. This is part of what I was saying today about media guys arriving, camping out, and then trying to get us to help them pay for their supposed business model. Go to Congress, see if they'll pass a law requiring us to pay a tax so you can stay in business. Or better yet, think more creatively.",8,1561,765,71,1,7
+html body text div div p span  ,"Most of the feeds I read today don't have ads, so it's hard to see how the train has left the station. I have a ticket, there's an over-supply of feeds, and when I link to one of their stories I send thousands of people to their sites, so I think they should be competing for my attention, not making me think twice about continuing to subscribe.",8,1649,761,53,1,7
+html body text div div p span  ,"I could easily unsub from Engadget. It's most definitely not a must-have feed for me. The only other of your feeds I'm subscribed to is your personal weblog. I don't think you've created nearly as much value as you think you have. Chasing a guy like me away now isn't good business, or so it seems to me.",8,1719,768,53,1,7
+html body text div div p span  ,"BTW, what exactly is wrong with the way the BBC and NY Times do it? They write good one or two sentence summaries and link to the full story from the feed, and the ad is there, not in the feed. Jason, think about it -- RSS",8,1789,730,35,1,7
+html body text div div p i span  ,itself,738,1807,31,17,1,8
+html body text div div p span  ,"is an advertising medium, if you use it correctly.",8,1825,309,17,1,7
+html body text div div p span  ,"Also the analogies to 1994 are pretty self-serving, don't you think? Maybe this is 2005 and it's acxtually different from any years that's come before? I tend to think it is. Maybe I'm wrong, but maybe I'm not.",8,1859,758,35,1,7
+html body text div div a span  ,#,8,1911,12,17,0,7
+html body text div div span  ,Posted by,20,1911,67,17,0,6
+html body text div div a span  ,Dave Winer,87,1911,80,17,0,7
+html body text div div span  ,on 4/30/05; 10:33:13 PM - --,167,1911,186,17,0,6
+html body text div div span span  ,"Thursday, April 28, 2005",24,1982,160,17,0,7
+html body text div div p b a span  ,It's too early to give up,8,2034,157,17,1,9
+html body text div div p span  ,"Advertising in RSS is just starting now, for all practical purposes. If we wanted to, as an industry, reject the idea, we could, by asking the people who create the software to add a feature that strips out all ads. Make it default to on. Then, that would force the advertisers, if they want to speak to us, to do so respectfully, by our choice. Create feeds of commercial information that we might be interested in, and if we are, we'll subscribe. If not, we won't.",8,2068,758,71,1,7
+html body text div div p span  ,"Too often we forget to think in our own interest, and only remember the interest of the content developers. Well, this time around we're developing the content too. We didn't need them to create the medium, they're only recent arrivals. The usual RIAA whining about there being no incentive to create doesn't apply here, because we don't have an RIAA here. But let these ads gain a footing then they'll start complaining about their right to make a living off us. Better to shut the door right away before they get in?",8,2156,750,89,1,7
+html body text div div p span  ,"If there isn't any money for them to make, so be it. Or let them find a respectful way to make it. This is the most sensible time to act, and it could be done relatively easily. Your opinions are welcome of course.",8,2262,716,35,1,7
+html body text div div a span  ,#,8,2314,12,17,0,7
+html body text div div span  ,Posted by,20,2314,67,17,0,6
+html body text div div a span  ,Dave Winer,87,2314,80,17,0,7
+html body text div div span  ,on 4/28/05; 1:55:37 PM - --,167,2314,178,17,0,6
+html body text div div p b a span  ,Weblogs.Com support for RSS pinging,8,2348,265,17,1,9
+html body text div div p span  ,Today we have fully integrated support for RSS pinging in weblogs.com.,8,2382,468,17,1,7
+html body text div div p span  ,"That's the news, the details follow.",8,2416,221,17,1,7
+html body text div div p strong span  ,What does weblogs.com do?,8,2450,192,17,1,8
+html body text div div p span  ,"In 1999, when weblogs were still pretty new, but not so new that you could visit them all in an afternoon, it became useful to have a way to find out which blogs had updated recently. So I wrote a tool that would check the weblogs and when one updated, it would add it to a list of recently updated blogs.",8,2484,756,53,1,7
+html body text div div p span  ,"Eventually there were so many blogs that we couldn't check them, we had to ask them to tell us when they updated, that's when the ""pinging"" started. Now the pinging process records not only the address of the weblog, but if it's provided, the address of the RSS feed for the weblog.",8,2554,739,53,1,7
+html body text div div p span  ,"Popular services like Technorati, Feedster and Pubsub.com are built on the output of weblogs.com.",8,2624,633,17,1,7
+html body text div div p strong span  ,Extended pings for RSS,8,2658,163,17,1,8
+html body text div div p a span  ,In December 2004,8,2692,123,17,1,8
+html body text div div p span  ,", as an experiment, we implemented an ""extended"" ping handler that allows a caller to specify the address of an RSS feed in addition to the address of the weblog. This could make it easier for applications that use the output of weblogs.com to do interesting things with RSS. So far there's not been much adoption of the extended ping, but perhaps that will change now that the RSS url is included in a new version of",8,2692,755,71,1,7
+html body text div div p a span  ,changes.xml,530,2746,85,17,1,8
+html body text div div p span  ,.,615,2746,4,17,1,7
+html body text div div p strong span  ,What's new in changes.xml,8,2780,186,17,1,8
+html body text div div p span  ,"1. In the top-level weblogUpdates element, the version attribute changes from 1 to 2.",8,2814,543,17,1,7
+html body text div div p span  ,2. A weblog element may contain an optional rssUrl attribute containing the address of the feed if the ping was an extended ping.,8,2848,727,35,1,7
+html body text div div p span  ,3. These features also are present in,8,2900,233,17,1,7
+html body text div div p a span  ,shortChanges.xml,240,2900,120,17,1,8
+html body text div div p span  ,.,360,2900,4,17,1,7
+html body text div div p strong span  ,What should I do?,8,2934,127,17,1,8
+html body text div div p span  ,"It depends on who you are. If you're the developer of a weblog tool, you might adapt your tool to call the ""extended"" ping handler, since it provides more information to weblogs.com. If you're a user of a weblog tool, you might check with your vendor to see if your tool supports it, and if so, how you can activate it. If you have any questions, please post them here as a comment. Thanks!",8,2968,769,71,1,7
+html body text div div a span  ,#,8,3056,12,17,0,7
+html body text div div span  ,Posted by,20,3056,67,17,0,6
+html body text div div a span  ,Dave Winer,87,3056,80,17,0,7
+html body text div div span  ,on 4/28/05; 10:15:16 AM - --,167,3056,188,17,0,6
+html body text div div span span  ,"Wednesday, April 27, 2005",24,3127,173,17,0,7
+html body text div div p b a span  ,Shimon wants an MIT World podcast (who wouldn't?),8,3179,372,17,1,9
+html body text div div p span  ,"Shimon Rura, a regular at the Berkman-Thursday meetings, writes:",8,3213,430,17,1,7
+html body text div div p span  ,"""",8,3247,11,17,1,7
+html body text div div p a span  ,MIT World,19,3247,76,17,1,8
+html body text div div p span  ,is a site that holds free audio and video archives of talks at MIT. Their video,95,3247,496,17,1,7
+html body text div div p a span  ,index,591,3247,40,17,1,8
+html body text div div p span  ,"shows the latest recordings for all areas - business gurus, Nobel prize winners, politicos - in reverse-chronological order, just like a blog.",8,3247,768,35,1,7
+html body text div div p span  ,"""They have an undocumented",8,3299,195,17,1,7
+html body text div div p a span  ,RSS 2.0 feed,203,3299,88,17,1,8
+html body text div div p span  ,", but no podcasts! I wrote them an email begging for podcasts, but perhaps you can work some of your magic too. What could be better for a long boring drive than some MIT talks to keep your brain alive?""",8,3299,764,53,1,7
+html body text div div p strong span  ,To which I respond:,8,3369,137,17,1,8
+html body text div div p span  ,Here's how the magic works...,8,3403,194,17,1,7
+html body text div div div span  ,"1. I take this text and post it on one of my blogs, hopefully in a place where people can comment.",8,3437,623,17,1,7
+html body text div div div span  ,2. I point to it from Scripting News. People feed off your enthusiasm and the word spreads.,8,3455,584,17,1,7
+html body text div div div span  ,"3. We locate the right geek at MIT (there are so many) who then creates the RSS 2.0 feed with enclosures. (Note, they'll also have to produce MP3 audio from the video, that's not such a small thing.)",8,3473,766,35,1,7
+html body text div div div span  ,4. Podcast!,8,3509,71,17,1,7
+html body text div div a span  ,#,8,3527,12,17,0,7
+html body text div div span  ,Posted by,20,3527,67,17,0,6
+html body text div div a span  ,Dave Winer,87,3527,80,17,0,7
+html body text div div span  ,on 4/27/05; 4:53:32 PM - --,167,3527,178,17,0,6
+html body text div div span span  ,"Tuesday, April 26, 2005",24,3598,153,17,0,7
+html body text div div p b a span  ,I want a little romance!,8,3650,160,17,1,9
+html body text div div span  ,"I don't care for ads in RSS, because, with the right info, I am willing to subscribe to ads that",8,3684,592,17,1,6
+html body text div div i span  ,are,600,3684,24,17,1,7
+html body text div div span  ,"RSS. I've said this a million times, one more time won't hurt. I willingly use lots of commercial information every day, I seek it out. High quality commercials are worth subscribing to. Here's an",8,3684,677,53,1,6
+html body text div div a span  ,example,518,3720,58,17,1,7
+html body text div div span  ,", a feed from Buy.Com, that tells me about new gadgets I can buy, with prices. No need to intrude on my space and time, if you provide me with information I want, I'll welcome you in. Advertisers get a clue. Try seduction, don't break into my life, romance your way in.",8,3720,751,71,1,6
+html body text div div a span  ,#,205,3774,12,17,1,7
+html body text div div span  ,Posted by,217,3774,67,17,1,6
+html body text div div a span  ,Dave Winer,284,3774,81,17,0,7
+html body text div div span  ,on 4/26/05; 9:10:39 AM - --,365,3774,179,17,0,6
+html body text div div span span  ,"Friday, April 22, 2005",24,3845,142,17,0,7
+html body text div div p b a span  ,Apple adds beaucoup new support feeds,8,3897,274,17,1,9
+html body text div div p a span  ,Apple adds,8,3931,76,17,1,8
+html body text div div p span  ,a bunch of new feeds for product support news.,84,3931,305,17,1,7
+html body text div div a span  ,#,8,3965,12,17,0,7
+html body text div div span  ,Posted by,20,3965,67,17,0,6
+html body text div div a span  ,Dave Winer,87,3965,80,17,0,7
+html body text div div span  ,on 4/22/05; 5:21:15 PM - --,167,3965,178,17,0,6
+html body text div div p b a span  ,Audible joins Team RSS,8,3999,166,17,1,9
+html body text div div p a span  ,It's good to see them get on board,8,4033,220,17,1,8
+html body text div div p span  ,". The feeds are kind of weird, the obfuscated kind, where the content is hidden. Once you do a view-source, there are some strange elements and redirects. But the content is interesting, like the New York Times best sellers list. I don't think the Times itself publishes it.",8,4033,763,53,1,7
+html body text div div a span  ,#,8,4103,12,17,0,7
+html body text div div span  ,Posted by,20,4103,67,17,0,6
+html body text div div a span  ,Dave Winer,87,4103,80,17,0,7
+html body text div div span  ,on 4/22/05; 2:36:38 PM - --,167,4103,178,17,0,6
+html body text div div span span  ,"Tuesday, April 19, 2005",24,4174,153,17,0,7
+html body text div div p b a span  ,How to allow subscription but not syndication?,8,4226,322,17,1,9
+html body text div div p span  ,From Nikolas 'Atrus' Coukouma via email:,8,4260,276,17,1,7
+html body text div div blockquote p span  ,"""Hi, I've recently been in a major battle over the inclusion of RSS feeds in websites. This is not ordinarily a problem, but the site in question (LiveJournal) has millions of users with different interests and only one codebase. The problem is that most users don't object to syndication and aggregation, but some do object to syndication.",48,4294,688,71,1,8
+html body text div div blockquote p span  ,"""After much discussion, we've settled on (offering the option of) syndicating only headlines for these users. This seems unsatisfactory because they don't mind people reading the content in their personal aggregators, but they do mind it being reproduced on other websites and web-based aggregation services. A better solution would be to offer a ""no syndication"" element of some sort. My personal idea is to add an (optional, one or more may be present) ""pragma"" tag to handle cases like this, similar to HTML meta tags and HTTP pragma headers.",48,4382,725,89,1,8
+html body text div div blockquote p span  ,"""It might also be sensible to link to a license for articles, on a per-channel or per-item basis.",48,4488,586,17,1,8
+html body text div div blockquote p span  ,"""There seem to be some very serious issues about what can and can not be done with an RSS feed. I'm hoping you'll think about them and possibly comment on the subject.""",48,4522,703,35,1,8
+html body text div div p span  ,My comments:,8,4574,96,17,1,7
+html body text div div blockquote p span  ,"That question comes up all the time, I fully understand the concern, and to some extent, share it. I've pretty much looked the other way when others republish my writing under their advertising, and in some cases in their name.",48,4608,724,35,1,8
+html body text div div blockquote p span  ,"Anyway, it gets tricky with centralized aggregators like Bloglines or My Yahoo. What's the difference between their publishing my content (and putting ads on it) and another site doing the same? It's hard to find the line of distinction.",48,4660,709,53,1,8
+html body text div div blockquote p span  ,"And of couse this gives me another chance to say that the EFF's black-and-white view that content is evil and technology is cool falls apart somewhere in here. What happens to freedom to speak when anyone can do anything with your writing? It's not just the media industry that has these concerns, so do us amateurs.",48,4730,700,53,1,8
+html body text div div blockquote p span  ,"Anyway, it seems likely we'll have an interesting discussion here. That, of course, is why I posted this.",48,4800,660,17,1,8
+html body text div div a span  ,#,8,4834,12,17,0,7
+html body text div div span  ,Posted by,20,4834,67,17,0,6
+html body text div div a span  ,Dave Winer,87,4834,80,17,0,7
+html body text div div span  ,on 4/19/05; 9:17:33 AM - --,167,4834,180,17,0,6
+html body text div div span span  ,"Friday, April 15, 2005",24,4905,142,17,0,7
+html body text div div p b a span  ,"Yahoo, Microsoft and Google in RSS",8,4957,250,17,1,9
+html body text div div p span  ,"In my mind, the three top Internet application companies are Yahoo, Google and Microsoft, in no special order.",8,4991,711,17,1,7
+html body text div div p span  ,"Of the three Yahoo and Microsoft are aggressively moving forward in deploying RSS, Yahoo more than all three, and Google is doing absolutely nothing, at least nothing that's visible.",8,5025,751,35,1,7
+html body text div div p strong span  ,Yahoo,8,5077,43,17,1,8
+html body text div div p span  ,"Today, ResearchBuzz",8,5111,142,17,1,7
+html body text div div p a span  ,discovered,150,5111,74,17,1,8
+html body text div div p span  ,that Yahoo's shopping site has been,224,5111,230,17,1,7
+html body text div div p a span  ,completely RSS-ized,454,5111,139,17,1,8
+html body text div div p span  ,". This is very cool, and very smart. A few years from now they will likely have a disproportionate share of commercial information flow through RSS because they moved so early, so strongly, and so compatibly.",8,5111,763,53,1,7
+html body text div div p span  ,"Their feeds are plain and obviously useful. There's no doubt that they will work with every reader and aggregator out there today, and five years from now. And when the inevitable RSS discovery networks emerge, Yahoo's feeds will be near the top because they, right now, have no equal.",8,5181,753,53,1,7
+html body text div div p strong span  ,Where is Google?,8,5251,121,17,1,8
+html body text div div p span  ,Consider this,8,5285,89,17,1,7
+html body text div div p a span  ,Google search,97,5285,96,17,1,8
+html body text div div p span  ,(,193,5285,9,17,1,7
+html body text div div p a span  ,screen shot,202,5285,76,17,1,8
+html body text div div p span  ,"), and the irony of it.",278,5285,132,17,1,7
+html body text div div p span  ,To this day Google doesn't do anything interesting with RSS feeds. It can't even display feeds in an intelligent way. Perhaps it's,8,5319,703,35,1,7
+html body text div div p a span  ,NIH,118,5337,33,17,1,8
+html body text div div p span  ,"that's keeping them from embracing RSS as their two main competitors have. Whatever it is, Yahoo is dashing in front, with Microsoft close behind.",8,5337,735,35,1,7
+html body text div div p span  ,Why isn't Google in the race? To me it remains a mystery.,8,5389,371,17,1,7
+html body text div div p strong span  ,Microsoft,8,5423,66,17,1,8
+html body text div div p span  ,"At the end of next week I'm going to Microsoft to meet with teams there working on RSS, to plot strategy, to look for opportunities. They've come a long way since re-inventing",8,5457,752,35,1,7
+html body text div div p a span  ,XML-RPC,387,5475,75,17,1,8
+html body text div div p span  ,to produce,462,5475,72,17,1,7
+html body text div div p a span  ,SOAP,534,5475,44,17,1,8
+html body text div div p span  ,"and first compromising with IBM and then Sun and then the W3C to create a protocol that's going absolutely nowhere. Now they're two years into RSS, and haven't reinvented it; or even extended it without first testing the water outside. That's something that Yahoo could do a little more of.",8,5475,756,71,1,7
+html body text div div p span  ,"There's no profit in being incompatible, and in this day you won't gain any lock-in either. That's what I've been preaching to Microsoft and they've been listening, and acting. I have been saying it publicly to Yahoo because there's no private channel, they appear to resent my existence (maybe they fear the rocks that Don Park",8,5563,768,53,1,7
+html body text div div p a span  ,talks,606,5599,35,17,1,8
+html body text div div p span  ,about). I really,641,5599,98,17,1,7
+html body text div div p em span  ,am,739,5599,20,17,1,8
+html body text div div p span  ,"trying to help, believe it or not.",8,5617,199,17,1,7
+html body text div div p strong span  ,Why RSS is working,8,5651,142,17,1,8
+html body text div div p span  ,"Tech companies must understand their place isn't to guide the rest of us, rather to learn what we want and then make systems that help us do that. That's when the tech industry is making a contribution. When it tries to lead, it ends up trying to control, and that never works.",8,5685,744,53,1,7
+html body text div div p span  ,"Microsoft and Yahoo are finally, for the most part, letting the users drive, with outstanding results. Sure it could work better, and it",8,5755,751,35,1,7
+html body text div div p em span  ,will,92,5773,28,17,1,8
+html body text div div p span  ,"work better. It's a bootstrap and big companies with their vast resources and ability to make the trains go, have an important role to play.",8,5773,760,35,1,7
+html body text div div p span  ,"But it only works when all components are engaged. Software developers have a role to play, but users must dominate if it's going to have a chance of working. To the extent that RSS is working it's because the users are driving the growth.",8,5825,768,35,1,7
+html body text div div a span  ,#,8,5877,12,17,0,7
+html body text div div span  ,Posted by,20,5877,67,17,0,6
+html body text div div a span  ,Dave Winer,87,5877,80,17,0,7
+html body text div div span  ,on 4/15/05; 1:13:44 PM - --,167,5877,178,17,0,6
+html body text div div span span  ,"Monday, April 11, 2005",24,5948,153,17,0,7
+html body text div div p b a span  ,BBC: Turning the web into 'sushi belts',8,6000,269,17,1,9
+html body text div div p span  ,...with extensive quotes from Yours Truly.,8,6034,268,17,1,7
+html body text div div p span  ,"It's a good piece, imho.",8,6068,149,17,1,7
+html body text div div p span  ,"""Automated web surfing.""",8,6102,168,17,1,7
+html body text div div p span  ,It's so cool that they got a picture of the,8,6136,257,17,1,7
+html body text div div p a span  ,sushi belts,265,6136,71,17,1,8
+html body text div div p span  ,along with the,336,6136,96,17,1,7
+html body text div div p a span  ,River of News,432,6136,97,17,1,8
+html body text div div p span  ,style of aggregator.,529,6136,123,17,1,7
+html body text div div a span  ,#,8,6170,12,17,0,7
+html body text div div span  ,Posted by,20,6170,67,17,0,6
+html body text div div a span  ,Dave Winer,87,6170,80,17,0,7
+html body text div div span  ,on 4/11/05; 9:20:23 AM - --,167,6170,179,17,0,6
+html body text div div span span  ,"Friday, April 8, 2005",24,6241,134,17,0,7
+html body text div div p b a span  ,When does it become a standard?,8,6293,230,17,1,9
+html body text div div p a span  ,Turn to page 3,8,6327,97,17,1,8
+html body text div div p span  ,"of this interview with Tim Bray, one of the eleven designers of XML. Asked why there is no version 27.5 of XML, he gives a common sense answer, that XML is frozen, and isn't going to change. Of course, it couldn't be any other way. He says:",8,6327,764,53,1,7
+html body text div div blockquote p span  ,"""XML was frozen and published in February 1998. As it came toward the end and it became obvious -- well, not obvious, but likely anyhow -- that this was going to get a lot of momentum, we were besieged by requests for extra features of one kind or another. We basically lied and told the world, we would do all that stuff in version 2. You have to shoot the engineers and ship at some point, right? I think there will never be an XML version 2. There is an XML version 1.1, but it’s controversial and not widely supported.""",48,6397,726,89,1,8
+html body text div div p span  ,Sounds like what I've been saying about RSS (without the lying part).,8,6503,446,17,1,7
+html body text div div p span  ,"If XML weren't frozen, it wouldn't have been possible to build XML-RPC, RSS, SOAP or OPML on top of it.",8,6537,703,17,1,7
+html body text div div p span  ,"You could still add features to XML if there was a strong enough will in the community to do so. But there doesn't seem to be any movement in that direction, and that's okay, because while XML is not perfect, it certainly is good enough. Emphatically, that XML is frozen is a",8,6571,769,53,1,7
+html body text div div p i span  ,good thing.,253,6607,76,17,1,8
+html body text div div p span  ,If it were a moving target nothing would get done. And the same is true of RSS.,8,6607,750,35,1,7
+html body text div div p span  ,"Today, there's no question that RSS is frozen, done, settled. Yes there are still a small number of people who would like to argue about it, but the deployment speaks so much more strongly. Every time you see so-and-so ""supports RSS"" on",8,6659,763,35,1,7
+html body text div div p a span  ,Scripting News,8,6695,103,17,1,8
+html body text div div p span  ,", that's an affirmation of the power of a frozen format, and if that goes on long enough, one can justifiably start calling it a standard. With RSS that day is coming soon.",8,6695,711,35,1,7
+html body text div div a span  ,#,8,6747,12,17,0,7
+html body text div div span  ,Posted by,20,6747,67,17,0,6
+html body text div div a span  ,Dave Winer,87,6747,80,17,0,7
+html body text div div span  ,on 4/8/05; 11:22:18 AM - --,167,6747,179,17,0,6
+html body text div div span span  ,"Friday, April 1, 2005",24,6818,134,17,0,7
+html body text div div p b a span  ,An open letter to everyone in the world about everything that matters,8,6870,475,17,1,9
+html body text div div p span  ,"A couple of years ago a major Internet debate erupted about RSS. Everyone got involved, people who made products that competed with mine, developers who didn't like me, even some people who I thought were my friends. They all said one thing over and over. RSS sucks. Dave sucks. Let's have a rebellion. Dave is an echo. Dave is an outage. He's an incredible control freak. Let's route around him! That'll teach him a lesson.",8,6904,750,71,1,7
+html body text div div p span  ,I don't know what I was thinking. I guess my ego got in the way. My bad. I should have listened. Why? Because they were right! I do suck. I am an incredible control freak. RSS is a terrible format. It can't possibly work. How could I have been so dense? Obviously Atom is the way to go. Anything would be better than RSS! Oh the time I've wasted. Look at all the work we have to do now.,8,6992,749,71,1,7
+html body text div div p span  ,How can I possibly make it up to you? I've been a very bad person.,8,7080,430,17,1,7
+html body text div div p span  ,"Yours in shame,",8,7114,103,17,1,7
+html body text div div p span  ,Dave Winer,8,7148,77,17,0,7
+html body text div div a span  ,#,8,7182,12,17,0,7
+html body text div div span  ,Posted by,20,7182,67,17,0,6
+html body text div div a span  ,Dave Winer,87,7182,80,17,0,7
+html body text div div span  ,on 4/1/05; 3:53:34 PM - --,167,7182,170,17,0,6
+html body text div div span span  ,"Tuesday, March 15, 2005",24,7253,162,17,0,7
+html body text div div p b a span  ,What is Amazon's OpenSearch?,8,7305,220,17,1,9
+html body text div div p span  ,I just heard about,8,7339,116,17,1,7
+html body text div div p a span  ,OpenSearch,124,7339,82,17,1,8
+html body text div div p span  ,", which is a new service whose slogan is:",206,7339,262,17,1,7
+html body text div div p em span  ,"""We want OpenSearch to do for search what RSS has done for content.""",8,7373,459,17,1,8
+html body text div div p span  ,"I think I've kind of figured it out. Basically it's a way for search engines to plug into a user interface, kind of like a portal, like My Yahoo, where each of the modules presents its results with an RSS feed.",8,7407,731,35,1,7
+html body text div div p span  ,"But if that's right, what do we need A9 for? Why wouldn't you just plug the RSS straight into your aggregator? When they re-tooled My.Yahoo for RSS, didn't they obviate the need for something like this?",8,7459,750,35,1,7
+html body text div div p span  ,I must be missing something.,8,7511,188,17,1,7
+html body text div div p span  ,Enlighten me.,8,7545,94,17,1,7
+html body text div div p span  ,"PS: My guess is this is a project that made sense at one time, but the shipdate slipped, and others filled the gap (search engines offering their results as RSS is not new in Spring 2005).",8,7579,757,35,1,7
+html body text div div p span  ,PPS: Could someone who's at Etech ask them if they have filed any patents on this.,8,7631,533,17,1,7
+html body text div div a span  ,#,8,7665,12,17,0,7
+html body text div div span  ,Posted by,20,7665,67,17,0,6
+html body text div div a span  ,Dave Winer,87,7665,80,17,0,7
+html body text div div span  ,on 3/15/05; 3:06:17 PM - --,167,7665,178,17,0,6
+html body text div div div span  ,Copyright ©,8,7751,85,17,0,7
+html body text div div div a span  ,Really Simple Syndication,93,7751,176,17,0,8
+html body text div div div span  ,.,269,7751,4,17,0,7
+html body text div div div span  ,"Last update: Friday, May 6, 2005 at 7:40:29 AM",8,7769,310,17,0,7
+html body text div span span  ,Local,8,7787,36,17,0,6
+html body text div span strong span span  ,Home,8,7805,41,17,0,8
+html body text div span strong a span  ,About,8,7823,43,17,0,8
+html body text div span strong a span  ,Directory,8,7841,65,17,0,8
+html body text div span strong a span  ,Referers,8,7859,58,17,0,8
+html body text div span strong a span  ,Cosmos,8,7877,53,17,0,8
+html body text div span strong a span  ,Spec,8,7895,32,17,0,8
+html body text div span span  ,Members,8,7931,60,17,0,6
+html body text div span a span  ,Join Now,8,7949,62,17,0,7
+html body text div span a span  ,Login,8,7967,38,17,0,7
+html body text div span span  ,Blogrolling,8,8003,74,17,0,6
+html body text div span span  ,My favorite,8,8021,76,17,0,6
+html body text div span span  ,weblogs go,8,8039,73,17,0,6
+html body text div span span  ,here,8,8057,28,17,0,6
+html body text div div table tbody tr td table tbody tr td span  ,May 2005,12,8079,65,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,Sun,12,8099,25,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,Mon,39,8099,30,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,Tue,72,8099,24,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,Wed,99,8099,29,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,Thu,130,8099,26,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,Fri,158,8099,19,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,Sat,179,8099,20,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,1,12,8119,8,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,2,39,8119,8,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,3,72,8119,8,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,4,99,8119,8,17,0,14
+html body text div div table tbody tr td table tbody tr td a span  ,5,130,8119,8,17,0,15
+html body text div div table tbody tr td table tbody tr td b span  ,6,158,8119,8,17,0,15
+html body text div div table tbody tr td table tbody tr td span  ,7,179,8119,8,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,8,12,8139,8,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,9,39,8139,8,17,0,14
+html body text div div table tbody tr td table tbody tr td a span  ,10,72,8139,16,17,0,15
+html body text div div table tbody tr td table tbody tr td span  ,11,99,8139,15,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,12,130,8139,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,13,158,8139,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,14,179,8139,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,15,12,8159,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,16,39,8159,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,17,72,8159,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,18,99,8159,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,19,130,8159,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,20,158,8159,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,21,179,8159,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,22,12,8179,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,23,39,8179,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,24,72,8179,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,25,99,8179,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,26,130,8179,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,27,158,8179,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,28,179,8179,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,29,12,8199,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,30,39,8199,16,17,0,14
+html body text div div table tbody tr td table tbody tr td span  ,31,72,8199,16,17,0,14
+html body text div div table tbody tr td center font b a span  ,Apr,88,8218,20,11,0,14
+html body text div div table tbody tr td center font b span  ,Jun,108,8218,16,11,0,13

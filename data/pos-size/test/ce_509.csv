@@ -1,0 +1,94 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Vouchers: cessations and surrender: cancel returned CIS24 vouchers on CIS system (A),0,0,777,36,0,6
+html body text a span  ,Skip to main content,8,8,133,17,0,5
+html body text div div ul li a span  ,Home,48,104,39,17,0,9
+html body text div div ul li a span  ,About us,48,122,58,17,0,9
+html body text div div ul li a span  ,Contact us,48,140,68,17,0,9
+html body text div div ul li a span  ,Online services,48,158,99,17,0,9
+html body text div div ul li a span  ,Site map,48,176,56,17,0,9
+html body text div div ul li a span  ,Help,48,194,31,17,0,9
+html body text div div a span  ,� Practitioner Zone,8,247,132,17,0,7
+html body text div div div div a span  ,businesses & corporations,8,281,168,17,0,9
+html body text div div div div a span  ,employers,8,299,67,17,0,9
+html body text div div div div a span  ,individuals & employees,8,317,160,17,0,9
+html body text div div div h1 span  ,Construction Industry Scheme - CIS6358,8,356,564,36,1,8
+html body text div div div h2 span  ,Vouchers: cessations and surrender: cancel returned CIS24vouchers on CIS system (A),8,415,731,53,1,8
+html body text div div div table tbody tr td a span  ,CIS6302,11,501,57,17,0,12
+html body text div div div table tbody tr td span  ,Back to action guide menu,74,492,132,35,0,11
+html body text div div div table tbody tr td a span  ,CIS6313,11,532,57,17,0,12
+html body text div div div table tbody tr td span  ,Information,74,532,76,17,0,11
+html body text div div div h3 span  ,CANCEL RETURNED CIS24 VOUCHERS ON CIS SYSTEM,8,572,502,21,1,8
+html body text div div div p span  ,This action guide explains the steps you should take to recordCIS24 vouchers surrendered to the Revenue as cancelled on the CISsystem.,8,612,758,35,1,8
+html body text div div div h3 span  ,CAUTION,8,667,88,21,1,8
+html body text div div div p span  ,"Remember that changing the status of the returned vouchers from'Valid' will mean that they are treated by the CIS System as havingbeen 'used'. As a result, subject to the 'Minimum Stock Level'being reached, this action may trigger the replenishment processand a further issue of vouchers. Because of this you should alwaysbear in mind the reason for voucher cancellation and amend thesubcontractor's details or Voucher Profile Band in order to preventthe automatic issue of further vouchers either in error or bearingincorrect details.",8,708,765,89,1,8
+html body text div div div p span  ,The action guide is presented in two parts as follows,8,816,336,17,1,8
+html body text div div div ul li span  ,"To cancel individual vouchers, follow thesteps at A below",48,850,370,17,1,9
+html body text div div div ul li span  ,"To cancel a range of vouchers, follow thesteps at B below",48,884,370,17,1,9
+html body text div div div p span  ,"For physical cancellation of the vouchers, see the action guidelisted in the menu.",8,918,516,17,1,8
+html body text div div div p span  ,A. CANCEL INDIVIDUAL VOUCHERS,8,954,271,17,1,8
+html body text div div div p span  ,1) Select `File' from the CIS Main Menu.,8,972,264,17,1,8
+html body text div div div p span  ,2) Select `Manage Vouchers' from the File Menu,8,1008,312,17,1,8
+html body text div div div p span  ,3) Select `Single voucher' from the Manage Vouchers menu,8,1044,382,17,1,8
+html body text div div div blockquote p span  ,You should now be at the `Voucher Serial Number' window.,48,1078,384,17,1,9
+html body text div div div p span  ,4) Key in the voucher serial number for the voucher you want tocancel and click on the [OK] button,8,1112,642,17,1,8
+html body text div div div blockquote p span  ,You should now be at the `View Voucher Details' window.,48,1146,373,17,1,9
+html body text div div div p span  ,5) Click on the [Cancel Voucher] button.,8,1180,260,17,1,8
+html body text div div div blockquote p span  ,This should take you to the `Voucher Cancellation' window.,48,1214,382,17,1,9
+html body text div div div p span  ,6) Click on the 'Status' field to reveal a list of threepossible statuses to change to,8,1248,514,17,1,8
+html body text div div div div ul li span  ,lost,80,1282,23,17,1,10
+html body text div div div div ul li span  ,stolen,80,1316,38,17,1,10
+html body text div div div div ul li span  ,spoilt,80,1350,36,17,1,10
+html body text div div div p span  ,7) Click on 'Spoilt' (or other option). It should then appearalone in the box.,8,1384,479,17,1,8
+html body text div div div p span  ,8) Click on the `Effective From' box and key in the date ofreceipt of the voucher.,8,1420,518,17,1,8
+html body text div div div p span  ,9) Select the 'Reason for Cancellation' from the listprovided. This action will enable the [Save] button.,8,1456,656,17,1,8
+html body text div div div p span  ,10) Click on the [Save] button to store the change.,8,1492,323,17,1,8
+html body text div div div p span  ,11) This action will result in the display of a final warningmessage confirming that the change of status is irreversible,8,1510,752,17,1,8
+html body text div div div div ul li span  ,Click on [Yes] to receive the message 'This changehas been saved and the voucher will be cancelled overnight'.,80,1544,640,35,1,10
+html body text div div div p span  ,"The overnight batch process will update all the voucher andstock on hand records. This will have the effect of reducing theminimum stock level of vouchers held by the contractor and, unlessthere is a system stop on voucher issue, trigger automaticreplenishment.",8,1596,763,53,1,8
+html body text div div div p span  ,B. CANCEL A RANGE OF VOUCHERS,8,1666,269,17,1,8
+html body text div div div p span  ,1) Select `File' from the CIS Main Menu.,8,1684,264,17,1,8
+html body text div div div p span  ,2) Select `Manage Vouchers' from the File Menu.,8,1720,316,17,1,8
+html body text div div div p span  ,3) Select `Range of Vouchers' from the Manage Vouchers menu,8,1756,406,17,1,8
+html body text div div div p span  ,The `Taxpayer UTR/NINO' window should now be displayed.,8,1792,399,17,1,8
+html body text div div div p span  ,"4) For a sole trader or cardholder for a concern, enter theNINO or UTR. For a concern, enter the UTR of the concern.",8,1828,752,17,1,8
+html body text div div div p span  ,5) Click on [OK],8,1864,110,17,1,8
+html body text div div div p span  ,"If the subcontractor also acts as a contractor, you should beat the `Contractor/subcontractor Selection' window. Click on the[Subcontractor] button.",8,1900,766,35,1,8
+html body text div div div p span  ,"If the subcontractor is a concern with more than onecardholder, you will be presented with the `Cardholder Selection'window. Click on the cardholder to whom the vouchers were issuedand click on the [OK] button.",8,1954,685,35,1,8
+html body text div div div blockquote p span  ,You should now be at the `Voucher selection criteria'window.,48,2006,392,17,1,9
+html body text div div div p span  ,6) Click on the CIS24 box in the `Select Voucher Type' area ofthe window and select the 'Y' by clicking on it.,8,2040,700,17,1,8
+html body text div div div p span  ,7) Click on the [View Vouchers] button,8,2076,252,17,1,8
+html body text div div div blockquote p span  ,You should now see the `List Voucher Ranges' window containing alist of ranges of vouchers issued to the subcontractor.,48,2110,681,35,1,9
+html body text div div div p span  ,8) Click on the entry in the list for the vouchers you want tocancel and click on the [Cancel Range] button.,8,2162,683,17,1,8
+html body text div div div blockquote p span  ,This should take you to the `Voucher Cancellation' window.,48,2196,382,17,1,9
+html body text div div div p span  ,9) Click on the 'Status' field to reveal a list of threepossible statuses to change to,8,2230,514,17,1,8
+html body text div div div div ul li span  ,lost,80,2264,23,17,1,10
+html body text div div div div ul li span  ,stolen,80,2298,38,17,1,10
+html body text div div div div ul li span  ,spoilt,80,2332,36,17,1,10
+html body text div div div p span  ,10) Click on 'Spoilt' (or other option). It should then appearalone in the box.,8,2366,487,17,1,8
+html body text div div div p span  ,11) Click on the `Effective From' box and key in the date onwhich you received the vouchers.,8,2402,600,17,1,8
+html body text div div div p span  ,12) Select the 'Reason for Cancellation' from the listprovided. This action will enable the [Save] button.,8,2438,664,17,1,8
+html body text div div div p span  ,13) Click on the [Save] button to store the change.,8,2474,323,17,1,8
+html body text div div div p span  ,14. This action will result in the display of a final warningmessage confirming that the change of status is irreversible,8,2510,752,17,1,8
+html body text div div div div ul li span  ,Click on [Yes] to receive the message 'This changehas been saved and the vouchers will be cancelled overnight'.,80,2544,646,35,1,10
+html body text div div div p span  ,"The overnight batch process will update all the voucher andstock on hand records. This will have the effect of reducing theminimum stock level of vouchers held by the subcontractor and,unless there is a system stop on voucher issue, trigger automaticreplenishment.",8,2596,763,53,1,8
+html body text div div div p a span  ,CIS forms,8,2668,66,17,0,9
+html body text div div div p a span  ,Glossary,8,2686,57,17,0,9
+html body text div div div p a span  ,Where am I?,8,2704,83,17,0,9
+html body text div div div p span  ,Quick links index- CIS0100,8,2722,180,17,1,8
+html body text div div div div table tbody tr td p a b span  ,Home,8,2756,45,17,0,15
+html body text div div div div table tbody tr td p b span  ,|,53,2756,7,17,0,14
+html body text div div div div table tbody tr td p a b span  ,Main Contents,60,2756,106,17,0,15
+html body text div div div div table tbody tr td p b span  ,|,166,2756,8,17,0,14
+html body text div div div div table tbody tr td p a b span  ,Manual Contents,174,2756,118,17,0,15
+html body text div div div div table tbody tr td p a b span  ,Previous Page,563,2756,100,17,0,15
+html body text div div div div table tbody tr td p b span  ,|,663,2756,8,17,0,14
+html body text div div div div table tbody tr td p a b span  ,Next Page,671,2756,73,17,0,15
+html body text div div div div table tbody tr td p b span  ,|,744,2756,7,17,0,14
+html body text div div div div table tbody tr td p a b span  ,Top,751,2756,26,17,0,15
+html body text div div a span  ,� Crown Copyright,8,2775,136,17,0,7
+html body text div div span  ,|,144,2775,7,17,0,6
+html body text div div a span  ,Terms & conditions,151,2775,131,17,0,7
+html body text div div span  ,|,282,2775,7,17,0,6
+html body text div div a span  ,Privacy policy,289,2775,97,17,0,7
+html body text div div span  ,|,386,2775,7,17,0,6
+html body text div div a span  ,Accessibility,393,2775,83,17,0,7

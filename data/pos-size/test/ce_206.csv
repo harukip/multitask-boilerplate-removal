@@ -1,0 +1,80 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,AAMC: Faculty Roster Reports,0,0,642,18,0,6
+html body text table tbody tr td span a span  ,Home,0,68,43,17,0,10
+html body text table tbody tr td span a span  ,Government Affairs,43,68,132,17,0,10
+html body text table tbody tr td span a span  ,Newsroom,175,68,74,17,0,10
+html body text table tbody tr td span a span  ,Meetings,249,68,64,17,0,10
+html body text table tbody tr td span a span  ,Publications,313,68,79,17,0,10
+html body text table tbody tr td span a span  ,Shopping Cart,513,68,97,17,0,10
+html body text table tbody tr td span a span  ,Site Map,610,68,58,17,0,10
+html body text table tbody tr td table tbody tr td p a span  ,Faculty Roster Home,8,147,137,17,0,14
+html body text table tbody tr td table tbody tr td p a span  ,Funding Sources & Uses,8,178,124,35,0,14
+html body text table tbody tr td table tbody tr td p a span  ,Reports,8,227,50,17,0,14
+html body text table tbody tr td table tbody tr td p a span  ,Services for,8,258,77,17,0,14
+html body text table tbody tr td table tbody tr td p a span  ,Medical Schools,8,276,107,17,0,14
+html body text table tbody tr td table tbody tr td p a span  ,Privacy Policy,8,307,94,17,0,14
+html body text table tbody tr td table tbody tr td p a span  ,Contact,8,344,50,17,0,14
+html body text table tbody tr td h1 span  ,Reports Available through Faculty Roster,166,98,569,36,1,9
+html body text table tbody tr td h3 span  ,U.S. Medical School Faculty,166,156,225,21,1,9
+html body text table tbody tr td p span  ,The annual report,166,197,118,17,1,9
+html body text table tbody tr td p i span  ,U.S. Medical School Faculty,284,197,188,17,1,10
+html body text table tbody tr td p span  ,"is a set of 20 tables that answer common questions about the national distribution of full-time faculty. The information is displayed by specialty, department, rank, degree, sex, and race/hispanic origin. (Data on part-time faculty, volunteer, and emeritus faculty are excluded.)",166,197,594,71,1,9
+html body text table tbody tr td p span  ,"From 1986-1997, printed copies of",166,285,228,17,1,9
+html body text table tbody tr td p i span  ,U.S. Medical School Faculty,394,285,188,17,1,10
+html body text table tbody tr td p span  ,"were distributed to medical school deans, Faculty Roster representatives, and other selected constituents. The report is now published online only and is produced using a database snapshot from December 31. Prior to December 31, 1997, the publication was based on a June 30 database snapshot.",166,285,609,71,1,9
+html body text table tbody tr td p span  ,"Note that the AAMC Faculty Roster does not necessarily reflect official faculty counts. As a result, the figures in these tables should be viewed and used with care. While the proportion of faculty across key variables may be reasonably accurate, the number of faculty may not be. For the official faculty figures, please visit the Medical School Profile System at Although the Medical School Profile System reflects official faculty counts that institutions provide as part of their accreditation process, the Medical School Profile System does not always provide the kind of detail that the Faculty Roster provides.",166,373,610,125,1,9
+html body text table tbody tr td p span  ,The following issues of the report are available online:,166,515,350,17,1,9
+html body text table tbody tr td table tbody tr td ul li a i span  ,"U.S. Medical School Faculty, 2005",206,549,224,17,1,16
+html body text table tbody tr td table tbody tr td ul li i a span  ,"U.S. Medical School Faculty, 2004",206,567,224,17,1,16
+html body text table tbody tr td table tbody tr td ul li i a span  ,"U.S. Medical School Faculty, 2003",206,585,224,17,1,16
+html body text table tbody tr td table tbody tr td ul li i a span  ,"U.S. Medical School Faculty, 2002",206,603,224,17,1,16
+html body text table tbody tr td table tbody tr td ul li i a span  ,"U.S. Medical School Faculty, 2001",206,621,224,17,1,16
+html body text table tbody tr td table tbody tr td ul li i a span  ,"U.S. Medical School Faculty, 2000",513,549,224,17,1,16
+html body text table tbody tr td table tbody tr td ul li i a span  ,"U.S. Medical School Faculty, 1999",513,567,224,17,1,16
+html body text table tbody tr td table tbody tr td ul li i a span  ,"U.S. Medical School Faculty, 1998",513,585,224,17,1,16
+html body text table tbody tr td table tbody tr td ul li i a span  ,"U.S. Medical School Faculty, 1997 (Updated)",513,603,224,35,1,16
+html body text table tbody tr td table tbody tr td ul li i a span  ,"U.S. Medical School Faculty, 1997",513,639,224,17,1,16
+html body text table tbody tr td p span  ,"For additional information, contact Hershel Alexander,",166,689,355,17,1,9
+html body text table tbody tr td p a span  ,halexander@aamc.org,521,689,148,17,1,10
+html body text table tbody tr td p span  ,.,669,689,4,17,1,9
+html body text table tbody tr td h3 span  ,U.S. Medical School Faculty Trends,166,726,285,21,1,9
+html body text table tbody tr td p i span  ,"U.S. Medical School Faculty Trends, 1995-2005",166,767,313,17,1,10
+html body text table tbody tr td p span  ,summarizes changes in the distribution of full-time faculty members across various dimensions over the last decade.,166,767,611,35,1,9
+html body text table tbody tr td p span  ,"In figures 3a and 3b, ""OHD"" denotes ""Other Health Doctorate"" which includes doctorates in dentistry, veterinary medicine, public health, optometry, and other health-related fields. Race/Hispanic origin trends reflect Faculty Roster data collection and reporting practices at the time. The Faculty Roster began collecting and reporting multiple race information in 2002.",166,819,609,71,1,9
+html body text table tbody tr td p span  ,Select the links below to view specific trends:,166,907,294,17,1,9
+html body text table tbody tr td table tbody tr td p a span  ,Figure 1.,171,946,58,17,1,14
+html body text table tbody tr td table tbody tr td p i span  ,"(PDF, 1 page - 58 KB)",171,964,145,17,1,14
+html body text table tbody tr td table tbody tr td p span  ,U.S. Medical School Faculty by Sex,360,946,233,17,1,13
+html body text table tbody tr td table tbody tr td p a span  ,Figure 2.,171,992,58,17,1,14
+html body text table tbody tr td table tbody tr td p i span  ,"(PDF, 1 page - 62 KB)",171,1010,145,17,1,14
+html body text table tbody tr td table tbody tr td p span  ,U.S. Medical School Female Faculty as a Percent of Each Rank,360,992,408,17,1,13
+html body text table tbody tr td table tbody tr td p a span  ,Figure 3.,171,1038,58,17,1,14
+html body text table tbody tr td table tbody tr td p i span  ,"(PDF, 1 page - 58 KB)",171,1056,145,17,1,14
+html body text table tbody tr td table tbody tr td p span  ,U.S. Medical School Faculty in Basic Science Departments by Degree,360,1038,401,35,1,13
+html body text table tbody tr td table tbody tr td p a span  ,Figure 3b.,171,1084,66,17,1,14
+html body text table tbody tr td table tbody tr td p i span  ,"(PDF, 1 page - 62 KB)",171,1102,145,17,1,14
+html body text table tbody tr td table tbody tr td p span  ,U.S. Medical School Faculty in Clinical Science Departments by Degree,360,1084,396,35,1,13
+html body text table tbody tr td table tbody tr td p a span  ,Figure 4.,171,1130,58,17,1,14
+html body text table tbody tr td table tbody tr td p i span  ,"(PDF, 1 page - 69 KB)",171,1148,145,17,1,14
+html body text table tbody tr td table tbody tr td p span  ,U.S. Medical School Female Faculty by Race/Hispanic Origin,360,1130,399,17,1,13
+html body text table tbody tr td table tbody tr td p a span  ,Figure 5.,171,1176,58,17,1,14
+html body text table tbody tr td table tbody tr td p i span  ,"(PDF, 1 page - 69 KB)",171,1194,145,17,1,14
+html body text table tbody tr td table tbody tr td p span  ,U.S. Medical School Male Faculty by Race/Hispanic Origin,360,1176,385,17,1,13
+html body text table tbody tr td table tbody tr td p a span  ,Figure 6.,171,1222,58,17,1,14
+html body text table tbody tr td table tbody tr td p i span  ,"(PDF, 1 page - 62 KB)",171,1240,145,17,1,14
+html body text table tbody tr td table tbody tr td p span  ,U.S. Medical School Faculty by Department,360,1222,285,17,1,13
+html body text table tbody tr td h3 span  ,Faculty Roster Benchmark Reports,166,1281,284,21,1,9
+html body text table tbody tr td p span  ,The,166,1322,29,17,1,9
+html body text table tbody tr td p a span  ,Faculty Roster Benchmark Reports,195,1322,229,17,1,10
+html body text table tbody tr td p span  ,"application is an interactive reporting tool utilizing Faculty Roster data. Users have the ability to generate reports in a variety of ways. For example, users can generate one of the Template Reports and tweak it to view the data according to their own criteria, including creating comparison groups of institutions. Users can also create their own Custom Reports, choosing from a large number of permutations of Faculty Roster fields.",166,1322,607,107,1,9
+html body text table tbody tr td h3 span  ,Special Reports,166,1449,125,21,1,9
+html body text table tbody tr td p span  ,"Faculty Roster staff are able to conduct special reports for individuals whose needs are not met from existing reports. Special reports may vary from simple analyses requiring minimal programming to complicated analyses requiring significant time and effort. The charge for a special report depends on the length of time to complete the analysis, with three hours as the typical length of time. For additional information, contact Hershel Alexander,",166,1489,607,89,1,9
+html body text table tbody tr td p a span  ,halexander@aamc.org,166,1579,148,17,1,10
+html body text table tbody tr td p span  ,.,314,1579,4,17,0,9
+html body text table tbody tr td p span  ,This page contains documents in Portable Document Format (PDF). The Adobe Acrobat® Reader® is required to view PDF documents.,166,1613,577,35,0,9
+html body text table tbody tr td p a span  ,Download Acrobat® Reader®,462,1631,199,17,0,10
+html body text table tbody tr td p span  ,.,661,1631,4,17,1,9
+html body text table tbody tr td p a span  ,Contact Us,154,1664,76,17,0,10
+html body text table tbody tr td p span  ,© 1995-2006 AAMC,229,1664,140,17,0,9
+html body text table tbody tr td p a span  ,Terms and Conditions,369,1664,145,17,0,10
+html body text table tbody tr td p a span  ,Privacy Statement,515,1664,117,17,0,10

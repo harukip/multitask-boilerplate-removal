@@ -1,0 +1,505 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Forex Street. The Foreign Exchange Market,0,0,721,18,0,6
+html body text div div div p a span  ,Premium,113,42,63,17,0,9
+html body text div div div p a span  ,Chat,267,42,34,17,0,9
+html body text div div div p a span  ,Forum,466,42,43,17,0,9
+html body text div ul li strong span  ,New York,48,146,67,17,0,8
+html body text div ul li strong span  ,London,48,164,53,17,0,8
+html body text div ul li strong span  ,Barcelona,48,182,69,17,0,8
+html body text div ul li strong span  ,Tokyo,48,200,42,17,0,8
+html body text div ul li strong span  ,Sydney,48,218,50,17,0,8
+html body text div ul li a span  ,Rates & Charts,48,252,98,17,0,8
+html body text div ul li a span  ,News,48,270,36,17,0,8
+html body text div ul li a span  ,Fundamental,48,288,84,17,0,8
+html body text div ul li a span  ,Technical,48,306,62,17,0,8
+html body text div ul li a span  ,Futures,48,324,48,17,0,8
+html body text div ul li a span  ,Live,48,342,29,17,0,8
+html body text div ul li a span  ,Education,48,360,65,17,0,8
+html body text div ul li a span  ,Resources,48,378,66,17,0,8
+html body text div ul li a span  ,Brokers,48,396,51,17,0,8
+html body text div div div div h2 span  ,Forex Community,8,452,188,26,0,9
+html body text div div div div ul li a span  ,Forex Forum,52,533,88,17,0,11
+html body text div div div div ul li span span  ,NEW!,140,533,44,17,0,11
+html body text div div div div ul li a span  ,Forex Chat,52,551,72,17,0,11
+html body text div div div div h2 span  ,Search Reports,8,589,158,26,0,9
+html body text div div div div form p label span  ,Keyword,8,636,60,17,0,11
+html body text div div div div form p label span  ,Provider,8,672,55,17,0,11
+html body text div div div div form p select option  ,All,0,0,0,0,0,11
+html body text div div div div form p select option  ,AceTrader,0,0,0,0,0,11
+html body text div div div div form p select option  ,ACT Currency Partner,0,0,0,0,0,11
+html body text div div div div form p select option  ,ActionForex.com,0,0,0,0,0,11
+html body text div div div div form p select option  ,AKforex,0,0,0,0,0,11
+html body text div div div div form p select option  ,"Anduril, Inc.",0,0,0,0,0,11
+html body text div div div div form p select option  ,Asesoria Forex,0,0,0,0,0,11
+html body text div div div div form p select option  ,Aspen Trading Group,0,0,0,0,0,11
+html body text div div div div form p select option  ,Avantage Financial GMBH,0,0,0,0,0,11
+html body text div div div div form p select option  ,BBVA Bancomer,0,0,0,0,0,11
+html body text div div div div form p select option  ,BBVA Group,0,0,0,0,0,11
+html body text div div div div form p select option  ,BetonCurrencies,0,0,0,0,0,11
+html body text div div div div form p select option  ,BHF-Bank,0,0,0,0,0,11
+html body text div div div div form p select option  ,Cashmonsterz,0,0,0,0,0,11
+html body text div div div div form p select option  ,CMC Markets NY,0,0,0,0,0,11
+html body text div div div div form p select option  ,CMS Forex,0,0,0,0,0,11
+html body text div div div div form p select option  ,Commerzbank,0,0,0,0,0,11
+html body text div div div div form p select option  ,Danske Bank A/S,0,0,0,0,0,11
+html body text div div div div form p select option  ,"Delta Global Advisors, Inc.",0,0,0,0,0,11
+html body text div div div div form p select option  ,Easy Forex,0,0,0,0,0,11
+html body text div div div div form p select option  ,E-Forex,0,0,0,0,0,11
+html body text div div div div form p select option  ,Erste Bank der oesterreichischen Sparkassen AG,0,0,0,0,0,11
+html body text div div div div form p select option  ,Eurusdtrader,0,0,0,0,0,11
+html body text div div div div form p select option  ,Finotec Group Inc.,0,0,0,0,0,11
+html body text div div div div form p select option  ,Forexnews.com,0,0,0,0,0,11
+html body text div div div div form p select option  ,ForexYard,0,0,0,0,0,11
+html body text div div div div form p select option  ,Friend-of-Fxtrend,0,0,0,0,0,11
+html body text div div div div form p select option  ,FX Chicago,0,0,0,0,0,11
+html body text div div div div form p select option  ,FX Engines,0,0,0,0,0,11
+html body text div div div div form p select option  ,FX Money Trends,0,0,0,0,0,11
+html body text div div div div form p select option  ,FX Solutions,0,0,0,0,0,11
+html body text div div div div form p select option  ,FX Trend Trader,0,0,0,0,0,11
+html body text div div div div form p select option  ,FX Universal LLC,0,0,0,0,0,11
+html body text div div div div form p select option  ,FXA,0,0,0,0,0,11
+html body text div div div div form p select option  ,FXAnalytics,0,0,0,0,0,11
+html body text div div div div form p select option  ,FxBootcamp,0,0,0,0,0,11
+html body text div div div div form p select option  ,FXCM,0,0,0,0,0,11
+html body text div div div div form p select option  ,FXDream,0,0,0,0,0,11
+html body text div div div div form p select option  ,FxMax,0,0,0,0,0,11
+html body text div div div div form p select option  ,FX-Strategy,0,0,0,0,0,11
+html body text div div div div form p select option  ,FXstreet.com,0,0,0,0,0,11
+html body text div div div div form p select option  ,FXtechtrade,0,0,0,0,0,11
+html body text div div div div form p select option  ,FXtoday,0,0,0,0,0,11
+html body text div div div div form p select option  ,FXTSP.com,0,0,0,0,0,11
+html body text div div div div form p select option  ,GCI,0,0,0,0,0,11
+html body text div div div div form p select option  ,Gerard Bergsma,0,0,0,0,0,11
+html body text div div div div form p select option  ,Global Forex Trading Ltd.,0,0,0,0,0,11
+html body text div div div div form p select option  ,GoForex,0,0,0,0,0,11
+html body text div div div div form p select option  ,Growth Engines,0,0,0,0,0,11
+html body text div div div div form p select option  ,Halo Financial,0,0,0,0,0,11
+html body text div div div div form p select option  ,HVB Group,0,0,0,0,0,11
+html body text div div div div form p select option  ,ICICI Bank,0,0,0,0,0,11
+html body text div div div div form p select option  ,"iExpertAdvisor, LLC",0,0,0,0,0,11
+html body text div div div div form p select option  ,Informa Global Markets,0,0,0,0,0,11
+html body text div div div div form p select option  ,Investica Ltd,0,0,0,0,0,11
+html body text div div div div form p select option  ,Investors Intelligence,0,0,0,0,0,11
+html body text div div div div form p select option  ,Jyske Bank,0,0,0,0,0,11
+html body text div div div div form p select option  ,Karoll,0,0,0,0,0,11
+html body text div div div div form p select option  ,KBC Bank,0,0,0,0,0,11
+html body text div div div div form p select option  ,Kshitij Consultancy Service,0,0,0,0,0,11
+html body text div div div div form p select option  ,La Caixa,0,0,0,0,0,11
+html body text div div div div form p select option  ,Lloyds TSB Financial Markets,0,0,0,0,0,11
+html body text div div div div form p select option  ,Market Speculators,0,0,0,0,0,11
+html body text div div div div form p select option  ,"Market Technologies, LLC",0,0,0,0,0,11
+html body text div div div div form p select option  ,Mellon Foreign Exchange,0,0,0,0,0,11
+html body text div div div div form p select option  ,Merk Hard Currency Fund,0,0,0,0,0,11
+html body text div div div div form p select option  ,Mihai Nichisoiu,0,0,0,0,0,11
+html body text div div div div form p select option  ,Mizuho Corporate Bank,0,0,0,0,0,11
+html body text div div div div form p select option  ,MTI North America,0,0,0,0,0,11
+html body text div div div div form p select option  ,MVDForex,0,0,0,0,0,11
+html body text div div div div form p select option  ,National Bank of Canada,0,0,0,0,0,11
+html body text div div div div form p select option  ,Nexum Capital Markets,0,0,0,0,0,11
+html body text div div div div form p select option  ,Northern Trust,0,0,0,0,0,11
+html body text div div div div form p select option  ,ODL Securities,0,0,0,0,0,11
+html body text div div div div form p select option  ,Odom & Frey Futures & Options,0,0,0,0,0,11
+html body text div div div div form p select option  ,Online Trading Academy,0,0,0,0,0,11
+html body text div div div div form p select option  ,Performance Capital,0,0,0,0,0,11
+html body text div div div div form p select option  ,PipsandTips.com,0,0,0,0,0,11
+html body text div div div div form p select option  ,Piptopia,0,0,0,0,0,11
+html body text div div div div form p select option  ,Rabobank,0,0,0,0,0,11
+html body text div div div div form p select option  ,Rizk Investments,0,0,0,0,0,11
+html body text div div div div form p select option  ,S.A.F.E. Ltd,0,0,0,0,0,11
+html body text div div div div form p select option  ,Saxo Bank,0,0,0,0,0,11
+html body text div div div div form p select option  ,Spencer Financial LLC,0,0,0,0,0,11
+html body text div div div div form p select option  ,StraightForex,0,0,0,0,0,11
+html body text div div div div form p select option  ,Sucden (UK) Limited,0,0,0,0,0,11
+html body text div div div div form p select option  ,Sure-Fire Forex Trading,0,0,0,0,0,11
+html body text div div div div form p select option  ,Swiss Finance Corporation,0,0,0,0,0,11
+html body text div div div div form p select option  ,The Forex Edge,0,0,0,0,0,11
+html body text div div div div form p select option  ,The Trading Tutor,0,0,0,0,0,11
+html body text div div div div form p select option  ,Trader College,0,0,0,0,0,11
+html body text div div div div form p select option  ,Trader House Network,0,0,0,0,0,11
+html body text div div div div form p select option  ,TradeSphereFX,0,0,0,0,0,11
+html body text div div div div form p select option  ,Trading Educators Inc.,0,0,0,0,0,11
+html body text div div div div form p select option  ,"TradingEducation.com, LLC",0,0,0,0,0,11
+html body text div div div div form p select option  ,Tricom,0,0,0,0,0,11
+html body text div div div div form p select option  ,Union Bank of California,0,0,0,0,0,11
+html body text div div div div form p select option  ,Wachovia Corporation Economics Group,0,0,0,0,0,11
+html body text div div div div form p select option  ,Westpac Institutional Bank,0,0,0,0,0,11
+html body text div div div div form p select option  ,Windfall Management,0,0,0,0,0,11
+html body text div div div div form p select option  ,Windsor Brokers Ltd,0,0,0,0,0,11
+html body text div div div div form p select option  ,Yapi Kredi Bank,0,0,0,0,0,11
+html body text div div div div form p select option  ,Z-forecasting,0,0,0,0,0,11
+html body text div div div div form p label span  ,Frequency,8,709,68,17,0,11
+html body text div div div div form p select option  ,All,0,0,0,0,0,11
+html body text div div div div form p select option  ,Daily,0,0,0,0,0,11
+html body text div div div div form p select option  ,Weekly,0,0,0,0,0,11
+html body text div div div div form p select option  ,Fortnightly,0,0,0,0,0,11
+html body text div div div div form p select option  ,Monthly,0,0,0,0,0,11
+html body text div div div div form p select option  ,Quarterly,0,0,0,0,0,11
+html body text div div div div form p select option  ,Yearly,0,0,0,0,0,11
+html body text div div div div form p select option  ,Interim,0,0,0,0,0,11
+html body text div div div div h2 span  ,Managed Accounts Program (MAP),8,766,370,26,0,9
+html body text div div div div div table thead tr th span  ,Performance,348,831,88,17,0,13
+html body text div div div div div table tbody tr td span  ,Start:,48,851,35,17,0,13
+html body text div div div div div table tbody tr td span  ,"$100,000",376,851,60,17,0,13
+html body text div div div div div table tbody tr td span  ,Current:,48,871,53,17,0,13
+html body text div div div div div table tbody tr td span  ,"$102,740",376,871,60,17,0,13
+html body text div div div div span a span  ,[ More info ],8,890,83,17,0,10
+html body text div div div div h2 span  ,Signals Tracker,8,928,161,26,0,9
+html body text div div div div p span  ,Searching for the perfect FX Signals Provider? Follow the right path using our,20,975,503,17,0,9
+html body text div div div div p a span  ,Signals Tracker,8,993,100,17,0,10
+html body text div div div div h2 span  ,Trading Tools,8,1031,142,26,0,9
+html body text div div div div ul li a span  ,Currency Converter,48,1112,128,17,0,11
+html body text div div div div ul li a span  ,Rate History Tool,48,1130,114,17,0,11
+html body text div div div div ul li a span  ,Risk Probability Calculator,48,1148,175,17,0,11
+html body text div div div div ul li a span  ,Forex Pivot Point Calculator,48,1166,184,17,0,11
+html body text div div div div ul li a span  ,Pip USD value Calculator,48,1184,167,17,0,11
+html body text div div div div h2 span  ,FXstreet.com Blogs,8,1222,200,26,0,9
+html body text div div div div ul li a span  ,The Informer Weblog,128,1303,139,17,0,11
+html body text div div div div ul li a span  ,Tony Juste,128,1321,68,17,0,11
+html body text div div div div ul li a span  ,Ed Ponsi,128,1339,57,17,0,11
+html body text div div div div ul li a span  ,John Putman II,128,1357,98,17,0,11
+html body text div div div div ul li a span  ,Jerry Furst,128,1375,69,17,0,11
+html body text div div div div ul li a span  ,Wayne McDonell,128,1393,113,17,0,11
+html body text div div div div h2 span  ,FXstreet.com Premium Service,8,1431,320,26,0,9
+html body text div div div div ul li a span  ,Dow Jones News in Real-time,158,1512,195,17,0,11
+html body text div div div div ul li a span  ,Live Webinars with FX Experts,158,1530,203,17,0,11
+html body text div div div div ul li a span  ,Visual Chart,158,1548,80,17,0,11
+html body text div div div div ul li a span  ,Autochartist,157,1566,79,17,0,11
+html body text div div div div ul li a span  ,FX Expert Comments & Reports,158,1584,211,17,0,11
+html body text div div div div h2 span  ,For your website,8,1622,172,26,0,9
+html body text div div div div p a span  ,Add an FXstreet.com ticker to your own site,8,1668,285,17,0,10
+html body text div div div div p span  ,Direct and immediate access to the main players operating in foreign exchange.,8,1702,509,17,0,9
+html body text div div div div form p span  ,Institution,8,1736,66,17,0,10
+html body text div div div div form p select option  ,Advisors,0,0,0,0,0,11
+html body text div div div div form p select option  ,Brokers,0,0,0,0,0,11
+html body text div div div div form p select option  ,Education,0,0,0,0,0,11
+html body text div div div div form p select option  ,Market Makers,0,0,0,0,0,11
+html body text div div div div form p select option  ,Money Managers,0,0,0,0,0,11
+html body text div div div div form p select option  ,Risk Management,0,0,0,0,0,11
+html body text div div div div form p select option  ,Technology Providers,0,0,0,0,0,11
+html body text div div div div form p span  ,Region,8,1774,46,17,0,10
+html body text div div div div form p select option  ,Select All,0,0,0,0,0,11
+html body text div div div div form p select option  ,Africa,0,0,0,0,0,11
+html body text div div div div form p select option  ,Asia,0,0,0,0,0,11
+html body text div div div div form p select option  ,Asia Pacific,0,0,0,0,0,11
+html body text div div div div form p select option  ,Central America,0,0,0,0,0,11
+html body text div div div div form p select option  ,Europe,0,0,0,0,0,11
+html body text div div div div form p select option  ,Middle East,0,0,0,0,0,11
+html body text div div div div form p select option  ,North America,0,0,0,0,0,11
+html body text div div div div form p select option  ,South America,0,0,0,0,0,11
+html body text div div div div form p span  ,FX Markets,8,1810,77,17,0,10
+html body text div div div div form p select option  ,Select All,0,0,0,0,0,11
+html body text div div div div form p select option  ,Forwards,0,0,0,0,0,11
+html body text div div div div form p select option  ,Futures,0,0,0,0,0,11
+html body text div div div div form p select option  ,Money Markets,0,0,0,0,0,11
+html body text div div div div form p select option  ,Options,0,0,0,0,0,11
+html body text div div div div form p select option  ,Spot,0,0,0,0,0,11
+html body text div div div div form p select option  ,Structured Products,0,0,0,0,0,11
+html body text div div div div form p select option  ,Warrants,0,0,0,0,0,11
+html body text div div div div div span span  ,Advertisement,8,1880,94,17,0,10
+html body text div div div div div div h2 span  ,Dashboard FX,8,1917,151,26,0,11
+html body text div div div div div div p span  ,"Receive Buy/Sell signals instantly to your desktop, email and SMS. Use Real-Time gauges to identify Trends, Ranges, Volatility and Sentiment.",8,1972,731,35,0,11
+html body text div div div div div div p a span  ,Download Free Software now,278,1990,196,17,0,12
+html body text div div div div div div p span  ,.,474,1990,4,17,0,11
+html body text div div div div div h2 span  ,Latest Forex News,8,2062,190,26,0,10
+html body text div div div div div p a span  ,Japan Nov retail sales down 0.1 pct yr-on-yr; 1st drop in 4 mths,8,2109,412,17,0,11
+html body text div div div div div p span  ,(AFX News),420,2109,83,17,0,10
+html body text div div div div div p span span  ,00:14 GMT,8,2127,76,17,0,11
+html body text div div div div div p a span  ,"Nikkei hits highest since May, Toyota rises",8,2161,279,17,0,11
+html body text div div div div div p span  ,(Reuters),287,2161,60,17,0,10
+html body text div div div div div p span span  ,00:10 GMT,8,2179,76,17,0,11
+html body text div div div div div form span a span  ,[ View All ],8,2213,76,17,0,12
+html body text div div div div div h2 span  ,"EUR USD , Hourly",8,2541,196,26,0,10
+html body text div div div div div h2 span  ,"GBP USD, Hourly",8,2624,187,26,0,10
+html body text div div div div div h2 span  ,Currencies at a Glance,8,2707,235,26,0,10
+html body text div div div div div dl dt a span  ,EUR/USD,8,2754,68,17,0,12
+html body text div div div div div dl dd span  ,Drops below 1.3150,48,2772,130,17,0,11
+html body text div div div div div dl dd span span  ,(04:32 GMT),48,2790,87,17,0,12
+html body text div div div div div dl dt a span  ,GBP/USD,8,2808,68,17,0,12
+html body text div div div div div dl dd span  ,Trades below 1.9600,48,2826,134,17,0,11
+html body text div div div div div dl dd span span  ,(04:34 GMT),48,2844,87,17,0,12
+html body text div div div div div dl dt a span  ,USD/CHF,8,2862,68,17,0,12
+html body text div div div div div dl dd span  ,Trades around 1.2200,48,2880,139,17,0,11
+html body text div div div div div dl dd span span  ,(04:36 GMT),48,2898,87,17,0,12
+html body text div div div div div dl dt a span  ,USD/JPY,8,2916,63,17,0,12
+html body text div div div div div dl dd span  ,Moves up toward 119.00,48,2934,159,17,0,11
+html body text div div div div div dl dd span span  ,(04:38 GMT),48,2952,87,17,0,12
+html body text div div div div p span  ,Follow all currency pairs in real time in the,8,2989,281,17,0,9
+html body text div div div div p a strong span  ,Rates & Charts Section,289,2989,161,17,0,11
+html body text div div div div p span  ,New,8,3023,34,17,0,9
+html body text div div div div p a strong span  ,Chart Patterns Section,42,3023,161,17,0,11
+html body text div div div div p span  ,: Automatically identified pattern recognition; Alerts for emerging and complete patterns. Powered by Autochartist.,8,3023,766,35,0,9
+html body text div div div div div span span  ,Advertisement,8,3075,94,17,0,10
+html body text div div div div div div h2 span  ,Connect to the World of Forex,8,3113,312,26,1,11
+html body text div div div div div div p span  ,"Whether you've been trading for years or are just entering the world of Forex trading,",112,3179,550,17,1,11
+html body text div div div div div div p strong span  ,Saxo Bank,662,3179,73,17,1,12
+html body text div div div div div div p span  ,provides the,8,3197,83,17,1,11
+html body text div div div div div div p strong span  ,technology,91,3197,77,17,1,12
+html body text div div div div div div p span  ,",",168,3197,8,17,1,11
+html body text div div div div div div p strong span  ,pricing,176,3197,53,17,1,12
+html body text div div div div div div p span  ,",",229,3197,8,17,1,11
+html body text div div div div div div p strong span  ,tools,237,3197,36,17,1,12
+html body text div div div div div div p span  ,"and support to help you trade successfully. Our intuitive, customisable",273,3197,450,17,1,11
+html body text div div div div div div p strong span  ,platform,8,3215,64,17,1,12
+html body text div div div div div div p span  ,caters to your individual needs.Create a trading environment as advanced or straight-forward as you need it to be.,8,3215,768,35,1,11
+html body text div div div div div div p a span  ,Download SaxoTrader,31,3233,149,17,0,12
+html body text div div div div div div p span  ,.,180,3233,4,17,0,11
+html body text div div div div div h2 span  ,Top Economic Events,8,3271,222,26,0,10
+html body text div div div div div table tbody tr td span  ,Date,11,3339,30,17,0,13
+html body text div div div div div table tbody tr td span  ,Country,137,3339,52,17,0,13
+html body text div div div div div table tbody tr td span  ,Event,233,3339,37,17,0,13
+html body text div div div div div table tbody tr td span  ,Previous,398,3339,56,17,0,13
+html body text div div div div div table tbody tr td span  ,Consensus,492,3339,68,17,0,13
+html body text div div div div div table tbody tr td span span  ,"Dec 27, 05:00 GMT",11,3363,90,35,0,14
+html body text div div div div div table tbody tr td span  ,Japan,137,3372,36,17,0,13
+html body text div div div div div table tbody tr td span  ,Housing Starts (YoY),233,3372,139,17,0,13
+html body text div div div div div table tbody tr td span  ,2.20 %,398,3372,45,17,0,13
+html body text div div div div div table tbody tr td span  ,1.10 %,492,3372,45,17,0,13
+html body text div div div div div table tbody tr td span span  ,"Dec 27, 12:00 GMT",11,3405,90,35,0,14
+html body text div div div div div table tbody tr td span  ,United States,137,3414,86,17,0,13
+html body text div div div div div table tbody tr td span  ,MBA Mortgage Applications,233,3405,102,35,0,13
+html body text div div div div div table tbody tr td span  ,-10.20 %,398,3414,59,17,0,13
+html body text div div div div div table tbody tr td span span  ,"Dec 27, 15:00 GMT",11,3447,90,35,0,14
+html body text div div div div div table tbody tr td span  ,United States,137,3456,86,17,0,13
+html body text div div div div div table tbody tr td span  ,New Home Sales,233,3456,111,17,0,13
+html body text div div div div div table tbody tr td span  ,1004.00 M,398,3456,70,17,0,13
+html body text div div div div div table tbody tr td span  ,1023.00 M,492,3456,70,17,0,13
+html body text div div div div div table tbody tr td span span  ,"Dec 27, 15:30 GMT",11,3489,90,35,0,14
+html body text div div div div div table tbody tr td span  ,United States,137,3498,86,17,0,13
+html body text div div div div div table tbody tr td span  ,Crude Oil Inventories,233,3498,140,17,0,13
+html body text div div div div div table tbody tr td span  ,-6.30 M,398,3498,52,17,0,13
+html body text div div div div div table tbody tr td span span  ,"Dec 28, 13:30 GMT",11,3531,90,35,0,14
+html body text div div div div div table tbody tr td span  ,United States,137,3540,86,17,0,13
+html body text div div div div div table tbody tr td span  ,Initial Jobless Claims,233,3540,138,17,0,13
+html body text div div div div div table tbody tr td span  ,315.00 K,398,3540,60,17,0,13
+html body text div div div div div table tbody tr td span  ,326.00 K,492,3540,60,17,0,13
+html body text div div div div div span a span  ,[ View All ],8,3570,76,17,0,11
+html body text div div div div div h2 span  ,Current topics at FXstreet.com,8,3608,319,26,1,10
+html body text div div div div div span span  ,"December 26, 17:20 GMT",8,3655,170,17,0,10
+html body text div div div div div p strong a span  ,Quiet trading day expected post Christmas Day,8,3689,328,17,0,12
+html body text div div div div div p span  ,by ForexYard,336,3689,88,17,0,10
+html body text div div div div div p span  ,"The USD is trading in small volumes at the beginning of the post Christmas session; as mostly Japanese traders are in the market, which will probably create little volatility, before the rest of the market join the trading...",8,3723,754,35,1,10
+html body text div div div div div span a span  ,[ Full Story ],8,3775,83,17,0,11
+html body text div div div div div ul li span  ,Get,48,3809,27,17,0,11
+html body text div div div div div ul li a span  ,the Technical Point of View,75,3809,182,17,0,12
+html body text div div div div div ul li span  ,for this trading session,257,3809,145,17,0,11
+html body text div div div div div h3 span  ,Related Reports,8,3846,129,21,0,10
+html body text div div div div div ul li span  ,Market Commentary -,48,3886,146,17,0,11
+html body text div div div div div ul li a span  ,Aberrations Christmas Day on GBP and AUD,194,3886,299,17,0,12
+html body text div div div div div ul li span  ,by Investors Education Network,493,3886,207,17,0,11
+html body text div div div div div ul li span  ,Daily Technical Briefing -,48,3904,172,17,0,11
+html body text div div div div div ul li a span  ,Greenback Sees Red,220,3904,136,17,0,12
+html body text div div div div div ul li span  ,by FXCM,356,3904,66,17,0,11
+html body text div div div div div h3 span  ,In-Depth,8,3941,73,21,0,10
+html body text div div div div div ul li a span  ,FOREX FORUM,48,3982,117,17,0,12
+html body text div div div div div ul li span  ,: Post your comments and share your opinions with fellow traders,165,3982,422,17,0,11
+html body text div div div div div ul li a span  ,Forex News,48,4000,82,17,0,12
+html body text div div div div div ul li span  ,: Be up to date during the holidays season,130,4000,267,17,0,11
+html body text div div div div div ul li span  ,Brand New FXstreet.com Newsletters:,48,4018,252,17,0,11
+html body text div div div div div ul li a span  ,Subscribe now!,300,4018,100,17,0,12
+html body text div div div div div ul li span  ,FX Educator Weblog -,48,4036,149,17,0,11
+html body text div div div div div ul li a span  ,Follow up Ed Ponsi's posts from Shanghai,197,4036,271,17,0,12
+html body text div div div div div h2 span  ,New on FXstreet.com,8,4074,220,26,0,10
+html body text div div div div div p span  ,Market Commentary -,8,4121,146,17,0,10
+html body text div div div div div p a span  ,Aberrations Christmas Day on GBP and AUD,154,4121,299,17,0,11
+html body text div div div div div p span  ,by Investors Education Network,453,4121,207,17,0,10
+html body text div div div div div p span span  ,"Tue, Dec 26 2006, 12:55 GMT",8,4139,198,17,0,11
+html body text div div div div div p span  ,Daily Fx Strategy -,8,4173,127,17,0,10
+html body text div div div div div p a span  ,"Further Euro, Aussie Losses Next Week",135,4173,259,17,0,11
+html body text div div div div div p span  ,by CMC Markets NY,394,4173,139,17,0,10
+html body text div div div div div p span span  ,"Sat, Dec 23 2006, 06:38 GMT",8,4191,194,17,0,11
+html body text div div div div div p a span  ,High Probability Trading Setups for the Currency Market,8,4225,372,17,0,11
+html body text div div div div div p span  ,by FXstreet.com,380,4225,106,17,0,10
+html body text div div div div div p span span  ,"Thu, Dec 21 2006, 07:11 GMT",8,4243,199,17,0,11
+html body text div div div div div p span  ,Monthly Webinar: High Probability Trading Setups in the Currency Market -,8,4277,496,17,0,10
+html body text div div div div div p a span  ,Part I & Part II Presentation Slides,504,4277,226,17,0,11
+html body text div div div div div p span  ,by FXCM,8,4277,738,35,0,10
+html body text div div div div div p span span  ,"Wed, Dec 20 2006, 08:06 GMT",8,4313,203,17,0,11
+html body text div div div div div span a span  ,[ View All ],8,4347,76,17,0,11
+html body text div div div div div h2 span  ,Last Updated Reports,8,4384,227,26,0,10
+html body text div div div div div p span  ,U.S. Forex Market Commentary -,8,4431,221,17,0,10
+html body text div div div div div p a span  ,U.S. Forex Market Commentary,229,4431,211,17,0,11
+html body text div div div div div p span  ,by GCI,440,4431,48,17,0,10
+html body text div div div div div p span span  ,"Tue, Dec 26 2006, 18:44 GMT",8,4449,198,17,0,11
+html body text div div div div div p a span  ,FOREX.4.FREE,8,4483,112,17,0,11
+html body text div div div div div p span  ,by Gerard Bergsma,120,4483,125,17,0,10
+html body text div div div div div p span span  ,"Tue, Dec 26 2006, 17:39 GMT",8,4501,198,17,0,11
+html body text div div div div div p span  ,Daily Scalping Tip -,8,4535,134,17,0,10
+html body text div div div div div p a span  ,Daily Scalping Tip,142,4535,125,17,0,11
+html body text div div div div div p span  ,by PipsandTips.com,267,4535,130,17,0,10
+html body text div div div div div p span span  ,"Tue, Dec 26 2006, 15:42 GMT",8,4553,198,17,0,11
+html body text div div div div div p span  ,Daily Technical Briefing -,8,4587,172,17,0,10
+html body text div div div div div p a span  ,“Greenback Sees Red”,180,4587,150,17,0,11
+html body text div div div div div p span  ,by FXCM,330,4587,66,17,0,10
+html body text div div div div div p span span  ,"Tue, Dec 26 2006, 15:24 GMT",8,4605,198,17,0,11
+html body text div div div div div span a span  ,[ View All ],8,4639,80,17,0,11
+html body text div div div div div span a span  ,[ Search ],88,4639,62,17,0,11
+html body text div div div div div p a strong span  ,Exclusive Video: Fantastic World of Forex,8,4691,293,17,0,12
+html body text div div div div div p span  ,Watch an,8,4727,64,17,0,10
+html body text div div div div div p strong span  ,exclusive lesson,72,4727,110,17,0,11
+html body text div div div div div p span  ,"from the Online Trading Academy! Find a guide to move properly in the deep jungle of Forex trading, with",8,4727,733,35,0,10
+html body text div div div div div p a span  ,all the information you may need,135,4745,217,17,0,11
+html body text div div div div div p span  ,to succeed in trading.,352,4745,137,17,0,10
+html body text div div div div div h2 span  ,New FXstreet.com Newsletters,8,4783,313,26,0,10
+html body text div div div div div p span  ,"The first week of January,",8,4830,170,17,0,10
+html body text div div div div div p a span  ,Asia-Pacific,178,4830,83,17,0,11
+html body text div div div div div p span  ,",",261,4830,8,17,0,10
+html body text div div div div div p a span  ,Europe,269,4830,50,17,0,11
+html body text div div div div div p span  ,and,319,4830,27,17,0,10
+html body text div div div div div p a span  ,U.S.,346,4830,32,17,0,11
+html body text div div div div div p span  ,Trading Newsletters will be launched. An improved,378,4830,336,17,0,10
+html body text div div div div div p a span  ,Forex Informer,8,4830,742,35,0,11
+html body text div div div div div p span  ,will also start with even more specific information for the Forex Market.,69,4848,469,17,0,10
+html body text div div div div div p a strong span  ,Subscribe to the new Newsletters now,8,4848,754,35,0,12
+html body text div div div div div p span  ,.,40,4866,4,17,0,10
+html body text div div div div div h2 span  ,NEXT LIVE WEBINAR,8,4938,254,26,0,10
+html body text div div div div div div p a strong span  ,What moves currencies? - 2007 Market Outlook,8,5019,329,17,0,13
+html body text div div div div div div p strong span  ,Expert:,8,5037,56,17,0,12
+html body text div div div div div div p a span  ,Tony Juste,64,5037,69,17,0,12
+html body text div div div div div div p strong span  ,Start:,8,5055,44,17,0,12
+html body text div div div div div div p span  ,"Tue, 2 Jan 2007 11:00 GMT",52,5055,181,17,0,11
+html body text div div div div div div p strong span  ,Sponsored by:,8,5073,102,17,0,12
+html body text div div div div div div p strong span  ,Type of Session:,8,5091,114,17,0,12
+html body text div div div div div div p span  ,Webinar,122,5091,54,17,0,11
+html body text div div div div span a span  ,[ View All ],8,5143,76,17,0,10
+html body text div div div div div h2 span  ,NEXT Q&A,8,5181,128,26,0,10
+html body text div div div div div div p a strong span  ,Confessions of a Forex Trader - Part VII: An Illustrative Wrap-up,8,5262,451,17,0,13
+html body text div div div div div div p strong span  ,Expert:,8,5280,56,17,0,12
+html body text div div div div div div p a span  ,Mihai Nichisoiu,64,5280,105,17,0,12
+html body text div div div div div div p strong span  ,Start:,8,5298,44,17,0,12
+html body text div div div div div div p span  ,"Tue, 9 Jan 2007, 15:00 GMT",52,5298,186,17,0,11
+html body text div div div div div div p strong span  ,Type of Session:,8,5316,114,17,0,12
+html body text div div div div div div p span  ,Questions and Answers,122,5316,150,17,0,11
+html body text div div div div span a span  ,[ View All ],8,5368,76,17,0,10
+html body text div div div div div h2 strong span  ,Upcoming Live Events,8,5406,232,26,0,11
+html body text div div div div div table tbody tr td span  ,Sponsored by:,627,5474,92,17,0,13
+html body text div div div div div table tbody tr td span span  ,"Tue, Jan 2, 11:00 GMT",11,5496,110,35,0,14
+html body text div div div div div table tbody tr td a span  ,What moves currencies? - 2007 Market Outlook,164,5505,309,17,0,14
+html body text div div div div div table tbody tr td span  ,Tony Juste,548,5505,69,17,0,13
+html body text div div div div div table tbody tr td span  ,WBN,625,5505,37,17,0,13
+html body text div div div div div table tbody tr td span span  ,"Tue, Jan 2, 14:00 GMT",11,5536,110,35,0,14
+html body text div div div div div table tbody tr td a span  ,Technical Analysis Theory and Practice - Premium users only,164,5536,362,35,0,14
+html body text div div div div div table tbody tr td span  ,Tony Juste,548,5545,69,17,0,13
+html body text div div div div div table tbody tr td span  ,WBN,625,5545,37,17,0,13
+html body text div div div div div table tbody tr td span span  ,"Wed, Jan 3, 11:00 GMT",11,5576,114,35,0,14
+html body text div div div div div table tbody tr td a span  ,What moves currencies?,164,5585,157,17,0,14
+html body text div div div div div table tbody tr td span  ,Tony Juste,548,5585,69,17,0,13
+html body text div div div div div table tbody tr td span  ,WBN,625,5585,37,17,0,13
+html body text div div div div div table tbody tr td span span  ,"Thu, Jan 4, 11:00 GMT",11,5616,111,35,0,14
+html body text div div div div div table tbody tr td a span  ,What moves currencies?,164,5625,157,17,0,14
+html body text div div div div div table tbody tr td span  ,Tony Juste,548,5625,69,17,0,13
+html body text div div div div div table tbody tr td span  ,WBN,625,5625,37,17,0,13
+html body text div div div div div span a span  ,[ View All ],8,5655,76,17,0,11
+html body text div div div div div h2 span  ,Community,8,5693,123,26,0,10
+html body text div div div div div p span  ,Brand new,8,5739,74,17,0,10
+html body text div div div div div p a strong span  ,FOREX FORUM,82,5739,124,17,0,12
+html body text div div div div div p strong span  ,: Join and start posting comments,206,5739,232,17,0,11
+html body text div div div div div p span  ,Open 24 hours a day. Discuss your trades with the community in the,8,5773,442,17,0,10
+html body text div div div div div p a strong span  ,FOREX CHAT,450,5773,105,17,0,12
+html body text div div div div div p span  ,Read and participate in our,8,5807,177,17,0,10
+html body text div div div div div p strong span  ,team members and partners weblogs,185,5807,256,17,0,11
+html body text div div div div div p span  ,:,441,5807,4,17,0,10
+html body text div div div div div ul li strong span  ,Tony Juste's,48,5841,88,17,0,12
+html body text div div div div div ul li a span  ,The Advisor weblog,136,5841,131,17,0,12
+html body text div div div div div ul li strong span  ,Ed Ponsi's,48,5859,76,17,0,12
+html body text div div div div div ul li a span  ,The FX Educator weblog,124,5859,162,17,0,12
+html body text div div div div div ul li strong span  ,John Putman's,48,5877,107,17,0,12
+html body text div div div div div ul li a span  ,FX Analytics weblog,155,5877,136,17,0,12
+html body text div div div div div ul li strong span  ,Jerry Furst's,48,5895,93,17,0,12
+html body text div div div div div ul li a span  ,1st on Forex weblog,141,5895,131,17,0,12
+html body text div div div div div ul li strong span  ,Wayne McDonell's,48,5913,132,17,0,12
+html body text div div div div div ul li a span  ,FxBootcamp Vlog,180,5913,119,17,0,12
+html body text div div div div div ul li span  ,FXstreet.com's company news in,48,5931,216,17,0,11
+html body text div div div div div ul li a strong span  ,The Informer Blog,264,5931,128,17,0,13
+html body text div div div div div h2 span  ,FXstreet.com Services,8,5969,227,26,0,10
+html body text div div div div div p a strong span  ,FXstreet.com Directory,8,6016,165,17,0,12
+html body text div div div div div p span  ,: Direct and immediate access to the main players operating in Foreign Exchange Market.,173,6016,574,17,0,10
+html body text div div div div div p a strong span  ,Forex DVDs,8,6050,89,17,0,12
+html body text div div div div div p span  ,": It's here, the new DVD from Ed Ponsi. A complete, comprehensive trading course!",97,6050,537,17,0,10
+html body text div div div div div p a strong span  ,Forex Newsletters,8,6084,127,17,0,12
+html body text div div div div div p span  ,: The entire Forex Market in your inbox -,135,6084,268,17,0,10
+html body text div div div div div p a span  ,Pick your subscription!,403,6084,150,17,0,11
+html body text div div div div div p span  ,Mislead by signals?,8,6118,131,17,0,10
+html body text div div div div div p a strong span  ,Forex Signals Tracker,139,6118,155,17,0,12
+html body text div div div div div p span  ,will help you to find the right path.,294,6118,224,17,0,10
+html body text div div div div div p span  ,Take a look at,8,6152,94,17,0,10
+html body text div div div div div p a strong span  ,Brokers section,102,6152,110,17,0,12
+html body text div div div div div p span  ,and choose the appropriate Brokerage firm to trade with.,212,6152,363,17,0,10
+html body text div div div div div p a strong span  ,Workshop,8,6186,75,17,0,12
+html body text div div div div div p span  ,and,83,6186,27,17,0,10
+html body text div div div div div p a strong span  ,Convention,110,6186,83,17,0,12
+html body text div div div div div p span  ,guides.,193,6186,46,17,0,10
+html body text div div div div div span span  ,Advertisement,8,6238,94,17,0,10
+html body text div div div div div div h2 span  ,2 pip euro-No Dealing Desk,8,6276,282,26,0,11
+html body text div div div div div div p span  ,Find out why customers prefer IBFX.,89,6323,241,17,0,11
+html body text div div div div div div p span  ,2 pip EUR/USD. Micro and Mini Lots.,8,6341,251,17,0,11
+html body text div div div div div div p span  ,"Free charting, news, trailing stops, and much more!",8,6359,330,17,0,11
+html body text div div div div div div p a span  ,Click Here,8,6377,74,17,0,12
+html body text div div div div div div p span  ,.,82,6377,4,17,0,11
+html body text div div div div div span span  ,Advertisement,8,6411,94,17,0,10
+html body text div div div div div div h2 span  ,MoneyFOREX.com - Forex Trading,8,6449,371,26,0,11
+html body text div div div div div div p span  ,Why trade with,86,6504,103,17,0,11
+html body text div div div div div div p a span  ,MoneyFOREX.com,189,6504,134,17,0,12
+html body text div div div div div div p span  ,? Commision Free Online Forex Trading that allows traders in trading the Forex and CFDs market.,8,6504,762,35,0,11
+html body text div div div div div div p a span  ,Click Here,8,6540,74,17,0,12
+html body text div div div div div div p span  ,.,82,6540,4,17,0,11
+html body text div div div div h2 span  ,Strip of the day,8,6578,159,26,0,9
+html body text div div div div p a span span  ,Strip Archive,8,6659,86,17,0,11
+html body text div ul li a span  ,About FXstreet.com,48,6727,131,17,0,8
+html body text div ul li a span  ,Terms and Conditions,48,6745,141,17,0,8
+html body text div ul li a span  ,Contact Us,48,6763,72,17,0,8
+html body text div ul li a span  ,RSS,448,6781,32,17,0,8
+html body text div ul li a span  ,Site Map,48,6799,58,17,0,8
+html body text div ul li a span  ,Home,48,6817,39,17,0,8
+html body text div div div h4 span  ,Rates,44,6915,33,14,0,8
+html body text div div div ul li a span  ,Streaming Forex Rates,84,6945,113,12,0,10
+html body text div div div ul li a span  ,Live Currency Rates,84,6957,100,12,0,10
+html body text div div div ul li a span  ,World Currencies,84,6969,85,12,0,10
+html body text div div div ul li a span  ,Exchange Rates Table,84,6981,110,12,0,10
+html body text div div div h4 span  ,Charts,44,7021,38,14,0,8
+html body text div div div ul li a span  ,Streaming Forex Charts,84,7051,117,12,0,10
+html body text div div div ul li a span  ,Live Charts Window,84,7063,98,12,0,10
+html body text div div div ul li a span  ,Currency Charts Console,84,7075,80,24,0,10
+html body text div div div ul li a span  ,Live Charts Panel,84,7099,87,12,0,10
+html body text div div div ul li span span  ,More in,84,7123,43,14,0,10
+html body text div div div ul li span a span span  ,Charts & Rates,84,7123,94,27,0,12
+html body text div div div ul li span span  ,section,120,7137,38,14,0,10
+html body text div div div h4 span  ,News,222,6915,32,14,0,8
+html body text div div div ul li a span  ,Latest Forex News,262,6945,92,12,0,10
+html body text div div div ul li a span  ,Editor's Selection,262,6957,85,12,0,10
+html body text div div div ul li a span  ,Currency Focus,262,6969,78,12,0,10
+html body text div div div ul li a span  ,Central Banks,262,6981,69,12,0,10
+html body text div div div ul li a strong span  ,More ...,262,6993,39,12,0,11
+html body text div div div h4 span  ,Live,222,7033,24,14,0,8
+html body text div div div ul li a span  ,Live Sessions Schedule,262,7063,117,12,0,10
+html body text div div div ul li a span  ,Forex Showroom,262,7075,84,12,0,10
+html body text div div div ul li a span  ,Forex Chat,262,7087,55,12,0,10
+html body text div div div ul li a strong span  ,More ...,262,7099,39,12,0,11
+html body text div div div h4 span  ,Reports,401,6915,45,14,0,8
+html body text div div div ul li a span  ,Fundamental Reports,441,6945,105,12,0,10
+html body text div div div ul li a span  ,Fundamental Market View,441,6957,100,24,0,10
+html body text div div div ul li a span  ,World Interest Rates,441,6981,100,12,0,10
+html body text div div div ul li a span  ,Economic Indicators Reports,441,6993,99,24,0,10
+html body text div div div ul li a span  ,Interest Rates Reports,441,7017,110,12,0,10
+html body text div div div ul li a span  ,Technical Analysis Reports,441,7029,89,24,0,10
+html body text div div div ul li a span  ,Technical Market View,441,7053,109,12,0,10
+html body text div div div ul li a span  ,Forecasts,441,7065,48,12,0,10
+html body text div div div ul li a span  ,Trading Strategy,441,7077,81,12,0,10
+html body text div div div ul li a span  ,Signals,441,7089,36,12,0,10
+html body text div div div ul li span span  ,More in,441,7113,43,14,0,10
+html body text div div div ul li span a span span  ,Technical,484,7113,54,14,0,12
+html body text div div div ul li span span  ,and,441,7127,23,14,0,10
+html body text div div div ul li span a span span  ,Fundamental,464,7127,75,14,0,12
+html body text div div div ul li span span  ,sections,441,7141,44,14,0,10
+html body text div div div h4 span  ,Other,579,6915,32,14,0,8
+html body text div div div ul li a span  ,Looking for a Broker?,619,6945,105,12,0,10
+html body text div div div ul li a span  ,Directory,619,6957,44,12,0,10
+html body text div div div ul li a span  ,Futures,619,6969,37,12,0,10
+html body text div div div ul li a span  ,Premium section,619,6981,82,12,0,10
+html body text div div div ul li a span  ,Workshops and Conventions,619,6993,76,24,0,10
+html body text div div div ul li a span  ,Forex Books,619,7017,62,12,0,10
+html body text div div div a span span  ,Full Site Map,579,7076,68,12,0,9
+html body text div div span  ,Note: All information on this page is subject to change. The use of this website constitutes acceptance of our user agreement. Please read our privacy policy and legal disclaimer.,8,6938,767,257,0,6
+html body text div div span  ,Opinions expressed at FXstreet.com are those of the individual authors and do not necessarily represent the opinion of FXstreet.com or its management.,8,7214,757,35,0,6
+html body text div div strong span  ,Risk Disclosure:,8,7268,115,17,0,7
+html body text div div span  ,"Trading foreign exchange on margin carries a high level of risk, and may not be suitable for all investors. The high degree of leverage can work against you as well as for you. Before deciding to invest in foreign exchange you should carefully consider your investment objectives, level of experience, and risk appetite. The possibility exists that you could sustain a loss of some or all of your initial investment and therefore you should not invest money that you cannot afford to lose. You should be aware of all the risks associated with foreign exchange trading, and seek advice from an independent financial advisor if you have any doubts.",8,7268,738,107,0,6
+html body text div div span  ,"©2006 ""FXstreet.com. The Forex Market"" All Rights Reserved.",8,7394,409,17,0,6

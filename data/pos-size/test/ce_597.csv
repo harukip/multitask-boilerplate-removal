@@ -1,0 +1,496 @@
+tag,content,x,y,width,height,label,depth
+html body text div div div div div ul li a span  ,User Login,48,8,72,17,0,12
+html body text div div div div div ul li a span  ,Lost Password?,48,26,101,17,0,12
+html body text div div span span  ,November 1st-30th,8,247,124,17,0,7
+html body text div div ul li a span  ,Home,48,299,39,17,0,9
+html body text div div ul li table tbody tr td ul li a span  ,Breaking News,91,320,99,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Daily NaNo Q&A,91,338,117,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,WrimoRadio,91,356,83,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,1000 Words,91,374,77,17,0,15
+html body text div div ul li a span  ,About,48,395,40,17,0,9
+html body text div div ul li table tbody tr td ul li a span  ,What is NaNoWriMo?,91,416,145,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,How it Works,91,434,89,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,History,91,452,48,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Becoming an ML,91,470,113,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Letter to Parents,91,488,106,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Brought To You By...,91,506,136,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Staff,91,524,31,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Contact,91,542,50,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Press Clippings,91,560,100,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Media Kit,91,578,65,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Help Wanted,91,596,83,17,0,15
+html body text div div ul li a span  ,Authors,48,617,52,17,0,9
+html body text div div ul li table tbody tr td ul li a span  ,Winners!,91,638,59,17,0,15
+html body text div div ul li a span  ,My NaNoWriMo,48,659,111,17,0,9
+html body text div div ul li a span  ,FAQs,48,683,37,17,0,9
+html body text div div ul li table tbody tr td ul li a span  ,The Basics,91,704,71,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,The Rules,91,722,65,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,The Community,91,740,105,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,The Finances,91,758,86,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,NaNo Technology,91,776,117,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Help Desk,91,794,68,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Cybele's Guide to the Forums,91,812,190,17,0,15
+html body text div div ul li a span  ,Fun Stuff,48,833,61,17,0,9
+html body text div div ul li table tbody tr td ul li a span  ,NaNoWriMo Blog,91,854,120,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Participant Icons,91,872,108,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Flyers for Downloading,91,890,154,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Flickr,91,908,38,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Archives,91,926,58,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Word Count API,91,944,107,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Word Count Widgets,91,962,135,17,0,15
+html body text div div ul li a span  ,Donation/Store,48,983,98,17,0,9
+html body text div div ul li table tbody tr td ul li a span  ,Donations,91,1004,66,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Store,91,1022,34,17,0,15
+html body text div div ul li a span  ,Forums,48,1043,49,17,0,9
+html body text div div ul li a span  ,Our Programs,48,1061,90,17,0,9
+html body text div div ul li table tbody tr td ul li a span  ,Libraries in Southeast Asia,91,1082,173,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,Young Writers Program,91,1100,152,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,AlphaSmart + Laptop Loaners,91,1118,195,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,The Sponsorship Program,91,1136,167,17,0,15
+html body text div div ul li table tbody tr td ul li a span  ,NaNoWriMo 2006 Budget,91,1154,171,17,0,15
+html body text div div h1 a span  ,Title generator?,8,1196,221,36,1,8
+html body text div div table tbody tr td a span  ,National Novel Writing Month Forum Index,11,1259,289,17,0,11
+html body text div div table tbody tr td span  ,->,300,1259,18,17,0,10
+html body text div div table tbody tr td a span  ,Plot Doctoring,11,1259,333,35,0,11
+html body text div div table tbody tr td select option  ,Topic options,0,0,0,0,0,11
+html body text div div table tbody tr td select option  ,Print Topic,0,0,0,0,0,11
+html body text div div table tbody tr td select option  ,View mode,0,0,0,0,0,11
+html body text div div table tbody tr td select option  ,Threaded,0,0,0,0,0,11
+html body text div div table tbody tr td select option  ,Compact,0,0,0,0,0,11
+html body text div div table tbody tr td select option  ,Oldest First,0,0,0,0,0,11
+html body text div div table tbody tr td a span  ,Login To Post,522,1306,90,17,0,11
+html body text div div table tbody tr td div select option  ,Mutant Goldfish,0,0,0,0,0,12
+html body text div div table tbody tr td div select option  ,Profile,0,0,0,0,0,12
+html body text div div table tbody tr td div span  ,Re: Title generator?,161,1337,127,17,0,11
+html body text div div table tbody tr td div a span  ,#3,761,1337,16,17,0,12
+html body text div div table tbody tr td div span  ,50007 / 50000 words,8,1388,136,17,1,11
+html body text div div table tbody tr td div span span  ,Joined:,8,1406,46,17,1,12
+html body text div div table tbody tr td div span  ,11/9 2:22:34,8,1424,81,17,1,11
+html body text div div table tbody tr td div span span  ,From,8,1442,39,17,1,12
+html body text div div table tbody tr td div span  ,Pennsylvannia,47,1442,93,17,1,11
+html body text div div table tbody tr td div span span  ,Posts:,8,1460,42,17,1,12
+html body text div div table tbody tr td div span  ,240,50,1460,24,17,1,11
+html body text div div table tbody tr td div span  ,Posted on: 11/18 16:53:37,8,1478,107,35,1,11
+html body text div div table tbody tr td div span  ,"Thank you so much! I am at a loss of a title, too. Hopefully, those generators will give me something to build on.",161,1390,574,35,1,11
+html body text div div table tbody tr td div span  ,_________________,161,1426,136,17,0,11
+html body text div div table tbody tr td div span  ,"Use of word ""the:"" 3,171.",161,1462,164,17,1,11
+html body text div div table tbody tr td div select option  ,danieljameswest,0,0,0,0,0,12
+html body text div div table tbody tr td div select option  ,Profile,0,0,0,0,0,12
+html body text div div table tbody tr td div span  ,Re: Title generator?,161,1536,127,17,1,11
+html body text div div table tbody tr td div a span  ,#2,761,1536,16,17,0,12
+html body text div div table tbody tr td div span  ,27994 / 50000 words,8,1573,136,17,1,11
+html body text div div table tbody tr td div span span  ,Joined:,8,1591,46,17,1,12
+html body text div div table tbody tr td div span  ,2005/11/5 20:50,8,1609,105,17,1,11
+html body text div div table tbody tr td div span span  ,From,8,1627,39,17,1,12
+html body text div div table tbody tr td div span  ,"Newcaslte, England",8,1627,109,35,1,11
+html body text div div table tbody tr td div span span  ,Posts:,8,1663,42,17,1,12
+html body text div div table tbody tr td div span  ,18,50,1663,16,17,1,11
+html body text div div table tbody tr td div span  ,Posted on: 11/18 16:51:13,8,1681,107,35,1,11
+html body text div div table tbody tr td div span  ,A quick search on google reveals:,161,1555,216,17,1,11
+html body text div div table tbody tr td div span  ,And this fantasy title generator:,161,1663,203,17,1,11
+html body text div div table tbody tr td div span  ,And there's loads more ...,161,1735,163,17,1,11
+html body text div div table tbody tr td div span  ,_________________,161,1753,136,17,0,11
+html body text div div table tbody tr td div i span span span span  ,Daniel James West,161,1771,155,20,1,15
+html body text div div table tbody tr td div small span  ,Edited by danieljameswest on 2006/11/18 16:52:29,498,1825,274,15,0,12
+html body text div div table tbody tr td div select option  ,Sashakat,0,0,0,0,0,12
+html body text div div table tbody tr td div select option  ,Profile,0,0,0,0,0,12
+html body text div div table tbody tr td div span  ,Title generator?,161,1868,101,17,1,11
+html body text div div table tbody tr td div a span  ,#1,761,1868,16,17,0,12
+html body text div div table tbody tr td div span  ,No Word Count Entered.,8,1887,102,35,1,11
+html body text div div table tbody tr td div span span  ,Joined:,8,1923,46,17,1,12
+html body text div div table tbody tr td div span  ,2005/11/4 19:06,8,1941,105,17,1,11
+html body text div div table tbody tr td div span span  ,Posts:,8,1959,42,17,1,12
+html body text div div table tbody tr td div span  ,8,50,1959,8,17,1,11
+html body text div div table tbody tr td div span  ,Posted on: 11/18 16:37:10,8,1977,107,35,1,11
+html body text div div table tbody tr td div span  ,"I've seen sites that have name generators or even plot generators. Is there a title generator anyone knows of? I am absolutely, completely at a loss for a title.",161,1932,571,35,1,11
+html body text div div table tbody tr td a span  ,Login To Post,273,2047,90,17,0,11
+html body text div div a span  ,Toggle Fast Reply,8,2077,117,17,0,7
+html body text div div div div form table tbody tr th span  ,Post Reply,356,2097,73,17,0,13
+html body text div div div div form table tbody tr td span  ,Account,10,2118,54,17,0,13
+html body text div div div div form table tbody tr td span  ,Name,99,2118,42,17,0,13
+html body text div div div div form table tbody tr td span  ,Password,141,2118,66,17,0,13
+html body text div div div div form table tbody tr td span  ,Login,207,2118,38,17,0,13
+html body text div div div div form table tbody tr td span  ,Message:,10,2139,60,17,0,13
+html body text div div table tbody tr td form select option  ,-- Select a Forum --,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,NaNo Tips & Strategies,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Character and Plot Realism Q&A,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Plot Doctoring,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,"-- Reaching 50,000!",0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Life After NaNoWriMo,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,"NaNoWriMo, Etc.",0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,"-- Rules, Regulations, and Other Minutiae",0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Site and Message Board Feedback and Suggestions,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Tech Help,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,Genre Lounges,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Chick Lit,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Erotic Fiction,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Fantasy,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Historical Fiction,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Horror & Thriller,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Humor & Satire,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Literary Fiction,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Mystery & Suspense,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,"-- Religious, Spiritual & New Age",0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Romance,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Science Fiction,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Young Adult & Youth,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Other Genres,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,NaNo Groups,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- NaNoWriMo Alumni Lounge,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Newbies!,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Writing Groups and Clubs,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Young Novelists,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,Life During NaNo,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,"-- Games, Diversions, and Other Exciting Forms of Novel Procrastination",0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- NaNoWriMo Ate My Soul,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- This is Going Better Than I'd Hoped,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,"-- Word Wars, Prompts & Sprints",0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,Resources & Support,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- All-Ages Coffee House,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Helpful Orgs and Sites,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,"-- Marketing, self-promotion and stuff for sale",0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- NaNo Soundtracks,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- NaNo Technology,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- The Polling Booth,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Writing 101,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,Off Topic,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Off Topic,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,Regional Lounges - USA,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Alabama :: Birmingham,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Alabama :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Alabama :: Mobile/Baldwin,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Alabama :: North,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Alaska,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Arizona :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Arizona :: Flagstaff,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Arizona :: Phoenix,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Arizona :: Tucson,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Arkansas,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: Antelope Valley,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: Central Valley,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: East Bay,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: Inland Empire,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: Lompoc,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: Los Angeles,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: Marin-Sonoma,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: Monterey,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: North San Diego County,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: Orange County,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: Sacramento,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: San Diego,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: San Francisco,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: Santa Barbara,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: Santa Clarita,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: Santa Cruz,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: SF Peninsula,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: South Bay,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- California :: Stockton,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Colorado :: Boulder,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Colorado :: Colorado Springs,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Colorado :: Denver,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Colorado :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Colorado :: Fort Collins,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Colorado :: Greeley,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Connecticut :: East,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Connecticut :: North,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Connecticut :: Shoreline,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Delaware,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- District of Columbia,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Florida :: Daytona Beach,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Florida :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Florida :: Ft. Lauderdale,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Florida :: Gainesville,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Florida :: Jacksonville,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Florida :: Miami,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Florida :: Northwest,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Florida :: Orlando,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Florida :: Palm Beaches,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Florida :: Southwest,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Florida :: St. Augustine,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Florida :: Tallahassee,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Florida :: Tampa,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Florida :: Vero Beach,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Georgia :: Athens,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Georgia :: Atlanta,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Georgia :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Georgia :: Macon,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Hawaii,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Idaho :: Boise,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Idaho :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Illinois :: Champaign-Urbana,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Illinois :: Chicago,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Illinois :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Illinois :: Naperville,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Illinois :: Peoria,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Illinois :: Southern,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Indiana :: Bloomington,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Indiana :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Indiana :: Evansville,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Indiana :: Indianapolis,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Indiana :: North,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Indiana :: Notre Dame,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Indiana :: Richmond,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Indiana :: Terre Haute,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Iowa :: Des Moines,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Iowa :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Iowa :: Iowa City,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Iowa :: Sioux City,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Kansas,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Kentucky :: Bowling Green,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Kentucky :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Kentucky :: Lexington,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Kentucky :: Louisville,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Louisiana :: Baton Rouge,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Louisiana :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Louisiana :: Lafayette,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Louisiana :: New Orleans,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Maine,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Maryland,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Massachusetts :: Berkshires,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Massachusetts :: Boston,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Massachusetts :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Massachusetts :: Western Mass,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Massachusetts :: Worcester,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Michigan :: Ann Arbor,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Michigan :: Detroit,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Michigan :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Michigan :: Flint,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Michigan :: Grand Rapids,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Michigan :: Lansing,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Michigan :: Marquette and the UP,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Minnesota :: Duluth,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Minnesota :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Minnesota :: Goodhue County,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Minnesota :: Rochester,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Minnesota :: Saint Cloud,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Minnesota :: Twin Cities,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Mississippi,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Missouri :: Columbia,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Missouri :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Missouri :: Fulton,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Missouri :: Kansas City,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Missouri :: Springfield,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Missouri :: St. Louis,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Montana,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Nebraska,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Nevada :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Nevada :: Las Vegas,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New Hampshire,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New Jersey :: Central,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New Jersey :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New Jersey :: Northeast,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New Jersey :: Northwest,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New Jersey :: South,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New Mexico,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New York :: Albany,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New York :: Brooklyn and Queens,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New York :: Buffalo,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New York :: Dunkirk,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New York :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New York :: Ithaca,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New York :: Long Island,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New York :: Mohawk Valley,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New York :: New York City,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New York :: Plattsburgh,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New York :: Rochester,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- North Carolina :: Asheville,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- North Carolina :: Chapel Hill,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- North Carolina :: Charlotte,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- North Carolina :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- North Carolina :: Fayetteville,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- North Carolina :: Raleigh-Durham,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- North Dakota,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ohio :: Ada,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ohio :: Canton/Akron,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ohio :: Cincinnati,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ohio :: Cleveland,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ohio :: Columbus,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ohio :: Dayton,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ohio :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ohio :: North Central,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ohio :: Toledo,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Oklahoma,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Oregon :: Albany,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Oregon :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Oregon :: Eugene,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Oregon :: Newport,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Oregon :: Portland,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Oregon :: Salem,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Pennsylvania :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Pennsylvania :: Lehigh Valley,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Pennsylvania :: Norristown,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Pennsylvania :: Philadelphia,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Pennsylvania :: Pittsburgh,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Pennsylvania :: Williamsport,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Puerto Rico,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Rhode Island,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- South Carolina :: Charleston,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- South Carolina :: Columbia,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- South Carolina :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- South Carolina :: Greenville,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- South Dakota,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Tennessee :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Tennessee :: Knoxville,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Tennessee :: Memphis,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Tennessee :: Nashville,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Texas :: Amarillo,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Texas :: Austin,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Texas :: Bell County,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Texas :: Bryan-College Station,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Texas :: Corpus Christi,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Texas :: Dallas/Ft. Worth,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Texas :: El Paso,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Texas :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Texas :: Galveston,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Texas :: Houston,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Texas :: Lubbock,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Texas :: Odessa,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Texas :: San Antonio,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Texas :: Waco,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Utah :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Utah :: Ogden,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Utah :: Salt Lake City,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Vermont,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Virginia :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Virginia :: Northern,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Virginia :: Richmond,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Washington :: Bellingham,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Washington :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Washington :: Olympia,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Washington :: Pullman,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Washington :: Seattle,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Washington :: Spokane,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Washington :: Tacoma,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Washington :: Tri-Cities,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Washington :: Vancouver,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- West Virginia :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- West Virginia :: Huntington,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Wisconsin :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Wisconsin :: Madison,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Wisconsin :: Milwaukee & Waukesha,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Wyoming,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,Regional Lounges - Canada,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Alberta :: Calgary,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Alberta :: Edmonton,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Alberta :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- British Columbia :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- British Columbia :: Vancouver,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- British Columbia :: Victoria,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Manitoba,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New Brunswick and Prince Edward Island,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Newfoundland,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Nova Scotia,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ontario :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ontario :: Hamilton,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ontario :: Kingston,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ontario :: London,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ontario :: Muskoka,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ontario :: Niagara,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ontario :: North Bay,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ontario :: Ottawa,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ontario :: Sudbury,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ontario :: Toronto,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ontario :: Windsor,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Quebec :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Quebec :: Montreal,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Quebec :: Quebec,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Saskatchewan,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,"Regional Lounges - UK, Ireland & Europe",0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Czech Republic,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Denmark,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Deutschland und Ã–sterreich,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- England :: Birmingham,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- England :: Brighton,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- England :: Cambridge,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- England :: Derbyshire,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- England :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- England :: Gloucester & Cheltenham,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- England :: London,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- England :: Manchester,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- England :: Newcastle,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- England :: Nottingham,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- England :: Oxfordshire,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- England :: York & Leeds,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Estonia,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Finland,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- France,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Holland & Belgium,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Iceland,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ireland :: Dublin,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Ireland :: Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Luxembourg,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Norway,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Scandinavia,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Scotland,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Sweden,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Switzerland,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Wales,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,Regional Lounges - Australia and New Zealand,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Adelaide,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Brisbane,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Canberra and the ACT,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Darwin,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Margaret River,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Melbourne,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- New Zealand,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Perth,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Sydney,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,Regional Lounges - Asia,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- China,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Japan,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Korea,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Malaysia,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Philippines,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Singapore,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Sri Lanka,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Taiwan,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,Regional Lounges - Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Africa and Elsewhere,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Bahamas,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Brazil,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Caribbean,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Egypt,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Israel,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,"-- Mexico, Central and South America",0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- South Africa,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Tunisia,0,0,0,0,0,12
+html body text div div table tbody tr td form select option  ,-- Turkey,0,0,0,0,0,12
+html body text div p b span  ,76,23,2373,20,17,0,7
+html body text div p span  ,user(s) are online (,43,2373,124,17,0,6
+html body text div p b span  ,48,167,2373,20,17,0,7
+html body text div p span  ,user(s) are browsing,187,2373,135,17,0,6
+html body text div p b span  ,Forums,322,2373,57,17,0,7
+html body text div p span  ,),379,2373,6,17,0,6
+html body text div p span  ,Members: 23,23,2391,85,17,0,6
+html body text div p span  ,Guests: 53,23,2409,68,17,0,6
+html body text div p a span  ,View online users,23,2427,115,17,0,7
+html body text div div p a span  ,Home,8,2479,43,17,0,8
+html body text div div p span  ,::,51,2479,12,17,0,7
+html body text div div p a span  ,About,63,2479,44,17,0,8
+html body text div div p span  ,::,107,2479,12,17,0,7
+html body text div div p a span  ,Authors,119,2479,56,17,0,8
+html body text div div p span  ,::,175,2479,13,17,0,7
+html body text div div p a span  ,My NaNoWriMo,188,2479,115,17,0,8
+html body text div div p span  ,::,302,2479,12,17,0,7
+html body text div div p a span  ,FAQs,315,2479,41,17,0,8
+html body text div div p span  ,::,356,2479,13,17,0,7
+html body text div div p a span  ,Fun Stuff,369,2479,65,17,0,8
+html body text div div p span  ,::,434,2479,13,17,0,7
+html body text div div p a span  ,Donation/Store,447,2479,102,17,0,8
+html body text div div p span  ,::,549,2479,12,17,0,7
+html body text div div p a span  ,Forums,561,2479,53,17,0,8
+html body text div div p span  ,::,614,2479,13,17,0,7
+html body text div div p a span  ,Our Programs,627,2479,91,17,0,8
+html body text div div p a span  ,Privacy Policy,8,2497,98,17,0,8
+html body text div div p span  ,::,106,2497,12,17,0,7
+html body text div div p a span  ,Terms and Conditions,118,2497,145,17,0,8
+html body text div div p span  ,::,263,2497,13,17,0,7
+html body text div div p a span  ,Returns Policy,276,2497,95,17,0,8
+html body text div div p span  ,Copyright Â© 2006 The Office of Letters and Light :: All posted novel excerpts remain copyright their authors.,8,2515,715,17,0,7
+html body text div div p span  ,Powered by XOOPS 2.0.13 Â© 2001-2006,8,2533,281,17,0,7
+html body text div div p a span  ,The XOOPS Project,289,2533,131,17,0,8

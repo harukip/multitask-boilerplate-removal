@@ -1,0 +1,98 @@
+tag,content,x,y,width,height,label,depth
+html body text table tbody tr td ul li a span  ,Current Topics,48,76,95,17,0,11
+html body text table tbody tr td ul li a span  ,Learning Materials,48,94,122,17,0,11
+html body text table tbody tr td ul li a span  ,Data,48,112,30,17,0,11
+html body text table tbody tr td ul li a span  ,Company Info,48,130,93,17,0,11
+html body text table tbody tr td ul li a span  ,Virtual Worlds,48,148,94,17,0,11
+html body text table tbody tr td ul li a span  ,Reference,48,166,65,17,0,11
+html body text table tbody tr td ul li a span  ,Educators,48,184,64,17,0,11
+html body text table tbody tr td span span  ,You are here:,16,220,89,17,0,9
+html body text table tbody tr td a span  ,Home,105,220,44,17,0,9
+html body text table tbody tr td span  ,>,149,220,13,17,0,8
+html body text table tbody tr td a span  ,Educators,162,220,68,17,0,9
+html body text table tbody tr td span  ,>,230,220,13,17,0,8
+html body text table tbody tr td a span  ,Business Studies,243,220,112,17,0,9
+html body text table tbody tr td span  ,>,355,220,13,17,0,8
+html body text table tbody tr td a span  ,Marketing,368,220,70,17,0,9
+html body text table tbody tr td span  ,>Market Research - Activity,438,220,183,17,0,8
+html body text table tbody tr td div div ul li strong span  ,Level 2,48,307,49,17,0,13
+html body text table tbody tr td div div ul li ul li a span  ,Business/Economics,88,325,132,17,0,15
+html body text table tbody tr td div div ul li ul li a span span  ,»,88,343,8,17,0,16
+html body text table tbody tr td div div ul li strong span  ,16-19,48,361,37,17,0,13
+html body text table tbody tr td div div ul li ul li a span  ,Business Studies,88,379,112,17,0,15
+html body text table tbody tr td div div ul li ul li a span span  ,»,200,379,8,17,0,16
+html body text table tbody tr td div div ul li ul li ul li a span  ,A2,128,397,24,17,0,17
+html body text table tbody tr td div div ul li ul li ul li a span span  ,»,152,397,8,17,0,18
+html body text table tbody tr td div div ul li ul li ul li a span  ,AS,128,415,24,17,0,17
+html body text table tbody tr td div div ul li ul li ul li a span span  ,»,152,415,8,17,0,18
+html body text table tbody tr td div div ul li ul li ul li a span  ,BTEC,128,433,45,17,0,17
+html body text table tbody tr td div div ul li ul li ul li a span span  ,»,173,433,8,17,0,18
+html body text table tbody tr td div div ul li ul li a span  ,Economics,88,451,75,17,0,15
+html body text table tbody tr td div div ul li ul li a span span  ,»,163,451,8,17,0,16
+html body text table tbody tr td div div ul li ul li ul li a span  ,A2,128,469,24,17,0,17
+html body text table tbody tr td div div ul li ul li ul li a span span  ,»,152,469,8,17,0,18
+html body text table tbody tr td div div ul li ul li ul li a span  ,AS,128,487,24,17,0,17
+html body text table tbody tr td div div ul li ul li ul li a span span  ,»,152,487,8,17,0,18
+html body text table tbody tr td div div ul li ul li a span  ,BTEC Travel and Tourism,88,505,113,35,0,15
+html body text table tbody tr td div div ul li ul li a span span  ,»,145,523,8,17,0,16
+html body text table tbody tr td div div ul li ul li strong span  ,HE,88,541,23,17,0,15
+html body text table tbody tr td div div ul li ul li ul li a span  ,Resources,128,559,70,17,0,17
+html body text table tbody tr td div div ul li ul li ul li a span span  ,»,198,559,8,17,0,18
+html body text table tbody tr td div div form p a span  ,Advanced,221,241,69,17,0,13
+html body text table tbody tr td div div form p a label span  ,Search,290,241,43,17,0,14
+html body text table tbody tr td h2 span  ,Market Research - Activity,221,475,277,26,1,9
+html body text table tbody tr td p span  ,"Below is a list of predictions made by Mintel's Global New Products Database for the year 2003. When looking at these, think about how successful the predictions have been. Mintel are a leading provider of information on market trends for businesses throughout the world.",221,522,549,71,0,9
+html body text table tbody tr td div h3 span  ,Mintel's Global New Products Database Trend Predictions for 2003,221,613,536,21,1,10
+html body text table tbody tr td div p span  ,Some things to look forward to! The predictions by Mintel's Global New Products Database for what will be hot or not in 2003.,221,653,526,35,1,10
+html body text table tbody tr td div h4 span  ,Cuisine of the year,221,711,128,17,1,10
+html body text table tbody tr td div p span  ,"Asian. Easy to prepare and healthy, Asian foods will experience a surge in popularity in 2003. Always flying just under the radar by being available as take-out and at some deli counters, the appeal for Asian-inspired foods will propel mass production by manufacturers. Frozen meals and meal kits (perhaps in the refrigerated section because of the heavy veggie component) will be the first to show development.",221,750,550,89,1,10
+html body text table tbody tr td div h4 span  ,Look of the year,221,861,112,17,1,10
+html body text table tbody tr td div p span  ,"Simplicity. Clean graphics with minimal print on packs will be what hooks consumers in 2003. And manufacturers won't have to figure how to fit every 'low fat, low calorie, you-won't-gain-an-ounce-by-eating-this-product' claim on a package.",221,900,551,53,1,10
+html body text table tbody tr td div h4 span  ,Flavour of the year,221,976,131,17,1,10
+html body text table tbody tr td div p span  ,"Citrus. Nothing new, but getting extremely popular. And everyone needs vitamin C. Runner up - Wasabi! (Wasabi is a plant, the extracts of which are used as a condiment to flavour dishes such as sushi.)",221,1015,549,53,1,10
+html body text table tbody tr td div h4 span  ,Scent of the year,221,1090,114,17,1,10
+html body text table tbody tr td div p span  ,"Vanilla. This traditional scent is popping up everywhere in skincare, fragrances, and even teas. We'll be seeing more of a good thing.",221,1129,537,35,1,10
+html body text table tbody tr td div h4 span  ,Ingredient of the year,221,1187,149,17,1,10
+html body text table tbody tr td div p span  ,"White tea. Green tea was all the rage for the last three years; now it is white tea's turn. It's already appeared in skincare products and, of course, tea. Expect this ingredient, which is chock-full of beneficial anti-oxidants, to be popping up in vitamins and healthcare products, haircare, and other food products.",221,1226,550,71,1,10
+html body text table tbody tr td div h4 span  ,Kids with mature tastebuds,221,1319,189,17,1,10
+html body text table tbody tr td div p span  ,"Children generate billions in business and manufacturers have tuned in. In 2001 we saw 'mystery' ketchup colors, blue french fries, and, most recently, green pancake syrup from the Mrs Butterworth's brand. In essence, products that were already kid-friendly got more so. In 2002, however, we expect to find that kids are going to be the target for products that have been considered only to be appealing to the adult market. For example, coffee. Coffee drinkers are getting younger, and with the growing appeal of RTD iced coffees and the mammoth spread of Starbucks, we predict that there will soon be a kid-targeted coffee drink.",221,1358,554,143,1,10
+html body text table tbody tr td div h4 span  ,Going the distance,221,1524,127,17,1,10
+html body text table tbody tr td div div p span  ,"Image: Lizzy Jagger promotes a new lipstick at Bloomingdales, Los Angeles, 2003. Title: Lizzy Jagger. Getty Images available from",221,1871,194,89,0,11
+html body text table tbody tr td div div p a span  ,Education Image Gallery,221,1961,161,17,0,12
+html body text table tbody tr td div p span  ,"Ten years ago, the newest fad was having your make up tattooed to your face. It never seemed to catch on, but it did highlight the desire women have for longer-lasting, no-mess cosmetics. We now have long-lasting lipsticks and a three-day wear last tint but the next area up for semi-permanence is fragrances. Potent, but not overpowering, scents will last until you take them off.",221,1995,551,89,1,10
+html body text table tbody tr td div h4 span  ,Beverages crossover,221,2106,138,17,1,10
+html body text table tbody tr td div p span  ,"We've seen a surge in amorphous beverage and dairy drinks of late. Is it a soda, a juice, a milk drink, a meal replacement beverage? This trend is primed to burst like a shaken can of soda in 2003. Manufacturers are playing with all sorts of products with niche appeal. Perhaps juice-flavored milk packed with nutrients to replace a meal? A yogurt drink with fizz?",221,2146,546,89,1,10
+html body text table tbody tr td div h4 span  ,Puppy love,221,2257,76,17,1,10
+html body text table tbody tr td div p span  ,"Are pets people? Expect to see gourmet cat and dog food, perhaps the kind you store in the refrigerator next to your own food, to be mass produced in 2003. We've seen bakery kits that allow owners to make their own doggie bones and premium-priced single-servings of pet food.",221,2296,542,71,1,10
+html body text table tbody tr td div h4 span  ,The universal sauce,221,2389,135,17,1,10
+html body text table tbody tr td div p span  ,"Spiked ketchup, mixed-up mayo - we've seen these seasoned products hit the market in 2002. And with each new product we see, we wonder when we will find the 'universal sauce'. Something like a hot and spicy, but mild-mannered sauce that can serve every application and please everyone. We soon won't need more than one bottle in the fridge.",221,2429,554,89,1,10
+html body text table tbody tr td div h4 span  ,Downsizing carbs,221,2540,120,17,1,10
+html body text table tbody tr td div p span  ,"Manufacturers will be busy reformulating everything they can to be low in carbohydrates. Anheuser-Busch did it with Michelob Ultra and a new reformulation of Doc's Hard Lemonade and now the Atkins diet is getting even more buzz as consumers wonder whether this whole low fat, low calorie thing they've been cottoning to for the last ten years is the right choice. Expect to see the 'low carbohydrate' claim push over the 'low fat' claim.",221,2579,553,107,1,10
+html body text table tbody tr td div p span  ,Image: A shopper in a low carb section of a supermarket. Title: Low Carb Food Stores Gain Popularity. Copyright: Getty Images available from,221,3025,552,35,0,10
+html body text table tbody tr td div p a span  ,Education Image Gallery,590,3043,160,17,0,11
+html body text table tbody tr td div h4 span  ,Beverages get hip,221,3082,120,17,1,10
+html body text table tbody tr td div p span  ,"This year was packed with events and promotions that were geared toward the urban market. Sprite held a Summer Liquid Mix Tour that offered entertainment, fashion, and music, SoBe sponsored the ESPN Rock 'N' Rip tour in early 2002, and we're all familiar with those popular Pepsi commercials and ads. We expect more of a musical tie-in with alcoholic beverages next year, as artists continue to incorporate them into their songs and videos. And with hip-hop mogul Jay-Z recently purchasing a brand of vodka, this prediction will prosper.",221,3122,547,125,1,10
+html body text table tbody tr td div p span  ,"Source: Adapted from Mintel, reproduced with permission. Established in 1972, Mintel incorporates Mintel consumer intelligence,",221,3264,513,35,0,10
+html body text table tbody tr td div p a span  ,global new products database,546,3282,193,17,0,11
+html body text table tbody tr td div p span  ,", and Mintel consultancy. Mintel is an independent research company which operates offices in Chicago, London, Munich and Sydney. For more information on Mintel, please visit",221,3282,549,71,0,10
+html body text table tbody tr td div p a span  ,www.mintel.com,297,3336,114,17,0,11
+html body text table tbody tr td div p span  ,.,411,3336,4,17,0,10
+html body text table tbody tr td div h3 span  ,The Task,221,3406,73,21,0,10
+html body text table tbody tr td div ol li span  ,Consider the extent to which this information might be useful to the following companies:,261,3447,500,35,0,11
+html body text table tbody tr td div ol li ul li span  ,Frozen and convenience food manufacturers,301,3483,284,17,0,13
+html body text table tbody tr td div ol li ul li span  ,Supermarket retailers,301,3501,137,17,0,13
+html body text table tbody tr td div ol li ul li span  ,Soft drink manufacturers,301,3519,160,17,0,13
+html body text table tbody tr td div ol li ul li span  ,Potato farmers,301,3537,94,17,0,13
+html body text table tbody tr td div ol li ul li span  ,Health and beauty products retailers,301,3555,231,17,0,13
+html body text table tbody tr td div ol li strong span  ,(18 Marks),261,3573,76,17,0,12
+html body text table tbody tr td div ol li span  ,Select one of the companies above and explain what the impact of such information might be on their approach to their marketing strategy.,261,3591,457,35,0,11
+html body text table tbody tr td div ol li strong span  ,(10 Marks),693,3609,76,17,0,12
+html body text table tbody tr td div ol li span  ,What other information would a company wish to have before making any firm decisions on changing its marketing approach?,261,3627,509,35,0,11
+html body text table tbody tr td div ol li strong span  ,(12 Marks),565,3645,76,17,0,12
+html body text div ul li a span  ,© 1996-2006 Biz/ed,48,3695,131,17,0,8
+html body text div ul li a span  ,Contact Us,48,3713,72,17,0,8
+html body text div ul li a span  ,About Us,48,3731,62,17,0,8
+html body text div ul li a span  ,Accessibility Statement,48,3749,152,17,0,8
+html body text div ul li a span  ,Sitemap,48,3767,52,17,0,8
+html body text div ul li a span  ,Links,48,3785,36,17,0,8
+html body text div ul li a span  ,Help,48,3803,31,17,0,8

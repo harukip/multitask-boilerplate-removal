@@ -1,0 +1,98 @@
+tag,content,x,y,width,height,label,depth
+html body text div div div div ul li span a span  ,Home,48,8,39,17,0,12
+html body text div div div div ul li span a span  ,About,48,26,40,17,0,12
+html body text div div div div ul li span a span  ,Participate,48,44,68,17,0,12
+html body text div div div div ul li span a span  ,Store,48,62,34,17,0,12
+html body text div div div div ul li span a span  ,Contact,48,80,50,17,0,12
+html body text div div div div ul li span a span  ,Donate,48,98,46,17,0,12
+html body text div div div div form table tbody tr td a span  ,A to Z,8,132,45,17,0,14
+html body text div div div div form table tbody tr td span  ,|,53,132,7,17,0,13
+html body text div div div div form table tbody tr td a span  ,Categorized,60,132,81,17,0,14
+html body text div div div div form table tbody tr td span  ,|,141,132,8,17,0,13
+html body text div div div div form table tbody tr td a span  ,Ranked Listing,149,132,98,17,0,14
+html body text div div div div div div div div div form div div div a span  ,Login/Register,8,186,96,17,0,18
+html body text div div div div div div div div div form div div div p span  ,"You don't have to be a member to view all of the info on BuyBlue.org. However,",8,220,521,17,0,18
+html body text div div div div div div div div div form div div div p a span  ,creating an account,529,220,128,17,0,19
+html body text div div div div div div div div div form div div div p span  ,lets you,657,220,54,17,0,18
+html body text div div div div div div div div div form div div div p a span  ,interact with the site in several ways,8,220,752,35,0,19
+html body text div div div div div div div div div form div div div p span  ,", and it's completely FREE!",193,238,176,17,0,18
+html body text div div div div div div div div div form div div div div label span  ,Username or e-mail address:,8,272,187,17,0,19
+html body text div div div div div div div div div form div div div div label span span  ,*,195,272,8,17,0,20
+html body text div div div div div div div div div form div div div div label span  ,Password:,8,290,70,17,0,19
+html body text div div div div div div div div div form div div div div label span span  ,*,78,290,8,17,0,20
+html body text div div div div div div div div div form div div div div ul li a span  ,Create new account,48,324,126,17,0,21
+html body text div div div div div div div div div form div div div div ul li a span  ,Request new password,48,342,147,17,0,21
+html body text div div div div div div div div h2 span  ,BuyBlue Forums:,8,380,182,26,0,13
+html body text div div div div div div div div div div ul li a span  ,Forums Home,48,427,92,17,0,17
+html body text div div div div div div div div div div ul li a span  ,Economic Activism,48,445,127,17,0,17
+html body text div div div div div div div div div div ul li a span  ,General Discussion,48,463,125,17,0,17
+html body text div div div div div div div div div div ul li a span  ,Media Influence,48,481,105,17,0,17
+html body text div div div div div div div div div div ul li a span  ,Research Discussion,48,499,133,17,0,17
+html body text div div div div div div div div div div ul li a span  ,Suggestions,48,517,77,17,0,17
+html body text div div div div div div div div div div ul li a span  ,Success Stories,48,535,99,17,0,17
+html body text div div div div div div div div h2 span  ,Please Contribute:,8,573,191,26,0,13
+html body text div div div div div div div div div p span  ,BuyBlue relies on unpaid volunteers and contributions. Please consider funding our effort!,8,620,580,17,0,14
+html body text div div div div div div div div div div ul li a span  ,Make a contribution!,48,654,135,17,0,17
+html body text div div div div div div div div h2 span  ,Syndication,8,691,121,26,0,13
+html body text div div div div div div div a span  ,Home,8,780,39,17,0,12
+html body text div div div div div div div h2 span  ,"Bed, Bath & Beyond Inc",8,818,250,26,1,12
+html body text div div div div div div div ul li a span span  ,view,48,865,31,17,0,15
+html body text div div div div div div div ul li a span span  ,Summary,48,899,62,17,0,15
+html body text div div div div div div div ul li a span span  ,Information,48,917,76,17,0,15
+html body text div div div div div div div ul li a span span  ,Financials,48,935,66,17,0,15
+html body text div div div div div div div ul li a span span  ,Ratings,48,953,49,17,0,15
+html body text div div div div div div div ul li a span span  ,Take Action!,48,971,83,17,0,15
+html body text div div div div div div div div div div div div div table tbody tr td a span  ,Labor & Human Rights,8,1043,156,17,0,22
+html body text div div div div div div div div div div div div div table tbody tr td span  ,:,164,1043,4,17,0,21
+html body text div div div div div div div div div div div div div table tbody tr td span  ,(1 article),8,1061,63,17,0,21
+html body text div div div div div div div div div div div div div table tbody tr td a span  ,Environment,8,1079,88,17,0,22
+html body text div div div div div div div div div div div div div table tbody tr td span  ,:,96,1079,4,17,0,21
+html body text div div div div div div div div div div div div div table tbody tr td span  ,(0 articles),8,1097,69,17,0,21
+html body text div div div div div div div div div div div div div table tbody tr td a span  ,Employment Equality,8,1115,145,17,0,22
+html body text div div div div div div div div div div div div div table tbody tr td span  ,:,153,1115,4,17,0,21
+html body text div div div div div div div div div div div div div table tbody tr td span  ,(0 articles),8,1133,69,17,0,21
+html body text div div div div div div div div div div div div div table tbody tr td a span  ,Corporate and Social Responsibility,8,1151,236,17,0,22
+html body text div div div div div div div div div div div div div table tbody tr td span  ,:,244,1151,4,17,0,21
+html body text div div div div div div div div div div div div div table tbody tr td span  ,(4 articles),8,1169,69,17,0,21
+html body text div div div div div div div div div div div div div table tbody tr td a span  ,Industry Practices,8,1187,119,17,0,22
+html body text div div div div div div div div div div div div div table tbody tr td span  ,:,127,1187,5,17,0,21
+html body text div div div div div div div div div div div div div table tbody tr td span  ,(0 articles),8,1205,69,17,0,21
+html body text div div div div div div div div div div div div div h2 a span  ,How do we rate companies?,8,1242,287,26,0,19
+html body text div div div div div div div div div div div div div h2 a span  ,Check out the ratings details.,8,1270,299,26,0,19
+html body text div div div div div div div div div div div div div h2 a span  ,Help us rate this company!,8,1296,276,26,0,19
+html body text div div div div div div div div div div div div div p span  ,"Bed Bath & Beyond has everything you need to play ""house"" for real. It's the #1 superstore domestics retailer in the US (ahead of #2 Linens 'n Things), with nearly 700 stores in 44 states and Puerto Rico. The stores' floor-to-ceiling shelves stock better-quality (brand-name and private-label) goods in two main categories: domestics (bed linens, bathroom and kitchen items) and home furnishings (cookware and cutlery, small household appliances, picture frames, and more). Everyday low prices eliminate the need for sales. Bed Bath & Beyond relies exclusively on circulars, mailings, and word-of-mouth for advertising.",8,1378,765,107,1,18
+html body text div div div div div div div div div div div div div span a span  ,Read the full bio.,8,1502,111,17,0,19
+html body text div div div div div div div div div div div div div div span  ,"$80,500 to Democrats",8,1606,142,17,0,18
+html body text div div div div div div div div div div div div div div span  ,"$2,500 to Republicans",8,1624,144,17,0,18
+html body text div div div div div div div div div div div div div div span  ,$0 to Others,8,1642,79,17,0,18
+html body text div div div div div div div div div div div div div div span  ,"$83,000 in Total Contributions",8,1660,197,17,0,18
+html body text div div div div div div div div div div div div div p span  ,Write a letter or send a fax. Let this company,8,1731,293,17,0,18
+html body text div div div div div div div div div div div div div p a span  ,know what you think,301,1731,140,17,0,19
+html body text div div div div div div div div div div div div div p span  ,.,441,1731,4,17,0,18
+html body text div div div div div div div div div div div div div p a span  ,Talk about this company's,8,1802,171,17,0,19
+html body text div div div div div div div div div div div div div p span  ,practices in the comments below.,179,1802,212,17,0,18
+html body text div div div div div div div div div div div div div ul li a span  ,Active forum discussions.,48,1874,167,17,0,20
+html body text div div div div div div div div div div div div div ul li a span  ,Login,48,1892,42,17,0,20
+html body text div div div div div div div div div div div div div ul li span  ,to post a new forum topic.,90,1892,168,17,0,19
+html body text div div div div div div div div div div div div div table thead tr th a span  ,Topic,166,1935,38,17,0,22
+html body text div div div div div div div div div div div div div table thead tr th a span  ,Replies,342,1935,50,17,0,22
+html body text div div div div div div div div div div div div div table thead tr th a span  ,Created,435,1935,54,17,0,22
+html body text div div div div div div div div div div div div div table thead tr th a span  ,Last reply,538,1929,70,17,0,22
+html body text div div div div div div div div div div div div div table tbody tr td a span  ,BBB Additional Information... from an Insider!,33,1982,304,17,0,22
+html body text div div div div div div div div div div div div div table tbody tr td span  ,0,341,1982,8,17,0,21
+html body text div div div div div div div div div div div div div table tbody tr td span  ,1 year 15 weeks ago,397,1964,104,35,0,21
+html body text div div div div div div div div div div div div div table tbody tr td span  ,by Scoopster,397,2000,83,17,0,21
+html body text div div div div div div div div div div div div div table tbody tr td span  ,n/a,531,1982,20,17,0,21
+html body text div div div div div div div div div p span  ,"Submitted by conversion on August 8, 2005 - 10:42pm.",8,2051,356,17,0,14
+html body text div div div div div div div div div a span  ,email this page,12,2095,97,17,0,14
+html body text div div div div div div div div div a span  ,printer friendly version,12,2113,148,17,0,14
+html body text div div div div div div p span  ,"BuyBlue.org, a consumer advocacy issues website, is a non-profit corporation pending 501(c)3 status registered in the state of California. The opinions and viewpoints expressed by the authors here are their own and do not necessarily reflect the opinions of BuyBlue.org.",8,2147,756,53,0,11
+html body text div div div div div div p a span  ,Terms of Service,8,2217,113,17,0,12
+html body text div div div div div div p span  ,",",121,2217,8,17,0,11
+html body text div div div div div div p a span  ,Rules & Guidelines,129,2217,130,17,0,12
+html body text div div div div div div p span  ,",",259,2217,8,17,0,11
+html body text div div div div div div p a span  ,Privacy Policy,267,2217,98,17,0,12
+html body text div div div div div div p span  ,", Hosted by",365,2217,77,17,0,11
+html body text div div div div div div p a span  ,Drak.net,442,2217,56,17,0,12
+html body text div div div div div div p span  ,"Â© 2004-2006 BuyBlue.org, All Rights Reserved.",8,2235,312,17,0,11
+html body text div div div div div div p a span  ,View Sitemeter,95,2269,99,17,0,12

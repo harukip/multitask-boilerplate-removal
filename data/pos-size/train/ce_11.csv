@@ -1,0 +1,80 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,FOOD STANDARDS AGENCY,0,0,650,18,0,6
+html body text table tbody tr td span  ,|,243,11,7,17,0,8
+html body text table tbody tr td font a span  ,Help,250,13,31,15,0,10
+html body text table tbody tr td font span  ,|,281,13,7,15,0,9
+html body text table tbody tr td font a span  ,Site map,288,13,54,15,0,10
+html body text table tbody tr td font span  ,|,342,13,7,15,0,9
+html body text table tbody tr td font a span  ,Search,349,13,45,15,0,10
+html body text table tbody tr td font span  ,|,394,13,7,15,0,9
+html body text table tbody tr td font a span  ,Text links,401,13,57,15,0,10
+html body text table tbody tr td font span  ,|,458,13,4,15,0,9
+html body text table tbody tr td font span  ,Archive - MAFF,243,50,222,36,0,9
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td font a span  ,Home,28,103,48,20,0,22
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td font a span  ,Archive,28,124,60,20,0,22
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td font span  ,•,22,145,12,36,0,21
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td font b span  ,MAFF,48,153,50,20,0,22
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td font a span  ,Dept of Health,48,182,115,20,0,22
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td font a span  ,Scottish Executive,48,203,147,20,0,22
+html body text table tbody tr td table tbody tr td font font span  ,"The information in the archive was published by MAFF, Department of Health and the Scottish Executive before April 1st 2000 when the Food Standards Agency was established.",243,103,360,33,1,14
+html body text table tbody tr td table tbody tr td font font p b span  ,Advisory Committee on Novel Foods and Processes,243,237,352,41,1,16
+html body text table tbody tr td table tbody tr td font font p b span  ,Evaluation of,243,297,118,20,1,16
+html body text table tbody tr td table tbody tr td font font p b i span  ,Stevia rebaudiana,361,297,159,20,1,17
+html body text table tbody tr td table tbody tr td font font p b span  ,Bertoni as a novel food,243,297,340,41,1,16
+html body text table tbody tr td table tbody tr td font font p span  ,Dr F Campoli,243,377,106,20,1,15
+html body text table tbody tr td table tbody tr td font font p span  ,DGIII/E/i,243,398,68,20,1,15
+html body text table tbody tr td table tbody tr td font font p span  ,Rue de la Loi,243,419,106,20,1,15
+html body text table tbody tr td table tbody tr td font font p span  ,B-1049 Brussels,243,440,132,20,1,15
+html body text table tbody tr td table tbody tr td font font p span  ,Belgium,243,461,65,20,1,15
+html body text table tbody tr td table tbody tr td font font p span  ,19 October 1998,474,500,134,20,1,15
+html body text table tbody tr td table tbody tr td font font p span  ,Dear Mr Campoli,243,539,136,20,1,15
+html body text table tbody tr td table tbody tr td font font p b span  ,Evaluation of,243,578,118,20,1,16
+html body text table tbody tr td table tbody tr td font font p b i span  ,Stevia rebaudiana,361,578,159,20,1,17
+html body text table tbody tr td table tbody tr td font font p b span  ,Bertoni as a novel food,243,578,340,41,1,16
+html body text table tbody tr td table tbody tr td font font p span  ,"The UK Competent Authority has examined the opinion from the Belgian CA on this application and agrees with the conclusion they reached, that the data provided are inadequate to support approval of this material as a novel food. We share theirconcerns regarding this application and note particularly the lack of information on:-",243,638,348,167,1,15
+html body text table tbody tr td table tbody tr td font font dir span  ,i) the estimates of likely intake of the material;,283,824,290,41,1,15
+html body text table tbody tr td table tbody tr td font font dir span  ,"ii) the specification for the material, which is inadequate, particularly in terms of the level of stevioside. We would normally expect to see the results of analyses of at least three batches of material to demonstrate that the material to be sold is of a consistent composition;",283,884,324,146,1,15
+html body text table tbody tr td table tbody tr td font font dir span  ,iii) the extent to which the active component stevioside is metabolised by human gut bacteria and the possible toxicological consequences of such metabolism.,283,1049,318,104,1,15
+html body text table tbody tr td table tbody tr td font font p span  ,We also note that the active component stevioside has been evaluated previously by boththe EC Scientific Committee for Food and also by the Joint FAO/WHO Expert Committee onFood Additives (earlier this year) and that both have concluded that the toxicologicaldata available were inadequate.,243,1172,352,146,1,15
+html body text table tbody tr td table tbody tr td font font p span  ,"After our expert advisory committee had examined the opinion of the Belgian CA, wereceived the additional information contained in a revised application from Prof Dr J M CGeuns, that was circulated with the papers for the Standing Committee meeting on 28/29October. We assume that submission of these additional data will now result in all theinformation being referred to the Scientific Committee for Food, as laid down in theprovisisons of the Novel Food Regulation. However we would make the following points aboutthe additional information provided:",243,1337,350,293,1,15
+html body text table tbody tr td table tbody tr td font font dir p span  ,i) the specification and analytical data are still not adequate to provide reassurance that this is a consistent product;,283,1649,299,83,1,16
+html body text table tbody tr td table tbody tr td font font dir p span  ,"ii) many of the studies quoted on page 12 of the revised document are conducted on """,283,1751,305,62,1,16
+html body text table tbody tr td table tbody tr td font font dir p i span  ,Stevia,407,1793,56,20,1,17
+html body text table tbody tr td table tbody tr td font font dir p span  ,"extract"" but the composition of this extract is not described;",283,1793,300,62,1,16
+html body text table tbody tr td table tbody tr td font font dir p span  ,iii) the subacute and chronic toxicity studies are conducted on stevioside rather than the dried plant material and there is still a lack of evidence on the extent to which stevioside present in the dried plant material might be metabolised by human gut flora and the toxicological consequences of this in terms of the formation of steviol.,283,1874,319,188,1,16
+html body text table tbody tr td table tbody tr td font font p span  ,We welcome the opportunity to discuss this application at the Standing Committee for Foodstuffs meeting on 29 October.,243,2081,345,62,1,15
+html body text table tbody tr td table tbody tr td font font p span  ,Yours sincerely,243,2162,121,20,1,15
+html body text table tbody tr td table tbody tr td font font p span  ,Mrs S J Hattersley,243,2201,147,20,1,15
+html body text table tbody tr td table tbody tr td font font p span  ,UK Competant Authority (EU Regulation 258/97),243,2222,320,41,1,15
+html body text table tbody tr td table tbody tr td font font p span  ,Copied to:,243,2282,82,20,1,15
+html body text table tbody tr td table tbody tr td font font p span  ,Dr A Klepsch,243,2303,103,20,1,15
+html body text table tbody tr td table tbody tr td font font p span  ,Mr N Tomlinson,243,2324,125,20,1,15
+html body text table tbody tr td table tbody tr td font font p span  ,Go to,243,2383,49,20,0,15
+html body text table tbody tr td table tbody tr td font font p a span  ,top of page,292,2383,90,20,0,16
+html body text table tbody tr td table tbody tr td font font p span  ,Back to,243,2422,64,20,0,15
+html body text table tbody tr td table tbody tr td font font p a span  ,ACNFP,307,2422,66,20,0,16
+html body text table tbody tr td table tbody tr td font font p span  ,page,373,2422,40,20,0,15
+html body text table tbody tr td table tbody tr td font font p i span  ,This page was last updated 23 March 1999,243,2461,344,20,0,16
+html body text table tbody tr td table tbody tr td p font span  ,|,227,2517,7,15,0,14
+html body text table tbody tr td table tbody tr td p font a span  ,Help,234,2517,30,15,0,15
+html body text table tbody tr td table tbody tr td p font span  ,|,264,2517,7,15,0,14
+html body text table tbody tr td table tbody tr td p font a span  ,©,271,2517,13,15,0,15
+html body text table tbody tr td table tbody tr td p font a span  ,Crown Copyright,284,2517,101,15,0,15
+html body text table tbody tr td table tbody tr td p font span  ,|,385,2517,7,15,0,14
+html body text table tbody tr td table tbody tr td p font a span  ,Government Information Website,392,2517,194,15,0,15
+html body text table tbody tr td table tbody tr td p font span  ,|,586,2517,3,15,0,14
+html body text table tbody tr td table tbody tr td p font span  ,|,230,2547,7,15,0,14
+html body text table tbody tr td table tbody tr td p font a span  ,Home,237,2547,39,15,0,15
+html body text table tbody tr td table tbody tr td p font span  ,|,276,2547,6,15,0,14
+html body text table tbody tr td table tbody tr td p font a span  ,Archive,282,2547,47,15,0,15
+html body text table tbody tr td table tbody tr td p font span  ,|,329,2547,7,15,0,14
+html body text table tbody tr td table tbody tr td p font a span  ,Site map,336,2547,55,15,0,15
+html body text table tbody tr td table tbody tr td p font span  ,|,391,2547,7,15,0,14
+html body text table tbody tr td table tbody tr td p font a span  ,Search,398,2547,45,15,0,15
+html body text table tbody tr td table tbody tr td p font span  ,|,443,2547,7,15,0,14
+html body text table tbody tr td table tbody tr td p font a span  ,MAFF,450,2547,39,15,0,15
+html body text table tbody tr td table tbody tr td p font span  ,|,489,2547,7,15,0,14
+html body text table tbody tr td table tbody tr td p font a span  ,Dept of Health,496,2547,86,15,0,15
+html body text table tbody tr td table tbody tr td p font span  ,|,582,2547,4,15,0,14
+html body text table tbody tr td table tbody tr td p font a span  ,Scottish Executive,351,2564,110,15,0,15
+html body text table tbody tr td table tbody tr td p span  ,|,461,2562,4,17,0,13

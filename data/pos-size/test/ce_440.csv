@@ -1,0 +1,92 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Introduction to FreeS/WAN,0,0,617,18,0,6
+html body text a span  ,Contents,8,8,61,17,0,5
+html body text a span  ,Previous,69,8,60,17,0,5
+html body text a span  ,Next,129,8,31,17,0,5
+html body text h1 a span  ,FreeS/WAN quick start on firewalling,8,57,516,36,1,6
+html body text p span  ,This firewalling information supplements our,8,116,296,17,1,5
+html body text p a span  ,quickstart guide.,304,116,106,17,1,6
+html body text p span  ,It includes tips for firewalling:,8,150,196,17,1,5
+html body text ul li a span  ,a standalone system with initiator-only opportunism,48,184,333,17,1,7
+html body text ul li a span  ,incoming opportunistic connections,48,202,229,17,1,7
+html body text ul li a span  ,an opportunistic gateway,48,220,161,17,1,7
+html body text p span  ,and a list of helpful,8,254,128,17,1,5
+html body text p a span  ,resources,136,254,65,17,1,6
+html body text p span  ,.,201,254,4,17,1,5
+html body text h2 a span  ,Firewalling a standalone system,8,292,327,26,1,6
+html body text p span  ,Firewall rules on a standalone system doing IPsec can be very simple.,8,339,448,17,1,5
+html body text p span  ,"The first step is to allow IPsec packets (IKE on UDP port 500 plus ESP, protocol 50) in and out of your gateway. A script to set up iptables(8) rules for this is:",8,373,735,35,1,5
+html body text pre span  ,"# edit this line to match the interface you use as default route# ppp0 is correct for many modem, DSL or cable connections# but perhaps not for youworld=ppp0## allow IPsec## IKE negotiationsiptables -A INPUT -p udp -i $world --sport 500 --dport 500 -j ACCEPTiptables -A OUTPUT -p udp -o $world --sport 500 --dport 500 -j ACCEPT# ESP encryption and authenticationiptables -A INPUT -p 50 -i $world -j ACCEPTiptables -A OUTPUT -p 50 -o $world -j ACCEPT",8,425,3518,15,1,5
+html body text p span  ,"Optionally, you could restrict this, allowing these packets only to and from a list of known gateways.",8,456,646,17,1,5
+html body text p span  ,A second firewalling step -- access controls built into the IPsec protocols -- is automatically applied:,8,490,642,17,1,5
+html body text dl dt a span  ,Pluto,8,524,38,17,1,7
+html body text dl dt span  ,-- the FreeS/WAN keying daemon -- deals with the IKE packets.,46,524,413,17,1,6
+html body text dl dd span  ,"Pluto authenticates its partners during the IKE negotiation, and drops negotiation if authentication fails.",48,542,663,17,1,6
+html body text dl dt a span  ,KLIPS,8,560,48,17,1,7
+html body text dl dt span  ,-- the FreeS/WAN kernel component -- handles the ESP packets.,56,560,414,17,1,6
+html body text dl dd dl dt span  ,KLIPS drops outgoing packets,48,594,197,17,1,8
+html body text dl dd dl dd span  ,"if they are routed to IPsec, but no tunnel has been negotiated for them",88,612,446,17,1,8
+html body text dl dd dl dt span  ,KLIPS drops incoming unencrypted packets,48,630,284,17,1,8
+html body text dl dd dl dd span  ,if source and destination addresses match a tunnel; the packets should have been encrypted,88,648,582,17,1,8
+html body text dl dd dl dt span  ,KLIPS drops incoming encrypted packets,48,666,268,17,1,8
+html body text dl dd dl dd span  ,if source and destination address do not match the negotiated parameters of the tunnel that delivers them,88,684,668,17,1,8
+html body text dl dd dl dd span  ,if packet-level authentication fails,88,702,218,17,1,8
+html body text p span  ,These errors are logged. See our,8,736,211,17,1,5
+html body text p a span  ,troubleshooting,219,736,104,17,1,6
+html body text p span  ,document for details.,323,736,136,17,1,5
+html body text p span  ,"As an optional third step, you may wish to filter packets emerging from your opportunistic tunnels. These packets arrive on an interface such as",8,770,769,35,1,5
+html body text p var span  ,ipsec0,158,788,45,17,1,6
+html body text p span  ,", rather than",203,788,80,17,1,5
+html body text p var span  ,eth0,283,788,32,17,1,6
+html body text p span  ,",",315,788,8,17,1,5
+html body text p var span  ,ppp0,323,788,36,17,1,6
+html body text p span  ,"or whatever. For example, in an iptables(8) rule set, you would use:",8,788,753,35,1,5
+html body text dl dt var span  ,-i ipsec+,8,840,57,17,1,7
+html body text dl dd span  ,to specify packets arriving on any ipsec device,48,858,299,17,1,6
+html body text dl dt var span  ,-o ipsec+,8,876,61,17,1,7
+html body text dl dd span  ,to specify packets leaving via any ipsec device,48,894,299,17,1,6
+html body text p span  ,"In this way, you can apply whatever additional filtering you like to these packets.",8,928,519,17,1,5
+html body text p span  ,The packets emerging on,8,962,165,17,1,5
+html body text p var span  ,ipsec0,173,962,45,17,1,6
+html body text p span  ,"are likely to be things that a client application on your machine requested: web pages, e-mail, file transfers and so on. However, any time you initiate an opportunistic connection, you open a two-way connection to another machine (or network). It is conceivable that a Bad Guy there could take advantage of your link.",8,962,758,53,1,5
+html body text p span  ,"For more information, read the next section.",8,1032,283,17,1,5
+html body text h2 a span  ,Firewalling incoming opportunistic connections,8,1070,487,26,1,6
+html body text p span  ,"The basic firewalling for IPsec does not change when you support incoming connections as well as connections you initiate. You must still allow IKE (UDP port 500) and ESP (protocol 50) packets to and from your machine, as in the rules given",8,1116,744,53,1,5
+html body text p a span  ,above,83,1152,42,17,1,6
+html body text p span  ,.,125,1152,4,17,1,5
+html body text p span  ,"However, there is an additional security concern when you allow incoming opportunistic connections. Incoming opportunistic packets enter your machine via an IPSec tunnel. That is, they all appear as ESP (protocol 50) packets, concealing whatever port and protocol characteristics the packet within the tunnel has. Contained in the tunnel as they pass through",8,1186,755,71,1,5
+html body text p var span  ,ppp0,93,1240,36,17,1,6
+html body text p span  ,or,129,1240,18,17,1,5
+html body text p var span  ,eth0,147,1240,31,17,1,6
+html body text p span  ,", these packets can bypass your usual firewall rules on these interfaces.",178,1240,454,17,1,5
+html body text p span  ,"Consequently, you will want to firewall your",8,1274,290,17,1,5
+html body text p var span  ,ipsec,298,1274,37,17,1,6
+html body text p span  ,interfaces the way you would any publicly accessible interface.,335,1274,405,17,1,5
+html body text p span  ,"A simple way to do this is to create one iptables(8) table with all your filtering rules for incoming packets, and apply the entire table to all public interfaces, including",8,1308,746,35,1,5
+html body text p var span  ,ipsec,322,1326,37,17,1,6
+html body text p span  ,interfaces.,359,1326,66,17,1,5
+html body text h2 a span  ,Firewalling for opportunistic gateways,8,1364,396,26,1,6
+html body text p span  ,"On a gateway, the IPsec-related firewall rules applied for input and output on the Internet side are exactly as shown",8,1411,737,17,1,5
+html body text p a span  ,above,8,1429,42,17,1,6
+html body text p span  ,". A gateway exchanges exactly the same things -- UDP 500 packets and IPsec packets -- with other gateways that a standalone system does, so it can use exactly the same firewall rules as a standalone system would.",8,1429,765,35,1,5
+html body text p span  ,"However, on a gateway there are additional things to do:",8,1481,362,17,1,5
+html body text ul li span  ,you have other interfaces and need rules for them,48,1515,316,17,1,6
+html body text ul li span  ,packets emerging from ipsec processing must be correctly forwarded,48,1533,441,17,1,6
+html body text p span  ,"You need additional rules to handle these things. For example, adding some rules to the set shown above we get:",8,1567,720,17,1,5
+html body text pre span  ,"# edit this line to match the interface you use as default route# ppp0 is correct for many modem, DSL or cable connections# but perhaps not for youworld=ppp0## edit these lines to describe your internal subnet and interfacelocalnet=42.42.42.0/24internal=eth1## allow IPsec## IKE negotiationsiptables -A INPUT -p udp -i $world --sport 500 --dport 500 -j ACCEPTiptables -A OUTPUT -p udp -o $world --sport 500 --dport 500 -j ACCEPT# ESP encryption and authenticationiptables -A INPUT -p 50 -i $world -j ACCEPTiptables -A OUTPUT -p 50 -o $world -j ACCEPT## packet forwarding for an IPsec gateway# simplest possible rules$ forward everything, with no attempt to filter## handle packets emerging from IPsec# ipsec+ means any of ipsec0, ipsec1, ...iptables -A FORWARD -d $localnet -i ipsec+ -j ACCEPT# simple rule for outbound packets# let local net send anything# IPsec will encrypt some of itiptables -A FORWARD -s $localnet -i $internal -j ACCEPT",8,1601,7372,15,1,5
+html body text p span  ,"On a production gateway, you would no doubt need tighter rules than the above.",8,1632,513,17,1,5
+html body text h2 a span  ,Firewall resources,8,1670,187,26,0,6
+html body text p span  ,"For more information, see these handy resources:",8,1717,316,17,0,5
+html body text ul li a span  ,netfilter documentation,48,1751,150,17,0,7
+html body text ul li span  ,books such as:,48,1769,93,17,0,6
+html body text ul li ul li span  ,"Cheswick and Bellovin,",88,1787,157,17,0,8
+html body text ul li ul li a span  ,Firewalls and Internet Security,245,1787,198,17,0,9
+html body text ul li ul li span  ,"Zeigler,",88,1805,54,17,0,8
+html body text ul li ul li a span  ,Linux Firewalls,142,1805,105,17,0,9
+html body text ul li ul li span  ,",",247,1805,4,17,0,8
+html body text ul li a span  ,our firewalls document,48,1823,148,17,0,7
+html body text ul li a span  ,our firewall links,48,1841,110,17,0,7
+html body text a span  ,Back to our quickstart guide.,8,1875,185,17,0,5
+html body text a span  ,Contents,8,1911,61,17,0,5
+html body text a span  ,Previous,69,1911,60,17,0,5
+html body text a span  ,Next,129,1911,31,17,0,5

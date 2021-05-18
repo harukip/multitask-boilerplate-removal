@@ -1,0 +1,141 @@
+tag,content,x,y,width,height,label,depth
+html body text div div div a span span  ,Home,8,8,39,17,0,9
+html body text div div ul li a span span  ,Prospective Students,48,111,134,17,0,10
+html body text div div ul li a h1 span span  ,Continuing Education,48,150,303,36,0,11
+html body text div div ul li a span span  ,International Students,48,209,141,17,0,10
+html body text div div ul li a span span  ,Alumni,48,227,49,17,0,10
+html body text div div ul li a span span  ,Research,48,245,59,17,0,10
+html body text div div ul li a span span  ,Learning Resources,48,263,128,17,0,10
+html body text div div ul li a span span  ,Friends & Partners,48,281,121,17,0,10
+html body text div div ul li a span span  ,About Michener,48,299,105,17,0,10
+html body text div div p a span  ,CE Courses,8,333,80,17,0,8
+html body text div div p span  ,/,88,333,8,17,0,7
+html body text div div p a span  ,Advanced Programs,96,333,134,17,0,8
+html body text div div p span  ,/,230,333,8,17,0,7
+html body text div div p a span  ,Degree Completion,238,333,130,17,0,8
+html body text div div p span  ,/,368,333,8,17,0,7
+html body text div div p a span  ,Customized Course Offerings,376,333,195,17,0,8
+html body text div div p span  ,/,571,333,9,17,0,7
+html body text div div p a span  ,Internationally Educated Health Professionals,8,333,729,35,0,8
+html body text div div p span  ,/,144,351,8,17,0,7
+html body text div div p a span  ,External Employment Opportunities,152,351,233,17,0,8
+html body text div div p span  ,Font Size:,8,385,69,17,0,7
+html body text div div p a span  ,a,77,385,11,17,0,8
+html body text div div p span  ,|,88,385,8,17,0,7
+html body text div div p a b span  ,A,96,385,14,17,0,9
+html body text div div div ul li a span  ,Charles Sturt University,48,419,156,17,0,10
+html body text div div div h1 span  ,Master of Corporate Biotechnology,8,458,484,36,1,8
+html body text div div div table tbody tr td p strong span  ,Interested in a career in Corporate Biotechnology?,9,517,347,17,1,13
+html body text div div div table tbody tr td p a span  ,Why pursue a Master of Corporate Biotechnology degree?,9,535,375,17,1,13
+html body text div div div table tbody tr td p a span  ,How long does it take?,9,553,148,17,1,13
+html body text div div div table tbody tr td p a span  ,Admission requirements,9,571,157,17,1,13
+html body text div div div table tbody tr td p a span  ,How do I apply?,9,589,107,17,1,13
+html body text div div div table tbody tr td p a span  ,What will I learn?,9,607,116,17,1,13
+html body text div div div table tbody tr td p a span  ,More information,9,625,114,17,1,13
+html body text div div div table tbody tr td table tbody tr td b font span  ,Master of Corporate Biotechnology: At A Glance,393,518,271,15,1,17
+html body text div div div table tbody tr td table tbody tr td font span  ,Credential(s) Earned,393,536,108,15,1,16
+html body text div div div table tbody tr td table tbody tr td font span  ,Master's Degree,507,536,84,15,1,16
+html body text div div div table tbody tr td table tbody tr td font a span  ,Program Length,393,554,85,15,1,17
+html body text div div div table tbody tr td table tbody tr td font span  ,3-6 years,507,554,48,15,1,16
+html body text div div div table tbody tr td table tbody tr td font span  ,Delivery Method,393,572,89,15,1,16
+html body text div div div table tbody tr td table tbody tr td font span  ,Distance education,507,572,99,15,1,16
+html body text div div div table tbody tr td table tbody tr td font a span  ,Start Date,393,590,56,15,1,17
+html body text div div div table tbody tr td table tbody tr td font span  ,*,449,590,6,15,1,16
+html body text div div div table tbody tr td table tbody tr td font span  ,Winter Session: February 2006,507,590,162,15,1,16
+html body text div div div table tbody tr td table tbody tr td font a span  ,Approximate Tuition,393,608,109,15,1,17
+html body text div div div table tbody tr td table tbody tr td font span  ,"AUD$1,300/course",507,608,101,15,1,16
+html body text div div div table tbody tr td table tbody tr td font span  ,Application Deadline,393,626,112,15,1,16
+html body text div div div table tbody tr td table tbody tr td font span  ,"Winter Session: October 30, 2005",507,626,176,15,1,16
+html body text div div div table tbody tr td table tbody tr td font a span  ,Apply Through,393,644,80,15,1,17
+html body text div div div table tbody tr td table tbody tr td font span  ,Charles Sturt University,507,644,126,15,1,16
+html body text div div div div span  ,* There is only one intake per year for this program,447,678,330,17,1,8
+html body text div div div h2 span  ,Why should I pursue my Master of Corporate Biotechnology degree?,8,716,708,26,1,8
+html body text div div div table tbody tr td p span  ,"The Master of Corporate Biotechnology has been developed to provide professional development within a relevant, up-to-date post-graduate qualification that combines the science, business, Information Technology and law components of biotechnology that are vital to the development and commercialization of biotechnology research.",11,766,722,71,1,12
+html body text div div div table tbody tr td p span  ,"This course has been structured to suit applicants working in both the business sector of the biotechnology industry (with a previous business, law or Information Technology degree) and those working in the research sector of the biotechnology industry (with a previous biotechnology or biological sciences degree).",11,854,737,53,1,12
+html body text div div div h2 span  ,How long does it take?,8,931,232,26,1,8
+html body text div div div p span  ,"There is one intake per year, in February, and the program normally takes three years of part-time study. Each year is divided into two semesters, Winter (February to June) and Summer (July to November), and you may take a maximum of two courses per semester. You may also take one course per semester, completing the degree in 6 years.",8,978,761,53,1,8
+html body text div div div h2 span  ,Start Date,8,1052,106,26,1,8
+html body text div div div p span  ,Winter Session: February 2006,8,1099,199,17,1,8
+html body text div div div h2 span  ,Admission Requirements and Credit,8,1137,374,26,1,8
+html body text div div div ol li strong span  ,Business/Law/IT graduate stream,48,1184,235,17,1,10
+html body text div div div ol li span  ,": Business, Law or IT Bachelor degree and a minimum of 2 years current professional experience. Graduates in Business/Law/IT do not have the option of entering the Biotechnology graduate stream, nor are they eligible for credits based solely on a prior undergraduate Business, Law or IT degree.",48,1184,701,71,1,9
+html body text div div div ol p strong span  ,OR,48,1272,24,17,1,10
+html body text div div div ol li strong span  ,Biotechnology graduate stream,48,1306,217,17,1,10
+html body text div div div ol li span  ,": Biotechnology or equivalent Medical/Biological Science Bachelor degree and a minimum of 2 years relevant employment. Graduates in Biological Sciences do not have the option of entering the Business, Law or IT graduate stream, nor are they eligible for credits based solely on a prior undergraduate Biotechnology/Biological Science degree",48,1306,724,71,1,9
+html body text div div div ol li span  ,All applicants must meet the,48,1378,187,17,1,9
+html body text div div div ol li a span  ,English Language Requirements,235,1378,213,17,1,10
+html body text div div div ol li span  ,for Charles Sturt University,448,1378,178,17,1,9
+html body text div div div h2 span  ,Tuition,8,1416,74,26,1,8
+html body text div div div p span  ,"Tuition is paid on a course-by-course basis, and you may take a maximum of two courses per semester. 2005/06 tuition fees are AUD$1300 per Master's level course.",8,1463,762,35,1,8
+html body text div div div h2 span  ,How do I apply?,8,1518,170,26,1,8
+html body text div div div p span  ,To apply please collect the following documents:,8,1565,314,17,1,8
+html body text div div div ul li span  ,A completed,48,1599,85,17,1,9
+html body text div div div ul li a span  ,CSU Application Form (56k - pdf),133,1599,222,17,1,10
+html body text div div div ul li span  ,"Copies of all your post-secondary educational material, including transcripts",48,1617,489,17,1,9
+html body text div div div ul li span  ,Other documentation and resume outlining your education and experience,48,1635,475,17,1,9
+html body text div div div p span  ,And submit them to:,8,1669,132,17,1,8
+html body text div div div blockquote span  ,Frances Van Wel,48,1703,107,17,1,8
+html body text div div div blockquote span  ,Faculty Liaison Officer,48,1721,150,17,1,8
+html body text div div div blockquote span  ,CSU International,48,1739,117,17,1,8
+html body text div div div blockquote span  ,Charles Sturt University,48,1757,156,17,1,8
+html body text div div div blockquote span  ,Locked Bag 669,48,1775,106,17,1,8
+html body text div div div blockquote span  ,Wagga Wagga NSW 2678,48,1793,167,17,1,8
+html body text div div div blockquote span  ,AUSTRALIA,48,1811,91,17,1,8
+html body text div div div blockquote span  ,Tel: +61 2 69 332599,48,1829,138,17,1,8
+html body text div div div blockquote span  ,Fax: + 61 2 69 332799,48,1847,145,17,1,8
+html body text div div div blockquote span  ,Email:,48,1865,47,17,1,8
+html body text div div div blockquote a span  ,fvanwel@csu.edu.au,95,1865,133,17,1,9
+html body text div div div p span  ,"Once accepted, simply submit payment for your first semester courses to Charles Sturt University. Course material will be sent to you in time for the start of the semester.",8,1899,763,35,1,8
+html body text div div div p span  ,"Payment options will be outlined in your letter of offer. After reviewing your application, CSU will inform you if you have been accepted into the program.",8,1951,752,35,1,8
+html body text div div div h2 span  ,What will I learn?,8,2007,187,26,1,8
+html body text div div div p span  ,"The Master of Corporate Biotechnology caters to candidates with varied backgrounds by utilizing alternative strands in the first year of the program. Those candidates with a law, IT or business background will gain a good understanding of the science behind biotechnology while those candidates with a previous degree in biotechnology (or equivalent) will use the first year to gain a solid understanding of relevant issues in law, business and information technology. Both cohorts will merge for the remaining subjects.",8,2054,765,89,1,8
+html body text div div div p span  ,"Research projects can be specifically tailored to the needs of each candidate with projects available in each of the key areas of science, bioinformatics, business, law and intellectual property. The course pattern for each cohort is shown below.",8,2160,752,53,1,8
+html body text div div div table tbody tr td strong span  ,"Business, Law or IT Graduate Stream",174,2234,260,17,1,12
+html body text div div div table tbody tr td strong span  ,Biotechnology/Biological Science Graduate Stream,478,2234,293,35,1,12
+html body text div div div table tbody tr td span  ,Winter Year 1,12,2276,89,17,1,11
+html body text div div div table tbody tr td a span  ,Fundamentals of Biotechnology (16 points),174,2276,279,17,1,12
+html body text div div div table tbody tr td p a span  ,Commercial Law,478,2276,112,17,1,13
+html body text div div div table tbody tr td p a span  ,Management Theory and Practice,478,2310,216,17,1,13
+html body text div div div table tbody tr td span  ,Summer Year 1,12,2334,99,17,1,11
+html body text div div div table tbody tr td a span  ,Techniques in Genetic Engineering (16 points),174,2334,250,35,1,12
+html body text div div div table tbody tr td p a span  ,Information Systems for Health Services Management,478,2334,261,35,1,13
+html body text div div div table tbody tr td p a span  ,Commercial Law,478,2386,112,17,1,13
+html body text div div div table tbody tr td span  ,Winter Year 2,12,2410,89,17,1,11
+html body text div div div table tbody tr td p a span  ,Bioinformatics and Proteomics,174,2410,199,17,1,13
+html body text div div div table tbody tr td p a span  ,"Ethics, Law & Medical Science",174,2444,203,17,1,13
+html body text div div div table tbody tr td p a span  ,Bioinformatics and Proteomics,478,2410,199,17,1,13
+html body text div div div table tbody tr td p a span  ,"Ethics, Law & Medical Science",478,2444,203,17,1,13
+html body text div div div table tbody tr td span  ,Summer Year 2,12,2468,99,17,1,11
+html body text div div div table tbody tr td p a span  ,Laboratory Quality Control,174,2468,176,17,1,13
+html body text div div div table tbody tr td p a span  ,Biomedical Research Methods,174,2502,196,17,1,13
+html body text div div div table tbody tr td p a span  ,Laboratory Quality Control,478,2468,176,17,1,13
+html body text div div div table tbody tr td p a span  ,Biomedical Research Methods,478,2502,196,17,1,13
+html body text div div div table tbody tr td span  ,Winter Year 3,12,2526,89,17,1,11
+html body text div div div table tbody tr td p a span  ,Research Proposal,174,2526,119,17,1,13
+html body text div div div table tbody tr td p a span  ,Intellectual Property and Patent Law,174,2560,235,17,1,13
+html body text div div div table tbody tr td p a span  ,Research Proposal,478,2526,119,17,1,13
+html body text div div div table tbody tr td p a span  ,Intellectual Property and Patent Law,478,2560,235,17,1,13
+html body text div div div table tbody tr td span  ,Summer Year 3,12,2584,99,17,1,11
+html body text div div div table tbody tr td a span  ,"Project and Dissertation (2 subjects, 16 points)",174,2584,251,35,1,12
+html body text div div div table tbody tr td a span  ,"Project and Dissertation (2 subjects, 16 points)",478,2584,251,35,1,12
+html body text div div div h2 span  ,More Information,8,2644,187,26,1,8
+html body text div div div p a span  ,Charles Sturt University,8,2691,156,17,1,9
+html body text div div div p a span  ,Bachelor of Medical and Applied Biotechnology,8,2709,311,17,1,9
+html body text div div div p span  ,The Michener Institute for Applied Health Sciences,8,2743,331,17,1,8
+html body text div div div p span  ,222 St. Patrick Street,8,2761,136,17,1,8
+html body text div div div p span  ,"Toronto, Ontario Canada M5T 1V4",8,2779,227,17,1,8
+html body text div div div p a span  ,Contact Us,8,2813,76,17,0,9
+html body text div div div p span  ,/,84,2813,8,17,0,8
+html body text div div div p a span  ,Maps & Directions,92,2813,127,17,0,9
+html body text div div div p span  ,/,219,2813,8,17,0,8
+html body text div div div p a span  ,Donate,227,2813,50,17,0,9
+html body text div div div p span  ,/,277,2813,9,17,0,8
+html body text div div div p a span  ,Careers @ Michener,286,2813,133,17,0,9
+html body text div div div p a span  ,External Employment Opportunities,8,2831,237,17,0,9
+html body text div div div p span  ,/,245,2831,8,17,0,8
+html body text div div div p a span  ,Privacy Policy,253,2831,98,17,0,9
+html body text div div div p span  ,/,351,2831,8,17,0,8
+html body text div div div p a span  ,Terms of Use,359,2831,90,17,0,9
+html body text div div div p span  ,/,449,2831,9,17,0,8
+html body text div div div p a span  ,Feedback,458,2831,61,17,0,9
+html body text div div div p span  ,Â©2005 The Michener Institute,8,2865,194,17,0,8
