@@ -70,6 +70,8 @@ class MCModel(tf.keras.Model):
             ff_dim, activation='relu', name="topTag Layer")
         self.topEmb_layer = tf.keras.layers.Dense(
             ff_dim, activation='relu', name="topEmb Layer")
+        self.secEmb_layer = tf.keras.layers.Dense(
+            ff_dim, activation='relu', name="secEmb Layer")
         self.concat_layer = tf.keras.layers.Concatenate()
         self.mask_layer = tf.keras.layers.Masking(name="masking Layer")
         self.depth_out = tf.keras.layers.Dense(1)
@@ -90,6 +92,7 @@ class MCModel(tf.keras.Model):
         t = self.tag_encoder(t)
         t = self.topTag_layer(t)
         e = self.topEmb_layer(e)
+        e = self.secEmb_layer(e)
         x = self.concat_layer([t, e])
         x = self.mask_layer(x)
         mask = x._keras_mask
