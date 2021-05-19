@@ -129,7 +129,7 @@ def train(args, myDataLoader, myModel):
     best_macro_f1 = 0
 
     # Buffer
-    if args.no_buffer:
+    if args.no_buffer or args.batch > 1:
         print("Train and val with dataset.")
         train_source = myDataLoader.train_ds
         val_source = myDataLoader.val_ds
@@ -152,7 +152,7 @@ def train(args, myDataLoader, myModel):
         # =====================================================
         # Training
         # =====================================================
-        if not args.no_buffer:
+        if not args.no_buffer and args.batch == 1:
             random.shuffle(train_buffer)
         for t, e, y, d in train_source:
             loss = 0
@@ -314,6 +314,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-bl", "--bayesian", type=int,
                         help="Enable Bayesian LSTM.", default=1)
+    parser.add_argument("-b", "--batch", type=int, help="Set batch size.", default=1)
     parser.add_argument("-e", "--epoch", type=int,
                         help="Set your number of epochs.", default=20)
     parser.add_argument("-d", "--depth", type=float,

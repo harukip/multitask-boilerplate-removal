@@ -13,7 +13,14 @@ class DataLoader():
             output_types=(tf.float32,
                           tf.float32,
                           tf.float32,
-                          tf.float32)).batch(1)
+                          tf.float32)).padded_batch(
+            batch_size=args.batch,
+            padded_shapes=([None, None], [None, None], [None, args.label_size], [None, 1]),
+            padding_values=(
+                tf.constant(0, dtype=tf.float32),
+                tf.constant(0, dtype=tf.float32),
+                tf.constant(0, dtype=tf.float32),
+                tf.constant(0, dtype=tf.float32))).shuffle(buffer_size=1000)
 
         self.val_ds = tf.data.Dataset.from_generator(
             self.gen_data,
