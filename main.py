@@ -129,7 +129,7 @@ def train(args, myDataLoader, myModel):
     best_macro_f1 = 0
 
     # Buffer
-    if args.no_buffer:
+    if args.no_buffer or args.batch > 1:
         print("Train and val with dataset.")
         train_source = myDataLoader.train_ds
         val_source = myDataLoader.val_ds
@@ -152,107 +152,121 @@ def train(args, myDataLoader, myModel):
         # =====================================================
         # Training
         # =====================================================
-        if not args.no_buffer:
+        if not args.no_buffer and args.batch == 1:
             random.shuffle(train_buffer)
         for t, e, y, d in train_source:
-            loss = 0
-            myModel.mc_step = args.mc_step
-            # Train step
-            with tf.GradientTape() as tape:
-                count += 1
-                p1, lstm_out, outs1, d_pred = myModel.MC_sampling(
-                    t, e, training=True)
-                loss += (1-args.depth)*My_Mask_CE(y_true=y, y_pred=outs1) + \
-                    args.depth*MSE(d, d_pred)
-            trainable_variables = myModel.tag_encoder.trainable_variables + myModel.trainable_variables
-            grads = tape.gradient(loss, trainable_variables)
-            clip_grads, _ = tf.clip_by_global_norm(grads, 5.0)
+            redo = True
+            while(redo):
+                redo = False
+                loss = 0
+                myModel.mc_step = args.mc_step
+                # Train step
+                with tf.GradientTape() as tape:
+                    count += 1
+                    p1, lstm_out, outs1, d_pred = myModel.MC_sampling(
+                        t, e, training=True)
+                    loss += (1-args.depth)*My_Mask_CE(y_true=y, y_pred=outs1) + \
+                        args.depth*MSE(d, d_pred)
+                trainable_variables = myModel.tag_encoder.trainable_variables + myModel.trainable_variables
+                grads = tape.gradient(loss, trainable_variables)
+                clip_grads, _ = tf.clip_by_global_norm(grads, 5.0)
 
-            myModel.Opt.apply_gradients(
-                (grad, var) for (grad, var) in zip(clip_grads, trainable_variables)
-                if grad is not None)
-            train_loss(loss)
-            if args.log:
-                with train_summary_writer.as_default():
-                    tf.summary.scalar('loss', train_loss.result(), step=count)
-            if args.verbose:
-                print("train loss:\t%.4f" % train_loss.result())
-            # =====================================================
-            # Validation
-            # =====================================================
-            all_y_true = None
-            all_y_pred = None
-            macro_f1 = None
-            for t, e, y in val_source:
-                # val step
-                p, lstm_out, out, _ = myModel.MC_sampling(t, e)
-                uncertainty = tf.nn.softmax_cross_entropy_with_logits(
-                    labels=p, logits=out)
-                loss = My_Mask_CE(y_true=y, y_pred=out)
-                val_loss(loss)
-                y_pred = tf.argmax(p, axis=-1)
+                myModel.Opt.apply_gradients(
+                    (grad, var) for (grad, var) in zip(clip_grads, trainable_variables)
+                    if grad is not None)
+                train_loss(loss)
+                if args.log:
+                    with train_summary_writer.as_default():
+                        tf.summary.scalar('loss', train_loss.result(), step=count)
+                if args.verbose:
+                    print("train loss:\t%.4f" % train_loss.result())
+                # =====================================================
+                # Validation
+                # =====================================================
+                all_y_true = None
+                all_y_pred = None
+                macro_f1 = None
+                for vt, ve, vy in val_source:
+                    # val step
+                    p, lstm_out, out, _ = myModel.MC_sampling(vt, ve)
+                    uncertainty = tf.nn.softmax_cross_entropy_with_logits(
+                        labels=p, logits=out)
+                    loss = My_Mask_CE(y_true=vy, y_pred=out)
+                    val_loss(loss)
+                    y_pred = tf.argmax(p, axis=-1)
 
-                all_y_true = util.concatAxisZero(
-                    all_y_true, tf.reshape(tf.argmax(y, axis=-1), [-1]))
-                all_y_pred = util.concatAxisZero(
-                    all_y_pred, tf.reshape(y_pred, [-1]))
-                t_f = f1_score(y_true=tf.reshape(tf.argmax(y, axis=-1), [-1]),
-                               y_pred=tf.reshape(y_pred, [-1]),
-                               average='macro',
-                               labels=[0, 1],
-                               zero_division=1)
-                macro_f1 = util.concatAxisZero(
-                    macro_f1, np.expand_dims(t_f, 0))
+                    all_y_true = util.concatAxisZero(
+                        all_y_true, tf.reshape(tf.argmax(vy, axis=-1), [-1]))
+                    all_y_pred = util.concatAxisZero(
+                        all_y_pred, tf.reshape(y_pred, [-1]))
+                    t_f = f1_score(y_true=tf.reshape(tf.argmax(vy, axis=-1), [-1]),
+                                y_pred=tf.reshape(y_pred, [-1]),
+                                average='macro',
+                                labels=[0, 1],
+                                zero_division=1)
+                    macro_f1 = util.concatAxisZero(
+                        macro_f1, np.expand_dims(t_f, 0))
 
-            if args.verbose:
-                print("val loss:\t%.4f" % val_loss.result(), end="")
-            if val_loss.result() < best_loss:
-                best_loss = val_loss.result()
-                if not os.path.isdir(FOLDER):
-                    Path(FOLDER + "/best_val/").mkdir(parents=True, exist_ok=True)
-                    Path(FOLDER + "/best_val/tag_encoder/").mkdir(parents=True, exist_ok=True)
-                myModel.save_weights(FOLDER + "/best_val/")
-                myModel.tag_encoder.save_weights(FOLDER + "/best_val/tag_encoder/")
                 if args.verbose:
-                    print("*")
-            else:
+                    print("val loss:\t%.4f" % val_loss.result(), end="")
+                if val_loss.result() < best_loss:
+                    redo = True
+                    best_loss = val_loss.result()
+                    if not os.path.isdir(FOLDER):
+                        Path(FOLDER + "/best_val/").mkdir(parents=True, exist_ok=True)
+                        Path(FOLDER + "/best_val/tag_encoder/").mkdir(parents=True, exist_ok=True)
+                    myModel.save_weights(FOLDER + "/best_val/")
+                    myModel.tag_encoder.save_weights(FOLDER + "/best_val/tag_encoder/")
+                    if args.verbose:
+                        print("*")
+                else:
+                    if args.verbose:
+                        print("")
+                macro_f1 = np.mean(macro_f1)
+                micro_f1 = f1_score(
+                    y_true=all_y_true, y_pred=all_y_pred, average='macro', zero_division=0)
+                val_macro_f1(macro_f1)
+                val_micro_f1(micro_f1)
+                if args.log:
+                    with val_macro_summary_writer.as_default():
+                        tf.summary.scalar('f1', val_macro_f1.result(), step=count)
+                    with val_micro_summary_writer.as_default():
+                        tf.summary.scalar('loss', val_loss.result(), step=count)
+                        tf.summary.scalar('f1', val_micro_f1.result(), step=count)
                 if args.verbose:
-                    print("")
-            macro_f1 = np.mean(macro_f1)
-            micro_f1 = f1_score(
-                y_true=all_y_true, y_pred=all_y_pred, average='macro', zero_division=0)
-            val_macro_f1(macro_f1)
-            val_micro_f1(micro_f1)
-            if args.log:
-                with val_macro_summary_writer.as_default():
-                    tf.summary.scalar('f1', val_macro_f1.result(), step=count)
-                with val_micro_summary_writer.as_default():
-                    tf.summary.scalar('loss', val_loss.result(), step=count)
-                    tf.summary.scalar('f1', val_micro_f1.result(), step=count)
-            if args.verbose:
-                print("val_macro_f1:\t%.4f" % macro_f1, end="")
-            if macro_f1 > best_macro_f1:
-                best_macro_f1 = macro_f1
-                if not os.path.isdir(FOLDER):
-                    Path(FOLDER + "/best_macro_f1/").mkdir(parents=True, exist_ok=True)
-                    Path(FOLDER + "/best_macro_f1/tag_encoder/").mkdir(parents=True, exist_ok=True)
-                myModel.save_weights(
-                    FOLDER + "/best_macro_f1/")
-                myModel.tag_encoder.save_weights(
-                    FOLDER + "/best_macro_f1/tag_encoder/")
-                if args.verbose:
-                    print("*")
-            else:
-                if args.verbose:
-                    print("")
-            if args.verbose:
-                print("val_micro_f1:\t%.4f" % micro_f1, end="")
-                print("")
-                print("-"*5)
-            train_loss.reset_states()
-            val_loss.reset_states()
-            val_macro_f1.reset_states()
-            val_micro_f1.reset_states()
+                    print("val_macro_f1:\t%.4f" % macro_f1, end="")
+                if macro_f1 > best_macro_f1:
+                    redo = True
+                    best_macro_f1 = macro_f1
+                    if not os.path.isdir(FOLDER):
+                        Path(FOLDER + "/best_macro_f1/").mkdir(parents=True, exist_ok=True)
+                        Path(FOLDER + "/best_macro_f1/tag_encoder/").mkdir(parents=True, exist_ok=True)
+                    myModel.save_weights(
+                        FOLDER + "/best_macro_f1/")
+                    myModel.tag_encoder.save_weights(
+                        FOLDER + "/best_macro_f1/tag_encoder/")
+                    if args.verbose:
+                        print("val_macro_f1:\t%.4f" % macro_f1, end="")
+                    if macro_f1 > best_macro_f1:
+                        redo = True
+                        best_macro_f1 = macro_f1
+                        if not os.path.isdir(FOLDER):
+                            Path(FOLDER + "/best_macro_f1/").mkdir(parents=True, exist_ok=True)
+                        myModel.save_weights(
+                            FOLDER + "/best_macro_f1/")
+                        if args.verbose:
+                            print("*")
+                    else:
+                        if args.verbose:
+                            print("")
+                    if args.verbose:
+                        print("val_micro_f1:\t%.4f" % micro_f1, end="")
+                        print("")
+                        print("-"*5)
+                    train_loss.reset_states()
+                    val_loss.reset_states()
+                    val_macro_f1.reset_states()
+                    val_micro_f1.reset_states()
 
 
 def test(args,
@@ -320,6 +334,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-bl", "--bayesian", type=int,
                         help="Enable Bayesian LSTM.", default=1)
+    parser.add_argument("-b", "--batch", type=int, help="Set batch size.", default=1)
     parser.add_argument("-e", "--epoch", type=int,
                         help="Set your number of epochs.", default=20)
     parser.add_argument("-d", "--depth", type=float,
