@@ -20,6 +20,8 @@ class LSTMModel(tf.keras.Model):
             ff_dim, activation='relu', name="topTag Layer")
         self.topEmb_layer = tf.keras.layers.Dense(
             ff_dim, activation='relu', name="topEmb Layer")
+        self.secEmb_layer = tf.keras.layers.Dense(
+            ff_dim, activation='relu', name="secEmb Layer")
         self.dropout_layer = tf.keras.layers.Dropout(dropout)
         self.concat_layer = tf.keras.layers.Concatenate()
         self.mask_layer = tf.keras.layers.Masking(name="masking Layer")
@@ -34,6 +36,7 @@ class LSTMModel(tf.keras.Model):
     def call(self, t, e, training=False):
         t = self.topTag_layer(t)
         e = self.topEmb_layer(e)
+        e = self.secEmb_layer(e)
         x = self.concat_layer([t, e])
         x = self.mask_layer(x)
         mask = x._keras_mask
