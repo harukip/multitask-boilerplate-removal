@@ -290,43 +290,43 @@ def test(args,
             f1_score(
                 y_true=tf.reshape(tf.argmax(y, axis=-1), [-1]),
                 y_pred=tf.reshape(tf.argmax(p, axis=-1), [-1]), average='macro', zero_division=0))
-        if total:
-            all_y_true = util.concatAxisZero(
-                all_y_true, tf.reshape(tf.argmax(y, axis=-1), [-1]))
-            all_y_pred = util.concatAxisZero(
-                all_y_pred, tf.reshape(tf.argmax(p, axis=-1), [-1]))
-            all_s = util.concatAxisZero(
-                all_s, tf.reshape(tf.argmax(out, axis=-1), [-1]))
-            all_u = util.concatAxisZero(all_u, tf.reshape(uncertainty, [-1]))
-        else:
-            t_p, t_r, t_f, t_s = precision_recall_fscore_support(
-                y_true=tf.reshape(tf.argmax(y, axis=-1), [-1]),
-                y_pred=tf.reshape(tf.argmax(p, axis=-1), [-1]),
-                labels=[0, 1],
-                zero_division=1)
-            precision = util.concatAxisZero(precision, np.expand_dims(t_p, 0))
-            recall = util.concatAxisZero(recall, np.expand_dims(t_r, 0))
-            f1 = util.concatAxisZero(f1, np.expand_dims(t_f, 0))
-    if total:
+        
+        all_y_true = util.concatAxisZero(
+            all_y_true, tf.reshape(tf.argmax(y, axis=-1), [-1]))
+        all_y_pred = util.concatAxisZero(
+            all_y_pred, tf.reshape(tf.argmax(p, axis=-1), [-1]))
+        all_s = util.concatAxisZero(
+            all_s, tf.reshape(tf.argmax(out, axis=-1), [-1]))
+        all_u = util.concatAxisZero(all_u, tf.reshape(uncertainty, [-1]))
+
         t_p, t_r, t_f, t_s = precision_recall_fscore_support(
-            y_true=all_y_true,
-            y_pred=all_y_pred,
+            y_true=tf.reshape(tf.argmax(y, axis=-1), [-1]),
+            y_pred=tf.reshape(tf.argmax(p, axis=-1), [-1]),
             labels=[0, 1],
             zero_division=1)
-        print("precision:", t_p)
-        print("recall", t_r)
-        print("f1", t_f)
-        print("macro", np.mean(t_f, axis=0))
-        return f1_history, all_s, all_y_true, all_u
-    else:
-        precision = np.mean(precision, axis=0)
-        recall = np.mean(recall, axis=0)
-        f1 = np.mean(f1, axis=0)
-        print("precision:", precision)
-        print("recall", recall)
-        print("f1", f1)
-        print("macro", np.mean(f1, axis=0))
-    return f1_history, None, None, None
+        precision = util.concatAxisZero(precision, np.expand_dims(t_p, 0))
+        recall = util.concatAxisZero(recall, np.expand_dims(t_r, 0))
+        f1 = util.concatAxisZero(f1, np.expand_dims(t_f, 0))
+    
+    print("===Micro F1===")
+    t_p, t_r, t_f, t_s = precision_recall_fscore_support(
+        y_true=all_y_true,
+        y_pred=all_y_pred,
+        labels=[0, 1],
+        zero_division=1)
+    print("precision:", t_p)
+    print("recall", t_r)
+    print("f1", t_f)
+    print("macro", np.mean(t_f, axis=0))
+
+    print("===Macro F1===")
+    precision = np.mean(precision, axis=0)
+    recall = np.mean(recall, axis=0)
+    f1 = np.mean(f1, axis=0)
+    print("precision:", precision)
+    print("recall", recall)
+    print("f1", f1)
+    print("macro", np.mean(f1, axis=0))
 
 
 if __name__ == "__main__":
