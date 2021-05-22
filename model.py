@@ -69,8 +69,6 @@ class MCModel(tf.keras.Model):
         super(MCModel, self).__init__()
         self.bert = bertencoder.BertEncoder(trainable=bert_trainable)
         self.tag_encoder = tag2vec.Leafnode_Encoder()
-        self.topTag_layer = tf.keras.layers.Dense(
-            ff_dim, activation='relu', name="topTag Layer")
         self.topEmb_layer = tf.keras.layers.Dense(
             ff_dim, activation='relu', name="topEmb Layer")
         self.secEmb_layer = tf.keras.layers.Dense(
@@ -93,7 +91,6 @@ class MCModel(tf.keras.Model):
 
     def call(self, t, e):
         t = self.tag_encoder(t)
-        t = self.topTag_layer(t)
         e = self.topEmb_layer(e)
         e = self.secEmb_layer(e)
         x = self.concat_layer([t, e])
