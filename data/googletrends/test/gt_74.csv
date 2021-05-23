@@ -1,0 +1,374 @@
+tag,content,label,depth
+html body div span  ,Accessibility links,0,4
+html body div ul li a span  ,Skip to main content,0,7
+html body div ul li a span  ,Keyboard shortcuts for audio player,0,7
+html body header div div a span  ,NPR,0,7
+html body header div div a span  ,NPR,0,7
+html body header div div a span  ,NPR Music,0,7
+html body header div div a span b span  ,NPR,0,9
+html body header div div a span  ,Books,0,7
+html body header div div a span b span  ,NPR,0,9
+html body header div div a span  ,About,0,7
+html body header div div a span b span  ,NPR,0,9
+html body header div div a span  ,Podcast Directory,0,7
+html body header div div div a span  ,Search,0,8
+html body header div div nav div ul li a span  ,NPR Home,0,11
+html body header div div nav div ul li div a span  ,Set station,0,12
+html body header div div nav div ul li a span  ,News,0,11
+html body header div div nav div ul li a span  ,Arts & Life,0,11
+html body header div div nav div ul li a span  ,Music,0,11
+html body header div div nav div ul li a span  ,Topics,0,11
+html body header div div nav div ul li a span  ,Programs,0,11
+html body header div div nav div ul li a b span  ,& Podcasts,0,12
+html body header div div nav div ul li a span  ,NPR Music,0,11
+html body header div div nav div ul li a span  ,News,0,11
+html body header div div nav div ul li a span  ,Features,0,11
+html body header div div nav div ul li a span  ,New Music,0,11
+html body header div div nav div ul li a span  ,Video,0,11
+html body header div div nav div ul li a span  ,Tiny Desk,0,11
+html body header div div nav div ul li a span  ,NPR Books,0,11
+html body header div div nav div ul li a b span  ,Author,0,12
+html body header div div nav div ul li a span  ,Interviews,0,11
+html body header div div nav div ul li a span  ,Find Books,0,11
+html body header div div nav div ul li a span  ,Reviews,0,11
+html body header div div nav div ul li a span  ,About NPR,0,11
+html body header div div nav div ul li a span  ,Overview,0,11
+html body header div div nav div ul li a span  ,Connect,0,11
+html body header div div nav div ul li a span  ,Support,0,11
+html body header div div nav div ul li a span  ,Press,0,11
+html body header div div nav div ul li a span  ,Careers,0,11
+html body header div div nav div ul li a span  ,Podcast Directory,0,11
+html body header div div nav div ul li a span  ,Categories,0,11
+html body header div div nav div ul li div a span  ,Set station,0,12
+html body header div div nav div ul li a b span  ,NPR,0,12
+html body header div div nav div ul li a span  ,Shop,0,11
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div div span a span  ,News,0,11
+html body header div div nav div div ul li a span  ,National,0,12
+html body header div div nav div div ul li a span  ,World,0,12
+html body header div div nav div div ul li a span  ,Politics,0,12
+html body header div div nav div div ul li a span  ,Business,0,12
+html body header div div nav div div ul li a span  ,Technology,0,12
+html body header div div nav div div ul li a span  ,Science,0,12
+html body header div div nav div div ul li a span  ,Health,0,12
+html body header div div nav div div ul li a span  ,Race & Culture,0,12
+html body header div div nav div div ul li a span  ,Education,0,12
+html body header div div nav div div span a span  ,Arts & Life,0,11
+html body header div div nav div div ul li a span  ,Books,0,12
+html body header div div nav div div ul li a span  ,Movies,0,12
+html body header div div nav div div ul li a span  ,Pop Culture,0,12
+html body header div div nav div div ul li a span  ,Food,0,12
+html body header div div nav div div ul li a span  ,Art & Design,0,12
+html body header div div nav div div ul li a span  ,Performing Arts,0,12
+html body header div div nav div div ul li a span  ,Photography,0,12
+html body header div div nav div div span a span  ,Music,0,11
+html body header div div nav div div ul li a span  ,First Listen,0,12
+html body header div div nav div div ul li a span  ,Tiny Desk,0,12
+html body header div div nav div div ul li a span  ,Videos,0,12
+html body header div div nav div div span  ,More,0,9
+html body header div div nav div div ul li a span  ,Our Blogs,0,12
+html body header div div nav div div ul li a span  ,Corrections,0,12
+html body header div div nav div div ul li a span  ,All About NPR,0,12
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div div span  ,News & Conversations,0,9
+html body header div div nav div div ul li a span  ,Morning Edition,0,12
+html body header div div nav div div ul li a span  ,All Things Considered,0,12
+html body header div div nav div div ul li a span  ,Fresh Air,0,12
+html body header div div nav div div ul li a span  ,Here & Now,0,12
+html body header div div nav div div ul li a span  ,1A,0,12
+html body header div div nav div div ul li a span  ,Code Switch,0,12
+html body header div div nav div div ul li a span  ,Embedded,0,12
+html body header div div nav div div ul li a span  ,The Indicator from Planet Money,0,12
+html body header div div nav div div ul li a span  ,It's Been a Minute with Sam Sanders,0,12
+html body header div div nav div div ul li a span  ,Latino USA,0,12
+html body header div div nav div div ul li a span  ,NPR Politics Podcast,0,12
+html body header div div nav div div ul li a span  ,On Point,0,12
+html body header div div nav div div ul li a span  ,Rough Translation,0,12
+html body header div div nav div div ul li a span  ,Up First,0,12
+html body header div div nav div div ul li a span  ,Weekend Edition Saturday,0,12
+html body header div div nav div div ul li a span  ,Weekend Edition Sunday,0,12
+html body header div div nav div div ul li a span  ,What's Good with Stretch & Bobbito,0,12
+html body header div div nav div div ul li a span  ,Youth Radio,0,12
+html body header div div nav div div span  ,Storytelling & Humor,0,9
+html body header div div nav div div ul li a span  ,Ask Me Another,0,12
+html body header div div nav div div ul li a span  ,The Best Of Car Talk,0,12
+html body header div div nav div div ul li a span  ,Bullseye,0,12
+html body header div div nav div div ul li a span  ,Hidden Brain,0,12
+html body header div div nav div div ul li a span  ,How I Built This,0,12
+html body header div div nav div div ul li a span  ,Invisibilia,0,12
+html body header div div nav div div ul li a span  ,Only A Game,0,12
+html body header div div nav div div ul li a span  ,Planet Money,0,12
+html body header div div nav div div ul li a span  ,Pop Culture Happy Hour,0,12
+html body header div div nav div div ul li a span  ,Radio Ambulante,0,12
+html body header div div nav div div ul li a span  ,StoryCorps,0,12
+html body header div div nav div div ul li a span  ,TED Radio Hour,0,12
+html body header div div nav div div ul li a span  ,Wait Wait...Don't Tell Me!,0,12
+html body header div div nav div div ul li a span  ,Wow in the World,0,12
+html body header div div nav div div span  ,Music,0,9
+html body header div div nav div div ul li a span  ,First Listen,0,12
+html body header div div nav div div ul li a span  ,All Songs Considered,0,12
+html body header div div nav div div ul li a span  ,Tiny Desk,0,12
+html body header div div nav div div ul li a span  ,Alt.Latino,0,12
+html body header div div nav div div ul li a span  ,From The Top,0,12
+html body header div div nav div div ul li a span  ,Jazz Night In America,0,12
+html body header div div nav div div ul li a span  ,Mountain Stage,0,12
+html body header div div nav div div ul li a span  ,Piano Jazz,0,12
+html body header div div nav div div ul li a span  ,The Thistle & Shamrock,0,12
+html body header div div nav div div ul li a span  ,World Cafe,0,12
+html body header div div nav div div span  ,More,0,9
+html body header div div nav div div ul li a span  ,All Programs,0,12
+html body header div div nav div div ul li a span  ,Podcast Directory,0,12
+html body header div div nav div div ul li a span  ,NPR Podcasts,0,12
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div div ul li a span  ,Art & Design,0,12
+html body header div div nav div div ul li a span  ,Arts & Entertainment,0,12
+html body header div div nav div div ul li a span  ,Biography & Memoir,0,12
+html body header div div nav div div ul li a span  ,Business & Economy,0,12
+html body header div div nav div div ul li a span  ,Children's Books,0,12
+html body header div div nav div div ul li a span  ,Comedy,0,12
+html body header div div nav div div ul li a span  ,Comics & Graphic Novels,0,12
+html body header div div nav div div ul li a span  ,Digital Culture,0,12
+html body header div div nav div div ul li a span  ,Faith & Spirituality,0,12
+html body header div div nav div div ul li a span  ,Food & Wine,0,12
+html body header div div nav div div ul li a span  ,History & Society,0,12
+html body header div div nav div div ul li a span  ,Historical Fiction,0,12
+html body header div div nav div div ul li a span  ,Horror & Supernatural,0,12
+html body header div div nav div div ul li a span  ,Literary Fiction,0,12
+html body header div div nav div div ul li a span  ,Mystery & Thrillers,0,12
+html body header div div nav div div ul li a span  ,Parenting & Families,0,12
+html body header div div nav div div ul li a span  ,Poetry,0,12
+html body header div div nav div div ul li a span  ,Politics & Public Affairs,0,12
+html body header div div nav div div ul li a span  ,Romance,0,12
+html body header div div nav div div ul li a span  ,Science Fiction & Fantasy,0,12
+html body header div div nav div div ul li a span  ,Science & Health,0,12
+html body header div div nav div div ul li a span  ,Sports,0,12
+html body header div div nav div div ul li a span  ,Travel,0,12
+html body header div div nav div div ul li a span  ,Young Adult,0,12
+html body header div div nav div div ul li a span  ,Nonfiction,0,12
+html body header div div nav div div ul li a span  ,Fiction,0,12
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div ul li a span  ,Book Reviews,0,11
+html body header div div nav div ul li a span  ,This Week's Must Read,0,11
+html body header div div nav div ul li a span  ,My Guilty Pleasure,0,11
+html body header div div nav div ul li a span  ,Three Books...,0,11
+html body header div div nav div ul li a span  ,PG-13: Risky Reads,0,11
+html body header div div nav div ul li a span  ,You Must Read This,0,11
+html body header div div nav div ul li a span  ,Summer Books,0,11
+html body header div div nav div ul li a span  ,Best Books of the Year,0,11
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div ul li a span  ,Overview,0,11
+html body header div div nav div ul li a span  ,Overview and History,0,11
+html body header div div nav div ul li a span  ,Mission and Vision,0,11
+html body header div div nav div ul li a span  ,Stations and Public Media,0,11
+html body header div div nav div ul li a span  ,NPR Finances,0,11
+html body header div div nav div ul li a span  ,People,0,11
+html body header div div nav div ul li a span  ,Ethics,0,11
+html body header div div nav div ul li a span  ,Awards,0,11
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div ul li a span  ,Visit NPR,0,11
+html body header div div nav div ul li a span  ,NPR Events,0,11
+html body header div div nav div ul li a span  ,Book a Speaker,0,11
+html body header div div nav div ul li a span  ,Request Permissions,0,11
+html body header div div nav div ul li a span  ,Ways to Listen,0,11
+html body header div div nav div ul li a span  ,NPR Extra Blog,0,11
+html body header div div nav div ul li a span  ,Email Newsletters,0,11
+html body header div div nav div ul li a span  ,Shop NPR,0,11
+html body header div div nav div ul li a span  ,Get Help,0,11
+html body header div div nav div ul li a span  ,Contact Us,0,11
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div ul li a span  ,Support Public Radio,0,11
+html body header div div nav div ul li a span  ,Corporate Sponsorship,0,11
+html body header div div nav div ul li a span  ,Volunteer,0,11
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div ul li a span  ,Releases and Statements,0,11
+html body header div div nav div ul li a span  ,Photos and Logos,0,11
+html body header div div nav div ul li a span  ,Fact Sheet (PDF),0,11
+html body header div div nav div ul li a span  ,Media Relations Contacts,0,11
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div ul li a span  ,Careers at NPR,0,11
+html body header div div nav div ul li a span  ,Search Jobs,0,11
+html body header div div nav div ul li a span  ,Culture,0,11
+html body header div div nav div ul li a span  ,Applying,0,11
+html body header div div nav div ul li a span  ,Interns,0,11
+html body header div div nav div ul li a span  ,Fellows,0,11
+html body header div div nav div ul li a span  ,Digital,0,11
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div div ul li a span  ,Arts,0,12
+html body header div div nav div div ul li a span  ,Business,0,12
+html body header div div nav div div ul li a span  ,Comedy,0,12
+html body header div div nav div div ul li a span  ,Education,0,12
+html body header div div nav div div ul li a span  ,Games & Hobbies,0,12
+html body header div div nav div div ul li a span  ,Government & Organizations,0,12
+html body header div div nav div div ul li a span  ,Health,0,12
+html body header div div nav div div ul li a span  ,Kids & Family,0,12
+html body header div div nav div div ul li a span  ,Music,0,12
+html body header div div nav div div ul li a span  ,News & Politics,0,12
+html body header div div nav div div ul li a span  ,Religion & Spirituality,0,12
+html body header div div nav div div ul li a span  ,Science & Medicine,0,12
+html body header div div nav div div ul li a span  ,Society & Culture,0,12
+html body header div div nav div div ul li a span  ,Sports & Recreation,0,12
+html body header div div nav div div ul li a span  ,Technology,0,12
+html body header div div nav div div ul li a span  ,TV & Film,0,12
+html body header div nav ul li div a span  ,Set station,0,10
+html body header div nav ul li a b span  ,NPR,0,10
+html body header div nav ul li a span  ,Shop,0,9
+html body main div b span  ,"Still Reinventing At 80, Jane Fonda Says, 'I Feel Better Than I Ever Have'",0,6
+html body main div b span  ,"The actress, activist and fitness icon is the subject of the documentary",0,6
+html body main div b em span  ,Jane Fonda in Five Acts.,0,7
+html body main div b span  ,"Married three times, she says,",0,6
+html body main div b em span  ,"""",0,7
+html body main div b span  ,"It took me into my 60s and 70s to begin to say: I deserve respect.""",0,6
+html body main div div div article div h4 span  ,"Still Reinventing At 80, Jane Fonda Says, 'I Feel Better Than I Ever Have'",0,10
+html body main div div div article div div div time span  ,7:55,0,12
+html body main div div div article div div ul li a b span  ,Download,0,14
+html body main div div div article div div ul li div label b span  ,Embed,0,15
+html body main div div div article div div ul li div b code b span  ,<,0,16
+html body main div div div article div div ul li div b code span  ,"iframe src=""https://www.npr.org/player/embed/651167286/651221403"" width=""100%"" height=""290"" frameborder=""0"" scrolling=""no"" title=""NPR embedded audio player"">",0,15
+html body main div div div article div div ul li a b span  ,Transcript,0,14
+html body main div div div a b span  ,"Still Reinventing At 80, Jane Fonda Says, 'I Feel Better Than I Ever Have'",0,9
+html body main div div div a time span  ,7:55,0,9
+html body main div section article div h3 a span  ,Movie Interviews,0,10
+html body main div section article div h1 span  ,"Still Reinventing At 80, Jane Fonda Says, 'I Feel Better Than I Ever Have'",1,9
+html body main div section article div div article div h4 span  ,"Still Reinventing At 80, Jane Fonda Says, 'I Feel Better Than I Ever Have'",0,12
+html body main div section article div div article div div div time span  ,7:55,0,14
+html body main div section article div div article div div ul li a b span  ,Download,0,16
+html body main div section article div div article div div ul li div label b span  ,Embed,0,17
+html body main div section article div div article div div ul li div b code b span  ,<,0,18
+html body main div section article div div article div div ul li div b code span  ,"iframe src=""https://www.npr.org/player/embed/651167286/651221403"" width=""100%"" height=""290"" frameborder=""0"" scrolling=""no"" title=""NPR embedded audio player"">",0,17
+html body main div section article div div article div div ul li a b span  ,Transcript,0,16
+html body main div section article div div div time span  ,"September 24, 2018",1,11
+html body main div section article div div div time span  ,5:02 PM ET,1,11
+html body main div section article div div div span  ,Heard on,0,10
+html body main div section article div div div a span  ,All Things Considered,0,11
+html body main div section article div div div div div div p a span  ,Ari Shapiro,1,15
+html body main div section article div div div div div div a span  ,Facebook,0,14
+html body main div section article div div div div div div a span  ,Twitter,0,14
+html body main div section article div div div div div div a span  ,Tumblr,0,14
+html body main div section article div div div div div div a span  ,Instagram,0,14
+html body main div section article div div div div div p span  ,"""In order to know where you're going you have to know where you've been,"" says actress Jane Fonda ??? and she's been in a lot of places. The 80-year-old actress, activist and fitness icon is the subject of a new HBO documentary,",0,13
+html body main div section article div div div div div p em span  ,Jane Fonda in Five Acts.,0,14
+html body main div section article div div div div div p b span  ,Arthur Mola/Invision/AP,0,14
+html body main div section article div div div div div p b b span  ,hide caption,0,15
+html body main div section article div div div div b b span  ,toggle caption,0,13
+html body main div section article div div div span  ,Arthur Mola/Invision/AP,0,10
+html body main div section article div div div div p span  ,"""In order to know where you're going you have to know where you've been,"" says actress Jane Fonda ??? and she's been in a lot of places. The 80-year-old actress, activist and fitness icon is the subject of a new HBO documentary,",0,12
+html body main div section article div div div div p em span  ,Jane Fonda in Five Acts.,0,13
+html body main div section article div div div div span  ,Arthur Mola/Invision/AP,0,11
+html body main div section article div p span  ,"About 20 years ago, to mark her 60th birthday, Jane Fonda asked for her daughter's help in creating a very short video about her life. Her daughter suggested, ""Why don't you just get a chameleon to crawl across the screen?""",1,9
+html body main div section article div p span  ,"""Ouch,"" Fonda says, recalling the conversation. ""She knew what buttons to push and she wasn't wrong.""",1,9
+html body main div section article div p span  ,"Fonda has lived many lives. From starlet, to fitness guru, to Vietnam protester ??? now 80, she's a comedic actress, securing roles at an age when many in Hollywood would have left the screen.",1,9
+html body main div section article div p span  ,Filmmaker Susan Lacy tells Fonda's story in a new HBO documentary called,1,9
+html body main div section article div p em span  ,Jane Fonda in Five Acts.,1,10
+html body main div section article div p span  ,"The first four acts are organized around the men in Fonda's life ??? her father, Henry Fonda, and her three husbands, Roger Vadim, Tom Hayden and Ted Turner. The last act is Fonda's own.",1,9
+html body main div section article div div div div div p span  ,"At the outset, the money from Fonda's workout videos went to the Campaign for Economic Democracy, an organization she co-founded with her second husband, Tom Hayden. Above, she exercises in her Beverly Hills studio in September 1979.",0,13
+html body main div section article div div div div div p b span  ,Reed Saxon/AP,0,14
+html body main div section article div div div div div p b b span  ,hide caption,0,15
+html body main div section article div div div div b b span  ,toggle caption,0,13
+html body main div section article div div div span  ,Reed Saxon/AP,0,10
+html body main div section article div div div div p span  ,"At the outset, the money from Fonda's workout videos went to the Campaign for Economic Democracy, an organization she co-founded with her second husband, Tom Hayden. Above, she exercises in her Beverly Hills studio in September 1979.",0,12
+html body main div section article div div div div span  ,Reed Saxon/AP,0,11
+html body main div section article div p span  ,"Fonda acknowledges she's redefined herself again and again, but says her courage has been a constant. ""I've always been brave,"" she says. ""There's been a certain integrity and that was always there in spite of my willingness and talent at becoming who my husbands wanted me to be.""",1,9
+html body main div section article div p span  ,"Lacy describes the documentary as a portrait. Fonda ??? who only saw the film after it was complete ??? says it's a ""gender journey.""",1,9
+html body main div section article div p span  ,"At every stage of her life, Fonda says she's asked herself:",1,9
+html body main div section article div p em span  ,Am I all that I can be?,1,10
+html body main div section article div p span  ,"""One of the things I hope that people will take away from my documentary is the value of an examined life,"" she says. ""You don't become wise by having a lot of experience; you become wise by reflecting deeply on the experiences that you've had.""",1,9
+html body main div section article div p span  ,"""I'm almost 81 and I feel better than I ever have,"" she adds. ""I know that sounds preposterous, but it's true.""",1,9
+html body main div section article div h3 span  ,Interview Highlights,1,9
+html body main div section article div p strong span  ,"On being a ""late bloomer""",1,10
+html body main div section article div p span  ,"Up until my 60s, I never thought that relationships should be democratic. I had never seen a democratic relationship between a man and a woman. Certainly my father who was married five times ??? none of his relationships were democratic. So I just thought it was the way things are supposed to be. I tried to do whatever I could do to be sure that the men I was with ??? all of whom were utterly brilliant and fascinating ??? loved me.",1,9
+html body main div section article div p span  ,"I was a pleaser and it took me into my 60s and 70s to begin to say: I deserve respect. I am somebody on my own standing, on my own two feet, and I'm going to begin to define my own life. [It] took a long time, but we live so much longer ... than our parents and grandparents on average. So it's not bad being a late bloomer.",1,9
+html body main div section article div div div div div p span  ,"Fonda participates in a demonstration in Rome on March 8, 1972.",0,13
+html body main div section article div div div div div p b span  ,Claudio Luffoli/AP,0,14
+html body main div section article div div div div div p b b span  ,hide caption,0,15
+html body main div section article div div div div b b span  ,toggle caption,0,13
+html body main div section article div div div span  ,Claudio Luffoli/AP,0,10
+html body main div section article div div div div p span  ,"Fonda participates in a demonstration in Rome on March 8, 1972.",0,12
+html body main div section article div div div div span  ,Claudio Luffoli/AP,0,11
+html body main div section article div p strong span  ,On not regretting her marriages,1,10
+html body main div section article div p span  ,"You have to own your mistakes and you have to learn from them. And while my three marriages didn't last, I don't regret any of them. I learned a tremendous amount from all three remarkable men that I was married to. And I think I had to go through that to end up where I am.",1,9
+html body main div section article div p strong span  ,"On her father, actor Henry Fonda ??? and why she decided to do something unexpected during the filming of the 1981 film",1,10
+html body main div section article div p strong em span  ,On Golden Pond,1,11
+html body main div section article div p span  ,"He hated emotion ??? emotion terrified him, which is pretty interesting in an actor. He always wanted to do things exactly the way they had been rehearsed. And so when we were playing that scene I waited until what I thought was going to be his last close-up and then I did something that we had not rehearsed. ... I reached out and",1,9
+html body main div section article div p a span  ,I touched his arm,1,10
+html body main div section article div p span  ,and he ducks his head and he reaches his hand up to cover his eyes. ... I could see his eyes well up and it meant the world to me. All the audience sees is him kind of turning away and ducking his head and covering his eyes. It was a big deal for me. ... I cry every time I see it ... it was so hard for me to do.,1,9
+html body main div section article div div div div div p span  ,"Jane Fonda, right, starred alongside her father, Henry Fonda, and Katharine Hepburn in the 1981 film",0,13
+html body main div section article div div div div div p em span  ,On Golden Pond.,0,14
+html body main div section article div div div div div p b span  ,Everett Collection/Courtesy of Universal/HBO,0,14
+html body main div section article div div div div div p b b span  ,hide caption,0,15
+html body main div section article div div div div b b span  ,toggle caption,0,13
+html body main div section article div div div span  ,Everett Collection/Courtesy of Universal/HBO,0,10
+html body main div section article div div div div p span  ,"Jane Fonda, right, starred alongside her father, Henry Fonda, and Katharine Hepburn in the 1981 film",0,12
+html body main div section article div div div div p em span  ,On Golden Pond.,0,13
+html body main div section article div div div div span  ,Everett Collection/Courtesy of Universal/HBO,0,11
+html body main div section article div p strong span  ,On learning to accept the relationship she had with her father,1,10
+html body main div section article div p span  ,"One of the great things about getting older ??? if you've bothered to really examine your life and really figure out who your parents were, and who your grandparents were ??? you come to the realization, as I did with my father, that it's not that he didn't love me ??? he just didn't know how to express it. ... But he did the best he could.",1,9
+html body main div section article div p strong span  ,On her complicated relationship with her own daughter,1,10
+html body main div section article div p span  ,I've studied parenting ... and I came to understand what good parenting looks like. I didn't know that when I became a parent so I just I didn't know what to do. But I know now that it's never too late. I think my daughter and I are growing closer. I flew her from where she lives in Vermont to be with me in California and I showed her the documentary ... she's not in it ??? she chose not to be in it ??? and I didn't want her to see it publicly. I wanted her to be with me and ???,1,9
+html body main div section article div p em span  ,phew!,1,10
+html body main div section article div p span  ,"??? she liked it. She thought it was really, really well done. She cried a lot. So that was a huge blessing for me.",1,9
+html body main div section article div div h3 span  ,Hear More With Jane Fonda,0,10
+html body main div section article div div div h4 span  ,TV Reviews,0,11
+html body main div section article div div div h2 span  ,'Jane Fonda In Five Acts' Reveals The Shifting Identities Of An Icon,0,11
+html body main div section article div div div article div h4 span  ,'Jane Fonda In Five Acts' Reveals The Shifting Identities Of An Icon,0,13
+html body main div section article div div div article div div div time span  ,5:45,0,15
+html body main div section article div div div article div div ul li a b span  ,Download,0,17
+html body main div section article div div div article div div ul li div label b span  ,Embed,0,18
+html body main div section article div div div article div div ul li div b code b span  ,<,0,19
+html body main div section article div div div article div div ul li div b code span  ,"iframe src=""https://www.npr.org/player/embed/650460554/650520439"" width=""100%"" height=""290"" frameborder=""0"" scrolling=""no"" title=""NPR embedded audio player"">",0,18
+html body main div section article div div div article div div ul li a b span  ,Transcript,0,17
+html body main div section article div div div h4 span  ,Books,0,11
+html body main div section article div div div h2 span  ,Jane Fonda's 'Life So Far',0,11
+html body main div section article div div div article div h4 span  ,Jane Fonda's 'Life So Far',0,13
+html body main div section article div div div article div div ul li a b span  ,Download,0,17
+html body main div section article div div div article div div ul li div label b span  ,Embed,0,18
+html body main div section article div div div article div div ul li div b code b span  ,<,0,19
+html body main div section article div div div article div div ul li div b code span  ,"iframe src=""https://www.npr.org/player/embed/4577048/4577049"" width=""100%"" height=""290"" frameborder=""0"" scrolling=""no"" title=""NPR embedded audio player"">",0,18
+html body main div section article div p strong span  ,On remaking the 1980 movie,1,10
+html body main div section article div p strong em span  ,9 to 5,1,11
+html body main div section article div p span  ,"We have writers working on a script for a sequel with a very funny premise and I'm hoping it will happen. ... The issues in offices for women today are even worse than they were back in the day when we made the original. ... Sexual harassment is not abating in offices so that's still very much a topic. But today many people in all kinds of jobs ??? not just office workers ??? they're not beholden to the boss. They're hired by another company and then subcontracted to the company where they work. So if they're fired because of pregnancy, or there's wage theft, or sexual harassment, who do they go to? ... I mean it's just a catastrophe for more and more working people. And we want to try to hit all that and still have it be really funny.",1,9
+html body main div section article div p strong span  ,"On her ""final act""",1,10
+html body main div section article div p span  ,"Final acts are really important ??? just like they are in the theater. ... I have since 2002 spent a lot of time ... determining what I want to do with my final act. ... I didn't want to get to the end of my life with a lot of regrets when it was too late to do anything about it. ... It's important to face death, and accept it, and understand it, because then you can kind of prepare. I visualize my death and I want to have people I love around me ??? which means between now and then I have to deserve to have people around me who love me.",1,9
+html body main div section article div p em span  ,Marc Rivers and Emily Kopp produced and edited this interview for broadcast. Beth Novey adapted it for the Web.,1,10
+html body main div section article div section div h2 span  ,Sign Up For The NPR Daily Newsletter,0,11
+html body main div section article div section div p span  ,"Catch up on the latest headlines and unique NPR stories, sent every weekday.",0,11
+html body main div section article div section div form label span  ,E-mail address,0,12
+html body main div section article div section div footer p span  ,"By subscribing, you agree to",0,12
+html body main div section article div section div footer p a span  ,NPR's terms of use,0,13
+html body main div section article div section div footer p span  ,and,0,12
+html body main div section article div section div footer p a span  ,privacy policy,0,13
+html body main div section article div section div footer p span  ,.,0,12
+html body main div section footer div div div h6 span  ,Read & Listen,0,11
+html body main div section footer div div div ul li a span  ,Home,0,13
+html body main div section footer div div div ul li a span  ,News,0,13
+html body main div section footer div div div ul li a span  ,Arts & Life,0,13
+html body main div section footer div div div ul li a span  ,Music,0,13
+html body main div section footer div div div ul li a span  ,Podcasts,0,13
+html body main div section footer div div div ul li a span  ,Programs,0,13
+html body main div section footer div div div h6 span  ,Connect,0,11
+html body main div section footer div div div ul li a span  ,Newsletters,0,13
+html body main div section footer div div div ul li a span  ,Facebook,0,13
+html body main div section footer div div div ul li a span  ,Twitter,0,13
+html body main div section footer div div div ul li a span  ,Instagram,0,13
+html body main div section footer div div div ul li a span  ,Contact,0,13
+html body main div section footer div div div ul li a span  ,Help,0,13
+html body main div section footer div div div h6 span  ,About NPR,0,11
+html body main div section footer div div div ul li a span  ,Overview,0,13
+html body main div section footer div div div ul li a span  ,Finances,0,13
+html body main div section footer div div div ul li a span  ,People,0,13
+html body main div section footer div div div ul li a span  ,Press,0,13
+html body main div section footer div div div ul li a span  ,Ombudsman,0,13
+html body main div section footer div div div ul li a span  ,Corrections,0,13
+html body main div section footer div div div h6 span  ,Get Involved,0,11
+html body main div section footer div div div ul li a span  ,Support Public Radio,0,13
+html body main div section footer div div div ul li a span  ,Sponsor NPR,0,13
+html body main div section footer div div div ul li a span  ,NPR Careers,0,13
+html body main div section footer div div div ul li a span  ,NPR Shop,0,13
+html body main div section footer div div div ul li a span  ,NPR Events,0,13
+html body main div section footer div div div ul li a span  ,Visit NPR,0,13
+html body main div section footer div div ul li a span  ,Terms of Use,0,12
+html body main div section footer div div ul li a span  ,Privacy,0,12
+html body main div section footer div div ul li a span  ,Your Privacy Choices,0,12
+html body main div section footer div div ul li a span  ,Text Only,0,12
+html body main div section footer div div ul li span  ,?? 2018 npr,0,11
+html body main div div aside p span  ,NPR thanks our sponsors,0,8
+html body main div div aside p a span  ,Become an NPR sponsor,0,9

@@ -1,0 +1,148 @@
+tag,content,label,depth
+html body nav div ul li a span  ,Skip to content,0,8
+html body nav div ul li a span  ,The Atlantic,0,8
+html body nav div ul li a span  ,Popular,0,8
+html body nav div ul li a span  ,Latest,0,8
+html body nav div ul li a span  ,Sections,0,8
+html body nav div ul li div strong span  ,Sections,0,9
+html body nav div ul li div section ul li a span  ,Politics & Policy,0,12
+html body nav div ul li div section ul li a span  ,Culture,0,12
+html body nav div ul li div section ul li a span  ,Technology,0,12
+html body nav div ul li div section ul li a span  ,Ideas,0,12
+html body nav div ul li div section ul li a span  ,Science,0,12
+html body nav div ul li div section ul li a span  ,Books,0,12
+html body nav div ul li div section ul li a span  ,Family,0,12
+html body nav div ul li div section ul li a span  ,Business,0,12
+html body nav div ul li div section ul li a span  ,Global,0,12
+html body nav div ul li div section ul li a span  ,Health,0,12
+html body nav div ul li div section ul li a span  ,Education,0,12
+html body nav div ul li div section ul li a span  ,Letters,0,12
+html body nav div ul li div section ul li a span  ,The Masthead,0,12
+html body nav div ul li div section ul li a span  ,Photo,0,12
+html body nav div ul li div section ul li a span  ,Podcasts,0,12
+html body nav div ul li div section ul li a span  ,Video,0,12
+html body nav div ul li div section ul li a span  ,The Atlantic Festival,0,12
+html body nav div ul li div section ul li a span  ,Events,0,12
+html body nav div ul li div section ul li a span  ,Writers,0,12
+html body nav div ul li div section ul li a span  ,Projects,0,12
+html body nav div ul li a span  ,Magazine,0,8
+html body nav div ul li div strong span  ,Magazine,0,9
+html body nav div ul li div section ul li a span  ,Current issue,0,12
+html body nav div ul li div section ul li a span  ,All issues,0,12
+html body nav div ul li div section ul li a span  ,Manage subscription,0,12
+html body nav div ul li div section ul li a span  ,Subscribe,0,12
+html body nav div ul li a span  ,More,0,8
+html body nav div ul li a span span  ,Categories,0,9
+html body nav div ul li div strong span  ,More,0,9
+html body nav div ul li div section ul li a span  ,Create account,0,12
+html body nav div ul li div section ul li a span  ,Your account,0,12
+html body nav div ul li div section ul li a span  ,Sign in,0,12
+html body nav div ul li div section ul li a span  ,Sign out,0,12
+html body nav div ul li div section ul li a span  ,Newsletters,0,12
+html body nav div ul li div section ul li a span  ,iOS App,0,12
+html body nav div ul li div section ul li a span  ,Life Timeline,0,12
+html body nav div ul li div section ul li a span  ,Events,0,12
+html body nav div ul li div section ul li a span  ,Books,0,12
+html body nav div ul li div section ul li a span  ,Shop,0,12
+html body nav div ul li div section span a span  ,View all,0,11
+html body nav div ul li a span  ,Subscribe,0,8
+html body nav div ul li div a span  ,Search,0,9
+html body nav div ul li div div strong span  ,Search,0,10
+html body nav div ul li div div section strong span  ,Quick Links,0,11
+html body nav div ul li div div section ul li a span  ,James Fallows,0,13
+html body nav div ul li div div section ul li a span  ,Megan Garber,0,13
+html body nav div ul li div div section ul li a span  ,David Frum,0,13
+html body nav div ul li div div section ul li a span  ,Adam Serwer,0,13
+html body nav div ul li div div section ul li a span  ,Manage subscription,0,13
+html body nav div ul li div div form label span  ,Search The Atlantic,0,11
+html body nav div ul li div div div section strong span  ,Quick Links,0,12
+html body nav div ul li div div div section ul li a span  ,James Fallows,0,14
+html body nav div ul li div div div section ul li a span  ,Megan Garber,0,14
+html body nav div ul li div div div section ul li a span  ,David Frum,0,14
+html body nav div ul li div div div section ul li a span  ,Adam Serwer,0,14
+html body nav div ul li div div div section ul li a span  ,Manage subscription,0,14
+html body main article header div a span  ,Ideas,0,8
+html body main article header h1 span  ,Rosenstein’s Departure Is a National Emergency,1,7
+html body main article header div p span  ,Special Counsel Robert Mueller’s investigation is now in mortal peril.,1,8
+html body main article header div time span  ,"Sep 24, 2018",1,8
+html body main article header div div address div div a span  ,David Frum,1,12
+html body main article header div div address div div span  ,Staff writer at The Atlantic,1,11
+html body main article div div div figure figcaption span  ,Joshua Roberts / Reuters,0,10
+html body main article div div div div section ul li a span  ,Share,0,13
+html body main article div div div div section ul li a span  ,Tweet,0,13
+html body main article div div div div section ul li a span  ,Email,0,13
+html body main article div div div section p small i span  ,Updated on September 24 at 2:06 p.m. ET,1,12
+html body main article div div div section p span  ,You know those signs that say,1,10
+html body main article div div div section p span  ,"In case of emergency, break glass",1,10
+html body main article div div div section p span  ,?,1,10
+html body main article div div div section p span  ,This is that emergency.,1,10
+html body main article div div div section p span  ,President Donald Trump,1,10
+html body main article div div div section p a span  ,will reportedly soon fire,1,11
+html body main article div div div section p span  ,"Deputy Attorney General Rod Rosenstein, the man who has most directly protected the independence of Special Counsel Robert Mueller’s investigation into Russian interference in the 2016 election. Trump’s efforts to compromise that inquiry mean that Rosenstein’s position has been in peril for some time, but a",1,10
+html body main article div div div section p a span  ,report last week in,1,11
+html body main article div div div section p a em span  ,The New York Times,1,12
+html body main article div div div section p span  ,that Rosenstein had suggested wiretapping the president—,1,10
+html body main article div div div section p a span  ,potentially sarcastically,1,11
+html body main article div div div section p span  ,—made it likely that Trump would seek to push Rosenstein out.,1,10
+html body main article div div div section p span  ,"After a morning of contradictory reports, it now seems that Deputy Attorney General Rod Rosenstein will remain on the job at least until Thursday. The topsy-turvy story—and the still uncertain ultimate outcome—remind of a core lesson of the Trump years:",1,10
+html body main article div div div section p span  ,"What happens to U.S. institutions is not something only to watch. An energized public can deter the administration’s worst instincts—whether those are to browbeat a woman alleging sexual abuse or to fire Rosenstein and suppress the Mueller investigation. Since the firing of James Comey at the beginning of his administration, President Trump has flinched from direct confrontations with those trying to uphold the rule of law. It all depends on his sense of the risks of public outcry in the media and at the polls.",1,10
+html body main article div div div section p a span  ,What Rosenstein’s exit would mean for Mueller’s Russia investigation,0,11
+html body main article div div div section p span  ,If the president can browbeat Rosenstein into resigning—or even plausibly misrepresent the firing as a resignation—Trump gains the power to bypass the Senate confirmation process under the Federal Vacancies Reform Act. He can replace Rosenstein with any serving official previously confirmed by the Senate to any other job.,1,10
+html body main article div div div section p span  ,"The issue of “Did he resign or not?” is likely to end up being adjudicated by the Senate Judiciary Committee—the same body that has proven itself so uninterested in getting to the true bottom of the allegations against Brett Kavanaugh, Trump’s nominee to replace Justice Anthony Kennedy on the Supreme Court.",1,10
+html body main article div div div section p span  ,"The Trump White House has spread confusion in the past about whether appointees quit or were fired. After Secretary of State Rex Tillerson purportedly resigned, Chief of Staff John Kelly",1,10
+html body main article div div div section p a span  ,told a roomful of reporters,1,11
+html body main article div div div section p span  ,an especially humiliating account of how he had in fact terminated Tillerson.,1,10
+html body main article div div div section p a span  ,Firing Rosenstein won’t save Trump.,0,11
+html body main article div div div section p span  ,"At Veterans Affairs in March, the Trump White House executed an opposite maneuver, claiming that ousted Secretary David Shulkin had resigned when in fact he was",1,10
+html body main article div div div section p a span  ,fired,1,11
+html body main article div div div section p span  ,.,1,10
+html body main article div div div section p span  ,"But those past confusions were motivated usually by spite, vengefulness, or ordinary political butt covering. This time, the highest political and constitutional issues are at stake. If Trump can sell the claim that Rosenstein resigned, he can buy himself substantial impunity for many months—months in which the GOP may lose control of the Senate altogether. By the time a new Senate can reassert authority over the Department of Justice, the Mueller investigation may be long dead.",1,10
+html body main article div div div section p span  ,Break glass.,1,10
+html body main article div div div section section p span  ,We want to hear what you think about this article.,0,11
+html body main article div div div section section p a span  ,Submit a letter,0,12
+html body main article div div div section section p span  ,to the editor or write to letters@theatlantic.com.,0,11
+html body main article div div div section address div div a span  ,David Frum,0,13
+html body main article div div div section address div div span  ,is a staff writer at,0,12
+html body main article div div div section address div div em span  ,The Atlantic,0,13
+html body main article div div div section address div div span  ,and the author of,0,12
+html body main article div div div section address div div em a span  ,Trumpocracy: The Corruption of the American Republic,0,14
+html body main article div div div section address div div span  ,". In 2001 and 2002, he was a speechwriter for President George W. Bush.",0,12
+html body main article div div div section address div div a span  ,Twitter,0,13
+html body main div div section div div div p span  ,Mark the news as read,0,11
+html body main div div section div div div p span  ,"Get a roundup of the most important and intriguing stories from around the world, delivered to your inbox every weekday.",0,11
+html body main div div section div div div p span  ,Thanks for signing up!,0,11
+html body main div div section div div div div a span  ,See more newsletters,0,12
+html body main div div section div div div p span  ,The value of good journalism,0,11
+html body main div div section div div div p span  ,Subscribe and support our coverage of the ideas that matter – with up to 78% savings.,0,11
+html body main div div section div div div p a span  ,Subscribe,0,12
+html body footer div nav ul li div span  ,About,0,9
+html body footer div nav ul li div ul li a span  ,Our History,0,12
+html body footer div nav ul li div ul li a span  ,Staff,0,12
+html body footer div nav ul li div ul li a span  ,FAQ,0,12
+html body footer div nav ul li div ul li a span  ,Careers,0,12
+html body footer div nav ul li div ul li a span  ,Shop,0,12
+html body footer div nav ul li div span  ,Contact,0,9
+html body footer div nav ul li div ul li a span  ,Contact Us,0,12
+html body footer div nav ul li div ul li a span  ,Send a News Tip,0,12
+html body footer div nav ul li div ul li a span  ,Advertise,0,12
+html body footer div nav ul li div ul li a span  ,Press,0,12
+html body footer div nav ul li div span  ,Podcasts,0,9
+html body footer div nav ul li div ul li a span  ,Radio Atlantic,0,12
+html body footer div nav ul li div ul li a span  ,Crazy/Genius,0,12
+html body footer div nav ul li div ul li a span  ,The Atlantic Interview,0,12
+html body footer div nav ul li div ul li a span  ,Audio Articles,0,12
+html body footer div nav ul li div span  ,Subscription,0,9
+html body footer div nav ul li div ul li a span  ,Purchase,0,12
+html body footer div nav ul li div ul li a span  ,Give a Gift,0,12
+html body footer div nav ul li div ul li a span  ,Manage Subscription,0,12
+html body footer div nav ul li div ul li a span  ,Download iOS App,0,12
+html body footer div nav ul li div ul li a span  ,Newsletters,0,12
+html body footer div nav ul li div span  ,Follow,0,9
+html body footer div div div nav ul li a span  ,Privacy Policy,0,11
+html body footer div div div nav ul li a span  ,Advertising Guidelines,0,11
+html body footer div div div nav ul li a span  ,Terms and Conditions,0,11
+html body footer div div div nav ul li a span  ,Responsible Disclosure,0,11
+html body footer div div div nav ul li a span  ,World Edition,0,11
+html body footer div div div nav ul li a span  ,Site Map,0,11
+html body footer div div div p span  ,TheAtlantic.com Copyright (c) 2018 by The Atlantic Monthly Group. All Rights Reserved.,0,8
+html body footer div div p a span  ,The Atlantic,0,8

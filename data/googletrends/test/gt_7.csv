@@ -1,0 +1,333 @@
+tag,content,label,depth
+html body div header div a span  ,Fox News,0,7
+html body div header div div div nav ul li a span  ,U.S.,0,12
+html body div header div div div nav ul li a span  ,World,0,12
+html body div header div div div nav ul li a span  ,Opinion,0,12
+html body div header div div div nav ul li a span  ,Politics,0,12
+html body div header div div div nav ul li a span  ,Entertainment,0,12
+html body div header div div div nav ul li a span  ,Business,0,12
+html body div header div div div nav ul li a span  ,Lifestyle,0,12
+html body div header div div div nav ul li a span  ,TV,0,12
+html body div header div div div nav ul li a span  ,Radio,0,12
+html body div header div div div nav ul li a span  ,More,0,12
+html body div header div div div div a span  ,Expand / Collapse search,0,10
+html body div header div div div div div a span  ,Login,0,11
+html body div header div div div div a span  ,Watch TV,0,10
+html body div header div div div div a span  ,???,0,10
+html body div header div div div nav span  ,Hot Topics,0,9
+html body div header div div div nav ul li a span  ,Latest Kavanaugh developments,0,12
+html body div header div div div nav ul li a span  ,New Kavanaugh allegations,0,12
+html body div header div div div nav ul li a span  ,Ford polygraph test,0,12
+html body div header div div div nav ul li a span  ,Package sent to Biden,0,12
+html body div header div div div nav ul li a span  ,World Series snub?,0,12
+html body div header div div div nav ul li a span  ,Dem loses support,0,12
+html body div header div div div nav ul li a span  ,Package sent to Biden,0,12
+html body div header div div div nav ul li a span  ,World Series snub?,0,12
+html body div header div div div nav ul li a span  ,Dem loses support,0,12
+html body div header div div div nav h6 a span  ,U.S.,0,11
+html body div header div div div nav ul li a span  ,Crime,0,12
+html body div header div div div nav ul li a span  ,Military,0,12
+html body div header div div div nav ul li a span  ,Education,0,12
+html body div header div div div nav ul li a span  ,Terror,0,12
+html body div header div div div nav ul li a span  ,Immigration,0,12
+html body div header div div div nav ul li a span  ,Economy,0,12
+html body div header div div div nav ul li a span  ,Personal Freedoms,0,12
+html body div header div div div nav ul li a span  ,Fox News Investigates,0,12
+html body div header div div div nav h6 a span  ,World,0,11
+html body div header div div div nav ul li a span  ,U.N.,0,12
+html body div header div div div nav ul li a span  ,Conflicts,0,12
+html body div header div div div nav ul li a span  ,Terrorism,0,12
+html body div header div div div nav ul li a span  ,Disasters,0,12
+html body div header div div div nav ul li a span  ,Global Economy,0,12
+html body div header div div div nav ul li a span  ,Environment,0,12
+html body div header div div div nav ul li a span  ,Religion,0,12
+html body div header div div div nav ul li a span  ,Scandals,0,12
+html body div header div div div nav h6 a span  ,Opinion,0,11
+html body div header div div div nav h6 a span  ,Politics,0,11
+html body div header div div div nav ul li a span  ,Executive,0,12
+html body div header div div div nav ul li a span  ,Senate,0,12
+html body div header div div div nav ul li a span  ,House,0,12
+html body div header div div div nav ul li a span  ,Judiciary,0,12
+html body div header div div div nav ul li a span  ,Foreign policy,0,12
+html body div header div div div nav ul li a span  ,Polls,0,12
+html body div header div div div nav ul li a span  ,Elections,0,12
+html body div header div div div nav h6 a span  ,Entertainment,0,11
+html body div header div div div nav ul li a span  ,Celebrity News,0,12
+html body div header div div div nav ul li a span  ,Movies,0,12
+html body div header div div div nav ul li a span  ,TV News,0,12
+html body div header div div div nav ul li a span  ,Music News,0,12
+html body div header div div div nav ul li a span  ,Style News,0,12
+html body div header div div div nav ul li a span  ,Entertainment Video,0,12
+html body div header div div div nav h6 a span  ,Business,0,11
+html body div header div div div nav ul li a span  ,Markets,0,12
+html body div header div div div nav ul li a span  ,Politics,0,12
+html body div header div div div nav ul li a span  ,Technology,0,12
+html body div header div div div nav ul li a span  ,Features,0,12
+html body div header div div div nav ul li a span  ,Business Leaders,0,12
+html body div header div div div nav h6 a span  ,Lifestyle,0,11
+html body div header div div div nav ul li a span  ,Food + Drink,0,12
+html body div header div div div nav ul li a span  ,Cars + Trucks,0,12
+html body div header div div div nav ul li a span  ,Travel + Outdoors,0,12
+html body div header div div div nav ul li a span  ,House + Home,0,12
+html body div header div div div nav ul li a span  ,Fitness + Well-being,0,12
+html body div header div div div nav ul li a span  ,Style + Beauty,0,12
+html body div header div div div nav ul li a span  ,Family,0,12
+html body div header div div div nav h6 a span  ,Science,0,11
+html body div header div div div nav ul li a span  ,Archaeology,0,12
+html body div header div div div nav ul li a span  ,Air & Space,0,12
+html body div header div div div nav ul li a span  ,Planet Earth,0,12
+html body div header div div div nav ul li a span  ,Wild Nature,0,12
+html body div header div div div nav ul li a span  ,Natural Science,0,12
+html body div header div div div nav ul li a span  ,Dinosaurs,0,12
+html body div header div div div nav h6 a span  ,Tech,0,11
+html body div header div div div nav ul li a span  ,Security,0,12
+html body div header div div div nav ul li a span  ,Innovation,0,12
+html body div header div div div nav ul li a span  ,Drones,0,12
+html body div header div div div nav ul li a span  ,Computers,0,12
+html body div header div div div nav ul li a span  ,Video Games,0,12
+html body div header div div div nav ul li a span  ,Military Tech,0,12
+html body div header div div div nav h6 a span  ,Health,0,11
+html body div header div div div nav ul li a span  ,Healthy Living,0,12
+html body div header div div div nav ul li a span  ,Medical Research,0,12
+html body div header div div div nav ul li a span  ,Mental Health,0,12
+html body div header div div div nav ul li a span  ,Cancer,0,12
+html body div header div div div nav ul li a span  ,Heart Health,0,12
+html body div header div div div nav ul li a span  ,Children's Health,0,12
+html body div header div div div nav h6 a span  ,TV,0,11
+html body div header div div div nav ul li a span  ,Shows,0,12
+html body div header div div div nav ul li a span  ,Personalities,0,12
+html body div header div div div nav ul li a span  ,Watch Live,0,12
+html body div header div div div nav ul li a span  ,Full Episodes,0,12
+html body div header div div div nav ul li a span  ,Show Clips,0,12
+html body div header div div div nav ul li a span  ,News Clips,0,12
+html body div header div div div nav h6 span  ,About,0,10
+html body div header div div div nav ul li a span  ,Careers,0,12
+html body div header div div div nav ul li a span  ,College Students,0,12
+html body div header div div div nav ul li a span  ,Fox Around the World,0,12
+html body div header div div div nav ul li a span  ,Advertise With Us,0,12
+html body div header div div div nav ul li a span  ,Ad Choices,0,12
+html body div header div div div nav ul li a span  ,Email Newsroom,0,12
+html body div header div div div nav ul li a span  ,Media Relations,0,12
+html body div header div div div nav ul li a span  ,Compliance,0,12
+html body div header div div div nav h6 span  ,Other,0,10
+html body div header div div div nav ul li a span  ,Fox News Insider,0,12
+html body div header div div div nav ul li a span  ,Fox News Radio,0,12
+html body div header div div div nav ul li a span  ,Fox Nation,0,12
+html body div header div div div nav ul li a span  ,Fox News Go,0,12
+html body div header div div div nav ul li a span  ,Newsletters,0,12
+html body div header div div div nav ul li a span  ,Alerts,0,12
+html body div header div div div nav ul li a span  ,Podcasts,0,12
+html body div header div div div nav ul li a span  ,Apps & Products,0,12
+html body div header div div div ul li a span  ,Facebook,0,11
+html body div header div div div ul li a span  ,Twitter,0,11
+html body div header div div div ul li a span  ,Google+,0,11
+html body div header div div div ul li a span  ,Instagram,0,11
+html body div header div div div ul li a span  ,RSS,0,11
+html body div header div div div ul li a span  ,Email,0,11
+html body div header div div div a span  ,Fox News,0,9
+html body div header div div div ul li a span  ,Terms of Use,0,11
+html body div header div div div ul li a span  ,Privacy Policy,0,11
+html body div header div div div ul li a span  ,Closed Captioning Policy,0,11
+html body div header div div div ul li a span  ,Help,0,11
+html body div header div div div p span  ,"This material may not be published, broadcast, rewritten, or redistributed. ??2018 FOX News Network, LLC. All rights reserved. All market data delayed 20 minutes.",0,9
+html body div div div div div p span  ,Disgraced actor and comedian Bill Cosby will face a new trial for sexual assault allegations later this year.,0,9
+html body div div div div div p span  ,(Reuters/Charles Mostoller),0,9
+html body div div div div main article header div div a span  ,In Court,0,13
+html body div div div div main article header h1 span  ,Bill Cosby found guilty of sexual assault: A look at the case,1,11
+html body div div div div main article header div div span  ,By,0,12
+html body div div div div main article header div div span a span  ,Kaitlyn Schallhorn,1,14
+html body div div div div main article header div div span span a span  ,| Fox News,0,15
+html body div div div div main article header div div div ul li a span  ,Facebook,0,16
+html body div div div div main article header div div div ul li a span  ,Twitter,0,16
+html body div div div div main article header div div div ul li a span  ,Flipboard,0,16
+html body div div div div main article header div div div ul li a span  ,Comments,0,16
+html body div div div div main article header div div div ul li a span  ,Print,0,16
+html body div div div div main article header div div div ul li a span  ,Email,0,16
+html body div div div div main article div div div div div div a span  ,close,0,16
+html body div div div div main article div div div div div div div a span  ,Video,0,17
+html body div div div div main article div div div div div div div h4 a span  ,Bill Cosby guilty of all counts of sexual assault,0,18
+html body div div div div main article div div div div div div div p span  ,"After two trials and lengthy court battles, comedian Bill Cosby has been found guilty of all three counts of sexual assault against Andrea Constand. Now convicted, the comedian faces up to 30 years in prison.",0,17
+html body div div div div main article div div div p span  ,"In April, more than 14 years after he gave Andrea Constand pills that left her incapacitated in his home, Bill Cosby was",1,13
+html body div div div div main article div div div p a span  ,found guilty,1,14
+html body div div div div main article div div div p span  ,by a jury of sexual assault.,1,13
+html body div div div div main article div div div p span  ,"Now the 81-year-old once-revered comedian is set to be sentenced this week for drugging and molesting Constand, a former Temple University employee, in his Philadelphia home in 2004. He was convicted of three counts of aggravated indecent assault.",1,13
+html body div div div div main article div div div p span  ,"The hearing, beginning on Sept. 24, is expected to last two days, and the judge???s options are broad; Cosby could face up to 30 years in prison, but the state guidelines for someone like him, with no prior convictions, call for about one to four years behind bars.",1,13
+html body div div div div main article div div div p span  ,"Cosby is legally blind and uses a cane, something his lawyers are sure to point out during sentencing.",1,13
+html body div div div div main article div div div p span  ,"Cosby???s fall from grace is the first celebrity trial of the #MeToo era. More than a decade prior, Constand sued Cosby in 2005, settling for nearly $3.4 million. In the deposition for that case, Cosby admitted to buying Quaaludes and giving women drugs and alcohol before sex ??? although he said every interaction was consensual.",1,13
+html body div div div div main article div div div p span  ,"But in 2014, comedian Hannibal Buress",0,13
+html body div div div div main article div div div p a span  ,called Cosby a rapist,0,14
+html body div div div div main article div div div p span  ,during a show ??? opening the floodgates for more than 60 women to come forward and accuse the television star once called ???America???s Dad??? of rape and sexual assault.,0,13
+html body div div div div main article div div div p span  ,Constand???s allegations are the only ones that brought a criminal case against Cosby. Many of the other women???s accusations fall outside of the statute of limitations.,1,13
+html body div div div div main article div div div p span  ,"Ahead of sentencing, read on for a look at the case.",1,13
+html body div div div div main article div div div h3 b span  ,The allegations,1,14
+html body div div div div main article div div div div div p span  ,Andrea Constand has accused Bill Cosby of drugging and sexually assaulting her in 2004.,0,15
+html body div div div div main article div div div div div p span  ,(AP Photo/Dominick Reuter),0,15
+html body div div div div main article div div div p span  ,"Andrea Constand said she met Cosby when she was the director for the women???s basketball team at Temple, Cosby???s alma mater. The pair ???developed what [Constand] believed to be a sincere friendship,??? and Constand eventually looked to the older man as a mentor, according to court documents.",1,13
+html body div div div div main article div div div section header h2 span  ,More on the case...,0,15
+html body div div div div main article div div div section div ul li article a span  ,"'Cosby Show' actress speaks out after topless protest, arrest",0,18
+html body div div div div main article div div div section div ul li article a span  ,Cosby opening arguments reveal he paid $3.4 million to accuser,0,18
+html body div div div div main article div div div section div ul li article a span  ,Jury panel filled for Cosby sexual assault retrial as defense claims racism,0,18
+html body div div div div main article div div div section div ul li article a span  ,Cosby's lawyer falls asleep in court,0,18
+html body div div div div main article div div div p span  ,"She said Cosby made sexual advances toward her multiple times, but each time she turned him down. But on one specific visit to his home in January 2004, Cosby gave her ???three blue pills??? that blurred her vision and made her feel as though she was ???in and out??? of consciousness, according to court records.",1,13
+html body div div div div main article div div div p b a span  ,BILL COSBY IS MENTALLY PREPARING HIMSELF FOR PRISON,0,15
+html body div div div div main article div div div p span  ,"Cosby then engaged in sex acts with Constand, while she could not move or speak, that she did not consent to, she said.",1,13
+html body div div div div main article div div div p span  ,"In court, Constand???s mother testified, saying she spoke to Cosby on the phone about one year after the alleged incident. During the conversation, she said, Cosby apologized after he described in graphic detail the encounter. Gianna Constand also said her daughter would scream in her sleep after the assault.",1,13
+html body div div div div main article div div div h3 b span  ,Countering defense,1,14
+html body div div div div main article div div div div div p span  ,Bill Cosby's sexual assault retrial is slated to take place in April.,0,15
+html body div div div div main article div div div div div p span  ,(AP Photo/Matt Slocum),0,15
+html body div div div div main article div div div p span  ,"Throughout the trial, Cosby maintained that any interaction between the pair was consensual.",1,13
+html body div div div div main article div div div p span  ,"The jury heard Cosby???s past testimony addressing the Quaaludes given to women before sex. He said the pills were ???the same as a person [who] would say, ???Have a drink [of alcohol],??????",1,13
+html body div div div div main article div div div p span  ,"Cosby's defense tried to portray Constand as an opportunist who feigned romantic interest in him and then leveled a false accusation of sexual assault so she could file a lawsuit. The defense also noted that Constand called him twice on Valentine's Day, about a month after the alleged assault.",1,13
+html body div div div div main article div div div p b a span  ,BILL COSBY RECOMMENDED TO BE CLASSIFIED AS ???SEXUALLY VIOLENT PREDATOR??? BY PENNSYLVANIA BOARD,0,15
+html body div div div div main article div div div p span  ,"Constand said those calls were about basketball to a person she once considered to be a mentor. Records showed she made two brief calls to Cosby on Feb. 14, 2004, around the time of a Temple home game.",1,13
+html body div div div div main article div div div p span  ,"Cosby???s legal team for the retrial was led by former Michael Jackson attorney Tom Mesereau. However, Cosby",1,13
+html body div div div div main article div div div p a span  ,fired Mesereau,1,14
+html body div div div div main article div div div p span  ,ahead of the sentencing hearing.,1,13
+html body div div div div main article div div div h3 b span  ,#MeToo effect,1,14
+html body div div div div main article div div div div div p span  ,Model and reality television star Janice Dickinson was one of five other woman who testified against Bill Cosby at the trial as part of the prosecution's attempt to establish a pattern of behavior.,0,15
+html body div div div div main article div div div div div p span  ,(AP Photo/Mark Makela),0,15
+html body div div div div main article div div div p span  ,"Prosecutors had hoped to call as many as 19 other accusers to show a pattern of ???prior bad acts??? over five decades; in the first trial, only one woman was allowed to do so.",1,13
+html body div div div div main article div div div p span  ,"But in the retrial,",1,13
+html body div div div div main article div div div p a span  ,five women testified,1,14
+html body div div div div main article div div div p span  ,", including model and reality television star Janice Dickinson. Dickinson, now 63, has alleged Cosby drugged her, rendering her unconscious, and sexually assaulted her when she was 27.",1,13
+html body div div div div main article div div div p b a span  ,CELEBRITIES REACT TO BILL COSBY GUILTY VERDICT,0,15
+html body div div div div main article div div div p span  ,Dickinson said she did not come forward about what allegedly happened to her at the time because she was afraid of retaliation and damage to her career.,1,13
+html body div div div div main article div div div p span  ,"The other accusers who testified were: Lise-Lotte Lublin, Chelan Lasha, Janice Baker-Kinney and Heidi Thomas.",1,13
+html body div div div div main article div div div h3 b span  ,First mistrial,1,14
+html body div div div div main article div div div p span  ,Cosby???s original trial,1,13
+html body div div div div main article div div div p a span  ,ended in a mistrial,1,14
+html body div div div div main article div div div p span  ,"on June 17, 2017 after the jury deliberated for more than 52 hours over six days and still couldn???t reach a verdict.",1,13
+html body div div div div main article div div div p span  ,"Prosecutors immediately promised to retry Cosby, who was freed from prison on $1 million bail.",1,13
+html body div div div div main article div div div p i span  ,Fox News' Lissa Kaplan and The Associated Press contributed to this report.,1,14
+html body div div div div main article div div div div p span  ,Kaitlyn Schallhorn is a Reporter for Fox News. Follow her on Twitter:,0,14
+html body div div div div main article div div div div p a span  ,@K_Schallhorn,0,15
+html body div div div div main article div div div div p span  ,.,0,14
+html body div div div div main article div aside div div section header h3 span  ,On Our Radar,0,16
+html body div div div div main article div aside div div section div div article div header h4 a span  ,Dr. Phil caught on tape,0,21
+html body div div div div main article div aside div div section div div article div footer div span  ,TMZ,0,20
+html body div div div div main article div aside div div section div div article div header h4 a span  ,Kate Upton's hottest shots,0,21
+html body div div div div main article div aside div div section div div article div footer div span  ,TMZ,0,20
+html body div div div div main article div aside div div section div div article div header h4 a span  ,Star's dress comes off completely,0,21
+html body div div div div main article div aside div div section div div article div footer div span  ,TMZ,0,20
+html body div div div div main article div aside div div section div div article div header h4 a span  ,Best of the Bella twins,0,21
+html body div div div div main article div aside div div section div div article div footer div span  ,TMZ,0,20
+html body div div div div main article div aside div div section div div article div header h4 a span  ,Porn star's drunken arrest on camera,0,21
+html body div div div div main article div aside div div section div div article div footer div span  ,TMZ,0,20
+html body div div div div main article div aside div div section div div article div header h4 a span  ,Truth behind Carrie's scar,0,21
+html body div div div div main article div aside div div section div div article div footer div span  ,TMZ,0,20
+html body div div div div main article div aside div div section div div article div header h4 a span  ,Gwen: Blake's ex is CREEPY,0,21
+html body div div div div main article div aside div div section div div article div footer div span  ,ET Online,0,20
+html body div div div div main article div aside div div section div div article div header h4 a span  ,Luke defends Katy's controversial kiss,0,21
+html body div div div div main article div aside div div section div div article div footer div span  ,PopCrush,0,20
+html body div div div div main article div aside div div section header h4 span  ,Trending,0,16
+html body div div div div main article div aside div div section div ul li article div h5 a span  ,6 most hated 'Jeopardy!' players ever,0,21
+html body div div div div main article div aside div div section div ul li article div h5 a span  ,Victoria's Secret model Shanina Shaik recalls being bullied over her looks: 'I wasn't in a good place',0,21
+html body div div div div main article div aside div div section div ul li article div h5 a span  ,Bill Cosby prosecutor asks for 5 to 10 years in state prison,0,21
+html body div div div div main article div aside div div section div ul li article div h5 a span  ,"Jada Pinkett-Smith, 64-year-old mom and teen daughter serve up 'body goals' in ab-revealing gym selfie",0,21
+html body div footer div div nav h6 a span  ,U.S.,0,10
+html body div footer div div nav ul li a span  ,Crime,0,11
+html body div footer div div nav ul li a span  ,Military,0,11
+html body div footer div div nav ul li a span  ,Education,0,11
+html body div footer div div nav ul li a span  ,Terror,0,11
+html body div footer div div nav ul li a span  ,Immigration,0,11
+html body div footer div div nav ul li a span  ,Economy,0,11
+html body div footer div div nav ul li a span  ,Personal Freedoms,0,11
+html body div footer div div nav ul li a span  ,Fox News Investigates,0,11
+html body div footer div div nav h6 a span  ,World,0,10
+html body div footer div div nav ul li a span  ,U.N.,0,11
+html body div footer div div nav ul li a span  ,Conflicts,0,11
+html body div footer div div nav ul li a span  ,Terrorism,0,11
+html body div footer div div nav ul li a span  ,Disasters,0,11
+html body div footer div div nav ul li a span  ,Global Economy,0,11
+html body div footer div div nav ul li a span  ,Environment,0,11
+html body div footer div div nav ul li a span  ,Religion,0,11
+html body div footer div div nav ul li a span  ,Scandals,0,11
+html body div footer div div nav h6 a span  ,Opinion,0,10
+html body div footer div div nav h6 a span  ,Politics,0,10
+html body div footer div div nav ul li a span  ,Executive,0,11
+html body div footer div div nav ul li a span  ,Senate,0,11
+html body div footer div div nav ul li a span  ,House,0,11
+html body div footer div div nav ul li a span  ,Judiciary,0,11
+html body div footer div div nav ul li a span  ,Foreign policy,0,11
+html body div footer div div nav ul li a span  ,Polls,0,11
+html body div footer div div nav ul li a span  ,Elections,0,11
+html body div footer div div nav h6 a span  ,Entertainment,0,10
+html body div footer div div nav ul li a span  ,Celebrity News,0,11
+html body div footer div div nav ul li a span  ,Movies,0,11
+html body div footer div div nav ul li a span  ,TV News,0,11
+html body div footer div div nav ul li a span  ,Music News,0,11
+html body div footer div div nav ul li a span  ,Style News,0,11
+html body div footer div div nav ul li a span  ,Entertainment Video,0,11
+html body div footer div div nav h6 a span  ,Business,0,10
+html body div footer div div nav ul li a span  ,Markets,0,11
+html body div footer div div nav ul li a span  ,Politics,0,11
+html body div footer div div nav ul li a span  ,Technology,0,11
+html body div footer div div nav ul li a span  ,Features,0,11
+html body div footer div div nav ul li a span  ,Business Leaders,0,11
+html body div footer div div nav h6 a span  ,Lifestyle,0,10
+html body div footer div div nav ul li a span  ,Food + Drink,0,11
+html body div footer div div nav ul li a span  ,Cars + Trucks,0,11
+html body div footer div div nav ul li a span  ,Travel + Outdoors,0,11
+html body div footer div div nav ul li a span  ,House + Home,0,11
+html body div footer div div nav ul li a span  ,Fitness + Well-being,0,11
+html body div footer div div nav ul li a span  ,Style + Beauty,0,11
+html body div footer div div nav ul li a span  ,Family,0,11
+html body div footer div div nav h6 a span  ,Science,0,10
+html body div footer div div nav ul li a span  ,Archaeology,0,11
+html body div footer div div nav ul li a span  ,Air & Space,0,11
+html body div footer div div nav ul li a span  ,Planet Earth,0,11
+html body div footer div div nav ul li a span  ,Wild Nature,0,11
+html body div footer div div nav ul li a span  ,Natural Science,0,11
+html body div footer div div nav ul li a span  ,Dinosaurs,0,11
+html body div footer div div nav h6 a span  ,Tech,0,10
+html body div footer div div nav ul li a span  ,Security,0,11
+html body div footer div div nav ul li a span  ,Innovation,0,11
+html body div footer div div nav ul li a span  ,Drones,0,11
+html body div footer div div nav ul li a span  ,Computers,0,11
+html body div footer div div nav ul li a span  ,Video Games,0,11
+html body div footer div div nav ul li a span  ,Military Tech,0,11
+html body div footer div div nav h6 a span  ,Health,0,10
+html body div footer div div nav ul li a span  ,Healthy Living,0,11
+html body div footer div div nav ul li a span  ,Medical Research,0,11
+html body div footer div div nav ul li a span  ,Mental Health,0,11
+html body div footer div div nav ul li a span  ,Cancer,0,11
+html body div footer div div nav ul li a span  ,Heart Health,0,11
+html body div footer div div nav ul li a span  ,Children's Health,0,11
+html body div footer div div nav h6 a span  ,TV,0,10
+html body div footer div div nav ul li a span  ,Shows,0,11
+html body div footer div div nav ul li a span  ,Personalities,0,11
+html body div footer div div nav ul li a span  ,Watch Live,0,11
+html body div footer div div nav ul li a span  ,Full Episodes,0,11
+html body div footer div div nav ul li a span  ,Show Clips,0,11
+html body div footer div div nav ul li a span  ,News Clips,0,11
+html body div footer div div nav h6 span  ,About,0,9
+html body div footer div div nav ul li a span  ,Careers,0,11
+html body div footer div div nav ul li a span  ,College Students,0,11
+html body div footer div div nav ul li a span  ,Fox Around the World,0,11
+html body div footer div div nav ul li a span  ,Advertise With Us,0,11
+html body div footer div div nav ul li a span  ,Ad Choices,0,11
+html body div footer div div nav ul li a span  ,Email Newsroom,0,11
+html body div footer div div nav ul li a span  ,Media Relations,0,11
+html body div footer div div nav ul li a span  ,Compliance,0,11
+html body div footer div div nav h6 span  ,Other,0,9
+html body div footer div div nav ul li a span  ,Fox News Insider,0,11
+html body div footer div div nav ul li a span  ,Fox News Radio,0,11
+html body div footer div div nav ul li a span  ,Fox Nation,0,11
+html body div footer div div nav ul li a span  ,Fox News Go,0,11
+html body div footer div div nav ul li a span  ,Newsletters,0,11
+html body div footer div div nav ul li a span  ,Alerts,0,11
+html body div footer div div nav ul li a span  ,Podcasts,0,11
+html body div footer div div nav ul li a span  ,Apps & Products,0,11
+html body div footer div div ul li a span  ,Facebook,0,10
+html body div footer div div ul li a span  ,Twitter,0,10
+html body div footer div div ul li a span  ,Flipboard,0,10
+html body div footer div div ul li a span  ,Google+,0,10
+html body div footer div div ul li a span  ,Instagram,0,10
+html body div footer div div ul li a span  ,RSS,0,10
+html body div footer div div ul li a span  ,Email,0,10
+html body div footer div div a span  ,Fox News,0,8
+html body div footer div div ul li a span  ,Terms of Use,0,10
+html body div footer div div ul li a span  ,Privacy Policy,0,10
+html body div footer div div ul li a span  ,Closed Captioning Policy,0,10
+html body div footer div div ul li a span  ,Help,0,10
+html body div footer div div p span  ,"This material may not be published, broadcast, rewritten, or redistributed. ??2018 FOX News Network, LLC. All rights reserved. All market data delayed 20 minutes.",0,8

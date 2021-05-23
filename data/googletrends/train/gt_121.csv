@@ -1,0 +1,172 @@
+tag,content,label,depth
+html body form div div p span  ,We use,0,7
+html body form div div p a span  ,cookies and similar technologies,0,8
+html body form div div p span  ,"(“cookies”) to help give you the best experience on our site and to show you relevant advertising. If you continue to use this site, we’ll assume that you’re happy to receive all cookies.",0,7
+html body form header div div div div ul li a span  ,Tesco.com,0,12
+html body form header div div div div ul li a span  ,Register,0,12
+html body form header div div div div ul li a span  ,Login,0,12
+html body form header div div div div ul li a span  ,Website feedback,0,12
+html body form header div div div nav ul li a span  ,Home,0,12
+html body form header div div div nav ul li a span  ,Recipes,0,12
+html body form header div div div nav ul li div div div h4 span  ,Our recipes,0,15
+html body form header div div div nav ul li div div div p span  ,Our recipes are created by award-winning chefs and nutritionists.,0,15
+html body form header div div div nav ul li div div div ul li a span strong span  ,My recipe binder,0,19
+html body form header div div div nav ul li div div div ul li a span strong span  ,Top 10s,0,19
+html body form header div div div nav ul li div div div ul li a span strong span  ,Tips and trends,0,19
+html body form header div div div nav ul li div div div ul li a span strong span  ,Step-by-steps,0,19
+html body form header div div div nav ul li div div div div span  ,Be Inspired,0,15
+html body form header div div div nav ul li div div div ul li span strong span  ,Collections,0,18
+html body form header div div div nav ul li div div div ul li a span  ,Healthy,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Family favourites,0,17
+html body form header div div div nav ul li div div div ul li a span  ,On a budget,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Crowd pleasers,0,17
+html body form header div div div nav ul li div div div ul li span strong span  ,Courses,0,18
+html body form header div div div nav ul li div div div ul li a span  ,Breakfast,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Lunch,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Dinner,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Dessert,0,17
+html body form header div div div nav ul li div div div ul li span strong span  ,Events,0,18
+html body form header div div div nav ul li div div div ul li a span  ,Halloween,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Bonfire Night,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Christmas,0,17
+html body form header div div div nav ul li div div div ul li span strong span  ,Popular,0,18
+html body form header div div div nav ul li div div div ul li a span  ,Pizza,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Salad,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Burger,0,17
+html body form header div div div nav ul li div div div ul li span strong span  ,Special diets,0,18
+html body form header div div div nav ul li div div div ul li a span  ,Vegan,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Vegetarian,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Dairy-free,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Gluten-free,0,17
+html body form header div div div nav ul li div div div ul li span strong span  ,World flavours,0,18
+html body form header div div div nav ul li div div div ul li a span  ,Italian,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Mexican,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Thai,0,17
+html body form header div div div nav ul li div div div div span  ,Ingredients,0,15
+html body form header div div div nav ul li div div div ul li span strong span  ,Dairy,0,18
+html body form header div div div nav ul li div div div ul li a span  ,Cheese,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Egg,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Cream,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Milk,0,17
+html body form header div div div nav ul li div div div ul li span strong span  ,Fish & seafood,0,18
+html body form header div div div nav ul li div div div ul li a span  ,Salmon,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Prawn,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Mackerel,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Tuna,0,17
+html body form header div div div nav ul li div div div ul li span strong span  ,Fruit and nuts,0,18
+html body form header div div div nav ul li div div div ul li a span  ,Berry,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Strawberry,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Peach,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Stone fruit,0,17
+html body form header div div div nav ul li div div div ul li span strong span  ,"Grains, pulses and pasta",0,18
+html body form header div div div nav ul li div div div ul li a span  ,Pasta,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Rice,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Couscous,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Lentils,0,17
+html body form header div div div nav ul li div div div ul li span strong span  ,Meat,0,18
+html body form header div div div nav ul li div div div ul li a span  ,Chicken,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Beef,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Pork,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Lamb,0,17
+html body form header div div div nav ul li div div div ul li span strong span  ,Vegetables,0,18
+html body form header div div div nav ul li div div div ul li a span  ,Sweetcorn,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Broccoli,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Asparagus,0,17
+html body form header div div div nav ul li div div div ul li a span  ,Rhubarb,0,17
+html body form header div div div nav ul li a span  ,Top 10s,0,12
+html body form header div div div nav ul li a span  ,Halloween,0,12
+html body form header div div div nav ul li a span  ,Healthy recipes,0,12
+html body form header div div div nav ul li a span  ,Baking recipes,0,12
+html body form header div div div nav ul li a span  ,Vegan recipes,0,12
+html body form header div div div nav ul li a span  ,Meal planner,0,12
+html body form header div div div nav ul li a span  ,Groceries,0,12
+html body form main section div div ul li div h2 span  ,Text the ingredients,0,12
+html body form main section div div ul li div div span  ,Please enter a valid UK or Ireland mobile phone number,0,12
+html body form main section div div ul li div small strong span  ,Terms of Use,0,13
+html body form main section div div ul li div small span  ,. We'll send a text with the ingredients and a link to the method for free. If the text is undelivered we will attempt to resend for up to 24 hours. This service involves no registration or subscription.,0,12
+html body form main section div div ul li div p span  ,You should receive a text message shortly.,0,12
+html body form main section div div ul li div h2 span  ,Email the ingredients,0,12
+html body form main section div div ul li div div span  ,Please enter a valid email address,0,12
+html body form main section div div ul li div small strong span  ,Terms of Use,0,13
+html body form main section div div ul li div small span  ,. We will send you an email containing the list of ingredients for this recipe and a link to access the method. This service involves no registration or subscription.,0,12
+html body form main section div div ul li div p span  ,You should receive an email shortly.,0,12
+html body form main section div div ul li div div h2 span  ,Add this recipe to your binder,0,13
+html body form main section div div ul li div div div p a span  ,Please log in to add this recipe,0,15
+html body form main section div div ul li div div h2 span  ,This recipe is in your binder,0,13
+html body form main section div div ul li div div div p a span  ,Go to binder,0,15
+html body form main section div div ul li div h2 span  ,Share this recipe,0,12
+html body form main section div div h1 span  ,Spiced pear crisps recipe,1,9
+html body form main section div div section span  ,7 ratings,1,9
+html body form main section div div p span  ,"These delicious spiced pear crisps are the perfect healthy snack recipe, and best of all they couldn't be easier to make. All you need is two ingredients and you can whip up this tasty snack for the whole family can enjoy.",1,9
+html body form main section div div p a span  ,See method,1,10
+html body form main section div div ul li span  ,Serves 									 									4,1,10
+html body form main section div div ul li span  ,"45 mins, plus cooling",1,10
+html body form main section div div ul li span  ,45 calories / serving,1,10
+html body form main section div div ul li span  ,Healthy,1,10
+html body form main section div div h2 span  ,Ingredients,1,9
+html body form main section div div ul li span  ,2 firm pears (such as Rocha),1,10
+html body form main section div div ul li span  ,½ tsp mixed spice,1,10
+html body form main section div div div div h3 span  ,Each serving contains,1,11
+html body form main section div div div div ul li h4 span  ,Energy,1,13
+html body form main section div div div div ul li span  ,195kj,1,12
+html body form main section div div div div ul li span span  ,45kcal,1,13
+html body form main section div div div div ul li span span  ,2%,1,13
+html body form main section div div div div ul li h4 span  ,Fat,1,13
+html body form main section div div div div ul li span span  ,0g,1,13
+html body form main section div div div div ul li span span  ,0%,1,13
+html body form main section div div div div ul li h4 span  ,Saturates,1,13
+html body form main section div div div div ul li span span  ,0g,1,13
+html body form main section div div div div ul li span span  ,0%,1,13
+html body form main section div div div div ul li h4 span  ,Sugars,1,13
+html body form main section div div div div ul li span span  ,11g,1,13
+html body form main section div div div div ul li span span  ,12%,1,13
+html body form main section div div div div ul li h4 span  ,Salt,1,13
+html body form main section div div div div ul li span  ,0g,1,12
+html body form main section div div div div ul li span span  ,0%,1,13
+html body form main section div div div div p span  ,of the,1,11
+html body form main section div div div div p a span  ,reference intake,1,12
+html body form main section div div div div p span  ,Carbohydrate,1,11
+html body form main section div div div div p strong span  ,11.2g,1,12
+html body form main section div div div div p span  ,Protein,1,11
+html body form main section div div div div p strong span  ,0.3g,1,12
+html body form main section div div div div p span  ,Fibre,1,11
+html body form main section div div div div p strong span  ,2g,1,12
+html body form main section h2 span  ,Method,1,7
+html body form main section div ol li span  ,"Heat oven to gas 1, 140°C, fan 120°C. Thinly slice the pears into rounds from the base, picking out any pips. Arrange the slices on a baking tray lined with nonstick baking paper and sprinkle over the mixed spice and use a pastry brush to evenly distribute the spice.",1,9
+html body form main section div ol li span  ,Bake for 40 mins. Leave to cool and crisp – the pears won't feel crisp until cooled. Store in a sealed food bag and eat within a couple of days.,1,9
+html body form main section div p span  ,See more,1,8
+html body form main section div p a span  ,Healthy snacks recipes,1,9
+html body form main section h2 span  ,You may also like,0,7
+html body form main section nav ul li a h3 span  ,Beetroot dip with caraway toasts,0,11
+html body form main section nav ul li a h3 span  ,Crunchy kale crisps,0,11
+html body form main section nav ul li a h3 span  ,Baked beetroot and sweet potato crisps,0,11
+html body form main section nav ul li a h3 span  ,"Artichoke, spinach and pine nut dip",0,11
+html body form main section h2 span  ,Be the first to comment,0,7
+html body form footer div div div div div h2 span  ,Your Tesco Real Food,0,11
+html body form footer div div div div div ul li a span  ,Recipe binder,0,13
+html body form footer div div div div div ul li a span  ,Meal planner,0,13
+html body form footer div div div div div h2 span  ,Recipes,0,11
+html body form footer div div div div div ul li a span  ,Family favourites,0,13
+html body form footer div div div div div ul li a span  ,Healthy meal ideas,0,13
+html body form footer div div div div div ul li a span  ,Under 30 minute meals,0,13
+html body form footer div div div div div ul li a span  ,Budget meals,0,13
+html body form footer div div div div div ul li a span  ,Chicken recipes,0,13
+html body form footer div div div div div ul li a span  ,Baking recipes,0,13
+html body form footer div div div div div h2 span  ,Meals & courses,0,11
+html body form footer div div div div div ul li a span  ,Brilliant breakfasts,0,13
+html body form footer div div div div div ul li a span  ,Lunch ideas,0,13
+html body form footer div div div div div ul li a span  ,Dinner recipes,0,13
+html body form footer div div div div div ul li a span  ,Dessert inspiration,0,13
+html body form footer div div div div div h2 span  ,Privacy Centre,0,11
+html body form footer div div div div div ul li a span  ,Privacy & cookies policy,0,13
+html body form footer div div div div div ul li a span  ,Visit our Privacy Centre,0,13
+html body form footer div div div div div h2 span  ,Useful links,0,11
+html body form footer div div div div div ul li a span  ,Website feedback,0,13
+html body form footer div div div div div ul li a span  ,Tesco PLC,0,13
+html body form footer div div div div span  ,Follow us:,0,9
+html body form footer div div div div ul li a span  ,Facebook,0,12
+html body form footer div div div div ul li a span  ,Twitter,0,12
+html body form footer div div div div ul li a span  ,YouTube,0,12
+html body form footer div div div div ul li a span  ,Pinterest,0,12
+html body form footer div div div div ul li a span  ,Instagram,0,12
+html body form footer div p span  ,© Tesco.com 2018 All Rights Reserved,0,7

@@ -1,0 +1,534 @@
+tag,content,label,depth
+html body header div div nav div form fieldset div label span  ,Search,0,12
+html body header div div nav div form fieldset div div div div div h4 span  ,Search Results for,0,16
+html body header div div nav div form fieldset div div div div div h4 strong span  ,"""""",0,17
+html body header div div nav ul li a span  ,Toggle menu,0,10
+html body header div div nav ul li a span  ,Menu,0,10
+html body header div div nav ul li a span  ,Search,0,10
+html body header div div nav ul li a div span  ,Call,0,11
+html body header div div nav ul li a div span  ,800.860.6272,0,11
+html body header div div nav ul li a div span  ,"M-F, 7-6 MST",0,11
+html body header div div nav ul li a span  ,Compare,0,10
+html body header div div nav ul li a span  ,Gift Certificates,0,10
+html body header div div nav ul li a span  ,Sign in,0,10
+html body header div div nav ul li a span span  ,Cart,0,11
+html body header div div nav ul li a span span  ,0,0,11
+html body header div div nav div div form fieldset div label span  ,Search,0,13
+html body header div div nav div div form fieldset div div div div div h4 span  ,Search Results for,0,17
+html body header div div nav div div form fieldset div div div div div h4 strong span  ,"""""",0,18
+html body header div div a span  ,Toggle menu,0,7
+html body header div nav div div form fieldset div label span  ,Search,0,12
+html body header div nav div div form fieldset div div div div div h4 span  ,Search Results for,0,16
+html body header div nav div div form fieldset div div div div div h4 strong span  ,"""""",0,17
+html body header div nav ul li a span  ,Chemistry,0,9
+html body header div nav ul li div div ul li a span  ,All Chemistry,0,13
+html body header div nav ul li div div ul li a span  ,Chemicals,0,13
+html body header div nav ul li div div ul li a span  ,Chemistry Kits,0,13
+html body header div nav ul li div div ul li a span  ,Lab Equipment,0,13
+html body header div nav ul li div div ul li a span  ,Glassware and Plasticware,0,13
+html body header div nav ul li div div ul li a span  ,Safety Equipment,0,13
+html body header div nav ul li div div ul li a span  ,Digital Scales and Balances,0,13
+html body header div nav ul li div div ul li a span  ,Chemistry Projects,0,13
+html body header div nav ul li div div ul li a span  ,Labware Picture Glossary,0,13
+html body header div nav ul li div div ul li a span  ,Chemical Safety,0,13
+html body header div nav ul li a span  ,Biology,0,9
+html body header div nav ul li div div ul li a span  ,All Biology,0,13
+html body header div nav ul li div div ul li a span  ,Dissection,0,13
+html body header div nav ul li div div ul li a span  ,Human Anatomy and Physiology,0,13
+html body header div nav ul li div div ul li a span  ,"Agar, Petri Dishes, and Bacteria",0,13
+html body header div nav ul li div div ul li a span  ,Biology Supplies and Kits,0,13
+html body header div nav ul li div div ul li a span  ,Microscopic Life,0,13
+html body header div nav ul li div div ul li a span  ,Life Science,0,13
+html body header div nav ul li div div ul li a span  ,Life Science Projects,0,13
+html body header div nav ul li div div ul li a span  ,Biology Science Fair Projects,0,13
+html body header div nav ul li div div ul li a span  ,How to Dissect an Owl Pellet,0,13
+html body header div nav ul li a span  ,Earth Science,0,9
+html body header div nav ul li div div ul li a span  ,All Earth Science,0,13
+html body header div nav ul li div div ul li a span  ,"Rocks, Minerals and Crystals",0,13
+html body header div nav ul li div div ul li a span  ,Geology Kits and Supplies,0,13
+html body header div nav ul li div div ul li a span  ,Environmental Science,0,13
+html body header div nav ul li div div ul li a span  ,Weather and Climate,0,13
+html body header div nav ul li div div ul li a span  ,Astronomy and Telescopes,0,13
+html body header div nav ul li div div ul li a span  ,Rock Tumblers,0,13
+html body header div nav ul li div div ul li a span  ,Earth & Space Projects,0,13
+html body header div nav ul li div div ul li a span  ,The Rock Cycle,0,13
+html body header div nav ul li div div ul li a span  ,Star Chart Worksheet,0,13
+html body header div nav ul li a span  ,Physics & Engineering,0,9
+html body header div nav ul li div div ul li a span  ,All Physics & Engineering,0,13
+html body header div nav ul li div div ul li a span  ,Robotics,0,13
+html body header div nav ul li div div ul li a span  ,Solar and Alternative Energy,0,13
+html body header div nav ul li div div ul li a span  ,Electricity and Electronics,0,13
+html body header div nav ul li div div ul li a span  ,Engineering Kits,0,13
+html body header div nav ul li div div ul li a span  ,Sound and Wave Motion,0,13
+html body header div nav ul li div div ul li a span  ,Force and Motion,0,13
+html body header div nav ul li div div ul li a span  ,Light and Optics,0,13
+html body header div nav ul li div div ul li a span  ,Measurement Equipment,0,13
+html body header div nav ul li div div ul li a span  ,Magnets and Magnetism,0,13
+html body header div nav ul li div div ul li a span  ,Physics Projects,0,13
+html body header div nav ul li div div ul li a span  ,Science Fair Physics Projects,0,13
+html body header div nav ul li div div ul li a span  ,Types of Energy Worksheet,0,13
+html body header div nav ul li a span  ,Science Kits,0,9
+html body header div nav ul li div div ul li a span  ,All Science Kits,0,13
+html body header div nav ul li div div ul li a span  ,Science Kit Selector,0,13
+html body header div nav ul li div div ul li a span  ,Biology and Nature Kits,0,13
+html body header div nav ul li div div ul li a span  ,Dissection Kits,0,13
+html body header div nav ul li div div ul li a span  ,Earth and Space Kits,0,13
+html body header div nav ul li div div ul li a span  ,Home Science Kits,0,13
+html body header div nav ul li div div ul li a span  ,Chemistry Kits,0,13
+html body header div nav ul li div div ul li a span  ,Anatomy and Physiology Kits,0,13
+html body header div nav ul li div div ul li a span  ,General Science Kits,0,13
+html body header div nav ul li div div ul li a span  ,Forensic Science Kits,0,13
+html body header div nav ul li div div ul li a span  ,STEM Kits,0,13
+html body header div nav ul li div div ul li a span  ,Technology and Electronics Kits,0,13
+html body header div nav ul li div div ul li a span  ,Engineering Kits,0,13
+html body header div nav ul li div div ul li a span  ,Environmental Kits,0,13
+html body header div nav ul li div div ul li a span  ,Kitchen Science Kits,0,13
+html body header div nav ul li div div ul li a span  ,Physics Kits,0,13
+html body header div nav ul li div div ul li a span  ,Science Fair Kits & Supplies,0,13
+html body header div nav ul li div div ul li a span  ,Science Buddies Kits,0,13
+html body header div nav ul li div div ul li a span  ,Build a Simple Motor,0,13
+html body header div nav ul li div div ul li a span  ,How to Build a Solar Oven,0,13
+html body header div nav ul li div div ul li a span  ,How to Make Slime,0,13
+html body header div nav ul li a span  ,Microscopes,0,9
+html body header div nav ul li div div ul li a span  ,All Microscopes,0,13
+html body header div nav ul li div div ul li a span  ,Laboratory Microscopes,0,13
+html body header div nav ul li div div ul li a span  ,Home Microscopes by HST,0,13
+html body header div nav ul li div div ul li a span  ,Student Microscopes,0,13
+html body header div nav ul li div div ul li a span  ,Kids Microscopes,0,13
+html body header div nav ul li div div ul li a span  ,Compound Microscopes,0,13
+html body header div nav ul li div div ul li a span  ,Digital Microscopes and Cameras,0,13
+html body header div nav ul li div div ul li a span  ,Stereo and Dissecting Microscopes,0,13
+html body header div nav ul li div div ul li a span  ,"Accessories, Slides and Kits",0,13
+html body header div nav ul li div div ul li a span  ,How to Use a Microscope,0,13
+html body header div nav ul li div div ul li a span  ,How to Select a Microscope,0,13
+html body header div nav ul li div div ul li a span  ,Microscope Activities,0,13
+html body header div nav ul li a span  ,Homeschool Curriculum & Kits,0,9
+html body header div nav ul li div div ul li a span  ,All Homeschool Curriculum & Kits,0,13
+html body header div nav ul li div div ul li a span  ,Explore Science by HST,0,13
+html body header div nav ul li div div ul li a span  ,Science Kits for use with Abeka Curriculum,0,13
+html body header div nav ul li div div ul li a span  ,Apologia,0,13
+html body header div nav ul li div div ul li a span  ,Berean Builders,0,13
+html body header div nav ul li div div ul li a span  ,Bob Jones University Press,0,13
+html body header div nav ul li div div ul li a span  ,Christian Light,0,13
+html body header div nav ul li div div ul li a span  ,Exploring the Building Blocks of Science,0,13
+html body header div nav ul li div div ul li a span  ,LIFEPAC,0,13
+html body header div nav ul li div div ul li a span  ,Novare,0,13
+html body header div nav ul li div div ul li a span  ,Real Science-4-Kids,0,13
+html body header div nav ul li div div ul li a span  ,R.E.A.L. Science Odyssey,0,13
+html body header div nav ul li div div ul li a span  ,Switched-On Schoolhouse,0,13
+html body header div nav ul li div div ul li a span  ,Distance Learning Science Kits,0,13
+html body header div nav ul li div div ul li a span  ,Curriculum Reviews,0,13
+html body header div nav ul li div div ul li a span  ,Customizable Lab Kits,0,13
+html body header div nav ul li div div ul li a span  ,New to Homeschooling?,0,13
+html body header div nav ul li a span  ,Gifts,0,9
+html body header div nav ul li div div ul li a span  ,All Gifts,0,13
+html body header div nav ul li div div ul li a span  ,Quick Gift Selector,0,13
+html body header div nav ul li div div ul li a span  ,Gifts by Interest,0,13
+html body header div nav ul li div div ul li a span  ,Gifts by Age,0,13
+html body header div nav ul li div div ul li a span  ,Ultimate Science Gifts,0,13
+html body header div nav ul li div div ul li a span  ,Science Gifts for Girls,0,13
+html body header div nav ul li div div ul li a span  ,Science Gifts for Boys,0,13
+html body header div nav ul li div div ul li a span  ,Stocking Stuffers,0,13
+html body header div nav ul li div div ul li a span  ,Popular Science Gifts,0,13
+html body header div nav ul li div div ul li a span  ,Why Science Gifts?,0,13
+html body header div nav ul li div div ul li a span  ,Gift Certificates,0,13
+html body header div nav ul li div div ul li a span  ,Poinsettia pH Project,0,13
+html body header div nav ul li a span  ,Learning Center,0,9
+html body header div nav ul li div div ul li a span  ,All Learning Center,0,13
+html body header div nav ul li div div ul li a span  ,Best Science Projects,0,13
+html body header div nav ul li div div ul li a span  ,Lessons & Tips,0,13
+html body header div nav ul li div div ul li a span  ,Curriculum Resources,0,13
+html body header div nav ul li div div ul li a span  ,Product Support,0,13
+html body header div nav ul li div div ul li a span  ,Blog,0,13
+html body header div nav ul li div div ul li a span  ,Videos,0,13
+html body header div nav ul li a span  ,Science Projects,0,9
+html body header div nav ul li div div ul li a span  ,All Science Projects,0,13
+html body header div nav ul li div div ul li a span  ,Science Fair Projects,0,13
+html body header div nav ul li div div ul li a span  ,Life Science Projects,0,13
+html body header div nav ul li div div ul li a span  ,Chemistry Projects,0,13
+html body header div nav ul li div div ul li a span  ,Earth & Space Projects,0,13
+html body header div nav ul li div div ul li a span  ,Physics & Engineering Projects,0,13
+html body header div nav ul li div div ul li a span  ,Most Popular Projects,0,13
+html body header div nav ul li a span  ,My Account,0,9
+html body header div nav ul li a span  ,Gift Certificates,0,9
+html body header div nav ul li a span  ,Sign in,0,9
+html body header div nav ul li span  ,or,0,8
+html body header div nav ul li a span  ,Register,0,9
+html body header div a span span  ,Cart,0,7
+html body header div a span span  ,0,0,7
+html body header div div div form fieldset div label span  ,Search,0,11
+html body header div div div form fieldset div div div div div h4 span  ,Search Results for,0,15
+html body header div div div form fieldset div div div div div h4 strong span  ,"""""",0,16
+html body div div div ul li a span  ,Home,0,9
+html body div div main h1 span  ,How to Make Slime,1,7
+html body div div main div div div p a span strong span  ,<< Back to Popular Projects,0,13
+html body div div main div div div p span  ,Did you know you can make your own slime or “goop” for a fun learning and play activity? Non-Newtonian liquids are fascinating for all ages and provide a great learning opportunity about chemistry.,1,10
+html body div div main div div div p span  ,Find four popular slime recipes below.,1,10
+html body div div main div div div div div div h2 span  ,Simple Slime Recipe,1,13
+html body div div main div div div div div p span  ,This version of slime (or Gak) is made of glue and Borax.,1,12
+html body div div main div div div div div div div div h3 span  ,What You Need:,1,15
+html body div div main div div div div div div div div ul li span a span  ,School glue,1,18
+html body div div main div div div div div div div div ul li span  ,Borax (,1,16
+html body div div main div div div div div div div div ul li span a span  ,Sodium tetraborate,1,18
+html body div div main div div div div div div div div ul li span  ,),1,16
+html body div div main div div div div div div div div ul li span a span  ,Food coloring,1,18
+html body div div main div div div div div div div div ul li span  ,(optional),1,16
+html body div div main div div div div div div div div ul li span  ,Water,1,16
+html body div div main div div div div div div div div ul li span  ,Two bowls,1,16
+html body div div main div div div div div div div div h3 span  ,What You Do:,1,15
+html body div div main div div div div div div div div ol li span  ,"In one bowl mix 1 oz. glue (about ¼ of the glue bottle) and ¼ cup water. If you want colored slime, add food coloring to the glue and water mixture. Lift some of the solution out of the container with the stir stick and note what happens.",1,16
+html body div div main div div div div div div div div ol li span  ,Add ¼ cup of,1,16
+html body div div main div div div div div div div div ol li a span  ,Sodium Tetraborate (Borax) Solution,1,17
+html body div div main div div div div div div div div ol li span  ,to the glue and water mixture and stir slowly.,1,16
+html body div div main div div div div div div div div ol li span  ,The slime will begin to form immediately. Lift some of the solution with the stir stick and observe how the consistency has changed from Step 1.,1,16
+html body div div main div div div div div div div div ol li span  ,"Stir as much as you can, then dig in and knead it with your hands until it gets less sticky. This is a messy experience but is necessary because it",1,16
+html body div div main div div div div div div div div ol li span  ,allows the two compounds to bond completely. Don’t worry about any,1,16
+html body div div main div div div div div div div div ol li span  ,leftover water in the bowl; just pour it out.,1,16
+html body div div main div div div div div div div div ol li span  ,"When not in use, store the slime in a plastic bag in the fridge to keep it",1,16
+html body div div main div div div div div div div div ol li span  ,from growing mold.,1,16
+html body div div main div div div div div div div div h3 span  ,What Happened:,1,15
+html body div div main div div div div div div div div p span  ,"The glue has an ingredient called polyvinyl acetate, which is a liquid polymer. The borax links the polyvinyl acetate molecules to each other, creating one large, flexible polymer. This kind of slime will get stiffer and more like putty the more you play with it. Experiment with different glues to see if they create slime (e.g., carpenter glue, tacky glue, etc.).",1,15
+html body div div main div div div div div div h2 span  ,Super Slime,1,13
+html body div div main div div div div div p span  ,The second type of slime is the same clear gooey kind that you see in the,1,12
+html body div div main div div div div div p span  ,"movies. This is the real gooey deal! (This slime is non-toxic, but still keep these chemicals away from unsupervised children and wash your hands after playing with the slime.)",1,12
+html body div div main div div div div div div div div h3 span  ,What You Need:,1,15
+html body div div main div div div div div div div div ul li span a span  ,Polyvinyl alcohol,1,18
+html body div div main div div div div div div div div ul li span  ,(PVA),1,16
+html body div div main div div div div div div div div ul li span  ,Borax (,1,16
+html body div div main div div div div div div div div ul li span a span  ,Sodium tetraborate,1,18
+html body div div main div div div div div div div div ul li span  ,),1,16
+html body div div main div div div div div div div div ul li span a span  ,Beaker,1,18
+html body div div main div div div div div div div div ul li span  ,or jar,1,16
+html body div div main div div div div div div div div ul li span a span  ,Food coloring,1,18
+html body div div main div div div div div div div div ul li span  ,(optional),1,16
+html body div div main div div div div div div div div h3 span  ,What You Do:,1,15
+html body div div main div div div div div div div div ol li span  ,"Pour ½ cup of the polyvinyl alcohol (PVA) solution into a beaker, jar, or bowl. If you want colored slime, add food coloring to the PVA solution and stir with a stir stick.",1,16
+html body div div main div div div div div div div div ol li span  ,Add 2 teaspoons of the,1,16
+html body div div main div div div div div div div div ol li a span  ,Sodium Tetraborate (Borax) Solution,1,17
+html body div div main div div div div div div div div ol li span  ,into the PVA solution,1,16
+html body div div main div div div div div div div div ol li span  ,and stir slowly.,1,16
+html body div div main div div div div div div div div ol li span  ,Try lifting some of the solution with the stir stick and note what happens.,1,16
+html body div div main div div div div div div div div ol li span  ,"Once the slime has formed, you can play with it. Just don’t eat it!",1,16
+html body div div main div div div div div div div div ol li span  ,Your slime will last longer if you seal it in a plastic bag and keep it in the,1,16
+html body div div main div div div div div div div div ol li span  ,"fridge, otherwise it will dry out or mold.",1,16
+html body div div main div div div div div div div div h3 span  ,What Happened:,1,15
+html body div div main div div div div div div div div p span  ,"Polyvinyl alcohol (PVA) is a liquid polymer and is therefore formed from long chains of connected molecules. The sodium tetraborate forms hydrogen bonds with oxygen present in the PVA chains. Hydrogen bonds occur when the positive charge of the hydrogen atoms attracts the negative charge of the oxygen atoms within the compound. The hydrogen bonds link the individual PVA strands to each other, creating a “blob” of slime. Since hydrogen bonds are weak, they will break and reform as you hold the slime or let it ooze onto a flat surface.",1,15
+html body div div main div div div div div div h2 span  ,Glooze Slime,1,13
+html body div div main div div div div div p span  ,This slimy substance is made from milk.,1,12
+html body div div main div div div div div div div div h3 span  ,What You Need:,1,15
+html body div div main div div div div div div div div ul li span  ,Skim milk,1,16
+html body div div main div div div div div div div div ul li span  ,Vinegar,1,16
+html body div div main div div div div div div div div ul li span  ,Baking soda,1,16
+html body div div main div div div div div div div div ul li span  ,A coffee filter,1,16
+html body div div main div div div div div div div div h3 span  ,What You Do:,1,15
+html body div div main div div div div div div div div ol li span  ,Add 7 tablespoons of skim milk to a cup and add 1 tablespoon of vinegar,1,16
+html body div div main div div div div div div div div ol li span  ,to the milk. Gently stir the mixture until solids have formed.,1,16
+html body div div main div div div div div div div div ol li span  ,Let the solids sink to the bottom of the mixture and then drain off the,1,16
+html body div div main div div div div div div div div ol li span  ,liquid using a filter (a coffee filter works best). Let the solids drain for a few minutes.,1,16
+html body div div main div div div div div div div div ol li span  ,Add ¼ teaspoon of baking soda to the solids and knead together to form a slimy mixture from milk.,1,16
+html body div div main div div div div div div div div h3 span  ,What Happened:,1,15
+html body div div main div div div div div div div div p span  ,"When you added the vinegar to the milk, it caused the milk’s protein, casein, which is also a polymer, to separate from the liquid part of the milk and clump together to form solids. Casein is used in adhesives, paints, and even plastics. The baking soda neutralizes the acid added, which allows the casein to go back to its liquid form.",1,15
+html body div div main div div div div div div h2 span  ,Oobleck or Quicksand Slime,1,13
+html body div div main div div div div div p span  ,Make a non-Newtonian fluid that resembles quicksand using cornstarch.,1,12
+html body div div main div div div div div div div div h3 span  ,What You Need:,1,15
+html body div div main div div div div div div div div ul li span  ,Cornstarch,1,16
+html body div div main div div div div div div div div ul li span  ,Water,1,16
+html body div div main div div div div div div div div ul li span  ,A big bowl,1,16
+html body div div main div div div div div div div div h3 span  ,What You Do:,1,15
+html body div div main div div div div div div div div ol li span  ,"In the plastic mixing bowl, combine small amounts of water and cornstarch together to form a mixture that looks like heavy whipping cream and has the consistency of honey. The approximate ratio of the cornstarch to water mixture is 2 cups of cornstarch to 1 cup of water. So if you use all of a regular-sized box of cornstarch (about 16 oz.), you will use about 1½ cups of water. It is best to start with less water and slowly add it until the desired consistency is reached.",1,16
+html body div div main div div div div div div div div ol li span  ,"After making your mixture, gently lay your hand on the surface of the cornstarch-water mixture. You should notice that your hand sinks in the mixture like you would expect it to do. Move your hand through the mixture, slowly first and then trying to move it really fast. Was it easier to move your hand slowly or quickly through it?",1,16
+html body div div main div div div div div div div div ol li span  ,"If your mixture is deep enough to submerge your entire hand in it, try grabbing a handful of the mixture and pulling your hand out quickly. Then try again, this time relaxing your hand and pulling it out slowly. Did you notice a difference?",1,16
+html body div div main div div div div div div div div ol li span  ,"Try punching the cornstarch-water mixture. (Be careful not to hurt yourself on the bowl!) Make sure to hit the substance hard and pull your fist back quickly. Did the substance splatter everywhere or did it remain in the bowl? (If it splattered, add more cornstarch.)",1,16
+html body div div main div div div div div div div div p span  ,"Whenever you gently and slowly move your hand through the cornstarch-water mixture, it behaves like a liquid. But when you try to move your hand through it quickly or forcefully hit the substance, it behaves like a solid. This cornstarch-water mixture behaves similarly to quicksand.",1,15
+html body div div main div div div div div div div div h3 span  ,What Happened:,1,15
+html body div div main div div div div div div div div p span  ,"The flow and movement of a fluid is affected by its viscosity, or how sticky and thick it is. Quicksand and the cornstarch-water mixture are both non-Newtonian fluids. Non-Newtonian viscosity changes with the type of force applied to it. The viscosity of Newtonian fluids (such as water and honey, which follow Sir Isaac Newton’s law of viscosity) is dependent only on the temperature and pressure of the fluid, not the force applied to it. For instance, warm honey (less viscous) flows much more freely than cold honey (more viscous).",1,15
+html body div div main div div div div div div div div p span  ,"Since the ability of a non-Newtonian fluid to move depends on the force or stress applied to it, these fluids do not act like ones we are more familiar with (e.g., honey or water). A light pressure, such as pouring or gently pressing the cornstarch-water mixture, allows it to move like a liquid.",1,15
+html body div div main div div div h4 strong span  ,Other fun home recipes:,1,11
+html body div div main div div div p span  ,Use glue and borax to make a,1,10
+html body div div main div div div p a span  ,colorful bouncy ball,1,11
+html body div div main div div div h3 span  ,Sodium Tetraborate (Borax) Solution Recipe,1,10
+html body div div main div div div ol li span  ,Label an 8 oz.,1,11
+html body div div main div div div ol li a span  ,plastic bottle,1,12
+html body div div main div div div ol li span  ,“Sodium Tetraborate (Borax) Solution” with a permanent marker.,1,11
+html body div div main div div div ol li span  ,Fill the bottle about ¾ full with water.,1,11
+html body div div main div div div ol li span  ,Add 4 teaspoons of,1,11
+html body div div main div div div ol li a span  ,sodium tetraborate,1,12
+html body div div main div div div ol li span  ,to the water and shake until mostly dissolved.,1,11
+html body div div main div div div ol li span  ,Fill the bottle to the top with water and shake again to completely dissolve the sodium tetraborate solids.,1,11
+html body div div main div div div h3 span  ,More Information about non-Newtonian Liquid,1,10
+html body div div main div div div p span  ,"A non-Newtonian liquid is a substance that acts like a liquid in some situations but as a solid in others. Quicksand is an example of a non-Newtonian liquid. It appears to be solid, but if you stand on it, you slowly start sinking as if it were a liquid.",1,10
+html body div div main div div div p span  ,Polymers are what make non-Newtonian liquids unique. A polymer is a long string of molecules which can exist as a liquid or a solid. The,1,10
+html body div div main div div div p span  ,"term polymer comes from the Greek words for “many parts.” Liquid polymers act as a liquid until particular chemicals are added, which create links between the molecules. These links transform the compound into a hybrid between liquid and solid. Since the molecules are now connected, they cannot move as freely, which gives them the strange properties found in slime. The new compound is called a non-Newtonian liquid.",1,10
+html body div div main div div a span  ,X,0,9
+html body div div main div div h3 span  ,Popular Products,0,9
+html body div div a span  ,×,0,6
+html body footer div section article span  ,"665 Carbon St Billings, MT 59102",0,7
+html body footer div section article span  ,P: 800-860-6272 F: 888-860-2344,0,7
+html body footer div section article span a span  ,Email Us,0,9
+html body footer div section article span  ,or,0,7
+html body footer div section article span a span  ,Call Us,0,9
+html body footer div section article h5 span  ,How Can We Help?,0,8
+html body footer div section article ul li a span  ,Customer Service,0,10
+html body footer div section article ul li a span  ,Returns,0,10
+html body footer div section article ul li a span  ,Shipping,0,10
+html body footer div section article ul li a span  ,FAQs,0,10
+html body footer div section article ul li a span  ,Purchase Orders,0,10
+html body footer div section article ul li a span  ,Warranties,0,10
+html body footer div section article h5 span  ,My Account,0,8
+html body footer div section article ul li a span  ,Login / Register,0,10
+html body footer div section article ul li a span  ,Account Settings,0,10
+html body footer div section article ul li a span  ,My Order History,0,10
+html body footer div section article ul li a span  ,My Wishlist,0,10
+html body footer div section article h5 span  ,More,0,8
+html body footer div section article ul li a span  ,About Us,0,10
+html body footer div section article ul li a span  ,My Science Perks,0,10
+html body footer div section article ul li a span  ,Careers,0,10
+html body footer div section article ul li a span  ,Reviews,0,10
+html body footer div section article ul li a span  ,Popular Science Projects,0,10
+html body footer div section article ul li a span  ,Catalog,0,10
+html body footer div section article ul li a span  ,Affiliate Program,0,10
+html body footer div section article h5 span  ,Connect with us,0,8
+html body div div ul li span  ,© 2018 Home Science Tools All Rights Reserved,0,7
+html body div div ul li a span  ,Terms & Privacy,0,8
+html body div a span  ,×,0,5
+html body div div span  ,Our Guarantee,0,5
+html body div div p span  ,We get it. Science can be messy. But Home Science Tools' products and service can handle it.,0,6
+html body div div p span  ,"Our products are durable, reliable, and affordable to take you from the field to the lab to the kitchen. They won't let you down, no matter what they're up against. Whether it's (over)eager young scientists year after year, or rigorous requirements that come once-in-a lifetime.",0,6
+html body div div p span  ,"And if your science inquiry doesn't go as expected, you can expect our customer service team to help. Count on friendly voices at the other end of the phone and expert advice in your inbox. They're not happy until you are.",0,6
+html body div div p span  ,Bottom line? We guarantee our products and service won't mess up your science study—no matter how messy it gets.,0,6
+html body div div p span  ,Questions? Get in touch with our,0,6
+html body div div p a span  ,Customer Service,0,7
+html body div div p span  ,team.,0,6
+html body div a span  ,×,0,5
+html body div div div span  ,Vereinigte Staaten nach Deutschland,0,6
+html body div div div div select option span  ,Wählen Sie Ihr Land aus,0,9
+html body div div div div select option span  ,Albanien,0,9
+html body div div div div select option span  ,Algerien,0,9
+html body div div div div select option span  ,Amerikanischen Samoa-Inseln,0,9
+html body div div div div select option span  ,Andorra,0,9
+html body div div div div select option span  ,Angola,0,9
+html body div div div div select option span  ,Anguilla,0,9
+html body div div div div select option span  ,Antigua und Barbuda,0,9
+html body div div div div select option span  ,Argentinien,0,9
+html body div div div div select option span  ,Armenien,0,9
+html body div div div div select option span  ,Aruba,0,9
+html body div div div div select option span  ,Australien,0,9
+html body div div div div select option span  ,Österreich,0,9
+html body div div div div select option span  ,Aserbaidschan,0,9
+html body div div div div select option span  ,Bahamas,0,9
+html body div div div div select option span  ,Bahrain,0,9
+html body div div div div select option span  ,Bangladesch,0,9
+html body div div div div select option span  ,Barbados,0,9
+html body div div div div select option span  ,Weißrussland,0,9
+html body div div div div select option span  ,Belgien,0,9
+html body div div div div select option span  ,Belize,0,9
+html body div div div div select option span  ,Benin,0,9
+html body div div div div select option span  ,Bermuda,0,9
+html body div div div div select option span  ,Bhutan,0,9
+html body div div div div select option span  ,Bolivien,0,9
+html body div div div div select option span  ,"Bonaire, St.Eustatius & Saba",0,9
+html body div div div div select option span  ,Bosnien und Herzegowina,0,9
+html body div div div div select option span  ,Botswana,0,9
+html body div div div div select option span  ,Brasilien,0,9
+html body div div div div select option span  ,Jungferninseln (britisch),0,9
+html body div div div div select option span  ,Brunei Darussalam,0,9
+html body div div div div select option span  ,Bulgarien,0,9
+html body div div div div select option span  ,Burkina Faso,0,9
+html body div div div div select option span  ,Burundi,0,9
+html body div div div div select option span  ,Kambodscha,0,9
+html body div div div div select option span  ,Kamerun,0,9
+html body div div div div select option span  ,Kanada,0,9
+html body div div div div select option span  ,"Kanarische Insel, Spanien",0,9
+html body div div div div select option span  ,Kap Verde,0,9
+html body div div div div select option span  ,Cayman Inseln,0,9
+html body div div div div select option span  ,Zentralafrikanische Republik,0,9
+html body div div div div select option span  ,Tschad,0,9
+html body div div div div select option span  ,Chile,0,9
+html body div div div div select option span  ,"China, Volksrepublik",0,9
+html body div div div div select option span  ,Kolumbien,0,9
+html body div div div div select option span  ,Komoren,0,9
+html body div div div div select option span  ,Demokratische Republik Kongo,0,9
+html body div div div div select option span  ,Cookinseln,0,9
+html body div div div div select option span  ,Costa Rica,0,9
+html body div div div div select option span  ,Kroatien,0,9
+html body div div div div select option span  ,Curacao,0,9
+html body div div div div select option span  ,Zypern,0,9
+html body div div div div select option span  ,Tschechien,0,9
+html body div div div div select option span  ,Dänemark,0,9
+html body div div div div select option span  ,Dschibuti,0,9
+html body div div div div select option span  ,Dominica,0,9
+html body div div div div select option span  ,Dominikanische Republik,0,9
+html body div div div div select option span  ,Osttimor,0,9
+html body div div div div select option span  ,Ecuador,0,9
+html body div div div div select option span  ,Ägypten,0,9
+html body div div div div select option span  ,El Salvador,0,9
+html body div div div div select option span  ,Äquatorialguinea,0,9
+html body div div div div select option span  ,Eritrea,0,9
+html body div div div div select option span  ,Estland,0,9
+html body div div div div select option span  ,Äthiopien,0,9
+html body div div div div select option span  ,Falklandinseln (Malvinas),0,9
+html body div div div div select option span  ,Färöer (Dänemark),0,9
+html body div div div div select option span  ,Fidschi,0,9
+html body div div div div select option span  ,Finnland,0,9
+html body div div div div select option span  ,Frankreich,0,9
+html body div div div div select option span  ,Französisch-Guayana,0,9
+html body div div div div select option span  ,Gabun,0,9
+html body div div div div select option span  ,Gambia,0,9
+html body div div div div select option span  ,Georgia,0,9
+html body div div div div select option span  ,Deutschland,0,9
+html body div div div div select option span  ,Gibraltar,0,9
+html body div div div div select option span  ,Griechenland,0,9
+html body div div div div select option span  ,Grönland (Dänemark),0,9
+html body div div div div select option span  ,Grenada,0,9
+html body div div div div select option span  ,Guadeloupe,0,9
+html body div div div div select option span  ,Guam,0,9
+html body div div div div select option span  ,Ghana,0,9
+html body div div div div select option span  ,Guatemala,0,9
+html body div div div div select option span  ,Guernsey,0,9
+html body div div div div select option span  ,Guinea,0,9
+html body div div div div select option span  ,Guinea-Bissau,0,9
+html body div div div div select option span  ,Guyana,0,9
+html body div div div div select option span  ,Haiti,0,9
+html body div div div div select option span  ,Honduras,0,9
+html body div div div div select option span  ,Hongkong,0,9
+html body div div div div select option span  ,Ungarn,0,9
+html body div div div div select option span  ,Island,0,9
+html body div div div div select option span  ,Indien,0,9
+html body div div div div select option span  ,Indonesien,0,9
+html body div div div div select option span  ,Irland,0,9
+html body div div div div select option span  ,Israel,0,9
+html body div div div div select option span  ,Italien,0,9
+html body div div div div select option span  ,Elfenbeinküste,0,9
+html body div div div div select option span  ,Jamaika,0,9
+html body div div div div select option span  ,Japan,0,9
+html body div div div div select option span  ,Jersey,0,9
+html body div div div div select option span  ,Jordan,0,9
+html body div div div div select option span  ,Kasachstan,0,9
+html body div div div div select option span  ,Kenia,0,9
+html body div div div div select option span  ,Kiribati,0,9
+html body div div div div select option span  ,"Korea, die Republik",0,9
+html body div div div div select option span  ,Kuwait,0,9
+html body div div div div select option span  ,Kirgisistan,0,9
+html body div div div div select option span  ,Laos,0,9
+html body div div div div select option span  ,Lettland,0,9
+html body div div div div select option span  ,Libanon,0,9
+html body div div div div select option span  ,Lesotho,0,9
+html body div div div div select option span  ,Liberia,0,9
+html body div div div div select option span  ,Litauen,0,9
+html body div div div div select option span  ,Liechtenstein,0,9
+html body div div div div select option span  ,Luxemburg,0,9
+html body div div div div select option span  ,Macau,0,9
+html body div div div div select option span  ,Mazedonien,0,9
+html body div div div div select option span  ,Madagaskar,0,9
+html body div div div div select option span  ,Malawi,0,9
+html body div div div div select option span  ,Malaysia,0,9
+html body div div div div select option span  ,Malediven,0,9
+html body div div div div select option span  ,Mali,0,9
+html body div div div div select option span  ,Malta,0,9
+html body div div div div select option span  ,Marshallinseln,0,9
+html body div div div div select option span  ,Martinique,0,9
+html body div div div div select option span  ,Mauretanien,0,9
+html body div div div div select option span  ,Mauritius,0,9
+html body div div div div select option span  ,Mayotte,0,9
+html body div div div div select option span  ,Mexiko,0,9
+html body div div div div select option span  ,Moldawien,0,9
+html body div div div div select option span  ,"Mikronesien, Föderierte Staaten von",0,9
+html body div div div div select option span  ,Monaco,0,9
+html body div div div div select option span  ,Mongolei,0,9
+html body div div div div select option span  ,Montenegro,0,9
+html body div div div div select option span  ,Montserrat,0,9
+html body div div div div select option span  ,Marokko,0,9
+html body div div div div select option span  ,Mosambik,0,9
+html body div div div div select option span  ,Myanmar,0,9
+html body div div div div select option span  ,Namibia,0,9
+html body div div div div select option span  ,"Nauru, Republik",0,9
+html body div div div div select option span  ,Nepal,0,9
+html body div div div div select option span  ,Niederlande,0,9
+html body div div div div select option span  ,Neu-Kaledonien,0,9
+html body div div div div select option span  ,Neuseeland,0,9
+html body div div div div select option span  ,Nicaragua,0,9
+html body div div div div select option span  ,Niger,0,9
+html body div div div div select option span  ,Nigeria,0,9
+html body div div div div select option span  ,Niue Island,0,9
+html body div div div div select option span  ,Norfolkinsel,0,9
+html body div div div div select option span  ,Nördliche Marianneninseln,0,9
+html body div div div div select option span  ,Norwegen,0,9
+html body div div div div select option span  ,Oman,0,9
+html body div div div div select option span  ,Pakistan,0,9
+html body div div div div select option span  ,Panama,0,9
+html body div div div div select option span  ,Papua-Neuguinea,0,9
+html body div div div div select option span  ,Paraguay,0,9
+html body div div div div select option span  ,Palau,0,9
+html body div div div div select option span  ,Peru,0,9
+html body div div div div select option span  ,Philippinen,0,9
+html body div div div div select option span  ,Polen,0,9
+html body div div div div select option span  ,Portugal,0,9
+html body div div div div select option span  ,Puerto Rico,0,9
+html body div div div div select option span  ,Katar,0,9
+html body div div div div select option span  ,Wiedervereinigung,0,9
+html body div div div div select option span  ,Rumänien,0,9
+html body div div div div select option span  ,Russland,0,9
+html body div div div div select option span  ,Ruanda,0,9
+html body div div div div select option span  ,San Marino,0,9
+html body div div div div select option span  ,São Tomé und Príncipe,0,9
+html body div div div div select option span  ,Saudi-Arabien,0,9
+html body div div div div select option span  ,Senegal,0,9
+html body div div div div select option span  ,Serbien,0,9
+html body div div div div select option span  ,Seychellen,0,9
+html body div div div div select option span  ,Sierra Leone,0,9
+html body div div div div select option span  ,Singapur,0,9
+html body div div div div select option span  ,Slowakei,0,9
+html body div div div div select option span  ,Slowenien,0,9
+html body div div div div select option span  ,Salomonen,0,9
+html body div div div div select option span  ,Südafrika,0,9
+html body div div div div select option span  ,Südsudan,0,9
+html body div div div div select option span  ,Spanien,0,9
+html body div div div div select option span  ,Sri Lanka,0,9
+html body div div div div select option span  ,St. Barthelemy,0,9
+html body div div div div select option span  ,St. Kitts und Nevis,0,9
+html body div div div div select option span  ,St. Lucia,0,9
+html body div div div div select option span  ,St. Maarten,0,9
+html body div div div div select option span  ,St. Vincent und die Grenadinen,0,9
+html body div div div div select option span  ,Sudan,0,9
+html body div div div div select option span  ,Suriname,0,9
+html body div div div div select option span  ,Swasiland,0,9
+html body div div div div select option span  ,Schweden,0,9
+html body div div div div select option span  ,Schweiz,0,9
+html body div div div div select option span  ,Französisch-Polynesien (Tahiti),0,9
+html body div div div div select option span  ,Taiwan,0,9
+html body div div div div select option span  ,Tadschikistan,0,9
+html body div div div div select option span  ,Tansania,0,9
+html body div div div div select option span  ,Thailand,0,9
+html body div div div div select option span  ,Togo,0,9
+html body div div div div select option span  ,Tonga,0,9
+html body div div div div select option span  ,Trinidad und Tobago,0,9
+html body div div div div select option span  ,Tunesien,0,9
+html body div div div div select option span  ,Türkei,0,9
+html body div div div div select option span  ,Turkmenistan,0,9
+html body div div div div select option span  ,Turks- und Caicosinseln,0,9
+html body div div div div select option span  ,Tuvalu,0,9
+html body div div div div select option span  ,Virgin Islands (U.S.),0,9
+html body div div div div select option span  ,Uganda,0,9
+html body div div div div select option span  ,Ukraine,0,9
+html body div div div div select option span  ,Vereinigte Arabische Emirate,0,9
+html body div div div div select option span  ,Königreich Großbritannien,0,9
+html body div div div div select option span  ,Vereinigte Staaten,0,9
+html body div div div div select option span  ,Uruguay,0,9
+html body div div div div select option span  ,Usbekistan,0,9
+html body div div div div select option span  ,Vanuatu,0,9
+html body div div div div select option span  ,Venezuela,0,9
+html body div div div div select option span  ,Vietnam,0,9
+html body div div div div select option span  ,Vatikanstadt,0,9
+html body div div div div select option span  ,Samoa,0,9
+html body div div div div select option span  ,Jemen,0,9
+html body div div div div select option span  ,Sambia,0,9
+html body div div div div select option span  ,Simbabwe,0,9
+html body div div div div div span  ,Herzlich willkommen,0,8
+html body div div div div p span  ,"Kommen Sie während des Einkaufens jederzeit hierher, um mehr darüber zu erfahren, worauf Sie sich einstellen müssen, wenn Sie Waren nach Deutschland einführen.",0,8
+html body div div div div div span  ,"Nein, ich bezahle bei der Lieferung",0,8
+html body div div div div p span  ,"In Deutschland können Sie bis zu 150 EUR ausgeben, ohne dass Steuern für Ihre Bestellung anfallen. Die Mehrwertsteuer beträgt 19% und wird für jede Bestellung von mehr als 22 EUR fällig. Für Zölle und Steuern, die bei der Zustellung erhoben werden, sind Sie verantwortlich.",0,8
+html body div div div div p span  ,"Wenn Sie Artikel zu Ihrem Warenkorb hinzufügen, können Sie hierher zurückkehren, um detaillierte Berechnungen von möglichen Zoll- und Mehrwertsteuerbeträgen zu erhalten.",0,8
+html body div div div div span  ,Powered by,0,7
+html body div div div span span  ,de,0,7
+html body div div div span  ,|,0,6
+html body div div div span span  ,en,0,7

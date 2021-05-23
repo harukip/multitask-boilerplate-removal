@@ -1,0 +1,482 @@
+tag,content,label,depth
+html body div div div form div h2 span  ,Sign in with your social network,0,9
+html body div div div form div h2 span  ,Sign in with your email address,0,9
+html body div div div form div div span  ,Please check the field(s) below and try again,0,9
+html body div div div form div div label span  ,Email,0,10
+html body div div div form div div label span  ,Password,0,10
+html body div div div form div div div span  ,show,0,10
+html body div div div form div div span a span  ,Forgotten your password?,0,11
+html body div div div form div p span  ,Don't have an account?,0,9
+html body div div div form div p a span  ,Register,0,10
+html body div div div div h2 span  ,Benefits of registering,0,8
+html body div div div div h2 span  ,Register with your social network,0,8
+html body div div div div p a span  ,Register with email,0,9
+html body div div div div p span  ,Already have an account?,0,8
+html body div div div div p a span  ,Sign in,0,9
+html body div div div div form div span  ,Please check the field(s) below and try again,0,9
+html body div div div div form div label span  ,Email,0,10
+html body div div div div form div span  ,The email address you have provided is taken.,0,9
+html body div div div div form div span a span  ,Click here to sign in,0,11
+html body div div div div form div div div label span  ,First name,0,12
+html body div div div div form div div div label span  ,Last name,0,12
+html body div div div div form div div label span  ,Screen name,0,11
+html body div div div div form div div span  ,(The name which appears when posting comments),0,10
+html body div div div div form div label span  ,Password,0,10
+html body div div div div form div div span  ,show,0,10
+html body div div div div form div span  ,At least 6 characters,0,9
+html body div div div div form div div label span  ,"Yes, keep me up to date with breaking news, offers, promotions and exclusive content from Daily Express by email.",0,11
+html body div div div div form div div label span  ,"Yes, I'd like to be contacted by TM Publishing 1 Plc Companies about their offers, goods and services by email.",0,11
+html body div div div div form div div label span  ,"Yes, I'd like to be contacted by selected 3rd parties about their offers, goods and services by email.",0,11
+html body div div div div form p span  ,By registering I understand and agree to the,0,9
+html body div div div div form p a span  ,Terms of use,0,10
+html body div div div div form p span  ,&,0,9
+html body div div div div form p a span  ,Privacy policy,0,10
+html body div div div div form div span  ,Already have an account?,0,9
+html body div div div div form div span a span  ,Sign in,0,11
+html body div div div div form h2 span  ,We still need some details from you...,0,9
+html body div div div div form div span  ,Please check the field(s) below and try again,0,9
+html body div div div div form span span div span  ,Please check the field(s) below and try again,0,11
+html body div div div div form div label span  ,Email,0,10
+html body div div div div form div span  ,The email address you have provided is taken.,0,9
+html body div div div div form div span a span  ,Click here to sign in,0,11
+html body div div div div form div div div label span  ,First name,0,12
+html body div div div div form div div div label span  ,Last name,0,12
+html body div div div div form div div label span  ,Screen name,0,11
+html body div div div div form div div span  ,(The name which appears when posting comments),0,10
+html body div div div div form div div label span  ,"Yes, keep me up to date with breaking news, offers, promotions and exclusive content from Daily Express by email.",0,11
+html body div div div div form div div label span  ,"Yes, I'd like to be contacted by TM Publishing 1 Plc Companies about their offers, goods and services by email.",0,11
+html body div div div div form div div label span  ,"Yes, I'd like to be contacted by selected 3rd parties about their offers, goods and services by email.",0,11
+html body div div div div form p span  ,By registering I understand and agree to the,0,9
+html body div div div div form p a span  ,Terms of use,0,10
+html body div div div div form p span  ,&,0,9
+html body div div div div form p a span  ,Privacy policy,0,10
+html body div div div form div h2 span  ,We found your email in our system,0,9
+html body div div div form div p span  ,Please provide your site password to link to your existing account or,0,9
+html body div div div form div p a span  ,click here,0,10
+html body div div div form div p span  ,to create a new account,0,9
+html body div div div form div div div strong span  ,Please check the field(s) below and try again,0,11
+html body div div div form div div label span  ,Email,0,10
+html body div div div form div div label span  ,Password,0,10
+html body div div div form div div div span  ,show,0,10
+html body div div div form div div span a span  ,Forgotten your password?,0,11
+html body div div div form div div span  ,Please check the field(s) below and try again,0,9
+html body div div div form div p span  ,Please enter your email address to reset your password,0,9
+html body div div div form div div label span  ,Email,0,10
+html body div div div form div p a span  ,Sign in with a different account,0,10
+html body div div div div h2 span  ,We???ve sent you an email to reset your password,0,8
+html body div div div div p span  ,"The email should arrive straight away, it may be in your spam.",0,8
+html body div div div div p span  ,The link will expire after 24 hours.,0,8
+html body div div form div label span  ,We have not verified that the email belongs to you. Please check your inbox for the verification email.,0,8
+html body div div form div label span  ,"To resend the verification email, please enter your email address and click Submit.",0,8
+html body div div form div div label span  ,Email:,0,9
+html body div div form div label span  ,To login with a different account,0,8
+html body div div form div label a span  ,click here,0,9
+html body div div div label span  ,A confirmation email has been sent to you with a link to activate the account.,0,7
+html body div header h2 a span  ,Express. Home of the Daily and Sunday Express.,0,7
+html body div header div div ul li a span  ,Find us on Facebook,0,10
+html body div header div div ul li a span  ,Follow us on Twitter,0,10
+html body div header div div div div div ul li a span  ,Login,0,13
+html body div header div div div div div ul li a span  ,Register,0,13
+html body div header div div div div div ul li a span  ,Your Account,0,13
+html body div header div div div div div ul li a span  ,Sign Out,0,13
+html body div header div div div a span  ,Apps,0,9
+html body div header div div div a span  ,Puzzles,0,9
+html body div header div div div a span  ,Horoscopes,0,9
+html body div header div div div a span  ,Shop,0,9
+html body div header div div div a span  ,Paper,0,9
+html body div header div div div a span span  ,8,0,10
+html body div header div div div a span  ,??C,0,9
+html body div header nav div ul li a span  ,HOME,0,10
+html body div header nav div ul li a span  ,News,0,10
+html body div header nav div ul li a span  ,Showbiz & TV,0,10
+html body div header nav div ul li a span  ,Sport,0,10
+html body div header nav div ul li a span  ,Comment,0,10
+html body div header nav div ul li a span  ,Finance,0,10
+html body div header nav div ul li a span  ,Travel,0,10
+html body div header nav div ul li a span  ,Entertainment,0,10
+html body div header nav div ul li a span  ,Life & Style,0,10
+html body div header nav ul li a span  ,Gaming,0,9
+html body div header nav ul li a span  ,Theatre,0,9
+html body div header nav ul li a span  ,Films,0,9
+html body div header nav ul li a span  ,Books,0,9
+html body div header nav ul li a span  ,Music,0,9
+html body div header nav ul li a span  ,Puzzles,0,9
+html body div header nav ul li a span  ,Home,0,9
+html body div header nav ul li a span  ,Entertainment,0,9
+html body div header nav ul li a span  ,Gaming,0,9
+html body div header nav ul li span  ,"Fortnite Season 6 TEASER REVEALED, Early update 6.0 patch notes, Release date delay",0,8
+html body div div div div div a div div div span  ,Corbyn ally boasts of setting alarm clock EARLY 'to hate???,0,12
+html body div div div div div a div div div span span  ,(Express - Videos),0,13
+html body div div div div div a div div div span  ,Fortnite season 6: Has Epic Games just confirmed THIS big Battle???,0,12
+html body div div div div div a div div div span span  ,(Express - Videos),0,13
+html body div div div div div a div div div span  ,Fortnite season 6 release date SHOCK and huge season 5 Battle???,0,12
+html body div div div div div a div div div span span  ,(Express - Videos),0,13
+html body div div div div div a div div div span  ,"Man Utd news: Jose Mourinho has to leave TODAY, Paul Pogba???",0,12
+html body div div div div div a div div div span span  ,(Express - Videos),0,13
+html body div div div div div a div div div span  ,Fortnite season 6: Wild West location CONFIRMED for Battle???,0,12
+html body div div div div div a div div div span span  ,(Express - Videos),0,13
+html body div div div div div div div div div div span  ,Corbyn ally boasts of setting alarm clock EARLY 'to hate???,0,13
+html body div div div div div div div div div div span span  ,(Express - Videos),0,14
+html body div div div div div div div div div div span  ,Fortnite season 6: Has Epic Games just confirmed THIS big Battle???,0,13
+html body div div div div div div div div div div span span  ,(Express - Videos),0,14
+html body div div div div div div div div div div span  ,Fortnite season 6 release date SHOCK and huge season 5 Battle???,0,13
+html body div div div div div div div div div div span span  ,(Express - Videos),0,14
+html body div div div div div div div div div div span  ,"Man Utd news: Jose Mourinho has to leave TODAY, Paul Pogba???",0,13
+html body div div div div div div div div div div span span  ,(Express - Videos),0,14
+html body div div div div div div div div div div span  ,Fortnite season 6: Wild West location CONFIRMED for Battle???,0,13
+html body div div div div div div div div div div span span  ,(Express - Videos),0,14
+html body div div div article header h1 span  ,"Fortnite Season 6 TEASER REVEALED, Early update 6.0 patch notes, Release date delay",1,9
+html body div div div article header h3 span  ,"FORTNITE Season 6 is almost here, which means teasers are on the way, patch notes are dropping and fan excitement at an all-time high.",1,9
+html body div div div article header div div div span  ,By,1,11
+html body div div div article header div div div a span  ,Liam Martin,1,12
+html body div div div article header div div div time span  ,PUBLISHED:,1,12
+html body div div div article header div div div time span  ,"08:50, Tue, Sep 25, 2018",1,12
+html body div div div article header div div div time span  ,| UPDATED:,1,12
+html body div div div article header div div div time span  ,"08:51, Tue, Sep 25, 2018",1,12
+html body div div div article header div div span  ,1,0,10
+html body div div div article header div div div table tbody tr td div table tbody tr td div span  ,4,0,21
+html body div div div article header div div div table tbody tr td div span  ,1,0,16
+html body div div div article div div div span  ,Fortnite Season 6 teaser goes live,0,10
+html body div div div article div div div span span  ,(Image: EPIC GAMES),0,11
+html body div div div article div div div p strong span  ,UPDATE:,1,12
+html body div div div article div div div p strong span  ,Fortnite fans have been given a look at the first teaser for Season 6.,1,12
+html body div div div article div div div p span  ,"The teaser, which can be seen above, was accompanied by the following tweet: ""All great parties need a DJ. 3 days to Season 6.""",1,11
+html body div div div article div div div p span  ,Expect more teasers as the week goes on.,1,11
+html body div div div article div div div p strong span  ,ORIGINAL:,1,12
+html body div div div article div div div p span  ,Despite,1,11
+html body div div div article div div div p a span  ,Fortnite,1,12
+html body div div div article div div div p span  ,"Season 6 releasing later this week, Epic Games is yet to reveal any teasers.",1,11
+html body div div div article div div div p span  ,"But fans don't have to wait very long for Fortnite Season 6 teasers, which should drop later today.",1,11
+html body div div div article div div div p span  ,"An Epic employee confirmed as much on Reddit, telling fans that new info is on the way.",1,11
+html body div div div article div div div p span  ,"""Season 6 teasers on the way for next week. Enjoy the weekend!"" reads the Epic post.",1,11
+html body div div div article div div div p span  ,Expect daily teasers to precede the launch of Season 6 on September 27.,1,11
+html body div div div article div div div p span  ,"Season 6 is expected to deal with duality and the battle between good and evil, light and dark.",1,11
+html body div div div article div div div p strong span  ,"Despite the lack of Season 6 teasers, Epic has released early version 6.0 patch notes.",1,12
+html body div div div article div div div p span  ,"The next major Fortnite update drops on September 27, and will include big changes to the game's sound effects. You can see for yourself in the patch notes below...",1,11
+html body div div div article div div div p span  ,??? More contrast between above/below steps.,1,11
+html body div div div article div div div p span  ,"??? We want this to be easier to determine on the fly, especially while other sounds are playing (gunfire, harvesting, etc).",1,11
+html body div div div article div div div p span  ,"??? More high frequency audio content to improve your ability to pinpoint the location of steps, and to prevent them from getting drowned out during intense combat.",1,11
+html body div div div article div div div p span  ,??? Glider audio tells,1,11
+html body div div div article div div div p span  ,??? Increased awareness when an enemy is gliding in your vicinity.,1,11
+html body div div div article div div div p span  ,??? Doppler-based glider audio for incoming threats. This will create that ???car passing by??? effect when a player glides over top of you.,1,11
+html body div div div article div div div p span  ,??? Improved spatialization of both skydiving and gliding players.,1,11
+html body div div div article div div div p span  ,??? Ability to hear the open/close sounds of gliders from further away.,1,11
+html body div div div article div div div span  ,Fortnite Season 6,0,10
+html body div div div article div div div span span  ,(Image: EPIC GAMES),0,11
+html body div div div article div div div span  ,Fortnite fans are waiting for Season 6 to begin,0,10
+html body div div div article div div div span span  ,(Image: EPIC GAMES),0,11
+html body div div div article div div div p strong span  ,"Fortnite Season 6 has been delayed on PS4, Xbox One, Nintendo Switch, PC, iOS and Android.",1,12
+html body div div div article div div div p span  ,Epic Games recently announced that the Season 6 release date has been delayed until September 27.,1,11
+html body div div div article div div div p span  ,"""Season 6 is now dropping from the Battle Bus on September 27,"" reads an Epic tweet. ""Celebrate its arrival and unlock those final Battle Pass rewards with an additional 400% Match XP all weekend, from now until September 24 at 8 AM ET (1200 GMT). Glide into the party!""",1,11
+html body div div div article div div div p span  ,"This also means that Season 5 has been extended, giving players a few extra days to grab those Battle Pass rewards.",1,11
+html body div div div article div div div p span  ,"""Gear up as the season winds down,"" Epic posts. ""We've extended Season 5 by two days and it will now end on September 27!""",1,11
+html body div div div article div div div p span  ,Players can get a leg up on the competition by purchasing ten Battle pass Tiers from the item shop.,1,11
+html body div div div article div div div p span  ,"Available for a limited time only, fans can get the Battle Pass booster from the item shop for 900 V-bucks.",1,11
+html body div div div div div header h3 span  ,Related articles,0,10
+html body div div div div div ul li a span  ,Fortnite Battle Royale anniversary event: When is the BR birthday?,0,11
+html body div div div div div ul li a span  ,Fortnite shop today: FINAL leaked skins drop before Season 6 release,0,11
+html body div div div div div ul li a span  ,Fortnite Season 5 end date: When does Season 6 start and Season 5 end?,0,11
+html body div div div div div a span  ,Fortnite,0,9
+html body div div div div footer div div div span div span  ,Recommended stories,0,13
+html body div div div div footer div div div div div a div div div span  ,"Fortnite season 6 Battle Pass: What are the Battle Pass rewards? Skins, price and trailer",0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Express - Videos),0,17
+html body div div div div footer div div div div div a div div div span  ,Spiele dieses Spiel f??r 12 Minuten und sieh wieso jeder s??chtig danach ist,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Vikings),0,17
+html body div div div div footer div div div div div a div div div span  ,Tiger Woods girlfriend: Erica Herman dazzles as she makes debut with Tiger at Ryder Cup,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Express - Videos),0,17
+html body div div div div footer div div div div div a div div div span  ,Dieser neue Schwei??g??rtel ist ein Erfolg in Deutschland.,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Science-wellbeing.com),0,17
+html body div div div div footer div div div div div a div div div span  ,Venom film end credit scene CONFIRMED: 'Marvel fans need to stay in their seats for THIS',0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Express - Videos),0,17
+html body div div div div footer div div div div div a div div div span  ,The Most Addictive Game of the Year,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Forge Of Empires),0,17
+html body div div div div footer div div div div div a div div div span  ,"Tired of Looking for Parking, Israeli Entrepreneurs Develop Foldable Car",0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - C-Tech),0,17
+html body div div div div footer div div div div div a div div div span  ,"If You're Over 50 And Own A Computer, This Game Is A Must-Have!",0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Vikings),0,17
+html body div div div div footer div div div div div a div div div span  ,Chess players around the world are falling in love with this Strategy game,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Throne),0,17
+html body div div div div footer div div div div div a div div div span  ,Anlagenbetreiber und Facility Manager aufgepasst: Dieses Event d??rfen Sie nicht verpassen!,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - www.chillventa.de),0,17
+html body div div div div footer div div div div div a div div div span  ,Oldtimer & Youngtimer einfach richtig gut versichern. Direkt hier,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Carisma),0,17
+html body div div div div footer div div div div div a div div div span  ,Eigent??mer: Das ist Ihr Zuhause in Hannover wert!,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - ImmobilienScout24),0,17
+html body div div div div footer div div div div div div div div div div span  ,"Fortnite season 6 Battle Pass: What are the Battle Pass rewards? Skins, price and trailer",0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Express - Videos),0,18
+html body div div div div footer div div div div div div div div div div span  ,Spiele dieses Spiel f??r 12 Minuten und sieh wieso jeder s??chtig danach ist,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Vikings),0,18
+html body div div div div footer div div div div div div div div div div span  ,Tiger Woods girlfriend: Erica Herman dazzles as she makes debut with Tiger at Ryder Cup,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Express - Videos),0,18
+html body div div div div footer div div div div div div div div div div span  ,Dieser neue Schwei??g??rtel ist ein Erfolg in Deutschland.,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Science-wellbeing.com),0,18
+html body div div div div footer div div div div div div div div div div span  ,Venom film end credit scene CONFIRMED: 'Marvel fans need to stay in their seats for THIS',0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Express - Videos),0,18
+html body div div div div footer div div div div div div div div div div span  ,The Most Addictive Game of the Year,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Forge Of Empires),0,18
+html body div div div div footer div div div div div div div div div div span  ,"Tired of Looking for Parking, Israeli Entrepreneurs Develop Foldable Car",0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - C-Tech),0,18
+html body div div div div footer div div div div div div div div div div span  ,"If You're Over 50 And Own A Computer, This Game Is A Must-Have!",0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Vikings),0,18
+html body div div div div footer div div div div div div div div div div span  ,Chess players around the world are falling in love with this Strategy game,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Throne),0,18
+html body div div div div footer div div div div div div div div div div span  ,Anlagenbetreiber und Facility Manager aufgepasst: Dieses Event d??rfen Sie nicht verpassen!,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - www.chillventa.de),0,18
+html body div div div div footer div div div div div div div div div div span  ,Oldtimer & Youngtimer einfach richtig gut versichern. Direkt hier,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Carisma),0,18
+html body div div div div footer div div div div div div div div div div span  ,Eigent??mer: Das ist Ihr Zuhause in Hannover wert!,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - ImmobilienScout24),0,18
+html body div div div div footer div div div div a span  ,Recommended by,0,13
+html body div div div div footer div div div a span  ,powered by plista,0,12
+html body div div div div footer div div div a span  ,How much would it cost Manchester United to sack Jose Mourinho? The answer revealed,0,12
+html body div div div div footer div div div a span  ,Man Utd news: Gary Neville names the three United stars he cannot defend anymore,0,12
+html body div div div div footer div div div a span  ,"Man Utd news: Jose Mourinho has to leave TODAY, Paul Pogba creating revolt - pundit",0,12
+html body div div div div footer section div div div div div div span  ,Popular In the Community,0,15
+html body div div div div footer section div div div div div div div div span  ,Sponsored,0,17
+html body div div div div footer section div div div div div div div div span  ,Sponsored,0,17
+html body div div div div footer section div div div div div div div div a div div div span  ,BREXIT BACKLASH: Brussels furious after Hunt compares EU to 'Soviet prison',0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,Freebird49,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,1h,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,"Hunt is right on this isnt he? We are in a prison, one that Heath, Major and Bliar put us in!",0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,'EU is a religion for Remainers!' MP says Brexit is like DENYING Remainers of their god,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,Grunga,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,1m,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,"As Scott Free said on the DM, May's Chequers plans, look more like an EU membership form.Kick the traitor May out and her Chequers betrayal as well.",0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,NO DEAL BREXIT EXPLAINED: What could a no-deal Brexit REALLY mean for you and me?,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,DEnocommentsAllowed,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,2d,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,"Utter cr4p!We voted for out means out, you know Brexit means Brexit.In way way shape or form was it based on the uk having to secure a deal, so please stop the rubbish about another vote etc etc etc.BREXIT MEANS BREXIT NO SURRENDER.",0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,PARKING FARCE: Pensioner given ticket for parking on her OWN DRIVEWAY,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,NannyGrumpy,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,2d,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,So she wasn't exactly parked on her drive was she ? She was parked on her drive AND on the pavement.,0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,Raab mocks ???prophets of doom' Brexit blockers: ???They say debris will fall from the sky!',0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,DonaldShaw,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,2h,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,"You will not ???scare the wits??? out of British people, maybe the weak snowflake remainer/remoaner sort but not the British people that have ???backbone???!",0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,ITV Good Morning Britain: 'I have answered' Morgan and Hammond in heated Brexit clash,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,catlady894,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,5h,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,Another betrayer of the majority.Chequers does not make anyone happy. Drop it now.,0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,ITV Good Morning Britain: John Cleese SNAPS at Ben Shepherd in furious interview,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,Waterloo1815,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,3d,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,"Very well said Mr Cleese, our biased media and printed press need a good thrashing. ; ))",0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,Brexit no deal could see meat and chips taken OFF menu: Supplier asks pubs to go VEGGIE,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,JohnArthur,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,1d,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,I have never read such utter nonsense,0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,World War 3: Iran launches ???DEATH TO AMERICA??? missiles in nighttime strike,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,JimMillar,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,1h,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,The stone age flintstones b@tching and moaning screaming and shouting they will never change the culture of death will always be a monstrous race!,0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,Hammond's 'EYORE filter' is DAMAGING Brexit negotiations claims Brexiteer MP Marcus Fysh,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,roger,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,21m,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,eu lover hammond is only there because of eu lover may,0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,EU branded THIEVES for forcing austerity on Italy: Leaders set for showdown with Brussels,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,Chinadoll,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,1d,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,The good people of Italy have elected a government that will act in the interests of the Italian electorate. Italy is too big to bail. Interesting times. Good luck to the wonderful people of Italy.,0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,Meghan Markle???s sister Samantha APOLOGISES after causing HELL to ???get closer??? to royal,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,PattiConnorMasterson,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,40m,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,"Useing all kind of tactic to get to see Prince Harry, Meghan and the Royal family. I don???t buy it. She is sneaky. Look out Meghan.",0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,Conservative conference LIVE: ???We are mobilising PEOPLE???S ARMY??? Farage's Brexit battle cry,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,brentfordmafia@hotmail.co.uk,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,4h,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,FOOL chequers ties Britains hands in perpetuity only a pro E.U. Britain hating loyalist would think otherwise.,0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,???We owe EU NOTHING!??? Britons issue STERN warning for May after EU reject UK's Brexit plan,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,WilliamTaylor3,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,5h,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,"40 billion, for what, a trade deal, no one else pays for trade deals, this is our money Mrs May, not yours, and certainly not the eu's, grow a spine Mrs May.",0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,IRA LEADER: STOP ARMY WITCH-HUNT,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,RIP-UK,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,14h,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,"This Karen Bradley person is a disgrace and clearly out to make a name for herself, she should be stopped in her tracks and put out to grass.",0,20
+html body div div aside section header h3 span  ,Most read in Gaming,0,9
+html body div div aside section ul li a span u span  ,1,0,12
+html body div div aside section ul li a div h4 span  ,"Fortnite Season 6 TEASER REVEALED, Early update 6.0 patch notes, Release date delay",0,12
+html body div div aside section ul li a span u span  ,2,0,12
+html body div div aside section ul li a div h4 span  ,"PS Plus October 2018: Free PS4 game LEAKS, PlayStation Plus reveal date, predictions",0,12
+html body div div aside section ul li a span u span  ,3,0,12
+html body div div aside section ul li a div h4 span  ,PlayStation Mini games list update: Sony delivers BAD NEWS to PSOne fans,0,12
+html body div div aside section ul li a span u span  ,4,0,12
+html body div div aside section ul li a div h4 span  ,"Pokemon Go Community Day news update - Niantic reveals October, November event plans",0,12
+html body div div aside section ul li a span u span  ,5,0,12
+html body div div aside section ul li a div h4 span  ,"FIFA 19 early access COUNTDOWN: Release date, time, download early on PS4 Xbox One Switch",0,12
+html body div div aside section header h3 span  ,Latest videos,0,9
+html body div div aside section div a h4 span  ,Avengers 4: THIS character was intended to be KILLED OFF long before Thanos' snap,0,10
+html body div div aside section div a h4 span  ,Pancreatic cancer: If you have this condition you could be more at risk,0,10
+html body div div aside section div a h4 span  ,Cristiano Ronaldo net worth: How much is the Juventus star worth? Wages and endorsements,0,10
+html body div div aside section div a h4 span  ,Ant McPartlin news: Declan Donnelly's pal marks star's birthday with hilarious message,0,10
+html body div div aside section div a h4 span  ,"Listeria warning: FULL LIST of items recalled from Sainsbury???s, Tesco, ASDA and more",0,10
+html body div div aside div div div div div span  ,More stories,0,11
+html body div div aside div div div div ul li a span  ,"Fortnite season 6 COUNTDOWN: Release time, skins, servers down, Cube map changes, leaks",0,13
+html body div div aside div div div div ul li a span  ,Anne Robinson plastic surgery: Weakest Link TV presenter looks sensational after facelift,0,13
+html body div div aside div div div div ul li a span  ,Dr Pixie McKenna: 5 things I cannot live without,0,13
+html body div div aside div div div div ul li a span  ,Varicose veins treatment: What are varicose veins and how can you get rid of them?,0,13
+html body div div aside div div div div ul li a span  ,Germany AC Companies Angry At This New Tiny Device,0,13
+html body div div aside div div div div ul li a span  ,(Sponsored - Handy Tech Gadgets),0,13
+html body div div aside div div div div ul li a span  ,Samsung A6 und A6+ im Vergleich: Wie gut ist die Galaxy-A-Klasse?,0,13
+html body div div aside div div div div ul li a span  ,(Sponsored - Yello - Mehr als du denkst.),0,13
+html body div div aside div div div div ul li a span  ,Handgefertigt: Entdecke einzigartige Armbanduhren aus Holz und Stein,0,13
+html body div div aside div div div div ul li a span  ,(Sponsored - Holzkern),0,13
+html body div div aside div div div div ul li a span  ,Private Krankenversicherung: Bares Geld sparen f??r mehr Leistung!,0,13
+html body div div aside div div div div ul li a span  ,(Sponsored - ottonova),0,13
+html body div div aside div div div div ul li a span  ,Dancing on Ice 2019 cast: Gemma Collins and Richard Blackwood first celebrities???,0,13
+html body div div aside div div div div ul li a span  ,Avengers 4: Is there a Captain Marvel Easter Egg in Captain America Civil War?,0,13
+html body div div aside div div div div ul li a span  ,PKV im Alter: Kostenfalle? Nicht bei uns!,0,13
+html body div div aside div div div div ul li a span  ,(Sponsored - ottonova),0,13
+html body div div aside div div div div ul li a span  ,Platzt demn??chst eine Immobilienblase? 3 Gr??nde warum Sie jetzt verkaufen sollten,0,13
+html body div div aside div div div div ul li a span  ,(Sponsored - HOMEDAY),0,13
+html body div div aside div div div div ul li a span  ,"Wenn Sie hier eine Immobilie besitzen, sollten Sie schnell verkaufen",0,13
+html body div div aside div div div div ul li a span  ,(Sponsored - HOMEDAY),0,13
+html body div div aside div div div div ul li a span  ,In Zukunft ist Blasenschwa??che nicht auch noch teuer.,0,13
+html body div div aside div div div div ul li a span  ,(Sponsored - DocMorris),0,13
+html body div div aside div div div div a span  ,Recommended by,0,11
+html body div div aside div div div div a span  ,powered by plista,0,11
+html body div div aside div div div div a span  ,Man Utd news: Jose Mourinho told to leave - ???I???d...,0,11
+html body div div aside div div div div a span  ,Cristiano Ronaldo: Juventus star ???in...,0,11
+html body div div aside section div a h4 span  ,"Overwatch Halloween event release date, new SKINS, Torbjorn update, World Cup finals",0,10
+html body div div aside section div a h4 span  ,FIFA 19 TOTW 2: FUT launch in time for early access release date on PS4 and Xbox,0,10
+html body div div aside section div a h4 span  ,Fortnite season 6 promises a party but will new battle pass and skins impress?,0,10
+html body div div aside section div a h4 span  ,WWE 2K19 career mode SWERVE: Why this year's story mode is most bizarre yet,0,10
+html body div div aside section div a h4 span  ,"FIFA 19 early access COUNTDOWN: Release date, time, download early on PS4 Xbox One Switch",0,10
+html body div div aside section div a h4 span  ,"Pokemon Go Community Day news update - Niantic reveals October, November event plans",0,10
+html body div div aside section div a h4 span  ,"PS Plus October 2018: Free PS4 game LEAKS, PlayStation Plus reveal date, predictions",0,10
+html body div div aside section div a h4 span  ,Fortnite update 6.0: Early patch notes ahead of season 6 release,0,10
+html body div div aside section div a h4 span  ,"Destiny 2 Weekly Reset time, Forsaken Raid wipe, Breakthrough for PS4 and Xbox One",0,10
+html body div div aside section div a h4 span  ,"Fortnite season 6 skins release, Halloween 2018 update and map leaks",0,10
+html body div div aside section div a h4 span  ,"Death Stranding release date UPDATE: Major launch news, brand new trailer revealed",0,10
+html body div div aside section div a h4 span  ,Fortnite season 6: Has Epic Games just confirmed THIS big Battle Royale theory?,0,10
+html body div div aside section div a h4 span  ,"Little Dragons Cafe review - A charming, relaxing, laid-back experience",0,10
+html body div div aside section div a h4 span  ,Fortnite season 6: Skins reveal ahead of Battle Pass release date? Battle Royale update,0,10
+html body div div aside section div a h4 span  ,Fortnite season 6: First official teaser REVEALED by Epic Games ahead of big release date,0,10
+html body div div aside section div a h4 span  ,Black Ops 4 news: Big Blackout release date update and Zombies reveal,0,10
+html body div div aside section div a h4 span  ,Destiny 2 Forsaken review: Does Bungie???s Gambit payoff?,0,10
+html body div div aside section div a h4 span  ,"Pokemon Go news: Gen 4 release rumours, shiny Community Day surprise",0,10
+html body div footer aside section span  ,SEARCH,0,7
+html body div footer aside section span  ,CONNECT WITH US,0,7
+html body div footer aside section ul li a span  ,Find us on Facebook,0,10
+html body div footer aside section ul li a span  ,Follow us on Twitter,0,10
+html body div footer aside section ul li a span  ,Check us on Google+,0,10
+html body div footer aside section ul li a span  ,Subscribe to our rss feed,0,10
+html body div footer aside section span  ,TODAY'S PAPER,0,7
+html body div footer aside section div div span  ,"Tuesday, 25th September 2018",0,9
+html body div footer aside section div p span  ,"See today's front and back pages, download the newspaper, order back issues and use the historic Daily Express newspaper archive.",0,9
+html body div footer nav div div section h2 a span  ,News,0,11
+html body div footer nav div div section ul li a span  ,UK,0,12
+html body div footer nav div div section ul li a span  ,World,0,12
+html body div footer nav div div section ul li a span  ,Weather,0,12
+html body div footer nav div div section ul li a span  ,Politics,0,12
+html body div footer nav div div section ul li a span  ,Royal,0,12
+html body div footer nav div div section ul li a span  ,Nature,0,12
+html body div footer nav div div section ul li a span  ,Science,0,12
+html body div footer nav div div section ul li a span  ,Scotland,0,12
+html body div footer nav div div section ul li a span  ,Weird,0,12
+html body div footer nav div div section ul li a span  ,Sunday,0,12
+html body div footer nav div div section ul li a span  ,History,0,12
+html body div footer nav div div section ul li a span  ,Obituaries,0,12
+html body div footer nav div div section h2 a span  ,Latest News,0,11
+html body div footer nav div div section ul li a span  ,Brexit,0,12
+html body div footer nav div div section ul li a span  ,European Union,0,12
+html body div footer nav div div section ul li a span  ,Theresa May,0,12
+html body div footer nav div div section ul li a span  ,Angela Merkel,0,12
+html body div footer nav div div section ul li a span  ,Donald Trump,0,12
+html body div footer nav div div section ul li a span  ,The Queen,0,12
+html body div footer nav div div section ul li a span  ,Kate Middleton,0,12
+html body div footer nav div div section ul li a span  ,Meghan Markle,0,12
+html body div footer nav div div section ul li a span  ,Diesel,0,12
+html body div footer nav div div section ul li a span  ,Cancer,0,12
+html body div footer nav div div section ul li a span  ,Diabetes,0,12
+html body div footer nav div div section ul li a span  ,Dementia,0,12
+html body div footer nav div div section ul li a span  ,YouTube,0,12
+html body div footer nav div div section h2 a span  ,Showbiz & TV,0,11
+html body div footer nav div div section ul li a span  ,Celebrity News,0,12
+html body div footer nav div div section ul li a span  ,TV & Radio,0,12
+html body div footer nav div div section h2 a span  ,Sport,0,11
+html body div footer nav div div section ul li a span  ,Football,0,12
+html body div footer nav div div section ul li a span  ,Transfer news,0,12
+html body div footer nav div div section ul li a span  ,Premier League,0,12
+html body div footer nav div div section ul li a span  ,Manchester United,0,12
+html body div footer nav div div section ul li a span  ,Liverpool,0,12
+html body div footer nav div div section ul li a span  ,Arsenal,0,12
+html body div footer nav div div section ul li a span  ,Chelsea,0,12
+html body div footer nav div div section ul li a span  ,Tottenham Hotspur,0,12
+html body div footer nav div div section ul li a span  ,Manchester City,0,12
+html body div footer nav div div section ul li a span  ,West Ham,0,12
+html body div footer nav div div section ul li a span  ,Everton,0,12
+html body div footer nav div div section ul li a span  ,Celtic,0,12
+html body div footer nav div div section ul li a span  ,Rangers,0,12
+html body div footer nav div div section ul li a span  ,Tennis,0,12
+html body div footer nav div div section ul li a span  ,F1,0,12
+html body div footer nav div div section ul li a span  ,Cricket,0,12
+html body div footer nav div div section ul li a span  ,Rugby,0,12
+html body div footer nav div div section ul li a span  ,Golf,0,12
+html body div footer nav div div section ul li a span  ,Boxing,0,12
+html body div footer nav div div section ul li a span  ,UFC,0,12
+html body div footer nav div div section ul li a span  ,WWE,0,12
+html body div footer nav div div section ul li a span  ,Racing,0,12
+html body div footer nav div div section ul li a span  ,NBA,0,12
+html body div footer nav div div section ul li a span  ,NFL,0,12
+html body div footer nav div div section h2 a span  ,Pictures,0,11
+html body div footer nav div div section ul li a span  ,Pics,0,12
+html body div footer nav div div section ul li a span  ,Celebrity Galleries,0,12
+html body div footer nav div div section ul li a span  ,Royal Galleries,0,12
+html body div footer nav div div section ul li a span  ,Sport Galleries,0,12
+html body div footer nav div div section h2 a span  ,Comment,0,11
+html body div footer nav div div section ul li a span  ,Express Comment,0,12
+html body div footer nav div div section ul li a span  ,Columnists,0,12
+html body div footer nav div div section ul li a span  ,Beachcomber,0,12
+html body div footer nav div div section h2 a span  ,Finance,0,11
+html body div footer nav div div section ul li a span  ,City & Business,0,12
+html body div footer nav div div section ul li a span  ,Personal Finance,0,12
+html body div footer nav div div section ul li a span  ,The Crusader,0,12
+html body div footer nav div div section ul li a span  ,Retirement,0,12
+html body div footer nav div div section h2 a span  ,Travel,0,11
+html body div footer nav div div section ul li a span  ,Cruise,0,12
+html body div footer nav div div section ul li a span  ,Activity Holidays,0,12
+html body div footer nav div div section ul li a span  ,Beach Holidays,0,12
+html body div footer nav div div section ul li a span  ,Short & City breaks,0,12
+html body div footer nav div div section ul li a span  ,Travel News,0,12
+html body div footer nav div div section h2 a span  ,Entertainment,0,11
+html body div footer nav div div section ul li a span  ,Gaming,0,12
+html body div footer nav div div section ul li a span  ,Theatre,0,12
+html body div footer nav div div section ul li a span  ,Films,0,12
+html body div footer nav div div section ul li a span  ,Books,0,12
+html body div footer nav div div section ul li a span  ,Music,0,12
+html body div footer nav div div section ul li a span  ,Puzzles,0,12
+html body div footer nav div div section h2 a span  ,Life & Style,0,11
+html body div footer nav div div section ul li a span  ,Style,0,12
+html body div footer nav div div section ul li a span  ,Life,0,12
+html body div footer nav div div section ul li a span  ,Health,0,12
+html body div footer nav div div section ul li a span  ,Cars,0,12
+html body div footer nav div div section ul li a span  ,Garden,0,12
+html body div footer nav div div section ul li a span  ,Property,0,12
+html body div footer nav div div section ul li a span  ,Food,0,12
+html body div footer nav div div section ul li a span  ,Tech,0,12
+html body div footer nav div div section ul li a span  ,Diets,0,12
+html body div footer nav div div section ul li a span  ,Saturday,0,12
+html body div footer nav div div section ul li a span  ,Win,0,12
+html body div footer nav div div section ul li a span  ,S Mag,0,12
+html body div footer nav div div section ul li a span  ,Top 10 Facts,0,12
+html body div footer nav div div section h2 span  ,EXPRESS.CO.UK,0,10
+html body div footer nav div div section ul li a span  ,Sitemap,0,12
+html body div footer nav div div section ul li a span  ,Site Archive,0,12
+html body div footer nav div div section ul li a span  ,Contact Us,0,12
+html body div footer nav div div section ul li a span  ,Report a Tech Issue,0,12
+html body div footer nav div div section ul li a span  ,Advertising,0,12
+html body div footer nav div div section ul li a span  ,Cookies Settings,0,12
+html body div footer nav div div section ul li a span  ,Privacy Policy,0,12
+html body div footer nav div div section ul li a span  ,Cookie Policy,0,12
+html body div footer nav div div section ul li a span  ,Terms & Conditions,0,12
+html body div footer nav div div section ul li a span  ,Developed by Netro42,0,12
+html body div footer nav div div section ul li a span  ,Syndication and Licensing,0,12
+html body div footer nav div div section ul li a span  ,Clarifications and Corrections,0,12
+html body div footer div ul li a span  ,Daily Star,0,9
+html body div footer div ul li a span  ,OK! Magazine,0,9
+html body div footer div ul li a span  ,new! Magazine,0,9
+html body div footer div ul li a span  ,Star Magazine,0,9
+html body div footer div div span  ,IPSO Regulated,0,7
+html body div footer div div span  ,"Copyright ??2018 Express Newspapers. ""Daily Express"" is a registered trademark. All rights reserved.",0,7

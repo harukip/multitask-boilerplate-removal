@@ -1,0 +1,198 @@
+tag,content,label,depth
+html body header div div div a span  ,International Business Times UK,0,8
+html body header div div nav ul li a span  ,UK,0,10
+html body header div div nav ul li a span  ,World,0,10
+html body header div div nav ul li a span  ,Business,0,10
+html body header div div nav ul li a span  ,Fintech,0,10
+html body header div div nav ul li a span  ,Technology,0,10
+html body header div div nav ul li a span  ,Science,0,10
+html body header div div nav ul li a span  ,Sport,0,10
+html body header div div nav ul li a span  ,Entertainment,0,10
+html body header div div nav ul li a span  ,Opinion,0,10
+html body header div div nav ul li a span  ,Video,0,10
+html body header div div nav ul li a span  ,Pictures,0,10
+html body header div div nav ul li a span  ,Log out,0,10
+html body header div ul li a span  ,Movies,0,8
+html body header div ul li a span  ,Celebrity,0,8
+html body header div ul li a span  ,TV,0,8
+html body header div ul li a span  ,Music,0,8
+html body header div ul li a span  ,WWE,0,8
+html body main div div a span  ,Entertainment,0,7
+html body main div div div div article h1 span  ,WWE fans react to Nia Jax's bathing suit selfie: 'You're beautiful inside and out',1,10
+html body main div div div div article h2 span  ,Jax said she almost cried when fans told her that she is their inspiration.,0,10
+html body main div div div div article ul li div span span  ,By,0,13
+html body main div div div div article ul li div span a span  ,Jigmey Bhutia,1,14
+html body main div div div div article ul li  ,Updated,0,10
+html body main div div div div article ul li time span  ,"April 7, 2017 13:23 BST",1,12
+html body main div div div div article div div figure div div div div div div div span  ,Video,0,19
+html body main div div div div article div div figure div div div div div div div div span  ,Related Videos,0,20
+html body main div div div div article div div figure div div div div div div div a span  ,More videos,0,20
+html body main div div div div article div div figure div div div div span  ,Video Player is loading.,0,16
+html body main div div div div article div div figure div div div div div span  ,Current Time,0,17
+html body main div div div div article div div figure div div div div div span  ,0:00,0,17
+html body main div div div div article div div figure div div div div div div span  ,/,0,18
+html body main div div div div article div div figure div div div div div span  ,Duration,0,17
+html body main div div div div article div div figure div div div div div span  ,1:39,0,17
+html body main div div div div article div div figure div div div div div div div span span  ,Loaded,0,20
+html body main div div div div article div div figure div div div div div div div span  ,: 0%,0,19
+html body main div div div div article div div figure div div div div div div div span span  ,Progress,0,20
+html body main div div div div article div div figure div div div div div div div span  ,: 0%,0,19
+html body main div div div div article div div figure div div div div div div span  ,Stream Type,0,18
+html body main div div div div article div div figure div div div div div div span  ,LIVE,0,18
+html body main div div div div article div div figure div div div div div span  ,Remaining Time,0,17
+html body main div div div div article div div figure div div div div div span  ,-1:39,0,17
+html body main div div div div article div div figure div div div div div div span  ,1x,0,18
+html body main div div div div article div div figure div div div div div div ul li span  ,Chapters,0,20
+html body main div div div div article div div figure div div div div div div ul li span  ,descriptions off,0,20
+html body main div div div div article div div figure div div div div div div ul li span  ,", selected",0,20
+html body main div div div div article div div figure div div div div div div ul li span  ,captions settings,0,20
+html body main div div div div article div div figure div div div div div div ul li span  ,", opens captions settings dialog",0,20
+html body main div div div div article div div figure div div div div div div ul li span  ,captions off,0,20
+html body main div div div div article div div figure div div div div div div ul li span  ,English,0,20
+html body main div div div div article div div figure div div div div div div ul li span span  ,Captions,0,21
+html body main div div div div article div div figure div div div div div div ul li span  ,", selected",0,20
+html body main div div div div article div div figure div div div div div div ul li span  ,default,0,20
+html body main div div div div article div div figure div div div div div div ul li span  ,", selected",0,20
+html body main div div div div article div div figure div div div div div div ul li span  ,HD,0,20
+html body main div div div div article div div figure div div div div div div ul li span  ,SD,0,20
+html body main div div div div article div div figure div div div div div div ul li span  ,", selected",0,20
+html body main div div div div article div div figure div div div div div span  ,SD,0,17
+html body main div div div div article div div figure div div div div p span  ,This is a modal window.,0,17
+html body main div div div div article div div figure div div div div p span  ,Beginning of dialog window. Escape will cancel and close the window.,0,17
+html body main div div div div article div div figure div div div div div div fieldset legend span  ,Text,0,20
+html body main div div div div article div div figure div div div div div div fieldset label span  ,Color,0,20
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,White,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Black,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Red,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Green,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Blue,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Yellow,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Magenta,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Cyan,0,21
+html body main div div div div article div div figure div div div div div div fieldset span label span  ,Transparency,0,21
+html body main div div div div article div div figure div div div div div div fieldset span select option span  ,Opaque,0,22
+html body main div div div div article div div figure div div div div div div fieldset span select option span  ,Semi-Transparent,0,22
+html body main div div div div article div div figure div div div div div div fieldset legend span  ,Background,0,20
+html body main div div div div article div div figure div div div div div div fieldset label span  ,Color,0,20
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Black,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,White,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Red,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Green,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Blue,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Yellow,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Magenta,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Cyan,0,21
+html body main div div div div article div div figure div div div div div div fieldset span label span  ,Transparency,0,21
+html body main div div div div article div div figure div div div div div div fieldset span select option span  ,Opaque,0,22
+html body main div div div div article div div figure div div div div div div fieldset span select option span  ,Semi-Transparent,0,22
+html body main div div div div article div div figure div div div div div div fieldset span select option span  ,Transparent,0,22
+html body main div div div div article div div figure div div div div div div fieldset legend span  ,Window,0,20
+html body main div div div div article div div figure div div div div div div fieldset label span  ,Color,0,20
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Black,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,White,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Red,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Green,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Blue,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Yellow,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Magenta,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Cyan,0,21
+html body main div div div div article div div figure div div div div div div fieldset span label span  ,Transparency,0,21
+html body main div div div div article div div figure div div div div div div fieldset span select option span  ,Transparent,0,22
+html body main div div div div article div div figure div div div div div div fieldset span select option span  ,Semi-Transparent,0,22
+html body main div div div div article div div figure div div div div div div fieldset span select option span  ,Opaque,0,22
+html body main div div div div article div div figure div div div div div div fieldset legend span  ,Font Size,0,20
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,50%,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,75%,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,100%,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,125%,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,150%,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,175%,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,200%,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,300%,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,400%,0,21
+html body main div div div div article div div figure div div div div div div fieldset legend span  ,Text Edge Style,0,20
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,None,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Raised,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Depressed,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Uniform,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Dropshadow,0,21
+html body main div div div div article div div figure div div div div div div fieldset legend span  ,Font Family,0,20
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Proportional Sans-Serif,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Monospace Sans-Serif,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Proportional Serif,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Monospace Serif,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Casual,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Script,0,21
+html body main div div div div article div div figure div div div div div div fieldset select option span  ,Small Caps,0,21
+html body main div div div div article div div figure div div div div p span  ,End of dialog window.,0,17
+html body main div div div div article div div figure div div div div div a span  ,COPY LINK,0,18
+html body main div div div div article div div figure div div div div span  ,The Undertaker vs Roman Reigns WrestleMania 33 highlights,0,16
+html body main div div div div article div div figure div div a span  ,Close,0,15
+html body main div div div div article div div figure div figcaption span  ,The Undertaker vs Roman Reigns WrestleMania 33 highlights,1,14
+html body main div div div div article div div figure div figcaption span  ,IBTimes UK,1,14
+html body main div div div div article div div p a span  ,WWE star,1,13
+html body main div div div div article div div p span  ,"Nia Jax, who almost always wears a full body suit while in the ring, shared a revealing photo of herself with a powerful message for her fans on Thursday (6 April).",1,12
+html body main div div div div article div div aside h3 strong a span  ,Catch all the latest WWE news,0,15
+html body main div div div div article div div aside h3 strong a span  ,here,0,15
+html body main div div div div article div div aside div span  ,More WWE news,0,13
+html body main div div div div article div div aside ul li a span  ,WWE: What happened backstage after Roman Reigns beat The Undertaker at WrestleMania 33?,0,15
+html body main div div div div article div div aside ul li a span  ,John Cena and Nikki Bella engaged: WWE wanted their relationship to be kept a secret – here's why,0,15
+html body main div div div div article div div aside ul li a span  ,Paige and Alberto Del Rio end their romance – Did WWE have anything to do with it?,0,15
+html body main div div div div article div div div div a span  ,Why advertise with us,0,14
+html body main div div div div article div div div div a span  ,Why advertise with us,0,14
+html body main div div div div article div div p span  ,"Jax, whose real name is Savelina Fanene, posted a selfie of herself in a bathing suit on Twitter following an interaction with some WWE fans after the conclusion of WrestleMania 33. She said she almost cried when fans told her that she has been inspirational to them as she carries herself beautifully despite her physique.",1,12
+html body main div div div div article div div p span  ,"""Posting a picture of myself in a bathing suit is VERY hard for me. I have never been one to show off too much skin, and it's not just because I'm a larger woman,"" she said.",1,12
+html body main div div div div article div div p span  ,"""After this amazing #WrestleMania weekend, I had a chance to speak to a bunch of young women & men. Most, if not all of them, mentioned that my #BodyPositive mindset had helped them to be able to find confidence within themselves, which really touched me and even brought me to tears numerous times.""",1,12
+html body main div div div div article div div p span  ,"She also said healthy habits keep her positive and is thankfully she has a family who supports her and reminds her that ""beauty comes from within"".",1,12
+html body main div div div div article div div figure div figcaption span  ,WWE superstar Nia Jax,1,14
+html body main div div div div article div div figure div figcaption span  ,WWE,1,14
+html body main div div div div article div div p span  ,"""She [Nia Jax's mother] constantly reminded me that 'no matter how beautiful you are on the outside, if you're insides are ugly, that will be what everyone sees & feels.' Don't get me wrong, there have been many occasions where I wished I could be thinner or have a different nose or hairline to fit in, but I realized that fitting in is not always as important as it seems; I realized that I love standing out in positive ways!""",1,12
+html body main div div div div article div div p span  ,"After Jax posted the selfie, fans were all praises for the wrestler.",1,12
+html body main div div div div article div div h3 span  ,Check out what some of the WWE fans said:,1,12
+html body main div div div div div span  ,Share,0,9
+html body main div div div div ul li span  ,More,0,10
+html body main div div div div div span  ,YOU MIGHT LIKE THIS,0,9
+html body main div div div div div span  ,Sponsored Content by Taboola,0,9
+html body main div div div span  ,Related topics :,0,7
+html body main div div div a span  ,WWE,0,8
+html body main div div div div div div div span  ,IBT Video,0,11
+html body main div div div div div div div div div a span  ,Play,0,14
+html body main div div div div div div div div div a span  ,Close,0,14
+html body main div div div div div div div div a span  ,What will the royal baby be called?,0,13
+html body main div div div div div a span  ,Why advertise with us,0,10
+html body main div div div div div a span  ,Why advertise with us,0,10
+html body main div div div div div div div div a span  ,Columnists,0,13
+html body main div div div div div div div div div a span  ,Jon Addison,0,14
+html body main div div div div div div div div p span  ,“,0,13
+html body main div div div div div div div div p a span  ,Top talent in short supply? Data to the rescue,0,14
+html body main div div div div div a span  ,Why advertise with us,0,10
+html body main div div div div div a span  ,Why advertise with us,0,10
+html body main div div div div div div div div a span  ,READ MORE,0,13
+html body main div div div div div div div div ul li div a span  ,Is Tyga the father of Kylie Jenner's baby? Kris Jenner reveals all,0,16
+html body main div div div div div div div div ul li div a span  ,Colin Firth's wife Livia Giuggioli had a fling with childhood friend who is now allegedly stalking her,0,16
+html body main div div div div div div div div ul li div a span  ,Star Wars: Jon Favreau to create live-action series for Disney streaming service,0,16
+html body main div div div div div div div div ul li div a span  ,Avengers: Infinity War UK release date moves forward by one day,0,16
+html body main div div div div div div div div ul li div a span  ,Everyone is freaking out over Meghan Markle's coat,0,16
+html body main div div div div div div div div ul li div a span  ,Deadpool actress sues Ghostland producers over facial disfigurement after on-set accident,0,16
+html body main div div div div div div div div ul li div a span  ,Star Wars: The Last Jedi deleted scene reveals different fate for Captain Phasma,0,16
+html body main div div div div div div div div ul li div a span  ,Mariah Carey doesn't 'give a damn' about the Grammys after the awards 'screwed' her,0,16
+html body main div div div div div div div div ul li div a span  ,'Beautiful lady' – Britney Spears wows fans with gym-honed figure in pink mini dress on Instagram,0,16
+html body main div div div div div div div div ul li div a span  ,'Stay strong' – Fans rally around Bill Turnbull after terminal cancer revelation,0,16
+html body footer nav div div ul li a span  ,About IBT,0,10
+html body footer nav div div ul li a span  ,Advertise with us,0,10
+html body footer nav div div ul li a span  ,Privacy Policy,0,10
+html body footer nav div div ul li a span  ,Terms & Conditions,0,10
+html body footer nav div div ul li span  ,Editions:,0,9
+html body footer nav div div ul li a span  ,Australia,0,10
+html body footer nav div div ul li a span  ,China,0,10
+html body footer nav div div ul li a span  ,India,0,10
+html body footer nav div div ul li a span  ,U.K.,0,10
+html body footer nav div div ul li a span  ,U.S.,0,10
+html body footer div div ul li span  ,© Copyright 2018,0,8
+html body footer div div ul li b span  ,"IBTimes Co., Ltd.",0,9
+html body footer div div ul li span  ,All Rights Reserved.,0,8
+html body footer div div ul li a span  ,Facebook,0,9
+html body footer div div ul li a span  ,Twitter,0,9
+html body footer div div ul li a span  ,Linkedin,0,9
+html body footer div div ul li a span  ,Google Plus,0,9
+html body footer div div ul li a span  ,RSS,0,9

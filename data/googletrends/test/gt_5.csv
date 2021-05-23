@@ -1,0 +1,465 @@
+tag,content,label,depth
+html body div div div p span  ,Type to Search,0,7
+html body div nav ul li a span  ,TV,0,8
+html body div nav ul li ul li a span  ,TV,0,10
+html body div nav ul li ul li a span  ,News,0,10
+html body div nav ul li ul li a span  ,Features,0,10
+html body div nav ul li ul li a span  ,Bodyguard,0,10
+html body div nav ul li ul li a span  ,Doctor Who,0,10
+html body div nav ul li ul li a span  ,Great British Bake Off,0,10
+html body div nav ul li ul li a span  ,Strictly Come Dancing,0,10
+html body div nav ul li ul li a span  ,Netflix,0,10
+html body div nav ul li a span  ,REALITY TV,0,8
+html body div nav ul li ul li a span  ,REALITY TV,0,10
+html body div nav ul li ul li a span  ,News,0,10
+html body div nav ul li ul li a span  ,Features,0,10
+html body div nav ul li ul li a span  ,Big Brother,0,10
+html body div nav ul li ul li a span  ,The Circle,0,10
+html body div nav ul li ul li a span  ,The X Factor,0,10
+html body div nav ul li ul li a span  ,Made in Chelsea,0,10
+html body div nav ul li ul li a span  ,Celebs Go Dating,0,10
+html body div nav ul li a span  ,US TV,0,8
+html body div nav ul li ul li a span  ,US TV,0,10
+html body div nav ul li ul li a span  ,News,0,10
+html body div nav ul li ul li a span  ,Features,0,10
+html body div nav ul li ul li a span  ,American Horror Story,0,10
+html body div nav ul li ul li a span  ,The Walking Dead,0,10
+html body div nav ul li ul li a span  ,Game of Thrones,0,10
+html body div nav ul li ul li a span  ,The Big Bang Theory,0,10
+html body div nav ul li ul li a span  ,WWE,0,10
+html body div nav ul li a span  ,MOVIES,0,8
+html body div nav ul li ul li a span  ,MOVIES,0,10
+html body div nav ul li ul li a span  ,News,0,10
+html body div nav ul li ul li a span  ,Trailers,0,10
+html body div nav ul li ul li a span  ,Reviews,0,10
+html body div nav ul li ul li a span  ,Features,0,10
+html body div nav ul li ul li a span  ,Marvel,0,10
+html body div nav ul li ul li a span  ,Worlds of DC,0,10
+html body div nav ul li ul li a span  ,Star Wars,0,10
+html body div nav ul li a span  ,SOAPS,0,8
+html body div nav ul li ul li a span  ,SOAPS,0,10
+html body div nav ul li ul li a span  ,Spoilers,0,10
+html body div nav ul li ul li a span  ,Coronation Street,0,10
+html body div nav ul li ul li a span  ,EastEnders,0,10
+html body div nav ul li ul li a span  ,Emmerdale,0,10
+html body div nav ul li ul li a span  ,Hollyoaks,0,10
+html body div nav ul li ul li a span  ,Neighbours,0,10
+html body div nav ul li ul li a span  ,Home and Away,0,10
+html body div nav ul li ul li a span  ,Casualty,0,10
+html body div nav ul li ul li a span  ,Holby City,0,10
+html body div nav ul li a span  ,SHOWBIZ,0,8
+html body div nav ul li ul li a span  ,SHOWBIZ,0,10
+html body div nav ul li ul li a span  ,News,0,10
+html body div nav ul li ul li a span  ,Features,0,10
+html body div nav ul li ul li a span  ,Music,0,10
+html body div nav ul li ul li a span  ,Good Morning Britain,0,10
+html body div nav ul li ul li a span  ,This Morning,0,10
+html body div nav ul li ul li a span  ,Loose Women,0,10
+html body div nav ul li ul li a span  ,The One Show,0,10
+html body div nav ul li a span  ,TECH,0,8
+html body div nav ul li ul li a span  ,TECH,0,10
+html body div nav ul li ul li a span  ,News,0,10
+html body div nav ul li ul li a span  ,Deals,0,10
+html body div nav ul li ul li a span  ,Features,0,10
+html body div nav ul li ul li a span  ,Gaming,0,10
+html body div nav ul li ul li a span  ,Food and Drink,0,10
+html body div nav ul li ul li a span  ,Apple,0,10
+html body div nav ul li ul li a span  ,Phones,0,10
+html body div nav ul li a span  ,LGBTQ+ SPY,0,8
+html body div nav ul li a span  ,FORUMS,0,8
+html body div nav ul li a span  ,NOW TV,0,8
+html body div nav ul li a span  ,PRIVACY NOTICE,0,8
+html body div nav ul li a span  ,COOKIES POLICY,0,8
+html body div nav ul li a span  ,Follow,0,8
+html body div nav ul li ul li span  ,Follow,0,9
+html body div nav ul li ul li a span  ,facebook,0,10
+html body div nav ul li ul li a span  ,twitter,0,10
+html body div nav ul li ul li a span  ,google+,0,10
+html body div nav ul li ul li a span  ,instagram,0,10
+html body div nav ul li ul li a span  ,youtube,0,10
+html body div div div div div div div span  ,Like Us On Facebook,0,10
+html body div div div div div div div span  ,Follow Us On Twitter,0,10
+html body div div div div div div div div a span  ,DigitalSpy,0,12
+html body div div div div div div div span  ,Follow Us On Pinterest,0,10
+html body div div div div div div div a span  ,Digital Spy,0,11
+html body div div div div nav div div a svg title span  ,79CE8C7E-5C9C-4DEF-BB15-2756F33F3459,0,13
+html body div div div div nav div div a svg desc span  ,Created with sketchtool.,0,13
+html body div div div div nav div div div div ul li a span  ,TV,0,15
+html body div div div div nav div div div div ul li a span  ,REALITY TV,0,15
+html body div div div div nav div div div div ul li a span  ,US TV,0,15
+html body div div div div nav div div div div ul li a span  ,MOVIES,0,15
+html body div div div div nav div div div div ul li a span  ,SOAPS,0,15
+html body div div div div nav div div div div ul li a span  ,SHOWBIZ,0,15
+html body div div div div nav div div div div ul li a span  ,TECH,0,15
+html body div div div div nav div div div div ul li a span  ,FORUMS,0,15
+html body div div div div nav div div div div ul li a span  ,NOW TV,0,15
+html body div div div div nav div div div div ul li a span  ,Follow,0,15
+html body div div div div nav div div div ol li a span  ,News,0,14
+html body div div div div nav div div div ol li a span  ,Features,0,14
+html body div div div div nav div div div ol li a span  ,Bodyguard,0,14
+html body div div div div nav div div div ol li a span  ,Doctor Who,0,14
+html body div div div div nav div div div ol li a span  ,Great British Bake Off,0,14
+html body div div div div nav div div div ol li a span  ,Strictly Come Dancing,0,14
+html body div div div div nav div div div ol li a span  ,Netflix,0,14
+html body div div div div nav div div div ol li a div div span  ,Bodyguard episode 6 explained,0,16
+html body div div div div nav div div div ol li a div div span  ,Big Brother's Lewis G rages at other housemates,0,16
+html body div div div div nav div div div ol li a div div span  ,The Apprentice's Karren teases this year's candidates,0,16
+html body div div div div nav div div div ol li a div div span  ,Marvel TV boss gets asked for female spin-off every day,0,16
+html body div div div div nav div div div ol li a span  ,News,0,14
+html body div div div div nav div div div ol li a span  ,Features,0,14
+html body div div div div nav div div div ol li a span  ,Big Brother,0,14
+html body div div div div nav div div div ol li a span  ,The Circle,0,14
+html body div div div div nav div div div ol li a span  ,The X Factor,0,14
+html body div div div div nav div div div ol li a span  ,Made in Chelsea,0,14
+html body div div div div nav div div div ol li a span  ,Celebs Go Dating,0,14
+html body div div div div nav div div div ol li a div div span  ,BB's Tomasz gets breathing apparatus to fix snoring,0,16
+html body div div div div nav div div div ol li a div div span  ,X Factor judging groups finally revealed,0,16
+html body div div div div nav div div div ol li a div div span  ,ITV axes 'winter Love Island' Survival of the Fittest,0,16
+html body div div div div nav div div div ol li a div div span  ,The Bachelor contestants walk out of rose ceremony,0,16
+html body div div div div nav div div div ol li a span  ,News,0,14
+html body div div div div nav div div div ol li a span  ,Features,0,14
+html body div div div div nav div div div ol li a span  ,American Horror Story,0,14
+html body div div div div nav div div div ol li a span  ,The Walking Dead,0,14
+html body div div div div nav div div div ol li a span  ,Game of Thrones,0,14
+html body div div div div nav div div div ol li a span  ,The Big Bang Theory,0,14
+html body div div div div nav div div div ol li a span  ,WWE,0,14
+html body div div div div nav div div div ol li a div div span  ,AHS: Apocalypse – 7 huge Easter eggs in episode 2,0,16
+html body div div div div nav div div div ol li a div div span  ,Friends fans celebrate show's 24th anniversary,0,16
+html body div div div div nav div div div ol li a div div span  ,The Walking Dead: When did it jump the shark?,0,16
+html body div div div div nav div div div ol li a div div span  ,"7 TV, movie and gaming robots people definitely fancy",0,16
+html body div div div div nav div div div ol li a span  ,News,0,14
+html body div div div div nav div div div ol li a span  ,Trailers,0,14
+html body div div div div nav div div div ol li a span  ,Reviews,0,14
+html body div div div div nav div div div ol li a span  ,Features,0,14
+html body div div div div nav div div div ol li a span  ,Marvel,0,14
+html body div div div div nav div div div ol li a span  ,Worlds of DC,0,14
+html body div div div div nav div div div ol li a span  ,Star Wars,0,14
+html body div div div div nav div div div ol li a div div span  ,Joker and Harley Quinn film writers tease the plot,0,16
+html body div div div div nav div div div ol li a div div span  ,9 characters who popped up in other people's movies,0,16
+html body div div div div nav div div div ol li a div div span  ,Is Tessa Thompson back as Valkyrie in Avengers 4?,0,16
+html body div div div div nav div div div ol li a div div span  ,A Simple Favour ending explained,0,16
+html body div div div div nav div div div ol li a span  ,Spoilers,0,14
+html body div div div div nav div div div ol li a span  ,Coronation Street,0,14
+html body div div div div nav div div div ol li a span  ,EastEnders,0,14
+html body div div div div nav div div div ol li a span  ,Emmerdale,0,14
+html body div div div div nav div div div ol li a span  ,Hollyoaks,0,14
+html body div div div div nav div div div ol li a span  ,Neighbours,0,14
+html body div div div div nav div div div ol li a span  ,Home and Away,0,14
+html body div div div div nav div div div ol li a span  ,Casualty,0,14
+html body div div div div nav div div div ol li a span  ,Holby City,0,14
+html body div div div div nav div div div ol li a div div span  ,Emmerdale's Charity is left devastated by Cain,0,16
+html body div div div div nav div div div ol li a div div span  ,9 big Neighbours spoilers as Cassius is finally exposed,0,16
+html body div div div div nav div div div ol li a div div span  ,Corrie's Jim makes shocking decision over his revenge,0,16
+html body div div div div nav div div div ol li a div div span  ,EastEnders reveals Mick's full prison ordeal in 42 pics,0,16
+html body div div div div nav div div div ol li a span  ,News,0,14
+html body div div div div nav div div div ol li a span  ,Features,0,14
+html body div div div div nav div div div ol li a span  ,Music,0,14
+html body div div div div nav div div div ol li a span  ,Good Morning Britain,0,14
+html body div div div div nav div div div ol li a span  ,This Morning,0,14
+html body div div div div nav div div div ol li a span  ,Loose Women,0,14
+html body div div div div nav div div div ol li a span  ,The One Show,0,14
+html body div div div div nav div div div ol li a div div span  ,Greg James and partner Bella Mackie get married,0,16
+html body div div div div nav div div div ol li a div div span  ,"Shane Lynch says Boyzone split is ""right decision""",0,16
+html body div div div div nav div div div ol li a div div span  ,Ant six months sober after drink-driving crash,0,16
+html body div div div div nav div div div ol li a div div span  ,"Former Love Island couple had ""perfect"" wedding",0,16
+html body div div div div nav div div div ol li a span  ,News,0,14
+html body div div div div nav div div div ol li a span  ,Deals,0,14
+html body div div div div nav div div div ol li a span  ,Features,0,14
+html body div div div div nav div div div ol li a span  ,Gaming,0,14
+html body div div div div nav div div div ol li a span  ,Food and Drink,0,14
+html body div div div div nav div div div ol li a span  ,Apple,0,14
+html body div div div div nav div div div ol li a span  ,Phones,0,14
+html body div div div div nav div div div ol li a div div span  ,The Witcher's Geralt wants you to play to fight cancer,0,16
+html body div div div div nav div div div ol li a div div span  ,Here are the best iPhone XS and XS Max deals,0,16
+html body div div div div nav div div div ol li a div div span  ,TWD game may be cancelled as Telltale announces closure,0,16
+html body div div div div nav div div div ol li a div div span  ,A brand new mysterious Pokémon has appeared in Go,0,16
+html body div div div div div a p span  ,Breaking News!,0,10
+html body div div div div div div a div div span  ,The REAL Strictly curse has nothing to do with...,0,12
+html body div div div div div div a div div span  ,Killing Eve episode 2: Who is Anna?,0,12
+html body div div div div div div a div div span  ,Netflix's Maniac will leave your head spinning,0,12
+html body div div div div div div a div div span  ,Celebs Go Dating 2018 just dropped its first...,0,12
+html body div div div div div div a div div span  ,Shadowhunters star lands crucial role in Arrow...,0,12
+html body div div article header div h1 span  ,"The Good Doctor season 2 air date, trailer, cast and everything you need to know",1,9
+html body div div article header div p span  ,The latest news on ABC's huge medical hit.,1,9
+html body div div article div div div div div div div span  ,Don't Miss,0,13
+html body div div article div div div div div div div div div div a span  ,House star reunites with show's creator on Good Doctor,0,17
+html body div div article div div div div div div div div div div a span  ,House star reunites with show's creator on Good Doctor,0,17
+html body div div article div div div div div div div div div div div div span  ,Share,0,18
+html body div div article div div div div div div div div div div div div time span  ,June 22 2018,0,19
+html body div div article div div div div div div div div div div div div time span  ,4:30 PM,0,19
+html body div div article div div div div div div div div div div a span  ,Good Doctor season 2 is losing a major cast member,0,17
+html body div div article div div div div div div div div div div a span  ,Good Doctor season 2 is losing a major cast member,0,17
+html body div div article div div div div div div div div div div div div span  ,Share,0,18
+html body div div article div div div div div div div div div div div div time span  ,April 03 2018,0,19
+html body div div article div div div div div div div div div div div div time span  ,1:55 PM,0,19
+html body div div article div div div div div div div div div div a span  ,The Good Doctor teases what's next for the show,0,17
+html body div div article div div div div div div div div div div a span  ,The Good Doctor teases what's next for the show,0,17
+html body div div article div div div div div div div div div div div div span  ,Share,0,18
+html body div div article div div div div div div div div div div div div time span  ,March 27 2018,0,19
+html body div div article div div div div div div div div div div div div time span  ,10:48 AM,0,19
+html body div div article div div div div div div div div div div a span  ,The Good Doctor is officially getting a second season,0,17
+html body div div article div div div div div div div div div div a span  ,The Good Doctor is officially getting a second season,0,17
+html body div div article div div div div div div div div div div div div span  ,Share,0,18
+html body div div article div div div div div div div div div div div div time span  ,March 08 2018,0,19
+html body div div article div div div div div div div div div div div div time span  ,1:46 AM,0,19
+html body div div article div div div div div div div div div div a span  ,8 most satisfying final seasons of TV shows,0,17
+html body div div article div div div div div div div div div div a span  ,8 most satisfying final seasons of TV shows,0,17
+html body div div article div div div div div div div div div div div div span  ,Share,0,18
+html body div div article div div div div div div div div div div div div time span  ,June 11 2018,0,19
+html body div div article div div div div div div div div div div div div time span  ,5:31 PM,0,19
+html body div div article div div div div div div div span  ,Latest News,0,13
+html body div div article div div div div div div div div div div a span  ,Bodyguard star Anjli almost turned down Nadia role,0,17
+html body div div article div div div div div div div div div div a span  ,Bodyguard star Anjli almost turned down Nadia role,0,17
+html body div div article div div div div div div div div div div div div span  ,Share,0,18
+html body div div article div div div div div div div div div div div div time span  ,46 minutes ago,0,19
+html body div div article div div div div div div div div div div div div time span  ,12:26 PM,0,19
+html body div div article div div div div div div div div div div a span  ,Bodyguard fans spot big plot hole in finale,0,17
+html body div div article div div div div div div div div div div a span  ,Bodyguard fans spot big plot hole in finale,0,17
+html body div div article div div div div div div div div div div div div span  ,Share,0,18
+html body div div article div div div div div div div div div div div div time span  ,49 minutes ago,0,19
+html body div div article div div div div div div div div div div div div time span  ,12:23 PM,0,19
+html body div div article div div div div div div div div div div a span  ,Dr Ranj reacts to first Strictly Come Dancing weekend,0,17
+html body div div article div div div div div div div div div div a span  ,Dr Ranj reacts to first Strictly Come Dancing weekend,0,17
+html body div div article div div div div div div div div div div div div span  ,Share,0,18
+html body div div article div div div div div div div div div div div div time span  ,1 hour ago,0,19
+html body div div article div div div div div div div div div div div div time span  ,12:09 PM,0,19
+html body div div article div div div div div div div div div div a span  ,Kevin Clifton shares surprising Strictly live show fact,0,17
+html body div div article div div div div div div div div div div a span  ,Kevin Clifton shares surprising Strictly live show fact,0,17
+html body div div article div div div div div div div div div div div div span  ,Share,0,18
+html body div div article div div div div div div div div div div div div time span  ,1 hour ago,0,19
+html body div div article div div div div div div div div div div div div time span  ,12:05 PM,0,19
+html body div div article div div div div div div div div div div a span  ,South Park: The 27 most kickass episodes ever,0,17
+html body div div article div div div div div div div div div div a span  ,South Park: The 27 most kickass episodes ever,0,17
+html body div div article div div div div div div div div div div div div span  ,Share,0,18
+html body div div article div div div div div div div div div div div div time span  ,1 hour ago,0,19
+html body div div article div div div div div div div div div div div div time span  ,12:00 PM,0,19
+html body div div article div div div div div div div span  ,Must Read,0,13
+html body div div article div div div div div div div div div div a span  ,Doctor Who reveals new launch pics of Jodie Whittaker,0,17
+html body div div article div div div div div div div div div div a span  ,Doctor Who reveals new launch pics of Jodie Whittaker,0,17
+html body div div article div div div div div div div div div div div div span  ,Share,0,18
+html body div div article div div div div div div div div div div div div time span  ,1 hour ago,0,19
+html body div div article div div div div div div div div div div div div time span  ,11:20 AM,0,19
+html body div div article div div div div div div div div div div a span  ,Bodyguard episode 6 explained,0,17
+html body div div article div div div div div div div div div div a span  ,Bodyguard episode 6 explained,0,17
+html body div div article div div div div div div div div div div div div span  ,Share,0,18
+html body div div article div div div div div div div div div div div div time span  ,14 hours ago,0,19
+html body div div article div div div div div div div div div div div div time span  ,10:15 PM,0,19
+html body div div article div div div div div div div div div div a span  ,Strictly fans vow not to vote for Susannah over hunting,0,17
+html body div div article div div div div div div div div div div a span  ,Strictly fans vow not to vote for Susannah over hunting,0,17
+html body div div article div div div div div div div div div div div div span  ,Share,0,18
+html body div div article div div div div div div div div div div div div time span  ,1 hour ago,0,19
+html body div div article div div div div div div div div div div div div time span  ,11:32 AM,0,19
+html body div div article div div div div div div div div div div a span  ,Bodyguard fans spot big plot hole in finale,0,17
+html body div div article div div div div div div div div div div a span  ,Bodyguard fans spot big plot hole in finale,0,17
+html body div div article div div div div div div div div div div div div span  ,Share,0,18
+html body div div article div div div div div div div div div div div div time span  ,49 minutes ago,0,19
+html body div div article div div div div div div div div div div div div time span  ,12:23 PM,0,19
+html body div div article div div div div div div div div div div a span  ,The Apprentice's Karren teases this year's candidates,0,17
+html body div div article div div div div div div div div div div a span  ,The Apprentice's Karren teases this year's candidates,0,17
+html body div div article div div div div div div div div div div div div span  ,Share,0,18
+html body div div article div div div div div div div div div div div div time span  ,11 hours ago,0,19
+html body div div article div div div div div div div div div div div div time span  ,1:19 AM,0,19
+html body div div article div div div div div div div div span  ,By,0,14
+html body div div article div div div div div div div div a span  ,Sam Ashurst,1,15
+html body div div article div div div div div div div div div time span  ,3 August 2018,1,16
+html body div div article div div div div div div div div div time span  ,1:50 PM,1,16
+html body div div article div div div div div div div span  ,Shares,0,13
+html body div div article div div div div p a span  ,Despite being rejected by CBS not once but twice,1,12
+html body div div article div div div div p span  ,", Freddie Highmore's",1,11
+html body div div article div div div div p a em span  ,Bates Motel,1,13
+html body div div article div div div div p span  ,follow-up show,1,11
+html body div div article div div div div p em span  ,The Good Doctor,1,12
+html body div div article div div div div p span  ,"has been a huge ratings hit for ABC, moving past",1,11
+html body div div article div div div div p em a span  ,The Big Bang Theory,1,13
+html body div div article div div div div p span  ,to become the most-watched series in America.,1,11
+html body div div article div div div div p span  ,"The show follows a young surgeon with autism named Shaun Murphy (Highmore), who uproots his life in Casper, Wyoming to work at a prestigious San Jose, California hospital.",1,11
+html body div div article div div div div p span  ,"""",1,11
+html body div div article div div div div p em span  ,The Good Doctor,1,12
+html body div div article div div div div p span  ,"'s message of inclusiveness resonates with our viewers and is a hallmark of what we aim to accomplish here at ABC,"" ABC president Channing Dungey said",1,11
+html body div div article div div div div p a span  ,when announcing that season two would definitely be happening.,1,12
+html body div div article div div div div div div div span  ,Advertisement - Continue Reading Below,0,13
+html body div div article div div div div p span  ,"""This series has quickly joined the zeitgeist and broken records in the competitive television landscape. We are thrilled to announce that Dr Shaun Murphy will be back for another season.""",1,11
+html body div div article div div div div p span  ,"But when will it return, and what will it be about? Here's our diagnosis...",1,11
+html body div div article div div div div h4 span  ,The Good Doctor season two air date: When will it be on?,1,11
+html body div div article div div div div div div div span  ,©,0,13
+html body div div article div div div div div div div span  ,ABC/Jack Rowand,0,13
+html body div div article div div div div p em span  ,The Good Doctor,1,12
+html body div div article div div div div p span  ,season 2,1,11
+html body div div article div div div div p a span  ,will premiere,1,12
+html body div div article div div div div p span  ,on,1,11
+html body div div article div div div div p strong span  ,"Monday, September 24",1,12
+html body div div article div div div div p span  ,at,1,11
+html body div div article div div div div p strong span  ,10/9c,1,12
+html body div div article div div div div p span  ,on ABC in the US. Wahoo!,1,11
+html body div div article div div div div p span  ,"What about the UK, though? Glad you asked!",1,11
+html body div div article div div div div h4 span  ,The Good Doctor season two UK: When will we get it?,1,11
+html body div div article div div div div p a span  ,Sky Living airs the show,1,12
+html body div div article div div div div p span  ,", and we'd expect that to continue later this year. Expect",1,11
+html body div div article div div div div p em span  ,The Good Doctor,1,12
+html body div div article div div div div p span  ,season two to start airing around a month after the show returns to ABC. The UK's one of 200 territories that Sony Pictures Television (SPT) has sold it to.,1,11
+html body div div article div div div div p span  ,"SPT president of worldwide distribution Keith Le Goy says it has become ""the number one drama in the world"", adding: ""It's the must-watch, must-have drama that our partners in the US and around the world have been clamouring for.""",1,11
+html body div div article div div div div h4 span  ,The Good Doctor season two trailer: When will we see footage?,1,11
+html body div div article div div div div p a span  ,ABC dropped the first trailer for,1,12
+html body div div article div div div div p a em span  ,The Good Doctor,1,13
+html body div div article div div div div p a span  ,in May last year,1,12
+html body div div article div div div div p span  ,"but, as of July 2018, we're still waiting for season two's first teaser.",1,11
+html body div div article div div div div p span  ,"When it arrives, we'll drop it into this feature, so keep this page bookmarked for all the latest news.",1,11
+html body div div article div div div div h4 span  ,The Good Doctor season two cast: Who will be in it?,1,11
+html body div div article div div div div div div div span  ,©,0,13
+html body div div article div div div div div div div span  ,ABC,0,13
+html body div div article div div div div div div div div span  ,Advertisement - Continue Reading Below,0,14
+html body div div article div div div div p span  ,"Chuku Modu, who played Dr Jared Kalu,",1,11
+html body div div article div div div div p a span  ,is not returning for the second season,1,12
+html body div div article div div div div p span  ,", following the season one finale seeing him receive an offer from a hospital in Colorado.",1,11
+html body div div article div div div div p span  ,"Will Yun Lee, Fiona Gubelmann, Christina Chang and Paige Spara have all been promoted to series regulars for season two.",1,11
+html body div div article div div div div p span  ,"Lee and Gubelmann play surgical residents Alex Park and Morgan Reznick, while Chang stars as one of the hospital's attending surgeons, Dr Audrey Lim, and Spara plays Lea, the love interest and neighbour of Dr Shaun Murphy (Freddie Highmore).",1,11
+html body div div article div div div div p span  ,"The last time we saw Lea, she had decided to return home to the East Coast after a road trip with the doctor – we're expecting her to change her mind, unless",1,11
+html body div div article div div div div p em span  ,The Good Doctor,1,12
+html body div div article div div div div p span  ,'s about to completely change its structure for season two. (It won't).,1,11
+html body div div article div div div div div div div span  ,©,0,13
+html body div div article div div div div div div div span  ,FOX,0,13
+html body div div article div div div div p a span  ,Lisa Edelstein,1,12
+html body div div article div div div div p span  ,", best known for playing Cuddy in",1,11
+html body div div article div div div div p em span  ,The Good Doctor,1,12
+html body div div article div div div div p span  ,creator David Shore's,1,11
+html body div div article div div div div p em span  ,other,1,12
+html body div div article div div div div p span  ,major medical drama,1,11
+html body div div article div div div div p em span  ,House,1,12
+html body div div article div div div div p span  ,", will also recur as an expert oncologist who returns to the hospital after a brief suspension at the request of Dr. Aaron Glassman (Richard Schiff) to help treat his cancer.",1,11
+html body div div article div div div div p span  ,Speaking of which...,1,11
+html body div div article div div div div h4 span  ,The Good Doctor season two plot: What will it be about?,1,11
+html body div div article div div div div div div div span  ,©,0,13
+html body div div article div div div div div div div span  ,ABC/Eike Schrote,0,13
+html body div div article div div div div p span  ,Season one's finale ended on a note of hope. We learnt that Dr Aaron Glassman's (Richard Schiff) inoperable brain cancer was actually a low-grade glioma that can be treated.,1,11
+html body div div article div div div div p span  ,But don't get too excited –,1,11
+html body div div article div div div div p a span  ,David Shore warned fans that Glassman is not in the clear yet.,1,12
+html body div div article div div div div p span  ,"""To be honest, people seem to die on TV way more than they die in real life,"" he said. ""For your regular characters, it seems to be the go-to place.",1,11
+html body div div article div div div div p span  ,"""But Glassman's not out of the woods, and I think it's much more realistic and much more interesting and a greater storytelling opportunity to explore that journey of being sick.",1,11
+html body div div article div div div div p span  ,"""This is a show about medicine, and we have guest stars come in and get sick and get better and whatever. How do our people deal with that?",1,11
+html body div div article div div div div p span  ,"""How is Dr Glassman going to deal with his illness going forward? How is Dr Murphy going to deal with a sick mentor? What is that going to do to their relationship? What challenges is that going to present? I want to fully explore that.""",1,11
+html body div div article div div div div p span  ,Expect this storyline to be a key aspect of season two.,1,11
+html body div div article div div div div p strong span  ,Want up-to-the-minute entertainment news and features? Just hit 'Like' on our,0,12
+html body div div article div div div div p strong a span  ,Digital Spy Facebook page,0,13
+html body div div article div div div div p strong span  ,and 'Follow' on our,0,12
+html body div div article div div div div p strong a span  ,@digitalspy Twitter account,0,13
+html body div div article div div div div p strong span  ,and you're all set.,0,12
+html body div div article div div div a div div div div span  ,GIF,0,14
+html body div div article div div div a div div div p span  ,PREVIOUS ARTICLE,0,14
+html body div div article div div div a div span  ,How Joss Whedon's Buffy reboot could (actually) work,0,11
+html body div div article div div div a div div div p span  ,NEXT ARTICLE,0,14
+html body div div article div div div a div span  ,8 times TV shows (temporarily) made minor characters the heroes,0,11
+html body div div article div div div div div div span  ,Don't Miss,0,12
+html body div div article div div div div a div span  ,01,0,12
+html body div div article div div div div a div div span  ,House star reunites with show's creator on Good...,0,13
+html body div div article div div div div a div span  ,02,0,12
+html body div div article div div div div a div div span  ,Good Doctor season 2 is losing a major cast member,0,13
+html body div div article div div div div a div span  ,03,0,12
+html body div div article div div div div a div div span  ,The Good Doctor teases what's next for the show,0,13
+html body div div article div div div div a div span  ,04,0,12
+html body div div article div div div div a div div span  ,The Good Doctor is officially getting a second...,0,13
+html body div div article div div div div a div span  ,05,0,12
+html body div div article div div div div a div div span  ,8 most satisfying final seasons of TV shows,0,13
+html body div div article div div div div div div div span  ,Latest News,0,13
+html body div div article div div div div a div span  ,01,0,12
+html body div div article div div div div a div div span  ,Grab a great deal on the Lenovo IdeaPad,0,13
+html body div div article div div div div a div span  ,02,0,12
+html body div div article div div div div a div div span  ,Bodyguard star Anjli almost turned down Nadia role,0,13
+html body div div article div div div div div div div span  ,Must Read,0,13
+html body div div article div div div div a div span  ,01,0,12
+html body div div article div div div div a div div span  ,Corrie kills off a character and 9 more soap...,0,13
+html body div div article div div div div a div span  ,02,0,12
+html body div div article div div div div a div div span  ,Doctor Who reveals new launch pics of Jodie...,0,13
+html body div div article div div div span  ,More From,0,9
+html body div div article div div div a span  ,TV,0,10
+html body div div article div div div div div a span  ,Bodyguard star Anjli almost turned down Nadia role,0,12
+html body div div article div div div div div div time span  ,24 September 2018,0,13
+html body div div article div div div div div div time span  ,12:26 PM,0,13
+html body div div article div div div div div div span  ,And reveals why she changed her mind.,0,12
+html body div div article div div div div div a span  ,Bodyguard fans spot big plot hole in finale,0,12
+html body div div article div div div div div div time span  ,24 September 2018,0,13
+html body div div article div div div div div div time span  ,12:23 PM,0,13
+html body div div article div div div div div div span  ,Where that kompromat at?,0,12
+html body div div article div div div div div a span  ,Dr Ranj reacts to first Strictly Come Dancing weekend,0,12
+html body div div article div div div div div div time span  ,24 September 2018,0,13
+html body div div article div div div div div div time span  ,12:09 PM,0,13
+html body div div article div div div div div div span  ,His cha cha cha impressed the judges.,0,12
+html body div div article div div div div div a span  ,Kevin Clifton shares surprising Strictly live show fact,0,12
+html body div div article div div div div div div time span  ,24 September 2018,0,13
+html body div div article div div div div div div time span  ,12:05 PM,0,13
+html body div div article div div div div div div span  ,We never knew this about the running order...,0,12
+html body div div article div div div div div a span  ,South Park: The 27 most kickass episodes ever,0,12
+html body div div article div div div div div div time span  ,24 September 2018,0,13
+html body div div article div div div div div div time span  ,12:00 PM,0,13
+html body div div article div div div div div div span  ,From demonic woodland critters to cat orgies.,0,12
+html body div div article div div div div div div a div div div div div span  ,GIF,0,18
+html body div div article div div div div div div a div div div span  ,South Park: The Fractured but Whole is an Uncivil War,0,16
+html body div div article div div div div div div a div div div span  ,South Park's 12 most controversial moments,0,16
+html body div div article div div div div div a span  ,Bodyguard star teases Julia's fate and Corrie storyline,0,12
+html body div div article div div div div div div time span  ,24 September 2018,0,13
+html body div div article div div div div div div time span  ,11:52 AM,0,13
+html body div div article div div div div div div span  ,Ash Tandon also has his say on a possible second series...,0,12
+html body div div article div div div div div a span  ,Strictly fans vow not to vote for Susannah over hunting,0,12
+html body div div article div div div div div div time span  ,24 September 2018,0,13
+html body div div article div div div div div div time span  ,11:32 AM,0,13
+html body div div article div div div div div div span  ,"""She kills animals for fun. Please don't vote for her.""",0,12
+html body div div article div div div div div a span  ,Doctor Who reveals new launch pics of Jodie Whittaker,0,12
+html body div div article div div div div div div time span  ,24 September 2018,0,13
+html body div div article div div div div div div time span  ,11:20 AM,0,13
+html body div div article div div div div div div span  ,That's a lot of Time Lords...,0,12
+html body div div article div div div div div a span  ,I'm a Celeb 2018: Who's going into the jungle?,0,12
+html body div div article div div div div div div time span  ,24 September 2018,0,13
+html body div div article div div div div div div time span  ,11:17 AM,0,13
+html body div div article div div div div div div span  ,Everything we know so far.,0,12
+html body div div article div div div div div a span  ,The Simpsons pokes fun at DC as Gal Gadot makes cameo,0,12
+html body div div article div div div div div div time span  ,24 September 2018,0,13
+html body div div article div div div div div div time span  ,10:49 AM,0,13
+html body div div article div div div div div div span  ,Turns out Homer is not a Wonder Woman fan...,0,12
+html body div div article div ul li a span  ,TV,0,10
+html body div div article div ul li a span  ,Keith Le Goy,0,10
+html body div div article div ul li a span  ,Chuku Modu,0,10
+html body div div article div ul li a span  ,Will Yun Lee,0,10
+html body div div article div ul li a span  ,Fiona Gubelmann,0,10
+html body div div article div ul li a span  ,Christina Chang,0,10
+html body div div article div ul li a span  ,Paige Spara,0,10
+html body div div article div ul li a span  ,Freddie Highmore,0,10
+html body div div article div ul li a span  ,Channing Dungey,0,10
+html body div div article div ul li a span  ,"Everything Sucks! season 2 on Netflix: Release date, trailer, cast and everything you need to know",0,10
+html body div div article div ul li a span  ,"The 100 season 6 trailer, release date, renewal, cast and everything you need to know",0,10
+html body div div article div ul li a span  ,"Luke Cage season 2: Episodes, release date, villain, trailer, cast and everything you need to know",0,10
+html body div div article div ul li a span  ,"Greenleaf season 3: Release date, trailer, cast and everything you need to know",0,10
+html body div div article div ul li a span  ,"The Sinner season 2 on Netflix: Release date, trailer, cast and everything you need to know",0,10
+html body div div article div ul li a span  ,"Homeland season 8 trailer, release date, cast and everything you need to know",0,10
+html body div div article a div div span  ,More From TV,0,9
+html body div div div footer h3 a svg title span  ,79CE8C7E-5C9C-4DEF-BB15-2756F33F3459,0,11
+html body div div div footer h3 a svg desc span  ,Created with sketchtool.,0,11
+html body div div div footer ul li a span  ,TV,0,10
+html body div div div footer ul li a span  ,MOVIES,0,10
+html body div div div footer ul li a span  ,SOAPS,0,10
+html body div div div footer ul li a span  ,FORUMS,0,10
+html body div div div footer ul li a span  ,REALITY TV,0,10
+html body div div div footer ul li a span  ,SHOWBIZ,0,10
+html body div div div footer ul li a span  ,GAMING,0,10
+html body div div div footer ul li a span  ,LGBTQ+ Spy,0,10
+html body div div div footer ul li a span  ,US TV,0,10
+html body div div div footer ul li a span  ,MUSIC,0,10
+html body div div div footer ul li a span  ,TECH,0,10
+html body div div div footer ul li a span  ,COMICS,0,10
+html body div div div footer ul li a span  ,Netflix,0,10
+html body div div div footer ul li a span  ,Marvel,0,10
+html body div div div footer ul li a span  ,Soap Spoilers,0,10
+html body div div div footer ul li a span  ,Game of Thrones,0,10
+html body div div div footer ul li a span  ,Big Brother,0,10
+html body div div div footer ul li a span  ,Star Wars,0,10
+html body div div div footer ul li a span  ,The Grand Tour,0,10
+html body div div div footer ul li a span  ,Doctor Who,0,10
+html body div div div footer ul li a span  ,Peaky Blinders,0,10
+html body div div div footer ul li a span  ,DC Movie Universe,0,10
+html body div div div footer ul li a span  ,Good Morning Britain,0,10
+html body div div div footer ul li a span  ,The Walking Dead,0,10
+html body div div div footer div div p span  ,"DIGITAL SPY, PART OF THE HEARST UK ENTERTAINMENT NETWORK",0,10
+html body div div div footer div div p span  ,"© 2018 Hearst Magazines UK is the trading name of the National Magazine Company Ltd, 72 Broadwick Street, London, W1F 9EP. Registered in England 112955. All rights reserved.",0,10
+html body div div div footer div div ul li a span  ,Terms & Conditions,0,12
+html body div div div footer div div ul li a span  ,Privacy Policy,0,12
+html body div div div footer div div ul li a span  ,Cookie Policy,0,12
+html body div div div footer div div ul li a span  ,Complaints,0,12
+html body div div div footer div div ul li a span  ,Site Map,0,12

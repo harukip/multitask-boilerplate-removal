@@ -1,0 +1,350 @@
+tag,content,label,depth
+html body div header div div a span  ,Link to home,0,8
+html body div header nav ul li a span  ,Home,0,9
+html body div header nav ul li ul li a span  ,All Reviews,0,11
+html body div header nav ul li ul li a span  ,All News,0,11
+html body div header nav ul li ul li a span  ,All Buying Guides,0,11
+html body div header nav ul li ul li a span  ,All Opinions,0,11
+html body div header nav ul li ul li a span  ,All Deals,0,11
+html body div header nav ul li ul li a span  ,100 Latest Articles,0,11
+html body div header nav ul li a span  ,Reviews,0,9
+html body div header nav ul li ul li a span  ,TV and Audio Reviews,0,11
+html body div header nav ul li ul li a span  ,Camera Reviews,0,11
+html body div header nav ul li ul li a span  ,Computing Reviews,0,11
+html body div header nav ul li ul li a span  ,Mobile Reviews,0,11
+html body div header nav ul li ul li a span  ,Home Appliance Reviews,0,11
+html body div header nav ul li ul li a span  ,Gaming Reviews,0,11
+html body div header nav ul li a span  ,TV and Audio,0,9
+html body div header nav ul li ul li a span  ,Blu-ray Player,0,11
+html body div header nav ul li ul li a span  ,DVRs and Media Player,0,11
+html body div header nav ul li ul li a span  ,Gadgets,0,11
+html body div header nav ul li ul li a span  ,Headphones,0,11
+html body div header nav ul li ul li a span  ,Hi-Fi and Wireless Audio,0,11
+html body div header nav ul li ul li a span  ,Portable Audio,0,11
+html body div header nav ul li ul li a span  ,Projector,0,11
+html body div header nav ul li ul li a span  ,Sound Bar,0,11
+html body div header nav ul li ul li a span  ,Surround Sound System,0,11
+html body div header nav ul li ul li a span  ,TV,0,11
+html body div header nav ul li a span  ,Cameras,0,9
+html body div header nav ul li ul li a span  ,Camcorder,0,11
+html body div header nav ul li ul li a span  ,Camera Accessory,0,11
+html body div header nav ul li ul li a span  ,Camera Lens,0,11
+html body div header nav ul li ul li a span  ,Camera,0,11
+html body div header nav ul li a span  ,More,0,9
+html body div header nav ul li ul li a span  ,Computing,0,11
+html body div header nav ul li ul li ul li a span  ,Desktop PC,0,13
+html body div header nav ul li ul li ul li a span  ,"Internet, VPNs and Web Software",0,13
+html body div header nav ul li ul li ul li a span  ,Laptop,0,13
+html body div header nav ul li ul li ul li a span  ,Monitor,0,13
+html body div header nav ul li ul li ul li a span  ,PC Component,0,13
+html body div header nav ul li ul li ul li a span  ,Peripheral,0,13
+html body div header nav ul li ul li ul li a span  ,Printer,0,13
+html body div header nav ul li ul li ul li a span  ,Routers and Networking,0,13
+html body div header nav ul li ul li ul li a span  ,Software,0,13
+html body div header nav ul li ul li a span  ,Mobile,0,11
+html body div header nav ul li ul li ul li a span  ,GPS and Sat Nav,0,13
+html body div header nav ul li ul li ul li a span  ,Mobile App,0,13
+html body div header nav ul li ul li ul li a span  ,Mobile Phone Accessory,0,13
+html body div header nav ul li ul li ul li a span  ,Mobile Phone,0,13
+html body div header nav ul li ul li ul li a span  ,Tablet,0,13
+html body div header nav ul li ul li ul li a span  ,Wearables and Fitness,0,13
+html body div header nav ul li ul li a span  ,Home Appliances,0,11
+html body div header nav ul li ul li ul li a span  ,Blender,0,13
+html body div header nav ul li ul li ul li a span  ,Coffee Machine,0,13
+html body div header nav ul li ul li ul li a span  ,Cooker,0,13
+html body div header nav ul li ul li ul li a span  ,Dishwasher,0,13
+html body div header nav ul li ul li ul li a span  ,Fan,0,13
+html body div header nav ul li ul li ul li a span  ,Freezer,0,13
+html body div header nav ul li ul li ul li a span  ,Fridge,0,13
+html body div header nav ul li ul li ul li a span  ,Fridge Freezer,0,13
+html body div header nav ul li ul li ul li a span  ,Garden Tool,0,13
+html body div header nav ul li ul li ul li a span  ,Iron,0,13
+html body div header nav ul li ul li ul li a span  ,Kettle,0,13
+html body div header nav ul li ul li ul li a span  ,Kitchen Gadget,0,13
+html body div header nav ul li ul li ul li a span  ,Microwave,0,13
+html body div header nav ul li ul li ul li a span  ,Mixer,0,13
+html body div header nav ul li ul li ul li a span  ,Oven,0,13
+html body div header nav ul li ul li ul li a span  ,Personal Care,0,13
+html body div header nav ul li ul li ul li a span  ,Smart Home,0,13
+html body div header nav ul li ul li ul li a span  ,Steam Cleaner,0,13
+html body div header nav ul li ul li ul li a span  ,Toaster,0,13
+html body div header nav ul li ul li ul li a span  ,Tumble Dryer,0,13
+html body div header nav ul li ul li ul li a span  ,Vacuum Cleaner,0,13
+html body div header nav ul li ul li ul li a span  ,Washer Dryer,0,13
+html body div header nav ul li ul li ul li a span  ,Washing Machine,0,13
+html body div header nav ul li ul li a span  ,Gaming,0,11
+html body div header nav ul li ul li ul li a span  ,Video Game,0,13
+html body div header nav ul li ul li ul li a span  ,Video Game Accessory,0,13
+html body div header nav ul li ul li ul li a span  ,Nintendo,0,13
+html body div header nav ul li ul li ul li a span  ,PC Gaming,0,13
+html body div header nav ul li ul li ul li a span  ,PlayStation,0,13
+html body div header nav ul li ul li ul li a span  ,Toy,0,13
+html body div header nav ul li ul li ul li a span  ,VR,0,13
+html body div header nav ul li ul li ul li a span  ,Xbox,0,13
+html body div header nav ul li ul li a span  ,Awards 2018,0,11
+html body div header nav ul li ul li a span  ,Discount Codes,0,11
+html body div header nav ul li ul li a span  ,Win,0,11
+html body div header nav ul li ul li a span  ,Follow,0,11
+html body div header nav ul li ul li ul li a span  ,Facebook,0,13
+html body div header nav ul li ul li ul li a span  ,Twitter,0,13
+html body div header nav ul li ul li ul li a span  ,YouTube,0,13
+html body div header nav ul li ul li ul li a span  ,RSS Feeds,0,13
+html body div header nav a span  ,Search,0,7
+html body div header nav a span span  ,Menu,0,8
+html body div header nav form div label span  ,Search,0,9
+html body div header nav form div div div span  ,Type to search,0,10
+html body div header nav form div div div span  ,Press enter or click on the search icon,0,10
+html body div div div div div div span  ,Trending:,0,9
+html body div div div div div div ul li a span  ,iPhone XS,0,12
+html body div div div div div div ul li a span  ,Apple Watch 4,0,12
+html body div div div div div div ul li a span  ,iPhone XR,0,12
+html body div div div div div div ul li a span  ,Pixel 3,0,12
+html body div div div div div div ul li a span  ,Galaxy Note 9,0,12
+html body div div div div div div ul li a span  ,Samsung Galaxy S9,0,12
+html body div div div div div div ul li a span  ,Black Friday 2018,0,12
+html body div div div div div div ul li a span  ,Xbox One X,0,12
+html body div div article nav div ul li a span  ,Home,0,11
+html body div div article nav div ul li a span  ,News,0,11
+html body div div article div header h1 span  ,Samsung Galaxy S9 vs Galaxy S8: Should you upgrade?,1,9
+html body div div article div header small div span a span  ,Max Parker,1,12
+html body div div article div header small div span time span  ,"September 26, 2018 4:09 pm",1,12
+html body div div article div div div div div ul li a span  ,MWC,0,14
+html body div div article div div div div div ul li a span  ,MWC Review,0,14
+html body div div article div div div div h2 b span  ,Samsung Galaxy S9 vs Galaxy S8: Should you upgrade to Samsung’s latest?,1,12
+html body div div article div div div div p span  ,"The Samsung Galaxy S9 and Samsung Galaxy S9+ represent updates to our favourite phones from 2017 – but what’s new? As predicted, and heavily leaked, there are no huge surprises this year. Instead, Samsung has tweaked and fine-tuned an already excellent phone by improving the camera and adding a few extras. Keep on reading for the full comparison.",1,11
+html body div div article div div div div h2 b span  ,Samsung Galaxy S9 vs S8 design – What’s new?,1,12
+html body div div article div div div div p span  ,The,1,11
+html body div div article div div div div p span a span  ,Samsung Galaxy S8,1,13
+html body div div article div div div div p span  ,"represented a huge step forward in industrial design for the South Korean company and signalled a shift in the way phones look. The awkward bezel was minimised, with metal and glass becoming the materials of choice.",1,11
+html body div div article div div div div p strong span  ,Related:,0,12
+html body div div article div div div div p strong a span  ,Samsung Galaxy S9 first look,0,13
+html body div div article div div div div p span  ,"After receiving such a makeover, it was always likely that the device that followed the S8 would look very much alike. That is indeed the case with the S9, which looks pretty much identical to its predecessor.",1,11
+html body div div article div div div div p span  ,"Samsung said it has reduced the top and bottom bezel slightly, and you’ll notice the fingerprint sensor has been shifted so that it sits below the camera module. There’s also now a front-firing speaker in the mic on the top, rather than just that middling bottom-facing one.",1,11
+html body div div article div div div div p span  ,"Both phones include a 3.5mm headphone jack, IP68 water-resistance, a microSD slot for storage expansion and a USB-C port for charging.",1,11
+html body div div article div div div div div section div div h2 span  ,Latest,0,15
+html body div div article div div div div div section div div div div ul li a article div h3 span  ,How to create Google Home routines,0,22
+html body div div article div div div div div section div div div div ul li a article div h3 span  ,Winamp’s 2018 update is now officially available to download,0,22
+html body div div article div div div div div section div div div div ul li a article div h3 span  ,Best iPhone XR Deals: Where to pre order right now,0,22
+html body div div article div div div div div div div h3 span  ,Best Samsung Galaxy S9 Deals,0,14
+html body div div article div div div div div div div div div h3 a div p span  ,Samsung Galaxy S9 – 4GB data on Vodafone (use code TRUSTED10 to save £10),0,19
+html body div div article div div div div div div div div div div div p span  ,"If you don't need a lot of data and want to cut your monthly cost right down, this is a great choice with a low overall TCO.",0,18
+html body div div article div div div div div div div div div div div div a div p span  ,Mobiles.co.uk,0,21
+html body div div article div div div div div div div div div div div div span  ,|,0,18
+html body div div article div div div div div div div div div div div div div p span  ,£150 upfront w/code,0,20
+html body div div article div div div div div div div div div div div div span  ,|,0,18
+html body div div article div div div div div div div div div div div div div p span  ,Now £23pm,0,20
+html body div div article div div div div div div div div div div a span  ,View Deal,0,17
+html body div div article div div div div div div div div div div div div div p span  ,Now £23pm,0,20
+html body div div article div div div div div div div div div div div div span  ,|,0,18
+html body div div article div div div div div div div div div div div div div p span  ,£150 upfront w/code,0,20
+html body div div article div div div div div div div div div div div div span  ,|,0,18
+html body div div article div div div div div div div div div div div div a div p span  ,Mobiles.co.uk,0,21
+html body div div article div div div div h2 b span  ,Samsung Galaxy S9 vs S8 specs – What new features have been added?,1,12
+html body div div article div div div div p span  ,"While there are plenty of new features to get excited about with the S9, there’s also plenty that’s remained the same.",1,11
+html body div div article div div div div p span  ,"The 5.8-inch – or 6.2-inch, if you go Plus – is the same size and features the same quad-HD+ resolution as the previous device. Battery sizes haven’t changed either, so we wouldn’t expect too much improvement when it comes to endurance. Qi wireless charging remains, and we haven’t had confirmation yet on whether the charging speed has been altered.",1,11
+html body div div article div div div div div div div span  ,Today's Best Deals For Samsung Galaxy S9,0,13
+html body div div article div div div div div div div a span  ,About our deals,0,14
+html body div div article div div div div div div div ul li span  ,Handset only,0,15
+html body div div article div div div div div div div ul li div table tbody tr td a span  ,"Samsung Galaxy S9 Smartphone (5,8 Zoll T ...",0,21
+html body div div article div div div div div div div ul li div table tbody tr td div span  ,In stock,0,21
+html body div div article div div div div div div div ul li div table tbody tr td a span  ,"524,00 €",0,21
+html body div div article div div div div div div div ul li div table tbody tr td span  ,Free shipping,0,20
+html body div div article div div div div div div div ul li div table tbody tr td a span  ,View,0,21
+html body div div article div div div div div div div ul li div table tbody tr td a span  ,Samsung Galaxy S9 SM-G960F- 64GB Black H ...,0,21
+html body div div article div div div div div div div ul li div table tbody tr td a span  ,"498,90 €",0,21
+html body div div article div div div div div div div ul li div table tbody tr td span  ,Free shipping,0,20
+html body div div article div div div div div div div ul li div table tbody tr td a span  ,View,0,21
+html body div div article div div div div div div div ul li div div a span  ,See all deals,0,18
+html body div div article div div div div div div div div table tbody tr td a span  ,"Samsung Galaxy S9 Smartphone (5,8 Zoll T ...",0,19
+html body div div article div div div div div div div div table tbody tr td div span  ,In stock,0,19
+html body div div article div div div div div div div div table tbody tr td a span  ,"524,00 €",0,19
+html body div div article div div div div div div div div table tbody tr td span  ,Free shipping,0,18
+html body div div article div div div div div div div div table tbody tr td a span  ,View,0,19
+html body div div article div div div div div div div div table tbody tr td a span  ,Samsung Galaxy S9 SM-G960F- 64GB Black H ...,0,19
+html body div div article div div div div div div div div table tbody tr td a span  ,"498,90 €",0,19
+html body div div article div div div div div div div div table tbody tr td span  ,Free shipping,0,18
+html body div div article div div div div div div div div table tbody tr td a span  ,View,0,19
+html body div div article div div div div div div div div div a span  ,See all deals,0,16
+html body div div article div div div div div p span  ,Credit: Max Parker – Trusted Reviews,1,12
+html body div div article div div div div p span  ,"In probably the most predictable update, the S9 and S9 Plus improve upon the Snapdragon 835/Exynos 8895 chip with the latest versions. If you’re in Europe you’ll get the Exynos 9810, while the US will get the Snapdragon 845. Improvements with these new chips include faster download speeds, superior CPU and GPU performance along with better efficiency.",1,11
+html body div div article div div div div p span  ,"RAM on the regular S9 remains at 4GB like the S8, but the S9 Plus gets 6GB. Storage remains at 64GB, although there will now be a 256GB option for the S9 and S9+.",1,11
+html body div div article div div div div table tbody tr td b span  ,Samsung Galaxy S9,1,15
+html body div div article div div div div table tbody tr td b span  ,Samsung Galaxy S8,1,15
+html body div div article div div div div table tbody tr td strong span  ,Battery,1,15
+html body div div article div div div div table tbody tr td span  ,3000 mAh,1,14
+html body div div article div div div div table tbody tr td span  ,300mAh,1,14
+html body div div article div div div div table tbody tr td strong span  ,Camera (Rear),1,15
+html body div div article div div div div table tbody tr td span  ,12MP f/2.4 and f/1.5,1,14
+html body div div article div div div div table tbody tr td span  ,12MP f/1.7,1,14
+html body div div article div div div div table tbody tr td strong span  ,Display,1,15
+html body div div article div div div div table tbody tr td span  ,5.8-inch OLED (1440 x 2560),1,14
+html body div div article div div div div table tbody tr td span  ,5.8-inch OLED (1440 x 2560),1,14
+html body div div article div div div div table tbody tr td strong span  ,Processor,1,15
+html body div div article div div div div table tbody tr td span  ,Snapdragon 845/Exynos 9810,1,14
+html body div div article div div div div table tbody tr td span  ,Snapdragon 835/Exynos 8890,1,14
+html body div div article div div div div table tbody tr td strong span  ,Storage,1,15
+html body div div article div div div div table tbody tr td span  ,64GB,1,14
+html body div div article div div div div table tbody tr td span  ,64GB,1,14
+html body div div article div div div div table tbody tr td strong span  ,RAM,1,15
+html body div div article div div div div table tbody tr td span  ,4GB,1,14
+html body div div article div div div div table tbody tr td span  ,4GB,1,14
+html body div div article div div div div p span  ,"Among the bigger changes are the improved speakers, which now fire sound directly at you rather than into your palm. These new speakers have been tuned by AKG and support",1,11
+html body div div article div div div div p span a span  ,Dolby Atmos,1,13
+html body div div article div div div div p span  ,"for 360-degree sound. On first listen not only do the speakers appear louder, they’re more more detailed than before too.",1,11
+html body div div article div div div div div div div span  ,Today's Best Deals For Samsung Galaxy S8,0,13
+html body div div article div div div div div div div a span  ,About our deals,0,14
+html body div div article div div div div div div div ul li span  ,Handset only,0,15
+html body div div article div div div div div div div ul li div table tbody tr td a span  ,"Samsung Galaxy S8 Smartphone (5,8 Zoll ( ...",0,21
+html body div div article div div div div div div div ul li div table tbody tr td div span  ,In stock,0,21
+html body div div article div div div div div div div ul li div table tbody tr td a span  ,"404,95 €",0,21
+html body div div article div div div div div div div ul li div table tbody tr td span  ,Free shipping,0,20
+html body div div article div div div div div div div ul li div table tbody tr td a span  ,View,0,21
+html body div div article div div div div div div div ul li div table tbody tr td a span  ,"Samsung Galaxy S8 Smartphone BUNDLE (5,8 ...",0,21
+html body div div article div div div div div div div ul li div table tbody tr td a span  ,"365,20 €",0,21
+html body div div article div div div div div div div ul li div table tbody tr td span  ,Free shipping,0,20
+html body div div article div div div div div div div ul li div table tbody tr td a span  ,View,0,21
+html body div div article div div div div div div div ul li div div a span  ,See all deals,0,18
+html body div div article div div div div div div div div table tbody tr td a span  ,"Samsung Galaxy S8 Smartphone (5,8 Zoll ( ...",0,19
+html body div div article div div div div div div div div table tbody tr td div span  ,In stock,0,19
+html body div div article div div div div div div div div table tbody tr td a span  ,"404,95 €",0,19
+html body div div article div div div div div div div div table tbody tr td span  ,Free shipping,0,18
+html body div div article div div div div div div div div table tbody tr td a span  ,View,0,19
+html body div div article div div div div div div div div table tbody tr td a span  ,"Samsung Galaxy S8 Smartphone BUNDLE (5,8 ...",0,19
+html body div div article div div div div div div div div table tbody tr td a span  ,"365,20 €",0,19
+html body div div article div div div div div div div div table tbody tr td span  ,Free shipping,0,18
+html body div div article div div div div div div div div table tbody tr td a span  ,View,0,19
+html body div div article div div div div div div div div div a span  ,See all deals,0,16
+html body div div article div div div div p span  ,"The other huge change, and the primary focus of the S9, is the camera. The",1,11
+html body div div article div div div div p span  ,"12-megapixel sensor now has a clever mechanical aperture shift that will move between f/2.4 and f/1.5, depending on your environment.",1,11
+html body div div article div div div div p span  ,"When it’s bright and sunny it will utilise the f/2.4 aperture, with the wider f/1.5 kicking in when things get darker or you’re inside. This should result in fantastic shots during the day, but equally impressive ones in the tougher conditions that most smartphone cameras would struggle in. The S8 did have a 12-megapixel sensor, but the aperture was a fixed f/1.7.",1,11
+html body div div article div div div div p span  ,"4K video can now be shot at 60fps, rather than just 30fps, and slow-motion can be cranked all the way up to 960fps for a very short time. Like the S8, the S9 can also shoot in 120fps and 240fps in 1080p.",1,11
+html body div div article div div div div p span  ,"Bixby, Samsung’s virtual assistant, is available on both phones and can be accessed via a dedicated button.",1,11
+html body div div article div div div div h2 b span  ,Samsung Galaxy S9 vs S8 price – Which is better value?,1,12
+html body div div article div div div div p span  ,"Prices for the Samsung Galaxy S9 start from £739 for the 64GB model. That’s an increase over the £689 price of the Galaxy S8 at launch. Note, however, you’ll be able to pick up an S8 for a lot less than that now – and that price will likely further come down once the S9 hits shelves.",1,11
+html body div div article div div div div p strong span  ,Exclusive deal:,0,12
+html body div div article div div div div p strong a span  ,"Get the Samsung S9 for £39/month £125 upfront, with 16GB data",0,13
+html body div div article div div div div div div div h3 span  ,The top Samsung Galaxy S8 deals right now,0,14
+html body div div article div div div div div div div div div h3 a div p span  ,"Samsung Galaxy S8 – 4GB, £23/month and £5 upfront (with code TRUSTED10) on Vodafone",0,19
+html body div div article div div div div div div div div div div div p span  ,A fantastic offer for anyone in the market for a low data contract on a Samsung Galaxy S8. Use the code TRUSTED10 at the checkout to save £10 on the upfront cost.,0,18
+html body div div article div div div div div div div div div div div div a div p span  ,Mobiles.co.uk,0,21
+html body div div article div div div div div div div div div div div div span  ,|,0,18
+html body div div article div div div div div div div div div div div div div p span  ,£5 upfront w/code,0,20
+html body div div article div div div div div div div div div div div div span  ,|,0,18
+html body div div article div div div div div div div div div div div div div p span  ,£23/month,0,20
+html body div div article div div div div div div div div div div a span  ,View Deal,0,17
+html body div div article div div div div div div div div div div div div div p span  ,£23/month,0,20
+html body div div article div div div div div div div div div div div div span  ,|,0,18
+html body div div article div div div div div div div div div div div div div p span  ,£5 upfront w/code,0,20
+html body div div article div div div div div div div div div div div div span  ,|,0,18
+html body div div article div div div div div div div div div div div div a div p span  ,Mobiles.co.uk,0,21
+html body div div article div div div div div div div div div h3 a div p span  ,"Samsung Galaxy S8 - 15GB, £25/month (after cashback) with no upfront cost on O2",0,19
+html body div div article div div div div div div div div div div div p span  ,"If a monthly allowance of 4GB is just a bit too low for your fancy, then you might be better off with this 15GB contract from O2 – now with no upfront cost.",0,18
+html body div div article div div div div div div div div div div div div a div p span  ,Mobiles.co.uk,0,21
+html body div div article div div div div div div div div div div div div span  ,|,0,18
+html body div div article div div div div div div div div div div div div div p span  ,No upfront,0,20
+html body div div article div div div div div div div div div div div div span  ,|,0,18
+html body div div article div div div div div div div div div div div div div p span  ,£25/month (after cashback),0,20
+html body div div article div div div div div div div div div div a span  ,View Deal,0,17
+html body div div article div div div div div div div div div div div div div p span  ,£25/month (after cashback),0,20
+html body div div article div div div div div div div div div div div div span  ,|,0,18
+html body div div article div div div div div div div div div div div div div p span  ,No upfront,0,20
+html body div div article div div div div div div div div div div div div span  ,|,0,18
+html body div div article div div div div div div div div div div div div a div p span  ,Mobiles.co.uk,0,21
+html body div div article div div div div h2 b span  ,Samsung Galaxy S9 vs S8 – Verdict,1,12
+html body div div article div div div div div section div div div div div span  ,Huawei Mate 20 Pro First Look,1,17
+html body div div article div div div div div section div div div div div div div span  ,Playlist,1,19
+html body div div article div div div div div section div div div div div div div div div span  ,Next Up,1,21
+html body div div article div div div div div section div div div div div div div div div span  ,Pixel 3 - Unboxing/First Look,1,21
+html body div div article div div div div div section div div div div div div div div div span  ,327,1,21
+html body div div article div div div div div section div div div div div div div textarea span  ,https://www.trustedreviews.com/news/samsung-galaxy-s9-vs-galaxy-s8-3402874?jwsource=cl,1,20
+html body div div article div div div div div section div div div div div div div div div span  ,Copied,1,21
+html body div div article div div div div div section div div div div div div div div div span  ,Copied,1,21
+html body div div article div div div div div section div div div div div div div div div span  ,Rewind 10 Seconds,1,21
+html body div div article div div div div div section div div div div div div div div div span  ,Next Up: Pixel 3 - Unboxing/First Look,1,21
+html body div div article div div div div div section div div div div div div div span  ,Live,1,19
+html body div div article div div div div div section div div div div div div div span  ,01:00,1,19
+html body div div article div div div div div section div div div div div div div span  ,05:56,1,19
+html body div div article div div div div div section div div div div div div div span  ,06:56,1,19
+html body div div article div div div div div section div div div div div div div div div span  ,Chromecast,1,21
+html body div div article div div div div div section div div div div div div div div div span  ,Closed Captions,1,21
+html body div div article div div div div div section div div div div div div div div div span  ,Share Video,1,21
+html body div div article div div div div div section div div div div div div div div div span  ,Playlist,1,21
+html body div div article div div div div div section div div div div div div div div div span  ,Settings,1,21
+html body div div article div div div div div section div div div div div div div div div span  ,Fullscreen,1,21
+html body div div article div div div div p span  ,"If you really value a great smartphone camera and are happy with the rest of the Samsung Galaxy S8 experience, then the S9 should make for a decent upgrade. There are plenty of tweaks that address issues we experienced with the previous handset – and that’s always a good thing.",1,11
+html body div div article div div div div div div div div aside div div div div span  ,Cost Options,0,19
+html body div div article div div div div div div div div aside div div div div div div div span  ,Any Monthly Cost,0,22
+html body div div article div div div div div div div div aside div div div div div div div span  ,Up to £150,0,22
+html body div div article div div div div div div div div aside div div div div span  ,Phone Model,0,19
+html body div div article div div div div div div div div aside div div div div div div div span  ,Samsung,0,22
+html body div div article div div div div div div div div aside div div div div span  ,Contract,0,19
+html body div div article div div div div div div div div aside div div div div div div div span  ,Any Data,0,22
+html body div div article div div div div div div div div aside div div div div span  ,Network,0,19
+html body div div article div div div div div div div div div div div label span  ,Sort,0,18
+html body div div article div div div div div div div div div div div div div div span  ,Recommended,0,20
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div p span  ,24 month contract,0,28
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div h3 span  ,Samsung Galaxy S9 64GB,0,27
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div p span  ,£135.00 upfront,0,27
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div div span div div strong span  ,1000,0,32
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div div span div div span  ,minutes,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div div span div div strong span  ,Unlimited,0,32
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div div span div div span  ,texts,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div div span div div strong span  ,3GB,0,32
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div div span div div span  ,data,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div p span  ,24 month contract,0,27
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div strong span  ,1000,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div span  ,minutes,0,30
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div strong span  ,Unlimited,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div span  ,texts,0,30
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div strong span  ,3GB,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div span  ,data,0,30
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div strong span  ,£23.00,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div span  ,per month,0,30
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div strong span  ,£687.00,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div span  ,total cost,0,30
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div div a div div span  ,See Deal,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div a div div span  ,See Deal,0,30
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div p span  ,24 month contract,0,28
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div h3 span  ,Samsung Galaxy S9 64GB,0,27
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div p span  ,£99.00 upfront,0,27
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div div span div div strong span  ,Unlimited,0,32
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div div span div div span  ,minutes,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div div span div div strong span  ,Unlimited,0,32
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div div span div div span  ,texts,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div div span div div strong span  ,9GB,0,32
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div div span div div span  ,data,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div p span  ,24 month contract,0,27
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div strong span  ,Unlimited,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div span  ,minutes,0,30
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div strong span  ,Unlimited,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div span  ,texts,0,30
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div strong span  ,9GB,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div span  ,data,0,30
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div strong span  ,£28.00,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div span  ,per month,0,30
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div strong span  ,£771.00,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div span div div span  ,total cost,0,30
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div div a div div span  ,See Deal,0,31
+html body div div article div div div div div div div div div div div div div div div table tbody tr td div div a div div span  ,See Deal,0,30
+html body div div article div div div div div div div div div div a div span  ,See All Deals,0,18
+html body div div article div div div div p strong span  ,Share your thoughts on the all-new Galaxy S9 with us @TrustedReviews.,0,12
+html body div footer div nav ul li a span  ,About TrustedReviews,0,10
+html body div footer div nav ul li a span  ,Contact our editorial team,0,10
+html body div footer div nav ul li a span  ,Editorial ethics and how we test,0,10
+html body div footer div nav ul li a span  ,Labelling of commercial content,0,10
+html body div footer div nav ul li a span  ,IPSO Editors' Code of Practice,0,10
+html body div footer div nav ul li a span  ,Privacy & cookie policy,0,10
+html body div footer div nav ul li a span  ,Terms & Conditions,0,10
+html body div footer div nav ul li a span  ,Third party advertising policy,0,10
+html body div footer div nav ul li a span  ,RSS Feeds,0,10
+html body div footer div nav ul li a span  ,Discount Codes,0,10
+html body div footer div nav ul li a span  ,Competitions,0,10
+html body div footer div nav ul li a span  ,Advertise with us,0,10
+html body div footer div nav ul li a span  ,Contact our advertising team,0,10
+html body div footer div nav ul li a span  ,Privacy Settings,0,10
+html body div footer div nav ul li a span  ,Facebook,0,10
+html body div footer div nav ul li a span  ,Twitter,0,10
+html body div footer div nav ul li a span  ,YouTube,0,10
+html body div footer div nav ul li a span  ,RSS Feeds,0,10
+html body div footer div div sub span  ,© Copyright TI Media Limited. All rights reserved.,0,8
+html body div a span  ,Privacy Settings,0,5

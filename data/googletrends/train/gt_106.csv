@@ -1,0 +1,567 @@
+tag,content,label,depth
+html body form header div section a span  ,MENU,0,8
+html body form header div section div div ul li a span  ,Join Free,0,12
+html body form header div section div div ul li a span  ,Log In,0,12
+html body form header nav ul li a span  ,Recipes,0,9
+html body form header nav ul li ul li a span  ,Main Ingredient,0,11
+html body form header nav ul li ul li ul li a span  ,Chicken,0,13
+html body form header nav ul li ul li ul li a span  ,Apple,0,13
+html body form header nav ul li ul li ul li a span  ,Turkey,0,13
+html body form header nav ul li ul li ul li a span  ,Vegetables,0,13
+html body form header nav ul li ul li ul li a span  ,Beef,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Dish,0,11
+html body form header nav ul li ul li ul li a span  ,Cakes,0,13
+html body form header nav ul li ul li ul li a span  ,Cookies,0,13
+html body form header nav ul li ul li ul li a span  ,Cupcakes,0,13
+html body form header nav ul li ul li ul li a span  ,Bars,0,13
+html body form header nav ul li ul li ul li a span  ,Pie,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Preparation,0,11
+html body form header nav ul li ul li ul li a span  ,Slow Cooker,0,13
+html body form header nav ul li ul li ul li a span  ,Bread Machine,0,13
+html body form header nav ul li ul li ul li a span  ,Blender,0,13
+html body form header nav ul li ul li ul li a span  ,Baking,0,13
+html body form header nav ul li ul li ul li a span  ,Microwave,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Meal Types,0,11
+html body form header nav ul li ul li ul li a span  ,Desserts,0,13
+html body form header nav ul li ul li ul li a span  ,Appetizers,0,13
+html body form header nav ul li ul li ul li a span  ,Breakfast & Brunch,0,13
+html body form header nav ul li ul li ul li a span  ,Snacks,0,13
+html body form header nav ul li ul li ul li a span  ,Side Dishes,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Global,0,11
+html body form header nav ul li ul li ul li a span  ,Italian,0,13
+html body form header nav ul li ul li ul li a span  ,French,0,13
+html body form header nav ul li ul li ul li a span  ,German,0,13
+html body form header nav ul li ul li ul li a span  ,Southern,0,13
+html body form header nav ul li ul li ul li a span  ,Asian,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Holidays & Entertaining,0,11
+html body form header nav ul li ul li ul li a span  ,Birthdays,0,13
+html body form header nav ul li ul li ul li a span  ,Halloween,0,13
+html body form header nav ul li ul li ul li a span  ,Thanksgiving,0,13
+html body form header nav ul li ul li ul li a span  ,Christmas,0,13
+html body form header nav ul li ul li ul li a span  ,Valentine's Day,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Health & Diet,0,11
+html body form header nav ul li ul li ul li a span  ,Diabetes,0,13
+html body form header nav ul li ul li ul li a span  ,Gluten Free,0,13
+html body form header nav ul li ul li ul li a span  ,Low Calorie,0,13
+html body form header nav ul li ul li ul li a span  ,High Fiber,0,13
+html body form header nav ul li ul li ul li a span  ,Heart Healthy,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Products,0,11
+html body form header nav ul li ul li ul li a span  ,Bisquick,0,13
+html body form header nav ul li ul li ul li a span  ,Brownie Mixes,0,13
+html body form header nav ul li ul li ul li a span  ,Super Moist™ Cake Mix,0,13
+html body form header nav ul li ul li ul li a span  ,Hamburger Helper,0,13
+html body form header nav ul li ul li ul li a span  ,Cookie Mix,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li a span  ,Everyday Meals,0,9
+html body form header nav ul li ul li a span  ,Family Dinners,0,11
+html body form header nav ul li ul li ul li a span  ,Slow Cooker,0,13
+html body form header nav ul li ul li ul li a span  ,Chicken,0,13
+html body form header nav ul li ul li ul li a span  ,Gluten Free Dinners,0,13
+html body form header nav ul li ul li ul li a span  ,Turkey,0,13
+html body form header nav ul li ul li ul li a span  ,German Dinners,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Slow Cooker,0,11
+html body form header nav ul li ul li ul li a span  ,Slow Cooker Chili,0,13
+html body form header nav ul li ul li ul li a span  ,Slow Cooker Chicken,0,13
+html body form header nav ul li ul li ul li a span  ,Slow Cooker Soup,0,13
+html body form header nav ul li ul li ul li a span  ,Slow Cooker Stew,0,13
+html body form header nav ul li ul li ul li a span  ,Slow Cooker Italian,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Breakfast & Brunch,0,11
+html body form header nav ul li ul li ul li a span  ,Muffins,0,13
+html body form header nav ul li ul li ul li a span  ,Scones,0,13
+html body form header nav ul li ul li ul li a span  ,Egg Bakes,0,13
+html body form header nav ul li ul li ul li a span  ,Crepes,0,13
+html body form header nav ul li ul li ul li a span  ,Waffles,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Lunch,0,11
+html body form header nav ul li ul li ul li a span  ,Salads,0,13
+html body form header nav ul li ul li ul li a span  ,Sandwich and Wraps,0,13
+html body form header nav ul li ul li ul li a span  ,Pizza,0,13
+html body form header nav ul li ul li ul li a span  ,Soups,0,13
+html body form header nav ul li ul li ul li a span  ,Burrito,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li a span  ,Desserts,0,9
+html body form header nav ul li ul li a span  ,Bars,0,11
+html body form header nav ul li ul li ul li a span  ,Super Moist™ Bars,0,13
+html body form header nav ul li ul li ul li a span  ,Pumpkin Bars,0,13
+html body form header nav ul li ul li ul li a span  ,No-Bake Bars,0,13
+html body form header nav ul li ul li ul li a span  ,Fruit Bars,0,13
+html body form header nav ul li ul li ul li a span  ,Ooey-Gooey Bars,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Dessert of the Month,0,11
+html body form header nav ul li ul li a span  ,Brownies,0,11
+html body form header nav ul li ul li ul li a span  ,Frosted Brownies,0,13
+html body form header nav ul li ul li ul li a span  ,Chocolate Brownies,0,13
+html body form header nav ul li ul li ul li a span  ,Brownie Cookies,0,13
+html body form header nav ul li ul li ul li a span  ,Peanut Butter Brownies,0,13
+html body form header nav ul li ul li ul li a span  ,Caramel Brownies,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Cookies,0,11
+html body form header nav ul li ul li ul li a span  ,Christmas Cookies,0,13
+html body form header nav ul li ul li ul li a span  ,Halloween Cookies,0,13
+html body form header nav ul li ul li ul li a span  ,Cake Mix Cookies,0,13
+html body form header nav ul li ul li ul li a span  ,Red Velvet Cookies,0,13
+html body form header nav ul li ul li ul li a span  ,Cream Cheese Cookies,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Cupcakes,0,11
+html body form header nav ul li ul li ul li a span  ,Kids Cupcakes,0,13
+html body form header nav ul li ul li ul li a span  ,Birthday Cupcakes,0,13
+html body form header nav ul li ul li ul li a span  ,Super Moist™ Cupcakes,0,13
+html body form header nav ul li ul li ul li a span  ,Halloween Cupcakes,0,13
+html body form header nav ul li ul li ul li a span  ,Chocolate Cupcakes,0,13
+html body form header nav ul li ul li a span  ,Pie,0,11
+html body form header nav ul li ul li ul li a span  ,Chocolate Pie,0,13
+html body form header nav ul li ul li ul li a span  ,Cream Pie,0,13
+html body form header nav ul li ul li ul li a span  ,Impossibly Easy Pie,0,13
+html body form header nav ul li ul li ul li a span  ,Fruit Pie,0,13
+html body form header nav ul li ul li ul li a span  ,Apple Pie,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Cakes,0,11
+html body form header nav ul li ul li ul li a span  ,Bundt Cakes,0,13
+html body form header nav ul li ul li ul li a span  ,Ice Cream Cakes,0,13
+html body form header nav ul li ul li ul li a span  ,Christmas Cakes,0,13
+html body form header nav ul li ul li ul li a span  ,Cake Pops,0,13
+html body form header nav ul li ul li ul li a span  ,Chocolate Cakes,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li a span  ,Snacks,0,9
+html body form header nav ul li ul li a span  ,Snack Mixes,0,11
+html body form header nav ul li ul li a span  ,Cheerios Snack Mix,0,11
+html body form header nav ul li ul li a span  ,Sweet Snacks,0,11
+html body form header nav ul li ul li a span  ,Snack Cakes,0,11
+html body form header nav ul li ul li a span  ,Snack and Cereal Bars,0,11
+html body form header nav ul li ul li a span  ,Bite-Size Snacks,0,11
+html body form header nav ul li ul li a span  ,Salty Snacks,0,11
+html body form header nav ul li ul li a span  ,Gluten Free Snacks,0,11
+html body form header nav ul li ul li a span  ,Better-For-You Snacks,0,11
+html body form header nav ul li ul li a span  ,Pumpkin Seeds,0,11
+html body form header nav ul li ul li a span  ,Dip,0,11
+html body form header nav ul li ul li ul li a span  ,Buffalo Chicken Dip,0,13
+html body form header nav ul li ul li ul li a span  ,Cheese Dip,0,13
+html body form header nav ul li ul li ul li a span  ,7 Layer Dip,0,13
+html body form header nav ul li ul li ul li a span  ,Avocado Dip,0,13
+html body form header nav ul li ul li ul li a span  ,Bacon Dip,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li a span  ,Holidays & Entertaining,0,9
+html body form header nav ul li ul li a span  ,Birthdays,0,11
+html body form header nav ul li ul li ul li a span  ,Adult Birthday Cakes,0,13
+html body form header nav ul li ul li ul li a span  ,Gluten-Free Birthday Cake,0,13
+html body form header nav ul li ul li ul li a span  ,Birthday Desserts,0,13
+html body form header nav ul li ul li ul li a span  ,Kids Birthday Cupcakes,0,13
+html body form header nav ul li ul li ul li a span  ,Kids Birthday Cakes,0,13
+html body form header nav ul li ul li a span  ,Halloween,0,11
+html body form header nav ul li ul li ul li a span  ,Betty's Guide to Halloween,0,13
+html body form header nav ul li ul li a span  ,Thanksgiving,0,11
+html body form header nav ul li ul li ul li a span  ,Turkey,0,13
+html body form header nav ul li ul li ul li a span  ,Thanksgiving Side Dishes,0,13
+html body form header nav ul li ul li ul li a span  ,Gravy,0,13
+html body form header nav ul li ul li ul li a span  ,Thanksgiving Pie,0,13
+html body form header nav ul li ul li ul li a span  ,Thanksgiving Appetizers,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Christmas,0,11
+html body form header nav ul li ul li ul li a span  ,Christmas Cookies,0,13
+html body form header nav ul li ul li ul li a span  ,Christmas Appetizers,0,13
+html body form header nav ul li ul li ul li a span  ,24 Days of Cookies,0,13
+html body form header nav ul li ul li ul li a span  ,Christmas Desserts,0,13
+html body form header nav ul li ul li ul li a span  ,Timetable for Roasting Meats,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Valentine's Day,0,11
+html body form header nav ul li ul li a span  ,St. Patrick's Day,0,11
+html body form header nav ul li ul li a span  ,Easter,0,11
+html body form header nav ul li ul li ul li a span  ,Potatoes,0,13
+html body form header nav ul li ul li ul li a span  ,Ham,0,13
+html body form header nav ul li ul li ul li a span  ,Deviled Eggs,0,13
+html body form header nav ul li ul li ul li a span  ,Easter Desserts,0,13
+html body form header nav ul li ul li ul li a span  ,Easter Sides,0,13
+html body form header nav ul li ul li ul li a span  ,See All,0,13
+html body form header nav ul li ul li a span  ,Wedding & Shower,0,11
+html body form header nav ul li ul li a span  ,Graduation,0,11
+html body form header nav ul li ul li ul li a span  ,Graduation Desserts,0,13
+html body form header nav ul li ul li ul li a span  ,Punch & Drinks,0,13
+html body form header nav ul li ul li a span  ,Easy Entertaining,0,11
+html body form header nav ul li ul li ul li a span  ,Appetizers,0,13
+html body form header nav ul li ul li ul li a span  ,Graduation,0,13
+html body form header nav ul li ul li ul li a span  ,Picnics,0,13
+html body form header nav ul li ul li a span  ,July 4th,0,11
+html body form header nav ul li a span  ,How-To,0,9
+html body form header nav ul li ul li a span  ,Ask Betty,0,11
+html body form header nav ul li ul li a span  ,Holidays & Entertaining,0,11
+html body form header nav ul li ul li a span  ,Baking & Desserts,0,11
+html body form header nav ul li ul li a span  ,Ingredients & Preparation,0,11
+html body form header nav ul li ul li a span  ,Equipment,0,11
+html body form header nav ul li ul li a span  ,Meal Planning,0,11
+html body form header nav ul li ul li a span  ,Kids,0,11
+html body form header nav ul li ul li a span  ,Healthy Eating,0,11
+html body form header nav ul li a span  ,Products,0,9
+html body form header nav ul li ul li a span  ,Betty Crocker™ Mug Treats,0,11
+html body form header nav ul li ul li a span  ,Betty Crocker™ Baking & Cake Mixes,0,11
+html body form header nav ul li ul li a span  ,Bisquick™,0,11
+html body form header nav ul li ul li a span  ,Betty Crocker™ Brownies and Bars,0,11
+html body form header nav ul li ul li a span  ,Betty Crocker™ Cookie Mixes,0,11
+html body form header nav ul li ul li a span  ,Betty Crocker™ Dessert Decorating & Specialty Products,0,11
+html body form header nav ul li ul li a span  ,Betty Crocker™ Frosting,0,11
+html body form header nav ul li ul li a span  ,Fruit Snacks,0,11
+html body form header nav ul li ul li a span  ,Betty Crocker™ Gluten Free Baking,0,11
+html body form header nav ul li ul li a span  ,Gluten-Free Products,0,11
+html body form header nav ul li ul li a span  ,Helper™,0,11
+html body form header nav ul li ul li a span  ,Betty Crocker™ Muffin Mixes,0,11
+html body form header nav ul li ul li a span  ,Potatoes,0,11
+html body form header nav ul li ul li a span  ,Suddenly Salad,0,11
+html body form header nav ul li ul li a span  ,Betty Crocker™ Baking Nuts,0,11
+html body form header nav ul li ul li a span  ,Betty Crocker™ Kitchen Accessories,0,11
+html body form header nav ul li a span  ,Coupons & Sales,0,9
+html body form div div div ul li a span  ,5-Star Frito Pie,0,10
+html body form div div div ul li a span  ,Perfect Pumpkin Bread,0,10
+html body form div div div ul li a span  ,31 Delicious Dinners for October,0,10
+html body form div div div ul li a span  ,How to Roast Pumpkin Seeds,0,10
+html body form div section div div ul li div span  ,Print,0,11
+html body form div section div div ul li div span  ,634,0,11
+html body form div section div div ul li div span  ,Save,0,11
+html body form div section div div ul li div span  ,54,0,11
+html body form div section div div ul li div span  ,Pinterest,0,11
+html body form div section div div ul li div span  ,105,0,11
+html body form div section div div ul li div span  ,Email,0,11
+html body form div section div div ul li div span  ,57,0,11
+html body form div section div div ul li div span  ,Facebook,0,11
+html body form div section div div ul li div span  ,63,0,11
+html body form div section div div div div h1 span  ,Brined Whole Turkey,1,11
+html body form div section div div div span  ,brined whole turkey,0,9
+html body form div section div div div span  ,Entree,0,9
+html body form div section div div div div a span  ,105 Ratings,0,11
+html body form div section div div div div a span  ,20 Comments,0,11
+html body form div section div div div div ul li span  ,Prep,1,12
+html body form div section div div div div ul li span  ,15,1,12
+html body form div section div div div div ul li span  ,min,1,12
+html body form div section div div div div ul li span  ,Total,1,12
+html body form div section div div div div ul li span  ,12,1,12
+html body form div section div div div div ul li span  ,hr,1,12
+html body form div section div div div div ul li span  ,30,1,12
+html body form div section div div div div ul li span  ,min,1,12
+html body form div section div div div div ul li span  ,Servings,1,12
+html body form div section div div div div ul li span  ,14,1,12
+html body form div section div div div div p span  ,Make your next turkey the most moist and succulent one you've ever tasted!,1,11
+html body form div section div div div div p a span  ,MORE+,0,12
+html body form div section div div div div p a span  ,LESS-,0,12
+html body form div section div div div div span span  ,By,1,11
+html body form div section div div div div span a span  ,Betty Crocker Kitchens,1,12
+html body form div section div div div div div span  ,"September 25, 2018",0,11
+html body form div section div div div div div div span  ,Savings on,0,12
+html body form div section div div div div div div span  ,0,0,12
+html body form div section div div div div div div span  ,ingredient(s),0,12
+html body form div section div div div div div div div label span  ,Enter Zip to change location:,0,14
+html body form div section div div div div div div div label span  ,Showing offers for:,0,14
+html body form div section div div div div h2 span  ,Ingredients,0,11
+html body form div section div div div div div div div span  ,2,1,13
+html body form div section div div div div div div div span  ,gallons cold water,1,13
+html body form div section div div div div div div div span span  ,Save $,1,14
+html body form div section div div div div div div div span  ,2,1,13
+html body form div section div div div div div div div span  ,cups kosher salt or 1 cup table salt,1,13
+html body form div section div div div div div div div span span  ,Save $,1,14
+html body form div section div div div div div div div span  ,1,1,13
+html body form div section div div div div div div div span  ,"whole turkey, not prebasted (12 to 14 pounds), thawed if frozen",1,13
+html body form div section div div div div div div div span span  ,Save $,1,14
+html body form div section div div div div div div div span  ,1,1,13
+html body form div section div div div div div div div span  ,"medium onion, cut into fourths",1,13
+html body form div section div div div div div div div span span  ,Save $,1,14
+html body form div section div div div div div div div span  ,1,1,13
+html body form div section div div div div div div div span  ,"medium carrot, coarsely chopped",1,13
+html body form div section div div div div div div div span span  ,Save $,1,14
+html body form div section div div div div div div div span  ,1,1,13
+html body form div section div div div div div div div span  ,"medium celery stalk, coarsely chopped",1,13
+html body form div section div div div div div div div span span  ,Save $,1,14
+html body form div section div div div div div div div span  ,1,1,13
+html body form div section div div div div div div div span  ,teaspoon dried thyme leaves,1,13
+html body form div section div div div div div div div span span  ,Save $,1,14
+html body form div section div div div div div div div span  ,3,1,13
+html body form div section div div div div div div div span  ,"tablespoons unsalted butter, melted",1,13
+html body form div section div div div div div div div span span  ,Save $,1,14
+html body form div section div div div div div div a span  ,Powered by Chicory,0,13
+html body form div section div div div div h2 span  ,Steps,1,11
+html body form div section div div div div div span  ,Hide Images,0,11
+html body form div section div div div div ul li div div span  ,1,1,14
+html body form div section div div div div ul li div div span  ,Mix cold water and salt in a large clean bucket or stockpot (noncorrosive); stir until salt is dissolved. Add turkey. Cover and refrigerate 8 to 12 hours.,1,14
+html body form div section div div div div ul li div div span  ,2,1,14
+html body form div section div div div div ul li div div span  ,"Heat oven to 325°F. Remove turkey from brine; discard brine. Thoroughly rinse turkey under cool running water, gently rubbing outside and inside of turkey to release salt. Pat skin and both interior cavities dry with paper towels.",1,14
+html body form div section div div div div ul li div div span  ,3,1,14
+html body form div section div div div div ul li div div span  ,"Fasten neck skin to back of turkey with skewer. Fold wings across back of turkey so tips are touching. Toss onion, carrot, celery and thyme with 1 tablespoon of the melted butter; place in turkey cavity.",1,14
+html body form div section div div div div ul li div div span  ,4,1,14
+html body form div section div div div div ul li div div span  ,"Place turkey, breast side down, on rack in large shallow roasting pan. Brush entire back side of turkey with 1 tablespoon melted butter. Turn turkey over. Brush entire breast side of turkey with remaining 1 tablespoon melted butter. Insert ovenproof meat thermometer so tip is in thickest part of inside thigh and does not touch bone. (Do not add water or cover turkey.)",1,14
+html body form div section div div div div ul li div div span  ,5,1,14
+html body form div section div div div div ul li div div span  ,"Roast uncovered 3 hours 30 minutes to 4 hours, brushing twice with pan drippings during last 30 minutes of roasting.",1,14
+html body form div section div div div div ul li div div span  ,6,1,14
+html body form div section div div div div ul li div div span  ,"Turkey is done when thermometer reads 165°F and drumsticks move easily when lifted or twisted. If a meat thermometer is not used, begin testing for doneness after about 3 hours. When turkey is done, place on warm platter and cover with aluminum foil to keep warm. Let stand about 15 minutes for easiest carving.",1,14
+html body form div section div div div div h2 span  ,Expert Tips,1,11
+html body form div section div div div div div ul li span  ,"Turkey can be brined a day ahead. Rinse well, cover and refrigerate until time to roast.",1,13
+html body form div section div div div div div ul li span  ,"Frozen turkey tastes just as good as fresh and is easily available at any supermarket. Just remember to allow enough time for thawing, since the turkey must be completely thawed before brining. To thaw this size of whole turkey, place the turkey (in its original wrap) in a pan in the refrigerator for 2 to 3 days.",1,13
+html body form div section div div div div span h2 span  ,Nutrition Information,1,12
+html body form div section div div div div div h4 span  ,Nutrition Facts,1,12
+html body form div section div div div div div h5 strong span  ,Serving Size:,1,13
+html body form div section div div div div div h5 span  ,1 Serving,1,12
+html body form div section div div div div div dl dt span  ,Calories,1,13
+html body form div section div div div div div dl dd span  ,325,1,13
+html body form div section div div div div div dl dt span  ,Calories from Fat,1,13
+html body form div section div div div div div dl dd span  ,135,1,13
+html body form div section div div div div div h5 span  ,% Daily Value,0,12
+html body form div section div div div div div dl dt span  ,Total Fat,1,13
+html body form div section div div div div div dl dd span  ,15 g,1,13
+html body form div section div div div div div dl dl dt span  ,Saturated Fat,1,14
+html body form div section div div div div div dl dl dd span  ,5 g,1,14
+html body form div section div div div div div dl dt span  ,Cholesterol,1,13
+html body form div section div div div div div dl dd span  ,145 mg,1,13
+html body form div section div div div div div dl dt span  ,Sodium,1,13
+html body form div section div div div div div dl dd span  ,620 mg,1,13
+html body form div section div div div div div dl dt span  ,Potassium,1,13
+html body form div section div div div div div dl dd span  ,400 mg,1,13
+html body form div section div div div div div dl dt span  ,Total Carbohydrate,1,13
+html body form div section div div div div div dl dd span  ,0g,1,13
+html body form div section div div div div div dl dl dt span  ,Dietary Fiber,1,14
+html body form div section div div div div div dl dl dd span  ,0g,1,14
+html body form div section div div div div div dl dt span  ,Protein,1,13
+html body form div section div div div div div dl dd span  ,47 g,1,13
+html body form div section div div div div div h5 span  ,% Daily Value*:,1,12
+html body form div section div div div div div dl dt span  ,Vitamin A,1,13
+html body form div section div div div div div dl dd span  ,2%,1,13
+html body form div section div div div div div dl dd span  ,2%,1,13
+html body form div section div div div div div dl dt span  ,Vitamin C,1,13
+html body form div section div div div div div dl dd span  ,0%,1,13
+html body form div section div div div div div dl dd span  ,0%,1,13
+html body form div section div div div div div dl dt span  ,Calcium,1,13
+html body form div section div div div div div dl dd span  ,2%,1,13
+html body form div section div div div div div dl dd span  ,2%,1,13
+html body form div section div div div div div dl dt span  ,Iron,1,13
+html body form div section div div div div div dl dd span  ,12%,1,13
+html body form div section div div div div div dl dd span  ,12%,1,13
+html body form div section div div div div div div h5 span  ,Exchanges:,1,13
+html body form div section div div div div div div span  ,7 Lean Meat;,1,12
+html body form div section div div div div div em span  ,"*Percent Daily Values are based on a 2,000 calorie diet.",0,12
+html body form div section div div div div div h2 span  ,More About This Recipe,1,12
+html body form div section div div div div div ul li span  ,"This recipe is for those of you who could take or leave turkey. (No, it’s not blasphemy to be on the fence about this bird.) The enormous size of a turkey makes it a considerable challenge to cook correctly. To get the whole bird done, some parts, like the breast, end up getting cooked too long resulting in dry meat, which is precisely what so many people find off-putting about turkey. Luckily, there’s a way around this, and it’s called brining. Brining is a way to prepare your meat, so it turns out succulent and tender. It can be done two different ways with a wet brine, as this recipe calls for, or with a dry brine. When you wet brine a turkey, it means you immerse it in a salty liquid, a brine, for an extended period — in this case, 8 to 12 hours. The salty brine breaks down the tissue of the meat, which leads to better texture and flavor. So this Thanksgiving, roasting a brined turkey is the way to convert even the skeptics into turkey lovers! Just remember that if you start from frozen, you’ll need a few days to both thaw and brine your turkey. Refer to our handy",1,13
+html body form div section div div div div div ul li a span  ,poultry thawing chart,1,14
+html body form div section div div div div div ul li span  ,"to find out how much time your turkey will need to defrost. Then, get step-by-step instructions on",1,13
+html body form div section div div div div div ul li a span  ,how to brine a turkey,1,14
+html body form div section div div div div div ul li span  ,and,1,13
+html body form div section div div div div div ul li a span  ,how to cook a turkey,1,14
+html body form div section div div div div div ul li span  ,". And if you want to try another approach, we recommend our",1,13
+html body form div section div div div div div ul li a span  ,"Lemon, Garlic and Herb Dry-Brined Turkey recipe",1,14
+html body form div section div div div div div ul li span  ,", or skip the brining entirely, and explore a few more of our",1,13
+html body form div section div div div div div ul li a span  ,turkey recipes,1,14
+html body form div section div div div div div ul li span  ,.,1,13
+html body form div section div div div div p span  ,© 2018 ®/TM General Mills All Rights Reserved,0,11
+html body form div section div div div div div div span  ,Advertisement,0,12
+html body form div section div div div div div h3 span  ,We Also Love,0,12
+html body form div section div div div div div ul li div h4 a span  ,Herb Roasted Turkey,0,16
+html body form div section div div div div div ul li div h4 a span  ,Beer and Rosemary Roasted Turkey,0,16
+html body form div section div div div div div ul li div h4 a span  ,Thyme-Roasted Turkey Breast,0,16
+html body form div section div div div div div ul li div h4 a span  ,High-Heat Roast Turkey,0,16
+html body form div section div div div div div ul li div h4 a span  ,Herb-Scented Roast Turkey with Cornbread Stuffing,0,16
+html body form div section div div div div div ul li div h4 a span  ,Sage and Garlic Roast Turkey,0,16
+html body form div section div div div div div h3 span  ,Try These Next,0,12
+html body form div section div div div div div ul li div h4 a span  ,Best Brined Turkey Breast,0,16
+html body form div section div div div div div ul li div h4 a span  ,Oven-Roasted Turkey Breast,0,16
+html body form div section div div div div div ul li div h4 a span  ,Roast Turkey,0,16
+html body form div section div div div div div ul li div h4 a span  ,Roasted Turkey Sandwiches,0,16
+html body form div section div div div div div ul li div h4 a span  ,The Best Brined Turkey,0,16
+html body form div section div div div div div ul li div h4 a span  ,Glazed Roast Turkey with Cranberry Stuffing,0,16
+html body form div section div div div div div div div h3 span  ,Rate and Comment,0,14
+html body form div section div div div div div div div div div div span  ,Overall Rating:,0,16
+html body form div section div div div div div div div div div span  ,Post,0,15
+html body form div section div div div div div div span  ,Subscribe,0,12
+html body form div section div div div div div div div div div div div span  ,(anonymized),1,17
+html body form div section div div div div div div div div div div div span  ,697 days ago,1,17
+html body form div section div div div div div div div div div div div span  ,"I've been brining the turkey before roasting for several years. It's makes a world of difference! However, I cook my turkey on high heat (475 degrees), so I don't stuff anything in the cavity. I also put a put about 1/2 cup to 1 cup light brown sugar in the brining fluid. The turkey comes out with a crisp skin and juicy meat. As far as I'm concerned roasting on high heat beats slow roasting hands down.",0,17
+html body form div section div div div div div div div div div div div span a span  ,Comment,0,19
+html body form div section div div div div div div div div div div div span a span  ,Share,0,19
+html body form div section div div div div div div div div div div div span a span  ,1 Comment,0,19
+html body form div section div div div div div div div div div div div span a span  ,0,0,19
+html body form div section div div div div div div div div div div div span  ,(anonymized),1,17
+html body form div section div div div div div div div div div div div span  ,2124 days ago,1,17
+html body form div section div div div div div div div div div div div span  ,"Amazingly perfect! So glad that I tried this. I have never brined before, but I'll never NOT brine again! Thank you. Merry Christmas 2012!",0,17
+html body form div section div div div div div div div div div div div span a span  ,Comment,0,19
+html body form div section div div div div div div div div div div div span a span  ,Share,0,19
+html body form div section div div div div div div div div div div div span a span  ,1,0,19
+html body form div section div div div div div div div div div div div span  ,(anonymized),1,17
+html body form div section div div div div div div div div div div div span  ,2152 days ago,1,17
+html body form div section div div div div div div div div div div div span  ,"Absolutely wonderful! My hubby and I started brining chicken just this year, and we love it. When I saw this recipe while I was preparing my Thanksgiving menu, I knew we had to try it! This was amazing. Every one commented on how moist the turkey was. There were some skeptics, but I think they are believers now. This will be how I do my turkey's from now on.",0,17
+html body form div section div div div div div div div div div div div span a span  ,Comment,0,19
+html body form div section div div div div div div div div div div div span a span  ,Share,0,19
+html body form div section div div div div div div div div div div div span a span  ,1,0,19
+html body form div section div div div div div div div div div div div span  ,(anonymized),1,17
+html body form div section div div div div div div div div div div div span  ,2161 days ago,1,17
+html body form div section div div div div div div div div div div div span a span  ,Comment,0,19
+html body form div section div div div div div div div div div div div span a span  ,Share,0,19
+html body form div section div div div div div div div div div div div span a span  ,0,0,19
+html body form div section div div div div div div div div div div div span  ,(anonymized),1,17
+html body form div section div div div div div div div div div div div span  ,2171 days ago,1,17
+html body form div section div div div div div div div div div div div span  ,Why can't you stuff the bird if it is brined? I did brine a turkey a few years ago and did stuff it. This recipe says not to.,0,17
+html body form div section div div div div div div div div div div div span a span  ,Comment,0,19
+html body form div section div div div div div div div div div div div span a span  ,Share,0,19
+html body form div section div div div div div div div div div div div span a span  ,0,0,19
+html body form div section div div div div div div div div div div div span  ,(anonymized),1,17
+html body form div section div div div div div div div div div div div span  ,2493 days ago,1,17
+html body form div section div div div div div div div div div div div span  ,Cooked the best turkey so far on Thanksgiving day. The whole family loved it.,0,17
+html body form div section div div div div div div div div div div div span  ,Now I am going to do it again on Christmas day.,0,17
+html body form div section div div div div div div div div div div div span a span  ,Comment,0,19
+html body form div section div div div div div div div div div div div span a span  ,Share,0,19
+html body form div section div div div div div div div div div div div span a span  ,0,0,19
+html body form div section div div div div div div div div div div div span  ,(anonymized),1,17
+html body form div section div div div div div div div div div div div span  ,2653 days ago,1,17
+html body form div section div div div div div div div div div div div span a span  ,Comment,0,19
+html body form div section div div div div div div div div div div div span a span  ,Share,0,19
+html body form div section div div div div div div div div div div div span a span  ,0,0,19
+html body form div section div div div div div div div div div div div span  ,(anonymized),1,17
+html body form div section div div div div div div div div div div div span  ,2835 days ago,1,17
+html body form div section div div div div div div div div div div div span  ,Everyone at my Thanksgiving dinner was asking me how I cooked the turkey. They had never tasted anything so delicious. It was amazing how juicy this turkey was. It came out perfect and was a hit with everyone at the table! Will never cook a turkey any other way!,0,17
+html body form div section div div div div div div div div div div div span a span  ,Comment,0,19
+html body form div section div div div div div div div div div div div span a span  ,Share,0,19
+html body form div section div div div div div div div div div div div span a span  ,0,0,19
+html body form div section div div div div div div div div div div div span  ,(anonymized),1,17
+html body form div section div div div div div div div div div div div span  ,2883 days ago,1,17
+html body form div section div div div div div div div div div div div span  ,so i made the turkey and it was a success! everyone loved it. Thanks to this recipe every year will be a brined turkey!,0,17
+html body form div section div div div div div div div div div div div span a span  ,Comment,0,19
+html body form div section div div div div div div div div div div div span a span  ,Share,0,19
+html body form div section div div div div div div div div div div div span a span  ,1,0,19
+html body form div section div div div div div div div div div div div span  ,(anonymized),1,17
+html body form div section div div div div div div div div div div div span  ,2886 days ago,1,17
+html body form div section div div div div div div div div div div div span a span  ,Comment,0,19
+html body form div section div div div div div div div div div div div span a span  ,Share,0,19
+html body form div section div div div div div div div div div div div span a span  ,0,0,19
+html body form div section div div div div div div span  ,Show More Reviews,0,12
+html body form div section div div div div div span  ,What should we call you?,0,11
+html body form div section div div div div div span  ,"To protect your privacy, all posters are required to create a screen name. It will appear on anything you post, from reviews to comments to recipes.",0,11
+html body form div section div div div div div label span  ,Screen Name,0,12
+html body form div section div div div div div span  ,Screen Name Unavailable,0,11
+html body form div section div div div div div div div div section h3 span  ,Subscribe to Betty Crocker,0,16
+html body form div section div div div div div div div div section p span  ,"Get kitchen tested recipes, meal ideas and more – straight to your inbox",0,16
+html body form div section div div div div div div div div section div span  ,Email address is required.,0,16
+html body form div section div div div div div div div div section h3 span  ,Subscribe to Betty Crocker,0,16
+html body form div section div div div div div div div div section p span  ,"Get kitchen tested recipes, meal ideas and more – straight to your inbox",0,16
+html body form div section div div div div div div div div section div span  ,Email address is required.,0,16
+html body form div section div div div div div div span  ,Advertisement,0,12
+html body form div section div div div div div p span  ,Loading...,0,12
+html body form div section div div div div div div a span  ,Newest,0,13
+html body form div section div div div div div ul li label span  ,Answerbase,0,14
+html body form div section div div div div div ul li label span  ,Article,0,14
+html body form div section div div div div div ul li label span  ,CardCoupon,0,14
+html body form div section div div div div div ul li label span  ,Category,0,14
+html body form div section div div div div div ul li label span  ,Collection,0,14
+html body form div section div div div div div ul li label span  ,Guide,0,14
+html body form div section div div div div div ul li label span  ,Home,0,14
+html body form div section div div div div div ul li label span  ,CardCoupon,0,14
+html body form div section div div div div div ul li label span  ,Other,0,14
+html body form div section div div div div div ul li label span  ,PrintedCoupon,0,14
+html body form div section div div div div div ul li label span  ,Product,0,14
+html body form div section div div div div div ul li label span  ,Recipe,0,14
+html body form div section div div div div div ul li label span  ,Recipe,0,14
+html body form div section div div div div div ul li label span  ,Video,0,14
+html body form div section div div div div div h3 span  ,Most Recent Collections,0,12
+html body form div section div div div div div div div div span  ,The template,0,14
+html body form div section div div div div div div div div a span  ,NativeAds,0,15
+html body form div section div div div div div div div div span  ,could not be loaded. HTTP Status code: 0,0,14
+html body form div section div div div div div div ul li div h4 a span  ,62 Reasons We’re Never Without Brownie Mix,0,17
+html body form div section div div div div div div ul li div h4 a span  ,30 Treats to Rock the Bake Sale,0,17
+html body form div section div div div div div div ul li div h4 a span  ,17 Spooky Snacks,0,17
+html body form div section div div div div div div ul li div h4 a span  ,Ooey-Gooey Cheeseburger Dinners You’ll Want to Make Right Now,0,17
+html body form div section div div div div div div ul li div h4 a span  ,The Soups We’ll Never Stop Making,0,17
+html body form div section div div div div div div ul li div h4 a span  ,"75 Pies That’ll Make Everyone Say, “Oh My!”",0,17
+html body form div section div div div div a span  ,Show More Results,0,11
+html body form div div div div section h3 span  ,Subscribe to Betty Crocker,0,10
+html body form div div div div section p span  ,"Get kitchen tested recipes, meal ideas and more – straight to your inbox",0,10
+html body form div div div div section div span  ,Email address is required.,0,10
+html body form footer div section div div h3 span  ,Follow Betty Crocker,0,10
+html body form footer div section ul li a span  ,Ask Betty,0,10
+html body form footer div section ul li a span  ,Cookbooks,0,10
+html body form footer div section ul li a span  ,Get Betty App,0,10
+html body form footer div div div div div h3 span  ,More Inspiration,0,11
+html body form footer div div div div div ul li span a span  ,Pillsbury,0,14
+html body form footer div div div div div ul li span a span  ,Tablespoon,0,14
+html body form footer div div div div div ul li span a span  ,Box Tops for Education,0,14
+html body form footer div div div div div h3 span  ,General Mills Brands,0,11
+html body form footer div div div div div ul li a span  ,Bisquick,0,13
+html body form footer div div div div div ul li a span  ,Chex,0,13
+html body form footer div div div div div ul li a span  ,Muir Glen,0,13
+html body form footer div div div div div ul li a span  ,Progresso Soup,0,13
+html body form footer div div div div div ul li a span  ,Yoplait,0,13
+html body form footer div div div div div ul li a span  ,Cascadian Farm,0,13
+html body form footer div div div div div ul li a span  ,Fiber One,0,13
+html body form footer div div div div div ul li a span  ,Nature Valley,0,13
+html body form footer div div div div div ul li a span  ,Total,0,13
+html body form footer div div div div div ul li a span  ,Cheerios,0,13
+html body form footer div div div div div ul li a span  ,Honey Cheerios,0,13
+html body form footer div div div div div ul li a span  ,Old El Paso,0,13
+html body form footer div div div div div ul li a span  ,Wheaties,0,13
+html body form footer div div div div div ul li a span  ,Totino's,0,13
+html body form footer div div div div div h3 span  ,Corporate Sites,0,11
+html body form footer div div div div div ul li a span  ,General Mills (USA),0,13
+html body form footer div div div div div ul li a span  ,General Mills (Canada),0,13
+html body form footer div div div div div ul li a span  ,General Mills Foodservice,0,13
+html body form footer div div div div div ul li a span  ,General Mills Careers,0,13
+html body form footer div div div div div span  ,©2018 General Mills,0,10
+html body form footer div div div div div ul li a span  ,Contact Betty Crocker,0,13
+html body form footer div div div div div ul li a span  ,About Betty Crocker,0,13
+html body form footer div div div div div ul li a span  ,Privacy Policy,0,13
+html body form footer div div div div div ul li a span  ,Legal Terms,0,13
+html body form footer div div div div div ul li a span  ,Community Guidelines,0,13
+html body form footer div div div div div ul li a span  ,Advertise With Us,0,13
+html body form div div div div section h3 span  ,Subscribe to Betty Crocker,0,10
+html body form div div div div section p span  ,"Get kitchen tested recipes, meal ideas and more – straight to your inbox",0,10
+html body form div div div div section div span  ,Email address is required.,0,10
+html body form div div div div div span  ,By clicking “sign-up” I agree to Betty Crocker’s,0,9
+html body form div div div div div a span  ,Privacy Policy,0,10
+html body form div div div div div span  ,and,0,9
+html body form div div div div div a span  ,Terms of Use,0,10
+html body form div div div div div span  ,.,0,9
+html body form div div span  ,There are no social login steps defined in Sitecore for this flow!,0,6
+html body div div div div span  ,Savings for,0,7
+html body div div div div div div span  ,In-Store Deals,0,9
+html body div div div div div div div a span  ,Go to all In-Store Deals,0,11
+html body div div div div div span  ,Printable Coupons,0,8
+html body div div div div div div a span  ,Go to all Printable Coupons,0,10
+html body div div div div div span  ,Loyalty Offers,0,8
+html body div div div div div span  ,Currently using,0,8
+html body div div div div div span  ,.,0,8
+html body div div div div div a span  ,Change Store,0,9
+html body div div div div div div a span  ,Go to all Store Loyalty Coupons,0,10
+html body div div div div div div span  ,In-Store Deals,0,9
+html body div div div div div div div a span  ,Go to all In-Store Deals,0,11
+html body div div div div div span  ,Enter an Email Address,0,8
+html body div div div div div span  ,You can send your coupons to an email you specify below.,0,8
+html body div div div a span  ,No Thanks,0,7
+html body div div div div span  ,One More Step,0,7
+html body div div div div p span  ,Link your store loyalty account to add this coupon.,0,8
+html body div div div div a span  ,Link Your Account Now >>,0,8
+html body div div div div a span  ,No Thanks,0,8
+html body div div div div span  ,Install Coupon Printer,0,7
+html body div div div div span  ,You'll need to install the coupon printer to continue.,0,7
+html body div div div div a span  ,Install Printer Now >>,0,8
+html body div div div div a span  ,No Thanks,0,8
+html body div div div div span  ,Is this device connected to a printer?,0,7
+html body div div div div a span  ,Yes,0,8
+html body div div div div a span  ,No,0,8
+html body div div div div span  ,Change Store,0,7
+html body div div div div span  ,You will be redirected to the Loyalty Offers page to see offers for a different store.,0,7
+html body div div div div a span  ,Change Store Now >>,0,8
+html body div div div div a span  ,No Thanks,0,8
+html body div div div div span  ,Your coupons are printing... Please wait.,0,7
+html body div div div div span  ,"Sorry, it appears offers on this ingredient are no longer available.",0,7
+html body div div div div p span  ,"Sorry, there was an error adding the offer to your account.",0,8
+html body div div div div span  ,"Sorry, there was an error printing your coupon.",0,7
+html body div div div div span  ,"Sorry, there was an error emailing your coupon. Please make sure your email address includes an @ symbol and a period.",0,7
+html body div div div span  ,* Required,0,6
+html body div div h4 span  ,Send To:,0,6
+html body div div label span  ,* Email Address(es),0,6
+html body div div div span  ,Separate email addresses with commas,0,6
+html body div div h4 span  ,From:,0,6
+html body div div label span  ,* Your Email Address,0,6
+html body div div label span  ,Send a Copy to Myself,0,6
+html body div div div a span  ,Send,0,7
+html body div div div a span  ,Cancel,0,7
+html body div div div p span  ,"©2018 General Mills, Inc. All Rights Reserved. This information will only be used to send an email to your friend(s) and will not be saved. Please read our",0,7
+html body div div div p a span  ,Privacy Policy,0,8
+html body div div div p span  ,.,0,7

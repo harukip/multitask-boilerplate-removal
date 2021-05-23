@@ -1,0 +1,770 @@
+tag,content,label,depth
+html body div div div div span span a span  ,IMDb,0,10
+html body div div div div form div div select option span  ,All,0,12
+html body div div div div form div div select option span  ,Titles,0,12
+html body div div div div form div div select option span  ,TV Episodes,0,12
+html body div div div div form div div select option span  ,Names,0,12
+html body div div div div form div div select option span  ,Companies,0,12
+html body div div div div form div div select option span  ,Keywords,0,12
+html body div div div div form div div select option span  ,Advanced Search ??,0,12
+html body div div div div div ul li p a span  ,Movies,0,12
+html body div div div div div ul li p span  ,",",0,11
+html body div div div div div ul li p a span  ,TV,0,12
+html body div div div div div ul li p span  ,&,0,11
+html body div div div div div ul li p a span  ,Showtimes,0,12
+html body div div div div div ul li div div div p a strong span  ,American Beauty,0,16
+html body div div div div div ul li div div div p a span  ,(1999),0,15
+html body div div div div div ul li div div div p a span  ,#,0,15
+html body div div div div div ul li div div div p a strong span  ,66,0,16
+html body div div div div div ul li div div div p a span  ,on IMDb Top Rated Movies,0,15
+html body div div div div div ul li div div div p span  ,??,0,14
+html body div div div div div ul li div div h5 span  ,MOVIES,0,13
+html body div div div div div ul li div div ul li a span  ,In Theaters,0,15
+html body div div div div div ul li div div ul li a span  ,Showtimes & Tickets,0,15
+html body div div div div div ul li div div ul li a span  ,Latest Trailers,0,15
+html body div div div div div ul li div div ul li a span  ,Coming Soon,0,15
+html body div div div div div ul li div div ul li a span  ,Release Calendar,0,15
+html body div div div div div ul li div div ul li a span  ,Top Rated Movies,0,15
+html body div div div div div ul li div div ul li a span  ,Top Rated Indian Movies,0,15
+html body div div div div div ul li div div ul li a span  ,Most Popular Movies,0,15
+html body div div div div div ul li div div h5 span  ,CHARTS & TRENDS,0,13
+html body div div div div div ul li div div ul li a span  ,Box Office,0,15
+html body div div div div div ul li div div ul li a span  ,Oscar Winners,0,15
+html body div div div div div ul li div div ul li a span  ,Most Popular by Genre,0,15
+html body div div div div div ul li div div h5 span  ,TV & VIDEO,0,13
+html body div div div div div ul li div div ul li a span  ,IMDb TV,0,15
+html body div div div div div ul li div div ul li a span  ,Top Rated TV Shows,0,15
+html body div div div div div ul li div div ul li a span  ,Most Popular TV Shows,0,15
+html body div div div div div ul li div div ul li a span  ,DVD & Blu-Ray,0,15
+html body div div div div div ul li div div h5 span  ,SPECIAL FEATURES,0,13
+html body div div div div div ul li div div ul li a span  ,Amazon Originals,0,15
+html body div div div div div ul li div div ul li a span  ,Summer Movie Guide,0,15
+html body div div div div div ul li div div ul li a span  ,Horror Guide,0,15
+html body div div div div div ul li div div ul li a span  ,IMDb Picks,0,15
+html body div div div div div ul li div div ul li a span  ,Family,0,15
+html body div div div div div ul li div div ul li a span  ,Video Games,0,15
+html body div div div div div ul li div div ul li a span  ,Marvel,0,15
+html body div div div div div ul li p a span  ,Celebs,0,12
+html body div div div div div ul li p span  ,",",0,11
+html body div div div div div ul li p a span  ,Events,0,12
+html body div div div div div ul li p span  ,&,0,11
+html body div div div div div ul li p a span  ,Photos,0,12
+html body div div div div div ul li div div div p a strong span  ,Henry Cavill,0,16
+html body div div div div div ul li div div div p span  ,??,0,14
+html body div div div div div ul li div div div p span  ,#,0,14
+html body div div div div div ul li div div div p strong span  ,38,0,15
+html body div div div div div ul li div div div p span  ,on STARmeter,0,14
+html body div div div div div ul li div div h5 span  ,CELEBS,0,13
+html body div div div div div ul li div div ul li a span  ,Born Today,0,15
+html body div div div div div ul li div div ul li a span  ,Celebrity News,0,15
+html body div div div div div ul li div div ul li a span  ,Most Popular Celebs,0,15
+html body div div div div div ul li div div h5 span  ,PHOTOS,0,13
+html body div div div div div ul li div div ul li a span  ,Latest Stills,0,15
+html body div div div div div ul li div div ul li a span  ,Latest Posters,0,15
+html body div div div div div ul li div div ul li a span  ,Photos We Love,0,15
+html body div div div div div ul li div div h5 span  ,EVENTS,0,13
+html body div div div div div ul li div div ul li a span  ,Awards Central,0,15
+html body div div div div div ul li div div ul li a span  ,Festival Central,0,15
+html body div div div div div ul li div div ul li a span  ,Oscars,0,15
+html body div div div div div ul li div div ul li a span  ,Golden Globes,0,15
+html body div div div div div ul li div div ul li a span  ,Sundance,0,15
+html body div div div div div ul li div div ul li a span  ,Cannes,0,15
+html body div div div div div ul li div div ul li a span  ,Comic-Con,0,15
+html body div div div div div ul li div div ul li a span  ,Emmy Awards,0,15
+html body div div div div div ul li div div ul li a span  ,Venice Film Festival,0,15
+html body div div div div div ul li div div ul li a span  ,Toronto Film Festival,0,15
+html body div div div div div ul li div div ul li a span  ,Tribeca,0,15
+html body div div div div div ul li div div ul li a span  ,LA Film Festival,0,15
+html body div div div div div ul li div div ul li a span  ,All Events,0,15
+html body div div div div div ul li p a span  ,News,0,12
+html body div div div div div ul li p span  ,&,0,11
+html body div div div div div ul li p a span  ,Community,0,12
+html body div div div div div ul li div div div h5 span  ,LATEST HEADLINES,0,14
+html body div div div div div ul li div div div ul li a span  ,Mel Gibson To Co-Write & Direct 'Wild Bunch' Remake At Warner Bros.,0,16
+html body div div div div div ul li div div div ul li small span  ,14 hours ago,0,16
+html body div div div div div ul li div div div ul li small span  ,|,0,16
+html body div div div div div ul li div div div ul li small span  ,Deadline,0,16
+html body div div div div div ul li div div div ul li a span  ,"Bill Cosby To Get Less Than Three Years Behind Bars For 2004 Rape, Says Judge",0,16
+html body div div div div div ul li div div div ul li small span  ,14 hours ago,0,16
+html body div div div div div ul li div div div ul li small span  ,|,0,16
+html body div div div div div ul li div div div ul li small span  ,Deadline,0,16
+html body div div div div div ul li div div div ul li a span  ,'Birds of Prey' Movie Release Date Set for February 2020,0,16
+html body div div div div div ul li div div div ul li small span  ,14 hours ago,0,16
+html body div div div div div ul li div div div ul li small span  ,|,0,16
+html body div div div div div ul li div div div ul li small span  ,Slash Film,0,16
+html body div div div div div ul li div div h5 span  ,NEWS,0,13
+html body div div div div div ul li div div ul li a span  ,Top News,0,15
+html body div div div div div ul li div div ul li a span  ,Movie News,0,15
+html body div div div div div ul li div div ul li a span  ,TV News,0,15
+html body div div div div div ul li div div ul li a span  ,Celebrity News,0,15
+html body div div div div div ul li div div ul li a span  ,Indie News,0,15
+html body div div div div div ul li div div h5 span  ,COMMUNITY,0,13
+html body div div div div div ul li div div ul li a span  ,Contributor Zone,0,15
+html body div div div div div ul li div div ul li a span  ,Polls,0,15
+html body div div div div div ul li p a span  ,Watchlist,0,12
+html body div div div div div ul li div h5 span  ,YOUR WATCHLIST,0,12
+html body div div div div div ul li div a section div span  ,The leading information resource for the entertainment industry,0,14
+html body div div div div div ul li div a section p span  ,Find industry contacts & talent representation,0,14
+html body div div div div div ul li div a section p span  ,"Manage your photos, credits, & more",0,14
+html body div div div div div ul li div a section p span  ,Showcase yourself on IMDb & Amazon,0,14
+html body div div div div div ul li div a section span  ,Go to IMDbPro,0,13
+html body div div div div div ul li span  ,|,0,10
+html body div div div div div ul li a span  ,Help,0,11
+html body div div div div div ul li p a span  ,Sign in with Facebook,0,12
+html body div div div div div ul li p a span  ,Other Sign in options,0,12
+html body div div div div div div span a span  ,Edit,0,11
+html body div div div div div div div div h3 a span  ,Magnum P.I.,1,13
+html body div div div div div div div div h3 span  ,(2018??? ),1,12
+html body div div div div div div div h1 span  ,Full Cast & Crew,1,11
+html body div div div div div div div h4 span  ,Series Directed by,1,11
+html body div div div div div div div table tbody tr td a span  ,Justin Lin,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"(1 episode, 2018)",1,14
+html body div div div div div div div h4 span  ,Series Writing Credits,1,11
+html body div div div div div div div table tbody tr td a span  ,Donald P. Bellisario,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"(4 episodes, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Eric Guggenheim,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"(developed by) (4 episodes, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Glen A. Larson,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"(4 episodes, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Peter M. Lenkov,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"(developed by) (4 episodes, 2018)",1,14
+html body div div div div div div div h4 span  ,Series Cast,1,11
+html body div div div div div div div table tbody tr td a span  ,Jay Hernandez,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td a span  ,Thomas Magnum,1,15
+html body div div div div div div div table tbody tr td a span  ,"4 episodes, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Perdita Weeks,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td a span  ,Juliett Higgins,1,15
+html body div div div div div div div table tbody tr td a span  ,"4 episodes, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Stephen Hill,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td a span  ,Theodore 'TC' Calvin,1,15
+html body div div div div div div div table tbody tr td a span  ,"4 episodes, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Zachary Knighton,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td a span  ,Orville 'Rick' Wright,1,15
+html body div div div div div div div table tbody tr td a span  ,"4 episodes, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Sung Kang,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Detective Gordon Katsumoto,1,14
+html body div div div div div div div table tbody tr td a span  ,"4 episodes, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Kimee Balmilero,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td a span  ,Dr. Noelani Cunha,1,15
+html body div div div div div div div table tbody tr td a span  ,"1 episode, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Michael Benyaer,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Samal Talib,1,14
+html body div div div div div div div table tbody tr td a span  ,"1 episode, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Romualdo Castillo,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Christophe Midi,1,14
+html body div div div div div div div table tbody tr td a span  ,"1 episode, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Jack Cutmore-Scott,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Neil Crawford,1,14
+html body div div div div div div div table tbody tr td a span  ,"1 episode, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Faith Fay,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Monica,1,14
+html body div div div div div div div table tbody tr td a span  ,"1 episode, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Brett Hicks,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Football Fan,1,14
+html body div div div div div div div table tbody tr td a span  ,"1 episode, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Raynesa Jonas,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Museum Patron / ...,1,14
+html body div div div div div div div table tbody tr td a span  ,"1 episode, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Catherine Haena Kim,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Emily Layton / ...,1,14
+html body div div div div div div div table tbody tr td a span  ,"1 episode, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Megan Liu,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Harper Layton,1,14
+html body div div div div div div div table tbody tr td a span  ,"1 episode, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Domenick Lombardozzi,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Sebastian Nuzo,1,14
+html body div div div div div div div table tbody tr td a span  ,"1 episode, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Hal Ozsan,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Jack Candler,1,14
+html body div div div div div div div table tbody tr td a span  ,"1 episode, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Freda Foh Shen,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Kitty Layton,1,14
+html body div div div div div div div table tbody tr td a span  ,"1 episode, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Peter Shinkoda,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Tua,1,14
+html body div div div div div div div table tbody tr td a span  ,"1 episode, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Omid Zader,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Kidnapper #2,1,14
+html body div div div div div div div table tbody tr td a span  ,"1 episode, 2018",1,15
+html body div div div div div div div table tbody tr td a span  ,Tiffany Hines,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td a span  ,Lara Nuzo,1,15
+html body div div div div div div div table tbody tr td a span  ,unknown episodes,1,15
+html body div div div div div div div table tbody tr td a span  ,Antal Kalik,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Gerrard,1,14
+html body div div div div div div div table tbody tr td a span  ,unknown episodes,1,15
+html body div div div div div div div table tbody tr td a span  ,Nadine Nicole,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Emily,1,14
+html body div div div div div div div table tbody tr td a span  ,unknown episodes,1,15
+html body div div div div div div div table tbody tr td a span  ,Minnie Quan,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Defector's Wife,1,14
+html body div div div div div div div table tbody tr td a span  ,unknown episodes,1,15
+html body div div div div div div div table tbody tr td a span  ,M. Jenna Rose,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Tourist,1,14
+html body div div div div div div div table tbody tr td a span  ,unknown episodes,1,15
+html body div div div div div div div table tbody tr td a span  ,Andrea Elizabeth Sikkink,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Tourist,1,14
+html body div div div div div div div table tbody tr td a span  ,unknown episodes,1,15
+html body div div div div div div div table tbody tr td a span  ,Donta Tanner,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Chief Warrant Officer,1,14
+html body div div div div div div div table tbody tr td a span  ,unknown episodes,1,15
+html body div div div div div div div table tbody tr td a span  ,Nico Woulard,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Resnick,1,14
+html body div div div div div div div table tbody tr td a span  ,unknown episodes,1,15
+html body div div div div div div div h4 span  ,Series Produced by,1,11
+html body div div div div div div div table tbody tr td a span  ,John Davis,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,executive producer (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,John Fox,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,executive producer (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Eric Guggenheim,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,executive producer (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Peter M. Lenkov,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,executive producer (unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Music by,1,11
+html body div div div div div div div table tbody tr td a span  ,Keith Power,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"(1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Brian Tyler,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"(1 episode, 2018)",1,14
+html body div div div div div div div h4 span  ,Series Cinematography by,1,11
+html body div div div div div div div table tbody tr td a span  ,Stephen F. Windon,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,(unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Film Editing by,1,11
+html body div div div div div div div table tbody tr td a span  ,Leigh Folsom Boyd,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,(unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Dylan Highsmith,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,(unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Casting By,1,11
+html body div div div div div div div table tbody tr td a span  ,Jennifer Cooper,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,(unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Production Design by,1,11
+html body div div div div div div div table tbody tr td a span  ,Keith Neely,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,(unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Art Direction by,1,11
+html body div div div div div div div table tbody tr td a span  ,Gina B. Cranham,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,(unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Set Decoration by,1,11
+html body div div div div div div div table tbody tr td a span  ,Jennifer M. Gentile,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"(1 episode, 2018)",1,14
+html body div div div div div div div h4 span  ,Series Costume Design by,1,11
+html body div div div div div div div table tbody tr td a span  ,Kelli Jones,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,(unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Makeup Department,1,11
+html body div div div div div div div table tbody tr td a span  ,Ralph Malani,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"hair stylist (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Joel Harlow,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,makeup department head (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Ken Niederbaumer,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,key makeup artist (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Karen Iboshi Preiser,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,makeup artist (unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Production Management,1,11
+html body div div div div div div div table tbody tr td a span  ,Michael Neumann,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,unit production manager (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Cris Olariu,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,post-production supervisor (unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Second Unit Director or Assistant Director,1,11
+html body div div div div div div div table tbody tr td a span  ,Wainani Young-Tomich,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"first assistant director (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Martin Dorsch,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,second second assistant director (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Alexander Vegh,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,second unit director (unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Art Department,1,11
+html body div div div div div div div table tbody tr td a span  ,Owen Nobuji,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"art department production assistant (4 episodes, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Julie DeRose,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"set dresser (3 episodes, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Michael A. Casey,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"property master (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Luisa Mataele Tupea,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"set dec coordinator (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Guy Belegaud,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,mill foreman (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Alexandra Hearn,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,art department coordinator (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Derrick Kaupiko,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,set dresser (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Ron Mason,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,set designer (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Steven B. Melton,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,property master (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Andres Montiel,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,art department pa (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Nicholas Overbeck,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,lead welder (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Chris Patterson,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,assistant property master (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Mike Reiber,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,paint foreman (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Kevin Wenger,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,construction coordinator (unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Sound Department,1,11
+html body div div div div div div div table tbody tr td a span  ,Lauren E. Price,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"dialogue editor (2 episodes, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Shaun Burdick,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"foley editor (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Michael S. Head,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"foley mixer (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Davalos Juan,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"foley cuer (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Jordan McClain,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,foley editor (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Chris Navarro,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,adr mixer (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Sean Rush,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,sound mixer (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Matt Salib,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,foley artist (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Geordy Sincavage,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,foley mixer (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Ronald L. Wright,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,boom operator (unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Visual Effects by,1,11
+html body div div div div div div div table tbody tr td a span  ,Vincent Blin,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"flame artist (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Matthew Bramante,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"Compositing supervisor (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Alejandro Davalos,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"digital compositor: Zoic Studios (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,David Dewaik,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"digital compositor (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Brian P. Harris,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"digital compositor (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Corey Just,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"compositor (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Brian Magarian,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"visual effects artist (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,John Allardice,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,visual effects supervisor (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Tom Farinella,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,digital compositor (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Jim Hawkins,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,digital matte painter: concept artist: Zoic Studios (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Blythe Dalton Klippsten,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,visual effects executive producer (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Alexander Vegh,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,previsualization supervisor (unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Stunts,1,11
+html body div div div div div div div table tbody tr td a span  ,V??ctor Quintero,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"stunt driver / utility stunts (2 episodes, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Helena Barrett,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Stunt Double: Perdita Weeks (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Kwang Bin,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,double (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Holland Diaz,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,fight coordinator / stunt double: magnum (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Darin Fujimori,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,stunts (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Antal Kalik,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,stunt performer (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Paul Lacovara,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,stunt coordinator (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Eric Norris,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,stunt coordinator (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Gary Price,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,stunt performer (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Nico Woulard,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,stunts (unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Camera and Electrical Department,1,11
+html body div div div div div div div table tbody tr td a span  ,Patrick H. McGinness,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"A Dolly grip (4 episodes, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Isaac McCord,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"electrician (2 episodes, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Casey Alicino,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"grip (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Karen Neal,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"still photographer (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Raimar van den Bylaardt II,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"dimmer board operator (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Michael Ambrose,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,gaffer (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Eric Blackburn,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,steadicam op (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Chris Cavanaugh,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,digital imaging technician (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Danny Cochran,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,grip rigger (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Paul Ehman,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,lighting technician (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Henry Fordham,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,grip (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Richard Brian Galyean,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,assistant camera (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Jerry Patton,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,camera: first unit (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Morten Petersen,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Best Boy Electric (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Morty Petersen,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,Best Boy Electric (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Michelle Pizanis,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,second assistant camera (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Derek Smith,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"first assistant camera: ""a"" camera (unknown episodes)",1,14
+html body div div div div div div div table tbody tr td a span  ,Les T. Tomita,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,key grip (unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Animation Department,1,11
+html body div div div div div div div table tbody tr td a span  ,Delano Athias,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,animator (unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Casting Department,1,11
+html body div div div div div div div table tbody tr td a span  ,Brent Anbe,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,casting associate (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Elizabeth Vitale,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,casting assistant: pilot (unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Costume and Wardrobe Department,1,11
+html body div div div div div div div table tbody tr td a span  ,Kaceylin Prinea-Chargualaf,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"costume assistant (1 episode, 2018)",1,14
+html body div div div div div div div h4 span  ,Series Editorial Department,1,11
+html body div div div div div div div table tbody tr td a span  ,Maria Friesen,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,assistant editor (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Andre Rivas,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,colorist (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Anna Sweeney,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,assistant editor (unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Location Management,1,11
+html body div div div div div div div table tbody tr td a span  ,Joe Stargensky,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"location manager (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Scott W. Kekama Amona,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,assistant location manager (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Timmy Chinn,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,supervising location manager (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Julie Hannum,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,location manager (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Justin Harrold,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,location manager (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Lelaine Lau,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,assistant location manager (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Alex Sundquist,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,assistant location manager (unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Music Department,1,11
+html body div div div div div div div table tbody tr td a span  ,Mike Post,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"composer: original 1980 series theme (4 episodes, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Brian Tyler,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"arranger: series theme (4 episodes, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Peter Rotter,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"music contractor (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Kenny Wood,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"music arrangements (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Robb Boyd,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,music editor (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Josh Zimmerman,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,score coordinator (unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Transportation Department,1,11
+html body div div div div div div div table tbody tr td a span  ,Mario Carrillo,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,picture vehicles mechanic (unknown episodes),1,14
+html body div div div div div div div h4 span  ,Series Other crew,1,11
+html body div div div div div div div table tbody tr td a span  ,Antonio R. M??ndez,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"office production assistant / production assistant (3 episodes, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Corey Knef,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,"production assistant (1 episode, 2018)",1,14
+html body div div div div div div div table tbody tr td a span  ,Andrea Amato,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,first assistant accountant (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Sue Chipperton,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,dog trainer (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Jonathan Coffin,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,stand-in (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Zack Dougan,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,production assistant (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Serena Rios Flores,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,production coordinator (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Daniel Keating,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,production assistant (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Jamie Ku,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,legal clearance coordinator (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Marina Rubin,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,accounting clerk (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Rhianna Shaheen,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,production assistant (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Chadwick Shimomura,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,office production assistant (unknown episodes),1,14
+html body div div div div div div div table tbody tr td a span  ,Ken Strang,1,15
+html body div div div div div div div table tbody tr td span  ,...,1,14
+html body div div div div div div div table tbody tr td span  ,second assistant accountant (unknown episodes),1,14
+html body div div div div div div h2 span  ,See also,0,10
+html body div div div div div div p span a span  ,Release Dates,0,12
+html body div div div div div div p span span  ,|,0,11
+html body div div div div div div p span a span  ,Official Sites,0,12
+html body div div div div div div p span span  ,|,0,11
+html body div div div div div div p span a span  ,Company Credits,0,12
+html body div div div div div div p span span  ,|,0,11
+html body div div div div div div p span a span  ,Filming & Production,0,12
+html body div div div div div div p span span  ,|,0,11
+html body div div div div div div p span a span  ,Technical Specs,0,12
+html body div div div div div div div a span  ,Getting Started,0,11
+html body div div div div div div div span  ,|,0,10
+html body div div div div div div div a span  ,Contributor Zone,0,11
+html body div div div div div div div span  ,??,0,10
+html body div div div div div div h2 span  ,Contribute to This Page,0,10
+html body div div div div div div a span  ,ad feedback,0,10
+html body div div div div div div a span  ,Magnum P.I.,0,10
+html body div div div div div div span  ,(TV Series),0,9
+html body div div div div div div h4 span  ,Details,0,10
+html body div div div div div div ul li a span  ,Full Cast and Crew,0,12
+html body div div div div div div ul li a span  ,Release Dates,0,12
+html body div div div div div div ul li a span  ,Official Sites,0,12
+html body div div div div div div ul li a span  ,Company Credits,0,12
+html body div div div div div div ul li a span  ,Filming & Production,0,12
+html body div div div div div div ul li a span  ,Technical Specs,0,12
+html body div div div div div div div h4 span  ,Storyline,0,11
+html body div div div div div div div ul li a span  ,Taglines,0,13
+html body div div div div div div div ul li a span  ,Plot Summary,0,13
+html body div div div div div div div ul li a span  ,Synopsis,0,13
+html body div div div div div div div ul li a span  ,Plot Keywords,0,13
+html body div div div div div div div ul li a span  ,Parents Guide,0,13
+html body div div div div div div div h4 span  ,Did You Know?,0,11
+html body div div div div div div div ul li a span  ,Trivia,0,13
+html body div div div div div div div ul li a span  ,Goofs,0,13
+html body div div div div div div div ul li a span  ,Crazy Credits,0,13
+html body div div div div div div div ul li a span  ,Quotes,0,13
+html body div div div div div div div ul li a span  ,Alternate Versions,0,13
+html body div div div div div div div ul li a span  ,Connections,0,13
+html body div div div div div div div ul li a span  ,Soundtracks,0,13
+html body div div div div div div div h4 span  ,Photo & Video,0,11
+html body div div div div div div div ul li a span  ,Photo Gallery,0,13
+html body div div div div div div div ul li a span  ,Trailers and Videos,0,13
+html body div div div div div div div h4 span  ,Opinion,0,11
+html body div div div div div div div ul li a span  ,Awards,0,13
+html body div div div div div div div ul li a span  ,FAQ,0,13
+html body div div div div div div div ul li a span  ,User Reviews,0,13
+html body div div div div div div div ul li a span  ,User Ratings,0,13
+html body div div div div div div div ul li a span  ,External Reviews,0,13
+html body div div div div div div div ul li a span  ,Metacritic Reviews,0,13
+html body div div div div div div div h4 span  ,TV,0,11
+html body div div div div div div div ul li a span  ,Episode List,0,13
+html body div div div div div div div ul li a span  ,TV Schedule,0,13
+html body div div div div div div div h4 span  ,Related Items,0,11
+html body div div div div div div div ul li a span  ,News,0,13
+html body div div div div div div div ul li a span  ,External Sites,0,13
+html body div div div div div div div span  ,Explore More,0,10
+html body div div div div div div div span  ,Show Less,0,10
+html body div div div div div div div div span strong span  ,Share,0,13
+html body div div div div div div div div span  ,this page:,0,11
+html body div div div div div div div div a span  ,Create a list,0,12
+html body div div div div div div div div span  ,??,0,11
+html body div div div div div div div h3 span  ,User Lists,0,11
+html body div div div div div div div p span  ,Related lists from IMDb users,0,11
+html body div div div div div div div div div strong a span  ,Tuesday,0,14
+html body div div div div div div div div div span  ,a list of 25 titles,0,12
+html body div div div div div div div div div span  ,created 01 Sep 2017,0,12
+html body div div div div div div div div div strong a span  ,2018 SHOWS,0,14
+html body div div div div div div div div div span  ,a list of 38 titles,0,12
+html body div div div div div div div div div span  ,created 6 days ago,0,12
+html body div div div div div div div div div strong a span  ,Running sept,0,14
+html body div div div div div div div div div span  ,a list of 23 titles,0,12
+html body div div div div div div div div div span  ,created 30 Apr 2017,0,12
+html body div div div div div div div div div strong a span  ,To download,0,14
+html body div div div div div div div div div span  ,a list of 28 titles,0,12
+html body div div div div div div div div div span  ,created 4 months ago,0,12
+html body div div div div div div div div div strong a span  ,NOG ZIEN - 2018,0,14
+html body div div div div div div div div div span  ,a list of 25 titles,0,12
+html body div div div div div div div div div span  ,created 8 months ago,0,12
+html body div div div div div div div div a span  ,See all related lists,0,12
+html body div div div div div div div div span  ,??,0,11
+html body div div div div div div h3 span  ,IMDb Everywhere,0,10
+html body div div div div div div p span  ,"Find showtimes, watch trailers, browse photos, track your Watchlist and rate your favorite movies and TV shows on your phone or tablet!",0,10
+html body div div div div div div a span  ,IMDb Mobile site,0,10
+html body div div div div div div div h3 span  ,Follow IMDb on,0,11
+html body div div div div div div div div ul li a span  ,Home,0,14
+html body div div div div div div div div ul li a span  ,Top Rated Movies,0,14
+html body div div div div div div div div ul li a span  ,Box Office,0,14
+html body div div div div div div div div ul li a span  ,TV,0,14
+html body div div div div div div div div ul li a span  ,Coming Soon,0,14
+html body div div div div div div div div ul li a span  ,Site Index,0,14
+html body div div div div div div div div ul li a span  ,Search,0,14
+html body div div div div div div div div ul li a span  ,In Theaters,0,14
+html body div div div div div div div div ul li a span  ,Contact Us,0,14
+html body div div div div div div div div ul li a span  ,Register,0,14
+html body div div div div div div div div ul li a span  ,News,0,14
+html body div div div div div div div div ul li a span  ,Press Room,0,14
+html body div div div div div div div div ul li a span  ,Advertising,0,14
+html body div div div div div div div div ul li a span  ,Jobs,0,14
+html body div div div div div div div div ul li a span  ,IMDbPro,0,14
+html body div div div div div div div div ul li a span  ,Box Office Mojo,0,14
+html body div div div div div div div div ul li a span  ,Withoutabox,0,14
+html body div div div div div div div div ul li a span  ,Conditions of Use,0,14
+html body div div div div div div div div ul li a span  ,Privacy Policy,0,14
+html body div div div div div div div div ul li a span  ,Interest-Based Ads,0,14
+html body div div div div div a span  ,Copyright ??,0,9
+html body div div div div div span  ,1990-2018,0,8
+html body div div div div div a span  ,"IMDb.com, Inc.",0,9
+html body div div div table tbody tr td span  ,Amazon Affiliates,0,10
+html body div div div table tbody tr td div a span  ,Amazon Video,0,12
+html body div div div table tbody tr td div a span  ,Watch Movies &,0,12
+html body div div div table tbody tr td div a span  ,TV Online,0,12
+html body div div div table tbody tr td div a span  ,Prime Video,0,12
+html body div div div table tbody tr td div a span  ,Unlimited Streaming,0,12
+html body div div div table tbody tr td div a span  ,of Movies & TV,0,12
+html body div div div table tbody tr td div a span  ,Amazon Germany,0,12
+html body div div div table tbody tr td div a span  ,Buy Movies on,0,12
+html body div div div table tbody tr td div a span  ,DVD & Blu-ray,0,12
+html body div div div table tbody tr td div a span  ,Amazon Italy,0,12
+html body div div div table tbody tr td div a span  ,Buy Movies on,0,12
+html body div div div table tbody tr td div a span  ,DVD & Blu-ray,0,12
+html body div div div table tbody tr td div a span  ,Amazon France,0,12
+html body div div div table tbody tr td div a span  ,Buy Movies on,0,12
+html body div div div table tbody tr td div a span  ,DVD & Blu-ray,0,12
+html body div div div table tbody tr td div a span  ,Amazon India,0,12
+html body div div div table tbody tr td div a span  ,Buy Movie and,0,12
+html body div div div table tbody tr td div a span  ,TV Show DVDs,0,12
+html body div div div table tbody tr td div a span  ,DPReview,0,12
+html body div div div table tbody tr td div a span  ,Digital,0,12
+html body div div div table tbody tr td div a span  ,Photography,0,12
+html body div div div table tbody tr td div a span  ,Audible,0,12
+html body div div div table tbody tr td div a span  ,Download,0,12
+html body div div div table tbody tr td div a span  ,Audio Books,0,12
+html body div div div div div div div span div div div div div div a span  ,Facebook,0,18
+html body div div div div div div div span div div div div div div a span  ,Twitter,0,18
+html body div div div div div div div span div div div div div div a span  ,Email,0,18
+html body div div div div div div div span div div div div div div a div span  ,Copy,0,19
+html body div div div div div div div span div div div div div div a div span  ,Embed,0,19
+html body div div div div div div div div div span  ,Related Videos,0,12

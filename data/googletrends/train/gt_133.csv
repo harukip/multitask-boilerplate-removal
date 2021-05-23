@@ -1,0 +1,87 @@
+tag,content,label,depth
+html body header div a b span  ,Starbucks,0,7
+html body header div a span  ,Newsroom,0,6
+html body header div nav ul li a span  ,Home,0,9
+html body header div nav ul li a span  ,News,0,9
+html body header div nav ul li a span  ,Press Releases,0,9
+html body header div nav ul li a span  ,Fact Sheets,0,9
+html body header div nav ul li a span  ,Views,0,9
+html body header div nav ul li a span  ,Multimedia,0,9
+html body header div nav ul li a span  ,Contact,0,9
+html body article div div div div span span  ,"January 5, 2017",1,9
+html body article div div div div span b a span  ,Coffee & Company,1,11
+html body article div div div div h1 span  ,"Introducing Starbucks First New Beverage of 2017, the Cascara Latte",1,9
+html body article div div div div div h4 span  ,Share,0,10
+html body article div div div div div ul li a span  ,Facebook,0,12
+html body article div div div div div ul li a span  ,Twitter,0,12
+html body article div div div div div ul li a span  ,Pinterest,0,12
+html body article div div div div div ul li a span  ,LinkedIn,0,12
+html body article div div div div div ul li a span  ,Instagram,0,12
+html body article div div p span  ,"When you think of coffee, its roasted form is usually the first image that springs to mind. But coffee begins its life inside a coffee cherry, two pale light green beans surrounded by a round, ripe, red fruit.",1,7
+html body article div div p span  ,"This winter, Starbucks is introducing the",1,7
+html body article div div p strong span  ,Cascara Latte,1,8
+html body article div div p span  ,with flavors from the fruit of the coffee cherry. Inspired by the,1,7
+html body article div div p a span  ,"Starbucks Reserve® Roastery in Seattle,",1,8
+html body article div div p span  ,"Starbucks first new beverage of 2017 will be available in stores in the U.S. starting January 10 and through the winter while supplies last. Starbucks Rewards™ members can get a first taste of the beverage beginning Friday, January 6. Starbucks customers will also be able to order returning favorite the",1,7
+html body article div div p a span  ,Starbucks® Smoked Butterscotch Latte,1,8
+html body article div div p span  ,", also inspired by the Roastery, beginning Friday, January 6.",1,7
+html body article div div p span  ,"“Cascara is Spanish for ‘husk,’ and we are taking the fruit of the coffee cherry to give our latte a subtle, lightly sweet flavor,” said Erin Marinan from Starbucks Beverage Research and Development team.",1,7
+html body article div div p span  ,"Starbucks® Cascara Latte combines espresso with steamed milk and cascara syrup, topped with velvety foam. A sprinkle of cascara topping, made with cascara extract and cane sugar, finishes the beverage in a signature straight line, which mirrors the inside of a coffee cherry.",1,7
+html body article div div p span  ,"“Cascara Latte has a nice dark brown sugar and maple flavor that is subtly sweet,” Marinan said. “As you look at the beverage from the top, it looks like a coffee bean,” she said. “It’s full circle.”",1,7
+html body article div div p span  ,"Baristas from the Starbucks Reserve® Roastery in Seattle first paired cascara with coffee at its Barista Innovation Challenge in September, and featured the winning cascara beverage on its menu in the fall.",1,7
+html body article div div h3 span  ,Anatomy of a Coffee Cherry,1,7
+html body article div div p span  ,"Once every year, coffee trees yield coffee cherries. The process begins with the bloom of white jasmine-scented flowers. When the flowers fall from the trees, a small cherry cluster forms and ripens to a red, ripe fruit. The process, from flower to harvest, takes about nine months.",1,7
+html body article div div p strong span  ,Cascara (Outer Skin and Pulp),1,8
+html body article div div p span  ,": The outer skin is thick and slightly bitter in flavor, while the pulp (fruit) directly beneath is sweet and has the texture of a grape.",1,7
+html body article div div p strong span  ,Mucilage,1,8
+html body article div div p span  ,": This layer is slippery and thin, and covers the parchment.",1,7
+html body article div div p strong span  ,Parchment,1,8
+html body article div div p span  ,: The protective layer of the coffee bean and silver skin.,1,7
+html body article div div p strong span  ,Silver Skin,1,8
+html body article div div p span  ,: The coffee beans are coated in a very thin layer called silver skin.,1,7
+html body article div div p strong span  ,Green Bean,1,8
+html body article div div p span  ,: Nestled in the center of the coffee cherry are two green coffee beans.,1,7
+html body article div div h3 span  ,Smoked Butterscotch Latte,1,7
+html body article div div p span  ,"Smoked Butterscotch Latte is also returning to stores this winter. The beverage, which was",1,7
+html body article div div p a span  ,first introduced in stores,1,8
+html body article div div p span  ,"in 2016, combines espresso with steamed milk and smoked butterscotch sauce, finished with a sprinkling of smoky butterscotch topping.",1,7
+html body article div div p span  ,The smoky flavor balances the subtle sweetness of the butterscotch. It acts as a savory ingredient that enhances the coffee.,1,7
+html body article div div p span  ,"For more information on this story, contact",1,7
+html body article div div p a span  ,the Starbucks Newsroom,1,8
+html body article div aside div h3 span  ,Related News,0,8
+html body article div aside div ul li a span  ,"January 5, 2017",0,10
+html body article div aside div ul li a p span  ,Starbucks Breakfast Menu to Feature Sous Vide Egg Bites,0,11
+html body article div aside div ul li a span  ,"December 26, 2016",0,10
+html body article div aside div ul li a p span  ,Starbucks Top 10 Consumer Products and Trends of the Year,0,11
+html body article div aside div ul li a span  ,"December 7, 2016",0,10
+html body article div aside div ul li a p span  ,10 Big Announcements from Starbucks 2016 Investor Day,0,11
+html body article div aside div a span  ,More related news >,0,8
+html body footer div nav div h3 span  ,Company,0,8
+html body footer div nav div ul li a span  ,Starbucks.com,0,10
+html body footer div nav div ul li a span  ,Investor Relations,0,10
+html body footer div nav div ul li a span  ,Fact Sheets,0,10
+html body footer div nav div ul li a span  ,2017 Social Impact Report,0,10
+html body footer div nav div h3 span  ,Newsroom Microsites,0,8
+html body footer div nav div ul li a span  ,Veterans,0,10
+html body footer div nav div ul li a span  ,Community,0,10
+html body footer div nav div ul li a span  ,Global Responsibility,0,10
+html body footer div nav div ul li a span  ,College Achievement Plan,0,10
+html body footer div nav div h3 span  ,Media,0,8
+html body footer div nav div ul li a span  ,Email Alerts,0,10
+html body footer div nav div ul li a span  ,Media Contacts,0,10
+html body footer div nav div ul li a span  ,Photos and Videos,0,10
+html body footer div nav div ul li a span  ,Contact the Newsroom,0,10
+html body footer div nav div h3 span  ,Social Media,0,8
+html body footer div nav div ul li a span  ,Twitter,0,10
+html body footer div nav div ul li a span  ,Instagram,0,10
+html body footer div nav div ul li a span  ,LinkedIn,0,10
+html body footer div nav div ul li a span  ,Facebook,0,10
+html body footer div nav div h3 span  ,Brands,0,8
+html body footer div nav div ul li a span  ,Evolution Fresh,0,10
+html body footer div nav div ul li a span  ,Teavana,0,10
+html body footer div nav div ul li a span  ,Tazo Tea,0,10
+html body footer div nav div ul li a span  ,Seattle's Best,0,10
+html body footer div small span  ,©2018 Starbucks Corporation. All rights reserved.,0,6
+html body footer div small a span  ,Privacy Policy,0,7
+html body footer div small a span  ,Terms of Use,0,7
+html body footer div small a span  ,Contact Us,0,7

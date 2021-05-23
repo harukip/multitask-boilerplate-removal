@@ -1,0 +1,443 @@
+tag,content,label,depth
+html body header div h1 a span  ,Consequence of Sound,0,7
+html body header div a span  ,Menu,0,6
+html body header div div div a span  ,Skip to content,0,8
+html body header div div nav ul li a span  ,News,0,10
+html body header div div nav ul li ul li a span  ,Tour Dates,0,12
+html body header div div nav ul li ul li a span  ,Festival News and Rumors,0,12
+html body header div div nav ul li ul li a span  ,Late Night Performances,0,12
+html body header div div nav ul li ul li a span  ,Trending Artists,0,12
+html body header div div nav ul li ul li a span  ,Genres,0,12
+html body header div div nav ul li ul li ul li a span  ,Rock Music,0,14
+html body header div div nav ul li ul li ul li a span  ,Alternative Rock,0,14
+html body header div div nav ul li ul li ul li a span  ,Classic Rock,0,14
+html body header div div nav ul li ul li ul li a span  ,Indie,0,14
+html body header div div nav ul li ul li ul li a span  ,Rap/Hip-hop,0,14
+html body header div div nav ul li ul li ul li a span  ,Pop Music,0,14
+html body header div div nav ul li ul li ul li a span  ,EDM,0,14
+html body header div div nav ul li a span  ,Music,0,10
+html body header div div nav ul li ul li a span  ,New Music,0,12
+html body header div div nav ul li ul li a span  ,Music Videos,0,12
+html body header div div nav ul li ul li a span  ,Top Songs,0,12
+html body header div div nav ul li ul li a span  ,Top Songs of the Month,0,12
+html body header div div nav ul li ul li a span  ,Album Streams,0,12
+html body header div div nav ul li ul li a span  ,Upcoming Releases,0,12
+html body header div div nav ul li ul li a span  ,CoSigns,0,12
+html body header div div nav ul li a span  ,Film,0,10
+html body header div div nav ul li ul li a span  ,Film News,0,12
+html body header div div nav ul li ul li a span  ,Top Performances,0,12
+html body header div div nav ul li ul li a span  ,Comics to Screen,0,12
+html body header div div nav ul li ul li a span  ,A Most Horrific Year,0,12
+html body header div div nav ul li a span  ,TV,0,10
+html body header div div nav ul li ul li a span  ,TV News,0,12
+html body header div div nav ul li ul li a span  ,Top Episodes,0,12
+html body header div div nav ul li a span  ,Reviews,0,10
+html body header div div nav ul li ul li a span  ,Album Reviews,0,12
+html body header div div nav ul li ul li a span  ,Film Reviews,0,12
+html body header div div nav ul li ul li a span  ,TV Reviews,0,12
+html body header div div nav ul li ul li a span  ,Festival Reviews,0,12
+html body header div div nav ul li ul li a span  ,Concert Reviews,0,12
+html body header div div nav ul li a span  ,Features,0,10
+html body header div div nav ul li ul li a span  ,Anniversaries,0,12
+html body header div div nav ul li ul li a span  ,Cover Stories,0,12
+html body header div div nav ul li ul li a span  ,Editorials,0,12
+html body header div div nav ul li ul li a span  ,Festival Hype,0,12
+html body header div div nav ul li ul li a span  ,Interviews,0,12
+html body header div div nav ul li ul li a span  ,Lists,0,12
+html body header div div nav ul li ul li a span  ,Rankings,0,12
+html body header div div nav ul li a span  ,Podcasts,0,10
+html body header div div nav ul li ul li a span  ,Consequence of Sound,0,12
+html body header div div nav ul li ul li a span  ,Discography,0,12
+html body header div div nav ul li ul li a span  ,Filmography,0,12
+html body header div div nav ul li ul li a span  ,Halloweenies,0,12
+html body header div div nav ul li ul li a span  ,Kyle Meredith With…,0,12
+html body header div div nav ul li ul li a span  ,The Losers’ Club,0,12
+html body header div div nav ul li ul li a span  ,State of the Empire,0,12
+html body header div div nav ul li ul li a span  ,This Must Be the Gig,0,12
+html body header div div nav ul li a span  ,Staff Lists,0,10
+html body header div div nav ul li ul li a span  ,Annual Report 2017,0,12
+html body header div div nav ul li ul li a span  ,Decades,0,12
+html body header div div nav ul li ul li a span  ,Top 100 Albums,0,12
+html body header div div nav ul li ul li a span  ,Top 100 Songs,0,12
+html body header div div nav ul li ul li a span  ,Top 100 Singers,0,12
+html body header div div nav ul li ul li a span  ,Top 100 Music Venues,0,12
+html body header div div nav ul li ul li a span  ,Best of the 2000s,0,12
+html body header div div nav ul li a span  ,Store,0,10
+html body header div div nav ul li a span  ,Heavy,0,10
+html body header div div nav ul li a span  ,Festival Outlook,0,10
+html body header div div nav ul li a span  ,Videos,0,10
+html body header div div div div div div h6 span  ,Log In or Sign Up,0,11
+html body header div div div div div div form div div a span  ,Forget password?,0,14
+html body header div div div div div div form div div a span  ,Login,0,14
+html body header div div div div div div a span  ,Sign In With Facebook,0,11
+html body header div div div div div div a span  ,Sign Up With Email,0,11
+html body header div div div div form label span  ,Search for:,0,10
+html body header div div div div form span span  ,Press Enter,0,10
+html body header div div div div form span span  ,Press Escape to Close,0,10
+html body header div div div div form span span  ,Click to Search,0,10
+html body header div div div div form div div h1 span  ,Search Results,0,12
+html body header div div div div form div div a span  ,see all results,0,12
+html body div div div div div span  ,News,0,8
+html body div div div div div span  ,The No. 1 Source For Breaking Music and Film Headlines,0,8
+html body div div h1 span  ,Pete Davidson responds to Chevy Chase’s SNL criticism: “He’s a fucking douchebag”,1,6
+html body div div h2 span  ,"""He’s just a genuinely bad, racist person and I don’t like him""",1,6
+html body div div section div div span  ,by,1,8
+html body div div section div div a span  ,Ben Kaye,1,9
+html body div div section div div span  ,on,1,8
+html body div div section div div span  ,"September 25, 2018, 4:45am",1,8
+html body div div section div a span  ,4,0,8
+html body div div section div a span  ,comments,0,8
+html body div div div div div span  ,Chevy Chase and Pete Davidson (photo by Amanda Koellner),0,8
+html body div div div div div div h3 span  ,Share this:,0,10
+html body div div div div div div div ul li a span  ,Facebook,0,13
+html body div div div div div div div ul li a span  ,Twitter,0,13
+html body div div div div div div div ul li a span  ,Tumblr,0,13
+html body div div div div div div div ul li a span  ,Reddit,0,13
+html body div div div div article p a span  ,Chevy Chase,1,10
+html body div div div div article p span  ,has a long history of taking bites of his career with his mouth. He did so again in a,1,9
+html body div div div div article p a span  ,recent interview,1,10
+html body div div div div article p span  ,"in which he had some pointedly unkind words for the show that made him,",1,9
+html body div div div div article p em a span  ,Saturday Night Live,1,11
+html body div div div div article p em span  ,.,1,10
+html body div div div div article p span  ,"Specifically, he called the current run of the long-running variety show “the worst fucking humor in the world…” Well, current star and future Mr. Ariana Grande,",1,9
+html body div div div div article p a span  ,Pete Davidson,1,10
+html body div div div div article p span  ,", wasn’t having any of it.",1,9
+html body div div div div article p span  ,Appearing on,1,9
+html body div div div div article p em span  ,The Howard Stern Show,1,10
+html body div div div div article p span  ,(via,1,9
+html body div div div div article p a span  ,PageSix,1,10
+html body div div div div article p span  ,") to talk mostly about his fiancé, Davidson held nothing back when addressing Chase and his remarks. “He’s a fuckking douchebag,” the 24-year-old comic said. “Fuckk Chevy Chase… he’s just a genuinely bad, racist person and I don’t like him. He’s a putz.”",1,9
+html body div div div div article p span  ,"He wasn’t done, either:",1,9
+html body div div div div article p span  ,"“What has he done since ’83? Nothing. He had a big career and then it stopped because everybody realized he’s a jerkoff. He should know more than anybody. It’s disrespectful to Lorne [Michaels] too, a guy who gave you a career. No matter how big you get, you can’t forget what that guy did for you.”",1,9
+html body div div div div article p span  ,"Well, in Chase’s defense, he did have",1,9
+html body div div div div article p em span  ,Community,1,10
+html body div div div div article p span  ,in the late-’00s/early-’10s. But we all know,1,9
+html body div div div div article p a span  ,how,1,10
+html body div div div div article p span  ,that,1,9
+html body div div div div article p a span  ,ended,1,10
+html body div div div div article p span  ,.,1,9
+html body div div div div article p em span  ,Saturday Night Live,1,10
+html body div div div div article p span  ,returns for its 44th season on September 29th. Adam Driver hosts while Kanye West makes his seventh appearance as musical guest.,1,9
+html body div div div div div div span  ,Around the Web,0,9
+html body div div div div div div span  ,Powered by ZergNet,0,9
+html body div div div div div div div div div a span  ,10 Awful Albums That Have Only One Great Song,0,13
+html body div div div div div div div div div a span  ,Diffuser.fm,0,13
+html body div div div div div div div div div a span  ,Bands Who Are Absolute Nightmares On Tour,0,13
+html body div div div div div div div div div a span  ,Grunge.com,0,13
+html body div div div div div div div div div a span  ,Post Malone Opens Up During 'Fallon' Interview,0,13
+html body div div div div div div div div div a span  ,Billboard.com,0,13
+html body div div div div div div span  ,Around the Web,0,9
+html body div div div div div div span  ,Powered by ZergNet,0,9
+html body div div div div div div div div div a span  ,'Venom' Is an Absolute Disaster,0,13
+html body div div div div div div div div div a span  ,Nypost.com,0,13
+html body div div div div div div div div div a span  ,Saying Goodbye to Johnny Depp,0,13
+html body div div div div div div div div div a span  ,Slashfilm.com,0,13
+html body div div div div div div div div div a span  ,'The Predator' Has a Crazy Cameo Everyone Missed,0,13
+html body div div div div div div div div div a span  ,Cracked.com,0,13
+html body div div div div div div div h3 span  ,Tags,0,11
+html body div div div div div div div ul li a span  ,Chevy Chase,0,13
+html body div div div div div div div ul li a span  ,Pete Davidson,0,13
+html body div div div div div div div ul li a span  ,Quoteworthy,0,13
+html body div div div div div div div ul li a span  ,Saturday Night Live,0,13
+html body div div div div div div div ul li a span  ,SNL,0,13
+html body div div div div div div div h3 span  ,Categories,0,11
+html body div div div div div div div ul li a span  ,News,0,13
+html body div div div div div div div ul li a span  ,TV,0,13
+html body div div div div div div div ul li a span  ,TV News,0,13
+html body div div div div div div div span  ,Previous Story,0,10
+html body div div div div div div a div span  ,"Love It or Hate It, You’ll Never Forget Netflix’s Maniac",0,11
+html body div div div div div div div span  ,Next Story,0,10
+html body div div div div div div a div span  ,James Lipton steps down as host of Inside the Actors Studio,0,11
+html body div div div div div span  ,Want more? Follow us on,0,8
+html body div div div div div nav ul li a span  ,Facebook,0,12
+html body div div div div div nav ul li a span  ,Twitter,0,12
+html body div div div div div nav ul li a span  ,YouTube,0,12
+html body div div div div div nav ul li a span  ,Google-Plus,0,12
+html body div div div div div nav ul li a span  ,Tumblr,0,12
+html body div div div div div nav ul li a span  ,Instagram,0,12
+html body div div div div div nav ul li a span  ,Pinterest,0,12
+html body div div div div div div div section div span  ,4 comments,0,12
+html body div div div div div div div section div div form p span  ,Required fields are marked,0,15
+html body div div div div div div div section div div form p span  ,*,0,15
+html body div div div div div div div section div div form p span  ,.,0,15
+html body div div div div div div div section div div form p a span  ,Sign up or sign in,0,16
+html body div div div div div div div section div div form p span  ,to not have to fill in these fields.,0,15
+html body div div div div div div div section div div form p label span  ,Name,0,16
+html body div div div div div div div section div div form p label span  ,*,0,16
+html body div div div div div div div section div div div div div div span  ,Briggso,0,17
+html body div div div div div div div section div div div div div span  ,"September 25, 2018 at 11:10:20 AM",0,16
+html body div div div div div div div section div div div div div span  ,That's hilarious. Dead on.,0,16
+html body div div div div div div div section div div div div div div span  ,0,0,17
+html body div div div div div div div section div div div div div div a span  ,Reply,0,18
+html body div div div div div div div section div div div div div div a span  ,Log in to reply,0,18
+html body div div div div div div div section div div div div div div span  ,Pudge,0,17
+html body div div div div div div div section div div div div div span  ,"September 25, 2018 at 11:35:42 AM",0,16
+html body div div div div div div div section div div div div div span  ,Yeah he is right. He is in the same boat though. Douches both,0,16
+html body div div div div div div div section div div div div div div span  ,0,0,17
+html body div div div div div div div section div div div div div div a span  ,Reply,0,18
+html body div div div div div div div section div div div div div div a span  ,Log in to reply,0,18
+html body div div div div div div div section div div div div div div span  ,Bobby,0,17
+html body div div div div div div div section div div div div div span  ,"September 25, 2018 at 11:43:35 AM",0,16
+html body div div div div div div div section div div div div div span  ,They're both right. Chevy is a POS and SNL is and has been garbage for years.,0,16
+html body div div div div div div div section div div div div div div span  ,0,0,17
+html body div div div div div div div section div div div div div div a span  ,Reply,0,18
+html body div div div div div div div section div div div div div div a span  ,Log in to reply,0,18
+html body div div div div div div div section div div div div div div span  ,One key difference,0,17
+html body div div div div div div div section div div div div div span  ,"September 25, 2018 at 7:45:16 PM",0,16
+html body div div div div div div div section div div div div div span  ,"Chevy Chase and Pete Davidson are both complete asshiles, but at least Chevy was funny at one time. Pete Davidson has never been funny.",0,16
+html body div div div div div div div section div div div div div div span  ,0,0,17
+html body div div div div div div div section div div div div div div a span  ,Reply,0,18
+html body div div div div div div div section div div div div div div a span  ,Log in to reply,0,18
+html body div div div div section h1 span  ,Popular,0,9
+html body div div div div section ul li a span  ,Today,0,11
+html body div div div div section ul li a span  ,Week,0,11
+html body div div div div section ul li a span  ,Month,0,11
+html body div div div div section div div ol li div span  ,1,0,13
+html body div div div div section div div ol li a div span  ,"Lindsay Lohan, speaking in Middle Eastern accent, tries to kidnap homeless kids and gets punched in face",0,14
+html body div div div div section div div ol li div span  ,2,0,13
+html body div div div div section div div ol li a div span  ,"Rare, X-rated cut of Robocop is currently streaming on Amazon Prime",0,14
+html body div div div div section div div ol li div span  ,3,0,13
+html body div div div div section div div ol li a div span  ,"Kanye's post-SNL, pro-Trump rant prompts Adam Driver, cast members to walk off stage",0,14
+html body div div div div section div div ol li div span  ,4,0,13
+html body div div div div section div div ol li a div span  ,Claudio Sanchez on Coheed and Cambria's Return to Amory Wars Concept with Vaxis - Act I: The Unheavenly Creatures,0,14
+html body div div div div section div div ol li div span  ,5,0,13
+html body div div div div section div div ol li a div span  ,Frankie Muniz comes to Kanye West's defense,0,14
+html body div div div div section div div ol li div span  ,1,0,13
+html body div div div div section div div ol li a div span  ,"Lindsay Lohan, speaking in Middle Eastern accent, tries to kidnap homeless kids and gets punched in face",0,14
+html body div div div div section div div ol li div span  ,2,0,13
+html body div div div div section div div ol li a div span  ,"Kanye's post-SNL, pro-Trump rant prompts Adam Driver, cast members to walk off stage",0,14
+html body div div div div section div div ol li div span  ,3,0,13
+html body div div div div section div div ol li a div span  ,Bill Cosby was pelted with a stale hotdog bun on his first day in prison,0,14
+html body div div div div section div div ol li div span  ,4,0,13
+html body div div div div section div div ol li a div span  ,Prosecutors show surveillance footage of XXXTentacion’s murder,0,14
+html body div div div div section div div ol li div span  ,5,0,13
+html body div div div div section div div ol li a div span  ,Kanye and Kim Kardashian got into a fight over Band-Aids,0,14
+html body div div div div section div div ol li div span  ,1,0,13
+html body div div div div section div div ol li a div span  ,"Lindsay Lohan, speaking in Middle Eastern accent, tries to kidnap homeless kids and gets punched in face",0,14
+html body div div div div section div div ol li div span  ,2,0,13
+html body div div div div section div div ol li a div span  ,Mac Miller dies of apparent overdose,0,14
+html body div div div div section div div ol li div span  ,3,0,13
+html body div div div div section div div ol li a div span  ,Bill Cosby was pelted with a stale hotdog bun on his first day in prison,0,14
+html body div div div div section div div ol li div span  ,4,0,13
+html body div div div div section div div ol li a div span  ,31-year-old Drake and 14-year-old Millie Bobby Brown have a weird relationship,0,14
+html body div div div div section div div ol li div span  ,5,0,13
+html body div div div div section div div ol li a div span  ,Suge Knight sentenced to 28 years in prison after pleading guilty to murder,0,14
+html body div div div div section div div div div div span  ,Video Player is loading.,0,13
+html body div div div div section div div div div div div span  ,Current Time,0,14
+html body div div div div section div div div div div div span  ,1:21,0,14
+html body div div div div section div div div div div div div span  ,/,0,15
+html body div div div div section div div div div div div span  ,Duration,0,14
+html body div div div div section div div div div div div span  ,4:13,0,14
+html body div div div div section div div div div div div div div span span  ,Loaded,0,17
+html body div div div div section div div div div div div div div span  ,: 0%,0,16
+html body div div div div section div div div div div div div div div span  ,1:21,0,17
+html body div div div div section div div div div div div div div span span  ,Progress,0,17
+html body div div div div section div div div div div div div div span  ,: 0%,0,16
+html body div div div div section div div div div div div div span  ,Stream Type,0,15
+html body div div div div section div div div div div div div span  ,LIVE,0,15
+html body div div div div section div div div div div div span  ,Remaining Time,0,14
+html body div div div div section div div div div div div span  ,-2:52,0,14
+html body div div div div section div div div div div div div span  ,1x,0,15
+html body div div div div section div div div div div div div ul li span  ,Chapters,0,17
+html body div div div div section div div div div div div div ul li span  ,descriptions off,0,17
+html body div div div div section div div div div div div div ul li span  ,", selected",0,17
+html body div div div div section div div div div div div div ul li span  ,captions settings,0,17
+html body div div div div section div div div div div div div ul li span  ,", opens captions settings dialog",0,17
+html body div div div div section div div div div div div div ul li span  ,captions off,0,17
+html body div div div div section div div div div div div div ul li span  ,", selected",0,17
+html body div div div div section div div div div div div div ul li span  ,default,0,17
+html body div div div div section div div div div div div div ul li span  ,", selected",0,17
+html body div div div div section div div div div div p span  ,This is a modal window.,0,14
+html body div div div div section div div div div div p span  ,Beginning of dialog window. Escape will cancel and close the window.,0,14
+html body div div div div section div div div div div div div fieldset legend span  ,Text,0,17
+html body div div div div section div div div div div div div fieldset label span  ,Color,0,17
+html body div div div div section div div div div div div div fieldset select option span  ,White,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Black,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Red,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Green,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Blue,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Yellow,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Magenta,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Cyan,0,18
+html body div div div div section div div div div div div div fieldset span label span  ,Transparency,0,18
+html body div div div div section div div div div div div div fieldset span select option span  ,Opaque,0,19
+html body div div div div section div div div div div div div fieldset span select option span  ,Semi-Transparent,0,19
+html body div div div div section div div div div div div div fieldset legend span  ,Background,0,17
+html body div div div div section div div div div div div div fieldset label span  ,Color,0,17
+html body div div div div section div div div div div div div fieldset select option span  ,Black,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,White,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Red,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Green,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Blue,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Yellow,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Magenta,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Cyan,0,18
+html body div div div div section div div div div div div div fieldset span label span  ,Transparency,0,18
+html body div div div div section div div div div div div div fieldset span select option span  ,Opaque,0,19
+html body div div div div section div div div div div div div fieldset span select option span  ,Semi-Transparent,0,19
+html body div div div div section div div div div div div div fieldset span select option span  ,Transparent,0,19
+html body div div div div section div div div div div div div fieldset legend span  ,Window,0,17
+html body div div div div section div div div div div div div fieldset label span  ,Color,0,17
+html body div div div div section div div div div div div div fieldset select option span  ,Black,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,White,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Red,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Green,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Blue,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Yellow,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Magenta,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Cyan,0,18
+html body div div div div section div div div div div div div fieldset span label span  ,Transparency,0,18
+html body div div div div section div div div div div div div fieldset span select option span  ,Transparent,0,19
+html body div div div div section div div div div div div div fieldset span select option span  ,Semi-Transparent,0,19
+html body div div div div section div div div div div div div fieldset span select option span  ,Opaque,0,19
+html body div div div div section div div div div div div div fieldset legend span  ,Font Size,0,17
+html body div div div div section div div div div div div div fieldset select option span  ,50%,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,75%,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,100%,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,125%,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,150%,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,175%,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,200%,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,300%,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,400%,0,18
+html body div div div div section div div div div div div div fieldset legend span  ,Text Edge Style,0,17
+html body div div div div section div div div div div div div fieldset select option span  ,None,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Raised,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Depressed,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Uniform,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Dropshadow,0,18
+html body div div div div section div div div div div div div fieldset legend span  ,Font Family,0,17
+html body div div div div section div div div div div div div fieldset select option span  ,Proportional Sans-Serif,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Monospace Sans-Serif,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Proportional Serif,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Monospace Serif,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Casual,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Script,0,18
+html body div div div div section div div div div div div div fieldset select option span  ,Small Caps,0,18
+html body div div div div section div div div div div p span  ,End of dialog window.,0,14
+html body div div div div section div div div div div div div span  ,Advertisement,0,15
+html body div div div div span  ,More Stories,0,7
+html body div div div ul li a span  ,Related,0,9
+html body div div div ul li a span  ,Latest,0,9
+html body div div div ul li a span  ,Trending,0,9
+html body div div div div div section div ul li a span  ,TV,0,13
+html body div div div div div section div ul li span  ,•,0,12
+html body div div div div div section div ul li a span  ,TV Reviews,0,13
+html body div div div div div section div h1 a span  ,TV Review: Saturday Night Live Gets Bailed Out by Guests in Season Premiere,0,12
+html body div div div div div section div div a p span  ,"Adam Driver, Matt Damon, and Kanye West and friends rescue a premiere full of lazy, predictable comedy.",0,13
+html body div div div div div section div footer cite span  ,By,0,12
+html body div div div div div section div footer cite a span  ,Matt Melis,0,13
+html body div div div div div section div footer span  ,",",0,11
+html body div div div div div section div footer span  ,3 days ago,0,11
+html body div div div div div section div ul li a span  ,Dissected,0,13
+html body div div div div div section div ul li span  ,•,0,12
+html body div div div div div section div ul li a span  ,Exclusive Features,0,13
+html body div div div div div section div ul li span  ,•,0,12
+html body div div div div div section div ul li a span  ,Film,0,13
+html body div div div div div section div ul li span  ,•,0,12
+html body div div div div div section div ul li a span  ,Forever Halloween,0,13
+html body div div div div div section div ul li span  ,•,0,12
+html body div div div div div section div ul li a span  ,Rank and File,0,13
+html body div div div div div section div h1 a span  ,Ranking: Every John Carpenter Movie from Worst to Best,0,12
+html body div div div div div section div div a p span  ,A complete dissection of the antiheroes and creeps from The Horror Master.,0,13
+html body div div div div div section div footer cite span  ,By,0,12
+html body div div div div div section div footer cite a span  ,CoS Staff,0,13
+html body div div div div div section div footer span  ,",",0,11
+html body div div div div div section div footer span  ,5 days ago,0,11
+html body div div div div div section div ul li a span  ,News,0,13
+html body div div div div div section div ul li span  ,•,0,12
+html body div div div div div section div ul li a span  ,TV News,0,13
+html body div div div div div section div h1 a span  ,"Awkwafina, Seth Meyers, Travis Scott, and Paul Simon to appear on SNL",0,12
+html body div div div div div section div div a p span  ,Following this weekend’s premiere hosted by host Adam Driver and musical guest Kanye West.,0,13
+html body div div div div div section div footer cite span  ,By,0,12
+html body div div div div div section div footer cite a span  ,Clint Worthington,0,13
+html body div div div div div section div footer span  ,",",0,11
+html body div div div div div section div footer span  ,6 days ago,0,11
+html body div div div div div section div ul li a span  ,News,0,13
+html body div div div div div section div ul li span  ,•,0,12
+html body div div div div div section div ul li a span  ,TV,0,13
+html body div div div div div section div ul li span  ,•,0,12
+html body div div div div div section div ul li a span  ,TV News,0,13
+html body div div div div div section div h1 a span  ,Chevy Chase calls Saturday Night Live “the worst fucking humor in the world”,0,12
+html body div div div div div section div div a p span  ,“How could you dare give that generation worse shit than they already have in their lives?”,0,13
+html body div div div div div section div footer cite span  ,By,0,12
+html body div div div div div section div footer cite a span  ,Ben Kaye,0,13
+html body div div div div div section div footer span  ,",",0,11
+html body div div div div div section div footer span  ,2 weeks ago,0,11
+html body div div div div div section div ul li a span  ,News,0,13
+html body div div div div div section div ul li span  ,•,0,12
+html body div div div div div section div ul li a span  ,TV,0,13
+html body div div div div div section div ul li span  ,•,0,12
+html body div div div div div section div ul li a span  ,TV News,0,13
+html body div div div div div section div h1 a span  ,"Norm Macdonald’s Netflix talk show gets its first trailer, looks to be very, very good",0,12
+html body div div div div div section div div a p span  ,“Do you miss doing cocaine?” he asks Drew Barrymore.,0,13
+html body div div div div div section div footer cite span  ,By,0,12
+html body div div div div div section div footer cite a span  ,Randall Colburn,0,13
+html body div div div div div section div footer span  ,",",0,11
+html body div div div div div section div footer span  ,4 weeks ago,0,11
+html body div div div div div section div ul li a span  ,Album Streams,0,13
+html body div div div div div section div ul li span  ,•,0,12
+html body div div div div div section div ul li a span  ,New Music,0,13
+html body div div div div div section div ul li span  ,•,0,12
+html body div div div div div section div ul li a span  ,News,0,13
+html body div div div div div section div h1 a span  ,Ariana Grande premieres new album Sweetener: Stream,0,12
+html body div div div div div section div div a p span  ,"The pop singer’s fourth full-length features Nicki Minaj, Missy Elliott, and Pharrell Williams.",0,13
+html body div div div div div section div footer cite span  ,By,0,12
+html body div div div div div section div footer cite a span  ,Lake Schatz,0,13
+html body div div div div div section div footer span  ,",",0,11
+html body div div div div div section div footer span  ,2 months ago,0,11
+html body footer div nav ul li a span  ,Heavy,0,9
+html body footer div nav ul li a span  ,Festival Outlook,0,9
+html body footer div nav ul li a span  ,Videos,0,9
+html body footer div nav ul li a span  ,Facebook,0,9
+html body footer div nav ul li a span  ,Twitter,0,9
+html body footer div nav ul li a span  ,YouTube,0,9
+html body footer div nav ul li a span  ,Google-Plus,0,9
+html body footer div nav ul li a span  ,Tumblr,0,9
+html body footer div nav ul li a span  ,Instagram,0,9
+html body footer div nav ul li a span  ,Pinterest,0,9
+html body footer div nav ul li a span  ,Store,0,9
+html body footer div nav ul li a span  ,Mobile App,0,9
+html body footer div nav ul li a span  ,CoS Events,0,9
+html body footer div nav ul li a span  ,Giveaways,0,9
+html body footer div nav ul li a span  ,News,0,9
+html body footer div nav ul li ul li a span  ,Tours,0,11
+html body footer div nav ul li ul li a span  ,Festivals,0,11
+html body footer div nav ul li ul li a span  ,Film,0,11
+html body footer div nav ul li a span  ,New Music,0,9
+html body footer div nav ul li ul li a span  ,Streams,0,11
+html body footer div nav ul li ul li a span  ,Upcoming Releases,0,11
+html body footer div nav ul li ul li a span  ,Top Songs of the Month,0,11
+html body footer div nav ul li a span  ,Features,0,9
+html body footer div nav ul li ul div li a span  ,Reviews,0,12
+html body footer div nav ul li ul div li a span  ,Anniversaries,0,12
+html body footer div nav ul li ul div li a span  ,Interviews,0,12
+html body footer div nav ul li ul div li a span  ,Cover Stories,0,12
+html body footer div nav ul li ul div li a span  ,Editorials,0,12
+html body footer div nav ul li ul div li a span  ,Festival Hype,0,12
+html body footer div nav ul li ul div li a span  ,Lists,0,12
+html body footer div nav ul li ul div li a span  ,Rankings,0,12
+html body footer div nav ul li a span  ,Staff Lists,0,9
+html body footer div nav ul li ul div li a span  ,Annual Report 2016,0,12
+html body footer div nav ul li ul div li a span  ,Decades,0,12
+html body footer div nav ul li ul div li a span  ,Top 100 Albums,0,12
+html body footer div nav ul li ul div li a span  ,Top 100 Songs,0,12
+html body footer div nav ul li ul div li a span  ,Top 100 Singers,0,12
+html body footer div nav ul li ul div li a span  ,Top 100 Music Venues,0,12
+html body footer div nav ul li ul div li a span  ,Best of 2000s,0,12
+html body footer div div nav ul li a span  ,About Us,0,10
+html body footer div div nav ul li a span  ,Advertise,0,10
+html body footer div div nav ul li a span  ,Contact Us,0,10
+html body footer div div nav ul li a span  ,Privacy Policy,0,10
+html body footer div div nav ul li a span  ,Terms & Conditions,0,10
+html body footer div div nav ul li a span  ,Copyright,0,10
+html body footer div div span  ,© 2007 - 2018 Consequence of Sound •,0,6
+html body footer div div span a span  ,Advertise here,0,8
+html body footer div div span  ,• Powered by,0,6
+html body footer div div span a span  ,WordPress.com VIP,0,8
+html body div div div h2 span  ,Create your account,0,7
+html body div div div form a span  ,Finish Sign Up,0,8
+html body div div div form div h2 span  ,Submit Your Photo,0,9
+html body div div div form div div label span  ,Title,0,10
+html body div div div form div div label span  ,Post content or file description,0,10
+html body div div div form div div label span  ,Your Media Files,0,10

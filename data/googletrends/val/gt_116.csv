@@ -1,0 +1,51 @@
+tag,content,label,depth
+html body header div div nav ul li a span  ,Español,0,10
+html body div div div ul li a span  ,Know Your Rights,0,9
+html body div div div ul li a span  ,Find Legal Help,0,9
+html body section div h2 span  ,"You deserve to feel safe and empowered, no matter your immigration status.",1,6
+html body section div h2 span  ,We are here to help you understand your rights and the resources available to you.,1,6
+html body section a div div div span  ,New!,0,8
+html body section a div div div span  ,Find what you need to prepare for a Hurricane and find a shelter near you.,0,8
+html body section div div div a div div h3 span span span  ,I'm an individual looking for resources,1,13
+html body section div div div a div div p span  ,"Guides for undocumented immigrants on rights, family preparedness, and more",1,11
+html body section div div div a div div h3 span span span  ,I'm a service provider,1,13
+html body section div div div a div div h3 span span span  ,or educator,1,13
+html body section div div div a div div p span  ,Resources for service providers and schools to support undocumented families,1,11
+html body section div div h2 span  ,How Informed Immigrant Works,1,7
+html body section div div p span  ,Your home for the most important resources and trusted information on being undocumented in the U.S.,1,7
+html body section div div div div div div h3 span  ,Learn,1,11
+html body section div div div div div div p span  ,Our guides and Resource Library are continually refreshed with the latest guidance and materials curated from respected organizations like the National Immigration Law Center (NILC) and American Civil Liberties Union (ACLU) so you can stay informed.,1,11
+html body section div div div div div div div a span  ,Get started,1,12
+html body section div div div div div div h3 span  ,Prepare,1,11
+html body section div div div div div div p span  ,Scroll through our guides on your own or grab a friend or family member and learn together. Reviewing with another person will help you retain the information so you can apply it in the future if you encounter the police or immigration enforcement.,1,11
+html body section div div div div div div div a span  ,Get Started,1,12
+html body section div div div div div div h3 span  ,Connect,1,11
+html body section div div div div div div p span  ,"Find trusted lawyers, social workers, and service providers nearby to access in-person support and guidance. View more than 1,200 organizations across the country that can offer you the help you need.",1,11
+html body section div div div div div div div a span  ,Get Started,1,12
+html body section div div div div h2 span  ,About Us,1,9
+html body section div div div div p span  ,"We’re a collective of nationally recognized immigrant-serving organizations, lawyers, technologists, and allies dedicated to helping the undocumented immigrant community.",1,9
+html body section div div div div p span  ,"Everyone in the U.S. is entitled to certain rights under the Constitution, no matter where you were born or who is president. We’re here to help you learn how to put those rights to use so you can feel as prepared as possible if you encounter immigration enforcement. Since November 2016, Informed Immigrant has connected the undocumented immigrant community with the information and resources they need to become empowered in our current political environment. We’re here for you.",1,9
+html body section div div div div p a span  ,Learn more about our story and the organizations involved here.,1,10
+html body footer section div div div div h2 span  ,Stay in the Know,0,10
+html body footer section div div div div p span  ,We promise only to reach out to you when it matters most.,0,10
+html body footer section div div div div div form p label span  ,Name (required),0,13
+html body footer section div div div div div form p label span  ,Email (required),0,13
+html body footer section div div div div div form p label span  ,Zip (required),0,13
+html body footer section div div div div div form p label span  ,Phone,0,13
+html body footer section div div div form div div label span  ,Name,0,12
+html body footer section div div div form div div label span  ,Email Address,0,12
+html body footer section div div div form div div label span  ,Zip Code,0,12
+html body footer section div div div form div div label span  ,Phone Number,0,12
+html body footer section div div div form div a span  ,Privacy Policy,0,11
+html body footer section div div div form div span  ,|,0,10
+html body footer section div div div form div a span  ,Terms of Use,0,11
+html body footer section div div div nav ul li a span  ,About Us,0,12
+html body footer section div div div nav ul li a span  ,Immigrant Guides,0,12
+html body footer section div div div nav ul li a span  ,Service Provider Guides,0,12
+html body footer section div div div nav ul li a span  ,Find a Service Organization Near You,0,12
+html body footer section div div div nav ul li a span  ,Resource Library,0,12
+html body footer section div div div div h3 span  ,Find Us Online,0,10
+html body footer section div div div div p span  ,© 2018,0,10
+html body div div div div div div div h2 span  ,Service Provider Look Up,0,11
+html body div div div div div div div div p span  ,Find a service provider near you to help families being separated at the border.,0,12
+html body div div div div div div div div a span  ,Search Here,0,12

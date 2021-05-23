@@ -1,0 +1,305 @@
+tag,content,label,depth
+html body div span  ,Accessibility links,0,4
+html body div ul li a span  ,Skip to main content,0,7
+html body div ul li a span  ,Keyboard shortcuts for audio player,0,7
+html body header div div a span  ,NPR,0,7
+html body header div div a span  ,NPR,0,7
+html body header div div a span  ,NPR Music,0,7
+html body header div div a span b span  ,NPR,0,9
+html body header div div a span  ,Books,0,7
+html body header div div a span b span  ,NPR,0,9
+html body header div div a span  ,About,0,7
+html body header div div a span b span  ,NPR,0,9
+html body header div div a span  ,Podcast Directory,0,7
+html body header div div div a span  ,Search,0,8
+html body header div div nav div ul li a span  ,NPR Home,0,11
+html body header div div nav div ul li div a span  ,Set station,0,12
+html body header div div nav div ul li a span  ,News,0,11
+html body header div div nav div ul li a span  ,Arts & Life,0,11
+html body header div div nav div ul li a span  ,Music,0,11
+html body header div div nav div ul li a span  ,Topics,0,11
+html body header div div nav div ul li a span  ,Programs,0,11
+html body header div div nav div ul li a b span  ,& Podcasts,0,12
+html body header div div nav div ul li a span  ,NPR Music,0,11
+html body header div div nav div ul li a span  ,News,0,11
+html body header div div nav div ul li a span  ,Features,0,11
+html body header div div nav div ul li a span  ,New Music,0,11
+html body header div div nav div ul li a span  ,Video,0,11
+html body header div div nav div ul li a span  ,Tiny Desk,0,11
+html body header div div nav div ul li a span  ,NPR Books,0,11
+html body header div div nav div ul li a b span  ,Author,0,12
+html body header div div nav div ul li a span  ,Interviews,0,11
+html body header div div nav div ul li a span  ,Find Books,0,11
+html body header div div nav div ul li a span  ,Reviews,0,11
+html body header div div nav div ul li a span  ,About NPR,0,11
+html body header div div nav div ul li a span  ,Overview,0,11
+html body header div div nav div ul li a span  ,Connect,0,11
+html body header div div nav div ul li a span  ,Support,0,11
+html body header div div nav div ul li a span  ,Press,0,11
+html body header div div nav div ul li a span  ,Careers,0,11
+html body header div div nav div ul li a span  ,Podcast Directory,0,11
+html body header div div nav div ul li a span  ,Categories,0,11
+html body header div div nav div ul li div a span  ,Set station,0,12
+html body header div div nav div ul li a b span  ,NPR,0,12
+html body header div div nav div ul li a span  ,Shop,0,11
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div div span a span  ,News,0,11
+html body header div div nav div div ul li a span  ,National,0,12
+html body header div div nav div div ul li a span  ,World,0,12
+html body header div div nav div div ul li a span  ,Politics,0,12
+html body header div div nav div div ul li a span  ,Business,0,12
+html body header div div nav div div ul li a span  ,Technology,0,12
+html body header div div nav div div ul li a span  ,Science,0,12
+html body header div div nav div div ul li a span  ,Health,0,12
+html body header div div nav div div ul li a span  ,Race & Culture,0,12
+html body header div div nav div div ul li a span  ,Education,0,12
+html body header div div nav div div span a span  ,Arts & Life,0,11
+html body header div div nav div div ul li a span  ,Books,0,12
+html body header div div nav div div ul li a span  ,Movies,0,12
+html body header div div nav div div ul li a span  ,Pop Culture,0,12
+html body header div div nav div div ul li a span  ,Food,0,12
+html body header div div nav div div ul li a span  ,Art & Design,0,12
+html body header div div nav div div ul li a span  ,Performing Arts,0,12
+html body header div div nav div div ul li a span  ,Photography,0,12
+html body header div div nav div div span a span  ,Music,0,11
+html body header div div nav div div ul li a span  ,First Listen,0,12
+html body header div div nav div div ul li a span  ,Tiny Desk,0,12
+html body header div div nav div div ul li a span  ,Videos,0,12
+html body header div div nav div div span  ,More,0,9
+html body header div div nav div div ul li a span  ,Our Blogs,0,12
+html body header div div nav div div ul li a span  ,Corrections,0,12
+html body header div div nav div div ul li a span  ,All About NPR,0,12
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div div span  ,News & Conversations,0,9
+html body header div div nav div div ul li a span  ,Morning Edition,0,12
+html body header div div nav div div ul li a span  ,All Things Considered,0,12
+html body header div div nav div div ul li a span  ,Fresh Air,0,12
+html body header div div nav div div ul li a span  ,Here & Now,0,12
+html body header div div nav div div ul li a span  ,1A,0,12
+html body header div div nav div div ul li a span  ,Code Switch,0,12
+html body header div div nav div div ul li a span  ,Embedded,0,12
+html body header div div nav div div ul li a span  ,The Indicator from Planet Money,0,12
+html body header div div nav div div ul li a span  ,It's Been a Minute with Sam Sanders,0,12
+html body header div div nav div div ul li a span  ,Latino USA,0,12
+html body header div div nav div div ul li a span  ,NPR Politics Podcast,0,12
+html body header div div nav div div ul li a span  ,On Point,0,12
+html body header div div nav div div ul li a span  ,Rough Translation,0,12
+html body header div div nav div div ul li a span  ,Up First,0,12
+html body header div div nav div div ul li a span  ,Weekend Edition Saturday,0,12
+html body header div div nav div div ul li a span  ,Weekend Edition Sunday,0,12
+html body header div div nav div div ul li a span  ,What's Good with Stretch & Bobbito,0,12
+html body header div div nav div div ul li a span  ,Youth Radio,0,12
+html body header div div nav div div span  ,Storytelling & Humor,0,9
+html body header div div nav div div ul li a span  ,Ask Me Another,0,12
+html body header div div nav div div ul li a span  ,The Best Of Car Talk,0,12
+html body header div div nav div div ul li a span  ,Bullseye,0,12
+html body header div div nav div div ul li a span  ,Hidden Brain,0,12
+html body header div div nav div div ul li a span  ,How I Built This,0,12
+html body header div div nav div div ul li a span  ,Invisibilia,0,12
+html body header div div nav div div ul li a span  ,Only A Game,0,12
+html body header div div nav div div ul li a span  ,Planet Money,0,12
+html body header div div nav div div ul li a span  ,Pop Culture Happy Hour,0,12
+html body header div div nav div div ul li a span  ,Radio Ambulante,0,12
+html body header div div nav div div ul li a span  ,StoryCorps,0,12
+html body header div div nav div div ul li a span  ,TED Radio Hour,0,12
+html body header div div nav div div ul li a span  ,Wait Wait...Don't Tell Me!,0,12
+html body header div div nav div div ul li a span  ,Wow in the World,0,12
+html body header div div nav div div span  ,Music,0,9
+html body header div div nav div div ul li a span  ,First Listen,0,12
+html body header div div nav div div ul li a span  ,All Songs Considered,0,12
+html body header div div nav div div ul li a span  ,Tiny Desk,0,12
+html body header div div nav div div ul li a span  ,Alt.Latino,0,12
+html body header div div nav div div ul li a span  ,From The Top,0,12
+html body header div div nav div div ul li a span  ,Jazz Night In America,0,12
+html body header div div nav div div ul li a span  ,Mountain Stage,0,12
+html body header div div nav div div ul li a span  ,Piano Jazz,0,12
+html body header div div nav div div ul li a span  ,The Thistle & Shamrock,0,12
+html body header div div nav div div ul li a span  ,World Cafe,0,12
+html body header div div nav div div span  ,More,0,9
+html body header div div nav div div ul li a span  ,All Programs,0,12
+html body header div div nav div div ul li a span  ,Podcast Directory,0,12
+html body header div div nav div div ul li a span  ,NPR Podcasts,0,12
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div div ul li a span  ,Art & Design,0,12
+html body header div div nav div div ul li a span  ,Arts & Entertainment,0,12
+html body header div div nav div div ul li a span  ,Biography & Memoir,0,12
+html body header div div nav div div ul li a span  ,Business & Economy,0,12
+html body header div div nav div div ul li a span  ,Children's Books,0,12
+html body header div div nav div div ul li a span  ,Comedy,0,12
+html body header div div nav div div ul li a span  ,Comics & Graphic Novels,0,12
+html body header div div nav div div ul li a span  ,Digital Culture,0,12
+html body header div div nav div div ul li a span  ,Faith & Spirituality,0,12
+html body header div div nav div div ul li a span  ,Food & Wine,0,12
+html body header div div nav div div ul li a span  ,History & Society,0,12
+html body header div div nav div div ul li a span  ,Historical Fiction,0,12
+html body header div div nav div div ul li a span  ,Horror & Supernatural,0,12
+html body header div div nav div div ul li a span  ,Literary Fiction,0,12
+html body header div div nav div div ul li a span  ,Mystery & Thrillers,0,12
+html body header div div nav div div ul li a span  ,Parenting & Families,0,12
+html body header div div nav div div ul li a span  ,Poetry,0,12
+html body header div div nav div div ul li a span  ,Politics & Public Affairs,0,12
+html body header div div nav div div ul li a span  ,Romance,0,12
+html body header div div nav div div ul li a span  ,Science Fiction & Fantasy,0,12
+html body header div div nav div div ul li a span  ,Science & Health,0,12
+html body header div div nav div div ul li a span  ,Sports,0,12
+html body header div div nav div div ul li a span  ,Travel,0,12
+html body header div div nav div div ul li a span  ,Young Adult,0,12
+html body header div div nav div div ul li a span  ,Nonfiction,0,12
+html body header div div nav div div ul li a span  ,Fiction,0,12
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div ul li a span  ,Book Reviews,0,11
+html body header div div nav div ul li a span  ,This Week's Must Read,0,11
+html body header div div nav div ul li a span  ,My Guilty Pleasure,0,11
+html body header div div nav div ul li a span  ,Three Books...,0,11
+html body header div div nav div ul li a span  ,PG-13: Risky Reads,0,11
+html body header div div nav div ul li a span  ,You Must Read This,0,11
+html body header div div nav div ul li a span  ,Summer Books,0,11
+html body header div div nav div ul li a span  ,Best Books of the Year,0,11
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div ul li a span  ,Overview,0,11
+html body header div div nav div ul li a span  ,Overview and History,0,11
+html body header div div nav div ul li a span  ,Mission and Vision,0,11
+html body header div div nav div ul li a span  ,Stations and Public Media,0,11
+html body header div div nav div ul li a span  ,NPR Finances,0,11
+html body header div div nav div ul li a span  ,People,0,11
+html body header div div nav div ul li a span  ,Ethics,0,11
+html body header div div nav div ul li a span  ,Awards,0,11
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div ul li a span  ,Visit NPR,0,11
+html body header div div nav div ul li a span  ,NPR Events,0,11
+html body header div div nav div ul li a span  ,Book a Speaker,0,11
+html body header div div nav div ul li a span  ,Request Permissions,0,11
+html body header div div nav div ul li a span  ,Ways to Listen,0,11
+html body header div div nav div ul li a span  ,NPR Extra Blog,0,11
+html body header div div nav div ul li a span  ,Email Newsletters,0,11
+html body header div div nav div ul li a span  ,Shop NPR,0,11
+html body header div div nav div ul li a span  ,Get Help,0,11
+html body header div div nav div ul li a span  ,Contact Us,0,11
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div ul li a span  ,Support Public Radio,0,11
+html body header div div nav div ul li a span  ,Corporate Sponsorship,0,11
+html body header div div nav div ul li a span  ,Volunteer,0,11
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div ul li a span  ,Releases and Statements,0,11
+html body header div div nav div ul li a span  ,Photos and Logos,0,11
+html body header div div nav div ul li a span  ,Fact Sheet (PDF),0,11
+html body header div div nav div ul li a span  ,Media Relations Contacts,0,11
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div ul li a span  ,Careers at NPR,0,11
+html body header div div nav div ul li a span  ,Search Jobs,0,11
+html body header div div nav div ul li a span  ,Culture,0,11
+html body header div div nav div ul li a span  ,Applying,0,11
+html body header div div nav div ul li a span  ,Interns,0,11
+html body header div div nav div ul li a span  ,Fellows,0,11
+html body header div div nav div ul li a span  ,Digital,0,11
+html body header div div nav div a span  ,Back,0,9
+html body header div div nav div div ul li a span  ,Arts,0,12
+html body header div div nav div div ul li a span  ,Business,0,12
+html body header div div nav div div ul li a span  ,Comedy,0,12
+html body header div div nav div div ul li a span  ,Education,0,12
+html body header div div nav div div ul li a span  ,Games & Hobbies,0,12
+html body header div div nav div div ul li a span  ,Government & Organizations,0,12
+html body header div div nav div div ul li a span  ,Health,0,12
+html body header div div nav div div ul li a span  ,Kids & Family,0,12
+html body header div div nav div div ul li a span  ,Music,0,12
+html body header div div nav div div ul li a span  ,News & Politics,0,12
+html body header div div nav div div ul li a span  ,Religion & Spirituality,0,12
+html body header div div nav div div ul li a span  ,Science & Medicine,0,12
+html body header div div nav div div ul li a span  ,Society & Culture,0,12
+html body header div div nav div div ul li a span  ,Sports & Recreation,0,12
+html body header div div nav div div ul li a span  ,Technology,0,12
+html body header div div nav div div ul li a span  ,TV & Film,0,12
+html body header div nav ul li div a span  ,Set station,0,10
+html body header div nav ul li a b span  ,NPR,0,10
+html body header div nav ul li a span  ,Shop,0,9
+html body main div b span  ,Amber Guyger Fired By Dallas Police Department,0,6
+html body main div b span  ,Guyger has said she mistakenly entered the wrong apartment in her complex and shot a man she thought was a burglar. She was later arrested and charged with manslaughter.,0,6
+html body main div div div a b span  ,"Dallas Police Department Fires Amber Guyger, Officer Who Shot Man In His Own Home",0,9
+html body main div section article div h3 a span  ,National,0,10
+html body main div section article div h1 span  ,"Dallas Police Department Fires Amber Guyger, Officer Who Shot Man In His Own Home",1,9
+html body main div section article div div div time span  ,"September 24, 2018",1,11
+html body main div section article div div div time span  ,3:35 PM ET,1,11
+html body main div section article div div div div div div p a span  ,Merrit Kennedy,1,15
+html body main div section article div div div div div div a span  ,Instagram,0,14
+html body main div section article div div div div div div a span  ,Twitter,0,14
+html body main div section article div div div div div p span  ,The Dallas Police Department says Officer Amber Guyger's employment has been terminated.,0,13
+html body main div section article div div div div div p b span  ,Kaufman County Sheriff's Office/AP,0,14
+html body main div section article div div div div div p b b span  ,hide caption,0,15
+html body main div section article div div div div b b span  ,toggle caption,0,13
+html body main div section article div div div span  ,Kaufman County Sheriff's Office/AP,0,10
+html body main div section article div div div div p span  ,The Dallas Police Department says Officer Amber Guyger's employment has been terminated.,0,12
+html body main div section article div div div div span  ,Kaufman County Sheriff's Office/AP,0,11
+html body main div section article div p span  ,The Dallas Police Department has fired Officer Amber Guyger after she fatally shot a black man in his own home earlier this month.,1,9
+html body main div section article div p span  ,"Guyger told investigators that she shot 26-year-old Botham Jean on Sept. 6 after she mistakenly entered what she believed was her apartment in the same complex and saw someone she thought was a burglar. The incident has raised tensions in Texas, with demonstrators demanding that she be fired.",1,9
+html body main div section article div p span  ,"On Sept. 9, Guyger was arrested and charged with manslaughter, as NPR's Bill Chappell and Barbara Campbell",1,9
+html body main div section article div p a span  ,reported,1,10
+html body main div section article div p span  ,". She posted a $300,000 bond and was quickly released.",1,9
+html body main div section article div p span  ,"After completing an internal investigation, the police department",1,9
+html body main div section article div p a span  ,said,1,10
+html body main div section article div p span  ,"Guyger was ""terminated for her actions"" during her arrest.",1,9
+html body main div section article div p span  ,"""An Internal Affairs investigation concluded that on September 9, 2018, Officer Guyger, #10702, engaged in adverse conduct when she was arrested for Manslaughter,"" the police statement read, without providing details. It added that Guyger may appeal her termination.",1,9
+html body main div section article div p span  ,"Guyger had worked for the Dallas Police Department since November 2013. Before she was fired, she ""remained on the city payroll on administrative leave,""",1,9
+html body main div section article div p a span  ,The Texas Tribune reports,1,10
+html body main div section article div p span  ,.,1,9
+html body main div section article div p a span  ,As KERA has reported,1,10
+html body main div section article div p span  ,", lawyers for the victim's family say Guyger's version of events ""contradicts accounts from neighbors in the apartment complex.""",1,9
+html body main div section article div div div div h3 a span  ,National,0,13
+html body main div section article div div div div h3 a span  ,'Botham Chose Everyone': Funeral For Slain Dallas Man Draws Hundreds,0,13
+html body main div section article div p span  ,"""An affidavit for an arrest warrant says the officer found the door ajar at what she thought was her own apartment,"" NPR previously reported. ""It says it was dark inside, she saw the silhouette of a man, and she gave him orders that he didn't follow.""",1,9
+html body main div section article div p span  ,"Guyger said she called 911. Jean died at a local hospital of a gunshot wound to the chest, according to the Dallas County Medical Examiner's office, which ruled his death a homicide.",1,9
+html body main div section article div p span  ,"A lawyer for Jean's family has told local media that two witnesses heard a woman knocking on Jean's door, apparently asking to be allowed into the apartment.",1,9
+html body main div section article div div div div h3 a span  ,Elections,0,13
+html body main div section article div div div div h3 a span  ,"Surprisingly Close Texas Senate Race Sparks Testy Debate For Cruz, O'Rourke",0,13
+html body main div section article div p span  ,"The Dallas County district attorney has expressed a desire to present the case to a grand jury ??? which, as KERA notes, could result in stiffer charges.",1,9
+html body main div section article div p span  ,"""We're looking at every conceivable, possible thing that we can look at to be able to bring this case to the grand jury,"" District Attorney Faith Johnson",1,9
+html body main div section article div p a span  ,told NPR's Here & Now,1,10
+html body main div section article div p span  ,"last week. ""And it won't be tomorrow, it won't be next week, because we say to people, 'We want to get it right.' """,1,9
+html body main div section article div p span  ,"Jean's funeral earlier this month drew a crowd of hundreds at a church near Dallas,",1,9
+html body main div section article div p a span  ,KERA reported,1,10
+html body main div section article div p span  ,.,1,9
+html body main div section article div p span  ,"""We will not stand by quietly as what we believe to be false narratives that diminish any culpability for the offending officer are advanced,"" Minister Sammie Berry was quoted as saying by KERA. ""The undeniable reality is that he was slain in his home, where he had the right to be and was abiding by the law.""",1,9
+html body main div section article div ul li a span  ,amber guyger,0,11
+html body main div section article div ul li a span  ,dallas police department,0,11
+html body main div section article div section div h2 span  ,Sign Up For The NPR Daily Newsletter,0,11
+html body main div section article div section div p span  ,"Catch up on the latest headlines and unique NPR stories, sent every weekday.",0,11
+html body main div section article div section div form label span  ,E-mail address,0,12
+html body main div section article div section div footer p span  ,"By subscribing, you agree to",0,12
+html body main div section article div section div footer p a span  ,NPR's terms of use,0,13
+html body main div section article div section div footer p span  ,and,0,12
+html body main div section article div section div footer p a span  ,privacy policy,0,13
+html body main div section article div section div footer p span  ,.,0,12
+html body main div section footer div div div h6 span  ,Read & Listen,0,11
+html body main div section footer div div div ul li a span  ,Home,0,13
+html body main div section footer div div div ul li a span  ,News,0,13
+html body main div section footer div div div ul li a span  ,Arts & Life,0,13
+html body main div section footer div div div ul li a span  ,Music,0,13
+html body main div section footer div div div ul li a span  ,Podcasts,0,13
+html body main div section footer div div div ul li a span  ,Programs,0,13
+html body main div section footer div div div h6 span  ,Connect,0,11
+html body main div section footer div div div ul li a span  ,Newsletters,0,13
+html body main div section footer div div div ul li a span  ,Facebook,0,13
+html body main div section footer div div div ul li a span  ,Twitter,0,13
+html body main div section footer div div div ul li a span  ,Instagram,0,13
+html body main div section footer div div div ul li a span  ,Contact,0,13
+html body main div section footer div div div ul li a span  ,Help,0,13
+html body main div section footer div div div h6 span  ,About NPR,0,11
+html body main div section footer div div div ul li a span  ,Overview,0,13
+html body main div section footer div div div ul li a span  ,Finances,0,13
+html body main div section footer div div div ul li a span  ,People,0,13
+html body main div section footer div div div ul li a span  ,Press,0,13
+html body main div section footer div div div ul li a span  ,Ombudsman,0,13
+html body main div section footer div div div ul li a span  ,Corrections,0,13
+html body main div section footer div div div h6 span  ,Get Involved,0,11
+html body main div section footer div div div ul li a span  ,Support Public Radio,0,13
+html body main div section footer div div div ul li a span  ,Sponsor NPR,0,13
+html body main div section footer div div div ul li a span  ,NPR Careers,0,13
+html body main div section footer div div div ul li a span  ,NPR Shop,0,13
+html body main div section footer div div div ul li a span  ,NPR Events,0,13
+html body main div section footer div div div ul li a span  ,Visit NPR,0,13
+html body main div section footer div div ul li a span  ,Terms of Use,0,12
+html body main div section footer div div ul li a span  ,Privacy,0,12
+html body main div section footer div div ul li a span  ,Your Privacy Choices,0,12
+html body main div section footer div div ul li a span  ,Text Only,0,12
+html body main div section footer div div ul li span  ,?? 2018 npr,0,11
+html body main div div aside p span  ,NPR thanks our sponsors,0,8
+html body main div div aside p a span  ,Become an NPR sponsor,0,9

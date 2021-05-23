@@ -1,0 +1,337 @@
+tag,content,label,depth
+html body section nav div ul li a span  ,NYMag.com,0,9
+html body section nav div ul li div a span  ,New York Magazine,0,10
+html body section nav div ul li div div div a span  ,Subscribe to the Magazine,0,12
+html body section nav div ul li div div div a span  ,Give a Gift Subscription,0,12
+html body section nav div ul li div div div a span  ,Buy Back Issues,0,12
+html body section nav div ul li div div div a span  ,Current Issue Contents,0,12
+html body section nav div ul li a span  ,Intelligencer,0,9
+html body section nav div ul li a span  ,Vulture,0,9
+html body section nav div ul li a span  ,The Cut,0,9
+html body section nav div ul li a span  ,Grub Street,0,9
+html body section nav div ul li a span  ,The Strategist,0,9
+html body header div div div div nav ul li a span  ,Style,0,12
+html body header div div div div nav ul li a span  ,Self,0,12
+html body header div div div div nav ul li a span  ,Culture,0,12
+html body header div div div div nav ul li a span  ,Power,0,12
+html body header div div div div div div div div nav ul li a span  ,Style,0,16
+html body header div div div div div div div div nav ul li a span  ,Fashion,0,16
+html body header div div div div div div div div nav ul li a span  ,Beauty,0,16
+html body header div div div div div div div div nav ul li a span  ,Shopping,0,16
+html body header div div div div div div div div nav ul li a span  ,Design Hunting,0,16
+html body header div div div div div div div div nav ul li a em span  ,New York,0,17
+html body header div div div div div div div div nav ul li a span  ,Weddings,0,16
+html body header div div div div div div div div nav ul li a span  ,Parties & Red Carpet,0,16
+html body header div div div div div div div div nav ul li a span  ,Fashion Shows,0,16
+html body header div div div div div div div div nav ul li a span  ,Cathy Horyn,0,16
+html body header div div div div div div div div nav ul li a span  ,Self,0,16
+html body header div div div div div div div div nav ul li a span  ,Health & Wellness,0,16
+html body header div div div div div div div div nav ul li a span  ,Motherhood,0,16
+html body header div div div div div div div div nav ul li a span  ,Advice,0,16
+html body header div div div div div div div div nav ul li a span  ,Sex & Relationships,0,16
+html body header div div div div div div div div nav ul li a span  ,Science of Us,0,16
+html body header div div div div div div div div nav ul li a span  ,Horoscopes,0,16
+html body header div div div div div div div div nav ul li a span  ,Ask Polly,0,16
+html body header div div div div div div div div nav ul li a span  ,Culture,0,16
+html body header div div div div div div div div nav ul li a span  ,Books,0,16
+html body header div div div div div div div div nav ul li a span  ,Television,0,16
+html body header div div div div div div div div nav ul li a span  ,Movies,0,16
+html body header div div div div div div div div nav ul li a span  ,Music,0,16
+html body header div div div div div div div div nav ul li a span  ,Celebrity,0,16
+html body header div div div div div div div div nav ul li a span  ,Power,0,16
+html body header div div div div div div div div nav ul li a span  ,Politics,0,16
+html body header div div div div div div div div nav ul li a span  ,Work,0,16
+html body header div div div div div div div div nav ul li a span  ,Money,0,16
+html body header div div div div div div div div nav ul li a span  ,Rebecca Traister,0,16
+html body header div div div div div div div div ul li a span  ,Latest Stories,0,15
+html body header div div div div div div div div ul li a span  ,Video,0,15
+html body header div div div div div div div div ul li a span  ,About Us,0,15
+html body header div div div div div div div div ul li a span  ,The Cut Shop,0,15
+html body header div div div div div div div div ul li a span  ,NYMag.com,0,15
+html body header div div div div div div div div ul li a span  ,New York Magazine,0,15
+html body header div div div div div div div div ul li a span  ,Intelligencer,0,15
+html body header div div div div div div div div ul li a span  ,Vulture,0,15
+html body header div div div div div div div div ul li a span  ,The Cut,0,15
+html body header div div div div div div div div ul li a span  ,The Strategist,0,15
+html body header div div div div div div div div ul li a span  ,Grub Street,0,15
+html body header div div div a span  ,me too,0,8
+html body header div div div div span  ,After Sexual-Harassment Allegations Matt Lauer Says He’ll ‘Be Back on TV’,0,8
+html body header div div div ul li a span  ,Share,0,10
+html body header div div div ul li a span  ,Tweet,0,10
+html body header div div div ul li a span  ,Pin It,0,10
+html body header div div div div div a span span  ,14,0,11
+html body header div div div div div a span span  ,Comments,0,11
+html body header div div div div div a span  ,Leave a Comment,0,10
+html body header div div div div div div div nav ul li a span  ,Style,0,15
+html body header div div div div div div div nav ul li a span  ,Fashion,0,15
+html body header div div div div div div div nav ul li a span  ,Beauty,0,15
+html body header div div div div div div div nav ul li a span  ,Shopping,0,15
+html body header div div div div div div div nav ul li a span  ,Design Hunting,0,15
+html body header div div div div div div div nav ul li a em span  ,New York,0,16
+html body header div div div div div div div nav ul li a span  ,Weddings,0,15
+html body header div div div div div div div nav ul li a span  ,Parties & Red Carpet,0,15
+html body header div div div div div div div nav ul li a span  ,Fashion Shows,0,15
+html body header div div div div div div div nav ul li a span  ,Cathy Horyn,0,15
+html body header div div div div div div div nav ul li a span  ,Self,0,15
+html body header div div div div div div div nav ul li a span  ,Health & Wellness,0,15
+html body header div div div div div div div nav ul li a span  ,Motherhood,0,15
+html body header div div div div div div div nav ul li a span  ,Advice,0,15
+html body header div div div div div div div nav ul li a span  ,Sex & Relationships,0,15
+html body header div div div div div div div nav ul li a span  ,Science of Us,0,15
+html body header div div div div div div div nav ul li a span  ,Horoscopes,0,15
+html body header div div div div div div div nav ul li a span  ,Ask Polly,0,15
+html body header div div div div div div div nav ul li a span  ,Culture,0,15
+html body header div div div div div div div nav ul li a span  ,Books,0,15
+html body header div div div div div div div nav ul li a span  ,Television,0,15
+html body header div div div div div div div nav ul li a span  ,Movies,0,15
+html body header div div div div div div div nav ul li a span  ,Music,0,15
+html body header div div div div div div div nav ul li a span  ,Celebrity,0,15
+html body header div div div div div div div nav ul li a span  ,Power,0,15
+html body header div div div div div div div nav ul li a span  ,Politics,0,15
+html body header div div div div div div div nav ul li a span  ,Work,0,15
+html body header div div div div div div div nav ul li a span  ,Money,0,15
+html body header div div div div div div div nav ul li a span  ,Rebecca Traister,0,15
+html body header div div div div div div div ul li a span  ,Latest Stories,0,14
+html body header div div div div div div div ul li a span  ,Video,0,14
+html body header div div div div div div div ul li a span  ,About Us,0,14
+html body header div div div div div div div ul li a span  ,The Cut Shop,0,14
+html body header div div div div div div div ul li a span  ,NYMag.com,0,14
+html body header div div div div div div div ul li a span  ,New York Magazine,0,14
+html body header div div div div div div div ul li a span  ,Intelligencer,0,14
+html body header div div div div div div div ul li a span  ,Vulture,0,14
+html body header div div div div div div div ul li a span  ,The Cut,0,14
+html body header div div div div div div div ul li a span  ,The Strategist,0,14
+html body header div div div div div div div ul li a span  ,Grub Street,0,14
+html body section section article header div div div a span  ,me too,1,11
+html body section section article header div div div time span  ,"Aug. 27, 2018",1,11
+html body section section article header div div div h1 span  ,Matt Lauer Says He’ll ‘Be Back on TV’,1,11
+html body section section article header div div div div span span  ,By,1,12
+html body section section article header div div div div span span a span  ,Opheli Garcia Lawler,1,14
+html body section section article section div div div div span  ,Matt Lauer.,1,11
+html body section section article section div div div div span  ,Photo: Chance Yeh/Getty Images,1,11
+html body section section article section div p a span  ,Matt Lauer,1,10
+html body section section article section div p span  ,", who was accused of",1,9
+html body section section article section div p a span  ,sexual harassment,1,10
+html body section section article section div p span  ,"and fired from NBC in 2017, thinks he’s going to be back on television sometime soon. According to “Page Six,” Lauer was dining at a restaurant in New York City when he told fans that he would be in front of cameras again soon.",1,9
+html body section section article section div p span  ,"“I’ve been busy being a dad,” Lauer reportedly said. “But don’t worry, I’ll be back on TV.”",1,9
+html body section section article section div p span  ,When Lauer was,1,9
+html body section section article section div p a span  ,fired from NBC,1,10
+html body section section article section div p span  ,", the network attempted to",1,9
+html body section section article section div p a span  ,erase all traces,1,10
+html body section section article section div p span  ,"of the former host, going so far as to demolish his office. It is safe to assume that he won’t be making any possible comeback at 30 Rock.",1,9
+html body section section article section div p span  ,"Lauer hasn’t divulged exact details of his return to television, but this isn’t the first time there have been rumors of his return. Earlier in the year,",1,9
+html body section section article section div p a span  ,reports surfaced,1,10
+html body section section article section div p span  ,that he was meeting with producers. He is one of many men revealed by the #MeToo movement as sexual predators to,1,9
+html body section section article section div p a span  ,attempt to make a return,1,10
+html body section section article section div p span  ,to the public sphere.,1,9
+html body section section article section div p a span  ,Charlie Rose,1,10
+html body section section article section div p span  ,",",1,9
+html body section section article section div p a span  ,Louis C.K.,1,10
+html body section section article section div p span  ,", and",1,9
+html body section section article section div p a span  ,Lorin Stein,1,10
+html body section section article section div p span  ,have all reportedly sought avenues back into their former careers.,1,9
+html body section section article section div h2 span  ,Tags:,0,9
+html body section section article section div ul li a span  ,power,0,11
+html body section section article section div ul li a span  ,sexual harassment,0,11
+html body section section article section div ul li a span  ,matt lauer,0,11
+html body section section article section div ul li a span  ,celebrity,0,11
+html body section section article section div ul li a span  ,culture,0,11
+html body section section article section div ul li a span  ,me too,0,11
+html body section section article section div ul li a span  ,More,0,11
+html body section section article section div a span span  ,14,0,10
+html body section section article section div a span span  ,Comments,0,10
+html body section section article section div a span  ,Leave a Comment,0,9
+html body section section article section span  ,Matt Lauer Says He’ll ‘Be Back on TV’,0,7
+html body section section div section div h2 span  ,Most Viewed Stories,0,9
+html body section section div section ol li a span  ,What We Know About the Two Sisters Found Dead in the Hudson River,0,10
+html body section section div section ol li a span  ,Lena Dunham Says She’s Sober After Quitting Klonopin,0,10
+html body section section div section ol li a span  ,"Kim, Kylie, and Their Post-Baby Bodies Straddle Each Other for an Ad",0,10
+html body section section div section ol li a span  ,Ariana Grande has 7 Dogs and Regularly Texts Madonna,0,10
+html body section section div section ol li a span  ,Cardi B Just Issued a 10-Part Dressing Down of Nicki Minaj on Instagram,0,10
+html body section section div section div h2 span  ,Best of The Cut,0,9
+html body section section div section ul li a span  ,Tessa Thompson Knows People Can’t Stop Thinking About Her,0,10
+html body section section div section ul li a span  ,Sonoya Mizuno Doesn’t Just Want to Dance,0,10
+html body section section div section ul li a span  ,Marisa Tomei Knows What She’s Worth,0,10
+html body section section div section ul li a span  ,Summer of Rage,0,10
+html body section section div section ul li a span  ,Meet Jorja Smith: The Soul Singer Who Turned Down Drake,0,10
+html body section section div section a span  ,See All,0,8
+html body section div div section h2 span  ,Promoted links by Taboola,0,8
+html body section aside header h2 span  ,The Latest,0,7
+html body section aside a div div span  ,president non grata,0,8
+html body section aside a div div time span  ,9 mins ago,0,9
+html body section aside a div span  ,Bill Clinton’s Past Is Finally Catching Up With Him,0,7
+html body section aside a div span span  ,"In the wake of #MeToo, Democratic candidates are starting to see him as a political liability.",0,8
+html body section aside a div div span  ,celebrity weddings,0,8
+html body section aside a div div time span  ,17 mins ago,0,9
+html body section aside a div span  ,All the Gwyneth Paltrow-iest Details From Gwyneth Paltrow’s Wedding,0,7
+html body section aside a div span span  ,"She flew a Netflix-famed chef 5,000 miles to grill pineapples for 12 hours.",0,8
+html body section aside a div div span  ,now smell this,0,8
+html body section aside a div div time span  ,24 mins ago,0,9
+html body section aside a div span  ,Lana Del Rey and Jared Leto Are the New Faces of Gucci Perfume,0,7
+html body section aside a div span span  ,Featuring a surprise appearance from Courtney Love.,0,8
+html body section aside a div div span  ,the dark arts,0,8
+html body section aside a div div time span  ,11:45 a.m.,0,9
+html body section aside a div span  ,"Justin Bieber and Hailey Baldwin Go to Harry Potter-Themed Bar, Weep",0,7
+html body section aside a div span span  ,See footage of the couple honoring Dark Arts Month with a routine public weep.,0,8
+html body section aside a div div span  ,cut chats,0,8
+html body section aside a div div time span  ,11:36 a.m.,0,9
+html body section aside a div span  ,Bobby Cannavale Is Objectively a Sex Symbol,0,7
+html body section aside a div span span  ,*Kisses fingertips like a horny Italian chef.*,0,8
+html body section aside a div div span  ,By,0,8
+html body section aside a div div span  ,the Cut,0,8
+html body section aside a div div span  ,that's a good look,0,8
+html body section aside a div div time span  ,11:23 a.m.,0,9
+html body section aside a div span  ,Cropped Jackets Aren’t Just for Early Fall,0,7
+html body section aside a div span span  ,Here’s how to wear one in colder weather.,0,8
+html body section aside a div div span  ,By,0,8
+html body section aside a div div span  ,Diana Tsui,0,8
+html body section aside a div div span  ,and,0,8
+html body section aside a div div span  ,Sarah Spellings,0,8
+html body section aside a div div span  ,some personal news,0,8
+html body section aside a div div time span  ,11:07 a.m.,0,9
+html body section aside a div span  ,"Like All Cool Teens, the Cut Is Now on Snapchat",0,7
+html body section aside a div span span  ,Finally!,0,8
+html body section aside a div div time span  ,11:06 a.m.,0,9
+html body section aside a div span  ,"Oh Em Gee, dELiA*s Is Back!",0,7
+html body section aside a div span span  ,See every look from the dELiA*s by Dolls Kill revival collection.,0,8
+html body section aside a div div span  ,By,0,8
+html body section aside a div div span  ,Emilia Petrarca,0,8
+html body section aside a div div span  ,friday sales,0,8
+html body section aside a div div time span  ,10:52 a.m.,0,9
+html body section aside a div span  ,39 Things on Sale You’ll Actually Want to Buy: From Missoni to Hatchimals,0,7
+html body section aside a div span span  ,"Plus, Sorel, Ecco, Sam Edelman, Tom Ford, and the North Face",0,8
+html body section aside a div div span  ,science of us,0,8
+html body section aside a div div time span  ,10:52 a.m.,0,9
+html body section aside a div span  ,How Losing Sleep Messes With Creativity,0,7
+html body section aside a div span span  ,Among the many reasons to adopt an 8:45 bedtime …,0,8
+html body section aside a div div span  ,science of us,0,8
+html body section aside a div div time span  ,10:43 a.m.,0,9
+html body section aside a div span  ,How to Recover From a Night of Bad Dreams,0,7
+html body section aside a div span span  ,Nightmares can cause a real emotional (and even physical) impact. Here’s how to minimize it.,0,8
+html body section aside a div div span  ,By,0,8
+html body section aside a div div span  ,Katie Heaney,0,8
+html body section aside a div div span  ,protests,0,8
+html body section aside a div div time span  ,10:25 a.m.,0,9
+html body section aside a div span  ,49ers Cheerleader Becomes First to Take a Knee During National Anthem,0,7
+html body section aside a div span span  ,This seems to be the first time an NFL cheerleader has joined the protest against police brutality.,0,8
+html body section aside a div div span  ,my two cents,0,8
+html body section aside a div div time span  ,9:46 a.m.,0,9
+html body section aside a div span  ,"‘After My Parents Died, I Got Enough Money to Buy an Apartment in Cash’",0,7
+html body section aside a div span span  ,Will it ever stop feeling weird?,0,8
+html body section aside a div div span  ,By,0,8
+html body section aside a div div span  ,Charlotte Cowles,0,8
+html body section aside a div div span  ,over easy,0,8
+html body section aside a div div time span  ,9:26 a.m.,0,9
+html body section aside a div span  ,"I Ruined This Soup, But I Promise It Wasn’t My Fault",0,7
+html body section aside a div span span  ,Trying to make butternut-squash soup for the fall.,0,8
+html body section aside a div div span  ,By,0,8
+html body section aside a div div span  ,Madeleine Aggeler,0,8
+html body section aside a div div span  ,ask an influencer,0,8
+html body section aside a div div time span  ,9:00 a.m.,0,9
+html body section aside a div span  ,"How to Wear Over-the-Knee Boots, According to 11 Fashionable Women",0,7
+html body section aside a div span span  ,New ways to style the winter staple.,0,8
+html body section aside a div div span  ,By,0,8
+html body section aside a div div span  ,Bianca Nieves,0,8
+html body section aside a div div span  ,music,0,8
+html body section aside a div div time span  ,7:30 a.m.,0,9
+html body section aside a div span  ,Robyn Knows What It’s Like to Feel Bad,0,7
+html body section aside a div span span  ,"After an eight-year hiatus, the Swedish electro-pop singer reemerges.",0,8
+html body section aside a div div span  ,By,0,8
+html body section aside a div div span  ,Jessica Hopper,0,8
+html body section aside a div div span  ,engagements,0,8
+html body section aside a div div time span  ,Yesterday at 7:58 p.m.,0,9
+html body section aside a div span  ,Ariana Grande Goes on Subtweet Spree After Pete Davidson’s Joke,0,7
+html body section aside a div span em span  ,SNL,0,9
+html body section aside a div span  ,Proposal,0,7
+html body section aside a div span span  ,“for somebody who claims to hate relevancy u sure love clinging to it huh”,0,8
+html body section aside a div div span  ,crime,0,8
+html body section aside a div div time span  ,Yesterday at 7:45 p.m.,0,9
+html body section aside a div span  ,Director of,0,7
+html body section aside a div span em span  ,Blue Is the Warmest Color,0,9
+html body section aside a div span  ,Accused of Sexual Assault,0,7
+html body section aside a div span span  ,Abdellatif Kechiche was accused of sexual assault by an unnamed woman in Paris.,0,8
+html body section aside a div div span  ,lavish government spending,0,8
+html body section aside a div div time span  ,Yesterday at 6:58 p.m.,0,9
+html body section aside a div span  ,"The Hotel Bill for Melania Trump’s One-Day Cairo Visit Was $95,000",0,7
+html body section aside a div span span  ,And she didn’t even stay the night there.,0,8
+html body section aside a div div span  ,supreme,0,8
+html body section aside a div div time span  ,Yesterday at 6:30 p.m.,0,9
+html body section aside a div span  ,"19 Faces of Trump’s Accusers, Now on One Supreme Shirt",0,7
+html body section aside a div span span  ,Including Stormy Daniels.,0,8
+html body section aside div a span  ,More Stories,0,7
+html body footer div div div a svg title span  ,The Cut,0,10
+html body footer div div ul li a span  ,Style,0,9
+html body footer div div ul li a span  ,Self,0,9
+html body footer div div ul li a span  ,Culture,0,9
+html body footer div div ul li a span  ,Power,0,9
+html body footer div ul li a span  ,Newsletters,0,8
+html body footer div ul li a span  ,About Us,0,8
+html body footer div ul li a span  ,Contact Us,0,8
+html body footer div ul li a span  ,Media Kit,0,8
+html body footer div ul li a span  ,We’re Hiring,0,8
+html body footer div ul li a span  ,Trademark,0,8
+html body footer div ul li a span  ,Privacy,0,8
+html body footer div ul li a span  ,Terms,0,8
+html body footer div ul li a span  ,Ad Choices,0,8
+html body footer div div span  ,"© 2018, New York Media LLC.",0,6
+html body footer div div a span  ,View all trademarks,0,7
+html body div section div header ul li span  ,LOG IN,0,9
+html body div section div header ul li span  ,REGISTER,0,9
+html body div section div section div span  ,Social Account,0,8
+html body div section div section div span  ,or,0,8
+html body div section div section form div label  ,Remember Me,0,9
+html body div section div section form div a span  ,Forgot Password?,0,10
+html body div section div section div span  ,Sign up with a social account:,0,8
+html body div section div section p span  ,Don’t worry. We will,0,8
+html body div section div section p em span  ,never,0,9
+html body div section div section p span  ,post to your social media account without your permission.,0,8
+html body div section div section div span  ,or create an account,0,8
+html body div section div section form fieldset div label  ,Female,0,10
+html body div section div section form fieldset div label  ,Male,0,10
+html body div section div section form label span  ,NYMag.com may email me about new site features and special offers.,0,9
+html body div section div section form label span  ,"By creating an account, you agree with the",0,9
+html body div section div section form label span a span  ,Terms of Service,0,11
+html body div section div section form label span  ,and,0,9
+html body div section div section form label span a span  ,Privacy Policy,0,11
+html body div section div section form label span  ,.,0,9
+html body div section div section p span  ,We’ve sent a registration confirmation email to,0,8
+html body div section div section p span  ,.,0,8
+html body div section div section p span  ,Please follow the instructions in the email within 48 hours to complete your registration.,0,8
+html body div section div section div span  ,Forgot Your Password?,0,8
+html body div section div section p span  ,Enter your email address or username and we’ll email instructions on how to reset your password.,0,8
+html body div section div section p span  ,This username or email is associated with a Facebook account.,0,8
+html body div section div section div span  ,Log in with your social account:,0,8
+html body div section div section div span  ,Check Your Inbox,0,8
+html body div section div section p span  ,We’ve sent you an email with instructions on how to reset your password.,0,8
+html body div section div section div span  ,Choose a Username,0,8
+html body div section div section p span  ,Your username will appear next to your comments.,0,8
+html body div section div section form p span  ,Email:,0,9
+html body div section div section form p span  ,"By creating a NYMag.com account, you agree with the",0,9
+html body div section div section form p a span  ,Terms of Service,0,10
+html body div section div section form p span  ,and,0,9
+html body div section div section form p a span  ,Privacy Policy,0,10
+html body div section div section form p span  ,.,0,9
+html body div section div section p span  ,You already have an account registered under,0,8
+html body div section div section p span  ,. You can link your Facebook account to your existing account.,0,8
+html body div section div section a span  ,"No, Sign In",0,8
+html body div section div section div span  ,"Welcome! You are now a registered user of NYMag.com, TheCut.com, Vulture.com, ScienceOfUs.com and GrubStreet.com.",0,8
+html body div section div section p span  ,Want more? Subscribe to our daily newsletters.,0,8
+html body div section div section form ul li label  ,Daily Intelligencer,0,10
+html body div section div section form ul li p span  ,"Constant news updates on politics, business, media, and real estate.",0,11
+html body div section div section form ul li label  ,Vulture,0,10
+html body div section div section form ul li p span  ,"Breaking news and analysis on all the latest TV, movies, music, books, theater, and art.",0,11
+html body div section div section form ul li label  ,The Cut,0,10
+html body div section div section form ul li p span  ,"Get the latest fashion, beauty, and shopping news and recommendations.",0,11
+html body div section div section a span  ,No Thanks,0,8
+html body div section div section p span  ,We're sorry. You must confirm your registration within 48 hours of submitting your registration request. Please,0,8
+html body div section div section p a span  ,register,0,9
+html body div section div section p span  ,again.,0,8
+html body div section div section p span  ,You are already registered. Please,0,8
+html body div section div section p a span  ,log in,0,9
+html body div section div section p span  ,.,0,8
+html body div section div section div span  ,Reset Your Password,0,8
+html body div section div section p span  ,Enter a new password,0,8
+html body div section div section p span  ,Your password has been successfully changed.,0,8
+html body div section div section p span  ,Please,0,8
+html body div section div section p a span  ,log in,0,9
+html body div section div section p span  ,.,0,8

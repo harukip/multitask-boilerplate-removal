@@ -1,0 +1,495 @@
+tag,content,label,depth
+html body div div div form div h2 span  ,Sign in with your social network,0,9
+html body div div div form div h2 span  ,Sign in with your email address,0,9
+html body div div div form div div span  ,Please check the field(s) below and try again,0,9
+html body div div div form div div label span  ,Email,0,10
+html body div div div form div div label span  ,Password,0,10
+html body div div div form div div div span  ,show,0,10
+html body div div div form div div span a span  ,Forgotten your password?,0,11
+html body div div div form div p span  ,Don't have an account?,0,9
+html body div div div form div p a span  ,Register,0,10
+html body div div div div h2 span  ,Benefits of registering,0,8
+html body div div div div h2 span  ,Register with your social network,0,8
+html body div div div div p a span  ,Register with email,0,9
+html body div div div div p span  ,Already have an account?,0,8
+html body div div div div p a span  ,Sign in,0,9
+html body div div div div form div span  ,Please check the field(s) below and try again,0,9
+html body div div div div form div label span  ,Email,0,10
+html body div div div div form div span  ,The email address you have provided is taken.,0,9
+html body div div div div form div span a span  ,Click here to sign in,0,11
+html body div div div div form div div div label span  ,First name,0,12
+html body div div div div form div div div label span  ,Last name,0,12
+html body div div div div form div div label span  ,Screen name,0,11
+html body div div div div form div div span  ,(The name which appears when posting comments),0,10
+html body div div div div form div label span  ,Password,0,10
+html body div div div div form div div span  ,show,0,10
+html body div div div div form div span  ,At least 6 characters,0,9
+html body div div div div form div div label span  ,"Yes, keep me up to date with breaking news, offers, promotions and exclusive content from Daily Express by email.",0,11
+html body div div div div form div div label span  ,"Yes, I'd like to be contacted by TM Publishing 1 Plc Companies about their offers, goods and services by email.",0,11
+html body div div div div form div div label span  ,"Yes, I'd like to be contacted by selected 3rd parties about their offers, goods and services by email.",0,11
+html body div div div div form p span  ,By registering I understand and agree to the,0,9
+html body div div div div form p a span  ,Terms of use,0,10
+html body div div div div form p span  ,&,0,9
+html body div div div div form p a span  ,Privacy policy,0,10
+html body div div div div form div span  ,Already have an account?,0,9
+html body div div div div form div span a span  ,Sign in,0,11
+html body div div div div form h2 span  ,We still need some details from you...,0,9
+html body div div div div form div span  ,Please check the field(s) below and try again,0,9
+html body div div div div form span span div span  ,Please check the field(s) below and try again,0,11
+html body div div div div form div label span  ,Email,0,10
+html body div div div div form div span  ,The email address you have provided is taken.,0,9
+html body div div div div form div span a span  ,Click here to sign in,0,11
+html body div div div div form div div div label span  ,First name,0,12
+html body div div div div form div div div label span  ,Last name,0,12
+html body div div div div form div div label span  ,Screen name,0,11
+html body div div div div form div div span  ,(The name which appears when posting comments),0,10
+html body div div div div form div div label span  ,"Yes, keep me up to date with breaking news, offers, promotions and exclusive content from Daily Express by email.",0,11
+html body div div div div form div div label span  ,"Yes, I'd like to be contacted by TM Publishing 1 Plc Companies about their offers, goods and services by email.",0,11
+html body div div div div form div div label span  ,"Yes, I'd like to be contacted by selected 3rd parties about their offers, goods and services by email.",0,11
+html body div div div div form p span  ,By registering I understand and agree to the,0,9
+html body div div div div form p a span  ,Terms of use,0,10
+html body div div div div form p span  ,&,0,9
+html body div div div div form p a span  ,Privacy policy,0,10
+html body div div div form div h2 span  ,We found your email in our system,0,9
+html body div div div form div p span  ,Please provide your site password to link to your existing account or,0,9
+html body div div div form div p a span  ,click here,0,10
+html body div div div form div p span  ,to create a new account,0,9
+html body div div div form div div div strong span  ,Please check the field(s) below and try again,0,11
+html body div div div form div div label span  ,Email,0,10
+html body div div div form div div label span  ,Password,0,10
+html body div div div form div div div span  ,show,0,10
+html body div div div form div div span a span  ,Forgotten your password?,0,11
+html body div div div form div div span  ,Please check the field(s) below and try again,0,9
+html body div div div form div p span  ,Please enter your email address to reset your password,0,9
+html body div div div form div div label span  ,Email,0,10
+html body div div div form div p a span  ,Sign in with a different account,0,10
+html body div div div div h2 span  ,We???ve sent you an email to reset your password,0,8
+html body div div div div p span  ,"The email should arrive straight away, it may be in your spam.",0,8
+html body div div div div p span  ,The link will expire after 24 hours.,0,8
+html body div div form div label span  ,We have not verified that the email belongs to you. Please check your inbox for the verification email.,0,8
+html body div div form div label span  ,"To resend the verification email, please enter your email address and click Submit.",0,8
+html body div div form div div label span  ,Email:,0,9
+html body div div form div label span  ,To login with a different account,0,8
+html body div div form div label a span  ,click here,0,9
+html body div div div label span  ,A confirmation email has been sent to you with a link to activate the account.,0,7
+html body div header h2 a span  ,Express. Home of the Daily and Sunday Express.,0,7
+html body div header div div ul li a span  ,Find us on Facebook,0,10
+html body div header div div ul li a span  ,Follow us on Twitter,0,10
+html body div header div div div div div ul li a span  ,Login,0,13
+html body div header div div div div div ul li a span  ,Register,0,13
+html body div header div div div div div ul li a span  ,Your Account,0,13
+html body div header div div div div div ul li a span  ,Sign Out,0,13
+html body div header div div div a span  ,Apps,0,9
+html body div header div div div a span  ,Puzzles,0,9
+html body div header div div div a span  ,Horoscopes,0,9
+html body div header div div div a span  ,Shop,0,9
+html body div header div div div a span  ,Paper,0,9
+html body div header div div div a span span  ,8,0,10
+html body div header div div div a span  ,??C,0,9
+html body div header nav div ul li a span  ,HOME,0,10
+html body div header nav div ul li a span  ,News,0,10
+html body div header nav div ul li a span  ,Showbiz & TV,0,10
+html body div header nav div ul li a span  ,Sport,0,10
+html body div header nav div ul li a span  ,Comment,0,10
+html body div header nav div ul li a span  ,Finance,0,10
+html body div header nav div ul li a span  ,Travel,0,10
+html body div header nav div ul li a span  ,Entertainment,0,10
+html body div header nav div ul li a span  ,Life & Style,0,10
+html body div header nav ul li a span  ,Gaming,0,9
+html body div header nav ul li a span  ,Theatre,0,9
+html body div header nav ul li a span  ,Films,0,9
+html body div header nav ul li a span  ,Books,0,9
+html body div header nav ul li a span  ,Music,0,9
+html body div header nav ul li a span  ,Puzzles,0,9
+html body div header nav ul li a span  ,Home,0,9
+html body div header nav ul li a span  ,Entertainment,0,9
+html body div header nav ul li a span  ,Gaming,0,9
+html body div header nav ul li span  ,Fortnite season 6: When is the Fortnite season 6 release date? When does season 5 end?,0,8
+html body div div div div div a div div div span  ,Fortnite season 6: Has Epic Games just confirmed THIS big Battle???,0,12
+html body div div div div div a div div div span span  ,(Express - Videos),0,13
+html body div div div div div a div div div span  ,Cristiano Ronaldo and Lionel Messi claim made by Luka Modric???,0,12
+html body div div div div div a div div div span span  ,(Express - Videos),0,13
+html body div div div div div a div div div span  ,Fortnite season 6 release date SHOCK and huge season 5 Battle???,0,12
+html body div div div div div a div div div span span  ,(Express - Videos),0,13
+html body div div div div div a div div div span  ,"Fortnite season 6 COUNTDOWN: Release time, skins, servers down???",0,12
+html body div div div div div a div div div span span  ,(Express - Videos),0,13
+html body div div div div div a div div div span  ,Tiger Woods girlfriend: Erica Herman dazzles as she makes debut???,0,12
+html body div div div div div a div div div span span  ,(Express - Videos),0,13
+html body div div div div div div div div div div span  ,Fortnite season 6: Has Epic Games just confirmed THIS big Battle???,0,13
+html body div div div div div div div div div div span span  ,(Express - Videos),0,14
+html body div div div div div div div div div div span  ,Cristiano Ronaldo and Lionel Messi claim made by Luka Modric???,0,13
+html body div div div div div div div div div div span span  ,(Express - Videos),0,14
+html body div div div div div div div div div div span  ,Fortnite season 6 release date SHOCK and huge season 5 Battle???,0,13
+html body div div div div div div div div div div span span  ,(Express - Videos),0,14
+html body div div div div div div div div div div span  ,"Fortnite season 6 COUNTDOWN: Release time, skins, servers down???",0,13
+html body div div div div div div div div div div span span  ,(Express - Videos),0,14
+html body div div div div div div div div div div span  ,Tiger Woods girlfriend: Erica Herman dazzles as she makes debut???,0,13
+html body div div div div div div div div div div span span  ,(Express - Videos),0,14
+html body div div div article header h1 span  ,Fortnite season 6: When is the Fortnite season 6 release date? When does season 5 end?,1,9
+html body div div div article header h3 span  ,FORTNITE season 6 release date has been revealed by Epic Games. So when will Fortnite season 6 start? And when is the Fortnite season 5 end date?,1,9
+html body div div div article header div div div span  ,By,1,11
+html body div div div article header div div div a span  ,Dion Dassanayake,1,12
+html body div div div article header div div div a span  ,Dion Dassanayake,1,12
+html body div div div article header div div div time span  ,PUBLISHED:,1,12
+html body div div div article header div div div time span  ,"15:44, Fri, Sep 21, 2018",1,12
+html body div div div article header div div div time span  ,| UPDATED:,1,12
+html body div div div article header div div div time span  ,"15:44, Fri, Sep 21, 2018",1,12
+html body div div div article header div div span  ,0,0,10
+html body div div div article div div div span  ,Fortnite season 6 - When is the release date? When will season 6 start and season 5 finish?,0,10
+html body div div div article div div div span span  ,(Image: EPIC GAMES),0,11
+html body div div div article div div div p strong a span  ,FORTNITE,1,13
+html body div div div article div div div p strong span  ,SEASON 6 RELEASE DATE - UPDATE TWO:,1,12
+html body div div div article div div div p span  ,The Fortnite season 6 release date and Fortnite season 5 end date has been pushed back.,1,11
+html body div div div article div div div p span  ,"At first when Fortnite season 5 was launched an in-game countdown said the Battle Pass would end on September 17, with this later changing to September 25.",1,11
+html body div div div article div div div p span  ,"And now Epic Games has officially confirmed the Fortnite season 6 release date as Thursday September 27, with Wednesday September 26 the last full day to play season 5.",1,11
+html body div div div article div div div p span  ,On Twitter the official Fortnite account posted: ???Season 6 is now dropping from the Battle Bus on September 27.,1,11
+html body div div div article div div div p span  ,"???Celebrate its arrival and unlock those final Battle Pass rewards with an additional 400% Match XP all weekend, from now until September 24 at 8 AM ET (1200 GMT). Glide into the party!???",1,11
+html body div div div article div div div div div header h3 span  ,Fortnite season 5 skins - New Battle Pass skins including tier 100 Ragnarok outfit,0,14
+html body div div div article div div div div div header span  ,"Thu, July 12, 2018",0,13
+html body div div div article div div div div div header h2 span  ,Fortnite season 5 skins have been revealed today. Here are some of the new outfits you can get in the Battle Pass including the tier 100 Ragnarok reward,0,14
+html body div div div article div div div div div div div a span  ,Play slideshow,0,15
+html body div div div article div div div div div div div div span  ,EPIC GAMES,0,15
+html body div div div article div div div div div div div span  ,1,0,14
+html body div div div article div div div div div div div span  ,of,0,14
+html body div div div article div div div div div div div span  ,12,0,14
+html body div div div article div div div div div div p span  ,Fortnite season 5 skins - Here are some of the new outfits for the Battle Pass,0,14
+html body div div div article div div div p strong span  ,FORTNITE SEASON 6 RELEASE DATE - UPDATE ONE:,1,12
+html body div div div article div div div p span  ,The Fortnite season 5 end date has changed in the Battle Pass countdown.,1,11
+html body div div div article div div div p span  ,The Fortnite Battle Pass has a countdown saying how much time is left until season 5 finishes.,1,11
+html body div div div article div div div p span  ,"Previously it said that Fortnite season 5 would end on Monday September 17 2018, but now it says it will end on Monday September 24.",1,11
+html body div div div article div div div p span  ,This comes as rumours have surfaced that the Fortnite season 5 end date could get delayed even further until Tuesday October 2.,1,11
+html body div div div article div div div p span  ,This could mean Fortnite season 6 would have a release date on Wednesday October 3 if it begins the day after the Fortnite season 5 end.,1,11
+html body div div div article div div div p span  ,"Alternatively, if the Fortnite season 6 release date is delayed by a day or two it could launch on Thursday October 4 or Friday October 5.",1,11
+html body div div div article div div div p strong span  ,ORIGINAL:,1,12
+html body div div div article div div div p span  ,Fortnite season 6 release date could have been revealed by Epic Games. Here???s what we know about when season 6 could start and the season 5 end date.,1,11
+html body div div div article div div div p span  ,The Fortnite season 5 Battle Pass is out now and is running a countdown showing how much time is left for Battle Royale players to play.,1,11
+html body div div div article div div div p span  ,The Fortnite season 5 Battle Pass brings with it over 100 tiers to unlock and over 100 rewards for Battle Royale fans.,1,11
+html body div div div article div div div p span  ,At the moment the countdown in Battle Pass says that Fortnite season 5 will have an end date of Monday September 17 2018.,1,11
+html body div div div article div div div p span  ,"With past season crossovers, the brand new Battle Pass began the day after the final day of the previous Fortnite season.",1,11
+html body div div div article div div div p span  ,So that could mean that Fortnite season 6 has a release date of Tuesday September 18 2018.,1,11
+html body div div div article div div div p span  ,Fortnite season 4 also launched on a Tuesday so Epic Games do have form in launching new Fortnite seasons on that day.,1,11
+html body div div div article div div div p span  ,"However, it???s important to bear in mind that Epic Games delayed past Battle Royale season launches.",1,11
+html body div div div article div div div p span  ,The end of Fortnite season 4 and the launch of Fortnite season 5 was pushed back by two days.,1,11
+html body div div div article div div div p span  ,While the launch of Fortnite season 3 and the end of Fortnite season 2 was also pushed back by Epic Games.,1,11
+html body div div div article div div div p span  ,"So, if Epic Games decides to delay Fortnite season 6 by two days then it could, alternatively, have a Thursday September 20 release date.",1,11
+html body div div div article div div div p span  ,"In terms of a start time, Epic Games typically begin server downtime for their new Fortnite seasons at 9am UK time, which is 4am eastern and 1am pacific.",1,11
+html body div div div article div div div p span  ,"So, whether Fortnite season 6 begins on Tuesday September 18 or Thursday September 20 - it's likely that servers will be going down around those times.",1,11
+html body div div div article div div div p span  ,"At the moment, what Fortnite season 6 could feature remains a complete mystery.",1,11
+html body div div div article div div div p span  ,"You can bet there will be plenty of new skins, challenges and maybe even some new map locations in Fortnite season 6.",1,11
+html body div div div article div div div p span  ,"Fortnite season 5 started with cracks still appearing in the Battle Royale sky, new locations and rifts that transport players hundreds of feet into the air.",1,11
+html body div div div article div div div header h3 span  ,Related articles,0,12
+html body div div div article div div div ul li a span  ,"Fortnite season 5 map changes: Paradise Palms, Lazy Links, Desert POIs",0,13
+html body div div div article div div div ul li a span  ,Fortnite season 5 BEGINS with epic new Battle Royale trailer,0,13
+html body div div div article div div div p span  ,It remains to be seen whether these cracks will get bigger and bigger throughout season 5.,1,11
+html body div div div article div div div p span  ,And whether the pay off to these cracks will occur during Fortnite season 5.,1,11
+html body div div div article div div div p span  ,"Alternatively, could it be possible that these cracks continue getting bigger until the start of Fortnite season 6 - and that???s when they break completely open?",1,11
+html body div div div article div div div p span  ,"Maybe that will be the point when a completely new map for Battle Royale is released, or multiple maps are available for players to choose from.",1,11
+html body div div div article div div div p strong span  ,"??? The Fortnite season 5 Battle Pass can be purchased for 950 V-Bucks right now on PS4, Nintendo Switch, Xbox One, Mobile, PC and Macs. An Android release is also planned for this summer.",1,12
+html body div div div div div header h3 span  ,Related articles,0,10
+html body div div div div div ul li a span  ,"Fortnite update 5.0 patch notes REVEALED: New map locations, Karts",0,11
+html body div div div div div ul li a span  ,Fortnite season 5 SKINS: Official skins revealed for new Battle Pass,0,11
+html body div div div div div ul li a span  ,Fortnite Season 5 Battle Pass rewards: How to quickly level up in F...,0,11
+html body div div div div div a span  ,Fortnite,0,9
+html body div div div div footer div div div span div span  ,Recommended stories,0,13
+html body div div div div footer div div div div div a div div div span  ,Fortnite season 7: When is Fortnite season 7 release date? When does season 6 end?,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Express - Videos),0,17
+html body div div div div footer div div div div div a div div div span  ,Spiele dieses Spiel f??r 12 Minuten und sieh wieso jeder s??chtig danach ist,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Vikings),0,17
+html body div div div div footer div div div div div a div div div span  ,Venom film end credit scene CONFIRMED: 'Marvel fans need to stay in their seats for THIS',0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Express - Videos),0,17
+html body div div div div footer div div div div div a div div div span  ,Play this for 1 minute and see why everyone is addicted,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Throne),0,17
+html body div div div div footer div div div div div a div div div span  ,Brooks Koepka girlfriend: Jena Sims puts on jaw-dropping display amid Ryder Cup 2018,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Express - Videos),0,17
+html body div div div div footer div div div div div a div div div span  ,The Most Addictive Game of the Year,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Forge Of Empires),0,17
+html body div div div div footer div div div div div a div div div span  ,Eigent??mer: Das ist Ihr Zuhause in Hannover wert!,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - ImmobilienScout24),0,17
+html body div div div div footer div div div div div a div div div span  ,"Wenn Sie hier eine Immobilie besitzen, sollten Sie schnell verkaufen",0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - HOMEDAY),0,17
+html body div div div div footer div div div div div a div div div span  ,Privat versichert hei??t bei uns nicht Altersarmut!,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - ottonova),0,17
+html body div div div div footer div div div div div a div div div span  ,Ein St??ck Natur am Handgelenk: Hole dir dein Unikat aus Holz und Stein,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Holzkern),0,17
+html body div div div div footer div div div div div a div div div span  ,Tods??nden beim Hausverkauf: So vermeiden Sie die Fehler,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - HOMEDAY),0,17
+html body div div div div footer div div div div div a div div div span  ,Neuer Wirkstoff gegen sch??tteres Haar bei M??nnern?,0,17
+html body div div div div footer div div div div div a div div div span  ,(Sponsored - Thiocyn),0,17
+html body div div div div footer div div div div div div div div div div span  ,Fortnite season 7: When is Fortnite season 7 release date? When does season 6 end?,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Express - Videos),0,18
+html body div div div div footer div div div div div div div div div div span  ,Spiele dieses Spiel f??r 12 Minuten und sieh wieso jeder s??chtig danach ist,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Vikings),0,18
+html body div div div div footer div div div div div div div div div div span  ,Venom film end credit scene CONFIRMED: 'Marvel fans need to stay in their seats for THIS',0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Express - Videos),0,18
+html body div div div div footer div div div div div div div div div div span  ,Play this for 1 minute and see why everyone is addicted,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Throne),0,18
+html body div div div div footer div div div div div div div div div div span  ,Brooks Koepka girlfriend: Jena Sims puts on jaw-dropping display amid Ryder Cup 2018,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Express - Videos),0,18
+html body div div div div footer div div div div div div div div div div span  ,The Most Addictive Game of the Year,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Forge Of Empires),0,18
+html body div div div div footer div div div div div div div div div div span  ,Eigent??mer: Das ist Ihr Zuhause in Hannover wert!,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - ImmobilienScout24),0,18
+html body div div div div footer div div div div div div div div div div span  ,"Wenn Sie hier eine Immobilie besitzen, sollten Sie schnell verkaufen",0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - HOMEDAY),0,18
+html body div div div div footer div div div div div div div div div div span  ,Privat versichert hei??t bei uns nicht Altersarmut!,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - ottonova),0,18
+html body div div div div footer div div div div div div div div div div span  ,Ein St??ck Natur am Handgelenk: Hole dir dein Unikat aus Holz und Stein,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Holzkern),0,18
+html body div div div div footer div div div div div div div div div div span  ,Tods??nden beim Hausverkauf: So vermeiden Sie die Fehler,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - HOMEDAY),0,18
+html body div div div div footer div div div div div div div div div div span  ,Neuer Wirkstoff gegen sch??tteres Haar bei M??nnern?,0,18
+html body div div div div footer div div div div div div div div div div span  ,(Sponsored - Thiocyn),0,18
+html body div div div div footer div div div div a span  ,Recommended by,0,13
+html body div div div div footer div div div a span  ,powered by plista,0,12
+html body div div div div footer div div div a span  ,Man Utd news: Jose Mourinho told to leave - ???I???d rather play under Jurgen Klopp???,0,12
+html body div div div div footer div div div a span  ,Cristiano Ronaldo: Juventus star ???in uncomfortable situation??? after Lionel Messi decision,0,12
+html body div div div div footer div div div a span  ,Man Utd news: Zinedine Zidane appointment 'appeals' to Anthony Martial and Paul Pogba,0,12
+html body div div div div footer section div div div div div div span  ,Popular In the Community,0,15
+html body div div div div footer section div div div div div div div div span  ,Sponsored,0,17
+html body div div div div footer section div div div div div div div div span  ,Sponsored,0,17
+html body div div div div footer section div div div div div div div div a div div div span  ,FUNNY THAT ??? Pro-Europe think-tank says Brexit has cost Britain ??26BILLION,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,ReginaldBowler,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,4m,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,Roll on March 29th and our leaving.,0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,Strictly Come Dancing 2018: Fans in UPROAR over Anton du Beke twist in massive show first,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,suzieq66,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,8h,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,"I totally agree every year he is given those unlikely to do well, give him the presenters job god knows we could do with someone like him he is slick funny and would do a great job .",0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,Raab mocks ???prophets of doom' Brexit blockers: ???They say debris will fall from the sky!',0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,DonaldShaw,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,2h,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,"You will not ???scare the wits??? out of British people, maybe the weak snowflake remainer/remoaner sort but not the British people that have ???backbone???!",0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,PARKING FARCE: Pensioner given ticket for parking on her OWN DRIVEWAY,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,NannyGrumpy,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,2d,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,So she wasn't exactly parked on her drive was she ? She was parked on her drive AND on the pavement.,0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,Hammond's 'EYORE filter' is DAMAGING Brexit negotiations claims Brexiteer MP Marcus Fysh,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,roger,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,21m,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,eu lover hammond is only there because of eu lover may,0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,???We owe EU NOTHING!??? Britons issue STERN warning for May after EU reject UK's Brexit plan,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,WilliamTaylor3,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,5h,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,"40 billion, for what, a trade deal, no one else pays for trade deals, this is our money Mrs May, not yours, and certainly not the eu's, grow a spine Mrs May.",0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,LET???S HAVE A ROW!,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,GenghisWept,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,2d,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,Tim's a top man!,0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,Meghan Markle???s sister Samantha APOLOGISES after causing HELL to ???get closer??? to royal,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,PattiConnorMasterson,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,40m,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,"Useing all kind of tactic to get to see Prince Harry, Meghan and the Royal family. I don???t buy it. She is sneaky. Look out Meghan.",0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,ITV Good Morning Britain: 'I have answered' Morgan and Hammond in heated Brexit clash,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,catlady894,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,5h,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,Another betrayer of the majority.Chequers does not make anyone happy. Drop it now.,0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,Pound LIVE: GBP Sterling soars against euro as Italy 'becomes NEW ARGENTINA',0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,Freebird49,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,1h,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,Thank goodness we never joined the euro.,0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,Meghan Markle news: 'You wanted to shame her' Jeremy Vine SLAMS sister Samantha over jibes,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,ROVER361,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,3h,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,Shame on you for inviting this venomous delusional woman on British T.V. .,0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,World War 3: Iran launches ???DEATH TO AMERICA??? missiles in nighttime strike,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,JimMillar,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,1h,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,The stone age flintstones b@tching and moaning screaming and shouting they will never change the culture of death will always be a monstrous race!,0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,Conservative conference LIVE: ???We are mobilising PEOPLE???S ARMY??? Farage's Brexit battle cry,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,brentfordmafia@hotmail.co.uk,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,4h,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,FOOL chequers ties Britains hands in perpetuity only a pro E.U. Britain hating loyalist would think otherwise.,0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,NO DEAL BREXIT EXPLAINED: What could a no-deal Brexit REALLY mean for you and me?,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,DEnocommentsAllowed,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,2d,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,"Utter cr4p!We voted for out means out, you know Brexit means Brexit.In way way shape or form was it based on the uk having to secure a deal, so please stop the rubbish about another vote etc etc etc.BREXIT MEANS BREXIT NO SURRENDER.",0,20
+html body div div div div footer section div div div div div div div div a div div div span  ,'Classic cherry picking!' Marr rips into Labour's Brexit strategy in Tom Watson clash,0,21
+html body div div div div footer section div div div div div div div div a div div div div span  ,Travlingman,0,22
+html body div div div div footer section div div div div div div div div a div div div div span  ,1d,0,22
+html body div div div div footer section div div div div div div div div a div div span  ,Of course it's cherry picking - it's 100% obvious. What a buffoon! Claiming they forced TM to enter a transition period! The EU must be laughing their socks off over the now unrecognisable Labour Party. What is there about the Labour Party that they don't lie about?,0,20
+html body div div aside section header h3 span  ,Most read in Gaming,0,9
+html body div div aside section ul li a span u span  ,1,0,12
+html body div div aside section ul li a div h4 span  ,"Fortnite Season 6 TEASER REVEALED, Early update 6.0 patch notes, Release date delay",0,12
+html body div div aside section ul li a span u span  ,2,0,12
+html body div div aside section ul li a div h4 span  ,"PS Plus October 2018: Free PS4 game LEAKS, PlayStation Plus reveal date, predictions",0,12
+html body div div aside section ul li a span u span  ,3,0,12
+html body div div aside section ul li a div h4 span  ,PlayStation Mini games list update: Sony delivers BAD NEWS to PSOne fans,0,12
+html body div div aside section ul li a span u span  ,4,0,12
+html body div div aside section ul li a div h4 span  ,"Pokemon Go Community Day news update - Niantic reveals October, November event plans",0,12
+html body div div aside section ul li a span u span  ,5,0,12
+html body div div aside section ul li a div h4 span  ,"FIFA 19 early access COUNTDOWN: Release date, time, download early on PS4 Xbox One Switch",0,12
+html body div div aside section header h3 span  ,Latest videos,0,9
+html body div div aside section div a h4 span  ,Avengers 4: THIS character was intended to be KILLED OFF long before Thanos' snap,0,10
+html body div div aside section div a h4 span  ,Pancreatic cancer: If you have this condition you could be more at risk,0,10
+html body div div aside section div a h4 span  ,Cristiano Ronaldo net worth: How much is the Juventus star worth? Wages and endorsements,0,10
+html body div div aside section div a h4 span  ,Ant McPartlin news: Declan Donnelly's pal marks star's birthday with hilarious message,0,10
+html body div div aside section div a h4 span  ,"Listeria warning: FULL LIST of items recalled from Sainsbury???s, Tesco, ASDA and more",0,10
+html body div div aside div div div div div span  ,More stories,0,11
+html body div div aside div div div div ul li a span  ,"Fortnite season 6 Battle Pass: What are the Battle Pass rewards? Skins, price and trailer",0,13
+html body div div aside div div div div ul li a span  ,Prince Charles as KING: Charles' REAL feelings about him becoming the next King REVEALED,0,13
+html body div div aside div div div div ul li a span  ,Fortnite Xbox skin UPDATE: New Eon bundle confirmed for Season 6 release,0,13
+html body div div aside div div div div ul li a span  ,Fortnite season 6: Wild West location CONFIRMED for Battle Royale? Latest news,0,13
+html body div div aside div div div div ul li a span  ,Play This Game for 1 Minute & See Why Everyone is Addicted,0,13
+html body div div aside div div div div ul li a span  ,(Sponsored - Vikings),0,13
+html body div div aside div div div div ul li a span  ,Germany AC Companies Angry At This New Tiny Device,0,13
+html body div div aside div div div div ul li a span  ,(Sponsored - Handy Tech Gadgets),0,13
+html body div div aside div div div div ul li a span  ,For expats in Isernhagen: We made health insurance simple for you.,0,13
+html body div div aside div div div div ul li a span  ,(Sponsored - ottonova),0,13
+html body div div aside div div div div ul li a span  ,Die 5 besten Geschenkideen f??r Dreij??hrige,0,13
+html body div div aside div div div div ul li a span  ,(Sponsored - limango),0,13
+html body div div aside div div div div ul li a span  ,"End of the World fears: First red heifer 'born in Israel in 2,000 years fulfils prophecy'",0,13
+html body div div aside div div div div ul li a span  ,Hurricane Gordon path MAPPED: Tropical storm to SMASH into Mississippi and US???,0,13
+html body div div aside div div div div ul li a span  ,So sch??tzen Sie Ihr IT-Business richtig - Jetzt mehr erfahren!,0,13
+html body div div aside div div div div ul li a span  ,(Sponsored - Hiscox),0,13
+html body div div aside div div div div ul li a span  ,Warum PKV nach Renteneintritt nicht extrem teuer ist!,0,13
+html body div div aside div div div div ul li a span  ,(Sponsored - ottonova),0,13
+html body div div aside div div div div ul li a span  ,Das ideale Familienhaus ??? ein Portr??t in Zahlen und Bildern,0,13
+html body div div aside div div div div ul li a span  ,(Sponsored - Schw??bisch Hall),0,13
+html body div div aside div div div div ul li a span  ,Geldanlage ab 50.000 EUR: Reiche Deutsche nutzen diese Anlagestrategie,0,13
+html body div div aside div div div div ul li a span  ,(Sponsored - Verm??gensverwaltung Digital),0,13
+html body div div aside div div div div a span  ,Recommended by,0,11
+html body div div aside div div div div a span  ,powered by plista,0,11
+html body div div aside div div div div a span  ,Paul Pogba: Did you see what Jose Mourinho did...,0,11
+html body div div aside div div div div a span  ,Mohamed Salah: Did you notice what Liverpool ace...,0,11
+html body div div aside section div a h4 span  ,"Overwatch Halloween event release date, new SKINS, Torbjorn update, World Cup finals",0,10
+html body div div aside section div a h4 span  ,FIFA 19 TOTW 2: FUT launch in time for early access release date on PS4 and Xbox,0,10
+html body div div aside section div a h4 span  ,Fortnite season 6 promises a party but will new battle pass and skins impress?,0,10
+html body div div aside section div a h4 span  ,WWE 2K19 career mode SWERVE: Why this year's story mode is most bizarre yet,0,10
+html body div div aside section div a h4 span  ,PlayStation Mini games list update: Sony delivers BAD NEWS to PSOne fans,0,10
+html body div div aside section div a h4 span  ,"FIFA 19 early access COUNTDOWN: Release date, time, download early on PS4 Xbox One Switch",0,10
+html body div div aside section div a h4 span  ,"Pokemon Go Community Day news update - Niantic reveals October, November event plans",0,10
+html body div div aside section div a h4 span  ,"Fortnite Season 6 TEASER REVEALED, Early update 6.0 patch notes, Release date delay",0,10
+html body div div aside section div a h4 span  ,"PS Plus October 2018: Free PS4 game LEAKS, PlayStation Plus reveal date, predictions",0,10
+html body div div aside section div a h4 span  ,Fortnite update 6.0: Early patch notes ahead of season 6 release,0,10
+html body div div aside section div a h4 span  ,"Fortnite season 6 skins release, Halloween 2018 update and map leaks",0,10
+html body div div aside section div a h4 span  ,"Death Stranding release date UPDATE: Major launch news, brand new trailer revealed",0,10
+html body div div aside section div a h4 span  ,Fortnite season 6: Has Epic Games just confirmed THIS big Battle Royale theory?,0,10
+html body div div aside section div a h4 span  ,"Little Dragons Cafe review - A charming, relaxing, laid-back experience",0,10
+html body div div aside section div a h4 span  ,Fortnite season 6: Skins reveal ahead of Battle Pass release date? Battle Royale update,0,10
+html body div div aside section div a h4 span  ,Fortnite season 6: First official teaser REVEALED by Epic Games ahead of big release date,0,10
+html body div div aside section div a h4 span  ,Black Ops 4 news: Big Blackout release date update and Zombies reveal,0,10
+html body div div aside section div a h4 span  ,Destiny 2 Forsaken review: Does Bungie???s Gambit payoff?,0,10
+html body div footer aside section span  ,SEARCH,0,7
+html body div footer aside section span  ,CONNECT WITH US,0,7
+html body div footer aside section ul li a span  ,Find us on Facebook,0,10
+html body div footer aside section ul li a span  ,Follow us on Twitter,0,10
+html body div footer aside section ul li a span  ,Check us on Google+,0,10
+html body div footer aside section ul li a span  ,Subscribe to our rss feed,0,10
+html body div footer aside section span  ,TODAY'S PAPER,0,7
+html body div footer aside section div div span  ,"Tuesday, 25th September 2018",0,9
+html body div footer aside section div p span  ,"See today's front and back pages, download the newspaper, order back issues and use the historic Daily Express newspaper archive.",0,9
+html body div footer nav div div section h2 a span  ,News,0,11
+html body div footer nav div div section ul li a span  ,UK,0,12
+html body div footer nav div div section ul li a span  ,World,0,12
+html body div footer nav div div section ul li a span  ,Weather,0,12
+html body div footer nav div div section ul li a span  ,Politics,0,12
+html body div footer nav div div section ul li a span  ,Royal,0,12
+html body div footer nav div div section ul li a span  ,Nature,0,12
+html body div footer nav div div section ul li a span  ,Science,0,12
+html body div footer nav div div section ul li a span  ,Scotland,0,12
+html body div footer nav div div section ul li a span  ,Weird,0,12
+html body div footer nav div div section ul li a span  ,Sunday,0,12
+html body div footer nav div div section ul li a span  ,History,0,12
+html body div footer nav div div section ul li a span  ,Obituaries,0,12
+html body div footer nav div div section h2 a span  ,Latest News,0,11
+html body div footer nav div div section ul li a span  ,Brexit,0,12
+html body div footer nav div div section ul li a span  ,European Union,0,12
+html body div footer nav div div section ul li a span  ,Theresa May,0,12
+html body div footer nav div div section ul li a span  ,Angela Merkel,0,12
+html body div footer nav div div section ul li a span  ,Donald Trump,0,12
+html body div footer nav div div section ul li a span  ,The Queen,0,12
+html body div footer nav div div section ul li a span  ,Kate Middleton,0,12
+html body div footer nav div div section ul li a span  ,Meghan Markle,0,12
+html body div footer nav div div section ul li a span  ,Diesel,0,12
+html body div footer nav div div section ul li a span  ,Cancer,0,12
+html body div footer nav div div section ul li a span  ,Diabetes,0,12
+html body div footer nav div div section ul li a span  ,Dementia,0,12
+html body div footer nav div div section ul li a span  ,YouTube,0,12
+html body div footer nav div div section h2 a span  ,Showbiz &Â TV,0,11
+html body div footer nav div div section ul li a span  ,Celebrity News,0,12
+html body div footer nav div div section ul li a span  ,TV & Radio,0,12
+html body div footer nav div div section h2 a span  ,Sport,0,11
+html body div footer nav div div section ul li a span  ,Football,0,12
+html body div footer nav div div section ul li a span  ,Transfer news,0,12
+html body div footer nav div div section ul li a span  ,Premier League,0,12
+html body div footer nav div div section ul li a span  ,Manchester United,0,12
+html body div footer nav div div section ul li a span  ,Liverpool,0,12
+html body div footer nav div div section ul li a span  ,Arsenal,0,12
+html body div footer nav div div section ul li a span  ,Chelsea,0,12
+html body div footer nav div div section ul li a span  ,Tottenham Hotspur,0,12
+html body div footer nav div div section ul li a span  ,Manchester City,0,12
+html body div footer nav div div section ul li a span  ,West Ham,0,12
+html body div footer nav div div section ul li a span  ,Everton,0,12
+html body div footer nav div div section ul li a span  ,Celtic,0,12
+html body div footer nav div div section ul li a span  ,Rangers,0,12
+html body div footer nav div div section ul li a span  ,Tennis,0,12
+html body div footer nav div div section ul li a span  ,F1,0,12
+html body div footer nav div div section ul li a span  ,Cricket,0,12
+html body div footer nav div div section ul li a span  ,Rugby,0,12
+html body div footer nav div div section ul li a span  ,Golf,0,12
+html body div footer nav div div section ul li a span  ,Boxing,0,12
+html body div footer nav div div section ul li a span  ,UFC,0,12
+html body div footer nav div div section ul li a span  ,WWE,0,12
+html body div footer nav div div section ul li a span  ,Racing,0,12
+html body div footer nav div div section ul li a span  ,NBA,0,12
+html body div footer nav div div section ul li a span  ,NFL,0,12
+html body div footer nav div div section h2 a span  ,Pictures,0,11
+html body div footer nav div div section ul li a span  ,Pics,0,12
+html body div footer nav div div section ul li a span  ,Celebrity Galleries,0,12
+html body div footer nav div div section ul li a span  ,Royal Galleries,0,12
+html body div footer nav div div section ul li a span  ,Sport Galleries,0,12
+html body div footer nav div div section h2 a span  ,Comment,0,11
+html body div footer nav div div section ul li a span  ,Express Comment,0,12
+html body div footer nav div div section ul li a span  ,Columnists,0,12
+html body div footer nav div div section ul li a span  ,Beachcomber,0,12
+html body div footer nav div div section h2 a span  ,Finance,0,11
+html body div footer nav div div section ul li a span  ,City & Business,0,12
+html body div footer nav div div section ul li a span  ,Personal Finance,0,12
+html body div footer nav div div section ul li a span  ,The Crusader,0,12
+html body div footer nav div div section ul li a span  ,Retirement,0,12
+html body div footer nav div div section h2 a span  ,Travel,0,11
+html body div footer nav div div section ul li a span  ,Cruise,0,12
+html body div footer nav div div section ul li a span  ,Activity Holidays,0,12
+html body div footer nav div div section ul li a span  ,Beach Holidays,0,12
+html body div footer nav div div section ul li a span  ,Short & City breaks,0,12
+html body div footer nav div div section ul li a span  ,Travel News,0,12
+html body div footer nav div div section h2 a span  ,Entertainment,0,11
+html body div footer nav div div section ul li a span  ,Gaming,0,12
+html body div footer nav div div section ul li a span  ,Theatre,0,12
+html body div footer nav div div section ul li a span  ,Films,0,12
+html body div footer nav div div section ul li a span  ,Books,0,12
+html body div footer nav div div section ul li a span  ,Music,0,12
+html body div footer nav div div section ul li a span  ,Puzzles,0,12
+html body div footer nav div div section h2 a span  ,Life & Style,0,11
+html body div footer nav div div section ul li a span  ,Style,0,12
+html body div footer nav div div section ul li a span  ,Life,0,12
+html body div footer nav div div section ul li a span  ,Health,0,12
+html body div footer nav div div section ul li a span  ,Cars,0,12
+html body div footer nav div div section ul li a span  ,Garden,0,12
+html body div footer nav div div section ul li a span  ,Property,0,12
+html body div footer nav div div section ul li a span  ,Food,0,12
+html body div footer nav div div section ul li a span  ,Tech,0,12
+html body div footer nav div div section ul li a span  ,Diets,0,12
+html body div footer nav div div section ul li a span  ,Saturday,0,12
+html body div footer nav div div section ul li a span  ,Win,0,12
+html body div footer nav div div section ul li a span  ,S Mag,0,12
+html body div footer nav div div section ul li a span  ,Top 10 Facts,0,12
+html body div footer nav div div section h2 span  ,EXPRESS.CO.UK,0,10
+html body div footer nav div div section ul li a span  ,Sitemap,0,12
+html body div footer nav div div section ul li a span  ,Site Archive,0,12
+html body div footer nav div div section ul li a span  ,Contact Us,0,12
+html body div footer nav div div section ul li a span  ,Report a Tech Issue,0,12
+html body div footer nav div div section ul li a span  ,Advertising,0,12
+html body div footer nav div div section ul li a span  ,Cookies Settings,0,12
+html body div footer nav div div section ul li a span  ,Privacy Policy,0,12
+html body div footer nav div div section ul li a span  ,Cookie Policy,0,12
+html body div footer nav div div section ul li a span  ,Terms & Conditions,0,12
+html body div footer nav div div section ul li a span  ,Developed by Netro42,0,12
+html body div footer nav div div section ul li a span  ,Syndication and Licensing,0,12
+html body div footer nav div div section ul li a span  ,Clarifications and Corrections,0,12
+html body div footer div ul li a span  ,Daily Star,0,9
+html body div footer div ul li a span  ,OK! Magazine,0,9
+html body div footer div ul li a span  ,new! Magazine,0,9
+html body div footer div ul li a span  ,Star Magazine,0,9
+html body div footer div div span  ,IPSO Regulated,0,7
+html body div footer div div span  ,"Copyright ??2018 Express Newspapers. ""Daily Express"" is a registered trademark. All rights reserved.",0,7

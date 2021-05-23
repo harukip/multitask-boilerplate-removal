@@ -1,0 +1,55 @@
+tag,content,label,depth
+html body div div p a span  ,Skip Navigation (press 2),0,7
+html body div div div ul li a span  ,Home,0,9
+html body div div div ul li a span  ,FAQs,0,9
+html body div div div ul li a span  ,Site Index,0,9
+html body div div div ul li a span  ,Contact Us,0,9
+html body div div div ul li span  ,Search,0,8
+html body div div div div h1 span  ,Guidelines for Issuing AMBER Alerts,1,8
+html body div div div div p span  ,"Every successful AMBER plan contains clearly defined activation criteria. The following guidance is designed to achieve a uniform, interoperable network of plans across the country, and to minimize potentially deadly delays because of confusion among varying jurisdictions. The following are criteria",1,8
+html body div div div div p strong span  ,recommendations,1,9
+html body div div div div p span  ,:,1,8
+html body div div div div h3 span  ,Law Enforcement Confirms an Abduction,1,8
+html body div div div div p span  ,"AMBER plans require law enforcement to confirm an abduction prior to issuing an alert. This is essential when determining the level of risk to the child. Clearly, stranger abductions are the most dangerous for children and thus are primary to the mission of an AMBER Alert. To allow activations in the absence of significant information that an abduction has occurred could lead to abuse of the system and ultimately weaken its effectiveness. At the same time, each case must be appraised on its own merits and a judgment call made quickly. Law enforcement must understand that a ""best judgment"" approach, based on the evidence, is appropriate and necessary.",1,8
+html body div div div div h3 span  ,Risk of Serious Bodily Injury or Death,1,8
+html body div div div div p span  ,"Plans require a child be at risk for serious bodily harm or death before an alert can be issued. This element is clearly related to law enforcement's recognition that stranger abductions represent the greatest danger to children. The need for timely, accurate information based on strict and clearly understood criteria is critical, again keeping in mind the ""best judgment"" approach.",1,8
+html body div div div div h3 span  ,Sufficient Descriptive Information,1,8
+html body div div div div p span  ,"For an AMBER Alert to be effective in recovering a missing child, the law enforcement agency must have enough information to believe that an immediate broadcast to the public will enhance the efforts of law enforcement to locate the child and apprehend the suspect. This element requires as much descriptive information as possible about the abducted child and the abduction, as well as descriptive information about the suspect and the suspect's vehicle. Issuing alerts in the absence of significant information that an abduction has occurred could lead to abuse of the system and ultimately weaken its effectiveness.",1,8
+html body div div div div h3 span  ,Age of Child,1,8
+html body div div div div p span  ,"Every state adopt the ""17 years of age or younger"" standard; or, at a minimum, agree to honor the request of any other state to issue an AMBER Alert, even if the case does not meet the responding state's age criterion, as long as it meets the age criterion of the requesting state. Most AMBER plans call for activation of the alert for children under a certain age. The problem is that age can vary---some plans specify 10, some 12, some 14, 15, and 16. Differences in age requirements create confusion when an activation requires multiple alerts across states and jurisdictions. Overuse of the AMBER Alert system will undermine its effectiveness as a tool for recovering abducted children.",1,8
+html body div div div div h3 span  ,NCIC Data Entry,1,8
+html body div div div div p span  ,"Immediately enter AMBER Alert data into the National Crime Information Center (NCIC) system.Â Text information describing the circumstances surrounding the abduction of the child should be entered, and the case flagged as a Child Abduction. Many plans do not mandate entry of the data into NCIC, but this omission undermines the entire mission of the AMBER Alert initiative. The notation on the entry should be sufficient to explain the circumstances of the disappearance of the child. Entry of the alert data into NCIC expands the search for an abducted child from the local, state, or regional level to the national. This is a critical element of any effective AMBER Alert plan.",1,8
+html body div div div div h2 span  ,Summary of Department of Justice Recommended Criteria,1,8
+html body div div div div ul li span  ,There is reasonable belief by law enforcement that an abduction has occurred.,1,9
+html body div div div div ul li span  ,The law enforcement agency believes that the child is in imminent danger of serious bodily injury or death.,1,9
+html body div div div div ul li span  ,There is enough descriptive information about the victim and the abduction for law enforcement to issue an AMBER Alert to assist in the recovery of the child.,1,9
+html body div div div div ul li span  ,The abduction is of a child aged 17 years or younger.,1,9
+html body div div div div ul li span  ,"The child's name and other critical data elements, including the Child Abduction flag, have been entered into the National Crime Information Center (NCIC) system.",1,9
+html body div div div p a span  ,About AMBER Alert,0,8
+html body div div div ul li a span  ,Guidelines,0,9
+html body div div div ul li a span  ,Coordinator,0,9
+html body div div div ul li a span  ,Legislation,0,9
+html body div div div ul li a span  ,National Strategy,0,9
+html body div div div p a span  ,Statistics,0,8
+html body div div div p a span  ,Resources,0,8
+html body div div div ul li a span  ,Fact Sheets,0,9
+html body div div div ul li a span  ,State AMBER Alert Contacts,0,9
+html body div div div ul li a span  ,Wireless Emergency Alert,0,9
+html body div div div ul li a span  ,Toolkit for Raising Awareness,0,9
+html body div div div ul li a span  ,Training,0,9
+html body div div div p a span  ,Newsroom,0,8
+html body div div div ul li a span  ,Press Releases,0,9
+html body div div div ul li a span  ,Publications,0,9
+html body div div div ul li a span  ,Videos,0,9
+html body div div div ul li a span  ,Messages,0,9
+html body div div div ul li a span  ,Events,0,9
+html body div div div ul li a span  ,Speeches,0,9
+html body div div ul li a span  ,DOJ Home,0,8
+html body div div ul li a span  ,Contact OJP,0,8
+html body div div ul li a span  ,Accessibility,0,8
+html body div div ul li a span  ,Legal Policies and Disclaimers,0,8
+html body div div ul li a span  ,Privacy Policy,0,8
+html body div div ul li a span  ,FOIA,0,8
+html body div div ul li a span  ,USA.gov,0,8
+html body div div p a span  ,Office of Justice Programs,0,7
+html body div div p span  ,". 810 7th Street, NW . Washington, DC 20531",0,6

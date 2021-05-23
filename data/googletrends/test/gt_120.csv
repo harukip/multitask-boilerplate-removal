@@ -1,0 +1,198 @@
+tag,content,label,depth
+html body ul li a span  ,news,0,6
+html body ul li a span  ,tech,0,6
+html body ul li a span  ,spaceflight,0,6
+html body ul li a span  ,science & astronomy,0,6
+html body ul li a span  ,search for life,0,6
+html body ul li a span  ,skywatching,0,6
+html body ul li a span  ,video,0,6
+html body ul li a span  ,Entertainment,0,6
+html body div header div div div div nav ul li a span  ,news,0,13
+html body div header div div div div nav ul li a span  ,tech,0,13
+html body div header div div div div nav ul li a span  ,spaceflight,0,13
+html body div header div div div div nav ul li a span  ,science & astronomy,0,13
+html body div header div div div div nav ul li a span  ,search for life,0,13
+html body div header div div div div nav ul li a span  ,skywatching,0,13
+html body div header div div div div nav ul li a span  ,video,0,13
+html body div header div div div div nav ul li a span  ,Entertainment,0,13
+html body div div div nav span a span  ,news,0,9
+html body div div div nav span a span  ,tech,0,9
+html body div div div nav span a span  ,spaceflight,0,9
+html body div div div nav span a span  ,science & astronomy,0,9
+html body div div div nav span a span  ,search for life,0,9
+html body div div div nav span a span  ,skywatching,0,9
+html body div div div nav span a span  ,video,0,9
+html body div div div nav span a span  ,Entertainment,0,9
+html body div div div div article div ul li a span  ,Space.com,0,12
+html body div div div div article div ul li a span  ,Science & Astronomy,0,12
+html body div div div div article div div strong span  ,Reference:,1,11
+html body div div div div article div h1 span  ,Solar Eclipses: When Is the Next One?,1,10
+html body div div div div article div div span  ,By,0,10
+html body div div div div article div div span a span  ,"Joe Rao, Space.com Skywatching Columnist",1,12
+html body div div div div article div div span  ,|,0,10
+html body div div div div article div div time span  ,"August 20, 2018 09:30am ET",1,11
+html body div div div div article div div div div ul li span  ,0,0,14
+html body div div div div article div div div div ul li span  ,0,0,14
+html body div div div div article div div div div ul li span  ,MORE,0,14
+html body div div div div article div div div figure figcaption div span  ,"Skywatcher James Tse snapped this view of the partial solar eclipse on Nov. 25, 2011 from Christchurch, New Zealand.",1,14
+html body div div div div article div div div figure figcaption cite span  ,Credit: James Tse,1,14
+html body div div div div article div div div div p em strong span  ,Editor's note:,1,15
+html body div div div div article div div div div p em span  ,"The Great American Solar Eclipse was on Aug. 21, 2017. It swept across the continental United States from Oregon to Georgia.",1,14
+html body div div div div article div div div div p em a span  ,See our full coverage.,1,15
+html body div div div div article div div div div p em span  ,Another total solar eclipse will be seen,1,14
+html body div div div div article div div div div p em a span  ,across the United States in 2024,1,15
+html body div div div div article div div div div p em span  ,.,1,14
+html body div div div div article div div div div p span  ,"A solar eclipse occurs when the moon gets between Earth and the sun, and the moon casts a shadow over Earth. A solar eclipse can only take place at the phase of new moon, when the moon passes directly between the sun and Earth and its shadows fall upon Earth’s surface. But whether the alignment produces a total solar eclipse, a partial solar eclipse or an annular solar eclipse depends on several factors, all explained below.",1,13
+html body div div div div article div div div div p span  ,The fact that an eclipse can occur at all is a fluke of celestial mechanics and time. Since the,1,13
+html body div div div div article div div div div p a span  ,moon formed about 4.5 billion years ago,1,14
+html body div div div div article div div div div p span  ,", it has been gradually moving away from Earth (by about 1.6 inches, or 4 centimeters per year). Right now the moon is at the perfect distance to appear in our sky exactly the same size as the sun, and therefore block it out. But this is not always true.",1,13
+html body div div div div article div div div div h2 span  ,When is the next solar eclipse?,1,13
+html body div div div div article div div div div p span  ,"The next solar eclipse is a partial eclipse that will take place on Jan. 5-6, 2019. It will be visible from northeast Asia, the Pacific Ocean and parts of Alaska. A total solar eclipse will occur on July 2, 2019 in South America. To find out about upcoming solar eclipses and how to see them,",1,13
+html body div div div div article div div div div p a span  ,check our guide,1,14
+html body div div div div article div div div div p span  ,.,1,13
+html body div div div div article div div div div figure figcaption div span  ,"How Solar Eclipses Work: When the moon covers up the sun, skywatchers delight in the opportunity to see a rare spectacle.",1,15
+html body div div div div article div div div div figure figcaption div a span  ,See how solar eclipses occur in this Space.com infographic,1,16
+html body div div div div article div div div div figure figcaption div span  ,.,1,15
+html body div div div div article div div div div figure figcaption cite span  ,"Credit: Karl Tate, SPACE.com Contributor",1,15
+html body div div div div article div div div div h2 span  ,Types of solar eclipses,1,13
+html body div div div div article div div div div p span  ,"There are four types of solar eclipses: total, annular, partial and hybrid. Here’s what causes each type:",1,13
+html body div div div div article div div div div p strong span  ,Total solar eclipses,1,14
+html body div div div div article div div div div p span  ,"These are a happy accident of nature. The sun's 864,000-mile diameter is fully 400 times greater than that of",1,13
+html body div div div div article div div div div p a span  ,our puny moon,1,14
+html body div div div div article div div div div p span  ,", which measures just about 2,160 miles. But the moon also happens to be about 400 times closer to Earth than the sun (the ratio varies as both orbits are elliptical), and as a result, when the orbital planes intersect and the distances align favorably, the new moon can appear to completely blot out the disk of the sun. On the average a total eclipse occurs somewhere on Earth about every 18 months.",1,13
+html body div div div div article div div div div p span  ,There are actually two types of shadows: the,1,13
+html body div div div div article div div div div p em span  ,umbra,1,14
+html body div div div div article div div div div p span  ,"is that part of the shadow where all sunlight is blocked out. The umbra takes the shape of a dark, slender cone. It is surrounded by the",1,13
+html body div div div div article div div div div p em span  ,penumbra,1,14
+html body div div div div article div div div div p span  ,", a lighter, funnel-shaped shadow from which sunlight is partially obscured.",1,13
+html body div div div div article div div div div p span  ,"During a total solar eclipse, the moon casts its umbra upon Earth's surface; that shadow can sweep a third of the way around the planet in just a few hours. Those who are fortunate enough to be positioned in the direct path of the umbra will see the sun's disk diminish into a crescent as the moon's dark shadow rushes toward them across the landscape.",1,13
+html body div div div div article div div div div p span  ,"During the brief period of totality, when the sun is completely covered, the beautiful corona — the tenuous outer atmosphere of the sun — is revealed. Totality may last as long as 7 minutes 31 seconds, though most total eclipses are usually much shorter.",1,13
+html body div div div div article div div div div figure figcaption div span  ,"On Jan. 4, 2011, the moon passed in front of the sun in a partial solar eclipse - as seen from parts of Earth. Here, the joint Japanese-American Hinode satellite captured the same breathtaking event from space. The unique view created what's called an annular solar eclipse.",1,15
+html body div div div div article div div div div figure figcaption cite span  ,Credit: Hinode/XRT,1,15
+html body div div div div article div div div div p strong span  ,Partial solar eclipses,1,14
+html body div div div div article div div div div p span  ,"A partial solar eclipse occurs when only the penumbra (the partial shadow) passes over you. In these cases, a part of the sun always remains in view during the eclipse. How much of the sun remains in view depends on the specific circumstances.",1,13
+html body div div div div article div div div div p span  ,"Usually the penumbra gives just a glancing blow to our planet over the polar regions; in such cases, places far away from the poles but still within the zone of the penumbra might not see much more than a small scallop of the sun hidden by the moon. In a different scenario, those who are positioned within a couple of thousand miles of the path of a total eclipse will see a partial eclipse.",1,13
+html body div div div div article div div div div p span  ,"The closer you are to the path of totality, the greater the solar obscuration. If, for instance, you are positioned just outside of the path of the total eclipse, you will see the sun wane to a narrow crescent, then thicken up again as the shadow passes by.",1,13
+html body div div div div article div div div div p strong span  ,Annular solar eclipses,1,14
+html body div div div div article div div div div p span  ,"An annular eclipse, though a rare and amazing sight, is far different from a total one. The sky will darken ... somewhat; a sort of weird “counterfeit twilight” since so much of the sun still shows. The annular eclipse is a subspecies of a partial eclipse, not total. The maximum duration for an annular eclipse is 12 minutes 30 seconds.",1,13
+html body div div div div article div div div div p span  ,"However, an annular solar eclipse is similar to a total eclipse in that the moon appears to pass centrally across the sun. The difference is, the moon is",1,13
+html body div div div div article div div div div p em span  ,too small,1,14
+html body div div div div article div div div div p span  ,"to cover the disk of the sun completely. Because the moon circles Earth in an elliptical orbit, its distance from Earth can vary from 221,457 miles to 252,712 miles. But the dark shadow cone of the moon’s umbra can extend out for no longer than 235,700 miles; that’s less than the",1,13
+html body div div div div article div div div div p a span  ,moon’s average distance from Earth,1,14
+html body div div div div article div div div div p span  ,.,1,13
+html body div div div div article div div div div p span  ,"So if the moon is at some greater distance, the tip of the umbra does not reach Earth. During such an eclipse, the",1,13
+html body div div div div article div div div div p em span  ,antumbra,1,14
+html body div div div div article div div div div p span  ,", a theoretical continuation of the umbra, reaches the ground, and anyone situated within it can look up past either side of the umbra and see an annulus, or “ring of fire” around the moon. A good analogy is putting a penny atop a nickel, the penny being the moon, the nickel being the sun.",1,13
+html body div div div div article div div div div p strong span  ,Hybrid solar eclipses,1,14
+html body div div div div article div div div div p span  ,"These are also called annular-total (“A-T”) eclipses. This special type of eclipse occurs when the moon’s distance is near its limit for the umbra to reach Earth. In most cases, an A-T eclipse starts as an annular eclipse because the tip of the umbra falls just short of making contact with Earth; then it becomes total, because the roundness of the planet reaches up and intercepts the shadow tip near the middle of the path, then finally it returns to annular toward the end of the path.",1,13
+html body div div div div article div div div div p span  ,"Because the moon appears to pass directly in front of the sun, total, annular and hybrid eclipses are also called “central” eclipses to distinguish them from eclipses that are merely partial.",1,13
+html body div div div div article div div div div p span  ,"Of all solar eclipses, about 28 percent are total; 35 percent are partial; 32 percent annular; and just 5 percent are hybrids.",1,13
+html body div div div div article div div div div h2 span  ,Predictions of solar eclipses,1,13
+html body div div div div article div div div div p span  ,"Eclipses do not happen at every new moon, of course. This is because the moon’s orbit is tilted just over 5 degrees relative to Earth’s orbit around the sun. For this reason, the moon’s shadow usually passes either above or below Earth, so a solar eclipse doesn’t occur.",1,13
+html body div div div div article div div div div p span  ,"But as a rule, at least twice each year (and sometimes as many as five times in a year), a new moon will align itself in just such a way to eclipse the sun. That alignment point is called a node. Depending on how closely the new moon approaches a node will determine whether a particular eclipse is central or partial. And of course, the moon’s distance from the Earth — and to a lesser degree, Earth’s distance from the sun — will ultimately determine whether a central eclipse is total, annular or a hybrid.",1,13
+html body div div div div article div div div div p span  ,"And these alignments don’t happen haphazardly, for after a specific interval of time, an eclipse will repeat itself or return. This interval is known as the Saros cycle and was known as far back as the days of the early Chaldean astronomers some 28 centuries ago. The word Saros means “repetition” and is equal to 18 years, 11⅓ days (or a day less or more depending on the number of leap years that have intervened). After this interval, the relative positions of the sun and moon relative to a node are nearly the same as before. That third of a day in the interval causes the path of each eclipse of a series to be displaced in longitude a third of the way around Earth to the west with respect to its predecessor.",1,13
+html body div div div div article div div div div p span  ,"For example, on March 29, 2006, a total eclipse swept across parts of western and northern Africa and then across southern Asia. One Saros later, on",1,13
+html body div div div div article div div div div p a span  ,"April 8, 2024",1,14
+html body div div div div article div div div div p span  ,", this eclipse will recur, except instead of Africa and Asia, it will track across northern Mexico, the central and eastern United States and the Maritime provinces of Canada.",1,13
+html body div div div div article div div div div h2 span  ,Solar eclipse safety,1,13
+html body div div div div article div div div div figure figcaption div span  ,"You should never look directly at the sun, but there are ways to safely observe an eclipse.",1,15
+html body div div div div article div div div div figure figcaption div a span  ,See how to safely observe a solar eclipse with this Space.com infographic,1,16
+html body div div div div article div div div div figure figcaption div span  ,.,1,15
+html body div div div div article div div div div figure figcaption cite span  ,"Credit: Karl Tate, SPACE.com Contributor",1,15
+html body div div div div article div div div div p span  ,"As a solar eclipse approaches, the mainstream media often will provide a variety of warnings and advisories against looking at the sun with bare eyes, as blindness could ensue. This has given most people the idea that eclipses are dangerous.",1,13
+html body div div div div article div div div div p span  ,Not so!,1,13
+html body div div div div article div div div div p em span  ,It’s the sun that is dangerous — all the time!,1,14
+html body div div div div article div div div div p span  ,"The sun constantly emits invisible infrared rays that can damage your eyes. Ordinarily, we have no reason to gaze at the sun. An eclipse gives us a reason, but we shouldn’t.",1,13
+html body div div div div article div div div div p span  ,"There are safe ways, however . . .",1,13
+html body div div div div article div div div div p span  ,"By far,",1,13
+html body div div div div article div div div div p em span  ,the safest way,1,14
+html body div div div div article div div div div p span  ,"to view a solar eclipse is to construct a “pinhole camera.” A pinhole or small opening is used to form an image of the sun on a screen placed about 3 feet (or about 1 meter) behind the opening. Binoculars or a small telescope mounted on a tripod can also be used to project a magnified image of the sun onto a white card. The farther away the card, the larger you can focus the image. Look for sunspots. Notice that the sun appears somewhat darker around its limb or edge. This method of solar viewing is safe so long as you remember not to look through the binoculars or telescope when they are pointed toward the sun; put another way,",1,13
+html body div div div div article div div div div p em span  ,never look directly at the sun when any part of its blindingly bright surface is visible.,1,14
+html body div div div div article div div div div p span  ,"A variation on the pinhole theme is the “pinhole mirror.” Cover a pocket-mirror with a piece of paper that has a ¼-inch hole punched in it. Open a sun-facing window and place the covered mirror on the sunlit sill so it reflects a disk of light onto the far wall inside. The disk of light is an image of the sun’s face. The farther away from the wall is the better; the image will be only 1 inch across for every 9 feet (or 3 centimeters for every 3 meters) from the mirror. Modeling clay works well to hold the mirror in place. Experiment with different-sized holes in the paper. Again, a large hole makes the image bright, but fuzzy, and a small one makes it dim but sharp. Darken the room as much as possible. Be sure to try this out beforehand to make sure the mirror’s optical quality is good enough to project a clean, round image. Of course, don’t let anyone look at the sun",1,13
+html body div div div div article div div div div p em span  ,in,1,14
+html body div div div div article div div div div p span  ,the mirror.,1,13
+html body div div div div article div div div div p span  ,"If you’re around leafy trees, look at the shadow cast by them during the partial phases. What do you see? Is it worth a photograph? You will see scores of partially eclipsed suns projected through pinhole gaps between the leaves. This is caused by diffraction, a property of light. According to Vince Huegele, an optical physicist at the NASA Marshall Space Flight Center, the light rays do not shoot straight by the rim of the gaps, or a pinhole, but bend around the edge. This wave effect creates a pattern of rings that resembles a bull's eye.",1,13
+html body div div div div article div div div div p strong span  ,Acceptable filters,1,14
+html body div div div div article div div div div p span  ,"for unaided visual solar observations include aluminized Mylar. Some astronomy dealers carry Mylar filter material specially designed for solar observing. Also acceptable is shade 14 arc-welder’s glass, available for just a few dollars at welding supply shops. Of course, it is always a good idea to test your filters and/or observing techniques before eclipse day.",1,13
+html body div div div div article div div div div p strong span  ,Unacceptable filters,1,14
+html body div div div div article div div div div p span  ,"include sunglasses, old color film negatives, black-and-white film that contains no silver, photographic neutral-density filters and polarizing filters. Although these materials have very low visible-light transmittance levels, they transmit an unacceptably high level of near-infrared radiation that can cause a thermal retinal burn. The fact that the sun appears dim, or that you feel no discomfort when looking at the sun through these types of filters, is no guarantee that your eyes are safe.",1,13
+html body div div div div article div div div div p span  ,"There is one time when you can safely look directly at the sun: during a total eclipse, when the sun's disk is entirely covered. During those few precious seconds or minutes, the magnificent corona shines forth in all its glory surrounding the darkened sun; a marvelous fringe of pearly white light. It differs in size, in tints and patterns from eclipse to eclipse. It is always faint and delicate, with a sheen like a pale aurora. It has a variable appearance. Sometimes it has a soft continuous look; at other times, long rays of it shoot out in three or four directions. It may stand out from the disk in filmy petals and streamers. But when the sun begins to again emerge into view, the corona quickly disappears and you’ll need to protect your eyes once again.",1,13
+html body div div div div article div div div div figure figcaption div span  ,"This photo of the partial solar eclipse of Sept. 13, 2015, was snapped by astrophotographer K.J. Mulder from his home in South Africa.",1,15
+html body div div div div article div div div div figure figcaption cite span  ,Credit: K.J. Mulder/,1,15
+html body div div div div article div div div div figure figcaption cite a span  ,Worlds in Ink,1,16
+html body div div div div article div div div div h2 span  ,Eclipses in ancient history,1,13
+html body div div div div article div div div div p span  ,"As best as we can determine, the earliest record of a solar eclipse occurred over four millennia ago. In China, it was believed that the gradual blotting out of the sun was caused by a dragon who was attempting to devour the sun, and it was the duty of the court astronomers to shoot arrows, beat drums and raise whatever cacophony they could to frighten the dragon away.",1,13
+html body div div div div article div div div div p span  ,In the ancient Chinese classic,1,13
+html body div div div div article div div div div p em span  ,Shujing,1,14
+html body div div div div article div div div div p span  ,"(or Book of Documents) is the account of Hsi and Ho, two court astronomers who were caught completely unaware by a solar eclipse, having gotten drunk just before the event began. In the aftermath, Zhong Kang, the fourth emperor of the Xia dynasty ordered that Hsi and Ho be punished by having their heads chopped off. The eclipse in question was that of Oct. 22 in the year 2134 B.C.",1,13
+html body div div div div article div div div div p span  ,"In the Bible, in the book of Amos 8:9, are the words, “I will cause the sun to go down at noon, and I will darken the Earth in the clear day.” Biblical scholars believe this is a reference to a celebrated eclipse observed at Nineveh in ancient Assyria on June 15, 763 B.C. An Assyrian tablet also attests to the event.",1,13
+html body div div div div article div div div div p span  ,A solar eclipse even stopped a war.,1,13
+html body div div div div article div div div div p span  ,"According to the historian Herodotus, there was a five-year war that raged between the Lydians and the Medes. As the war was about to move into its sixth year, a Greek sage, Thales of Miletus foretold to the Ionians that the time was soon approaching when day would turn to night. On May 17, 603 B.C. the sun faded away just as Thales had alluded that it would. So believing that it was a sign from above, the combatants called a truce, which was cemented by a double marriage, for, as Herodotus wrote: “Without some strong bond, there is little of security to be found in men’s covenants.”",1,13
+html body div div div div article div div div div p span  ,"And giving new meaning to the term, “Scared to death,” is the timid emperor Louis of Bavaria, the son of Charlemagne, who witnessed an unusually long total eclipse of the sun on May 5, A.D. 840, which lasted for over five minutes. But no sooner had the sun begun to emerge back into view, Louis was so overwhelmed by what he had just seen that he died of fright!",1,13
+html body div div div div article div div div div h2 span  ,Modern study of eclipses,1,13
+html body div div div div article div div div div p span  ,"Astronomers have learned much by studying eclipses and by the 18th century, observations of solar eclipses were recognized as providing veritable treasure troves of astronomical information, though sometimes getting that information wasn’t easy.",1,13
+html body div div div div article div div div div p span  ,"Samuel Williams, a professor at Harvard, led an expedition to Penobscot Bay, Maine, to observe the total solar eclipse of Oct. 27, 1780. As it turned out, this eclipse took place during the Revolutionary War, and Penobscot Bay lay behind enemy lines. Fortunately, the British granted the expedition safe passage, citing the interest of science above political differences.",1,13
+html body div div div div article div div div div p span  ,"And yet in the end, it was all for naught.",1,13
+html body div div div div article div div div div p span  ,Williams apparently made a crucial error in his computations and inadvertently positioned his men at Islesboro — just outside the path of totality — likely finding this out with a heavy heart when the narrowing crescent of sunlight slid completely around the dark edge of the moon and then started to thicken!,1,13
+html body div div div div article div div div div p span  ,"During a total solar eclipse, a few ruby-red spots may seem to hover around the jet-black disk of the moon. Those are solar prominences, tongues of incandescent hydrogen gas rising above the surface of the sun. During the total eclipse of Aug. 18, 1868, the French astronomer Pierre Janssen trained his spectroscope on the prominences and discovered a new chemical element. Two English astronomers, J. Norman Lockyer and Edward Frankland, later named it “",1,13
+html body div div div div article div div div div p a span  ,helium,1,14
+html body div div div div article div div div div p span  ,",” from the Greek",1,13
+html body div div div div article div div div div p em span  ,helios,1,14
+html body div div div div article div div div div p span  ,(the sun). The gas was not identified on Earth until 1895.,1,13
+html body div div div div article div div div div p span  ,"And because sunlight is blocked during a total eclipse, some of the brighter stars and planets can be observed in the darkened sky. Under such conditions astronomers were able to test part of Einstein’s now-celebrated",1,13
+html body div div div div article div div div div p a span  ,general theory of relativity,1,14
+html body div div div div article div div div div p span  ,". That theory predicted that light from stars beyond the sun would bend from a straight path in a certain way as it passed the sun. The positions of stars photographed near the sun’s edge during a total eclipse on May 29, 1919, were compared with photographs of the same region of the sky taken at night; the results strongly supported Einstein’s theory.",1,13
+html body div div div div article div div div div p span  ,Our modern technology now allows astronomers to make most of the observations that once had to await an eclipse. But a total eclipse of the sun will always remain among the most impressive of natural spectacles and is a sight that will always be remembered. Be sure to put it on your bucket list; you will not be disappointed.,1,13
+html body div div div div article div div div div h2 span  ,Additional resources,1,13
+html body div div div div article div div div div ul li a span  ,Mr. Eclipse.com,1,15
+html body div div div div article div div div div ul li span  ,provides resources for eclipse photography.,1,14
+html body div div div div article div div div div ul li span  ,Track down a lot of information from the,1,14
+html body div div div div article div div div div ul li a span  ,Eclipse Chasers,1,15
+html body div div div div article div div div div ul li span  ,.,1,14
+html body div div div div article div div div div ul li a span  ,NASA's Eclipse Website,1,15
+html body div div div div article div div div div ul li span  ,"has calendars, maps and information about past and future solar and lunar eclipses.",1,14
+html body div div div div article div div section header h3 span  ,You'd Also Like,0,13
+html body div div div div article div div section ul li a h4 span  ,Total Solar Eclipse 2024: Here's What You Need to Know,0,15
+html body div div div div article div div section ul li a div span  ,Space,0,15
+html body div div div div article div div section ul li a h4 span  ,Lunar Eclipses: What Are They & When Is the Next One?,0,15
+html body div div div div article div div section ul li a div span  ,Space,0,15
+html body div div div div article div div section ul li a h4 span  ,Here Are the Most Amazing Things to Observe During a Solar Eclipse,0,15
+html body div div div div article div div section ul li a div span  ,Space,0,15
+html body div div div div article div div section ul li a h4 span  ,Turn Your Smartphone into an Eclipse Tool Kit with Essential Apps,0,15
+html body div div div div article div div section ul li a div span  ,Space,0,15
+html body div footer div div a span  ,Home,0,8
+html body div footer div div a span  ,About Us,0,8
+html body div footer div div header span  ,Company,0,8
+html body div footer div div ul li a span  ,Company Info,0,10
+html body div footer div div ul li a span  ,About Us,0,10
+html body div footer div div ul li a span  ,Contact Us,0,10
+html body div footer div div ul li a span  ,Advertise with Us,0,10
+html body div footer div div ul li a span  ,Using Our Content,0,10
+html body div footer div div ul li a span  ,Licensing & Reprints,0,10
+html body div footer div div ul li a span  ,Terms of Use,0,10
+html body div footer div div ul li a span  ,Copyright Policy,0,10
+html body div footer div div ul li a span  ,Privacy Policy,0,10
+html body div footer div div header span  ,Network,0,8
+html body div footer div div ul li a span  ,Top Ten Reviews,0,10
+html body div footer div div ul li a span  ,Tom's Guide,0,10
+html body div footer div div ul li a span  ,Laptop Mag,0,10
+html body div footer div div ul li a span  ,Tom's Hardware,0,10
+html body div footer div div ul li a span  ,Space.com,0,10
+html body div footer div div ul li a span  ,Live Science,0,10
+html body div footer div div ul li a span  ,Active Junky,0,10
+html body div footer div div ul li a span  ,ShopSavvy,0,10
+html body div footer div div ul li a span  ,AnandTech,0,10
+html body div footer div div ul li a span  ,Dignifyed,0,10
+html body div footer div div div div header span  ,FOLLOW US,0,10
+html body div footer div div div li a span  ,Manage My Privacy Settings,0,10
+html body div footer div div div div header span  ,SUBSCRIBE TO SPACE,0,10
+html body div footer div div div div div p span  ,"By clicking ""Sign me up"" you are subscribing to the Space.com Newsletter and agreeing to our",0,11
+html body div footer div div div div div p a span  ,Terms of Service,0,12
+html body div footer div div div div div p span  ,. Unsubscribe at any time.,0,11
+html body div footer div div div div div p span  ,Learn more about our,0,11
+html body div footer div div div div div p a span  ,Privacy Policy,0,12
+html body div footer div div div div div p span  ,.,0,11
+html body div footer div div div div p span  ,Copyright ©,0,10
+html body div footer div div div div p  ,2018 						All Rights Reserved.,0,9
+html body div span  ,&nbsp;,0,4
+html body div span  ,ShareThis Copy and Paste,0,4

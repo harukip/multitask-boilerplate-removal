@@ -1,0 +1,303 @@
+tag,content,label,depth
+html body div div div div nav a span  ,日本語,0,9
+html body div div div div nav a span  ,Los Dodgers,0,9
+html body div div div div span  ,The Official Site of the Los Angeles Dodgers,0,7
+html body div div div div div nav a span  ,News,0,10
+html body div div div div div nav a span  ,Video,0,10
+html body div div div div div nav a span  ,Scores,0,10
+html body div div div div div nav a span  ,Tickets,0,10
+html body div div div div div nav a span  ,Schedule,0,10
+html body div div div div div nav a span  ,Stats,0,10
+html body div div div div div nav a span  ,Roster,0,10
+html body div div div div div nav a span  ,Community,0,10
+html body div div div div div nav a span  ,Fans,0,10
+html body div div div div div nav a span  ,Dodger Stadium,0,10
+html body div div div div div nav a span  ,Apps,0,10
+html body div div div div div nav a span  ,Shop,0,10
+html body div div div div div nav a span  ,MLB.TV,0,10
+html body div div div div div nav a span  ,Fantasy,0,10
+html body div div div div div nav a span  ,Teams,0,10
+html body div div div div div nav a span  ,Rewards,0,10
+html body div div div div div nav ul li a span  ,News,0,12
+html body div div div div div nav ul li a span  ,Video,0,12
+html body div div div div div nav ul li a span  ,Scores,0,12
+html body div div div div div nav ul li a span  ,Tickets,0,12
+html body div div div div div nav ul li a span  ,Schedule,0,12
+html body div div div div div nav ul li a span  ,Stats,0,12
+html body div div div div div nav ul li a span  ,Roster,0,12
+html body div div div div div nav ul li a span  ,Community,0,12
+html body div div div div div nav ul li a span  ,Fans,0,12
+html body div div div div div nav ul li a span  ,Dodger Stadium,0,12
+html body div div div div div nav ul li a span  ,Apps,0,12
+html body div div div div div nav ul li a span  ,Shop,0,12
+html body div div div div div nav ul li a span  ,MLB.TV,0,12
+html body div div div div div nav ul li a span  ,Fantasy,0,12
+html body div div div div div nav ul li a span  ,Teams,0,12
+html body div div div div div nav ul li a span  ,Rewards,0,12
+html body div div div section header h2 span  ,Dodgers Roster & Staff,1,9
+html body div div div section div div nav ul li a span  ,Active,0,13
+html body div div div section div div nav ul li a span  ,Active,0,13
+html body div div div section div div nav ul li a span  ,40-man,0,13
+html body div div div section div div nav ul li a span  ,40-man,0,13
+html body div div div section div div nav ul li a span  ,Coaches,0,13
+html body div div div section div div nav ul li a span  ,Coaches,0,13
+html body div div div section div div nav ul li a span  ,Transactions,0,13
+html body div div div section div div nav ul li a span  ,Moves,0,13
+html body div div div section div section h4 span  ,Pitchers,1,10
+html body div div div section div section table thead tr th abbr span  ,#,1,14
+html body div div div section div section table thead tr th span  ,Name,1,13
+html body div div div section div section table thead tr th abbr span  ,B/T,1,14
+html body div div div section div section table thead tr th abbr span  ,Ht,1,14
+html body div div div section div section table thead tr th abbr span  ,Wt,1,14
+html body div div div section div section table thead tr th abbr span  ,DOB,1,14
+html body div div div section div section table tbody tr td span  ,75,1,13
+html body div div div section div section table tbody tr td a span  ,Scott Alexander,1,14
+html body div div div section div section table tbody tr td span  ,L/L,1,13
+html body div div div section div section table tbody tr td span  ,"6'2""",1,13
+html body div div div section div section table tbody tr td span  ,190lbs,1,13
+html body div div div section div section table tbody tr td span  ,7/10/89,1,13
+html body div div div section div section table tbody tr td span  ,52,1,13
+html body div div div section div section table tbody tr td a span  ,Pedro Baez,1,14
+html body div div div section div section table tbody tr td span  ,R/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'0""",1,13
+html body div div div section div section table tbody tr td span  ,230lbs,1,13
+html body div div div section div section table tbody tr td span  ,3/11/88,1,13
+html body div div div section div section table tbody tr td span  ,21,1,13
+html body div div div section div section table tbody tr td a span  ,Walker Buehler,1,14
+html body div div div section div section table tbody tr td span  ,R/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'2""",1,13
+html body div div div section div section table tbody tr td span  ,175lbs,1,13
+html body div div div section div section table tbody tr td span  ,7/28/94,1,13
+html body div div div section div section table tbody tr td span  ,47,1,13
+html body div div div section div section table tbody tr td a span  ,JT Chargois,1,14
+html body div div div section div section table tbody tr td span  ,S/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'3""",1,13
+html body div div div section div section table tbody tr td span  ,200lbs,1,13
+html body div div div section div section table tbody tr td span  ,12/3/90,1,13
+html body div div div section div section table tbody tr td span  ,54,1,13
+html body div div div section div section table tbody tr td a span  ,Tony Cingrani,1,14
+html body div div div section div section table tbody tr td span  ,L/L,1,13
+html body div div div section div section table tbody tr td span  ,"6'4""",1,13
+html body div div div section div section table tbody tr td span  ,214lbs,1,13
+html body div div div section div section table tbody tr td span  ,7/5/89,1,13
+html body div div div section div section table tbody tr td span  ,64,1,13
+html body div div div section div section table tbody tr td a span  ,Caleb Ferguson,1,14
+html body div div div section div section table tbody tr td span  ,R/L,1,13
+html body div div div section div section table tbody tr td span  ,"6'3""",1,13
+html body div div div section div section table tbody tr td span  ,215lbs,1,13
+html body div div div section div section table tbody tr td span  ,7/2/96,1,13
+html body div div div section div section table tbody tr td span  ,46,1,13
+html body div div div section div section table tbody tr td a span  ,Josh Fields,1,14
+html body div div div section div section table tbody tr td span  ,R/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'0""",1,13
+html body div div div section div section table tbody tr td span  ,195lbs,1,13
+html body div div div section div section table tbody tr td span  ,8/19/85,1,13
+html body div div div section div section table tbody tr td span  ,51,1,13
+html body div div div section div section table tbody tr td a span  ,Dylan Floro,1,14
+html body div div div section div section table tbody tr td span  ,L/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'2""",1,13
+html body div div div section div section table tbody tr td span  ,205lbs,1,13
+html body div div div section div section table tbody tr td span  ,12/27/90,1,13
+html body div div div section div section table tbody tr td span  ,63,1,13
+html body div div div section div section table tbody tr td a span  ,Yimi Garcia,1,14
+html body div div div section div section table tbody tr td span  ,R/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'1""",1,13
+html body div div div section div section table tbody tr td span  ,220lbs,1,13
+html body div div div section div section table tbody tr td span  ,8/18/90,1,13
+html body div div div section div section table tbody tr td span  ,44,1,13
+html body div div div section div section table tbody tr td a span  ,Rich Hill,1,14
+html body div div div section div section table tbody tr td span  ,L/L,1,13
+html body div div div section div section table tbody tr td span  ,"6'5""",1,13
+html body div div div section div section table tbody tr td span  ,220lbs,1,13
+html body div div div section div section table tbody tr td span  ,3/11/80,1,13
+html body div div div section div section table tbody tr td span  ,74,1,13
+html body div div div section div section table tbody tr td a span  ,Kenley Jansen,1,14
+html body div div div section div section table tbody tr td span  ,S/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'5""",1,13
+html body div div div section div section table tbody tr td span  ,275lbs,1,13
+html body div div div section div section table tbody tr td span  ,9/30/87,1,13
+html body div div div section div section table tbody tr td span  ,22,1,13
+html body div div div section div section table tbody tr td a span  ,Clayton Kershaw,1,14
+html body div div div section div section table tbody tr td span  ,L/L,1,13
+html body div div div section div section table tbody tr td span  ,"6'4""",1,13
+html body div div div section div section table tbody tr td span  ,228lbs,1,13
+html body div div div section div section table tbody tr td span  ,3/19/88,1,13
+html body div div div section div section table tbody tr td span  ,18,1,13
+html body div div div section div section table tbody tr td a span  ,Kenta Maeda,1,14
+html body div div div section div section table tbody tr td span  ,R/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'1""",1,13
+html body div div div section div section table tbody tr td span  ,175lbs,1,13
+html body div div div section div section table tbody tr td span  ,4/11/88,1,13
+html body div div div section div section table tbody tr td span  ,59,1,13
+html body div div div section div section table tbody tr td a span  ,Zac Rosscup,1,14
+html body div div div section div section table tbody tr td span  ,R/L,1,13
+html body div div div section div section table tbody tr td span  ,"6'2""",1,13
+html body div div div section div section table tbody tr td span  ,220lbs,1,13
+html body div div div section div section table tbody tr td span  ,6/9/88,1,13
+html body div div div section div section table tbody tr td span  ,68,1,13
+html body div div div section div section table tbody tr td a span  ,Ross Stripling,1,14
+html body div div div section div section table tbody tr td span  ,R/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'3""",1,13
+html body div div div section div section table tbody tr td span  ,210lbs,1,13
+html body div div div section div section table tbody tr td span  ,11/23/89,1,13
+html body div div div section div section table tbody tr td span  ,7,1,13
+html body div div div section div section table tbody tr td a span  ,Julio Urias,1,14
+html body div div div section div section table tbody tr td span  ,L/L,1,13
+html body div div div section div section table tbody tr td span  ,"6'0""",1,13
+html body div div div section div section table tbody tr td span  ,215lbs,1,13
+html body div div div section div section table tbody tr td span  ,8/12/96,1,13
+html body div div div section div section table tbody tr td span  ,43,1,13
+html body div div div section div section table tbody tr td a span  ,Pat Venditte,1,14
+html body div div div section div section table tbody tr td span  ,L/S,1,13
+html body div div div section div section table tbody tr td span  ,"6'1""",1,13
+html body div div div section div section table tbody tr td span  ,185lbs,1,13
+html body div div div section div section table tbody tr td span  ,6/30/85,1,13
+html body div div div section div section table tbody tr td span  ,57,1,13
+html body div div div section div section table tbody tr td a span  ,Alex Wood,1,14
+html body div div div section div section table tbody tr td span  ,R/L,1,13
+html body div div div section div section table tbody tr td span  ,"6'4""",1,13
+html body div div div section div section table tbody tr td span  ,215lbs,1,13
+html body div div div section div section table tbody tr td span  ,1/12/91,1,13
+html body div div div section div section h4 span  ,Catchers,1,10
+html body div div div section div section table thead tr th abbr span  ,#,1,14
+html body div div div section div section table thead tr th span  ,Name,1,13
+html body div div div section div section table thead tr th abbr span  ,B/T,1,14
+html body div div div section div section table thead tr th abbr span  ,Ht,1,14
+html body div div div section div section table thead tr th abbr span  ,Wt,1,14
+html body div div div section div section table thead tr th abbr span  ,DOB,1,14
+html body div div div section div section table tbody tr td span  ,15,1,13
+html body div div div section div section table tbody tr td a span  ,Austin Barnes,1,14
+html body div div div section div section table tbody tr td span  ,R/R,1,13
+html body div div div section div section table tbody tr td span  ,"5'10""",1,13
+html body div div div section div section table tbody tr td span  ,190lbs,1,13
+html body div div div section div section table tbody tr td span  ,12/28/89,1,13
+html body div div div section div section table tbody tr td span  ,17,1,13
+html body div div div section div section table tbody tr td a span  ,Kyle Farmer,1,14
+html body div div div section div section table tbody tr td span  ,R/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'0""",1,13
+html body div div div section div section table tbody tr td span  ,214lbs,1,13
+html body div div div section div section table tbody tr td span  ,8/17/90,1,13
+html body div div div section div section table tbody tr td span  ,58,1,13
+html body div div div section div section table tbody tr td a span  ,Rocky Gale,1,14
+html body div div div section div section table tbody tr td span  ,R/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'1""",1,13
+html body div div div section div section table tbody tr td span  ,185lbs,1,13
+html body div div div section div section table tbody tr td span  ,2/22/88,1,13
+html body div div div section div section h4 span  ,Infield,1,10
+html body div div div section div section table thead tr th abbr span  ,#,1,14
+html body div div div section div section table thead tr th span  ,Name,1,13
+html body div div div section div section table thead tr th abbr span  ,B/T,1,14
+html body div div div section div section table thead tr th abbr span  ,Ht,1,14
+html body div div div section div section table thead tr th abbr span  ,Wt,1,14
+html body div div div section div section table thead tr th abbr span  ,DOB,1,14
+html body div div div section div section table tbody tr td span  ,35,1,13
+html body div div div section div section table tbody tr td a span  ,Cody Bellinger,1,14
+html body div div div section div section table tbody tr td span  ,L/L,1,13
+html body div div div section div section table tbody tr td span  ,"6'4""",1,13
+html body div div div section div section table tbody tr td span  ,210lbs,1,13
+html body div div div section div section table tbody tr td span  ,7/13/95,1,13
+html body div div div section div section table tbody tr td span  ,25,1,13
+html body div div div section div section table tbody tr td a span  ,David Freese,1,14
+html body div div div section div section table tbody tr td span  ,R/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'2""",1,13
+html body div div div section div section table tbody tr td span  ,220lbs,1,13
+html body div div div section div section table tbody tr td span  ,4/28/83,1,13
+html body div div div section div section table tbody tr td span  ,13,1,13
+html body div div div section div section table tbody tr td a span  ,Max Muncy,1,14
+html body div div div section div section table tbody tr td span  ,L/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'0""",1,13
+html body div div div section div section table tbody tr td span  ,210lbs,1,13
+html body div div div section div section table tbody tr td span  ,8/25/90,1,13
+html body div div div section div section table tbody tr td span  ,3,1,13
+html body div div div section div section table tbody tr td a span  ,Chris Taylor,1,14
+html body div div div section div section table tbody tr td span  ,R/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'1""",1,13
+html body div div div section div section table tbody tr td span  ,195lbs,1,13
+html body div div div section div section table tbody tr td span  ,8/29/90,1,13
+html body div div div section div section table tbody tr td span  ,10,1,13
+html body div div div section div section table tbody tr td a span  ,Justin Turner,1,14
+html body div div div section div section table tbody tr td span  ,R/R,1,13
+html body div div div section div section table tbody tr td span  ,"5'11""",1,13
+html body div div div section div section table tbody tr td span  ,205lbs,1,13
+html body div div div section div section table tbody tr td span  ,11/23/84,1,13
+html body div div div section div section table tbody tr td span  ,26,1,13
+html body div div div section div section table tbody tr td a span  ,Chase Utley,1,14
+html body div div div section div section table tbody tr td span  ,L/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'1""",1,13
+html body div div div section div section table tbody tr td span  ,195lbs,1,13
+html body div div div section div section table tbody tr td span  ,12/17/78,1,13
+html body div div div section div section h4 span  ,Outfield,1,10
+html body div div div section div section table thead tr th abbr span  ,#,1,14
+html body div div div section div section table thead tr th span  ,Name,1,13
+html body div div div section div section table thead tr th abbr span  ,B/T,1,14
+html body div div div section div section table thead tr th abbr span  ,Ht,1,14
+html body div div div section div section table thead tr th abbr span  ,Wt,1,14
+html body div div div section div section table thead tr th abbr span  ,DOB,1,14
+html body div div div section div section table tbody tr td span  ,14,1,13
+html body div div div section div section table tbody tr td a span  ,Enrique Hernandez,1,14
+html body div div div section div section table tbody tr td span  ,R/R,1,13
+html body div div div section div section table tbody tr td span  ,"5'11""",1,13
+html body div div div section div section table tbody tr td span  ,200lbs,1,13
+html body div div div section div section table tbody tr td span  ,8/24/91,1,13
+html body div div div section div section table tbody tr td span  ,27,1,13
+html body div div div section div section table tbody tr td a span  ,Matt Kemp,1,14
+html body div div div section div section table tbody tr td span  ,R/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'4""",1,13
+html body div div div section div section table tbody tr td span  ,210lbs,1,13
+html body div div div section div section table tbody tr td span  ,9/23/84,1,13
+html body div div div section div section table tbody tr td span  ,70,1,13
+html body div div div section div section table tbody tr td a span  ,Tim Locastro,1,14
+html body div div div section div section table tbody tr td span  ,R/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'1""",1,13
+html body div div div section div section table tbody tr td span  ,200lbs,1,13
+html body div div div section div section table tbody tr td span  ,7/14/92,1,13
+html body div div div section div section table tbody tr td span  ,31,1,13
+html body div div div section div section table tbody tr td a span  ,Joc Pederson,1,14
+html body div div div section div section table tbody tr td span  ,L/L,1,13
+html body div div div section div section table tbody tr td span  ,"6'1""",1,13
+html body div div div section div section table tbody tr td span  ,220lbs,1,13
+html body div div div section div section table tbody tr td span  ,4/21/92,1,13
+html body div div div section div section table tbody tr td span  ,66,1,13
+html body div div div section div section table tbody tr td a span  ,Yasiel Puig,1,14
+html body div div div section div section table tbody tr td span  ,R/R,1,13
+html body div div div section div section table tbody tr td span  ,"6'2""",1,13
+html body div div div section div section table tbody tr td span  ,240lbs,1,13
+html body div div div section div section table tbody tr td span  ,12/7/90,1,13
+html body div div div section div section table tbody tr td span  ,60,1,13
+html body div div div section div section table tbody tr td a span  ,Andrew Toles,1,14
+html body div div div section div section table tbody tr td span  ,L/R,1,13
+html body div div div section div section table tbody tr td span  ,"5'9""",1,13
+html body div div div section div section table tbody tr td span  ,192lbs,1,13
+html body div div div section div section table tbody tr td span  ,5/24/92,1,13
+html body div div div section div section table tbody tr td span  ,61,1,13
+html body div div div section div section table tbody tr td a span  ,Alex Verdugo,1,14
+html body div div div section div section table tbody tr td span  ,L/L,1,13
+html body div div div section div section table tbody tr td span  ,"6'0""",1,13
+html body div div div section div section table tbody tr td span  ,205lbs,1,13
+html body div div div section div section table tbody tr td span  ,5/15/96,1,13
+html body div div div aside nav header h5 span  ,Related Links,0,10
+html body div div div aside nav ul li a span  ,Player Search,0,11
+html body div div div aside nav header h5 span  ,Also in Roster,0,10
+html body div div div aside nav ul li a span  ,40-Man Roster,0,11
+html body div div div aside nav ul li a span  ,Depth Chart,0,11
+html body div div div aside nav ul li a span  ,Coaches,0,11
+html body div div div aside nav ul li a span  ,Top 30 Prospects,0,11
+html body div div div aside nav ul li a span  ,Transactions,0,11
+html body div div div aside nav ul li a span  ,Injury Updates,0,11
+html body div div div aside nav ul li a span  ,Draft Results,0,11
+html body div div div aside nav ul li a span  ,Front Office,0,11
+html body div div div aside nav ul li a span  ,Broadcasters,0,11
+html body div div div div div div div ul li a span  ,Official Info,0,13
+html body div div div div div div div ul li a span  ,Help/Contact Us,0,13
+html body div div div div div div div ul li a span  ,Accessibility,0,13
+html body div div div div div div div ul li a span  ,Job Opportunities,0,13
+html body div div div div div div div ul li a span  ,Advertising Opportunities,0,13
+html body div div div div div div div ul li a span  ,Terms of Use,0,13
+html body div div div div div div div ul li a span  ,"Privacy Policy (updated May 24, 2018)",0,13
+html body div div div div div div div ul li a span  ,Legal Notices,0,13
+html body div div div div div div div ul li a span  ,Contact Us,0,13
+html body div div div div div div div div span  ,©,0,11
+html body div div div div div div div div span  ,2018,0,11
+html body div div div div div div div div span  ,"MLB Advanced Media, LP. All rights reserved.",0,11
+html body div div div div div div ul li a span  ,View MLB.com in English,0,12
+html body div div div div div div ul li a span  ,En Español,0,12

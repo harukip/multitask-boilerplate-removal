@@ -1,0 +1,591 @@
+tag,content,label,depth
+html body div div div div span span a span  ,IMDb,0,10
+html body div div div div form div div select option span  ,All,0,12
+html body div div div div form div div select option span  ,Titles,0,12
+html body div div div div form div div select option span  ,TV Episodes,0,12
+html body div div div div form div div select option span  ,Names,0,12
+html body div div div div form div div select option span  ,Companies,0,12
+html body div div div div form div div select option span  ,Keywords,0,12
+html body div div div div form div div select option span  ,Advanced Search »,0,12
+html body div div div div form div div select option span  ,Advanced Search »,0,12
+html body div div div div form div div select option span  ,Advanced Search »,0,12
+html body div div div div div ul li p a span  ,Movies,0,12
+html body div div div div div ul li p span  ,",",0,11
+html body div div div div div ul li p a span  ,TV,0,12
+html body div div div div div ul li p span  ,&,0,11
+html body div div div div div ul li p a span  ,Showtimes,0,12
+html body div div div div div ul li div div div p a strong span  ,The Prestige,0,16
+html body div div div div div ul li div div div p a span  ,(2006),0,15
+html body div div div div div ul li div div div p a span  ,#,0,15
+html body div div div div div ul li div div div p a strong span  ,48,0,16
+html body div div div div div ul li div div div p a span  ,on IMDb Top Rated Movies,0,15
+html body div div div div div ul li div div div p span  ,»,0,14
+html body div div div div div ul li div div h5 span  ,MOVIES,0,13
+html body div div div div div ul li div div ul li a span  ,In Theaters,0,15
+html body div div div div div ul li div div ul li a span  ,Showtimes & Tickets,0,15
+html body div div div div div ul li div div ul li a span  ,Latest Trailers,0,15
+html body div div div div div ul li div div ul li a span  ,Coming Soon,0,15
+html body div div div div div ul li div div ul li a span  ,Release Calendar,0,15
+html body div div div div div ul li div div ul li a span  ,Top Rated Movies,0,15
+html body div div div div div ul li div div ul li a span  ,Top Rated Indian Movies,0,15
+html body div div div div div ul li div div ul li a span  ,Most Popular Movies,0,15
+html body div div div div div ul li div div h5 span  ,CHARTS & TRENDS,0,13
+html body div div div div div ul li div div ul li a span  ,Box Office,0,15
+html body div div div div div ul li div div ul li a span  ,Oscar Winners,0,15
+html body div div div div div ul li div div ul li a span  ,Most Popular by Genre,0,15
+html body div div div div div ul li div div h5 span  ,TV & VIDEO,0,13
+html body div div div div div ul li div div ul li a span  ,IMDb TV,0,15
+html body div div div div div ul li div div ul li a span  ,Top Rated TV Shows,0,15
+html body div div div div div ul li div div ul li a span  ,Most Popular TV Shows,0,15
+html body div div div div div ul li div div ul li a span  ,DVD & Blu-Ray,0,15
+html body div div div div div ul li div div h5 span  ,SPECIAL FEATURES,0,13
+html body div div div div div ul li div div ul li a span  ,Amazon Originals,0,15
+html body div div div div div ul li div div ul li a span  ,Superheroes,0,15
+html body div div div div div ul li div div ul li a span  ,Horror Guide,0,15
+html body div div div div div ul li div div ul li a span  ,IMDb Picks,0,15
+html body div div div div div ul li div div ul li a span  ,Family,0,15
+html body div div div div div ul li div div ul li a span  ,Video Games,0,15
+html body div div div div div ul li div div ul li a span  ,Marvel,0,15
+html body div div div div div ul li p a span  ,Celebs,0,12
+html body div div div div div ul li p span  ,",",0,11
+html body div div div div div ul li p a span  ,Events,0,12
+html body div div div div div ul li p span  ,&,0,11
+html body div div div div div ul li p a span  ,Photos,0,12
+html body div div div div div ul li div div div p a strong span  ,Bradley Cooper,0,16
+html body div div div div div ul li div div div p span  ,»,0,14
+html body div div div div div ul li div div div p span  ,#,0,14
+html body div div div div div ul li div div div p strong span  ,10,0,15
+html body div div div div div ul li div div div p span  ,on STARmeter,0,14
+html body div div div div div ul li div div h5 span  ,CELEBS,0,13
+html body div div div div div ul li div div ul li a span  ,Born Today,0,15
+html body div div div div div ul li div div ul li a span  ,Celebrity News,0,15
+html body div div div div div ul li div div ul li a span  ,Most Popular Celebs,0,15
+html body div div div div div ul li div div h5 span  ,PHOTOS,0,13
+html body div div div div div ul li div div ul li a span  ,Latest Stills,0,15
+html body div div div div div ul li div div ul li a span  ,Latest Posters,0,15
+html body div div div div div ul li div div ul li a span  ,Photos We Love,0,15
+html body div div div div div ul li div div h5 span  ,EVENTS,0,13
+html body div div div div div ul li div div ul li a span  ,Awards Central,0,15
+html body div div div div div ul li div div ul li a span  ,Festival Central,0,15
+html body div div div div div ul li div div ul li a span  ,Oscars,0,15
+html body div div div div div ul li div div ul li a span  ,Golden Globes,0,15
+html body div div div div div ul li div div ul li a span  ,Sundance,0,15
+html body div div div div div ul li div div ul li a span  ,Cannes,0,15
+html body div div div div div ul li div div ul li a span  ,San Diego Comic-Con,0,15
+html body div div div div div ul li div div ul li a span  ,Emmy Awards,0,15
+html body div div div div div ul li div div ul li a span  ,Venice Film Festival,0,15
+html body div div div div div ul li div div ul li a span  ,Toronto Film Festival,0,15
+html body div div div div div ul li div div ul li a span  ,Tribeca,0,15
+html body div div div div div ul li div div ul li a span  ,LA Film Festival,0,15
+html body div div div div div ul li div div ul li a span  ,All Events,0,15
+html body div div div div div ul li p a span  ,News,0,12
+html body div div div div div ul li p span  ,&,0,11
+html body div div div div div ul li p a span  ,Community,0,12
+html body div div div div div ul li div div div h5 span  ,LATEST HEADLINES,0,14
+html body div div div div div ul li div div div ul li a span  ,Pixar Co-Founder Ed Catmull to Retire,0,16
+html body div div div div div ul li div div div ul li small span  ,12 hours ago,0,16
+html body div div div div div ul li div div div ul li small span  ,|,0,16
+html body div div div div div ul li div div div ul li small span  ,Variety - Film News,0,16
+html body div div div div div ul li div div div ul li a span  ,Steve Carell Returning to TV with Lead Role in Apple’s Aniston/Witherspoon Drama,0,16
+html body div div div div div ul li div div div ul li small span  ,17 hours ago,0,16
+html body div div div div div ul li div div div ul li small span  ,|,0,16
+html body div div div div div ul li div div div ul li small span  ,Collider.com,0,16
+html body div div div div div ul li div div div ul li a span  ,Jean-Marc Vallee to Direct John Lennon-Yoko Ono Movie for Universal,0,16
+html body div div div div div ul li div div div ul li small span  ,18 hours ago,0,16
+html body div div div div div ul li div div div ul li small span  ,|,0,16
+html body div div div div div ul li div div div ul li small span  ,Variety - Film News,0,16
+html body div div div div div ul li div div h5 span  ,NEWS,0,13
+html body div div div div div ul li div div ul li a span  ,Top News,0,15
+html body div div div div div ul li div div ul li a span  ,Movie News,0,15
+html body div div div div div ul li div div ul li a span  ,TV News,0,15
+html body div div div div div ul li div div ul li a span  ,Celebrity News,0,15
+html body div div div div div ul li div div ul li a span  ,Indie News,0,15
+html body div div div div div ul li div div h5 span  ,COMMUNITY,0,13
+html body div div div div div ul li div div ul li a span  ,Contributor Zone,0,15
+html body div div div div div ul li div div ul li a span  ,Polls,0,15
+html body div div div div div ul li p a span  ,Watchlist,0,12
+html body div div div div div ul li div h5 span  ,YOUR WATCHLIST,0,12
+html body div div div div div ul li div a section div span  ,The essential resource for entertainment professionals,0,14
+html body div div div div div ul li div a section p span  ,Find industry contacts & talent representation,0,14
+html body div div div div div ul li div a section p span  ,Access in-development titles not available on IMDb,0,14
+html body div div div div div ul li div a section p span  ,Get the latest news from leading industry trades,0,14
+html body div div div div div ul li div a section p span  ,Claim your page and control your brand across IMDb & Amazon,0,14
+html body div div div div div ul li div a section div svg title span  ,TryIMDbProFree,0,16
+html body div div div div div ul li div a section div svg g text tspan span  ,Try IMDbPro Free,0,18
+html body div div div div div ul li span  ,|,0,10
+html body div div div div div ul li a span  ,Help,0,11
+html body div div div div div ul li p a span  ,Sign in with Facebook,0,12
+html body div div div div div ul li p a span  ,Other Sign in options,0,12
+html body div div div div div div div div h3 a span  ,Iron Fist,1,13
+html body div div div div div div div div h3 span  ,(2017–2018),1,12
+html body div div div div div div div h1 span  ,Episode List,1,11
+html body div div div div div div div div div div label span  ,Season:,0,14
+html body div div div div div div div div div div select option span  ,1,0,15
+html body div div div div div div div div div div select option span  ,2,0,15
+html body div div div div div div div div div span  ,OR,0,12
+html body div div div div div div div div div div label span  ,Year:,0,14
+html body div div div div div div div div div div select option span  ,2017,0,15
+html body div div div div div div div div div div select option span  ,2018,0,15
+html body div div div div div div div div h3 span  ,Season 2,1,12
+html body div div div div div div div div div div div a div div span  ,"S2, Ep1",1,17
+html body div div div div div div div div div div div div span  ,7 Sep. 2018,1,15
+html body div div div div div div div div div div div strong a span  ,The Fury of Iron Fist,1,16
+html body div div div div div div div div div div div div div span  ,7.6,1,16
+html body div div div div div div div div div div div div div span  ,"(1,214)",1,16
+html body div div div div div div div div div div div div div label div span  ,0,1,18
+html body div div div div div div div div div div div div div label div span  ,Rate,1,18
+html body div div div div div div div div div div div div div div div form a div span  ,1,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,2,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,3,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,4,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,5,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,6,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,7,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,8,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,9,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,10,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div span  ,0,1,18
+html body div div div div div div div div div div div div div div div span  ,Error: please try again.,1,18
+html body div div div div div div div div div div div div span  ,"While rival gangs battle for the soul of New York, Danny and Colleen cross paths with an old acquaintance. Joy embarks on a new adventure.",1,15
+html body div div div div div div div div div div div a div div span  ,"S2, Ep2",1,17
+html body div div div div div div div div div div div div span  ,7 Sep. 2018,1,15
+html body div div div div div div div div div div div strong a span  ,The City's Not for Burning,1,16
+html body div div div div div div div div div div div div div span  ,7.6,1,16
+html body div div div div div div div div div div div div div span  ,"(1,026)",1,16
+html body div div div div div div div div div div div div div label div span  ,0,1,18
+html body div div div div div div div div div div div div div label div span  ,Rate,1,18
+html body div div div div div div div div div div div div div div div form a div span  ,1,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,2,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,3,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,4,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,5,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,6,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,7,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,8,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,9,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,10,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div span  ,0,1,18
+html body div div div div div div div div div div div div div div div span  ,Error: please try again.,1,18
+html body div div div div div div div div div div div div span  ,"Danny and Colleen strive to broker a badly needed peace. Ward crashes his sister's auction, and Joy plays matchmaker - with a twist.",1,15
+html body div div div div div div div div div div div a div div span  ,"S2, Ep3",1,17
+html body div div div div div div div div div div div div span  ,7 Sep. 2018,1,15
+html body div div div div div div div div div div div strong a span  ,This Deadly Secret,1,16
+html body div div div div div div div div div div div div div span  ,7.7,1,16
+html body div div div div div div div div div div div div div span  ,(966),1,16
+html body div div div div div div div div div div div div div label div span  ,0,1,18
+html body div div div div div div div div div div div div div label div span  ,Rate,1,18
+html body div div div div div div div div div div div div div div div form a div span  ,1,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,2,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,3,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,4,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,5,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,6,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,7,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,8,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,9,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,10,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div span  ,0,1,18
+html body div div div div div div div div div div div div div div div span  ,Error: please try again.,1,18
+html body div div div div div div div div div div div div span  ,"In an effort to ease the tension between Ward and Joy, Danny and Colleen switch gears and host a dinner party. Mary delivers a warning.",1,15
+html body div div div div div div div div div div div a div div span  ,"S2, Ep4",1,17
+html body div div div div div div div div div div div div span  ,7 Sep. 2018,1,15
+html body div div div div div div div div div div div strong a span  ,Target: Iron Fist,1,16
+html body div div div div div div div div div div div div div span  ,7.9,1,16
+html body div div div div div div div div div div div div div span  ,(925),1,16
+html body div div div div div div div div div div div div div label div span  ,0,1,18
+html body div div div div div div div div div div div div div label div span  ,Rate,1,18
+html body div div div div div div div div div div div div div div div form a div span  ,1,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,2,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,3,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,4,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,5,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,6,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,7,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,8,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,9,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,10,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div span  ,0,1,18
+html body div div div div div div div div div div div div div div div span  ,Error: please try again.,1,18
+html body div div div div div div div div div div div div span  ,Joy's interrogation of Mary takes a turn. Misty gives Danny an earful. Ward extends an olive branch. Davos makes a crucial discovery.,1,15
+html body div div div div div div div div div div div a div div span  ,"S2, Ep5",1,17
+html body div div div div div div div div div div div div span  ,7 Sep. 2018,1,15
+html body div div div div div div div div div div div strong a span  ,Heart of the Dragon,1,16
+html body div div div div div div div div div div div div div span  ,8.0,1,16
+html body div div div div div div div div div div div div div span  ,(908),1,16
+html body div div div div div div div div div div div div div label div span  ,0,1,18
+html body div div div div div div div div div div div div div label div span  ,Rate,1,18
+html body div div div div div div div div div div div div div div div form a div span  ,1,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,2,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,3,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,4,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,5,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,6,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,7,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,8,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,9,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,10,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div span  ,0,1,18
+html body div div div div div div div div div div div div div div div span  ,Error: please try again.,1,18
+html body div div div div div div div div div div div div span  ,"There's a new Iron Fist in town, and he's itching to make his presence felt. Meanwhile, Ward calls in a favor, and Joy considers her options.",1,15
+html body div div div div div div div div div div div a div div span  ,"S2, Ep6",1,17
+html body div div div div div div div div div div div div span  ,7 Sep. 2018,1,15
+html body div div div div div div div div div div div strong a span  ,The Dragon Dies at Dawn,1,16
+html body div div div div div div div div div div div div div span  ,8.1,1,16
+html body div div div div div div div div div div div div div span  ,(901),1,16
+html body div div div div div div div div div div div div div label div span  ,0,1,18
+html body div div div div div div div div div div div div div label div span  ,Rate,1,18
+html body div div div div div div div div div div div div div div div form a div span  ,1,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,2,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,3,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,4,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,5,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,6,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,7,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,8,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,9,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,10,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div span  ,0,1,18
+html body div div div div div div div div div div div div div div div span  ,Error: please try again.,1,18
+html body div div div div div div div div div div div div span  ,"Misty and Colleen's trip to the tattoo parlor turns painful -- but not for them. As Davos crosses names off his list, Mary makes Danny an offer.",1,15
+html body div div div div div div div div div div div a div div span  ,"S2, Ep7",1,17
+html body div div div div div div div div div div div div span  ,7 Sep. 2018,1,15
+html body div div div div div div div div div div div strong a span  ,Morning of the Mindstorm,1,16
+html body div div div div div div div div div div div div div span  ,7.6,1,16
+html body div div div div div div div div div div div div div span  ,(848),1,16
+html body div div div div div div div div div div div div div label div span  ,0,1,18
+html body div div div div div div div div div div div div div label div span  ,Rate,1,18
+html body div div div div div div div div div div div div div div div form a div span  ,1,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,2,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,3,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,4,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,5,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,6,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,7,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,8,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,9,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,10,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div span  ,0,1,18
+html body div div div div div div div div div div div div div div div span  ,Error: please try again.,1,18
+html body div div div div div div div div div div div div span  ,"As Danny steps up his training, Davos ramps up recruitment. Ward falls prey to old demons, and Misty butts heads with a captain.",1,15
+html body div div div div div div div div div div div a div div span  ,"S2, Ep8",1,17
+html body div div div div div div div div div div div div span  ,7 Sep. 2018,1,15
+html body div div div div div div div div div div div strong a span  ,Citadel on the Edge of Vengeance,1,16
+html body div div div div div div div div div div div div div span  ,7.8,1,16
+html body div div div div div div div div div div div div div span  ,(831),1,16
+html body div div div div div div div div div div div div div label div span  ,0,1,18
+html body div div div div div div div div div div div div div label div span  ,Rate,1,18
+html body div div div div div div div div div div div div div div div form a div span  ,1,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,2,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,3,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,4,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,5,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,6,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,7,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,8,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,9,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,10,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div span  ,0,1,18
+html body div div div div div div div div div div div div div div div span  ,Error: please try again.,1,18
+html body div div div div div div div div div div div div span  ,"Joy offers Davos tips on appealing to the masses, Danny begins to understand his limits, and Mary seeks the truth about her past.",1,15
+html body div div div div div div div div div div div a div div span  ,"S2, Ep9",1,17
+html body div div div div div div div div div div div div span  ,7 Sep. 2018,1,15
+html body div div div div div div div div div div div strong a span  ,War Without End,1,16
+html body div div div div div div div div div div div div div span  ,8.1,1,16
+html body div div div div div div div div div div div div div span  ,(903),1,16
+html body div div div div div div div div div div div div div label div span  ,0,1,18
+html body div div div div div div div div div div div div div label div span  ,Rate,1,18
+html body div div div div div div div div div div div div div div div form a div span  ,1,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,2,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,3,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,4,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,5,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,6,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,7,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,8,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,9,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,10,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div span  ,0,1,18
+html body div div div div div div div div div div div div div div div span  ,Error: please try again.,1,18
+html body div div div div div div div div div div div div span  ,"Facing a life-changing decision, Danny and Colleen debate their next move. Meanwhile, Davos's contempt for mercy grows stronger.",1,15
+html body div div div div div div div div div div div a div div span  ,"S2, Ep10",1,17
+html body div div div div div div div div div div div div span  ,7 Sep. 2018,1,15
+html body div div div div div div div div div div div strong a span  ,A Duel of Iron,1,16
+html body div div div div div div div div div div div div div span  ,8.0,1,16
+html body div div div div div div div div div div div div div span  ,"(1,032)",1,16
+html body div div div div div div div div div div div div div label div span  ,0,1,18
+html body div div div div div div div div div div div div div label div span  ,Rate,1,18
+html body div div div div div div div div div div div div div div div form a div span  ,1,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,2,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,3,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,4,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,5,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,6,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,7,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,8,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,9,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,10,1,21
+html body div div div div div div div div div div div div div div div form a div span  ,Rate,1,21
+html body div div div div div div div div div div div div div div div span  ,0,1,18
+html body div div div div div div div div div div div div div div div span  ,Error: please try again.,1,18
+html body div div div div div div div div div div div div span  ,"In the season finale, Iron Fists collide as the fate of New York City hangs in the balance.",1,15
+html body div div div div div div div div div span  ,«,0,12
+html body div div div div div div div div div a span  ,Season 1,0,13
+html body div div div div div div div div div span  ,|,0,12
+html body div div div div div div div div div strong span  ,Season 2,0,13
+html body div div div div div div h2 span  ,See also,0,10
+html body div div div div div div p span a span  ,TV Schedule,0,12
+html body div div div div div div div a span  ,Getting Started,0,11
+html body div div div div div div div span  ,|,0,10
+html body div div div div div div div a span  ,Contributor Zone,0,11
+html body div div div div div div div span  ,»,0,10
+html body div div div div div div h2 span  ,Contribute to This Page,0,10
+html body div div div div div div a span  ,ad feedback,0,10
+html body div div div div div div a span  ,Iron Fist,0,10
+html body div div div div div div span  ,(TV Series),0,9
+html body div div div div div div h4 span  ,TV,0,10
+html body div div div div div div ul li a span  ,Episode List,0,12
+html body div div div div div div ul li a span  ,TV Schedule,0,12
+html body div div div div div div div h4 span  ,Details,0,11
+html body div div div div div div div ul li a span  ,Full Cast and Crew,0,13
+html body div div div div div div div ul li a span  ,Release Dates,0,13
+html body div div div div div div div ul li a span  ,Official Sites,0,13
+html body div div div div div div div ul li a span  ,Company Credits,0,13
+html body div div div div div div div ul li a span  ,Filming & Production,0,13
+html body div div div div div div div ul li a span  ,Technical Specs,0,13
+html body div div div div div div div h4 span  ,Storyline,0,11
+html body div div div div div div div ul li a span  ,Taglines,0,13
+html body div div div div div div div ul li a span  ,Plot Summary,0,13
+html body div div div div div div div ul li a span  ,Synopsis,0,13
+html body div div div div div div div ul li a span  ,Plot Keywords,0,13
+html body div div div div div div div ul li a span  ,Parents Guide,0,13
+html body div div div div div div div h4 span  ,Did You Know?,0,11
+html body div div div div div div div ul li a span  ,Trivia,0,13
+html body div div div div div div div ul li a span  ,Goofs,0,13
+html body div div div div div div div ul li a span  ,Crazy Credits,0,13
+html body div div div div div div div ul li a span  ,Quotes,0,13
+html body div div div div div div div ul li a span  ,Alternate Versions,0,13
+html body div div div div div div div ul li a span  ,Connections,0,13
+html body div div div div div div div ul li a span  ,Soundtracks,0,13
+html body div div div div div div div h4 span  ,Photo & Video,0,11
+html body div div div div div div div ul li a span  ,Photo Gallery,0,13
+html body div div div div div div div ul li a span  ,Trailers and Videos,0,13
+html body div div div div div div div h4 span  ,Opinion,0,11
+html body div div div div div div div ul li a span  ,Awards,0,13
+html body div div div div div div div ul li a span  ,FAQ,0,13
+html body div div div div div div div ul li a span  ,User Reviews,0,13
+html body div div div div div div div ul li a span  ,User Ratings,0,13
+html body div div div div div div div ul li a span  ,External Reviews,0,13
+html body div div div div div div div ul li a span  ,Metacritic Reviews,0,13
+html body div div div div div div div h4 span  ,Related Items,0,11
+html body div div div div div div div ul li a span  ,News,0,13
+html body div div div div div div div ul li a span  ,External Sites,0,13
+html body div div div div div div div span  ,Explore More,0,10
+html body div div div div div div div span  ,Show Less,0,10
+html body div div div div div div div div span strong span  ,Share,0,13
+html body div div div div div div div div span  ,this page:,0,11
+html body div div div div div div div h3 span  ,Editorial Lists,0,11
+html body div div div div div div div p span  ,Related lists from IMDb editors,0,11
+html body div div div div div div div div div strong a span  ,TV Series Tracker: Renewed and Canceled,0,14
+html body div div div div div div div div div span  ,a list of 94 images,0,12
+html body div div div div div div div div div span  ,updated 1 day ago,0,12
+html body div div div div div div div div div strong a span  ,Nearly 200 Shows for Your September TV Calendar,0,14
+html body div div div div div div div div div span  ,a list of 196 titles,0,12
+html body div div div div div div div div div span  ,updated 1 month ago,0,12
+html body div div div div div div div div div strong a span  ,Comic-Con 2018: Title Trending List,0,14
+html body div div div div div div div div div span  ,a list of 152 titles,0,12
+html body div div div div div div div div div span  ,updated 3 months ago,0,12
+html body div div div div div div div div div strong a span  ,"Where to Watch Your Favorite DC, Marvel, and Other Superhero TV Shows",0,14
+html body div div div div div div div div div span  ,a list of 28 titles,0,12
+html body div div div div div div div div div span  ,updated 4 months ago,0,12
+html body div div div div div div div div a span  ,Create a list,0,12
+html body div div div div div div div div span  ,»,0,11
+html body div div div div div div div h3 span  ,User Lists,0,11
+html body div div div div div div div p span  ,Related lists from IMDb users,0,11
+html body div div div div div div div div div strong a span  ,TV Series,0,14
+html body div div div div div div div div div span  ,a list of 49 titles,0,12
+html body div div div div div div div div div span  ,created 2 days ago,0,12
+html body div div div div div div div div div strong a span  ,MCU - Classifica,0,14
+html body div div div div div div div div div span  ,a list of 24 titles,0,12
+html body div div div div div div div div div span  ,created 2 days ago,0,12
+html body div div div div div div div div div strong a span  ,Favorite Shows of 2018... So far.,0,14
+html body div div div div div div div div div span  ,a list of 37 titles,0,12
+html body div div div div div div div div div span  ,created 6 months ago,0,12
+html body div div div div div div div div div strong a span  ,MyTV,0,14
+html body div div div div div div div div div span  ,a list of 43 titles,0,12
+html body div div div div div div div div div span  ,created 04 Oct 2011,0,12
+html body div div div div div div div div div strong a span  ,My TV shows,0,14
+html body div div div div div div div div div span  ,a list of 45 titles,0,12
+html body div div div div div div div div div span  ,created 15 May 2012,0,12
+html body div div div div div div div div a span  ,See all related lists,0,12
+html body div div div div div div div div span  ,»,0,11
+html body div div div div div div a span  ,Clear your history,0,10
+html body div div div div div h3 span  ,Recently Viewed,0,9
+html body div div div div div div h3 span  ,IMDb Everywhere,0,10
+html body div div div div div div p span  ,"Find showtimes, watch trailers, browse photos, track your Watchlist and rate your favorite movies and TV shows on your phone or tablet!",0,10
+html body div div div div div div a span  ,IMDb Mobile site,0,10
+html body div div div div div div div h3 span  ,Follow IMDb on,0,11
+html body div div div div div div div div ul li a span  ,Home,0,14
+html body div div div div div div div div ul li a span  ,Top Rated Movies,0,14
+html body div div div div div div div div ul li a span  ,Box Office,0,14
+html body div div div div div div div div ul li a span  ,TV,0,14
+html body div div div div div div div div ul li a span  ,Coming Soon,0,14
+html body div div div div div div div div ul li a span  ,Site Index,0,14
+html body div div div div div div div div ul li a span  ,Search,0,14
+html body div div div div div div div div ul li a span  ,In Theaters,0,14
+html body div div div div div div div div ul li a span  ,Contact Us,0,14
+html body div div div div div div div div ul li a span  ,Register,0,14
+html body div div div div div div div div ul li a span  ,News,0,14
+html body div div div div div div div div ul li a span  ,Press Room,0,14
+html body div div div div div div div div ul li a span  ,Advertising,0,14
+html body div div div div div div div div ul li a span  ,Jobs,0,14
+html body div div div div div div div div ul li a span  ,IMDbPro,0,14
+html body div div div div div div div div ul li a span  ,Box Office Mojo,0,14
+html body div div div div div div div div ul li a span  ,Withoutabox,0,14
+html body div div div div div div div div ul li a span  ,Conditions of Use,0,14
+html body div div div div div div div div ul li a span  ,Privacy Policy,0,14
+html body div div div div div div div div ul li a span  ,Interest-Based Ads,0,14
+html body div div div div div a span  ,Copyright ©,0,9
+html body div div div div div span  ,1990-2018,0,8
+html body div div div div div a span  ,"IMDb.com, Inc.",0,9
+html body div div div table tbody tr td span  ,Amazon Affiliates,0,10
+html body div div div table tbody tr td div a span  ,Amazon Video,0,12
+html body div div div table tbody tr td div a span  ,Watch Movies &,0,12
+html body div div div table tbody tr td div a span  ,TV Online,0,12
+html body div div div table tbody tr td div a span  ,Prime Video,0,12
+html body div div div table tbody tr td div a span  ,Unlimited Streaming,0,12
+html body div div div table tbody tr td div a span  ,of Movies & TV,0,12
+html body div div div table tbody tr td div a span  ,Amazon Germany,0,12
+html body div div div table tbody tr td div a span  ,Buy Movies on,0,12
+html body div div div table tbody tr td div a span  ,DVD & Blu-ray,0,12
+html body div div div table tbody tr td div a span  ,Amazon Italy,0,12
+html body div div div table tbody tr td div a span  ,Buy Movies on,0,12
+html body div div div table tbody tr td div a span  ,DVD & Blu-ray,0,12
+html body div div div table tbody tr td div a span  ,Amazon France,0,12
+html body div div div table tbody tr td div a span  ,Buy Movies on,0,12
+html body div div div table tbody tr td div a span  ,DVD & Blu-ray,0,12
+html body div div div table tbody tr td div a span  ,Amazon India,0,12
+html body div div div table tbody tr td div a span  ,Buy Movie and,0,12
+html body div div div table tbody tr td div a span  ,TV Show DVDs,0,12
+html body div div div table tbody tr td div a span  ,DPReview,0,12
+html body div div div table tbody tr td div a span  ,Digital,0,12
+html body div div div table tbody tr td div a span  ,Photography,0,12
+html body div div div table tbody tr td div a span  ,Audible,0,12
+html body div div div table tbody tr td div a span  ,Download,0,12
+html body div div div table tbody tr td div a span  ,Audio Books,0,12
+html body div div div div div div div span div div div div div div a span  ,Facebook,0,18
+html body div div div div div div div span div div div div div div a span  ,Twitter,0,18
+html body div div div div div div div span div div div div div div a span  ,Email,0,18
+html body div div div div div div div span div div div div div div a div span  ,Copy,0,19
+html body div div div div div div div span div div div div div div a div span  ,Embed,0,19
+html body div div div div div div div div div span  ,Related Videos,0,12
+html body div div div div div div div span div div div div div div a span  ,Facebook,0,18
+html body div div div div div div div span div div div div div div a span  ,Twitter,0,18
+html body div div div div div div div span div div div div div div a span  ,Email,0,18
+html body div div div div div div div span div div div div div div a div span  ,Copy,0,19
+html body div div div div div div div span div div div div div div a div span  ,Embed,0,19
+html body div div div div div div div div div span  ,Related Videos,0,12
+html body div div div div div div div span div div div div div div a span  ,Facebook,0,18
+html body div div div div div div div span div div div div div div a span  ,Twitter,0,18
+html body div div div div div div div span div div div div div div a span  ,Email,0,18
+html body div div div div div div div span div div div div div div a div span  ,Copy,0,19
+html body div div div div div div div span div div div div div div a div span  ,Embed,0,19
+html body div div div div div div div div div span  ,Related Videos,0,12

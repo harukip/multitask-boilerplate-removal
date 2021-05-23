@@ -1,0 +1,242 @@
+tag,content,label,depth
+html body a span  ,Skip to main content,0,4
+html body div header nav div ul li a span  ,switch to the,0,10
+html body div header nav div ul li a span  ,International edition,0,10
+html body div header nav div ul li a span  ,switch to the,0,10
+html body div header nav div ul li a span  ,UK edition,0,10
+html body div header nav div ul li a span  ,switch to the,0,10
+html body div header nav div ul li a span  ,US edition,0,10
+html body div header nav div ul li a span  ,switch to the,0,10
+html body div header nav div ul li a span  ,Australia edition,0,10
+html body div header nav a span  ,The Guardian - Back to home,0,7
+html body div header nav div a span  ,Support The,0,8
+html body div header nav div a span  ,Guardian,0,8
+html body div header nav div a span  ,Subscribe,0,8
+html body div header nav div a span  ,Find a job,0,8
+html body div header nav div a span  ,Jobs,0,8
+html body div header nav div div a span  ,Sign in / Register,0,9
+html body div header nav div div label span  ,My account,0,9
+html body div header nav div div ul li a span  ,Comments & replies,0,11
+html body div header nav div div ul li a span  ,Public profile,0,11
+html body div header nav div div ul li a span  ,Account details,0,11
+html body div header nav div div ul li a span  ,Emails & marketing,0,11
+html body div header nav div div ul li a span  ,Membership,0,11
+html body div header nav div div ul li a span  ,Contributions,0,11
+html body div header nav div div ul li a span  ,Digital Pack,0,11
+html body div header nav div div ul li a span  ,Sign out,0,11
+html body div header nav div a span  ,Search,0,8
+html body div header nav ul li a span  ,News,0,9
+html body div header nav ul li a span  ,Opinion,0,9
+html body div header nav ul li a span  ,Sport,0,9
+html body div header nav ul li a span  ,Culture,0,9
+html body div header nav ul li a span  ,Lifestyle,0,9
+html body div header nav div div ul li ul li a span  ,World news,0,13
+html body div header nav div div ul li ul li a span  ,UK news,0,13
+html body div header nav div div ul li ul li a span  ,Science,0,13
+html body div header nav div div ul li ul li a span  ,Cities,0,13
+html body div header nav div div ul li ul li a span  ,Global development,0,13
+html body div header nav div div ul li ul li a span  ,Football,0,13
+html body div header nav div div ul li ul li a span  ,Tech,0,13
+html body div header nav div div ul li ul li a span  ,Business,0,13
+html body div header nav div div ul li ul li a span  ,Environment,0,13
+html body div header nav div div ul li ul li a span  ,Obituaries,0,13
+html body div header nav div div ul li ul li a span  ,The Guardian view,0,13
+html body div header nav div div ul li ul li a span  ,Columnists,0,13
+html body div header nav div div ul li ul li a span  ,Cartoons,0,13
+html body div header nav div div ul li ul li a span  ,Opinion videos,0,13
+html body div header nav div div ul li ul li a span  ,Letters,0,13
+html body div header nav div div ul li ul li a span  ,Football,0,13
+html body div header nav div div ul li ul li a span  ,Rugby union,0,13
+html body div header nav div div ul li ul li a span  ,Cricket,0,13
+html body div header nav div div ul li ul li a span  ,Tennis,0,13
+html body div header nav div div ul li ul li a span  ,Cycling,0,13
+html body div header nav div div ul li ul li a span  ,F1,0,13
+html body div header nav div div ul li ul li a span  ,Golf,0,13
+html body div header nav div div ul li ul li a span  ,US sports,0,13
+html body div header nav div div ul li ul li a span  ,Books,0,13
+html body div header nav div div ul li ul li a span  ,Music,0,13
+html body div header nav div div ul li ul li a span  ,TV & radio,0,13
+html body div header nav div div ul li ul li a span  ,Art & design,0,13
+html body div header nav div div ul li ul li a span  ,Film,0,13
+html body div header nav div div ul li ul li a span  ,Games,0,13
+html body div header nav div div ul li ul li a span  ,Classical,0,13
+html body div header nav div div ul li ul li a span  ,Stage,0,13
+html body div header nav div div ul li ul li a span  ,Fashion,0,13
+html body div header nav div div ul li ul li a span  ,Food,0,13
+html body div header nav div div ul li ul li a span  ,Recipes,0,13
+html body div header nav div div ul li ul li a span  ,Love & sex,0,13
+html body div header nav div div ul li ul li a span  ,Health & fitness,0,13
+html body div header nav div div ul li ul li a span  ,Home & garden,0,13
+html body div header nav div div ul li ul li a span  ,Women,0,13
+html body div header nav div div ul li ul li a span  ,Family,0,13
+html body div header nav div div ul li ul li a span  ,Travel,0,13
+html body div header nav div div ul li ul li a span  ,Money,0,13
+html body div header nav div div div form label span  ,What term do you want to search?,0,11
+html body div header nav div div ul li a span  ,Make a contribution,0,11
+html body div header nav div div ul li a span  ,Subscribe,0,11
+html body div header nav div div ul li a span  ,Sign in / Register,0,11
+html body div header nav div div ul li ul li a span  ,Comments & replies,0,13
+html body div header nav div div ul li ul li a span  ,Public profile,0,13
+html body div header nav div div ul li ul li a span  ,Account details,0,13
+html body div header nav div div ul li ul li a span  ,Emails & marketing,0,13
+html body div header nav div div ul li ul li a span  ,Membership,0,13
+html body div header nav div div ul li ul li a span  ,Contributions,0,13
+html body div header nav div div ul li ul li a span  ,Digital Pack,0,13
+html body div header nav div div ul li ul li a span  ,Sign out,0,13
+html body div header nav div div ul li ul li a span  ,switch to the,0,13
+html body div header nav div div ul li ul li a span  ,UK edition,0,13
+html body div header nav div div ul li ul li a span  ,switch to the,0,13
+html body div header nav div div ul li ul li a span  ,US edition,0,13
+html body div header nav div div ul li ul li a span  ,switch to the,0,13
+html body div header nav div div ul li ul li a span  ,Australia edition,0,13
+html body div header nav div div ul li a span  ,Jobs,0,11
+html body div header nav div div ul li a span  ,Dating,0,11
+html body div header nav div div ul li a span  ,Holidays,0,11
+html body div header nav div div ul li a span  ,Digital Archive,0,11
+html body div header nav div div ul li a span  ,The Guardian app,0,11
+html body div header nav div div ul li a span  ,Video,0,11
+html body div header nav div div ul li a span  ,Podcasts,0,11
+html body div header nav div div ul li a span  ,Pictures,0,11
+html body div header nav div div ul li a span  ,Newsletters,0,11
+html body div header nav div div ul li a span  ,Today's paper,0,11
+html body div header nav div div ul li a span  ,Inside the Guardian,0,11
+html body div header nav div div ul li a span  ,The Observer,0,11
+html body div header nav div div ul li a span  ,Crosswords,0,11
+html body div header nav div div ul li a span  ,Facebook,0,11
+html body div header nav div div ul li a span  ,Twitter,0,11
+html body div header nav div div ul li a span  ,Jobs,0,11
+html body div header nav div div ul li a span  ,Dating,0,11
+html body div header nav div div ul li a span  ,Holidays,0,11
+html body div header nav div div ul li a span  ,Digital Archive,0,11
+html body div header div div ul li a span  ,World,0,10
+html body div header div div ul li a span  ,Europe,0,10
+html body div header div div ul li a span  ,US,0,10
+html body div header div div ul li a span  ,Americas,0,10
+html body div header div div ul li a span  ,Asia,0,10
+html body div header div div ul li a span  ,Australia,0,10
+html body div header div div ul li a span  ,Middle East,0,10
+html body div header div div ul li a span  ,Africa,0,10
+html body div header div div ul li a span  ,Inequality,0,10
+html body div header div div ul li a span  ,Cities,0,10
+html body div header div div ul li a span  ,Global development,0,10
+html body div article div div div header div div a span  ,Dallas,0,12
+html body div article div div div header div div div h1 span  ,Dallas police officer who fatally shot neighbor in his apartment is fired,1,13
+html body div article div div div header div div div p span  ,Amber Guyger mistakenly entered Botham Jean’s apartment and said she thought she had encountered a burglar inside her home,1,13
+html body div article div div div header div div p span  ,Associated Press in Dallas,0,12
+html body div article div div div header div div p time span  ,Mon 24 Sep 2018,0,13
+html body div article div div div header div div p time span  ,18.14 BST,0,13
+html body div article div div div header div div p time span  ,Last modified on Mon 24 Sep 2018,0,13
+html body div article div div div header div div p time span  ,18.23 BST,0,13
+html body div article div div div header div div div ul li a span  ,Share on Facebook,0,15
+html body div article div div div header div div div ul li a span  ,Share on Twitter,0,15
+html body div article div div div header div div div ul li a span  ,Share via Email,0,15
+html body div article div div div header div div div div h3 span  ,Shares,0,14
+html body div article div div div header div div div div div span  ,471,0,14
+html body div article div div div header div div div div div span  ,471,0,14
+html body div article div div div header figure figcaption span  ,Botham Jean was fatally shot inside his own apartment by Dallas police officer Amber Guyger on 6 September. Photograph: Jeff Montgomery/AP,0,11
+html body div article div div div div p span  ,A white,1,10
+html body div article div div div div p a span  ,Dallas,1,11
+html body div article div div div div p span  ,"police officer accused of fatally shooting her black neighbor inside his own apartment has been dismissed, the police department announced on Monday.",1,10
+html body div article div div div div aside div div div h1 a span  ,Dallas: calls for justice after police officer kills man in his own home,0,15
+html body div article div div div div aside div div div div span  ,Read more,0,14
+html body div article div div div div p span  ,Dallas police fired Officer Amber Guyger weeks after she fatally shot 26-year-old Botham Jean inside his own apartment on 6 September. Court records show Guyger said she thought she had encountered a burglar inside her own home.,1,10
+html body div article div div div div p span  ,Guyger was arrested on a preliminary charge of manslaughter days after the shooting. She is out on bond. Jean family attorneys and protesters called for her firing following the shooting.,1,10
+html body div article div div div div p span  ,Guyger was a four-year veteran. She told investigators that she had just ended a shift when she returned in uniform to the South Side Flats apartment complex.,1,10
+html body div article div div div div figure figcaption span  ,Sign up for the US morning briefing,0,11
+html body div article div div div div p span  ,"When she put her key in the apartment door, which was unlocked and slightly ajar, it opened, the affidavit said. Inside, the lights were off, and she saw a figure in the darkness that cast a large silhouette across the room, according to the officer’s account.",1,10
+html body div article div div div div p span  ,"She called 911. When asked where she was, she returned to the front door to see she was in the wrong unit, according to the affidavit. The 911 tapes have not been released.",1,10
+html body div article div div div div div span  ,Topics,0,10
+html body div article div div div div div div ul li a span  ,Dallas,0,14
+html body div article div div div div div div ul li a span  ,Gun crime,0,14
+html body div article div div div div div div ul li a span  ,US crime,0,14
+html body div article div div div div div div ul li a span  ,news,0,14
+html body div article div div div div div div ul li a span  ,Share on Facebook,0,14
+html body div article div div div div div div ul li a span  ,Share on Twitter,0,14
+html body div article div div div div div div ul li a span  ,Share via Email,0,14
+html body div article div div div div div div ul li a span  ,Share on LinkedIn,0,14
+html body div article div div div div div div ul li a span  ,Share on Pinterest,0,14
+html body div article div div div div div div ul li a span  ,Share on Google+,0,14
+html body div article div div div div div div ul li a span  ,Share on WhatsApp,0,14
+html body div article div div div div div div ul li a span  ,Share on Messenger,0,14
+html body div article div div div div div div ul li a span  ,Reuse this content,0,14
+html body div div aside section div div div span  ,related stories,0,10
+html body div div aside section div div div ul li div div div div h2 a span span  ,Mother of Dallas man killed by officer in own home disgusted at 'smear' effort,0,19
+html body div div aside section div div div ul li div div div div div span  ,"Report of marijuana found in victim’s apartment is police attempt to ‘assassinate’ Botham Jean’s character, attorney says",0,17
+html body div div aside section div div div ul li div div div div aside time span span  ,Published:,0,19
+html body div div aside section div div div ul li div div div div aside time span  ,14 Sep 2018,0,18
+html body div div aside section div div div ul li div div a span  ,Mother of Dallas man killed by officer in own home disgusted at 'smear' effort,0,15
+html body div div aside section div div div ul li div div div div h2 a span span  ,Dallas police officer who shot neighbor dead arrested on manslaughter charge,0,19
+html body div div aside section div div div ul li div div div div div span  ,"Amber Guyger, who fatally shot Botham Jean in his apartment, was taken into custody Sunday. The case will be presented to a grand jury",0,17
+html body div div aside section div div div ul li div div div div aside time span span  ,Published:,0,19
+html body div div aside section div div div ul li div div div div aside time span  ,10 Sep 2018,0,18
+html body div div aside section div div div ul li div div a span  ,Dallas police officer who shot neighbor dead arrested on manslaughter charge,0,15
+html body div div aside section div div div ul li div div div div h2 a span span  ,Dallas officer who shot man in his home remains free as calls for arrest grow,0,19
+html body div div aside section div div div ul li div div div div div span  ,Documents show Amber Guyger wounded man in on-duty incident in 2017 while mother of dead man says: ‘If it was a white man would it have been different?,0,17
+html body div div aside section div div div ul li div div div div aside time span span  ,Published:,0,19
+html body div div aside section div div div ul li div div div div aside time span  ,9 Sep 2018,0,18
+html body div div aside section div div div ul li div div a span  ,Dallas officer who shot man in his home remains free as calls for arrest grow,0,15
+html body div div aside section div div div ul li div div div div h2 a span span  ,Mother of black man killed by Dallas officer ponders role of race in shooting,0,19
+html body div div aside section div div div ul li div div div div div span  ,"Botham Jean, 26, was shot dead by a white officer on Thursday who said she mistook his apartment for her own",0,17
+html body div div aside section div div div ul li div div div div aside time span span  ,Published:,0,19
+html body div div aside section div div div ul li div div div div aside time span  ,8 Sep 2018,0,18
+html body div div aside section div div div ul li div div a span  ,Mother of black man killed by Dallas officer ponders role of race in shooting,0,15
+html body div div aside section div div div ul li ul li div div div div h2 a span span  ,Dallas police officer shoots neighbor dead after entering wrong apartment,0,21
+html body div div aside section div div div ul li ul li div div div div aside time span span  ,Published:,0,21
+html body div div aside section div div div ul li ul li div div div div aside time span  ,7 Sep 2018,0,20
+html body div div aside section div div div ul li ul li div div a span  ,Dallas police officer shoots neighbor dead after entering wrong apartment,0,17
+html body div div aside section div div div ul li ul li div div div div h2 a span span  ,"'A big smile, a big heart': Dallas officer Brent Thompson's body escorted to home town",0,21
+html body div div aside section div div div ul li ul li div div div div aside time span span  ,Published:,0,21
+html body div div aside section div div div ul li ul li div div div div aside time span  ,10 Jul 2016,0,20
+html body div div aside section div div div ul li ul li div div a span  ,"'A big smile, a big heart': Dallas officer Brent Thompson's body escorted to home town",0,17
+html body div div aside section div div div ul li ul li div div div div h2 a span span  ,Dallas police shooting suspect's family considered him 'lost to mental health',0,21
+html body div div aside section div div div ul li ul li div div div div aside time span span  ,Published:,0,21
+html body div div aside section div div div ul li ul li div div div div aside time span  ,14 Jun 2015,0,20
+html body div div aside section div div div ul li ul li div div div div aside a span  ,167,0,20
+html body div div aside section div div div ul li ul li div div a span  ,Dallas police shooting suspect's family considered him 'lost to mental health',0,17
+html body div div aside section div div div ul li ul li div div div div h2 a span span  ,Dallas police attack: gunman confirmed dead hours after opening fire on HQ,0,21
+html body div div aside section div div div ul li ul li div div div div aside time span span  ,Published:,0,21
+html body div div aside section div div div ul li ul li div div div div aside time span  ,13 Jun 2015,0,20
+html body div div aside section div div div ul li ul li div div div div aside a span  ,290,0,20
+html body div div aside section div div div ul li ul li div div a span  ,Dallas police attack: gunman confirmed dead hours after opening fire on HQ,0,17
+html body div div section div div h2 a span  ,Most viewed,0,10
+html body div div section div div div div div ul li div div h2 a span span  ,Kavanaugh clerk hire casts light on link to judge forced to quit in #MeToo era,0,18
+html body div div section div div div div div ul li div div h2 a span span  ,"Nafta: Canada and US reach deal on 'new, modernised trade agreement'",0,18
+html body div div section div div div div div ul li div div h2 a span span  ,Kavanaugh accuser Julie Swetnick to be excluded from FBI investigation,0,18
+html body div div section div div div div div ul li div div h2 a span span  ,Trump aide Kellyanne Conway: 'I'm a victim of sexual assault',0,18
+html body div div section div div div div div ul li div div h2 a span span  ,Houston officials halt plans to open first US 'robot brothel',0,18
+html body div div section div div div div div ul li div div h2 a span span  ,How a disastrous change in perspective disempowered the left and let the right rise,0,18
+html body div div section div div div div div ul li div div h2 a span span  ,‘She was paid by the Democrats’: Trump fans on Ford and Kavanaugh,0,18
+html body div div section div div div div div ul li div div h2 a span span  ,Mommy dearest: a psychiatrist puts Donald Trump on the couch,0,18
+html body div div section div div div div div ul li div div h2 a span span  ,"'No accident' Brett Kavanaugh's female law clerks 'looked like models', Yale professor told students",0,18
+html body div div section div div div div div ul li div div h2 a span span  ,Yale students condemn Kavanaugh case as 'symptom of a larger problem',0,18
+html body footer div div div ul li a span  ,World,0,10
+html body footer div div div ul li a span  ,Europe,0,10
+html body footer div div div ul li a span  ,US,0,10
+html body footer div div div ul li a span  ,Americas,0,10
+html body footer div div div ul li a span  ,Asia,0,10
+html body footer div div div ul li a span  ,Australia,0,10
+html body footer div div div ul li a span  ,Middle East,0,10
+html body footer div div div ul li a span  ,Africa,0,10
+html body footer div div div ul li a span  ,Inequality,0,10
+html body footer div div div ul li a span  ,Cities,0,10
+html body footer div div div ul li a span  ,Global development,0,10
+html body footer div a div div div span  ,back to top,0,9
+html body footer div div div ul li a span  ,make a contribution,0,10
+html body footer div div div ul li a span  ,subscribe,0,10
+html body footer div div div ul li a span  ,securedrop,0,10
+html body footer div div div ul li a span  ,help,0,10
+html body footer div div div ul li a span  ,advertise with us,0,10
+html body footer div div div ul li a span  ,work for us,0,10
+html body footer div div div ul li a span  ,contact us,0,10
+html body footer div div div ul li a span  ,complaints & corrections,0,10
+html body footer div div div ul li a span  ,terms & conditions,0,10
+html body footer div div div ul li a span  ,privacy policy,0,10
+html body footer div div div ul li a span  ,cookie policy,0,10
+html body footer div div div ul li a span  ,digital newspaper archive,0,10
+html body footer div div div ul li a span  ,all topics,0,10
+html body footer div div div ul li a span  ,all contributors,0,10
+html body footer div div div ul li a span  ,Facebook,0,10
+html body footer div div div ul li a span  ,Twitter,0,10
+html body footer div div div span  ,© 2018 Guardian News and Media Limited or its affiliated companies. All rights reserved.,0,7
+html body div ul li a span  ,Share on Twitter,0,7
+html body div ul li a span  ,Share via Email,0,7
