@@ -25,7 +25,7 @@ class LSTMModel(tf.keras.Model):
         self.dropout_layer = tf.keras.layers.Dropout(dropout)
         self.concat_layer = tf.keras.layers.Concatenate()
         self.mask_layer = tf.keras.layers.Masking(name="masking Layer")
-        self.depth_out = tf.keras.layers.Dense(12)
+        self.depth_out = tf.keras.layers.Dense(4)
         self.lstms = [tf.keras.layers.Bidirectional(
             tf.keras.layers.LSTM(ff_dim//2, return_sequences=True, dropout=lstm_dropout))
             for _ in range(num_layers)]
