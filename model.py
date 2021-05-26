@@ -75,7 +75,7 @@ class MCModel(tf.keras.Model):
             ff_dim, activation='relu', name="secEmb Layer")
         self.concat_layer = tf.keras.layers.Concatenate()
         self.mask_layer = tf.keras.layers.Masking(name="masking Layer")
-        self.depth_out = tf.keras.layers.Dense(12)
+        self.depth_out = tf.keras.layers.Dense(4)
         self.lstms = [tf.keras.layers.Bidirectional(
             tf.keras.layers.LSTM(ff_dim//2, return_sequences=True))
             for _ in range(num_layers)]

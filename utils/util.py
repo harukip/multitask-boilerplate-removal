@@ -63,27 +63,11 @@ def preprocess_df(df, dataloader, WORD, depth=False):
         if "depth" not in df.columns:
             df['depth'] = [len(list(filter(None, t.split(" "))))
                            for t in df.tag]
-        df['prev_x'] = df.x.shift(1, fill_value=0)
-        df['next_x'] = df.x.shift(-1, fill_value=0)
-        df['prev_y'] = df.y.shift(1, fill_value=0)
-        df['next_y'] = df.y.shift(-1, fill_value=0)
-        df['prev_width'] = df.width.shift(1, fill_value=0)
-        df['next_width'] = df.width.shift(-1, fill_value=0)
-        df['prev_height'] = df.height.shift(1, fill_value=0)
-        df['next_height'] = df.height.shift(-1, fill_value=0)
         cols = [
-            "prev_x",
             "x",
-            "next_x",
-            "prev_y",
             "y",
-            "next_y",
-            "prev_width",
             "width",
-            "next_width",
-            "prev_height",
             "height",
-            "next_height"
         ]
         depth = np.array(df[cols])
         depth = dataloader.scaler.fit_transform(depth)
