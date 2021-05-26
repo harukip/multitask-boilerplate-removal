@@ -67,7 +67,7 @@ def preprocess_df(df, dataloader, WORD, depth=False):
             "x",
             "y",
             "width",
-            "height",
+            "height"
         ]
         depth = np.array(df[cols])
         depth = dataloader.scaler.fit_transform(depth)
