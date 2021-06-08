@@ -9,7 +9,7 @@ class Leafnode_Encoder(Model):
         embedding_matrix = np.load("../tag_emb/cbow.npz")["emb"][:50]
         self.embedding = Embedding(
             50,
-            10,
+            64,
             embeddings_initializer=tf.keras.initializers.Constant(embedding_matrix))
         self.lstm = Bidirectional(LSTM(32))
     
