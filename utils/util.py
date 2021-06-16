@@ -25,6 +25,7 @@ def limit_gpu():
 def preprocess_df(df, model, WORD, depth=False):
     df_tag = [str(t) for t in list(df['tag'])]
     tag_map = load_tokenizer()
+    tag_map.num_words = len(tag_map.word_index)
     tag_lists = tag_map.texts_to_sequences(list(df['tag']))
     tag_tokens = tf.keras.preprocessing.sequence.pad_sequences(
         tag_lists, maxlen=50

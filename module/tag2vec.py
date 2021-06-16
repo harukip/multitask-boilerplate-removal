@@ -6,9 +6,9 @@ from tensorflow.keras.layers import Embedding, LSTM, Bidirectional, TimeDistribu
 class Leafnode_Encoder(Model):
     def __init__(self):
         super(Leafnode_Encoder, self).__init__()
-        embedding_matrix = np.load("../tag_emb/cbow.npz")["emb"][:50]
+        embedding_matrix = np.load("../tag_emb/cbow.npz")["emb"]
         self.embedding = Embedding(
-            50,
+            196,
             64,
             embeddings_initializer=tf.keras.initializers.Constant(embedding_matrix))
         self.lstm = Bidirectional(LSTM(32))
