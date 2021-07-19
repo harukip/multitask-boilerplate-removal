@@ -20,6 +20,7 @@ def main(parser):
     args = parser.parse_args()
     MODEL_NAME = "Bayesian" if args.bayesian else "LSTM"
     MODEL_NAME = MODEL_NAME + "-WORD" if args.word else MODEL_NAME
+    MODEL_NAME = MODEL_NAME + "-Emb" if args.tag_rep else MODEL_NAME + "-Vec"
     if args.aux > 0:
         MODEL_NAME = MODEL_NAME + "-Depth-" if args.aux == 1 else MODEL_NAME + "-Pos-"
 
@@ -33,7 +34,9 @@ def main(parser):
             lstm_dropout=args.lstm_dropout,
             dropout=args.dropout,
             mc_step=args.mc_step,
-            aux=args.aux
+            aux=args.aux,
+            tag=args.tag_rep,
+            emb_init=args.emb_init
         )
     else:
         myModel = model.LSTMModel(
@@ -44,7 +47,9 @@ def main(parser):
             lstm_dropout=args.lstm_dropout,
             dropout=args.dropout,
             mc_step=args.mc_step,
-            aux=args.aux
+            aux=args.aux,
+            tag=args.tag_rep,
+            emb_init=args.emb_init
         )
 
     # Dataset
@@ -89,6 +94,7 @@ def main(parser):
 def train(args, myDataLoader, myModel):
     MODEL_NAME = "Bayesian" if args.bayesian else "LSTM"
     MODEL_NAME = MODEL_NAME + "-WORD" if args.word else MODEL_NAME
+    MODEL_NAME = MODEL_NAME + "-Emb" if args.tag_rep else MODEL_NAME + "-Vec"
     if args.aux > 0:
         MODEL_NAME = MODEL_NAME + "-Depth-" if args.aux == 1 else MODEL_NAME + "-Pos-"
     FOLDER = args.checkpoint_folder + MODEL_NAME + str(args.alpha)
@@ -173,7 +179,11 @@ def train(args, myDataLoader, myModel):
                         t, e, training=True)
                     loss += (1-args.alpha)*My_Mask_CE(y_true=y, y_pred=train_out) + \
                         args.alpha*MSE(a, a_pred)
-                trainable_variables = myModel.trainable_variables
+                if args.tag_rep == 0:
+                    trainable_variables = myModel.trainable_variables
+                else:
+                    trainable_variables = myModel.tag_encoder.trainable_variables + myModel.trainable_variables
+                
                 grads = tape.gradient(loss, trainable_variables)
                 clip_grads, _ = tf.clip_by_global_norm(grads, 5.0)
 
@@ -219,7 +229,10 @@ def train(args, myDataLoader, myModel):
                     best_loss = val_loss.result()
                     if not os.path.isdir(FOLDER):
                         Path(FOLDER + "/best_val/").mkdir(parents=True, exist_ok=True)
+                        Path(FOLDER + "/best_val/tag_encoder/").mkdir(parents=True, exist_ok=True)
                     myModel.save_weights(FOLDER + "/best_val/")
+                    if args.tag_rep == 1:
+                        myModel.tag_encoder.save_weights(FOLDER + "/best_val/tag_encoder/")
                     if args.verbose:
                         print("*")
                 else:
@@ -243,8 +256,12 @@ def train(args, myDataLoader, myModel):
                     best_macro_f1 = macro_f1
                     if not os.path.isdir(FOLDER):
                         Path(FOLDER + "/best_macro_f1/").mkdir(parents=True, exist_ok=True)
+                        Path(FOLDER + "/best_macro_f1/tag_encoder/").mkdir(parents=True, exist_ok=True)
                     myModel.save_weights(
                         FOLDER + "/best_macro_f1/")
+                    if args.tag_rep == 1:
+                        myModel.tag_encoder.save_weights(
+                            FOLDER + "/best_macro_f1/tag_encoder/")
                     if args.verbose:
                         print("*")
                 else:
@@ -266,6 +283,8 @@ def test(args,
          checkpoint="",
          total=False):
     myModel.load_weights(checkpoint)
+    if args.tag_rep == 1:
+        myModel.tag_encoder.load_weights(checkpoint + "tag_encoder/")
     all_y_true = None
     all_y_pred = None
     f1_history = []
@@ -325,6 +344,10 @@ if __name__ == "__main__":
                         help="Set multitask alpha.", default=0.5)
     parser.add_argument("--aux", type=int,
                         help="Set auxiliary task. (0 for none, 1 for depth, 2 for pos)", default=1)
+    parser.add_argument("--tag_rep", type=int,
+                        help="Set tag representation. (0 for vector, 1 for embedding)", default=0)
+    parser.add_argument("--emb_init", type=int,
+                        help="Set tag representation. (0 for random, 1 for cbow, 2 for skip-gram)", default=2)
     parser.add_argument("--dropout", type=float,
                         help="Set model dropout.", default=0.1)
     parser.add_argument("--lstm_dropout", type=float,

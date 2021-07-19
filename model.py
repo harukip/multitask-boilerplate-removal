@@ -1,5 +1,7 @@
 import tensorflow as tf
 from module import bertencoder
+from module import tag2vec
+import numpy as np
 
 
 class LSTMModel(tf.keras.Model):
@@ -12,13 +14,18 @@ class LSTMModel(tf.keras.Model):
                  dropout,
                  mc_step,
                  aux,
+                 tag,
+                 emb_init,
                  bert_trainable=False,
                  topk=None,
                  masking=None):
         super(LSTMModel, self).__init__()
         self.bert = bertencoder.BertEncoder(trainable=bert_trainable)
-        self.topTag_layer = tf.keras.layers.Dense(
-            ff_dim, activation='relu', name="topTag Layer")
+        if tag == 0:
+            self.tag_encoder = tf.keras.layers.Dense(
+                ff_dim, activation='relu')
+        else:
+            self.tag_encoder = tag2vec.Leafnode_Encoder(emb_init)
         self.topEmb_layer = tf.keras.layers.Dense(
             ff_dim, activation='relu', name="topEmb Layer")
         self.secEmb_layer = tf.keras.layers.Dense(
@@ -38,7 +45,7 @@ class LSTMModel(tf.keras.Model):
         self.Opt = tf.keras.optimizers.Adam(lr)
 
     def call(self, t, e, training=False):
-        t = self.topTag_layer(t)
+        t = self.tag_encoder(t)
         e = self.topEmb_layer(e)
         e = self.secEmb_layer(e)
         x = self.concat_layer([t, e])
@@ -66,13 +73,18 @@ class MCModel(tf.keras.Model):
                  dropout,
                  mc_step,
                  aux,
+                 tag,
+                 emb_init,
                  bert_trainable=False,
                  topk=None,
                  masking=None):
         super(MCModel, self).__init__()
         self.bert = bertencoder.BertEncoder(trainable=bert_trainable)
-        self.topTag_layer = tf.keras.layers.Dense(
-            ff_dim, activation='relu', name="topTag Layer")
+        if tag == 0:
+            self.tag_encoder = tf.keras.layers.Dense(
+                ff_dim, activation='relu')
+        else:
+            self.tag_encoder = tag2vec.Leafnode_Encoder(emb_init)
         self.topEmb_layer = tf.keras.layers.Dense(
             ff_dim, activation='relu', name="topEmb Layer")
         self.secEmb_layer = tf.keras.layers.Dense(
@@ -97,7 +109,7 @@ class MCModel(tf.keras.Model):
         return tf.keras.layers.SpatialDropout1D(rate=dropout)(x, training=True)
 
     def call(self, t, e):
-        t = self.topTag_layer(t)
+        t = self.tag_encoder(t)
         e = self.topEmb_layer(e)
         e = self.secEmb_layer(e)
         x = self.concat_layer([t, e])

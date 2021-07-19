@@ -23,19 +23,28 @@ def limit_gpu():
             print(e)
 
 
-def preprocess_df(df, dataloader, WORD, aux=False):
+def preprocess_df(args, df, dataloader, WORD, aux=False):
     df_tag = [str(t) for t in list(df['tag'])]
     tag_emb = None
     tag_map = dataloader.tokenizer
-    for tag in df_tag:
-        tag_dict = tf.keras.preprocessing.text.Tokenizer()
-        tag_dict.fit_on_texts([tag])
-        tag_vec = np.zeros(tag_map.num_words, dtype=np.int32)
-        for tag, count in dict(tag_dict.word_counts).items():
-            index = tag_map.word_index.get(tag, 1)
-            index = index if index <= tag_map.num_words else 1
-            tag_vec[index-1] += count
-        tag_emb = concatAxisZero(tag_emb, np.expand_dims(tag_vec, 0))
+    if args.tag_rep == 0:
+        # Tag Vec
+        for tag in df_tag:
+            tag_dict = tf.keras.preprocessing.text.Tokenizer()
+            tag_dict.fit_on_texts([tag])
+            tag_vec = np.zeros(tag_map.num_words, dtype=np.int32)
+            for tag, count in dict(tag_dict.word_counts).items():
+                index = tag_map.word_index.get(tag, 1)
+                index = index if index <= tag_map.num_words else 1
+                tag_vec[index-1] += count
+            tag_emb = concatAxisZero(tag_emb, np.expand_dims(tag_vec, 0))
+    else:
+        # Tag Embedding
+        tag_map.num_words = len(tag_map.word_index)
+        tag_lists = tag_map.texts_to_sequences(list(df['tag']))
+        tag_emb = tf.keras.preprocessing.sequence.pad_sequences(
+            tag_lists, maxlen=50
+        )
 
     df_content = [re.sub("\d+", "NUMPLACE", str(c))
                   for c in list(df['content'])]
@@ -77,15 +86,14 @@ def preprocess_df(df, dataloader, WORD, aux=False):
             pos = dataloader.scaler.fit_transform(pos)
             return tag_emb, content_emb, label, pos
     return tag_emb, content_emb, label
-    
 
-def get_data(file, dataloader, WORD=False, aux=0):
+def get_data(args, file, dataloader, WORD=False, aux=0):
     df = pd.read_csv(file)
     if aux:
         tag_out, emb_out, label_out, aux_out = preprocess_df(
-            df, dataloader, WORD, aux)
+            args, df, dataloader, WORD, aux)
         return tag_out, emb_out, label_out, aux_out
-    tag_out, emb_out, label_out = preprocess_df(df, dataloader, WORD, aux)
+    tag_out, emb_out, label_out = preprocess_df(args, df, dataloader, WORD, aux)
     return tag_out, emb_out, label_out
 
 

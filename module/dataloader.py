@@ -43,7 +43,8 @@ class DataLoader():
         if file_type == 0:
             files = sorted(glob(self.args.train_folder + "*.csv"))
             for f in files:
-                tag, emb, label, aux = util.get_data(f,
+                tag, emb, label, aux = util.get_data(self.args,
+                                                       f,
                                                        self,
                                                        self.args.word,
                                                        True)
@@ -54,7 +55,8 @@ class DataLoader():
             else:
                 files = sorted(glob(self.args.test_folder + "*.csv"))
             for f in files:
-                tag, emb, label = util.get_data(f,
+                tag, emb, label = util.get_data(self.args,
+                                                f,
                                                 self,
                                                 self.args.word,
                                                 False)
