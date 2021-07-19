@@ -23,10 +23,10 @@ def limit_gpu():
             print(e)
 
 
-def preprocess_df(df, model, WORD, aux=False):
+def preprocess_df(df, dataloader, WORD, aux=False):
     df_tag = [str(t) for t in list(df['tag'])]
     tag_emb = None
-    tag_map = load_tokenizer()
+    tag_map = dataloader.tokenizer
     for tag in df_tag:
         tag_dict = tf.keras.preprocessing.text.Tokenizer()
         tag_dict.fit_on_texts([tag])
@@ -54,7 +54,7 @@ def preprocess_df(df, model, WORD, aux=False):
             word_emb = concatAxisZero(word_emb, np.expand_dims(word_vec, 0))
         content_emb = word_emb
     else:
-        bert_emb = model.bert.encode(df_content)
+        bert_emb = dataloader.model.bert.encode(df_content)
         content_emb = bert_emb
     if "label" not in df.columns:
         df['label'] = [-1 for _ in range(len(df))]
@@ -66,17 +66,26 @@ def preprocess_df(df, model, WORD, aux=False):
                             for t in df.tag]
             depth = np.expand_dims(np.array(df['depth']), [-1])
             return tag_emb, content_emb, label, depth
-        # TODO Pos
+        else:
+            cols = [
+                "x",
+                "y",
+                "width",
+                "height"
+            ]
+            pos = np.array(df[cols])
+            pos = dataloader.scaler.fit_transform(pos)
+            return tag_emb, content_emb, label, pos
     return tag_emb, content_emb, label
+    
 
-
-def get_data(file, model, WORD=False, aux=0):
+def get_data(file, dataloader, WORD=False, aux=0):
     df = pd.read_csv(file)
     if aux:
         tag_out, emb_out, label_out, aux_out = preprocess_df(
-            df, model, WORD, aux)
+            df, dataloader, WORD, aux)
         return tag_out, emb_out, label_out, aux_out
-    tag_out, emb_out, label_out = preprocess_df(df, model, WORD, aux)
+    tag_out, emb_out, label_out = preprocess_df(df, dataloader, WORD, aux)
     return tag_out, emb_out, label_out
 
 

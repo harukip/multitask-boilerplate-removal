@@ -1,12 +1,15 @@
 import tensorflow as tf
 from glob import glob
 from utils import util
+from sklearn.preprocessing import MinMaxScaler
 
 
 class DataLoader():
     def __init__(self, args, model):
         self.args = args
         self.model = model
+        self.scaler = MinMaxScaler()
+        self.tokenizer = util.load_tokenizer()
         self.train_ds = tf.data.Dataset.from_generator(
             self.gen_data,
             args=[0],
@@ -41,7 +44,7 @@ class DataLoader():
             files = sorted(glob(self.args.train_folder + "*.csv"))
             for f in files:
                 tag, emb, label, aux = util.get_data(f,
-                                                       self.model,
+                                                       self,
                                                        self.args.word,
                                                        True)
                 yield tag, emb, label, aux
@@ -52,7 +55,7 @@ class DataLoader():
                 files = sorted(glob(self.args.test_folder + "*.csv"))
             for f in files:
                 tag, emb, label = util.get_data(f,
-                                                self.model,
+                                                self,
                                                 self.args.word,
                                                 False)
                 yield tag, emb, label
