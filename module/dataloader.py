@@ -15,7 +15,7 @@ class DataLoader():
                           tf.float32,
                           tf.float32)).padded_batch(
             batch_size=args.batch,
-            padded_shapes=([None, None], [None, None], [None, args.label_size], [None, 1]),
+            padded_shapes=([None, None], [None, None], [None, args.label_size], [None, None]),
             padding_values=(
                 tf.constant(0, dtype=tf.float32),
                 tf.constant(0, dtype=tf.float32),
@@ -40,11 +40,11 @@ class DataLoader():
         if file_type == 0:
             files = sorted(glob(self.args.train_folder + "*.csv"))
             for f in files:
-                tag, emb, label, depth = util.get_data(f,
+                tag, emb, label, aux = util.get_data(f,
                                                        self.model,
                                                        self.args.word,
                                                        True)
-                yield tag, emb, label, depth
+                yield tag, emb, label, aux
         else:
             if file_type == 1:
                 files = sorted(glob(self.args.val_folder + "*.csv"))

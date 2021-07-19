@@ -11,6 +11,7 @@ class LSTMModel(tf.keras.Model):
                  lstm_dropout,
                  dropout,
                  mc_step,
+                 aux,
                  bert_trainable=False,
                  topk=None,
                  masking=None):
@@ -25,7 +26,10 @@ class LSTMModel(tf.keras.Model):
         self.dropout_layer = tf.keras.layers.Dropout(dropout)
         self.concat_layer = tf.keras.layers.Concatenate()
         self.mask_layer = tf.keras.layers.Masking(name="masking Layer")
-        self.depth_out = tf.keras.layers.Dense(1)
+        if aux == 1:
+            self.aux_out = tf.keras.layers.Dense(1) # Depth
+        else:
+            self.aux_out = tf.keras.layers.Dense(4) # Pos or None
         self.lstms = [tf.keras.layers.Bidirectional(
             tf.keras.layers.LSTM(ff_dim//2, return_sequences=True, dropout=lstm_dropout))
             for _ in range(num_layers)]
@@ -40,14 +44,13 @@ class LSTMModel(tf.keras.Model):
         x = self.concat_layer([t, e])
         x = self.mask_layer(x)
         mask = x._keras_mask
-        d = self.depth_out(t)
+        a = self.aux_out(t)
         for lstm in self.lstms:
             x = lstm(x, mask=mask)
         x = self.dropout_layer(x, training=training)
         lstm_out = x
         out = self.label_out(lstm_out)
-        p = tf.nn.softmax(out)
-        return p, lstm_out, out, d
+        return out, a
 
     def MC_sampling(self, t, e, training=False):
         return self.call(t, e, training=training)
@@ -62,6 +65,7 @@ class MCModel(tf.keras.Model):
                  lstm_dropout,
                  dropout,
                  mc_step,
+                 aux,
                  bert_trainable=False,
                  topk=None,
                  masking=None):
@@ -75,7 +79,10 @@ class MCModel(tf.keras.Model):
             ff_dim, activation='relu', name="secEmb Layer")
         self.concat_layer = tf.keras.layers.Concatenate()
         self.mask_layer = tf.keras.layers.Masking(name="masking Layer")
-        self.depth_out = tf.keras.layers.Dense(1)
+        if aux == 1:
+            self.aux_out = tf.keras.layers.Dense(1)
+        else:
+            self.aux_out = tf.keras.layers.Dense(4)
         self.lstms = [tf.keras.layers.Bidirectional(
             tf.keras.layers.LSTM(ff_dim//2, return_sequences=True))
             for _ in range(num_layers)]
@@ -96,48 +103,33 @@ class MCModel(tf.keras.Model):
         x = self.concat_layer([t, e])
         x = self.mask_layer(x)
         mask = x._keras_mask
-        d = self.depth_out(t)
+        a = self.aux_out(t)
         for lstm in self.lstms:
             x = self.add_dropout(x, self.lstm_dropout)
             x = lstm(x, mask=mask)
         x = self.add_dropout(x, self.dropout)
         lstm_out = x
         out = self.label_out(lstm_out)
-        p = tf.nn.softmax(out)
-        return p, lstm_out, out, d
+        return out, a
 
     def MC_sampling(self, t, e, training=False):
         seq_len = e.shape[1]
         mc_time = min(self.mc_step, (200*self.mc_step)//seq_len)
         mc_t = tf.repeat(t, repeats=mc_time, axis=0)
         mc_e = tf.repeat(e, repeats=mc_time, axis=0)
-        p, lstm_out, out, d = self.call(mc_t, mc_e)
-        p = tf.reshape(
-            p, [
-                t.shape[0],
-                mc_time,
-                p.shape[1],
-                p.shape[2]])
-        lstm_out = tf.reshape(
-            lstm_out, [
-                t.shape[0],
-                mc_time,
-                lstm_out.shape[1],
-                lstm_out.shape[2]])
+        out, a = self.call(mc_t, mc_e)
         out = tf.reshape(
             out, [
                 t.shape[0],
                 mc_time,
                 out.shape[1],
                 out.shape[2]])
-        d = tf.reshape(
-            d, [
+        a = tf.reshape(
+            a, [
                 t.shape[0],
                 mc_time,
-                d.shape[1],
-                d.shape[2]])
-        p = tf.reduce_mean(p, axis=1)
-        lstm_out = tf.reduce_mean(lstm_out, axis=1)
+                a.shape[1],
+                a.shape[2]])
         out = tf.reduce_mean(out, axis=1)
-        d = tf.reduce_mean(d, axis=1)
-        return p, lstm_out, out, d
+        a = tf.reduce_mean(a, axis=1)
+        return out, a

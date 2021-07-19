@@ -23,7 +23,7 @@ def limit_gpu():
             print(e)
 
 
-def preprocess_df(df, model, WORD, depth=False):
+def preprocess_df(df, model, WORD, aux=False):
     df_tag = [str(t) for t in list(df['tag'])]
     tag_emb = None
     tag_map = load_tokenizer()
@@ -59,22 +59,24 @@ def preprocess_df(df, model, WORD, depth=False):
     if "label" not in df.columns:
         df['label'] = [-1 for _ in range(len(df))]
     label = tf.one_hot(np.array(df['label']), 2)
-    if depth:
-        if "depth" not in df.columns:
-            df['depth'] = [len(list(filter(None, t.split(" "))))
-                           for t in df.tag]
-        depth = np.expand_dims(np.array(df['depth']), [-1])
-        return tag_emb, content_emb, label, depth
+    if aux:
+        if aux == 1:
+            if "depth" not in df.columns:
+                df['depth'] = [len(list(filter(None, t.split(" "))))
+                            for t in df.tag]
+            depth = np.expand_dims(np.array(df['depth']), [-1])
+            return tag_emb, content_emb, label, depth
+        # TODO Pos
     return tag_emb, content_emb, label
 
 
-def get_data(file, model, WORD=False, depth=False):
+def get_data(file, model, WORD=False, aux=0):
     df = pd.read_csv(file)
-    if depth:
-        tag_out, emb_out, label_out, depth_out = preprocess_df(
-            df, model, WORD, depth)
-        return tag_out, emb_out, label_out, depth_out
-    tag_out, emb_out, label_out = preprocess_df(df, model, WORD, depth)
+    if aux:
+        tag_out, emb_out, label_out, aux_out = preprocess_df(
+            df, model, WORD, aux)
+        return tag_out, emb_out, label_out, aux_out
+    tag_out, emb_out, label_out = preprocess_df(df, model, WORD, aux)
     return tag_out, emb_out, label_out
 
 

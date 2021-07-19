@@ -20,6 +20,8 @@ def main(parser):
     args = parser.parse_args()
     MODEL_NAME = "Bayesian" if args.bayesian else "LSTM"
     MODEL_NAME = MODEL_NAME + "-WORD" if args.word else MODEL_NAME
+    if args.aux > 0:
+        MODEL_NAME = MODEL_NAME + "-Depth-" if args.aux == 1 else MODEL_NAME + "-Pos-"
 
     # Model Definition
     if args.bayesian:
@@ -30,7 +32,8 @@ def main(parser):
             lr=args.learning_rate,
             lstm_dropout=args.lstm_dropout,
             dropout=args.dropout,
-            mc_step=args.mc_step
+            mc_step=args.mc_step,
+            aux=args.aux
         )
     else:
         myModel = model.LSTMModel(
@@ -40,7 +43,8 @@ def main(parser):
             lr=args.learning_rate,
             lstm_dropout=args.lstm_dropout,
             dropout=args.dropout,
-            mc_step=args.mc_step
+            mc_step=args.mc_step,
+            aux=args.aux
         )
 
     # Dataset
@@ -54,7 +58,7 @@ def main(parser):
     BEST_MODEL = ""
     BEST_MODEL = "/best_val/" if args.best_loss_model else BEST_MODEL
     BEST_MODEL = "/best_macro_f1/" if args.best_macro_f1 else BEST_MODEL
-    FOLDER = args.checkpoint_folder + MODEL_NAME + str(args.depth)
+    FOLDER = args.checkpoint_folder + MODEL_NAME + str(args.alpha)
     if not os.path.isdir(FOLDER + BEST_MODEL):
         print("Checkpoint doesn't exist. Start training.")
         Path(FOLDER).mkdir(parents=True, exist_ok=True)
@@ -85,7 +89,9 @@ def main(parser):
 def train(args, myDataLoader, myModel):
     MODEL_NAME = "Bayesian" if args.bayesian else "LSTM"
     MODEL_NAME = MODEL_NAME + "-WORD" if args.word else MODEL_NAME
-    FOLDER = args.checkpoint_folder + MODEL_NAME + str(args.depth)
+    if args.aux > 0:
+        MODEL_NAME = MODEL_NAME + "-Depth-" if args.aux == 1 else MODEL_NAME + "-Pos-"
+    FOLDER = args.checkpoint_folder + MODEL_NAME + str(args.alpha)
     # Compute weight
     print("Calculate class weights...")
     all_y_true = None
@@ -112,7 +118,7 @@ def train(args, myDataLoader, myModel):
     # Set up log
     if args.log:
         log_root = args.log_folder + 'gradient_tape/' + \
-            MODEL_NAME + "/depth" + str(args.depth)
+            MODEL_NAME + "/alpha" + str(args.alpha)
         if os.path.isdir(log_root):
             shutil.rmtree(log_root)
         train_log_dir = log_root + '/train'
@@ -139,8 +145,8 @@ def train(args, myDataLoader, myModel):
         val_buffer = []
         train_source = train_buffer
         val_source = val_buffer
-        for t, e, y, d in myDataLoader.train_ds:
-            train_buffer.append([t, e, y, d])
+        for t, e, y, a in myDataLoader.train_ds:
+            train_buffer.append([t, e, y, a])
         for t, e, y in myDataLoader.val_ds:
             val_buffer.append([t, e, y])
 
@@ -154,7 +160,7 @@ def train(args, myDataLoader, myModel):
         # =====================================================
         if not args.no_buffer and args.batch == 1:
             random.shuffle(train_buffer)
-        for t, e, y, d in train_source:
+        for t, e, y, a in train_source:
             redo = True
             while(redo):
                 redo = False
@@ -163,10 +169,10 @@ def train(args, myDataLoader, myModel):
                 # Train step
                 with tf.GradientTape() as tape:
                     count += 1
-                    p1, lstm_out, outs1, d_pred = myModel.MC_sampling(
+                    train_out, a_pred = myModel.MC_sampling(
                         t, e, training=True)
-                    loss += (1-args.depth)*My_Mask_CE(y_true=y, y_pred=outs1) + \
-                        args.depth*MSE(d, d_pred)
+                    loss += (1-args.alpha)*My_Mask_CE(y_true=y, y_pred=train_out) + \
+                        args.alpha*MSE(a, a_pred)
                 trainable_variables = myModel.trainable_variables
                 grads = tape.gradient(loss, trainable_variables)
                 clip_grads, _ = tf.clip_by_global_norm(grads, 5.0)
@@ -188,19 +194,18 @@ def train(args, myDataLoader, myModel):
                 macro_f1 = None
                 for vt, ve, vy in val_source:
                     # val step
-                    p, lstm_out, out, _ = myModel.MC_sampling(vt, ve)
-                    uncertainty = tf.nn.softmax_cross_entropy_with_logits(
-                        labels=p, logits=out)
-                    loss = My_Mask_CE(y_true=vy, y_pred=out)
+                    val_out, _ = myModel.MC_sampling(vt, ve)
+                    loss = My_Mask_CE(y_true=vy, y_pred=val_out)
                     val_loss(loss)
-                    y_pred = tf.argmax(p, axis=-1)
+                    y_pred = tf.reshape(tf.argmax(val_out, axis=-1), [-1])
+                    y_true = tf.reshape(tf.argmax(vy, axis=-1), [-1])
 
                     all_y_true = util.concatAxisZero(
-                        all_y_true, tf.reshape(tf.argmax(vy, axis=-1), [-1]))
+                        all_y_true, y_true)
                     all_y_pred = util.concatAxisZero(
-                        all_y_pred, tf.reshape(y_pred, [-1]))
-                    t_f = f1_score(y_true=tf.reshape(tf.argmax(vy, axis=-1), [-1]),
-                                y_pred=tf.reshape(y_pred, [-1]),
+                        all_y_pred, y_pred)
+                    t_f = f1_score(y_true=y_true,
+                                y_pred=y_pred,
                                 average='macro',
                                 labels=[0, 1],
                                 zero_division=1)
@@ -263,30 +268,26 @@ def test(args,
     myModel.load_weights(checkpoint)
     all_y_true = None
     all_y_pred = None
-    all_s = None
-    all_u = None
     f1_history = []
     precision = recall = f1 = None
     for t, e, y in tqdm(myDataLoader.test_ds, total=len(glob(args.test_folder + "*.csv")), desc="Testing..."):
-        p, lstm_out, out, _ = myModel.MC_sampling(t, e)
-        uncertainty = tf.nn.softmax_cross_entropy_with_logits(
-            labels=p, logits=out)
+        out, _ = myModel.MC_sampling(t, e)
+        y_true = tf.reshape(tf.argmax(y, axis=-1), [-1])
+        y_pred = tf.reshape(tf.argmax(out, axis=-1), [-1])
+
         f1_history.append(
             f1_score(
-                y_true=tf.reshape(tf.argmax(y, axis=-1), [-1]),
-                y_pred=tf.reshape(tf.argmax(p, axis=-1), [-1]), average='macro', zero_division=0))
+                y_true=y_true,
+                y_pred=y_pred, average='macro', zero_division=0))
 
         all_y_true = util.concatAxisZero(
-            all_y_true, tf.reshape(tf.argmax(y, axis=-1), [-1]))
+            all_y_true, y_true)
         all_y_pred = util.concatAxisZero(
-            all_y_pred, tf.reshape(tf.argmax(p, axis=-1), [-1]))
-        all_s = util.concatAxisZero(
-            all_s, tf.reshape(tf.argmax(out, axis=-1), [-1]))
-        all_u = util.concatAxisZero(all_u, tf.reshape(uncertainty, [-1]))
+            all_y_pred, y_pred)
 
         t_p, t_r, t_f, t_s = precision_recall_fscore_support(
-            y_true=tf.reshape(tf.argmax(y, axis=-1), [-1]),
-            y_pred=tf.reshape(tf.argmax(p, axis=-1), [-1]),
+            y_true=y_true,
+            y_pred=y_pred,
             labels=[0, 1],
             zero_division=1)
         precision = util.concatAxisZero(precision, np.expand_dims(t_p, 0))
@@ -320,8 +321,10 @@ if __name__ == "__main__":
     parser.add_argument("-b", "--batch", type=int, help="Set batch size.", default=1)
     parser.add_argument("-e", "--epoch", type=int,
                         help="Set your number of epochs.", default=20)
-    parser.add_argument("-d", "--depth", type=float,
-                        help="Set multitask depth alpha.", default=0.75)
+    parser.add_argument("--alpha", type=float,
+                        help="Set multitask alpha.", default=0.5)
+    parser.add_argument("--aux", type=int,
+                        help="Set auxiliary task. (0 for none, 1 for depth, 2 for pos)", default=1)
     parser.add_argument("--dropout", type=float,
                         help="Set model dropout.", default=0.1)
     parser.add_argument("--lstm_dropout", type=float,
