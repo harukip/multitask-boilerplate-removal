@@ -294,11 +294,6 @@ def test(args,
         y_true = tf.reshape(tf.argmax(y, axis=-1), [-1])
         y_pred = tf.reshape(tf.argmax(out, axis=-1), [-1])
 
-        f1_history.append(
-            f1_score(
-                y_true=y_true,
-                y_pred=y_pred, average='macro', zero_division=0))
-
         all_y_true = util.concatAxisZero(
             all_y_true, y_true)
         all_y_pred = util.concatAxisZero(

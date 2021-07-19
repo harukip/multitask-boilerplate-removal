@@ -12,9 +12,9 @@ class Leafnode_Encoder(Model):
                 32)
         else:
             if emb_init == 1:
-                embedding_matrix = np.load("../tag_emb/cbow.npz")["emb"]
+                embedding_matrix = np.load("./cbow.npz")["emb"]
             else:
-                embedding_matrix = np.load("../tag_emb/skip-gram.npz")["emb"]
+                embedding_matrix = np.load("./skip-gram.npz")["emb"]
             self.embedding = Embedding(
                 196,
                 64,
