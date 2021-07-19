@@ -1,0 +1,96 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Keeping an Eye on Central America,0,0,670,18,0,6
+html body text center table tbody tr td h1 span  ,Keeping an Eye on Central America,211,8,370,73,1,10
+html body text center table tbody tr td h4 span  ,"NASA-supported researchers have developed software anyone can use to fly, video game-style, over Central America and survey its current environmental conditions.",198,103,395,53,1,10
+html body text center table tbody tr td p font font span  ,Listen to this story via,124,186,129,15,0,12
+html body text center table tbody tr td p font font a span  ,streaming audio,252,186,96,15,0,13
+html body text center table tbody tr td p font font span  ,", a",348,186,18,15,0,12
+html body text center table tbody tr td p font font a span  ,downloadable file,366,186,104,15,0,13
+html body text center table tbody tr td p font font span  ,", or",470,186,22,15,0,12
+html body text center table tbody tr td p font font a span  ,get help,493,186,50,15,0,13
+html body text center table tbody tr td p font font span  ,.,543,186,4,15,0,12
+html body text center table tbody tr td p b span  ,"April 23, 2004:",100,217,106,17,1,11
+html body text center table tbody tr td p span  ,"Flying over the lush, mountainous landscape of Central America, a local environmental official points out plumes of smoke where ""slash and burn"" agriculture is destroying hundreds of acres of rain forest. In the distance, dark-tinted waters of a red tide nearing coastal fishing villages are clearly visible from this altitude. He points to a silt-filled river snaking through the forest below -- a symptom of soil erosion caused by unsustainable farming practices upstream, he explains.",100,217,577,107,1,10
+html body text center table tbody tr td p span  ,The view evokes a kind of intuitive understanding of these environmental concerns that words alone can not provide.,100,341,302,53,1,10
+html body text center table tbody tr td p font strong span  ,Right:,100,411,41,15,1,12
+html body text center table tbody tr td p small font span  ,"A computer-generated, 3-dimensional landscape of the Caribbean coastal plain of Costa Rica based on satellite data. [",100,411,287,45,1,12
+html body text center table tbody tr td p small font a span  ,More,274,441,33,15,1,13
+html body text center table tbody tr td p small font span  ,],307,441,4,15,1,12
+html body text center table tbody tr td p span  ,"Juan Mario Dary, the environmental minister of Guatemala, plans to give such an aerial tour of Central America this weekend. Only he won't actually be in a plane. In fact, he won't be anywhere near Central America. He'll be in Tokyo, Japan, at the",100,472,305,107,1,10
+html body text center table tbody tr td p a span  ,second annual Earth Observation Summit,100,562,262,35,1,11
+html body text center table tbody tr td p span  ,.,236,580,4,17,1,10
+html body text center table tbody tr td p span  ,The tour Dary plans to give will be a,100,614,240,17,1,10
+html body text center table tbody tr td p em span  ,virtual,339,614,46,17,1,11
+html body text center table tbody tr td p span  ,"flight over a computer-generated, 3-dimensional landscape -- something like a ""flight simulator"" video game. The view through the window, though, is reality. It's based on real satellite and geographic data, offering a ""big picture"" view of how humans are affecting the rich diversity of wildlife in the region.",100,614,586,71,1,10
+html body text center table tbody tr td table tbody tr td table tbody tr td center a font span  ,Sign up for EXPRESS SCIENCE NEWS delivery,571,798,99,33,0,20
+html body text center table tbody tr td span  ,"""In some ways, it's better than the real thing,"" says Daniel Irwin, a research scientist at NASA's Marshall Space Flight Center. ""The user can choose which 'layers' of the data they want to see, some of which aren't obvious from a real plane: conservation park boundaries, small village locations, ecosystem types, and endangered species habitats, just to name a few.""",100,702,443,107,1,9
+html body text center table tbody tr td p span  ,"This virtual landscape software is one of many new tools that Irwin and others are developing as part of an international project called SIAM-SERVIR, an acronym in Spanish meaning ""Mesoamerican System of Environmental Information -- Regional System of Monitoring and Visualization.""",100,826,554,71,1,10
+html body text center table tbody tr td p span  ,"Through a coordinated effort between the seven countries of Central America, NASA, the World Bank, the U.S. Agency for International Development (USAID), and others, SIAM-SERVIR is creating an easy-to-use Web portal to environmental data for the entire region. The portal (",100,914,580,71,1,10
+html body text center table tbody tr td p span  ,") is online now, though it is still incomplete. The importance of having daily wildfire data available during the spring fire season convinced them to pre-release the site, Irwin says. It will be finished later this year.",100,968,579,53,1,10
+html body text center table tbody tr td p font strong span  ,Above:,100,1268,48,15,1,12
+html body text center table tbody tr td p font span  ,"A scene from the flyby. False colors in this satellite image of Lake Nicaragua represent types of land cover: green is forest, while purple, red, and pink represent specific combinations of agriculture, bare soil, and urban areas. This perspective view was created using software from",100,1268,578,45,1,11
+html body text center table tbody tr td p font a span  ,Skyline Software Systems,100,1313,154,15,1,12
+html body text center table tbody tr td p font span  ,.,253,1313,4,15,1,11
+html body text center table tbody tr td p span  ,"Daily, near real-time updates to the portal are based on NASA satellite data, acquired and processed automatically. Web surfers-- whether students, scientists, or Central American politicians -- can view the information in a variety of ways: interactive 2-dimensional maps, ""fly throughs"" of a 3D virtual landscape, or they can download a specific slice of the raw data to do their own analysis.",100,1344,583,89,1,10
+html body text center table tbody tr td p span  ,"""This project will be ending a distinctive feature of Central America, where environmental information has always been jealously guarded by institutions or people. Now instead we hope that the information will flow freely,"" says Rafael Guillen, Irwin's primary technical collaborator in Central America and an expert in Geographic Information Systems mapping software (GIS).",100,1450,579,89,1,10
+html body text center table tbody tr td p font strong span  ,Left:,330,1556,32,15,1,12
+html body text center table tbody tr td p font span  ,"Dan Irwin (light blue shirt) in Central America, flanked by NASA Administrator Sean O'Keefe and Ghassem Asrar, NASA's Associate Administrator for Earth Science. Irwin is the NASA manager of SIAM-SERVER. [",330,1556,356,60,1,11
+html body text center table tbody tr td p font a span  ,Larger image,541,1601,81,15,1,12
+html body text center table tbody tr td p font span  ,],621,1601,3,15,1,11
+html body text center table tbody tr td p span  ,"Anything that can be plotted on a map can be integrated into the master database: historic geographic records, modern road maps, satellite spectral data from Landsat and MODIS (MODerate-resolution Imaging Spectroradiometer), or wildlife habitat data from traditional fieldwork. Irwin, Guillen and colleagues hope that all this information, freely available and easy to understand, will help Central Americans make better decisions about the region's beleaguered natural resources.",330,1632,354,179,1,10
+html body text center table tbody tr td p span  ,"In July, construction will begin on a central data storage facility in Panama. In addition to being the information warehouse for the project, the Panama facility will be a kind of ""situation room"" -- a ""mission control"" for monitoring the health and condition of rain forests, croplands, rivers, and coastal waters throughout Central America. USAID is funding the development of this facility, as well as six smaller facilities in each of the other Central American countries: Belize, Guatemala, Costa Rica, Nicaragua, Honduras, and El Salvador. These smaller national centers will be staffed by experts with direct access to the central database for helping address the environmental issues in their own countries.",100,1828,582,161,1,10
+html body text center table tbody tr td p span  ,"Central America is a region with a great richness and diversity of tropical wildlife: though it only constitutes roughly 1% of the planet's surface, the region is home to about 7% of all land-dwelling species. The region is also home to a rapidly growing and widely impoverished human population. Serving the needs of the people without bankrupting the natural resources on which they depend is an enormous challenge to political decision makers.",100,2008,581,107,1,10
+html body text center table tbody tr td p small span font span  ,Right:,100,2132,41,15,1,13
+html body text center table tbody tr td p small font span  ,"Much of Central America's rich biodiversity in is being destroyed by ""slash and burn"" agriculture. This photo was taken in Petï¿½n, Guatemala, by Daniel Irwin.",100,2132,319,45,1,12
+html body text center table tbody tr td p span  ,"It was local decision makers who came up with the idea for this Web-portal project, explains Irwin. The impetus came from an intergovernmental organization called CCAD (a Spanish acronym meaning ""Central American Commission of Environment and Development""), which combines and coordinates the efforts of the seven Central American countries' ministries of the environment. Regional treaties charge the CCAD with the task of promoting environmental protection and sustainable development throughout the region. This new Web portal is one tool they sought to help them in their work.",100,2195,457,215,1,10
+html body text center table tbody tr td p span  ,"""We're not telling the Central Americans what needs to be done,"" says Irwin. ""Rather we're trying to listen and develop products and tools based on their needs. It is a demand-driven process.""",100,2427,581,53,1,10
+html body text center table tbody tr td p span  ,"Once development of the system is finished and local experts have been sufficiently trained, control and operation of the system will be turned over to the local environmental authorities, though NASA will remain available to them for technical support.",100,2497,575,53,1,10
+html body text center table tbody tr td p span  ,"Meanwhile, anyone with an Internet connection can visit. At",100,2567,391,17,1,10
+html body text center table tbody tr td p a span  ,the portal,490,2567,64,17,1,11
+html body text center table tbody tr td p span  ,"you can see plumes from fires and watch rain clouds drift by. Eventually, when the site is complete, you can hop aboard a virtual plane and fly up and down the long Central American coast--just like a high-level environmental minister. As Irwin says, in some ways, it's better than the real thing.",100,2567,586,89,1,10
+html body text center table tbody tr td p a b font span  ,SEND THIS STORY TO A FRIEND,268,2673,248,17,0,13
+html body text center table tbody tr td p b font span  ,Credits & Contacts,110,2721,144,17,0,12
+html body text center table tbody tr td p font font span  ,Author:,110,2739,46,15,0,12
+html body text center table tbody tr td p font font a span  ,Patrick L. Barry,156,2739,88,15,0,13
+html body text center table tbody tr td p font font span  ,Responsible NASA official:,110,2754,157,15,0,12
+html body text center table tbody tr td p font font a span  ,John M. Horack,267,2754,91,15,0,13
+html body text center table tbody tr td p font font span  ,Production Editor:,403,2722,107,15,0,12
+html body text center table tbody tr td p font font a span  ,Dr. Tony Phillips,510,2722,92,15,0,13
+html body text center table tbody tr td p font font span  ,Curator:,403,2737,51,15,0,12
+html body text center table tbody tr td p font font a span  ,Bryan Walls,454,2737,68,15,0,13
+html body text center table tbody tr td p font font span  ,Media Relations:,403,2752,100,15,0,12
+html body text center table tbody tr td p font font a span  ,Steve Roy,503,2752,60,15,0,13
+html body text center table tbody tr td p font font i span  ,The Science and Technology Directorateat NASA's Marshall Space Flight Center sponsors the Science@NASA websites. The mission of Science@NASA is to help the public understand howexciting NASA research is and to help NASA scientists fulfill theiroutreach responsibilities.,110,2779,543,45,0,13
+html body text center table tbody tr td p b span  ,Web Links,355,2854,74,17,0,11
+html body text center table tbody tr td p font font a span  ,SIAM-SERVIR,100,2884,88,15,0,13
+html body text center table tbody tr td p font font span span  ,--,187,2884,12,15,0,13
+html body text center table tbody tr td p font font span  ,the Web portal of environmental maps and data for Central America discussed in this article,100,2884,564,30,0,12
+html body text center table tbody tr td p font font a span  ,CCAD,100,2930,41,15,0,13
+html body text center table tbody tr td p font font span span  ,--,141,2930,12,15,0,13
+html body text center table tbody tr td p font font span  ,"home page (in Spanish) for the intergovernmental Central American environmental organization, which is the principal authority in the region for SIAM-SERVIR.",100,2930,529,30,0,12
+html body text center table tbody tr td p font font a span  ,USAID,100,2976,44,15,0,13
+html body text center table tbody tr td p font font span span  ,--,144,2976,12,15,0,13
+html body text center table tbody tr td p font font span  ,"home page for the U.S. Agency for International Development, which is funding part of the SIAM-SERVIR project",100,2976,573,30,0,12
+html body text center table tbody tr td p font font a span  ,The World Bank,100,3022,102,15,0,13
+html body text center table tbody tr td p font font span span  ,--,202,3022,13,15,0,13
+html body text center table tbody tr td p font font span  ,home page,214,3022,65,15,0,12
+html body text center table tbody tr td p font font a span  ,Landsat 7,100,3053,64,15,0,13
+html body text center table tbody tr td p font font span span  ,--,164,3053,13,15,0,13
+html body text center table tbody tr td p font font span  ,home page for one of the satellites contributing region-wide environmental data to the SIAM-SERVIR database,100,3053,568,30,0,12
+html body text center table tbody tr td p font font a span  ,Terra,100,3099,35,15,0,13
+html body text center table tbody tr td p font font span span  ,--,135,3099,12,15,0,13
+html body text center table tbody tr td p font font span  ,"home page for the NASA satellite carrying the MODIS instrument, which provides daily data updates to the SIAM-SERVIR database",100,3099,574,30,0,12
+html body text center table tbody tr td p font font a span  ,Mesoamerica Burning,100,3145,139,15,0,13
+html body text center table tbody tr td p font font span span  ,--,239,3145,13,15,0,13
+html body text center table tbody tr td p font font span  ,(,251,3145,8,15,0,12
+html body text center table tbody tr td p font font span span  ,Science@NASA,259,3145,98,15,0,13
+html body text center table tbody tr td p font font span  ,") The rich diversity of wildlife in southern Mexico and Central America is in peril. Local governments are using satellites to get a grip on a vast ""corridor"" system of protected lands.",100,3145,561,45,0,12
+html body text center table tbody tr td p font font a span  ,Skyline Software Systems,100,3206,165,15,0,13
+html body text center table tbody tr td p font font span span  ,--,264,3206,12,15,0,13
+html body text center table tbody tr td p font font span  ,company providing some of the mapping and 3D terrain software used by SIAM-SERVIR,100,3206,582,30,0,12
+html body text center table tbody tr td p font span  ,Joinour growing list of subscribers -,124,3274,192,15,0,11
+html body text center table tbody tr td p font b a span  ,sign up for ourexpress news delivery,315,3274,205,15,0,13
+html body text center table tbody tr td p font span  ,and you will receive a mail messageevery time we post a new story!!!,283,3274,378,31,0,11
+html body text center table tbody tr td p b font a span  ,More,281,3370,46,20,0,13
+html body text center table tbody tr td p b font a span  ,Headlines,428,3370,76,20,0,13
+html body text center table tbody tr td p font font span  ,THE END,364,3475,58,15,0,12

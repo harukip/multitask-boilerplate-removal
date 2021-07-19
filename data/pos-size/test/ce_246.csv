@@ -1,0 +1,56 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,"Aspen Systems, High Performance Computing Specialists",0,0,777,36,0,6
+html body text div div table tbody tr td div strong span  ,»Beowulf Clusters,183,139,125,17,1,12
+html body text div div table tbody tr td div p span  ,"Since 1982, Aspen Systems has been a leader in the custom design, manufacture and service of awide array of high-performance computing systems.We've built our reputation as a leading provider of",183,159,431,71,1,12
+html body text div div table tbody tr td div p a span  ,Beowulf-class clusters,200,213,149,17,1,13
+html body text div div table tbody tr td div p span  ,"by offering custom software configurations,",183,213,346,35,1,12
+html body text div div table tbody tr td div p a span  ,cluster management software,283,231,192,17,1,13
+html body text div div table tbody tr td div p span  ,",a choice of processors, and connectivity for your specific performance needs.",183,231,442,35,1,12
+html body text div div table tbody tr td div div p span  ,[,631,290,8,17,0,13
+html body text div div table tbody tr td div div p a span  ,ADVERTISE HERE,639,290,134,17,0,14
+html body text div div table tbody tr td div div p span  ,],699,308,6,17,0,13
+html body text div div div table tbody tr td div div strong span  ,»Benchmark Testing,8,326,141,17,1,14
+html body text div div div table tbody tr td div div p span  ,Aspen Systems has several systems with different configurations available for testing and running your benchmarks.,8,360,282,53,1,14
+html body text div div div table tbody tr td div div ul li span  ,"Single Core Opteron 252 2.6 GHz, 4 GB DDR400 RAM,",48,430,261,35,1,15
+html body text div div div table tbody tr td div div ul li span span  ,Fedora Core 4,154,448,92,17,1,16
+html body text div div div table tbody tr td div div ul li span  ,"Dual Core Opteron 275 2.2 GHz, 4 GB DDR400 RAM,",48,466,251,35,1,15
+html body text div div div table tbody tr td div div ul li span span  ,Fedora Core 4,154,484,92,17,1,16
+html body text div div div table tbody tr td div div ul li span  ,"Intel Xeon EM64T (Nocona) 3.4 GHz, 1 MB L2 cache, 2 GB DDR400 RAM,",48,502,260,35,1,15
+html body text div div div table tbody tr td div div ul li span span  ,SuSE 9.3,48,538,60,17,1,16
+html body text div div div table tbody tr td div div ul li span  ,More . . .,48,556,59,17,1,15
+html body text div div div table tbody tr td div div p span  ,Follow the link below to,8,613,161,17,1,14
+html body text div div div table tbody tr td div div p a span  ,request benchmark testing,8,613,283,35,1,15
+html body text div div div table tbody tr td div div p span  ,on one of our systems.,55,631,144,17,1,14
+html body text div div div table tbody tr td div div strong span  ,»Cluster Management,315,326,152,17,0,14
+html body text div div div table tbody tr td div div p span  ,The,440,360,28,17,0,14
+html body text div div div table tbody tr td div div p a span  ,Aspen Beowulf Cluster management system (ABC),440,360,178,35,0,15
+html body text div div div table tbody tr td div div p span  ,"software package provides an administrator with the ability to manage, monitor & maintain all aspects of a Linux-based Beowulf cluster via an SSL encrypted web browser interface.",315,396,338,89,0,14
+html body text div div div table tbody tr td div div p span  ,Follow the link below to learn more about Aspen Beowulf Cluster management software.,315,502,314,35,1,14
+html body text div div div table tbody tr td div a span  ,More Features »,672,326,105,17,1,13
+html body text div div table tbody tr td div div div div span  ,.,773,780,4,17,0,14
+html body text div div table tbody tr td div div div div span a span  ,Clusters,163,798,56,17,0,16
+html body text div div table tbody tr td div div div div span strong span  ,·,219,798,8,17,0,16
+html body text div div table tbody tr td div div div div span a span  ,Hardware,227,798,67,17,0,16
+html body text div div table tbody tr td div div div div span strong span  ,·,294,798,8,17,0,16
+html body text div div table tbody tr td div div div div span a span  ,Software,302,798,62,17,0,16
+html body text div div table tbody tr td div div div div span strong span  ,·,364,798,8,17,0,16
+html body text div div table tbody tr td div div div div span a span  ,Support,372,798,55,17,0,16
+html body text div div table tbody tr td div div div div span strong span  ,·,427,798,8,17,0,16
+html body text div div table tbody tr td div div div div span a span  ,About Us,435,798,66,17,0,16
+html body text div div table tbody tr td div div div div span strong span  ,·,500,798,8,17,0,16
+html body text div div table tbody tr td div div div div span a span  ,Search,508,798,47,17,0,16
+html body text div div table tbody tr td div div div div span strong span  ,·,556,798,8,17,0,16
+html body text div div table tbody tr td div div div div span a span  ,Site Map,564,798,58,17,0,16
+html body text div div table tbody tr td div div div div a span  ,Contact Us,317,835,75,17,0,15
+html body text div div table tbody tr td div div div div strong span  ,·,392,835,8,17,0,15
+html body text div div table tbody tr td div div div div span  ,Toll Free: 1-800-992-9242,157,853,175,17,1,14
+html body text div div table tbody tr td div div div div strong span  ,·,332,853,8,17,1,15
+html body text div div table tbody tr td div div div div span  ,PH: 1-303-431-4606,340,853,137,17,1,14
+html body text div div table tbody tr td div div div div strong span  ,·,477,853,8,17,1,15
+html body text div div table tbody tr td div div div div span  ,FAX: 1-303-431-7196,485,853,143,17,1,14
+html body text div div table tbody tr td div div div div a span  ,Copyright,141,871,69,17,1,15
+html body text div div table tbody tr td div div div div span  ,"© 2006 by Aspen Systems, Inc.",210,871,206,17,1,14
+html body text div div table tbody tr td div div div div em span  ,All Rights Reserved,416,871,130,17,1,15
+html body text div div table tbody tr td div div div div span strong span  ,·,546,871,8,17,1,16
+html body text div div table tbody tr td div div div div span a span  ,Terms Of Use,554,871,90,17,1,16
+html body text div div div span span  ,"You are visitor 2,262,990",615,925,162,17,1,8

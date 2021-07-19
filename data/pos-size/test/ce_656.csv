@@ -1,0 +1,111 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Whats-New-in-C-Sharp2-Misc-New-Feature at Programmers Heaven,0,0,777,36,0,6
+html body text div div div font h2 span  ,What’s New – C# 2.0 Series,8,83,252,22,1,9
+html body text div div div font p span  ,"In this C# what’s new series, we will introduce and discuss the new editions in C# 2.0 programming language. We will explain the new features like generics, partial classes, object oriented and other language enhancements and demonstrate it with sample source code. The series is most suitable for people who have worked with C# in Visual Studio.Net o r Visual Studio.Net 2003. However, people coming from different background like VB.Net, C++ and Java will also find it useful if they are planning to learn or move to C# in near future.",8,122,768,75,1,9
+html body text div div div font h3 span  ,Miscellaneous Features,8,213,172,17,1,9
+html body text div div div font p span  ,"In this article about the new features of C# 2.0 programming language we will discuss features like Fixed sized buffers, Friend assemblies, extern keyword, #pragma warnings and :: operator (global keyword).",8,245,722,30,1,9
+html body text div div div font h3 span  ,Fixed Sized Buffers,8,290,141,17,1,9
+html body text div div div font p span  ,"In C# 1.x, when we declare an array, it is merely a reference (or pointer) that points to a sequence of elements. For example if we declare a structure like this:",8,322,743,30,1,9
+html body text div div div font pre span  ,struct Test { char[] letters; },8,365,288,11,1,9
+html body text div div div font p span  ,It will only take 4 bytes in memory because what it contains is a reference (or pointer) which is of int type. Several times with legacy code written in C/C++ programming language we need to pass data structures which accepts the fixed sized buffers and not only the pointer of the buffer. C# 2.0 provides this feature with its ‘fixed sized buffers’ declared with the keyword ‘fixed’,8,389,761,45,1,9
+html body text div div div font pre span  ,struct Test { fixed char letters[10]; },8,447,336,11,1,9
+html body text div div div font p span  ,Now the structure will take up 20 bytes (a Unicode character takes 2 bytes) in memory. But there are few important points and restrictions for using fixed sized buffers:,8,471,722,30,1,9
+html body text div div div font ul li span  ,Fixed sized buffers can only be contained in unsafe code,48,514,327,15,1,10
+html body text div div div font ul li span  ,They can only exist as instance members and not the local members of a method,48,529,468,15,1,10
+html body text div div div font ul li span  ,We must have to declare the size of the fixed sized buffer when we declare them. It is an error to write fixed char letters[],48,544,692,15,1,10
+html body text div div div font ul li span  ,They can only be one dimensional. Multi-dimensional fixed sized buffers are not allowed,48,559,506,15,1,10
+html body text div div div font h3 span  ,Friend Assemblies,8,589,135,17,1,9
+html body text div div div font p span  ,"In C# 2.0, you can designate an assembly as a friend of yours assembly. A friend assembly can access all the non-public types of your assembly. You can declare an assembly as a friend of your assembly using the assembly: InternalsVisibleTo() attribute defined in the System.Runtime.CompilerServices namespace which takes the name of assembly and its public key token",8,622,768,45,1,9
+html body text div div div font pre span  ,"[assembly: InternalsVisibleTo(""AssemblyB, PublicKeyToken=32ab4ba45e0a69a1"")]",8,680,456,11,1,9
+html body text div div div font p span  ,You may require this in some project where you need one assembly to access types defined in your assembly and you separated the two assemblies for logical or deployment reasons. There are few important points to remember here:,8,704,763,30,1,9
+html body text div div div font ul li span  ,You must know not only the name of assembly to be marked as friend but also its public key token,48,747,563,15,1,10
+html body text div div div font ul li span  ,"Friendship achieved by friend assemblies is not symmetric, that is, if an assembly B is defined as a friend of an assembly A then it does not mean that A is also a friend of B. In easier word, in the example above, AssemblyB can access all the non-public types in our assembly but it does not mean that our assembly can also access all the non-public types of AssemblyB",48,762,706,45,1,10
+html body text div div div font ul li span  ,"Also the friendship thus achieved is not transitive, that is, if A defines B as its friend and B defines C as its friend then it does not mean that C is also a friend of A extern Keyword",48,807,713,30,1,10
+html body text div div div font p span  ,The ‘extern’ keyword can either be used with a method or for assembly alias. When used with methods it specifies that the method body is externally defined in some unmanaged code (mostly specified with DllImport()). The following code demonstrates the extern method,8,850,755,45,1,9
+html body text div div div font pre span  ,"[DllImport(""User32.dll"")] public static extern int MessageBox(int h, string m, string c, int type);",8,908,624,11,1,9
+html body text div div div font p span  ,Here we specified that the method MessageBox() is defined in an external unmanaged DLL (user32.dll). Note that the method declaration ends with semicolon as it is body is not defined here. The method can later be used in the program just like any other method.,8,932,739,45,1,9
+html body text div div div font p span  ,The extern keyword can also be used as assembly alias. It is useful when we want to use different versions of an assembly at the same time in a single assembly. You can look for its description in MSDN,8,990,743,30,1,9
+html body text div div div font h3 span  ,#pragma Warnings,8,1035,136,17,1,9
+html body text div div div font p span  ,Sometimes you like to tell your compiler not to display certain warnings; you can do this by #pragma keyword which is used to enable or disable specified warnings. You need to know the number of warning you want to enable or disable,8,1067,765,30,1,9
+html body text div div div font pre span  ,"#pragma warning disable 414, 3021",8,1110,198,11,1,9
+html body text div div div font p span  ,The above code will disable warnings number 414 and 3021. Similarly you can enable warnings like:,8,1134,577,15,1,9
+html body text div div div font p span  ,#pragma warning enable 3021,8,1162,176,15,1,9
+html body text div div div font h3 span  ,:: Operator and global keyword,8,1192,225,17,1,9
+html body text div div div font p span  ,"Suppose you have defined your own class with name ‘System’ and inside it you want to use the Console class of the .Net System namespace, what will you do?",8,1224,743,30,1,9
+html body text div div div font pre span  ,"namespace MyNameSpace{ class System { static void Main(string[] args) { System.Console.WriteLine(""Hello, world""); System.Console.ReadLine(); } }}",8,1267,1182,11,1,9
+html body text div div div font p span  ,"With C# 2.0, you can use the :: operator with global keyword to achieve this. It allows you to access members in the global namespace.",8,1291,702,30,1,9
+html body text div div div font pre span  ,"namespace MyNameSpace{ class System { static void Main(string[] args) { global:: System.Console.WriteLine(""Hello, world""); global:: System.Console.ReadLine(); } }}",8,1334,1278,11,1,9
+html body text div div div font p span  ,It tells the compiler to search for the global namespace named ‘System’.,8,1358,415,15,1,9
+html body text div div div font h3 span  ,About the Author,8,1389,124,17,1,9
+html body text div div div font p span  ,"Faraz Rasheed is the Masters Research student at Kyung Hee University, South Korea and a professional technical writer of Programmers Heaven. He graduated from the University of Karachi, Pakistan. He has a keen interest in the design and development of software systems. He has worked in .Net and Java application development platforms. Currently, he is working for the Ubiquitous Computing Research Project at Real Time & Multimedia Lab of Kyung Hee University (",8,1421,762,60,1,9
+html body text div div div font p span  ,). He can be accessed via,509,1466,150,15,1,9
+html body text div div div font p a span  ,faraz@oslab.khu.ac.kr,8,1481,133,15,1,10
+html body text div div div font p span  ,or,141,1481,15,15,1,9
+html body text div div div font p a span  ,frazrasheed@yahoo.com,156,1481,146,15,1,10
+html body text div div div p font a span  ,Back,8,1512,29,15,0,10
+html body text div div div div h2 span  ,Partners,8,1634,89,26,0,9
+html body text div div div div div strong span  ,Partners,8,1681,64,17,1,10
+html body text div div div div div a span  ,ASP Alliance,72,1681,90,17,0,10
+html body text div div div div div a span  ,Code Project,162,1681,87,17,0,10
+html body text div div div div div a span  ,Developers Dex,249,1681,107,17,0,10
+html body text div div div div div a span  ,Developer Fusion,356,1681,118,17,0,10
+html body text div div div div div a span  ,DevGuru,474,1681,64,17,0,10
+html body text div div div div div a span  ,Planet Source Code,538,1681,130,17,0,10
+html body text div div div div div a span  ,Tek-Tips Forums,8,1681,717,35,0,10
+html body text div div div div div strong span  ,More Partners,8,1717,101,17,1,10
+html body text div div div div div a span  ,Cairo hotels,8,1735,82,17,0,10
+html body text div div div div div a span  ,Price Comparison,90,1735,119,17,0,10
+html body text div div div div div a span  ,Programming discussions,209,1735,169,17,0,10
+html body text div div div div div a span  ,Costa Del Sol Property,378,1735,152,17,0,10
+html body text div div div div div a span  ,More Partners,530,1735,91,17,1,10
+html body text div div div div div strong span  ,Web site services,8,1753,116,17,1,10
+html body text div div div div div a span  ,Domain Names UK,8,1771,131,17,0,10
+html body text div div div div div a span  ,UK Domain Registration,139,1771,161,17,0,10
+html body text div div div h2 span  ,Advertisement,8,1826,151,26,1,8
+html body text div div div h2 span  ,Free Magazine,8,1929,152,26,1,8
+html body text div div div div span  ,eWeek The essential technology information source for builders of e-business....,8,2056,517,17,1,8
+html body text div div div div a span  ,subscribe now,525,2056,92,17,1,9
+html body text div div div div div div div div div div div form label span  ,Username,8,2128,65,17,0,17
+html body text div div div div div div div div div div div form label span  ,Password,8,2164,61,17,0,17
+html body text div div div div div div div div div div div form a label span  ,Auto-login,8,2200,70,17,0,18
+html body text div div div div div div div div div div div a span  ,Register,8,2234,53,17,0,16
+html body text div div div div div div div div div div div a span  ,Why register?,8,2252,90,17,0,16
+html body text div div div div div div div div div div div a span  ,Forgot Password?,8,2270,115,17,0,16
+html body text div div div div div div div div div div div p a span  ,Jobs,8,2322,32,17,0,17
+html body text div div div div div div div div div div div p a span  ,Webtools,8,2340,60,17,0,17
+html body text div div div div div div div div div div div p a span  ,Message Boards,8,2358,105,17,0,17
+html body text div div div div div div div div div div div p a span  ,FAQ,8,2376,31,17,0,17
+html body text div div div div div div div div div div div p a span  ,CodePedia,8,2394,69,17,0,17
+html body text div div div div div div div div div div div p a span  ,Free Magazines,8,2412,102,17,0,17
+html body text div div div div div div div div div div div p a span  ,Sample Chapters,8,2430,109,17,0,17
+html body text div div div div div div div div div div div p a span  ,User search,8,2448,75,17,0,17
+html body text div div div div div div div div div div div p a span  ,What's New,8,2466,78,17,0,17
+html body text div div div div div div div div div div div p a span  ,Top lists,8,2484,54,17,0,17
+html body text div div div div div div div div div div div p a span  ,RSS Feeds,8,2502,74,17,0,17
+html body text div div div div div div div div div div div form a span  ,Advanced Search,8,2575,112,17,0,17
+html body text div div div div div div div div div div div form label span  ,Email,8,2681,38,17,0,17
+html body text div div div div div div div div div div div form a span  ,More information,8,2735,114,17,0,17
+html body text div div div div div div div div div div div a span  ,Newsletter,8,2787,73,17,0,16
+html body text div div div div div div div div div div div span  ,|,81,2787,8,17,0,15
+html body text div div div div div div div div div div div a span  ,Submit Content,89,2787,104,17,0,16
+html body text div div div div div div div div div div div span  ,|,193,2787,7,17,0,15
+html body text div div div div div div div div div div div a span  ,About,200,2787,44,17,0,16
+html body text div div div div div div div div div div div span  ,|,244,2787,6,17,0,15
+html body text div div div div div div div div div div div a span  ,Advertising,250,2787,80,17,0,16
+html body text div div div div div div div div div div div span  ,|,330,2787,6,17,0,15
+html body text div div div div div div div div div div div a span  ,Awards,336,2787,52,17,0,16
+html body text div div div div div div div div div div div span  ,|,388,2787,7,17,0,15
+html body text div div div div div div div div div div div a span  ,Contact Us,395,2787,76,17,0,16
+html body text div div div div div div div div div div div span  ,|,471,2787,7,17,0,15
+html body text div div div div div div div div div div div a span  ,Link to us,478,2787,69,17,0,16
+html body text div div div div div div div div div div div span  ,|,547,2787,7,17,0,15
+html body text div div div div div div div div div div div strong span  ,© 1996-2006,8,2805,89,17,0,16
+html body text div div div div div div div div div div div strong a span  ,128K-Communications Ltd.,97,2805,195,17,0,17
+html body text div div div div div div div div div div div strong span  ,All rights reserved.,292,2805,134,17,0,16
+html body text div div div div div div div div div div div span  ,"Reproduction in whole or in part, in any form or medium without express written permission is prohibited. Violators of this policy may be subject to legal action. Please read",8,2805,764,53,0,15
+html body text div div div div div div div div div div div strong a span  ,Terms Of Use,40,2841,97,17,0,17
+html body text div div div div div div div div div div div span  ,and,137,2841,27,17,0,15
+html body text div div div div div div div div div div div strong a span  ,Privacy Statement,164,2841,130,17,0,17
+html body text div div div div div div div div div div div span  ,for more information. Development by,294,2841,253,17,0,15
+html body text div div div div div div div div div div div a strong span  ,Synchron Data,547,2841,107,17,0,17
+html body text div div div div div div div div div div div span  ,.,654,2841,4,17,0,15

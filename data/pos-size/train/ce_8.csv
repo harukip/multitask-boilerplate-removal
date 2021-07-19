@@ -1,0 +1,355 @@
+tag,content,x,y,width,height,label,depth
+html body text div div h1 a span  ,Amarok Blog,8,8,183,36,1,8
+html body text div div h2 a span  ,Amarok developers at work,8,66,286,26,1,8
+html body text div table tbody tr td div h3 span  ,"Wednesday, December 13. 2006",11,116,251,21,1,11
+html body text div table tbody tr td div h4 a span  ,markey: Amarok reviewed on Sourcetrunk podcast,11,160,350,17,1,12
+html body text div table tbody tr td div div div span  ,Here's a really nice,131,235,126,17,1,12
+html body text div table tbody tr td div div div a span  ,review,257,235,48,17,1,13
+html body text div table tbody tr td div div div span  ,"of Amarok 1.4.4. The reviewer goes into great detail and presents many of Amarok's features, including the recently added Magnatune store.",11,235,629,53,1,12
+html body text div table tbody tr td div div div span  ,Check it out over at,11,307,130,17,1,12
+html body text div table tbody tr td div div div a span  ,Sourcetrunk,141,307,82,17,1,13
+html body text div table tbody tr td div div div span  ,.,223,307,4,17,1,12
+html body text div table tbody tr td div div div span  ,Posted by,11,325,67,17,1,12
+html body text div table tbody tr td div div div a span  ,Mark Kretschmann,78,325,128,17,1,13
+html body text div table tbody tr td div div div span  ,in,206,325,16,17,1,12
+html body text div table tbody tr td div div div a span  ,markey,222,325,52,17,1,13
+html body text div table tbody tr td div div div span  ,at,274,325,16,17,1,12
+html body text div table tbody tr td div div div a span  ,05:46,290,325,40,17,1,13
+html body text div table tbody tr td div div div span  ,|,330,325,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Comments (0),337,325,96,17,0,13
+html body text div table tbody tr td div div div span  ,|,433,325,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),440,325,96,17,0,13
+html body text div table tbody tr td div h3 span  ,"Monday, December 11. 2006",11,362,225,21,1,11
+html body text div table tbody tr td div h4 a span  ,markey: New server to replace pwsp.net,11,405,274,17,1,12
+html body text div table tbody tr td div div div span  ,"Good news, everyone!",11,444,144,17,1,12
+html body text div table tbody tr td div div div span  ,Thanks to the generous donations from our last,11,480,306,17,1,12
+html body text div table tbody tr td div div div a span  ,fundraiser,317,480,69,17,1,13
+html body text div table tbody tr td div div div span  ,", the Amarok project will soon move to a much better web server. As some of you have probably noticed, our current hosting (AMD Duron, 512MB RAM) is hopelessly underpowered for the growing traffic on",11,480,636,53,1,12
+html body text div table tbody tr td div div div a span  ,amarok.kde.org,458,516,104,17,1,13
+html body text div table tbody tr td div div div span  ,". We've had a lot of downtime over the last months, especially when the site was hammered by digg.com, heise.de, etc.",11,516,636,53,1,12
+html body text div table tbody tr td div div div span  ,"The new server will be a dedicated AMD Athlon 64 X2 4200+, 2 gigs of RAM, 2 x 300 GB SATA HDD, from Hetzner.de. This should provide us with enough power to survive the slashdot/digg-effect. Paleo (Olivier Bédard) will continue to be the main administrator, and, in other good news, we will continue to host a number of other KDE projects (Konversation, Akregator..) for free",11,588,628,71,1,12
+html body text div table tbody tr td div div div span  ,"We will try to make the migration over the next few weeks as smooth as possible, by running the old server in parallel until everything is ready to go.",11,678,619,35,1,12
+html body text div table tbody tr td div div div span  ,Posted by,11,714,67,17,1,12
+html body text div table tbody tr td div div div a span  ,Mark Kretschmann,78,714,128,17,1,13
+html body text div table tbody tr td div div div span  ,in,206,714,16,17,1,12
+html body text div table tbody tr td div div div a span  ,markey,222,714,52,17,1,13
+html body text div table tbody tr td div div div span  ,at,274,714,16,17,1,12
+html body text div table tbody tr td div div div a span  ,04:16,290,714,40,17,1,13
+html body text div table tbody tr td div div div span  ,|,330,714,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Comments (5),337,714,96,17,0,13
+html body text div table tbody tr td div div div span  ,|,433,714,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),440,714,96,17,0,13
+html body text div table tbody tr td div h3 span  ,"Thursday, December 7. 2006",11,751,228,21,1,11
+html body text div table tbody tr td div h4 a span  ,muesli: Schnauze voll,11,794,148,17,1,12
+html body text div table tbody tr td div div div span  ,Koennten Frauen bitte einfach mal ihre beschissene Fresse halten? Danke.,11,851,475,17,1,12
+html body text div table tbody tr td div div div span  ,Posted by,11,869,67,17,1,12
+html body text div table tbody tr td div div div span  ,in,78,869,16,17,1,12
+html body text div table tbody tr td div div div a span  ,muesli,94,869,47,17,1,13
+html body text div table tbody tr td div div div span  ,at,141,869,15,17,1,12
+html body text div table tbody tr td div div div a span  ,15:45,156,869,41,17,1,13
+html body text div table tbody tr td div div div span  ,|,197,869,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Comments (0),204,869,96,17,0,13
+html body text div table tbody tr td div div div span  ,|,300,869,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),307,869,96,17,0,13
+html body text div table tbody tr td div h3 span  ,"Wednesday, December 6. 2006",11,906,241,21,1,11
+html body text div table tbody tr td div h4 a span  ,sebr: visiting kde turkey,11,949,167,17,1,12
+html body text div table tbody tr td div div div p span  ,"I’m now in Istanbul, and was able to meet up with the infamous ‘cartman’, aka ismail. or maybe its the other way around, i’m not sure! we went out the the hip center of the city, taksim, to visit some of the cool water-holes. there, we were joined by local lug member, arda. if you want to read more about what i’ve been up to in the country, you can read my blog; i don’t need to spam you all!",11,989,635,71,1,13
+html body text div table tbody tr td div div div p span  ,"However, heres a photo to prove myself!",11,1111,265,17,1,13
+html body text div table tbody tr td div div div div span  ,"Arda, Myself and Ismail (cartman)",220,1643,222,17,1,13
+html body text div table tbody tr td div div div span  ,Posted by,11,1679,67,17,1,12
+html body text div table tbody tr td div div div a span  ,Seb Ruiz,78,1679,62,17,1,13
+html body text div table tbody tr td div div div span  ,in,140,1679,16,17,1,12
+html body text div table tbody tr td div div div a span  ,sebr,156,1679,31,17,1,13
+html body text div table tbody tr td div div div span  ,at,187,1679,16,17,1,12
+html body text div table tbody tr td div div div a span  ,15:39,203,1679,40,17,1,13
+html body text div table tbody tr td div div div span  ,|,243,1679,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Comments (3),250,1679,96,17,0,13
+html body text div table tbody tr td div div div span  ,|,346,1679,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),353,1679,96,17,0,13
+html body text div table tbody tr td div h3 span  ,"Monday, December 4. 2006",11,1715,216,21,1,11
+html body text div table tbody tr td div h4 a span  ,mxcl: A Job at Last FM,11,1759,161,17,1,12
+html body text div table tbody tr td div div div p span  ,Well I’m really pleased,11,1798,153,17,1,13
+html body text div table tbody tr td div div div p span  ,From January I can work at,11,1866,180,17,1,13
+html body text div table tbody tr td div div div p a span  ,Last FM,191,1866,59,17,1,14
+html body text div table tbody tr td div div div p span  ,", and they’ll pay me too! How sweet is that?",250,1866,283,17,1,13
+html body text div table tbody tr td div div div span  ,Posted by,11,1918,67,17,1,12
+html body text div table tbody tr td div div div a span  ,Max Howell,78,1918,84,17,1,13
+html body text div table tbody tr td div div div span  ,in,162,1918,17,17,1,12
+html body text div table tbody tr td div div div a span  ,mxcl,179,1918,36,17,1,13
+html body text div table tbody tr td div div div span  ,at,215,1918,15,17,1,12
+html body text div table tbody tr td div div div a span  ,14:32,230,1918,41,17,1,13
+html body text div table tbody tr td div div div span  ,|,271,1918,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Comments (6),278,1918,96,17,0,13
+html body text div table tbody tr td div div div span  ,|,374,1918,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),381,1918,96,17,0,13
+html body text div table tbody tr td div h3 span  ,"Friday, December 1. 2006",11,1955,204,21,1,11
+html body text div table tbody tr td div h4 a span  ,markey: KDE Misfeature,11,1998,175,17,1,12
+html body text div table tbody tr td div div div span  ,"Please look at the above screenshot. Yes, I know, it hurts. No, I did not draw this with The Gimp. This is an actual Amarok screenshot, running under KDE 3.5.5. How the hell did those ugly squares appear all over the screen, is it a virus? No, it's a KDE feature!",11,2698,640,53,1,12
+html body text div table tbody tr td div div div span  ,"How to reproduce: Fire up a KDE application (Konqueror, Amarok, or KMail will do) and press the ctrl key. It's not even a new feature; it has been there since KDE 3.3 or somesuch. And this feature even has a name, which I can't be bothered to look up.",11,2770,639,53,1,12
+html body text div table tbody tr td div div div span  ,Questions naturally coming to my mind:,11,2842,259,17,1,12
+html body text div table tbody tr td div div div ul li span  ,"How the hell could this ""feature"" pass the KDE usability team?",51,2930,404,17,1,14
+html body text div table tbody tr td div div div ul li span  ,Is the person who invented it ashamed of it?,51,2984,283,17,1,14
+html body text div table tbody tr td div div div span  ,"In Amarok development, whenever someone comes up with an idea like that, we'd go like: ""Dude, are you out of your mind?""",11,3072,629,35,1,12
+html body text div table tbody tr td div div div span  ,Food for thought?,11,3144,120,17,1,12
+html body text div table tbody tr td div div div span  ,Posted by,11,3162,67,17,1,12
+html body text div table tbody tr td div div div a span  ,Mark Kretschmann,78,3162,128,17,1,13
+html body text div table tbody tr td div div div span  ,in,206,3162,16,17,1,12
+html body text div table tbody tr td div div div a span  ,markey,222,3162,52,17,1,13
+html body text div table tbody tr td div div div span  ,at,274,3162,16,17,1,12
+html body text div table tbody tr td div div div a span  ,18:19,290,3162,40,17,1,13
+html body text div table tbody tr td div div div span  ,|,330,3162,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Comments (50),337,3162,104,17,0,13
+html body text div table tbody tr td div div div span  ,|,441,3162,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),448,3162,96,17,0,13
+html body text div table tbody tr td div h3 span  ,"Monday, November 27. 2006",11,3199,228,21,1,11
+html body text div table tbody tr td div h4 a span  ,sebr: Holidays be upon me!,11,3242,188,17,1,12
+html body text div table tbody tr td div div div p span  ,"I’ve had a week of freedom from the entanglements of university and it has been great. Europe and America should be jealous of me, because I’ve been spending days on end at the beach browning up. I’ve had some much needed time to finish of Splinter Cell, and get back into the coding routine - especially now that I have my motherboard back after five weeks of awol maintenance. At least it all works now.",11,3281,634,89,1,13
+html body text div table tbody tr td div div div p span  ,"Today my house was attacked by a kookaburra, and after trying to get it out of the house i realised i’d never been so close one before. A pair of the birds live in the gum tree out the back, and they come back every year to have babies and get fed chicken by us. If you’ve never seen one before, here’s a photo I took of it trying to understand how something could be so transparent but so solid.",11,3421,631,71,1,13
+html body text div table tbody tr td div div div p span  ,"In other news, in 6 days I’ll be leaving for my next adventure, to the wonders of Turkey, Egypt & Israel. I’ll be gone for 7 weeks to grab some fresh (or very polluted) air for my clogged up head. Very exciting!",11,3579,623,53,1,13
+html body text div table tbody tr td div div div span  ,Posted by,11,3667,67,17,1,12
+html body text div table tbody tr td div div div a span  ,Seb Ruiz,78,3667,62,17,1,13
+html body text div table tbody tr td div div div span  ,in,140,3667,16,17,1,12
+html body text div table tbody tr td div div div a span  ,sebr,156,3667,31,17,1,13
+html body text div table tbody tr td div div div span  ,at,187,3667,16,17,1,12
+html body text div table tbody tr td div div div a span  ,02:50,203,3667,40,17,1,13
+html body text div table tbody tr td div div div span  ,|,243,3667,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Comments (2),250,3667,96,17,0,13
+html body text div table tbody tr td div div div span  ,|,346,3667,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),353,3667,96,17,0,13
+html body text div table tbody tr td div h3 span  ,"Sunday, November 26. 2006",11,3704,222,21,1,11
+html body text div table tbody tr td div h4 a span  ,eean: New Laptop; Kubuntu Review,11,3747,250,17,1,12
+html body text div table tbody tr td div div div h3 span  ,Laptop,11,3823,58,21,1,13
+html body text div table tbody tr td div div div span  ,"For Black Friday I got an early Christmas present, a Toshiba Satellite. Its innards are all Intel, so everything works fine in Linux. Its nice coming from the hassle and incomplete support of ndiswrapper to the open source drivers that Intel apparently helps support.",11,3900,617,53,1,12
+html body text div table tbody tr td div div div h3 span  ,Kubuntu,11,4027,73,21,1,13
+html body text div table tbody tr td div div div span  ,"My main desktop is Gentoo and has been for the past 4 years. I'm rather happy with it: I know how it all works, its continuously updated, has good support for commercial software. However this laptop has only 512 of RAM (rather painful for compiling) and I had heard that Kubuntu has good laptop support.",11,4104,633,71,1,12
+html body text div table tbody tr td div div div span  ,"And indeed thats pretty much the case. All of my hardware was recognized: the dual-core, the wireless, the Intel graphics chip and power saving and status features are all working without any configuration. It was the easiest install I've ever done. And I'm happy with the result too, Kubuntu does a good job of putting everything together. The complaints I'm about to go into don't take away too much from this fact.",11,4230,636,89,1,12
+html body text div table tbody tr td div div div span  ,"The problem with Kubuntu and Ubuntu are their defaults for the repos. I'm pretty sure the fact that the default repos get better support then the 'universe' 'multiverse' etc. repos is something that is only understood by only a few. And apparently thats the entire reason for not having them on by default. So when I wanted to install kdevelop, I was a little puzzled at first. Gentoo currently shines in this area, I've only ever had to use an ""overlay"" if I wanted to install unreleased software.",11,4374,636,89,1,12
+html body text div table tbody tr td div div div span  ,"The other issue I've had is with wireless network configuration (at least its not wireless driver configuration!) If there's a Kubuntu equivalent to Gentoo's /etc/conf.d/wireless I haven't found it. Right now wireless works if I run wlassistant (a GUI interface to configure the wireless) try to connect, it fails, and then I restart /etc/init.d/networking. That doesn't make too much sense, I know.",11,4518,639,71,1,12
+html body text div table tbody tr td div div div span  ,"In general their startup scripts seem to be all pretty unorganized. All written in plain /bin/sh and with no clear design (like instead of a general dependency system, there are scripts that are run before and after specifically network goes up and down). Gentoo's startup and configuration system is hardly revolutionary which I suppose makes Kubuntu's antiquated system that much more frustrating.",11,4644,638,89,1,12
+html body text div table tbody tr td div div div h3 span  ,x2x,11,4806,28,21,1,13
+html body text div table tbody tr td div div div span  ,x2x is a cool little utility. It lets you control two computers easily with one mouse/keyboard. I made an icon in my quick launch to the following:,11,4883,638,35,1,12
+html body text div table tbody tr td div div div tt span  ,"ssh -X ian@`kdialog --inputbox 'Connect with what host?' some.host` ""x2x -west -from :0.""",11,4937,624,30,1,13
+html body text div table tbody tr td div div div span  ,And with that I can just set my laptop down and start using my desktop's mouse and keyboard to control both.,11,4985,618,35,1,12
+html body text div table tbody tr td div div div h3 span  ,Kirksville,11,5094,79,21,1,13
+html body text div table tbody tr td div div div span  ,"I'm returning to Kirksville, Missouri tomorrow. Its felt like a long time even though it was only a half week: it will be good to be back.",11,5170,620,35,1,12
+html body text div table tbody tr td div div div span  ,Posted by,11,5206,67,17,1,12
+html body text div table tbody tr td div div div a span  ,Ian Monroe,78,5206,79,17,1,13
+html body text div table tbody tr td div div div span  ,in,157,5206,16,17,1,12
+html body text div table tbody tr td div div div a span  ,eean,173,5206,34,17,1,13
+html body text div table tbody tr td div div div span  ,at,207,5206,15,17,1,12
+html body text div table tbody tr td div div div a span  ,00:06,222,5206,41,17,1,13
+html body text div table tbody tr td div div div span  ,|,263,5206,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Comment (1),270,5206,90,17,0,13
+html body text div table tbody tr td div div div span  ,|,360,5206,6,17,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),366,5206,96,17,0,13
+html body text div table tbody tr td div h3 span  ,"Sunday, November 19. 2006",11,5243,222,21,1,11
+html body text div table tbody tr td div h4 a span  ,eean: dang it Jeff,11,5286,118,17,1,12
+html body text div table tbody tr td div div div span  ,--> jefferai has joined this channel (n=jeff@amarok/developer/mitchell).,11,5344,464,17,1,12
+html body text div table tbody tr td div div div span  ,"*** jefferai sets the channel topic to ""jefferai got his Wii -- see all you suckaz l8tr :: We're pulling a Linus: 1.4 will be our 2.6. Add features!"".",11,5380,636,35,1,12
+html body text div table tbody tr td div div div span jefferai  ,Wiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii,11,5434,299,17,1,13
+html body text div table tbody tr td div div div span span  ,I've also noticed that my friend Josh is uncharacteristically not signed into AIM. I think I might know why.,11,5542,609,35,1,13
+html body text div table tbody tr td div div div span  ,Posted by,11,5578,67,17,1,12
+html body text div table tbody tr td div div div a span  ,Ian Monroe,78,5578,79,17,1,13
+html body text div table tbody tr td div div div span  ,in,157,5578,16,17,1,12
+html body text div table tbody tr td div div div a span  ,eean,173,5578,34,17,1,13
+html body text div table tbody tr td div div div span  ,at,207,5578,15,17,1,12
+html body text div table tbody tr td div div div a span  ,14:16,222,5578,41,17,1,13
+html body text div table tbody tr td div div div span  ,|,263,5578,7,17,1,12
+html body text div table tbody tr td div div div a span  ,Comments (0),270,5578,96,17,1,13
+html body text div table tbody tr td div div div span  ,|,366,5578,7,17,1,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),373,5578,95,17,1,13
+html body text div table tbody tr td div h3 span  ,"Tuesday, November 14. 2006",11,5614,227,21,1,11
+html body text div table tbody tr td div h4 a span  ,"muesli: Know C++, Maybe Even Love Qt4?",11,5658,298,17,1,12
+html body text div table tbody tr td div div div span  ,Someone out there looking for a new job opportunity? Enjoy accessing a huge music-library? Even more important: always wanted a red user-icon on Last.fm?,11,5715,635,35,1,12
+html body text div table tbody tr td div div div a span  ,"There you go, start working at Last.fm as a C++ Developer.",11,5805,385,17,1,13
+html body text div table tbody tr td div div div span  ,"You will be working on the Last.fm Client, a Qt4-driven piece of software for Windows, Linux and OS X. Want more info? Click the link. It's worth it. Oh, and it's fun.",11,5805,620,53,1,12
+html body text div table tbody tr td div div div span  ,Now I wanna see you guys applying,11,5913,237,17,1,12
+html body text div table tbody tr td div div div span  ,"cheers,",11,5985,45,17,1,12
+html body text div table tbody tr td div div div span  ,muesli,11,6021,43,17,1,12
+html body text div table tbody tr td div div div span  ,Posted by,11,6039,67,17,1,12
+html body text div table tbody tr td div div div span  ,in,78,6039,16,17,1,12
+html body text div table tbody tr td div div div a span  ,muesli,94,6039,47,17,1,13
+html body text div table tbody tr td div div div span  ,at,141,6039,15,17,1,12
+html body text div table tbody tr td div div div a span  ,17:38,156,6039,41,17,1,13
+html body text div table tbody tr td div div div span  ,|,197,6039,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Comments (0),204,6039,96,17,0,13
+html body text div table tbody tr td div div div span  ,|,300,6039,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),307,6039,96,17,0,13
+html body text div table tbody tr td div h3 span  ,"Friday, November 10. 2006",11,6076,215,21,1,11
+html body text div table tbody tr td div h4 a span  ,sebr: Announcing Tripod,11,6119,172,17,1,12
+html body text div table tbody tr td div div div p span  ,"I am proud to announce the first release of Tripod, the premier application for managing photos on your iPod.",11,6158,631,35,1,13
+html body text div table tbody tr td div div div p span  ,"Tripod is targeted towards a KDE environment, but requires only kdelibs and libgpod (cvs), so it is easy to use in any environment. Currently, Tripod allows for creating, removing, renaming of photo albums, as well as adding and removing of photos to albums.",11,6278,637,53,1,13
+html body text div table tbody tr td div div div p span  ,"The application is very stable, but released as beta software since it is the first public offering",11,6382,601,17,1,13
+html body text div table tbody tr td div div div p span  ,.,642,6382,4,17,1,13
+html body text div table tbody tr td div div div p span  ,Enjoy!,11,6450,44,17,1,13
+html body text div table tbody tr td div div div span  ,Posted by,11,6502,67,17,1,12
+html body text div table tbody tr td div div div a span  ,Seb Ruiz,78,6502,62,17,1,13
+html body text div table tbody tr td div div div span  ,in,140,6502,16,17,1,12
+html body text div table tbody tr td div div div a span  ,sebr,156,6502,31,17,1,13
+html body text div table tbody tr td div div div span  ,at,187,6502,16,17,1,12
+html body text div table tbody tr td div div div a span  ,08:41,203,6502,40,17,1,13
+html body text div table tbody tr td div div div span  ,|,243,6502,7,17,1,12
+html body text div table tbody tr td div div div a span  ,Comments (0),250,6502,96,17,1,13
+html body text div table tbody tr td div div div span  ,|,346,6502,7,17,1,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),353,6502,96,17,1,13
+html body text div table tbody tr td div h3 span  ,"Thursday, November 2. 2006",11,6539,230,21,1,11
+html body text div table tbody tr td div h4 a span  ,apachelogger: Timeoutlogger,11,6582,200,17,1,12
+html body text div table tbody tr td div div div span  ,"Some people might know that since about a month I'm suffering from no, or actually very low, motivation to do anything. As result of this I decided to take a timeout from Amarok, KDE and FOSS development/management, for a not yet known period of time.",11,6621,607,53,1,12
+html body text div table tbody tr td div div div span  ,This will most likely start after release of Amarok 1.4.4,11,6693,355,17,1,12
+html body text div table tbody tr td div div div span  ,"I will unsubscribe from every mailing list, not aggregate planets or blogs or IT related news, not join any IRC channel, not log into my jabber account @ kdetalk, not answer any mail about Amarok, KDE or FOSS (as long as it's not really important to do so) and probably some more I didn't think of as I also stopped drinking coffee (doctor's advice).",11,6729,615,71,1,12
+html body text div table tbody tr td div div div span  ,"Now, why do I do this?",11,6819,149,17,1,12
+html body text div table tbody tr td div div div span  ,"Mainly because I have far too much responsibilities right now (not only in FOSS), and this is putting a lot of pressure on me, but also because I want to get an all new view at the whole open source movement, and last but not least, because I want to spend more time on learning French",11,6837,615,53,1,12
+html body text div table tbody tr td div div div span  ,"So, watch out for Amarok 1.4.4",11,6927,202,17,1,12
+html body text div table tbody tr td div div div span  ,Posted by,11,6945,67,17,1,12
+html body text div table tbody tr td div div div a span  ,Harald Sitter,78,6945,86,17,1,13
+html body text div table tbody tr td div div div span  ,in,164,6945,16,17,1,12
+html body text div table tbody tr td div div div a span  ,apachelogger,180,6945,90,17,1,13
+html body text div table tbody tr td div div div span  ,at,270,6945,15,17,1,12
+html body text div table tbody tr td div div div a span  ,14:32,285,6945,41,17,1,13
+html body text div table tbody tr td div div div span  ,|,326,6945,7,17,1,12
+html body text div table tbody tr td div div div a span  ,Comments (4),333,6945,96,17,1,13
+html body text div table tbody tr td div div div span  ,|,429,6945,7,17,1,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),436,6945,96,17,1,13
+html body text div table tbody tr td div h4 a span  ,apachelogger: aKademy - Hoooray!,11,6985,244,17,1,12
+html body text div table tbody tr td div div div span  ,Arrr.....,11,7024,47,17,1,12
+html body text div table tbody tr td div div div span  ,"aKademy is starting in some days, and I'm kinda busy with doing last organization for the trip (even forgot to learn for the french test tomorrow",11,7060,640,35,1,12
+html body text div table tbody tr td div div div span  ,- it's not that easy to go to Vienna (Duesseldor,318,7078,300,17,1,12
+html body text div table tbody tr td div div div span  ,f was easier at least,11,7078,612,35,1,12
+html body text div table tbody tr td div div div span  ,I will arrive on Firday 13:55 @ Dublin Airport (check,11,7132,350,17,1,12
+html body text div table tbody tr td div div div a span  ,the wiki,361,7132,56,17,1,13
+html body text div table tbody tr td div div div span  ,) and will le,417,7132,81,17,1,12
+html body text div table tbody tr td div div div span  ,ave on 7:30 the following M,11,7132,585,35,1,12
+html body text div table tbody tr td div div div span  ,onday - and currently have no clue how to go to hostel or college or anywhere,95,7150,504,17,1,12
+html body text div table tbody tr td div div div span  ,"Anyway, to make it easy for everyone to recognize and lead me to the right direction, here's a short description: tux cap on my head, big Kay on my black t-shirt, black trouser, black shoes, laptop bag on the righten side, (sliver colored) backpack on the back, a Kay pin on my jacket and no clue of anything but location of next coffee shop...",11,7168,637,71,1,12
+html body text div table tbody tr td div div div span  ,If you still have no idea how I look like:,11,7264,261,17,1,12
+html body text div table tbody tr td div div div span  ,O,11,7264,625,71,1,12
+html body text div table tbody tr td div div div span a span  ,my school,51,7318,70,17,1,14
+html body text div table tbody tr td div div div span span  ,"for making it possible to travel on Firday and Monday, so that I can at least enjoy the weekend of this year's KDE Conference.",11,7318,630,35,1,13
+html body text div table tbody tr td div div div span span span span  ,"(BTW: there will be no Amarok release, live from aKademy - 1.4.3 was just too ASAP and .4 is not finished - maybe a special aKademy snapshot, though I wonder about the sense...)",11,7408,620,22,1,15
+html body text div table tbody tr td div div div span  ,Posted by,11,7430,67,17,1,12
+html body text div table tbody tr td div div div a span  ,Harald Sitter,78,7430,86,17,1,13
+html body text div table tbody tr td div div div span  ,in,164,7430,16,17,1,12
+html body text div table tbody tr td div div div a span  ,apachelogger,180,7430,90,17,1,13
+html body text div table tbody tr td div div div span  ,at,270,7430,15,17,1,12
+html body text div table tbody tr td div div div a span  ,14:32,285,7430,41,17,1,13
+html body text div table tbody tr td div div div span  ,|,326,7430,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Comments (0),333,7430,96,17,0,13
+html body text div table tbody tr td div div div span  ,|,429,7430,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),436,7430,96,17,0,13
+html body text div table tbody tr td div h4 a span  ,"apachelogger: Re: the kay, the dee, the ee on the tee vee",11,7469,377,17,1,12
+html body text div table tbody tr td div div div span  ,"So,",11,7508,24,17,1,12
+html body text div table tbody tr td div div div a span  ,Aaron,35,7508,44,17,1,13
+html body text div table tbody tr td div div div span  ,"asked in first of his latest tripple-blog-post-mode-action (?) for visitor bump on march 15, 2005.",11,7508,619,35,1,12
+html body text div table tbody tr td div div div span  ,As we didn't use Urchin analytics back then (as we usually only use Google services if KDE doesn't offer them,11,7562,640,35,1,12
+html body text div table tbody tr td div div div span  ,"- and only Google services in that case) I can't show lovely graphics and big load of background information, but I guess Webalizer also does a good job",11,7580,629,35,1,12
+html body text div table tbody tr td div div div span  ,In particular:,11,7662,83,17,1,12
+html body text div table tbody tr td div div div span  ,Posted by,11,7690,67,17,1,12
+html body text div table tbody tr td div div div a span  ,Harald Sitter,78,7690,86,17,1,13
+html body text div table tbody tr td div div div span  ,in,164,7690,16,17,1,12
+html body text div table tbody tr td div div div a span  ,apachelogger,180,7690,90,17,1,13
+html body text div table tbody tr td div div div span  ,at,270,7690,15,17,1,12
+html body text div table tbody tr td div div div a span  ,14:32,285,7690,41,17,1,13
+html body text div table tbody tr td div div div span  ,|,326,7690,7,17,1,12
+html body text div table tbody tr td div div div a span  ,Comments (0),333,7690,96,17,1,13
+html body text div table tbody tr td div div div span  ,|,429,7690,7,17,1,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),436,7690,96,17,1,13
+html body text div table tbody tr td div h4 a span  ,apachelogger: Dublin - something to look fwd...,11,7730,323,17,1,12
+html body text div table tbody tr td div div div div span  ,"A friend recently went to Dublin for some days, and he brought interessting information with him.",11,7769,629,17,1,13
+html body text div table tbody tr td div div div div span  ,"As we can see here, MS Windows wants to welcome everybody with a well known look, which just reminds on home. In fact, this is a research done by the government, to find out whether it is possible to control the amount of visitors with such welcome messages. I can tell you, since they started to welcome visitors like this, the amount of visitors got unhalved.",11,7805,430,107,1,13
+html body text div table tbody tr td div div div div span  ,"Now, I, as an free desktop enthusiast, think we should prepare for the worst when entering the plain/train to Dublin. So, don't forget your",11,7931,430,53,1,13
+html body text div table tbody tr td div div div div a span  ,Kubuntu CD's,47,7967,101,17,1,14
+html body text div table tbody tr td div div div div span  ,", your",148,7967,47,17,1,13
+html body text div table tbody tr td div div div div a span  ,Kay-Shirts,195,7967,77,17,1,14
+html body text div table tbody tr td div div div div span  ,and last but not least the,272,7967,169,17,1,13
+html body text div table tbody tr td div div div div a span  ,Kay's,11,7985,41,17,1,14
+html body text div table tbody tr td div div div div span  ,. Also make sure you know,52,7985,186,17,1,13
+html body text div table tbody tr td div div div div a span  ,every single detail,238,7985,125,17,1,14
+html body text div table tbody tr td div div div div span  ,"about KDE, people usually take you more serious, if they notice you know what you're talking about",11,7985,430,53,1,13
+html body text div table tbody tr td div div div span  ,Posted by,11,8057,67,17,1,12
+html body text div table tbody tr td div div div a span  ,Harald Sitter,78,8057,86,17,1,13
+html body text div table tbody tr td div div div span  ,in,164,8057,16,17,1,12
+html body text div table tbody tr td div div div a span  ,apachelogger,180,8057,90,17,1,13
+html body text div table tbody tr td div div div span  ,at,270,8057,15,17,1,12
+html body text div table tbody tr td div div div a span  ,14:32,285,8057,41,17,1,13
+html body text div table tbody tr td div div div span  ,|,326,8057,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Comments (0),333,8057,96,17,0,13
+html body text div table tbody tr td div div div span  ,|,429,8057,7,17,0,12
+html body text div table tbody tr td div div div a span  ,Trackbacks (0),436,8057,96,17,0,13
+html body text div table tbody tr td div span  ,"(Page 1 of 18, totaling 257 entries)",181,8075,226,17,0,10
+html body text div table tbody tr td div a span  ,» next page,407,8075,74,17,0,11
+html body text div table tbody tr td div h3 span  ,Amarok Links,655,116,117,21,0,11
+html body text div table tbody tr td div div a span  ,Amarok Website,655,157,107,17,0,12
+html body text div table tbody tr td div div a span  ,Amarok Wiki,655,175,88,17,0,12
+html body text div table tbody tr td div div a span  ,Amarok Forum,655,193,99,17,0,12
+html body text div table tbody tr td div h3 span  ,Calendar,655,230,75,21,0,11
+html body text div table tbody tr td div div table tbody tr td b a span  ,December '06,699,270,94,17,0,17
+html body text div table tbody tr td div div table tbody tr td span  ,Mon,655,288,31,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,Tue,686,288,25,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,Wed,711,288,29,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,Thu,740,288,26,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,Fri,766,288,19,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,Sat,785,288,21,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,Sun,806,288,25,17,0,15
+html body text div table tbody tr td div div table tbody tr td a span  ,1,766,306,8,17,0,16
+html body text div table tbody tr td div div table tbody tr td span  ,2,785,306,8,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,3,806,306,8,17,0,15
+html body text div table tbody tr td div div table tbody tr td a span  ,4,655,324,8,17,0,16
+html body text div table tbody tr td div div table tbody tr td span  ,5,686,324,8,17,0,15
+html body text div table tbody tr td div div table tbody tr td a span  ,6,711,324,8,17,0,16
+html body text div table tbody tr td div div table tbody tr td a span  ,7,740,324,8,17,0,16
+html body text div table tbody tr td div div table tbody tr td span  ,8,766,324,8,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,9,785,324,8,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,10,806,324,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td a span  ,11,655,342,15,17,0,16
+html body text div table tbody tr td div div table tbody tr td span  ,12,686,342,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td a span  ,13,711,342,16,17,0,16
+html body text div table tbody tr td div div table tbody tr td span  ,14,740,342,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,15,766,342,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,16,785,342,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,17,806,342,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,18,655,360,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,19,686,360,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,20,711,360,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,21,740,360,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,22,766,360,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,23,785,360,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,24,806,360,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,25,655,378,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,26,686,378,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,27,711,378,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,28,740,378,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,29,766,378,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,30,785,378,16,17,0,15
+html body text div table tbody tr td div div table tbody tr td span  ,31,806,378,16,17,0,15
+html body text div table tbody tr td div h3 span  ,Quicksearch,655,415,100,21,0,11
+html body text div table tbody tr td div h3 span  ,Archives,655,456,70,21,0,11
+html body text div table tbody tr td div div a span  ,December 2006,655,497,102,17,0,12
+html body text div table tbody tr td div div a span  ,November 2006,655,515,104,17,0,12
+html body text div table tbody tr td div div a span  ,October 2006,655,533,88,17,0,12
+html body text div table tbody tr td div div a span  ,Recent...,655,551,56,17,0,12
+html body text div table tbody tr td div div a span  ,Older...,655,569,48,17,0,12
+html body text div table tbody tr td div h3 span  ,Categories,655,605,85,21,0,11
+html body text div table tbody tr td div div form div ul li a span  ,apachelogger,711,646,85,17,0,16
+html body text div table tbody tr td div div form div ul li a span  ,aumuell,711,664,51,17,0,16
+html body text div table tbody tr td div div form div ul li a span  ,eean,711,682,29,17,0,16
+html body text div table tbody tr td div div form div ul li a span  ,jefferai,711,700,45,17,0,16
+html body text div table tbody tr td div div form div ul li a span  ,leinir,711,718,33,17,0,16
+html body text div table tbody tr td div div form div ul li a span  ,madpenguin8,711,736,87,17,0,16
+html body text div table tbody tr td div div form div ul li a span  ,markey,711,754,48,17,0,16
+html body text div table tbody tr td div div form div ul li a span  ,muesli,711,772,42,17,0,16
+html body text div table tbody tr td div div form div ul li a span  ,mxcl,711,790,32,17,0,16
+html body text div table tbody tr td div div form div ul li a span  ,oggb4mp3,711,808,68,17,0,16
+html body text div table tbody tr td div div form div ul li a span  ,sebr,711,826,26,17,0,16
+html body text div table tbody tr td div div form div ul li a span  ,shanachie,711,844,63,17,0,16
+html body text div table tbody tr td div div form div div a span  ,All categories,655,898,89,17,0,15
+html body text div table tbody tr td div h3 span  ,Syndicate This Blog,655,935,159,21,0,11
+html body text div table tbody tr td div div div a span  ,RSS 0.91 feed,711,976,92,17,0,13
+html body text div table tbody tr td div div div a span  ,RSS 1.0 feed,711,996,84,17,0,13
+html body text div table tbody tr td div div div a span  ,RSS 2.0 feed,711,1016,84,17,0,13
+html body text div table tbody tr td div div div a span  ,ATOM 0.3 feed,655,1036,173,35,0,13
+html body text div table tbody tr td div div div a span  ,ATOM 1.0 feed,655,1074,173,35,0,13
+html body text div table tbody tr td div div div a span span  ,RSS 2.0 Comments,655,1130,126,17,0,14
+html body text div table tbody tr td div h3 span  ,Blog Administration,655,1168,163,21,0,11
+html body text div table tbody tr td div div a span  ,Open login screen,655,1209,116,17,0,12
+html body text div table tbody tr td div h3 span  ,We Listen To...,655,1246,119,21,0,11
+html body text div table tbody tr td div h3 span  ,Powered by,655,1321,94,21,0,11

@@ -1,0 +1,582 @@
+tag,content,x,y,width,height,label,depth
+html body text div div span  ,Notify Blogger about objectionable content.,8,8,282,17,0,6
+html body text div div a span  ,What does this mean?,8,26,141,17,0,7
+html body text div div a span  ,Send via SMS,8,32,92,17,0,7
+html body text div form div a span  ,BlogThis!,8,69,65,17,0,8
+html body text div table tbody tr td div a span  ,Counter,8,103,34,10,0,11
+html body text div div div div div div h1 a span  ,Effect Measure,8,134,208,36,1,12
+html body text div div div div div div p span  ,Effect Measure is a forum for progressive public health discussion and argument as well as a source of public health information from around the web that interests the Editor(s),8,193,744,35,1,11
+html body text div div div div div div div h2 span  ,"Tuesday, April 05, 2005",8,249,239,26,0,12
+html body text div div div div div div div div h3 span  ,H7 in North Korea,8,296,151,21,1,13
+html body text div div div div div div div div div div span  ,"Reports from Pyongyang, North Korea today seem to indicate that the unidentified bird flu strain afflicting North Korean poultry is of the H7, not H5, sub-type.",8,336,769,35,1,14
+html body text div div div div div div div div div div a span  ,AP,331,354,27,17,1,15
+html body text div div div div div div div div div div span  ,"says this has been confirmed by FAO, but",358,354,293,17,1,14
+html body text div div div div div div div div div div a span  ,New Scientist,651,354,98,17,1,15
+html body text div div div div div div div div div div span  ,"says evidence is ""indirect"" (according to a different FAO source), where ""indirect"" means the North Koreans prepared a vaccine from the sick birds and the vaccinated birds showed antibodies to H7.",8,354,769,53,1,14
+html body text div div div div div div div div div div span  ,"If the infection is with H7 subtype this would seem to be good news as human cases with H7 have not been particularly severe. H7N2 has been reported in poultry in the US (Delaware) and H7N7 caused a large outbreak in poultry in 2003 in The Netherlands which jumped to humans. Most cases manifested as conjunctivitis (""pink eye"") and a small number (3) showed typical influenza-like symptoms (cough, fever, muscle aches). The only serious case involved a veterinarian who visited one of the farms and developed fatal respiratory distress syndrome.",8,426,769,89,1,14
+html body text div div div div div div div div div div span  ,"Relatively mild disease, yes. But the fly in the ointment is that this avian virus also showed itself to be quite transmissible to and among people. Eighty-three cases were reported initially among poultry workers with three possible subsequent transmissions to family members. A",8,534,769,53,1,14
+html body text div div div div div div div div div div a span  ,follow-up blood study,386,570,152,17,1,15
+html body text div div div div div div div div div div span  ,"with 500 farmers, their families and workers involved in the massive cull initially showed no antibodies to H7, even in those with confirmed infection. It turned out the hemagglutination assay (to see if a subject's blood serum made red blood cells clump together, a standard test for prior infection) worked with horse red blood cells, not the standard turkey rbcs. Even using horse rbcs, only about 50% of the previously infected patients showed agglutination, still not very sensitive. Using the modified assay, Dutch investigators estimated that at least 1000 and perhaps as many as 2000 people may have been infected. More importantly, close family contacts of poultry workers had a 59% seroprevalence of H7 antibodies, suggesting person to person transmission on large scale. Some other pertinent technical results:",8,570,769,143,1,14
+html body text div div div div div div div div div div blockquote span span  ,". . . having measurable antibodies was associated with having conjunctivitis (RR 1.72; 95% CI 0.99-2.99), and a lower proportion of the exposed persons who took prophylactic antiviral medication developed antibodies (corrected OR 0.48; 95% CI 0.25-0.89).",48,730,689,47,1,16
+html body text div div div div div div div div div div blockquote span span  ,"Neither poultry farmers nor those engaged in controlling the epidemic complied satisfactorily with preventive measures. Only 6% of farmers reported consistent use of facial masks and 1% reported consistent use of goggles while working with infected poultry. In cullers, compliance was only slightly better: 25% consistently used facial masks and 13% used goggles. The results of the epidemiological study suggest that oseltamivir protected against conjunctivitis (corrected OR=0.14; 95% CI=0.08C0.27) as well as against infection without specific symptoms. No protective effect was demonstrable for safety goggles or mouth-nose masks.",48,794,689,95,1,16
+html body text div div div div div div div div div div span  ,"Meanwhile, the North Koreans are declaring the outbreak over (Right. Maybe they want to sell me a bridge over the Yalu?). Even if true, questions remain, as New Scientist notes:",8,906,769,35,1,14
+html body text div div div div div div div div div div blockquote span span  ,"But this is a mystery, as an outbreak of H7 has never been recorded in east Asia before. â€œThe North Koreans say they have destroyed all the sick chickens, and the outbreak is now over,â€? says [the FAO scientist]. â€œThatâ€™s good for the Koreans. But weâ€™d like a sample of tissue from the infected birds so we can isolate the virus.â€?",48,958,689,47,1,16
+html body text div div div div div div div div div div blockquote span span  ,"A genetic sequence might help trace the strainâ€™s origins, and whether it has mixed with other Asian strains.",48,1022,602,15,1,16
+html body text div div div div div div div div div div span  ,So the evidence has been destroyed? I'll bet it's still there. The problem will be getting it before it migrates elsewhere.,8,1054,753,17,1,14
+html body text div div div div div div div div p em span  ,posted by Revere at,8,1092,129,17,0,14
+html body text div div div div div div div div p em a span  ,3:19 PM,137,1092,57,17,0,15
+html body text div div div div div div div div span  ,|,8,1126,3,17,0,12
+html body text div div div div div div div div p a span  ,<< Home,8,1160,61,17,0,14
+html body text div div div div div div div ul font span  ,In epidemiology an,48,1194,80,11,1,13
+html body text div div div div div div div ul font i span  ,effect,128,1194,24,11,1,14
+html body text div div div div div div div ul font span  ,is the endpoint of a causal mechanism. An,152,1194,172,11,1,13
+html body text div div div div div div div ul font i span  ,effect measure,324,1194,60,11,1,14
+html body text div div div div div div div ul font span  ,"is anestimate of the influence of a particular factor on a population's health. The Editors of Effect Measure are seniorpublic health scientists and practitioners. Their names wouldbe immediately recognizable to many in the public health community.They prefer to keep their online and public lives separate to allow maximum freedom of expression. Paul Revere was a member of the first local Board of Health in the United States (Boston, 1799). The Editors signtheir posts ""Revere"" to recognize the public service of aprofessional forerunner better known for other things.",48,1194,725,44,1,13
+html body text div div div div div div div ul span  ,This work is licensed under a,48,1272,192,17,0,12
+html body text div div div div div div div ul a span  ,Creative Commons License,240,1272,182,17,0,13
+html body text div div div div div div div ul span  ,.,422,1272,4,17,0,12
+html body text div div div div div div div ul a span  ,Contact the Editors,48,1306,124,17,0,13
+html body text div div div div div div div h2 span  ,Recent Posts,8,1344,130,26,0,12
+html body text div div div div div div div ul li a span  ,Not even the worst,48,1391,121,17,0,14
+html body text div div div div div div div ul li a span  ,Just in time or too late?,48,1409,150,17,0,14
+html body text div div div div div div div ul li a span  ,Lakoff - XV: the movement hesitates,48,1427,237,17,0,14
+html body text div div div div div div div ul li a span  ,The North Korean problem--and ours,48,1445,240,17,0,14
+html body text div div div div div div div ul li a span  ,Tasered 68 year old didn't know Dick,48,1463,240,17,0,14
+html body text div div div div div div div ul li a span  ,Ms. Schiavo and the children of Iraq,48,1481,234,17,0,14
+html body text div div div div div div div ul li a span  ,Beyond irony. Way-y-y beyond.,48,1499,205,17,0,14
+html body text div div div div div div div ul li a span  ,You bet your life,48,1517,108,17,0,14
+html body text div div div div div div div ul li a span  ,CDC fallout cover-up,48,1535,139,17,0,14
+html body text div div div div div div div ul li a span  ,Reading Secretary Leavitt's mail,48,1553,209,17,0,14
+html body text div div div div div div div ul h2 span  ,Recent Comments,48,1591,187,26,0,13
+html body text div div div div div div div ul ul h2 span  ,Lakoff Posts,88,1638,129,26,0,14
+html body text div div div div div div div ul ul li a span  ,Lakoff - XVIII: Lakoff vs. Lakoff,88,1685,217,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lakoff - XVII: reference frames versus framing,88,1703,305,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lakoff - XVI: public health and language,88,1721,265,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lakoff - XV: the movement hesitates,88,1739,237,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lakoff - XIV: public health,88,1757,175,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lakoff - XIII: Strict Father,88,1775,172,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Lakoff - XII: ""family values""",88,1793,187,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lakoff - XI: the moral toolbox,88,1811,196,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lakoff - X: thinking about morality metaphorically,88,1829,328,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lakoff IX: moral accounting,88,1847,184,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lakoff VIII: entering the thicket of morality,88,1865,282,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lakoff VII: his important contribution to political discourse,88,1883,382,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lakoff VI: prelude to politics,88,1901,188,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lakoff V: setting the stage,88,1919,169,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lakoff IV: complex metaphors,88,1937,197,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lakoff III: embodied concepts,88,1955,195,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lakoff II: preliminaries,88,1973,151,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lakoff I: who is George Lakoff?,88,1991,208,17,0,15
+html body text div div div div div div div ul ul h2 span  ,Bird Flu Posts,88,2029,147,26,0,14
+html body text div div div div div div div ul ul li a span  ,The luck of the Irish,88,2076,131,17,0,15
+html body text div div div div div div div ul ul li a span  ,Dumb and dumber in the Middle East,88,2094,242,17,0,15
+html body text div div div div div div div ul ul li a span  ,The expected,88,2112,86,17,0,15
+html body text div div div div div div div ul ul li a span  ,Oklahoma has flu (but not bird flu),88,2130,225,17,0,15
+html body text div div div div div div div ul ul li a span  ,WHO update on H5N1 mutations,88,2148,215,17,0,15
+html body text div div div div div div div ul ul li a span  ,Maybe it won't be so bad,88,2166,161,17,0,15
+html body text div div div div div div div ul ul li a span  ,"What, them worry?",88,2184,124,17,0,15
+html body text div div div div div div div ul ul li a span  ,Wedding party in Iraq,88,2202,140,17,0,15
+html body text div div div div div div div ul ul li a span  ,What did we buy for $33 billion -- and why?,88,2220,287,17,0,15
+html body text div div div div div div div ul ul li a span  ,Flawed reasoning in India,88,2238,167,17,0,15
+html body text div div div div div div div ul ul li a span  ,Vaccine breakthrough,88,2256,144,17,0,15
+html body text div div div div div div div ul ul li a i span  ,du jour,232,2256,47,17,0,16
+html body text div div div div div div div ul ul li a span  ,The waiting game,88,2274,116,17,0,15
+html body text div div div div div div div ul ul li a span  ,Tell 'em what you know,88,2292,154,17,0,15
+html body text div div div div div div div ul ul li a span  ,Dr. Quackenbush is in,88,2310,142,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lowy Institute report on economic effects of bird flu,88,2328,337,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lots of places plus Indonesia,88,2346,187,17,0,15
+html body text div div div div div div div ul ul li a span  ,"One, two, many . . .",88,2364,126,17,0,15
+html body text div div div div div div div ul ul li a span  ,The Dying Swan,88,2382,108,17,0,15
+html body text div div div div div div div ul ul li a span  ,Iraq is a special case,88,2400,131,17,0,15
+html body text div div div div div div div ul ul li a span  ,"""It's no news"" is bad news",88,2418,167,17,0,15
+html body text div div div div div div div ul ul li a span  ,A trainwreck in slow motion,88,2436,183,17,0,15
+html body text div div div div div div div ul ul li a span  ,Coming soon to a neighborhood near you,88,2454,266,17,0,15
+html body text div div div div div div div ul ul li a span  ,Take a deep breath. Hold it.,88,2472,177,17,0,15
+html body text div div div div div div div ul ul li a span  ,Qinghai Express to Nigeria,88,2490,175,17,0,15
+html body text div div div div div div div ul ul li a span  ,The Beat goes on,88,2508,112,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Bird flu bloggers on the ""sailor case""",88,2526,237,17,0,15
+html body text div div div div div div div ul ul li a span  ,Housekeeping,88,2544,92,17,0,15
+html body text div div div div div div div ul ul li a span  ,New CDC test: what is RT-PCR?,88,2562,212,17,0,15
+html body text div div div div div div div ul ul li a span  ,K Street comes to Turkey,88,2580,164,17,0,15
+html body text div div div div div div div ul ul li a span  ,More on Iraq bird flu,88,2598,136,17,0,15
+html body text div div div div div div div ul ul li a span  ,Facing up to the flu vaccine challenge,88,2616,243,17,0,15
+html body text div div div div div div div ul ul li a span  ,Nature's terrorist now in Iraq,88,2634,185,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu in Iraq: confirming the obvious,88,2652,254,17,0,15
+html body text div div div div div div div ul ul li a span  ,Another suspected case in Iraq,88,2670,196,17,0,15
+html body text div div div div div div div ul ul li a span  ,Quick vaccine cycle follow-up,88,2688,197,17,0,15
+html body text div div div div div div div ul ul li a span  ,Quick vaccine cycle?,88,2706,137,17,0,15
+html body text div div div div div div div ul ul li a span  ,Not betting against the spread,88,2724,191,17,0,15
+html body text div div div div div div div ul ul li a span  ,Another China sharing post (sigh),88,2742,218,17,0,15
+html body text div div div div div div div ul ul li a span  ,Early warning or false hope?,88,2760,185,17,0,15
+html body text div div div div div div div ul ul li a span  ,Excuse me while I interrupt,88,2778,178,17,0,15
+html body text div div div div div div div ul ul li a span  ,Talking Turkey with the neighbors,88,2796,221,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Background science for the Turkish mutations, IV (conclusion)",88,2814,404,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Iraq bird flu ""all clear"" is cloudy",88,2832,208,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Background science for the Turkish mutations, recap and III.",88,2850,389,17,0,15
+html body text div div div div div div div ul ul li a span  ,Cats and bird flu,88,2868,107,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Background science for the Turkish mutations, II.",88,2886,318,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Background science for the Turkish mutations, I.",88,2904,313,17,0,15
+html body text div div div div div div div ul ul li a span  ,Marking time in Turkey,88,2922,153,17,0,15
+html body text div div div div div div div ul ul li a span  ,Protecting workers from bird flu,88,2940,208,17,0,15
+html body text div div div div div div div ul ul li a span  ,Turkish lessons,88,2958,99,17,0,15
+html body text div div div div div div div ul ul li a span  ,Fiddling while Rome burns,88,2976,176,17,0,15
+html body text div div div div div div div ul ul li a span  ,More on the sequences from Turkey,88,2994,232,17,0,15
+html body text div div div div div div div ul ul li a span  ,Flu iceberg no surprise,88,3012,147,17,0,15
+html body text div div div div div div div ul ul li a span  ,When WHO is straightforward I should say so,88,3030,297,17,0,15
+html body text div div div div div div div ul ul li a span  ,IEDs and bird flu,88,3048,112,17,0,15
+html body text div div div div div div div ul ul li a span  ,What's up with Turkey?,88,3066,153,17,0,15
+html body text div div div div div div div ul ul li a span  ,Uneasiness about Turkey,88,3084,161,17,0,15
+html body text div div div div div div div ul ul li a span  ,Turkey: the possibilities,88,3102,154,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu in Turkey: static on the station,88,3120,248,17,0,15
+html body text div div div div div div div ul ul li a span  ,Turkeys on Turkey,88,3138,121,17,0,15
+html body text div div div div div div div ul ul li a span  ,The bubbling Turkish cauldron,88,3156,199,17,0,15
+html body text div div div div div div div ul ul li a span  ,Turkey: wait and see,88,3174,133,17,0,15
+html body text div div div div div div div ul ul li a span  ,Turkey at this point,88,3192,125,17,0,15
+html body text div div div div div div div ul ul li a span  ,The tears remain,88,3210,108,17,0,15
+html body text div div div div div div div ul ul li a span  ,"""A load of tosh,"" or . . .",88,3228,149,17,0,15
+html body text div div div div div div div ul ul li a span  ,Additional (obvious) thoughts on Turkey,88,3246,262,17,0,15
+html body text div div div div div div div ul ul li a span  ,Boston hospital learns uncomfortable pandemic lessons,88,3282,356,17,0,15
+html body text div div div div div div div ul ul li a span  ,The news media and bird flu,88,3300,184,17,0,15
+html body text div div div div div div div ul ul li a span  ,Human bird flu is in Turkey (alas),88,3318,219,17,0,15
+html body text div div div div div div div ul ul li a span  ,Avian flu-themed computer Trojan horses,88,3336,267,17,0,15
+html body text div div div div div div div ul ul li a span  ,Here's an (awful) idea . . .,88,3354,165,17,0,15
+html body text div div div div div div div ul ul li a span  ,The Turkish cases,88,3372,116,17,0,15
+html body text div div div div div div div ul ul li a span  ,China's sharing problem and puzzling new case,88,3390,304,17,0,15
+html body text div div div div div div div ul ul li a span  ,Chicken fingers pointing,88,3408,159,17,0,15
+html body text div div div div div div div ul ul li a span  ,Role of migratory wild birds and what to do about it (if anything),88,3426,419,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu and peace in the Middle East?,88,3444,247,17,0,15
+html body text div div div div div div div ul ul li a span  ,Happy New (flu) Year,88,3462,142,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Chinese bird flu transparency: two steps forward, one step back?",88,3480,414,17,0,15
+html body text div div div div div div div ul ul li a span  ,The magic bullet loses some of its magic,88,3498,262,17,0,15
+html body text div div div div div div div ul ul li a span  ,"China's virus, China's vaccine",88,3516,192,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Sign here, I'll fill in the amount later",88,3534,233,17,0,15
+html body text div div div div div div div ul ul li a span  ,WHO Handbook for Journalists online,88,3552,248,17,0,15
+html body text div div div div div div div ul ul li a span  ,Praise Big Pharma and pass the ammunition,88,3570,283,17,0,15
+html body text div div div div div div div ul ul li a span  ,Is the flu vaccine problem only skin deep?,88,3588,271,17,0,15
+html body text div div div div div div div ul ul li a span  ,Flu vaccine results: small step on a long road,88,3606,289,17,0,15
+html body text div div div div div div div ul ul li a span  ,Dr. Kiselyov sells a bridge in Brooklyn,88,3624,251,17,0,15
+html body text div div div div div div div ul ul li a span  ,"FDA warns maker of Vira-38 and eight other ""flu cures""",88,3642,360,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Burlington, Ontario's Flu-Phix",88,3660,195,17,0,15
+html body text div div div div div div div ul ul li a span  ,Operation bikeride,88,3678,120,17,0,15
+html body text div div div div div div div ul ul li a span  ,Continental cartogram and bird flu,88,3696,222,17,0,15
+html body text div div div div div div div ul ul li a span  ,Not a walk in the park with Fido,88,3714,208,17,0,15
+html body text div div div div div div div ul ul li a span  ,Trusting China on bird flu,88,3732,167,17,0,15
+html body text div div div div div div div ul ul li a span  ,Pride and prejudice and bird flu in Indonesia,88,3750,286,17,0,15
+html body text div div div div div div div ul ul li a span  ,The Shortridge paper,88,3768,136,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lip reading,88,3786,74,17,0,15
+html body text div div div div div div div ul ul li a span  ,Getting ready for being not ready,88,3804,214,17,0,15
+html body text div div div div div div div ul ul li a span  ,Being Blunt,88,3822,78,17,0,15
+html body text div div div div div div div ul ul li a span  ,The adjuvant puzzle piece,88,3840,167,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu x-ry picture,88,3858,129,17,0,15
+html body text div div div div div div div ul ul li a span  ,Rx for AIDS and flu pandemic fatigue,88,3876,245,17,0,15
+html body text div div div div div div div ul ul li a span  ,"""Why don't they believe us?""",88,3894,187,17,0,15
+html body text div div div div div div div ul ul li a span  ,Still loose in Pennsylvania but not to worry,88,3912,278,17,0,15
+html body text div div div div div div div ul ul li a span  ,About time,88,3930,72,17,0,15
+html body text div div div div div div div ul ul li a span  ,Poisoning pigeons in the park (tra la),88,3948,237,17,0,15
+html body text div div div div div div div ul ul li a span  ,Dr. Toshiro clarifies (or does he?),88,3966,215,17,0,15
+html body text div div div div div div div ul ul li a span  ,Public health Maginot line,88,3984,170,17,0,15
+html body text div div div div div div div ul ul li a span  ,China syndrome,88,4002,105,17,0,15
+html body text div div div div div div div ul ul li a span  ,Chinese news stories,88,4020,134,17,0,15
+html body text div div div div div div div ul ul li a span  ,Nursing advice,88,4038,97,17,0,15
+html body text div div div div div div div ul ul li a span  ,The short and the long of the US - China announcement,88,4056,358,17,0,15
+html body text div div div div div div div ul ul li a span  ,Chinese viruses not available to other scientists,88,4074,303,17,0,15
+html body text div div div div div div div ul ul li a span  ,Proof and disproof,88,4092,120,17,0,15
+html body text div div div div div div div ul ul li a span  ,All the time in the world,88,4110,158,17,0,15
+html body text div div div div div div div ul ul li a span  ,Chinese transparency compromised?,88,4128,235,17,0,15
+html body text div div div div div div div ul ul li a span  ,Crystal ball becomes cloudier still,88,4146,219,17,0,15
+html body text div div div div div div div ul ul li a span  ,China,88,4164,38,17,0,15
+html body text div div div div div div div ul ul li a span  ,Sick at work,88,4182,81,17,0,15
+html body text div div div div div div div ul ul li a span  ,Savingme and myself,88,4200,139,17,0,15
+html body text div div div div div div div ul ul li a span  ,In defense of The Flu Wiki: reply to Mattison,88,4218,291,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Planflu, III.: stillborn",88,4236,136,17,0,15
+html body text div div div div div div div ul ul li a span  ,How and when to close schools?,88,4254,209,17,0,15
+html body text div div div div div div div ul ul li a span  ,My tern,88,4272,51,17,0,15
+html body text div div div div div div div ul ul li a span  ,Flu chip: patently mine (and yours),88,4290,226,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu's Flying Dutchman policy,88,4308,220,17,0,15
+html body text div div div div div div div ul ul li a span  ,Quick bird flu status summary,88,4326,195,17,0,15
+html body text div div div div div div div ul ul li a span  ,Homeland security in charge of pandemic?,88,4344,275,17,0,15
+html body text div div div div div div div ul ul li a span  ,Beyond the fringe,88,4362,116,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Plan flu, II.: the Edward R. Murrow version",88,4380,281,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Plan flu, I.",88,4398,68,17,0,15
+html body text div div div div div div div ul ul li a span  ,Someone to watch over me,88,4416,174,17,0,15
+html body text div div div div div div div ul ul li a span  ,They liked it,88,4434,82,17,0,15
+html body text div div div div div div div ul ul li a span  ,Watch the birdies,88,4452,112,17,0,15
+html body text div div div div div div div ul ul li a span  ,Grimm reapers,88,4470,96,17,0,15
+html body text div div div div div div div ul ul li a span  ,October (selective roundup),88,4488,179,17,0,15
+html body text div div div div div div div ul ul li a span  ,The plan behind the plan,88,4506,159,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu tit for tat,88,4524,110,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu in Kurdish Iraq?,88,4542,159,17,0,15
+html body text div div div div div div div ul ul li a span  ,As I was saying . . .,88,4560,126,17,0,15
+html body text div div div div div div div ul ul li a span  ,Walking on egg shells,88,4578,141,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Democrats, bird flu and ""the vision thing""",88,4596,269,17,0,15
+html body text div div div div div div div ul ul li a span  ,The specter of 1976,88,4614,128,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu employment issues,88,4632,176,17,0,15
+html body text div div div div div div div ul ul li a span  ,Dis-Orent-ing,88,4650,90,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lugon's challenge,88,4668,116,17,0,15
+html body text div div div div div div div ul ul li a span  ,The cavalry isn't coming,88,4686,158,17,0,15
+html body text div div div div div div div ul ul li a span  ,Controlling our fears,88,4704,134,17,0,15
+html body text div div div div div div div ul ul li a span  ,How far (genetically) to a human H5N1?,88,4722,263,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu economic effects: the future is now,88,4740,279,17,0,15
+html body text div div div div div div div ul ul li a span  ,Not amused either,88,4758,117,17,0,15
+html body text div div div div div div div ul ul li a span  ,Hard travelin',88,4776,88,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu iceberg,88,4794,101,17,0,15
+html body text div div div div div div div ul ul li a span  ,You can't stop a wrecking ball in mid-swing,88,4812,282,17,0,15
+html body text div div div div div div div ul ul li a span  ,Jailbirds,88,4830,54,17,0,15
+html body text div div div div div div div ul ul li a span  ,Clustering,88,4848,67,17,0,15
+html body text div div div div div div div ul ul li a span  ,One of the Reveres gives a TV interview?,88,4866,268,17,0,15
+html body text div div div div div div div ul ul li a span  ,"""Don't panic""",88,4884,87,17,0,15
+html body text div div div div div div div ul ul li a span  ,"""Overdue for a pandemic""",88,4902,168,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Et tu, Greece?",88,4920,91,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Top secret, part trois",88,4938,131,17,0,15
+html body text div div div div div div div ul ul li a span  ,Generic Tamiflu,88,4956,105,17,0,15
+html body text div div div div div div div ul ul li a span  ,More instances of Tamiflu resistance?,88,4974,243,17,0,15
+html body text div div div div div div div ul ul li a span  ,Romanian results: H5N1,88,4992,159,17,0,15
+html body text div div div div div div div ul ul li a span  ,Tamiflu resistance revisited,88,5010,177,17,0,15
+html body text div div div div div div div ul ul li a span  ,The message is the message,88,5028,180,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Romania, Turkey, now Bulgaria?",88,5046,212,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Top secret, part 2",88,5064,111,17,0,15
+html body text div div div div div div div ul ul li a span  ,Promise you won't tell,88,5082,144,17,0,15
+html body text div div div div div div div ul ul li a span  ,The question of generic Tamiflu,88,5100,206,17,0,15
+html body text div div div div div div div ul ul li a span  ,US poultry workers,88,5118,126,17,0,15
+html body text div div div div div div div ul ul li a span  ,H5N1 phone home,88,5136,122,17,0,15
+html body text div div div div div div div ul ul li a span  ,Reply to Peter Sandman,88,5154,155,17,0,15
+html body text div div div div div div div ul ul li a span  ,Romanian and Turkish update,88,5172,192,17,0,15
+html body text div div div div div div div ul ul li a span  ,Pandemic Flu Awareness Week ends with a beginning,88,5190,345,17,0,15
+html body text div div div div div div div ul ul li a span  ,Dead birds in Romania and Turkey,88,5208,224,17,0,15
+html body text div div div div div div div ul ul li a span  ,Annas on Bush quarantine,88,5226,169,17,0,15
+html body text div div div div div div div ul ul li a span  ,Draft plan leaked to,88,5244,132,17,0,15
+html body text div div div div div div div ul ul li a i span  ,The Times,220,5244,65,17,0,16
+html body text div div div div div div div ul ul li a span  ,Ratcheting up on bird flu,88,5262,161,17,0,15
+html body text div div div div div div div ul ul li a span  ,Hypocrisy at bird flu meeting,88,5280,189,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bush and the fu virus: and evolving relationship,88,5298,308,17,0,15
+html body text div div div div div div div ul ul li a span  ,Key assumptions in US pandemic planning,88,5316,277,17,0,15
+html body text div div div div div div div ul ul li a span  ,Tamiflu resistance: maybe not,88,5334,193,17,0,15
+html body text div div div div div div div ul ul li a span  ,Learning from the 1918 virus,88,5352,188,17,0,15
+html body text div div div div div div div ul ul li a span  ,Indonesia: still looking bad,88,5370,175,17,0,15
+html body text div div div div div div div ul ul li a span  ,Float and flush,88,5388,96,17,0,15
+html body text div div div div div div div ul ul li a span  ,Pandemic flu crony,88,5406,125,17,0,15
+html body text div div div div div div div ul ul li a span  ,Another Indonesian death,88,5424,165,17,0,15
+html body text div div div div div div div ul ul li a span  ,School-age flu,88,5442,94,17,0,15
+html body text div div div div div div div ul ul li a span  ,Enforcing a regional quarantine in the US with the military?,88,5460,385,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Indonesia's ""poultry link""",88,5478,163,17,0,15
+html body text div div div div div div div ul ul li a span  ,Dog flu,88,5496,49,17,0,15
+html body text div div div div div div div ul ul li a span  ,PFAW,88,5514,42,17,0,15
+html body text div div div div div div div ul ul li a span  ,The teachable moment is here,88,5532,192,17,0,15
+html body text div div div div div div div ul ul li a span  ,Flu data constipation at CDC: laxative needed,88,5550,295,17,0,15
+html body text div div div div div div div ul ul li a span  ,Life as we know it,88,5568,119,17,0,15
+html body text div div div div div div div ul ul li a span  ,Important idea for local planners,88,5586,210,17,0,15
+html body text div div div div div div div ul ul li a span  ,PFAW: Pandemic Flu Awareness Week,88,5604,250,17,0,15
+html body text div div div div div div div ul ul li a span  ,"East Java, suspect case",88,5622,147,17,0,15
+html body text div div div div div div div ul ul li a span  ,County Supervisor gets it,88,5640,163,17,0,15
+html body text div div div div div div div ul ul li a span  ,Braindead take notice,88,5658,140,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu and statins,88,5676,122,17,0,15
+html body text div div div div div div div ul ul li a span  ,Playing soon in a community near you?,88,5694,254,17,0,15
+html body text div div div div div div div ul ul li a span  ,On being foolish,88,5712,108,17,0,15
+html body text div div div div div div div ul ul li a span  ,Thoughtful or provoking?,88,5730,166,17,0,15
+html body text div div div div div div div ul ul li a span  ,Indonesia's birds in the hand,88,5748,182,17,0,15
+html body text div div div div div div div ul ul li a span  ,Jakarta's bird flu levees,88,5766,150,17,0,15
+html body text div div div div div div div ul ul li a span  ,Flying to the US: me and what else?,88,5784,232,17,0,15
+html body text div div div div div div div ul ul li a span  ,Predictable responses,88,5802,138,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Indonesia situation still evolving, WHO's isn't",88,5820,294,17,0,15
+html body text div div div div div div div ul ul li a span  ,. . . and still no plan,88,5838,127,17,0,15
+html body text div div div div div div div ul ul li a span  ,Where is Tom Ridge now that we need him?,88,5856,285,17,0,15
+html body text div div div div div div div ul ul li a span  ,Ostrich industry thriving,88,5874,158,17,0,15
+html body text div div div div div div div ul ul li a span  ,The World Reassurance Organization (aka WHO),88,5892,318,17,0,15
+html body text div div div div div div div ul ul li a span  ,No transparency at CDC on flu data,88,5910,230,17,0,15
+html body text div div div div div div div ul ul li a span  ,Indonesia: simmering or boiling?,88,5928,213,17,0,15
+html body text div div div div div div div ul ul li a span  ,Indonesia: international experts converge,88,5946,264,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu conventional wisdom?,88,5964,199,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Indonesia, more",88,5982,103,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu: H2H in Indonesia,88,6000,172,17,0,15
+html body text div div div div div div div ul ul li a span  ,"US ""plan"" still in draft form",88,6018,179,17,0,15
+html body text div div div div div div div ul ul li a span  ,Indonesia: working hard but not working smart,88,6036,302,17,0,15
+html body text div div div div div div div ul ul li a span  ,Another Indonesian bird flu case,88,6054,210,17,0,15
+html body text div div div div div div div ul ul li a span  ,"WHO: ""almost the last stage"" before pandemic",88,6072,300,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu concern in Europe,88,6090,172,17,0,15
+html body text div div div div div div div ul ul li a span  ,Thai newspaper: pandemic phase 4?,88,6108,232,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu response: you gotta believe,88,6126,229,17,0,15
+html body text div div div div div div div ul ul li a span  ,Where are the Dems on bird flu?,88,6144,210,17,0,15
+html body text div div div div div div div ul ul li a span  ,Finland?,88,6162,56,17,0,15
+html body text div div div div div div div ul ul li a span  ,Civet surprise(?),88,6180,107,17,0,15
+html body text div div div div div div div ul ul li a span  ,Geographic spread of H5N1,88,6198,181,17,0,15
+html body text div div div div div div div ul ul li a span  ,The Bird Flu Game: Who's on First?,88,6216,234,17,0,15
+html body text div div div div div div div ul ul li a span  ,"EU plans, and the US . . . ?",88,6234,173,17,0,15
+html body text div div div div div div div ul ul li a span  ,(Some) docs get alerted about bird flu,88,6252,243,17,0,15
+html body text div div div div div div div ul ul li a span  ,Crossing the threshold to Europe,88,6270,211,17,0,15
+html body text div div div div div div div ul ul li a span  ,People are beginning to notice,88,6288,195,17,0,15
+html body text div div div div div div div ul ul li a span  ,Is Canada more clear eyed?,88,6306,177,17,0,15
+html body text div div div div div div div ul ul li a span  ,"""I've looked at flu from both sides now"" (hum along)",88,6324,339,17,0,15
+html body text div div div div div div div ul ul li a span  ,Keystone Cops place orders for bird flu vaccine,88,6342,306,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu maps,88,6360,88,17,0,15
+html body text div div div div div div div ul ul li a span  ,The Karl rove bird flu strategy,88,6378,196,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu model dilemma,88,6396,154,17,0,15
+html body text div div div div div div div ul ul li a span  ,Dallas News: praise where deserved,88,6414,232,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu vaccine? Taking the (very) long view,88,6432,292,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Flu vaccine vaporware, Acambis-style",88,6450,245,17,0,15
+html body text div div div div div div div ul ul li a span  ,On the mirage of stopping bird flu,88,6468,220,17,0,15
+html body text div div div div div div div ul ul li a span  ,Flu virus infects joke,88,6486,136,17,0,15
+html body text div div div div div div div ul ul li a span  ,A Bird Flu Commission?,88,6504,160,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu: next stop Europe?,88,6522,174,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu mixed messages and nixed messages,88,6540,290,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Vietnam, Indonesia, Russia, China",88,6558,221,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Indonesian chickenshit, bullshit style",88,6576,237,17,0,15
+html body text div div div div div div div ul ul li a span  ,Why doesn't this give me confidence?,88,6594,243,17,0,15
+html body text div div div div div div div ul ul li a span  ,What so proudly we're blind to . . .,88,6612,222,17,0,15
+html body text div div div div div div div ul ul li a span  ,Company privacy and bird flu antivirals,88,6630,256,17,0,15
+html body text div div div div div div div ul ul li a span  ,"""Nevermind what we said"": the UK's best laid plans go astray",88,6648,395,17,0,15
+html body text div div div div div div div ul ul li a span  ,Three? Orange? Give it up,88,6666,171,17,0,15
+html body text div div div div div div div ul ul li a span  ,Rationing: flu leadership in short supply,88,6684,258,17,0,15
+html body text div div div div div div div ul ul li a span  ,Indonesia starts to get ready,88,6702,180,17,0,15
+html body text div div div div div div div ul ul li a span  ,"""Dutch Farmer"" responds",88,6720,163,17,0,15
+html body text div div div div div div div ul ul li a span  ,Indonesia: interim update,88,6738,164,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Leadership on flu in Seattle, but where else?",88,6756,284,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu: now only bad news is believable,88,6774,267,17,0,15
+html body text div div div div div div div ul ul li a span  ,Flu wiki update,88,6792,100,17,0,15
+html body text div div div div div div div ul ul li a span  ,New Vietnamese cases and Indonesian update,88,6810,294,17,0,15
+html body text div div div div div div div ul ul li a span  ,"""Indonesian cases"" rumor and bad bargains",88,6828,276,17,0,15
+html body text div div div div div div div ul ul li a span  ,Thai bird flu again (of course),88,6846,193,17,0,15
+html body text div div div div div div div ul ul li a i span  ,"Caveat emptor, redux",88,6864,137,17,0,16
+html body text div div div div div div div ul ul li a span  ,China's new rules again,88,6882,152,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu n the unfriendly skies,88,6900,192,17,0,15
+html body text div div div div div div div ul ul li a span  ,Chinese checkers,88,6918,112,17,0,15
+html body text div div div div div div div ul ul li a span  ,Killing your chickens far from home,88,6936,235,17,0,15
+html body text div div div div div div div ul ul li a span  ,Flu wiki is one week old,88,6954,158,17,0,15
+html body text div div div div div div div ul ul li a span  ,Malaysia meeting on bird flu issues urgent call for chickenfeed,88,6972,404,17,0,15
+html body text div div div div div div div ul ul li a span  ,Meeting in Malaysia,88,6990,132,17,0,15
+html body text div div div div div div div ul ul li a span  ,Flu bloggers in the press,88,7008,157,17,0,15
+html body text div div div div div div div ul ul li a span  ,"EDs shrinking: Some ""diversions"" aren't that amusing",88,7026,345,17,0,15
+html body text div div div div div div div ul ul li a span  ,Not bad news isn't necessarily good news,88,7044,266,17,0,15
+html body text div div div div div div div ul ul li a span  ,"EU gets ready, US doesn't get it",88,7062,203,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird die-off in China,88,7080,134,17,0,15
+html body text div div div div div div div ul ul li a span  ,Kondrackula,88,7098,83,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Flu: ""We're not in Kansas anymore""",88,7116,230,17,0,15
+html body text div div div div div div div ul ul li a span  ,No surprise (which isn't good),88,7134,194,17,0,15
+html body text div div div div div div div ul ul li a span  ,How much H5N1 infection in Vietnam?,88,7152,256,17,0,15
+html body text div div div div div div div ul ul li a span  ,China syndrome,88,7170,105,17,0,15
+html body text div div div div div div div ul ul li a span  ,Chinese antiviral practice is chickenfeed,88,7188,259,17,0,15
+html body text div div div div div div div ul ul li a span  ,A history lesson from Recombinomics and more on China,88,7206,372,17,0,15
+html body text div div div div div div div ul ul li a span  ,The body yields some evidence on bird flu,88,7224,273,17,0,15
+html body text div div div div div div div ul ul li a span  ,More cases in Vietnam,88,7242,147,17,0,15
+html body text div div div div div div div ul ul li a span  ,The Flu Wiki,88,7260,85,17,0,15
+html body text div div div div div div div ul ul li a span  ,"War, peace and bird flu",88,7278,149,17,0,15
+html body text div div div div div div div ul ul li a span  ,What is to be done,88,7296,120,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Eat, drink and be merry, for tomorro . . .",88,7314,257,17,0,15
+html body text div div div div div div div ul ul li a span  ,The sound of shit hitting the fan?,88,7332,212,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Osterholm: ""We're screwed.""",88,7350,186,17,0,15
+html body text div div div div div div div ul ul li a span  ,Silence from vietnamese officials,88,7368,214,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu signal in north vietnam?,88,7386,209,17,0,15
+html body text div div div div div div div ul ul li a span  ,Chinese bird flu situation,88,7404,162,17,0,15
+html body text div div div div div div div ul ul li a span  ,Sharp marketing,88,7422,106,17,0,15
+html body text div div div div div div div ul ul li a span  ,Dead geese in Xinjiang,88,7440,150,17,0,15
+html body text div div div div div div div ul ul li a span  ,Obama and Lugar on bird flu,88,7458,187,17,0,15
+html body text div div div div div div div ul ul li a span  ,Moronic and globally incompetent,88,7476,222,17,0,15
+html body text div div div div div div div ul ul li a span  ,Tamiflu (oseltamevir) and some other antivirals,88,7494,305,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu entrenched in Indonesia,88,7512,207,17,0,15
+html body text div div div div div div div ul ul li a span  ,Vietnamese bird flu vaccine effort withdrawn,88,7530,291,17,0,15
+html body text div div div div div div div ul ul li a span  ,Migratory bird deaths in China: number increases,88,7548,318,17,0,15
+html body text div div div div div div div ul ul li a span  ,Decisive inaction on bird flu,88,7566,183,17,0,15
+html body text div div div div div div div ul ul li a span  ,The party's over. Time to call it a day.,88,7584,241,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Qinghai, as of now",88,7602,122,17,0,15
+html body text div div div div div div div ul ul li a span  ,"China's ""isolated"" bird flu outbreak",88,7620,226,17,0,15
+html body text div div div div div div div ul ul li a span  ,Historic special issue on avian flu in,88,7638,237,17,0,15
+html body text div div div div div div div ul ul li a i span  ,Nature,325,7638,44,17,0,16
+html body text div div div div div div div ul ul li a span  ,New York City (almost) gets it,88,7656,196,17,0,15
+html body text div div div div div div div ul ul li a span  ,Lack of bird flu action a national scandal,88,7674,263,17,0,15
+html body text div div div div div div div ul ul li a span  ,Activists dismiss bird flu fears,88,7692,196,17,0,15
+html body text div div div div div div div ul ul li a span  ,Friday blogrollin' (Saturday edition): bird flu sites revisited,88,7710,379,17,0,15
+html body text div div div div div div div ul ul li a span  ,Northern virus genetics scarce,88,7728,194,17,0,15
+html body text div div div div div div div ul ul li a span  ,Warning: idiots loose in Pennsylvania,88,7746,242,17,0,15
+html body text div div div div div div div ul ul li a span  ,WHO's chilling warning,88,7764,157,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Preparedness is now ""damage control""?",88,7782,254,17,0,15
+html body text div div div div div div div ul ul li a span  ,Another bird flu case in Vietnam,88,7800,210,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu pot still simmers,88,7818,161,17,0,15
+html body text div div div div div div div ul ul li a span  ,WHO protests (too much?),88,7836,174,17,0,15
+html body text div div div div div div div ul ul li a span  ,"It's serious, Klaus",88,7854,114,17,0,15
+html body text div div div div div div div ul ul li a span  ,Faulty bird flu tests,88,7890,125,17,0,15
+html body text div div div div div div div ul ul li a span  ,Time's up,88,7908,62,17,0,15
+html body text div div div div div div div ul ul li a span  ,Taking bird flu seriously,88,7926,158,17,0,15
+html body text div div div div div div div ul ul li a span  ,H5N1 worry steps up a notch,88,7944,188,17,0,15
+html body text div div div div div div div ul ul li a span  ,Pandemic in slow motion?,88,7962,170,17,0,15
+html body text div div div div div div div ul ul li a span  ,How much bird flu in Vietnam?,88,7980,204,17,0,15
+html body text div div div div div div div ul ul li a span  ,Better than even is bad,88,7998,147,17,0,15
+html body text div div div div div div div ul ul li a span  ,What's going on in Ho Chi Minh City?,88,8016,249,17,0,15
+html body text div div div div div div div ul ul li a span  ,Death information and information dearth,88,8034,268,17,0,15
+html body text div div div div div div div ul ul li a span  ,North Korea wants help,88,8052,153,17,0,15
+html body text div div div div div div div ul ul li a span  ,Reading the entrails,88,8070,128,17,0,15
+html body text div div div div div div div ul ul li a span  ,"""Calling"" a pandemic",88,8088,137,17,0,15
+html body text div div div div div div div ul ul li a span  ,H7 in North Korea,88,8106,120,17,0,15
+html body text div div div div div div div ul ul li a span  ,Not even the worst,88,8124,121,17,0,15
+html body text div div div div div div div ul ul li a span  ,Just in time or too late?,88,8142,150,17,0,15
+html body text div div div div div div div ul ul li a span  ,The North Korean problem--and ours,88,8160,240,17,0,15
+html body text div div div div div div div ul ul li a span  ,You bet your life,88,8178,108,17,0,15
+html body text div div div div div div div ul ul li a span  ,Haiphong and North Korea,88,8196,175,17,0,15
+html body text div div div div div div div ul ul li a span  ,If a tree doesn't fall in the forest . . .,88,8214,228,17,0,15
+html body text div div div div div div div ul ul li a i span  ,US News,88,8232,62,17,0,16
+html body text div div div div div div div ul ul li a span  ,on bird flu,150,8232,68,17,0,15
+html body text div div div div div div div ul ul li a span  ,Quang Binh status still unclear,88,8250,197,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu recap,88,8268,89,17,0,15
+html body text div div div div div div div ul ul li a span  ,The shoe is still on the other foot,88,8286,211,17,0,15
+html body text div div div div div div div ul ul li a span  ,Preparing for a pandemic: GMAFB,88,8304,228,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Pandemic ""To Do"" list: some initial thoughts",88,8322,287,17,0,15
+html body text div div div div div div div ul ul li a span  ,Quang Binh: earning trust,88,8340,167,17,0,15
+html body text div div div div div div div ul ul li a span  ,More on Quang Binh,88,8358,136,17,0,15
+html body text div div div div div div div ul ul li a span  ,Very worrying bird flu report,88,8376,187,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu miscellany,88,8394,124,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Tamiflu: Dylan's retort, part III (conclusion)",88,8412,283,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Tamiflu: Dylan's retort, part II",88,8430,193,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Tamiflu: Dylan's retort, part I",88,8448,188,17,0,15
+html body text div div div div div div div ul ul li a span  ,Tamiflu storage and adverse reactions,88,8466,242,17,0,15
+html body text div div div div div div div ul ul li a span  ,Worrying new case of bird flu in Vietnam,88,8484,266,17,0,15
+html body text div div div div div div div ul ul li a span  ,The Department of Public Reassurance,88,8502,251,17,0,15
+html body text div div div div div div div ul ul li a span  ,How oseltamivir (Tamiflu) works (and does it?),88,8520,306,17,0,15
+html body text div div div div div div div ul ul li a span  ,Two ways to get it wrong but only one is right,88,8538,296,17,0,15
+html body text div div div div div div div ul ul li a span  ,Open questions remain open,88,8556,183,17,0,15
+html body text div div div div div div div ul ul li a span  ,Nurse with bird flu in Vietnam: source uncertain,88,8574,310,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Automation, chicken shit and sole food",88,8592,252,17,0,15
+html body text div div div div div div div ul ul li a span  ,Recent bird flu developments,88,8610,189,17,0,15
+html body text div div div div div div div ul ul li a span  ,"""Chicken Flu"" and the bioterrorism drumbeat",88,8628,290,17,0,15
+html body text div div div div div div div ul ul li a span  ,Keeping track and chasing the numbers,88,8646,253,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Tamiflu: worth ""considering""",88,8664,188,17,0,15
+html body text div div div div div div div ul ul li a i span  ,The New Yorker,88,8682,107,17,0,16
+html body text div div div div div div div ul ul li a span  ,article,195,8682,40,17,0,15
+html body text div div div div div div div ul ul li a span  ,And another (Hanoi),88,8700,133,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Another new case in Thai Binh and the question of ""clusters""",88,8718,391,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Vietnam, new bird flu death reported",88,8736,236,17,0,15
+html body text div div div div div div div ul ul li a span  ,No sense of a real emergency,88,8754,189,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu on NPR,88,8772,105,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Vietnam, 19th case",88,8790,122,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu: a day late and a dollar short,88,8808,235,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Vietnam, 18th case",88,8826,122,17,0,15
+html body text div div div div div div div ul ul li a span  ,Influenza and bioterrorism: a note of caution,88,8844,286,17,0,15
+html body text div div div div div div div ul ul li a span  ,CDC's little corner of the world,88,8862,202,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Bird flu ""Sword of Damocles""",88,8880,194,17,0,15
+html body text div div div div div div div ul ul li a span  ,Stockpiling bird flu vaccine,88,8898,178,17,0,15
+html body text div div div div div div div ul ul li a span  ,Influenza planning at the local level,88,8916,230,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu: neurotropic and underestimated?,88,8934,268,17,0,15
+html body text div div div div div div div ul ul li a span  ,An Open Letter to WHO,88,8952,159,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Bird flu news: bad, good, bad?",88,8970,197,17,0,15
+html body text div div div div div div div ul ul li a span  ,Is bird flu vaccine for the birds?,88,8988,205,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu sites: update,88,9006,134,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu: Thailand culls ducks,88,9024,191,17,0,15
+html body text div div div div div div div ul ul li a span  ,The Recombinomics conundrum,88,9042,210,17,0,15
+html body text div div div div div div div ul ul li a span  ,Chinese bird flu vaccine: two steps forward or one step back?,88,9060,395,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Bird flu and bird farms, part IV",88,9078,201,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Bird flu and bird farms, part III",88,9096,200,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Bird flu and bird farms, part II",88,9114,195,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu and bird farms,88,9132,148,17,0,15
+html body text div div div div div div div ul ul li a span  ,H5N1 continues to spread in poultry,88,9150,233,17,0,15
+html body text div div div div div div div ul ul li a span  ,Brief history of H5N1,88,9168,142,17,0,15
+html body text div div div div div div div ul ul li a span  ,Cambodian warning,88,9186,130,17,0,15
+html body text div div div div div div div ul ul li a span  ,An,88,9204,24,17,0,15
+html body text div div div div div div div ul ul li a i span  ,LA Times,112,9204,63,17,0,16
+html body text div div div div div div div ul ul li a span  ,bird flu article,175,9204,92,17,0,15
+html body text div div div div div div div ul ul li a span  ,Changes in bird culling practices in Vietnam,88,9222,285,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu: quick weekend update (1/29 - 1/31),88,9240,287,17,0,15
+html body text div div div div div div div ul ul li a span  ,10 year old Vietnamese girl has died. Victim number 12.,88,9258,361,17,0,15
+html body text div div div div div div div ul ul li a span  ,"""Botanical antiviral"":",88,9276,140,17,0,15
+html body text div div div div div div div ul ul li a i span  ,caveat emptor,228,9276,91,17,0,16
+html body text div div div div div div div ul ul li a span  ,Bird flu sites,88,9294,83,17,0,15
+html body text div div div div div div div ul ul li a span  ,Dismaying and predictable,88,9312,172,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu: update,88,9330,101,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu: select agents and red tape,88,9348,222,17,0,15
+html body text div div div div div div div ul ul li a i span  ,The New England Journal's,88,9366,182,17,0,16
+html body text div div div div div div div ul ul li a span  ,bird flu articles,270,9366,98,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu and bullshit,88,9384,129,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu tsunami headed this way?,88,9402,219,17,0,15
+html body text div div div div div div div ul ul li a span  ,Hitting the bird flu snooze alarm again,88,9420,248,17,0,15
+html body text div div div div div div div ul ul li a span  ,Still more bird flu in Viet Nam - and Thailand,88,9438,294,17,0,15
+html body text div div div div div div div ul ul li a i span  ,Nature,88,9456,48,17,0,16
+html body text div div div div div div div ul ul li a span  ,chimes in,136,9456,62,17,0,15
+html body text div div div div div div div ul ul li a span  ,More bird flu in Viet Nam,88,9474,168,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu cluelessness,88,9492,132,17,0,15
+html body text div div div div div div div ul ul li a span  ,Viet Nam: bird flu epicenter,88,9510,180,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu: red flags in the east,88,9528,183,17,0,15
+html body text div div div div div div div ul ul li a span  ,CDC Director's missing intestinal tract,88,9546,248,17,0,15
+html body text div div div div div div div ul ul li a span  ,US shows no urgency,88,9564,140,17,0,15
+html body text div div div div div div div ul ul li a span  ,Cautionary note on avian flu and tsunami,88,9582,265,17,0,15
+html body text div div div div div div div ul ul li a span  ,A risky experiment,88,9600,123,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird flu danger signals from Japan,88,9618,222,17,0,15
+html body text div div div div div div div ul ul li a span  ,How long can you hold your breath?,88,9636,235,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Suspect cases of H5N1 in Kyoto, Japan",88,9654,253,17,0,15
+html body text div div div div div div div ul ul li a span  ,Good summary of bird flu H5N1,88,9672,211,17,0,15
+html body text div div div div div div div ul ul li a span  ,Preparing for bird flu: time to reboot?,88,9690,242,17,0,15
+html body text div div div div div div div ul ul li a span  ,"""Earth to DHHS...""",88,9708,124,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Bird flu: ""Holding our breath""",88,9726,193,17,0,15
+html body text div div div div div div div ul ul li a span  ,Trying to count future flu deaths,88,9744,208,17,0,15
+html body text div div div div div div div ul ul li a span  ,Hong Kong plans for bird flu,88,9762,187,17,0,15
+html body text div div div div div div div ul ul li a span  ,More on H5N1 and why we worry,88,9780,221,17,0,15
+html body text div div div div div div div ul ul li a span  ,H5N1 not confirmed: French case not bird flu,88,9798,294,17,0,15
+html body text div div div div div div div ul ul li a span  ,Start of bird flu?,88,9816,106,17,0,15
+html body text div div div div div div div ul ul li a span  ,Influenza and leadership,88,9834,157,17,0,15
+html body text div div div div div div div ul ul li a span  ,The Next Big Thing,88,9852,129,17,0,15
+html body text div div div div div div div ul mainorarchivepage h2 span  ,Archives,48,9890,90,26,0,14
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,November 2004,88,9937,104,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,December 2004,88,9955,102,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,January 2005,88,9973,86,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,February 2005,88,9991,94,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,March 2005,88,10009,78,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,April 2005,88,10027,70,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,May 2005,88,10045,65,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,June 2005,88,10063,65,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,July 2005,88,10081,63,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,August 2005,88,10099,82,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,September 2005,88,10117,104,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,October 2005,88,10135,88,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,November 2005,88,10153,104,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,December 2005,88,10171,102,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,January 2006,88,10189,86,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,February 2006,88,10207,94,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,March 2006,88,10225,78,17,0,16
+html body text div div div div div div div ul mainorarchivepage ul li a span  ,April 2006,88,10243,70,17,0,16
+html body text div div div div div div div ul div h2 span  ,Contributors,48,10280,135,26,0,14
+html body text div div div div div div div ul div ul li a span  ,Cervantes,88,10327,64,17,0,16
+html body text div div div div div div div ul div ul li a span  ,Revere,88,10345,45,17,0,16
+html body text div div div div div div div ul ul h2 span  ,Public Health/Medical Links,88,10383,295,26,0,14
+html body text div div div div div div div ul ul li a span  ,Am. J. of Bioethics/Editor's Blog,88,10430,213,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bird Flu Info,88,10448,84,17,0,15
+html body text div div div div div div div ul ul li a span  ,BrooklynDodger,88,10466,108,17,0,15
+html body text div div div div div div div ul ul li a span  ,Code Blue Blog,88,10484,103,17,0,15
+html body text div div div div div div div ul ul li a span  ,Code Three,88,10502,75,17,0,15
+html body text div div div div div div div ul ul li a span  ,Confined Space,88,10520,102,17,0,15
+html body text div div div div div div div ul ul li a span  ,Environmental Health News,88,10538,182,17,0,15
+html body text div div div div div div div ul ul li a span  ,Genetics and Public Health,88,10556,175,17,0,15
+html body text div div div div div div div ul ul li a span  ,Health Care Renewal,88,10574,137,17,0,15
+html body text div div div div div div div ul ul li a span  ,Healthmongers,88,10592,98,17,0,15
+html body text div div div div div div div ul ul li a span  ,Impact Analysis,88,10610,104,17,0,15
+html body text div div div div div div div ul ul li a span  ,isemmelweis,88,10628,84,17,0,15
+html body text div div div div div div div ul ul li a span  ,Join Together,88,10646,87,17,0,15
+html body text div div div div div div div ul ul li a span  ,JournalClub,88,10664,78,17,0,15
+html body text div div div div div div div ul ul li a span  ,LSU Medical Law Blog,88,10682,154,17,0,15
+html body text div div div div div div div ul ul li a span  ,Maternal and Child Health,88,10700,171,17,0,15
+html body text div div div div div div div ul ul li a span  ,Notes on Wildlife and Disease,88,10718,195,17,0,15
+html body text div div div div div div div ul ul li a span  ,Public Health Press,88,10736,125,17,0,15
+html body text div div div div div div div ul ul li a span  ,Stayin' Alive,88,10754,82,17,0,15
+html body text div div div div div div div ul ul li a span  ,The Rest of the Story (Tobacco),88,10772,205,17,0,15
+html body text div div div div div div div ul ul li a span  ,U.S. Food Policy,88,10790,110,17,0,15
+html body text div div div div div div div ul ul h2 span  ,Other Links,88,10828,126,26,0,14
+html body text div div div div div div div ul ul li a span  ,AxisofLogic,88,10875,81,17,0,15
+html body text div div div div div div div ul ul li a span  ,Billmon,88,10893,52,17,0,15
+html body text div div div div div div div ul ul li a span  ,Bouphonia,88,10911,70,17,0,15
+html body text div div div div div div div ul ul li a span  ,Chris Mooney,88,10929,92,17,0,15
+html body text div div div div div div div ul ul li a span  ,DailyKos,88,10947,61,17,0,15
+html body text div div div div div div div ul ul li a span  ,Daubert on the Web,88,10965,128,17,0,15
+html body text div div div div div div div ul ul li a span  ,Diderot's Lounge,88,10983,111,17,0,15
+html body text div div div div div div div ul ul li a span  ,The Grist Magazine,88,11001,128,17,0,15
+html body text div div div div div div div ul ul li a span  ,James Wolcott,88,11019,93,17,0,15
+html body text div div div div div div div ul ul li a span  ,Judging the Future,88,11037,120,17,0,15
+html body text div div div div div div div ul ul li a span  ,Just a Bump in the Beltway,88,11055,176,17,0,15
+html body text div div div div div div div ul ul li a span  ,Majikthise (Philosophy/Political/General),88,11073,268,17,0,15
+html body text div div div div div div div ul ul li a span  ,myDD,88,11091,44,17,0,15
+html body text div div div div div div div ul ul li a span  ,Pharyngula,88,11109,73,17,0,15
+html body text div div div div div div div ul ul li a span  ,Post-Normal Times,88,11127,125,17,0,15
+html body text div div div div div div div ul ul li a span  ,Political Site of the Day,88,11145,154,17,0,15
+html body text div div div div div div div ul ul li a span  ,"Sadly, No",88,11163,63,17,0,15
+html body text div div div div div div div ul ul li a span  ,Science and Politics,88,11181,129,17,0,15
+html body text div div div div div div div ul ul li a span  ,Truthout,88,11199,55,17,0,15
+html body text div div div div div div div ul ul li a span  ,War and Piece (Laura Rozen),88,11217,189,17,0,15
+html body text div div div div div div div ul ul h2 span  ,Iraq,88,11255,45,26,0,14
+html body text div div div div div div div ul ul li a span  ,Iraq Coalition Casualties Count,88,11302,202,17,0,15
+html body text div div div div div div div ul ul li a span  ,Today in Iraq,88,11320,86,17,0,15
+html body text div div div div div div div ul ul h2 span  ,Group Efforts,88,11358,146,26,0,14
+html body text div div div div div div div ul ul a h2 span  ,Site Feed/Atom,88,11444,158,26,0,15
+html body text div div div div div div div ul ul span  ,/RSS,92,11490,33,17,0,13

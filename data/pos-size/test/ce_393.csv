@@ -1,0 +1,84 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Water Control,0,0,529,18,0,6
+html body text table tbody tr td p font b nobr span  ,[,45,8,14,26,0,12
+html body text table tbody tr td p font b nobr a span  ,Start,59,8,58,26,0,13
+html body text table tbody tr td p font b nobr span  ,],117,8,14,26,0,12
+html body text table tbody tr td p font b nobr span  ,[,131,8,14,26,0,12
+html body text table tbody tr td p font b nobr a span  ,Omhoog,145,8,94,26,0,13
+html body text table tbody tr td p font b nobr span  ,],239,8,14,26,0,12
+html body text table tbody tr td p font b nobr span  ,[,253,8,13,26,0,12
+html body text table tbody tr td p font b nobr a span  ,Water Management System,266,8,290,26,0,13
+html body text table tbody tr td p font b nobr span  ,],556,8,14,26,0,12
+html body text table tbody tr td p font b nobr span  ,[,570,8,14,26,0,12
+html body text table tbody tr td p font b nobr a span  ,Macro Design,584,8,148,26,0,13
+html body text table tbody tr td p font b nobr span  ,],732,8,8,26,0,12
+html body text table tbody tr td p font b nobr span  ,[,61,35,14,26,0,12
+html body text table tbody tr td p font b nobr a span  ,Micro Design,75,35,143,26,0,13
+html body text table tbody tr td p font b nobr span  ,],218,35,14,26,0,12
+html body text table tbody tr td p font b nobr span  ,[ Water Control ],232,35,183,26,0,12
+html body text table tbody tr td p font b nobr span  ,[,415,35,14,26,0,12
+html body text table tbody tr td p font b nobr a span  ,Model Areas,429,35,136,26,0,13
+html body text table tbody tr td p font b nobr span  ,],565,35,14,26,0,12
+html body text table tbody tr td p font b nobr span  ,[,579,35,14,26,0,12
+html body text table tbody tr td p font b nobr a span  ,Institutions,593,35,123,26,0,13
+html body text table tbody tr td p font b nobr span  ,],716,35,8,26,0,12
+html body text table tbody tr td p font b nobr span  ,[,202,62,13,26,0,12
+html body text table tbody tr td p font b nobr a span  ,Agriculture,215,62,125,26,0,13
+html body text table tbody tr td p font b nobr span  ,],340,62,14,26,0,12
+html body text table tbody tr td p font b nobr span  ,[,354,62,14,26,0,12
+html body text table tbody tr td p font b nobr a span  ,Information system,368,62,207,26,0,13
+html body text table tbody tr td p font b nobr span  ,],575,62,8,26,0,12
+html body text table tbody tr td p font b span  ,Water Control,309,89,198,36,1,11
+html body text table tbody tr td p font strong a span  ,Operationmanuals,39,142,132,17,1,12
+html body text table tbody tr td p font strong span  ,"for the control structures and the recommended water management areavailable with the Ministry of Public Works. Areas are grouped in Water Management Zones.For each Water Management Zone in a Scheme there is a detailed description for operationdepending on the crops grown, their growth stage and a number of physical characteristics.",39,142,738,71,1,11
+html body text table tbody tr td p font big strong em span  ,Factors having aninfluence on the soil and water management:,39,248,503,21,1,13
+html body text table tbody tr td table tbody tr td font font strong span  ,Plowing.,80,286,63,17,1,15
+html body text table tbody tr td table tbody tr td font font span  ,"Plowing of the rootzone followed by sun-drying up to two weeks of the clods improves the effect of the following leaching and puddling of the soil. Together with the puddling, the Plowing is the most efficient way to leach out the toxic elements from the root-zone.",80,286,686,53,1,14
+html body text table tbody tr td table tbody tr td font strong font a span  ,Puddling,80,340,66,17,1,16
+html body text table tbody tr td table tbody tr td font strong font span  ,(with pump irrigation).,146,340,163,17,1,15
+html body text table tbody tr td table tbody tr td font span  ,"Leaching and Puddling will require pump irrigation to make the soil sufficiently wet. Puddly and soft wet soil is a requisite to the growth of rice up to the end of the tillering stage. When the soil is puddly and soft there are relatively wide spaces between the soil particles, there is a low percentage of the solid phase and both bulk density and hardness are low. These conditions favour rice plant growth and absorption of nutrients. After a number of years, with repeated cycles of puddling, the formed plow-layer will encourage much better water control.",80,340,684,107,1,13
+html body text table tbody tr td table tbody tr td font font strong a span  ,Sun-drying,80,448,81,17,1,16
+html body text table tbody tr td table tbody tr td font strong font span  ,(mid-season),161,448,91,17,1,15
+html body text table tbody tr td table tbody tr td font font span  ,.,252,448,8,17,1,14
+html body text table tbody tr td table tbody tr td font span  ,Drainage of the rice field between the end of the tillering stage and the panicle differentiation stage will lead to higher yields. Rice roots will extend more deeply and stems grow more strongly. Drainage will increase the portion of the most active white roots of the rice plant and will decrease the number of non-active black roots. This drainage will also cause the soil to become more hard and compact by sun drying. According Cheng (1984) the presence of white roots against black roots is a good indicator that sufficient drainage has been applied.,80,448,691,107,1,13
+html body text table tbody tr td table tbody tr td font font strong a span  ,Leaching/percolation,80,556,149,17,1,16
+html body text table tbody tr td table tbody tr td font font strong span  ,.,229,556,8,17,1,15
+html body text table tbody tr td table tbody tr td font span  ,The main aim for the water management is to promote leaching/percolation by controlled drainage during periods with rainfall. It will be difficult to provide sufficient water for 8 mm/day percolation. It appears that leaching is most essential during planting and early growth of the transplanted rice. Pump irrigation during this period should be highly recommended for real high yields. Water supply may include acid canal water as it has little effect on the yield and can be used to provide sufficient percolation.,80,556,688,107,1,13
+html body text table tbody tr td table tbody tr td font strong font a span  ,Water levels up to 30 cm below land surface,80,664,303,17,1,16
+html body text table tbody tr td table tbody tr td font strong font span  ,during the growth period of rice in areas no pump irrigation will be applied.,80,664,646,35,1,15
+html body text table tbody tr td table tbody tr td font span  ,Water levels are preferred to drop up to 30 cm below surface,257,682,393,17,1,13
+html body text table tbody tr td table tbody tr td font font strong span  ,in very acid soils,650,682,113,17,1,15
+html body text table tbody tr td table tbody tr td font span  ,"which has not be puddled and leached by extra pump irrigation. These water level below surface does not affect the yields in these rice fields of the swamp lands. During periods with high rainfall mostly the groundwater levels will be higher. The groundwater level should not drop below 30 cm below land level. The groundwater levels drop up to 30 cm below surface will not be necessary anymore in soils subject to several cycles of plowing, leaching and puddling with pump irrigation.",80,700,675,89,1,13
+html body text table tbody tr td table tbody tr td font strong font a span  ,Ripe soils,80,790,69,17,1,16
+html body text table tbody tr td table tbody tr td font strong font span  ,.,149,790,8,17,1,15
+html body text table tbody tr td table tbody tr td font span  ,"Ripe soils are in advantage over less-ripened, soft soils for high yields. These soils can also be better puddled and are less subject to toxic conditions. Ripe soils in the swamplands will be formed after long periods of dryness during the dry season.",80,790,685,53,1,13
+html body text table tbody tr td table tbody tr td font strong font a span  ,Groundwater drop below 60 cm during dry season,80,844,348,17,1,16
+html body text table tbody tr td table tbody tr td font strong font span  ,.,428,844,8,17,1,15
+html body text table tbody tr td table tbody tr td font span  ,"A long dry period in the dry season when groundwater levels drop below 60 cm depth will have a very positive effect on the next crop.The positive effect is attributed to better aeration of the soil, oxidation of toxic organic compounds and increased permeability by crack forming in the poorly drained clay soils. In wet years the drop of groundwater will hardly occur during the dry season. Therefore an field drainage system is required. For the Acid Sulphate soils it is essential that sufficient percolation can be applied after the dry season, during the next growing season. In these conditions the El NiÃ±o effect of 1997/98 resulted in peak high yields for the following growing season in the Telang project of South Sumatra province.The same positive effect in acid sulphate soils has been recorded for the Saleh project (South Sumatra) in 1994/95, also after an extreme long dry season. Computer Model Simulations based on acid sulphate soil oxidation and leaching, also show that a deep drop of groundwater below the pyrite layer does not influence the toxicity in the next growing season, when normal percolation quantities (4-8 mm/day) are applied during the growing season of the rice.",80,844,687,215,1,13
+html body text table tbody tr td table tbody tr td font font strong a span  ,Flushing and avoiding slackwater conditions.,80,1060,312,17,1,16
+html body text table tbody tr td table tbody tr td font span  ,From an environmental point of view it is necessary to avoid acid conditions in the canals. Potentials for fisheries will increase with better quality water. Better quality water can be obtained by avoiding the slackwater conditions in canals. It is a matter of,80,1060,665,53,1,13
+html body text table tbody tr td table tbody tr td font a span  ,Design,685,1096,49,17,1,14
+html body text table tbody tr td table tbody tr td font span  ,to improve water movements in the Primary and Secondary canals.,80,1096,667,35,1,13
+html body text table tbody tr td p font big span  ,Without,39,1158,67,21,1,11
+html body text table tbody tr td p font big a span  ,mechanised land preparation,106,1158,225,21,1,12
+html body text table tbody tr td p font big span  ,including pump irrigation during land preparation and early planting of the rice cropthere will be no high yields possible!,39,1158,707,43,1,11
+html body text table tbody tr td p font strong big span  ,So what are the main (most important)objectives of the soil & water management system?,39,1236,735,21,1,12
+html body text table tbody tr td table tbody tr td font strong font span  ,Controlled drainage.,80,1274,146,17,1,15
+html body text table tbody tr td table tbody tr td font font span  ,During most of the time in the wet season: Groundwater levels should not exceeding 30 cm below land surface. During the dry season groundwater levels should be at about 60 cm below surface for most of the time.,80,1274,692,53,1,14
+html body text table tbody tr td table tbody tr td font font strong span  ,Flushing of canal water and avoiding slackwater conditions.,80,1328,412,17,1,15
+html body text table tbody tr td table tbody tr td font font span  ,Double connected canals and one-way flow in the main canals in areas far away from the river. (2-3 km and more),80,1328,692,35,1,14
+html body text table tbody tr td p font strong big big span  ,Gate operation,39,1394,154,26,1,13
+html body text table tbody tr td p font strong big big big span  ,:,193,1390,9,31,1,14
+html body text table tbody tr td p font big span  ,Objectives for soil/water management are fulfilled bythe,39,1438,440,21,1,11
+html body text table tbody tr td p font big a span  ,operation of the control gates,479,1438,229,21,1,12
+html body text table tbody tr td p font big span  ,". A gateusually consist of a sliding gate and stoplogs. Four types of operation are defined forthe Tidal Swamp Schemes: Retention, Controlled Drainage, Supply and Maximum Drainage. Ofthese operations the Controlled Drainage is the most important operation which will befunctioning for most of the time in Indonesia.",39,1438,705,109,1,11
+html body text table tbody tr td p font span  ,"The operation of the gates has been practicedand monitored in the Model areas. It proves that the most difficult operation is watersupply, because it requires frequent visits to the gates and careful watch of the tidesfor a good result. For that reason water supply operation should be preferable carried outnear the home-stead's. (SPD secondary canal). Controlled drainage is the most easyoperation and should be preferable carried out on the other side (SDU secondary canal).See",39,1821,725,89,1,10
+html body text table tbody tr td p font a span  ,Design Macro,249,1893,95,17,1,11
+html body text table tbody tr td p font span  ,.,344,1893,4,17,1,10
+html body text table tbody tr td p font span  ,A description of the operation guidelines isgiven in WebPage,39,1927,395,17,1,10
+html body text table tbody tr td p font a span  ,Model Area,434,1927,80,17,1,11
+html body text table tbody tr td p font span  ,.,514,1927,4,17,0,10
+html body text table tbody tr td p font span  ,Back to,39,1964,53,17,0,10
+html body text table tbody tr td p font a font big strong span  ,Top,92,1961,32,21,0,14
+html body text table tbody tr td p font span  ,See also,39,1999,57,17,0,10
+html body text table tbody tr td p font a span  ,Table of Contents.,96,1999,117,17,0,11

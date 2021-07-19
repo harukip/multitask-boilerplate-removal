@@ -1,0 +1,358 @@
+tag,content,x,y,width,height,label,depth
+html body text h1 span  ,Diastolic Heart Failure,8,8,314,36,1,5
+html body text div p span  ,The heart's pumping cycle has 2 phases,262,79,256,17,1,6
+html body text div p b span  ,:,518,79,5,17,1,7
+html body text div p span span  ,Diastole,373,115,39,11,1,7
+html body text div p span span  ,(pronounced,298,126,85,17,1,7
+html body text div p span b span  ,:,382,126,9,17,1,8
+html body text div p span span  ,die ass tuh lee),392,126,95,17,1,7
+html body text div p span  ,the heart muscle relaxes and fills with blood,251,144,283,17,1,6
+html body text div p span span  ,Systole,375,180,35,11,1,7
+html body text div p span span  ,(pronounced,311,191,85,17,1,7
+html body text div p span b span  ,:,396,191,9,17,1,8
+html body text div p span span  ,sis tuh lee),405,191,69,17,1,7
+html body text div p span  ,the heart muscle contracts (squeezes) and pumps blood out into the body,178,209,429,35,1,6
+html body text p span span  ,"updated July 5, 2006",8,298,91,10,1,6
+html body text p span  ,"- People think of heart failure as a condition where the heart does not pump out enough blood. That is called systolic heart failure. However, many",8,292,740,35,1,5
+html body text p a span  ,CHFers,294,310,54,17,1,6
+html body text p span  ,"have a different kind of heart failure - caused when the heart does not fully relax, so it does not fill properly with blood. This is called diastolic heart failure. This page is about diastolic heart failure or DHF.",8,310,760,53,1,5
+html body text p span  ,"In mild DHF,",8,364,89,17,1,5
+html body text p a span  ,SOB,97,364,36,17,1,6
+html body text p span  ,"and fatigue usually only happen during stress or activity. More severe DHF causes many of the same symptoms that systolic heart failure or SHF, causes.",8,364,732,35,1,5
+html body text p span  ,A person with DHF has high pressures in the arteries of their lungs - pulmonary pressure. Their heart's pumping chambers may not be enlarged and their,8,400,716,35,1,5
+html body text p a span  ,ejection fraction,268,418,108,17,1,6
+html body text p span  ,"may be normal, but they still have the same nasty symptoms as a person with SHF.",8,418,754,35,1,5
+html body text p span span  ,"In people with diastolic heart failure,",8,454,240,17,1,6
+html body text p span a span  ,Toprol-XL,248,454,73,17,1,7
+html body text p span span  ,may be a better beta-blocker choice than Coreg. Too-low blood pressure can be a real problem for DHF patients. Toprol-XL does not lower blood pressure as much as Coreg.,8,454,717,35,1,6
+html body text ul li a span  ,What Causes DHF?,48,506,127,17,0,7
+html body text ul li a span  ,Diagnosing DHF,48,524,110,17,0,7
+html body text ul li a span  ,How Common Is DHF?,48,542,153,17,0,7
+html body text ul li a span  ,Mortality,48,560,60,17,0,7
+html body text ul li a span  ,Complications,48,578,93,17,0,7
+html body text ul li a span  ,Treating Diastolic Heart Failure,48,596,204,17,0,7
+html body text ul li ul li a span  ,Drug Therapy - General Principles,88,614,222,17,0,9
+html body text ul li ul li a span  ,New Drug Nebivolol Helps CHF Seniors with Normal EF,88,632,372,17,0,9
+html body text ul li ul li a span  ,Drugs and Exercise Tolerance,88,650,192,17,0,9
+html body text ul li ul li a span  ,IV Drugs,88,668,60,17,0,9
+html body text ul li ul li a span  ,"Digoxin (Lanoxin, digitalis)",88,686,180,17,0,9
+html body text ul li ul li a span  ,Coronary Artery Disease,88,704,159,17,0,9
+html body text ul li a span  ,Questions and Answers - The Discussion,48,722,262,17,0,7
+html body text ul li a span  ,Source For This Page's Information,48,740,227,17,0,7
+html body text ul li a span  ,References,48,758,71,17,0,7
+html body text h2 span  ,Causes of diastolic heart failure,8,796,324,26,1,5
+html body text ul li a span  ,Ischemia,48,843,62,17,1,7
+html body text ul li span  ,- can be caused by,110,843,122,17,1,6
+html body text ul li a span  ,CAD,232,843,38,17,1,7
+html body text ul li span  ,or by a chronic too-fast heart rate. Ischemia prevents the heart muscle from fully relaxing and increases heart stiffness. Chronic ischemia results in,48,843,703,35,1,6
+html body text ul li a span  ,remodeling,504,861,77,17,1,7
+html body text ul li span  ,and DHF,581,861,59,17,1,6
+html body text ul li span  ,pressure overload caused by chronic high blood pressure or aortic valve problems,48,879,523,17,1,6
+html body text ul li span  ,"infiltrative cardiomyopathies, also called restrictive cardiomyopathy",48,897,437,17,1,6
+html body text ul li span  ,pericarditis - inflammation of the sac around the outside of the heart,48,915,436,17,1,6
+html body text ul li span  ,normal aging can cause some DHF,48,933,224,17,1,6
+html body text ul li span  ,chemotherapy for diseases like cancer,48,951,243,17,1,6
+html body text ul li span  ,genetic causes,48,969,92,17,1,6
+html body text h3 span  ,Diagnosing diastolic heart failure,8,1006,265,21,1,5
+html body text p span  ,How to always diagnose DHF accurately is uncertain but a correct diagnosis,8,1047,493,17,1,5
+html body text p i span  ,is,501,1047,15,17,1,6
+html body text p span  ,important. Some guidelines propose that 3 requirements be met to make the call,8,1047,767,35,1,5
+html body text p b span  ,:,260,1065,6,17,1,6
+html body text ol li span  ,symptoms or signs of,48,1099,141,17,1,6
+html body text ol li a span  ,CHF,189,1099,31,17,1,7
+html body text ol li span  ,normal systolic function,48,1117,156,17,1,6
+html body text ol li span  ,abnormal diastolic function,48,1135,176,17,1,6
+html body text p span  ,There are some situations where symptoms alone may lead to a,8,1169,409,17,1,5
+html body text p i span  ,mis,417,1169,26,17,1,6
+html body text p span  ,"diagnosis. This is especially true in older patients who get short of breath mainly because they have very poor physical fitness. It can also happen with non-heart-related shortness of breath such as with lung disease. So diagnosing DHF requires some signs or symptoms of CHF like lung congestion, edema, raised jugular vein, etc. You do have to rule out problems like mitral valve disease and and lung disease.",8,1169,757,89,1,5
+html body text p span  ,DHF cannot usually be distinguished from,8,1259,276,17,1,5
+html body text p a span  ,SHF,284,1259,34,17,1,6
+html body text p span  ,"by patient history, physical exam, x-ray, and EKG alone. Diagnosis",318,1259,430,17,1,5
+html body text p i span  ,requires,8,1277,56,17,1,6
+html body text p span  ,an estimate of LV size and,64,1277,173,17,1,5
+html body text p a span  ,EF,237,1277,23,17,1,6
+html body text p span  ,. These measurements can be made using,260,1277,268,17,1,5
+html body text p a span  ,"echo, MUGA, or cath",528,1277,143,17,1,6
+html body text p span  ,". Really, DHF diagnosis is a matter of ruling out other possible causes in patients seeming to have heart failure but who have normal heart size and EF.",8,1277,754,53,1,5
+html body text p span  ,"Since echo does have limits for spotting DHF and cath is invasive, one trial studied whether the BNP blood test could help spot diastolic heart failure. That study is shown on the",8,1331,753,35,1,5
+html body text p a span  ,BNP Test page,390,1349,99,17,1,6
+html body text p span  ,.,489,1349,8,17,1,5
+html body text p span span  ,It turns out that a quick BNP test can help a doctor diagnose DHF.,8,1349,767,35,1,6
+html body text div table tbody tr td span  ,Diagnosis,206,1424,68,17,1,9
+html body text div table tbody tr td b span  ,:,274,1424,9,17,1,10
+html body text div table tbody tr td span  ,Systolic versus diastolic heart failure,283,1424,236,17,1,9
+html body text div table tbody tr td span  ,Systolic Heart Failure - Reduced EF,244,1458,233,17,0,9
+html body text div table tbody tr td span  ,30 patients,326,1476,69,17,0,9
+html body text div table tbody tr td span  ,Diastolic Heart Failure - Normal EF,495,1449,209,35,0,9
+html body text div table tbody tr td span  ,20 patients,565,1485,69,17,0,9
+html body text div table tbody tr td span  ,Symptoms,11,1510,68,17,1,9
+html body text div table tbody tr td span  ,Shortness of breath on exertion,11,1535,200,17,1,9
+html body text div table tbody tr td span  ,85%,243,1535,29,17,1,9
+html body text div table tbody tr td span  ,96%,485,1535,29,17,1,9
+html body text div table tbody tr td span  ,Waking at night short of breath,11,1560,199,17,1,9
+html body text div table tbody tr td span  ,55%,243,1560,29,17,1,9
+html body text div table tbody tr td span  ,50%,485,1560,29,17,1,9
+html body text div table tbody tr td span  ,Difficulty breathing except upright,11,1585,223,17,1,9
+html body text div table tbody tr td span  ,60%,243,1585,29,17,1,9
+html body text div table tbody tr td span  ,73%,485,1585,29,17,1,9
+html body text div table tbody tr td span  ,Physical Examination,11,1610,140,17,1,9
+html body text div table tbody tr td span  ,Jugular vein swollen,11,1635,132,17,1,9
+html body text div table tbody tr td span  ,35%,243,1635,29,17,1,9
+html body text div table tbody tr td span  ,46%,485,1635,29,17,1,9
+html body text div table tbody tr td span  ,Sounds in lungs,11,1660,102,17,1,9
+html body text div table tbody tr td span  ,72%,243,1660,29,17,1,9
+html body text div table tbody tr td span  ,70%,485,1660,29,17,1,9
+html body text div table tbody tr td a span  ,Point of maximum impulse,11,1685,175,17,1,10
+html body text div table tbody tr td span  ,50%,243,1685,29,17,1,9
+html body text div table tbody tr td span  ,60%,485,1685,29,17,1,9
+html body text div table tbody tr td a span  ,S3,11,1710,17,17,0,10
+html body text div table tbody tr td span  ,45%,243,1710,29,17,0,9
+html body text div table tbody tr td span  ,65%,485,1710,29,17,0,9
+html body text div table tbody tr td a span  ,S4,11,1735,17,17,0,10
+html body text div table tbody tr td span  ,45%,243,1735,29,17,0,9
+html body text div table tbody tr td span  ,66%,485,1735,29,17,0,9
+html body text div table tbody tr td span  ,Enlarged (congested) liver,11,1760,169,17,1,9
+html body text div table tbody tr td span  ,15%,243,1760,29,17,1,9
+html body text div table tbody tr td span  ,16%,485,1760,29,17,1,9
+html body text div table tbody tr td a span  ,Edema,11,1785,44,17,1,10
+html body text div table tbody tr td span  ,30%,243,1785,29,17,1,9
+html body text div table tbody tr td span  ,40%,485,1785,29,17,1,9
+html body text div table tbody tr td span  ,Heart enlargement on chest x-ray,11,1810,213,17,1,9
+html body text div table tbody tr td span  ,90%,243,1810,29,17,1,9
+html body text div table tbody tr td span  ,96%,485,1810,29,17,1,9
+html body text div table tbody tr td span  ,High pulmonary (lung) pressures,11,1835,212,17,1,9
+html body text div table tbody tr td span  ,75%,243,1835,29,17,1,9
+html body text div table tbody tr td span  ,80%,485,1835,29,17,1,9
+html body text h4 span  ,How common is DHF?,8,1878,155,17,1,5
+html body text p span  ,As many as 33% of patients with obvious heart failure and a normal EF may have DHF. Risk of DHF increases with age,8,1917,744,35,1,5
+html body text p b span  ,:,34,1935,6,17,1,6
+html body text ol li span  ,15% in patients under 60 years,48,1969,198,17,1,6
+html body text ol li span  ,35% in patients 60 to 70 years,48,1987,194,17,1,6
+html body text ol li span  ,50% in patients over 70 years old,48,2005,214,17,1,6
+html body text h5 span  ,Mortality,8,2045,55,15,1,5
+html body text p span span  ,Prognosis of patients with DHF is better than for SHF.,8,2084,351,17,1,6
+html body text p span  ,"Annual mortality for DHF is about 5 to 8%, while it is about 10 to 15% for SHF. In healthy people of the same age, mortality is about 1%. In DHF patients, prognosis is also affected by cause. When CAD is",8,2084,758,53,1,5
+html body text p i span  ,not,166,2120,24,17,1,6
+html body text p span  ,"the cause, annual mortality is much better, at about 2% to 3%. Age also affects risk of death. The 5-year mortality rate in DHF patients is",8,2120,731,35,1,5
+html body text p b span  ,:,336,2138,5,17,1,6
+html body text ol li span  ,25% in patients under 60 years old,48,2172,222,17,1,6
+html body text ol li span  ,35% in patients 60 to 70 years,48,2190,194,17,1,6
+html body text ol li span  ,50% in patients over 70 years old,48,2208,214,17,1,6
+html body text h6 span  ,Complications,8,2251,66,12,1,5
+html body text p span  ,The complication rate is about the same as for SHF patients. DHF causes frequent outpatient visits and hospital admissions. The one year readmission rate is almost 50% in DHF patients.,8,2288,713,35,1,5
+html body text div span  ,Treatment,8,2340,87,17,1,5
+html body text p a span  ,Treatment guidelines,8,2374,139,17,1,6
+html body text p span  ,"for systolic heart failure are based on large, properly done trials. Unfortunately, no such trials exist for DHF. So guidelines come from small trials, a doctor's experience, and his understanding of the disease. The",8,2374,745,35,1,5
+html body text p i span  ,general,8,2410,53,17,1,6
+html body text p span  ,approach to treating DHF has 3 main steps,61,2410,277,17,1,5
+html body text p b span  ,:,338,2410,5,17,1,6
+html body text ol li span  ,"Treatment should reduce symptoms, mainly by lowering",48,2444,366,17,1,6
+html body text ol li a span  ,pulmonary,414,2444,73,17,1,7
+html body text ol li span  ,"pressure. Ways to reduce pressure include reducing heart size, maintaining good pumping in the heart's upper chambers, and slowing the heart rate.",48,2444,707,35,1,6
+html body text ol li span  ,"Treatment should target the underlying cause if possible. For example, high blood pressure should be controlled,",48,2480,720,17,1,6
+html body text ol li a span  ,remodeling,48,2498,77,17,1,7
+html body text ol li span  ,"should be reversed, the aortic valve replaced if necessary, and ischemia treated by increasing blood flow to the heart and reducing its need for oxygen",48,2498,710,35,1,6
+html body text ol li span  ,"Treatment should target the bodily systems changed by the disease, mainly",48,2534,483,17,1,6
+html body text ol li a span  ,neurohormonal,531,2534,101,17,1,7
+html body text ol li span  ,systems,632,2534,51,17,1,6
+html body text div span  ,Drug Therapy - General Principles,8,2568,222,17,1,5
+html body text p span span  ,"With some exceptions, many of the drugs used to treat systolic heart pressure are also used to treat diastolic heart failure. However, the reason they are used and the dose may be different for DHF",8,2602,724,35,1,6
+html body text p span  ,.,534,2620,4,17,1,5
+html body text p span  ,"For example, in DHF beta-blockers are used to make filling the heart with blood take longer, and to change the heart's response to exercise. In SHF, beta-blockers are used to increase pumping power and reverse heart remodeling. Diuretic dose for DHF is usually much smaller than for SHF. Calcium channel blockers have no place in SHF treatment but may help DHF.",8,2638,766,71,1,5
+html body text p span  ,The first step in treating DHF patients is to reduce lung congestion. You do that by lowering pulmonary (lung) pressure. This has 3 steps,8,2710,767,35,1,5
+html body text p b span  ,:,114,2728,5,17,1,6
+html body text dl dt span  ,Reduce heart size,8,2762,113,17,1,6
+html body text dl dd span  ,"At first, heart size",48,2780,119,17,1,6
+html body text dl dd span  ,"can be reduced by restricting fluid and sodium intake, by dialysis or filtering the blood,",167,2780,558,17,1,6
+html body text dl dd a span  ,plasmapheresis,48,2798,102,17,1,7
+html body text dl dd span  ,", and diuretics. Relaxing (dilating) the blood vessels using nitro or morphine is effective but should be started at low doses to avoid low blood pressure. Low blood pressure can be a real problem in DHF patients.",48,2798,702,53,1,6
+html body text dl dd i span  ,Long-term,106,2834,71,17,1,7
+html body text dl dd span  ,"treatment should include small to moderate diuretic doses, mild doses of long-acting nitro, and",48,2834,708,35,1,6
+html body text dl dd a span  ,restricted sodium intake,75,2852,158,17,1,7
+html body text dl dd span  ,.,233,2852,7,17,1,6
+html body text dl dd a span  ,Aldactone,240,2852,70,17,1,7
+html body text dl dd span  ,(spironolactone) may be effective long-term because it suppresses the,310,2852,445,17,1,6
+html body text dl dd a span  ,RAS,48,2870,35,17,1,7
+html body text dl dd span  ,. ACE inhibitors and,83,2870,135,17,1,6
+html body text dl dd a span  ,ARBs,218,2870,43,17,1,7
+html body text dl dd span  ,reduce fluid retention and oxygen demand.,261,2870,275,17,1,6
+html body text dl dt span  ,Make the heart's chambers beat together as a team,8,2888,321,17,1,6
+html body text dl dd span  ,The second step in lowering pulmonary pressure is to keep the heart's upper chambers (atriums) beating properly.,48,2906,726,17,1,6
+html body text dl dd span span  ,"Atrial fibrillation is poorly tolerated in DHF patients because it increases diastolic pressures, causing lung congestion and low blood pressure.In patients with a-fib, restoring normal rhythm should be a priority.",48,2924,678,35,1,7
+html body text dl dd span  ,Patients who need a,48,2942,711,35,1,6
+html body text dl dd a span  ,pacemaker,125,2960,73,17,1,7
+html body text dl dd span  ,should have atrial pacing as well as ventricular pacing.,198,2960,351,17,1,6
+html body text dl dt span  ,Slowing the heart rate,8,2978,141,17,1,6
+html body text dl dd span  ,The third step in lowering pulmonary pressures is to slow the heart rate. This gives the heart more time to relax so it can fill with blood.,48,2996,711,35,1,6
+html body text dl dd span span  ,Fast heart rate is poorly tolerated in DHF patients,205,3014,321,17,1,7
+html body text dl dd span  ,because rapid heart rate,526,3014,156,17,1,6
+html body text dl dd b span  ,:,682,3014,5,17,1,7
+html body text dl dd ol li span  ,"increases the heart's oxygen demand and reduces blood flow to the heart, causing",124,3036,524,17,1,8
+html body text dl dd ol li a span  ,ischemia,648,3036,61,17,1,9
+html body text dl dd ol li span  ,even without,124,3036,615,35,1,8
+html body text dl dd ol li a span  ,CAD,177,3054,34,17,1,9
+html body text dl dd ol li span  ,"prevents full relaxation of the heart muscle, which raises pressure and reduces the heart's flexibility",124,3072,568,35,1,8
+html body text dl dd ol li span  ,"shortens the heart's relaxation period, making it incomplete, which reduces the amount of blood pumped per beat",124,3108,612,35,1,8
+html body text p span  ,"For these reasons, most doctors use beta-blockers and calcium channel blockers to slow the heart rate a",8,3160,664,17,1,5
+html body text p i span  ,lot,672,3160,21,17,1,6
+html body text p span  ,"in DHF patients. However, slowing the heart rate too much can reduce cardiac output despite better filling.",8,3160,733,35,1,5
+html body text p span span  ,This is why DHF patients need very individualized treatment.,8,3178,746,35,1,6
+html body text p span  ,An initial goal might be a resting heart rate of about 60 beats per minute.,291,3196,467,17,1,5
+html body text p span  ,"Beta-blockers and calcium channel blockers increase the time it takes the heart to fill with blood. This helps keep pulmonary pressures low. However, these drugs also directly",8,3214,724,35,1,5
+html body text p i span  ,reduce,401,3232,47,17,1,6
+html body text p span  ,the heart's ability to relax by their effects at the cell level. It's a tricky balance to strike in DHF patients. The overall effect of these drugs in DHF patients is improved symptoms.,8,3232,767,53,1,5
+html body text p span span  ,The long-term effect of calcium channel blockers on diastolic heart failure patients is unknown. All calcium channel blockers except,8,3286,744,35,1,6
+html body text p a span span  ,amlodipine,112,3304,80,17,1,7
+html body text p span i span  ,increase,192,3304,58,17,1,7
+html body text p span span  ,mortality in patients with,250,3304,165,17,1,6
+html body text p span i span  ,systolic,415,3304,52,17,1,7
+html body text p span span  ,heart failure.,467,3304,82,17,1,6
+html body text div span  ,Nebivolol Helps CHF Seniors with Normal EF,8,3338,300,17,1,5
+html body text p i span  ,"March 27, 2006",8,3372,106,17,1,6
+html body text p span  ,"- A ""third generation"" (new) beta-blocker called Nebivolol is on the way.",114,3372,469,17,1,5
+html body text p span span  ,"Nebivolol has the main good benefit of Toprol-XL (beta-1 blocking without beta-2 blocking) plus one of the good benefits of Coreg (relaxing the arteries, called vasodilation). It also helps",8,3372,760,53,1,6
+html body text p a span span  ,endothelial,278,3408,75,17,1,7
+html body text p span span  ,function and is a powerful anti-oxidant. Nebivolol does this without all of Coreg's side effects.,8,3408,727,35,1,6
+html body text p span  ,Researchers studied how nebivolol affects systolic versus diastolic left heart function in patients. This substudy included 104 patients,8,3444,712,35,1,5
+html body text p b span  ,;,149,3462,9,17,1,6
+html body text p span  ,43 had an EF less than 36%. Echo was done on each patient to take quite a few heart measures,158,3462,605,17,1,5
+html body text p span  ,at study start and again one year later.,8,3480,242,17,1,5
+html body text p span  ,"In the group with EF less than 36%, nebivolol reduced heart size",8,3498,418,17,1,5
+html body text p span  ,and improved EF 5%,426,3498,141,17,1,5
+html body text p span  ,". Other measures remained the same. In patients with EF higher than 36%, no changes in the heart muscle were seen.",8,3498,753,35,1,5
+html body text p span span  ,"So in patients with weakly pumping hearts (low EF), nebivolol reduces heart size and improves EF. In patients with near-normal or normal EF (diastolic heart failure) no changes in the heart muscle were seen. None the less, risk of death or heart-related hospitalization improved in both groups in SENIORS.",8,3534,768,53,1,6
+html body text p span  ,The SENIORS trial showed that nebivolol reduces risk of death and heart-related hospitalizations in senior CHFers,8,3588,737,17,1,5
+html body text p b span  ,regardless of EF,8,3606,115,17,1,6
+html body text p span  ,. What does this mean? It suggests that,123,3606,253,17,1,5
+html body text p a span  ,CHFers,376,3606,53,17,1,6
+html body text p span  ,with,429,3606,33,17,1,5
+html body text p a span  ,diastolic heart failure,462,3606,140,17,1,6
+html body text p span  ,may now have a drug proven to help them.,8,3606,731,35,1,5
+html body text p i span  ,Jon's note,8,3642,68,17,1,6
+html body text p span  ,: The average age in the SENIORS trial was 76 years.,76,3642,344,17,1,5
+html body text p span  ,Source: Eur Heart J. 2006 Mar;27(5):562-8. Epub 2006 Jan 27.,8,3678,404,17,1,5
+html body text p span  ,Title: Effects of nebivolol in elderly heart failure patients with or without systolic left ventricular dysfunction: results of the SENIORS echocardiographic substudy.,8,3696,767,35,1,5
+html body text p span  ,"Authors: Ghio S , Magrini G , Serio A, Klersy C, Fucilli A, Ronaszeki A, Karpati P, Mordenti G, Capriati A, Poole-Wilson PA, Tavazzi L; SENIORS investigators.",8,3732,738,35,1,5
+html body text p span  ,PMID: 16443607,316,3750,113,17,1,5
+html body text div span  ,Drugs and Exercise Tolerance,8,3784,192,17,1,5
+html body text p span  ,Exercise in a healthy person makes the heart relax more quickly and lowers LV pressure faster. The heart muscle actually stretches and gets larger when full of blood just before pumping it out. This increases,8,3818,721,35,1,5
+html body text p a span  ,EF,612,3836,23,17,1,6
+html body text p span  ,". In a healthy person, these actions help the body handle exercise.",8,3836,761,35,1,5
+html body text p span  ,"In DHF, those actions are very limited. The heart's stiffness prevents it from stretching to increase its size when filled with blood. EF does not rise, and patients get short of breath and very tired. Often, there is quite a rise in blood pressure and heart rate during exercise. The rise in blood pressure makes the heart work harder, which screws up the entire pumping cycle.",8,3872,766,71,1,5
+html body text p span  ,These changes increase diastolic pressures. High diastolic pressures reduce lung function and make breathing harder. Low heart output during exercise causes fatigue in the legs and other muscles.,8,3944,748,35,1,5
+html body text p span span  ,"Small trials show that calcium channel blockers, beta-blockers, and",8,3980,434,17,1,6
+html body text p a span span  ,ARBs,442,3980,43,17,1,7
+html body text p span span  ,"improve exercise ability in many DHF patients. However, these drugs do not always improve heart function",8,3980,724,35,1,6
+html body text p span span  ,.,452,3998,4,17,1,6
+html body text div span  ,Inotropes,8,4032,60,17,1,5
+html body text p span  ,Use,8,4066,29,17,1,5
+html body text p a span  ,inotropic drugs,37,4066,101,17,1,6
+html body text p span  ,"with caution. Since ejection fraction is often okay in DHF patients, inotropes may give no benefit at all. However, such drugs can cause harm in these patients. Inotropic drugs may help in the short-term for lung congestion",8,4066,754,53,1,5
+html body text p span  ,but even short-term use may cause,81,4102,226,17,1,5
+html body text p a span  ,ischemia,307,4102,61,17,1,6
+html body text p span  ,", speed up heart rate, or trigger arrhythmias.",368,4102,281,17,1,5
+html body text div span  ,"Digoxin (Lanoxin, digitalis)",8,4136,180,17,1,5
+html body text p a span  ,Digoxin,8,4170,56,17,1,6
+html body text p span  ,(Lanoxin),64,4170,68,17,1,5
+html body text p span  ,strengthens the heart's pumping power. This increases,132,4170,349,17,1,5
+html body text p span  ,energy demand,481,4170,102,17,1,5
+html body text p span  ,", which may only show up during stress like exercise or ischemia, when digoxin can worsen diastolic function.",8,4170,743,35,1,5
+html body text p span span  ,"With the exception of patients in chronic atrial fibrillation (to slow ventricular rate), digoxin is not recommended for DHF.",8,4188,748,35,1,6
+html body text div span  ,Coronary Artery Disease,8,4240,159,17,1,5
+html body text p span  ,In,8,4274,17,17,1,5
+html body text p a span  ,CAD,25,4274,38,17,1,6
+html body text p span  ,", treatment should aim to reduce the heart's oxygen demand and increase blood flow to the heart. Drugs like nitrates (nitroglycerine), calcium channel blockers, and beta-blockers have all been shown to help. Clearing blocked arteries with angioplasty or",8,4274,744,53,1,5
+html body text p a span  ,CABG,187,4310,48,17,1,6
+html body text p span  ,may also help diastolic heart failure patients with CAD.,235,4310,357,17,1,5
+html body text div table tbody tr td span  ,Drug treatment of diastolic heart failure,243,4352,275,17,1,9
+html body text div table tbody tr td span  ,Loop diuretics,57,4376,93,17,1,9
+html body text div table tbody tr td span  ,"Bumex (bumetanide), Lasix (furosemide), Demadex (torsemide)",206,4376,413,17,1,9
+html body text div table tbody tr td span  ,Thiazide diuretics,57,4410,115,17,1,9
+html body text div table tbody tr td span  ,"Hygroton (chlorthalidone), Hydrodiuril, Esidrix (HCTZ, hydrochlorothiazide), Amiloride,",206,4402,361,35,1,9
+html body text div table tbody tr td a span  ,Aldactone,420,4420,70,17,1,10
+html body text div table tbody tr td span  ,(spironolactone),490,4420,105,17,1,9
+html body text div table tbody tr td span  ,Long-acting nitrates,57,4454,129,17,1,9
+html body text div table tbody tr td span  ,"Isordil, Sorbitrate (Isosorbide Dinitrate), Imdur (Isosorbide mononitrate)",206,4454,465,17,1,9
+html body text div table tbody tr td span  ,Beta-blockers,57,4488,89,17,1,9
+html body text div table tbody tr td span  ,See,206,4488,27,17,1,9
+html body text div table tbody tr td a span  ,this page,233,4488,57,17,1,10
+html body text div table tbody tr td span  ,Calcium channel blockers,57,4512,108,35,1,9
+html body text div table tbody tr td span  ,"Norvasc (amlodipine), Cardizem (diltiazem), Isoptin (verapamil), Procardia (nifedipine)",206,4512,485,35,1,9
+html body text div table tbody tr td a span  ,RAS,57,4564,35,17,1,10
+html body text div table tbody tr td span  ,inhibitors,92,4564,61,17,1,9
+html body text div table tbody tr td span  ,ACE inhibitors (see,206,4556,131,17,1,9
+html body text div table tbody tr td a span  ,this page,337,4556,61,17,1,10
+html body text div table tbody tr td span  ,"), ARBs (see",399,4556,86,17,1,9
+html body text div table tbody tr td a span  ,this page,484,4556,61,17,1,10
+html body text div table tbody tr td span  ,"), and aldosterone antagonists",206,4556,453,35,1,9
+html body text div span  ,Questions and Answers,8,4616,150,17,1,5
+html body text dl dt span  ,Question,8,4650,58,17,1,6
+html body text dl dd span  ,Is the rise in DHF cases caused by doctors better recognizing the condition or has there been an actual increase in the number of cases?,48,4668,726,35,1,6
+html body text dl dt span  ,Dr. Zile,8,4704,50,17,1,6
+html body text dl dd span  ,"I think it is both. We are recognizing it better. Also, the general population is aging so high blood pressure, heart disease, and diabetes are rising just because they are more common in the elderly. Age itself causes changes in the heart that encourage DHF",48,4722,717,53,1,6
+html body text dl dt span  ,Question,8,4794,58,17,1,6
+html body text dl dd span  ,Why the controversy surrounding the diagnosis of DHF?,48,4812,364,17,1,6
+html body text dl dt span  ,Dr. Zile,8,4830,50,17,1,6
+html body text dl dd span  ,"The guidelines that exist or have been proposed come from the European Cardiology Society and the Canadian Heart Society, as well as from a recent editorial by Vasan and Levy published in the journal Circulation. They all require that 3 standards be met to diagnose DHF",48,4848,721,53,1,6
+html body text dl dd b span  ,:,362,4884,5,17,1,7
+html body text dl dd b span  ,1),48,4920,17,17,0,7
+html body text dl dd span  ,signs and symptoms of heart failure,65,4920,229,17,1,6
+html body text dl dd b span  ,2),48,4938,17,17,0,7
+html body text dl dd span  ,normal EF,65,4938,68,17,1,6
+html body text dl dd b span  ,3),48,4956,17,17,0,7
+html body text dl dd span  ,problems with diastolic function seen by,65,4956,264,17,1,6
+html body text dl dd a span  ,cath or echo,329,4956,78,17,1,7
+html body text dl dd span  ,I think these criteria are too tight and that number 3 should be eliminated. Ninety percent of patients who fit the first 2 will indeed turn out to have diastolic heart failure confirmed by cath. The problem arises because measuring diastolic function with noninvasive tests like echo is difficult and confusing.,48,4992,714,53,1,6
+html body text dl dd span  ,"Why? Echo usually measures what we call the E and A velocities. However, E-wave velocity drops with age, heart enlargement, and DHF. So in someone with congested lungs and signs of high heart pressures",48,5046,698,35,1,6
+html body text dl dd span  ,"those E-waves can appear normal. While the E-wave should be low in DHF patients, it may appear normal if the doctor is not experienced at treating diastolic heart failure.",48,5064,727,53,1,6
+html body text dl dt span  ,Question,8,5136,58,17,1,6
+html body text dl dd span  ,"Is finding diastolic problems on an echo that is done for another reason important, even in a patient with no history or symptoms of",48,5154,687,35,1,6
+html body text dl dd a span  ,CHF,201,5172,35,17,1,7
+html body text dl dd span  ,?,236,5172,7,17,1,6
+html body text dl dt span  ,Dr. Zile,8,5190,50,17,1,6
+html body text dl dd span  ,"Yes. In systolic heart failure, a wide range of patient types is seen - from those with low EFs but no symptoms, to those with mild or moderate symptoms, to",48,5208,725,35,1,6
+html body text dl dd a span  ,class 4,323,5226,47,17,1,7
+html body text dl dd span  ,patients with severe symptoms even at rest. The same range is likely to be seen in diastolic heart failure patients,48,5226,719,35,1,6
+html body text dl dt span  ,Question,8,5280,58,17,1,6
+html body text dl dd span  ,"Since most of the blood that fills the LV does so in the early part of the filling phase, why does it help to lengthen that phase in DHF patients by slowing heart rate? Doesn't increasing heart rate increase cardiac output?",48,5298,726,35,1,6
+html body text dl dt span  ,Dr. Zile,8,5334,50,17,1,6
+html body text dl dd span  ,"While speeding up heart rate increases output, it also raises pressure",48,5352,440,17,1,6
+html body text dl dd span  ,", making symptoms worse. In a healthy person, raising heart rate does not change pressures",48,5352,691,35,1,6
+html body text dl dd span  ,much because the ventricle is able to relax faster as heart rate speeds up.,48,5370,725,35,1,6
+html body text dl dd span  ,"However, in DHF patients, the response to increased heart rate is not normal. When heart rate speeds up, the ventricle cannot relax any faster. This raises pressures",48,5406,693,35,1,6
+html body text dl dd span  ,". By slowing heart rate, you give the ventricle more time to relax, lowering filling pressures. Also, many DHF patients have ischemia. By slowing the heart rate, you reduce the heart's need for oxygen and that helps balance supply and demand of blood and oxygen",48,5424,727,53,1,6
+html body text dl dt span  ,Question,8,5496,58,17,1,6
+html body text dl dd span  ,"Seeing that pretty much the same drugs are used to treat both diastolic are systolic heart failure, how important is it to tell DHF from SHF?",48,5514,723,35,1,6
+html body text dl dt span  ,Dr. Zile,8,5550,50,17,1,6
+html body text dl dd span  ,"There are at least 40 well-done trials to guide treatment for systolic heart failure patients. This is not true for DHF, so its treatment is less certain.",48,5568,692,35,1,6
+html body text dl dd span span  ,"Even though we say ACE inhibitors will probably help and ARBs may help, and beta-blockers may help, and so on, it is not proven in large numbers of DHF patients.",48,5586,722,35,1,7
+html body text dl dd span  ,"Also, there are differences in the way you use those drugs and in the doses you use.",48,5604,669,35,1,6
+html body text dl dd span  ,"The best example is beta-blockers. Treating heart failure in patients with an EF of 30% requires that beta-blocker dose be raised carefully, starting with tiny doses and raising it slowly over several months. In the DHF patient, that very slow rise in dose is not usually necessary.",48,5640,723,53,1,6
+html body text dl dd span  ,"Another example is calcium channel blockers. These drugs should not be used in systolic heart failure patients at all, but they may help DHF patients. As another example, diuretic use needs to be much more cautious in the DHF patient since drying them out too much can easily cause too-low blood pressure.",48,5694,721,53,1,6
+html body text dl dd span  ,"So even though the same drugs may be used to treat SHF and DHF, there are important differences. It is important for doctors to be aware of the differences when treating CHF patients",48,5748,664,35,1,6
+html body text dl dt span  ,Question,8,5802,58,17,1,6
+html body text dl dd span  ,Have beta-blockers and calcium channel blockers been shown to reverse measurements of diastolic dysfunction?,48,5820,722,17,1,6
+html body text dl dt span  ,Dr. Zile,8,5838,50,17,1,6
+html body text dl dd span span  ,"If you give beta-blockers to DHF patients, their relaxation rate gets worse instead of better. Despite this, patients feel better -",48,5856,720,35,1,7
+html body text dl dd span span  ,so measurements don't always agree with how patients actually do while taking a drug.,126,5874,560,17,1,7
+html body text dl dd span span  ,"With calcium channel blockers, DHF patients feel better while taking them",48,5874,724,35,1,7
+html body text dl dd span i span  ,and,442,5892,28,17,1,8
+html body text dl dd span span  ,their filling rates usually get better. There is a complex relationship between how any one drug affects a person versus how that drug affects the measurements we take of that person's heart function.,48,5892,718,53,1,7
+html body text dl dd span  ,"One study that used a calcium channel blocker and another study using an ARB showed improved exercise times in patients taking these drugs. However, neither study showed improved measurements of heart relaxation or stiffness. I don't think you can rely just on measures of heart function to guide treatment.",48,5946,723,53,1,6
+html body text dl dt span  ,Question,8,6018,58,17,1,6
+html body text dl dd span  ,"In making a DHF diagnosis, what must be ruled out besides systolic heart failure?",48,6036,524,17,1,6
+html body text dl dt span  ,Dr. Zile,8,6054,50,17,1,6
+html body text dl dd span  ,"Besides excluding SHF, it is also important to rule out mitral valve stenosis and chronic lung disease, both of which can imitate heart failure with a normal EF",48,6072,697,35,1,6
+html body text dl dt span  ,Question,8,6126,58,17,1,6
+html body text dl dd span  ,What blood pressure drugs are most likely to help heart enlargement in DHF patients?,48,6144,551,17,1,6
+html body text dl dt span  ,Dr. Zile,8,6162,50,17,1,6
+html body text dl dd span  ,"Although it hasn't been clearly proven yet, I think drugs that alter the neurohormonal systems work well. They not only lower pressure, but they also reduce the effects of overactive bodily systems. The problem is that in most trials, heart enlargement only goes down about 10 to 15%. This will probably improve heart function but not totally reverse DHF. If those high blood pressure trials had been longer by 5 or 10 years, we might have seen more improvement proven down the road.",48,6180,729,89,1,6
+html body text dl dd span  ,"What evidence do I have to support that? The answer comes from patients with aortic stenosis who had their aortic valves replaced. Three to 5 years after aortic valve replacement, ventricular size and stiffness often returned to normal, improving the heart's stiffness and relaxation",48,6270,694,53,1,6
+html body text p span  ,Title: Diastolic Heart Failure: Diagnosis and Treatment,8,6340,353,17,1,5
+html body text p span  ,"Authors: Dr. Michael R. Zile, Dr. Janet M. Simsic",8,6358,320,17,1,5
+html body text p span  ,"Source: Clinical Cornerstone 3(2):13-24, 2000",8,6376,298,17,1,5
+html body text p span  ,"All information on this site is opinion only. All concepts, explanations, trials, and studies have been re-written in plain English and may contain errors. I am not a doctor. Use the reference information at the end of each article to search",8,6410,756,35,0,5
+html body text p a span  ,MedLine,8,6446,63,17,0,6
+html body text p span  ,"for more complete and accurate information. All original copyrights apply. No information on this page should be used by any person to affect their medical, legal, educational, social, or psychological treatment in any way. I am not a doctor. This web site and all its pages, graphics, and content copyright Â© 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006 Jon C.",8,6446,764,71,0,5
+html body text div table tbody tr td a span  ,Talk to Jon,164,6564,70,17,0,10
+html body text div table tbody tr td a span  ,Site Index,535,6564,66,17,0,10

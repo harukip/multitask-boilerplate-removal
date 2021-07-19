@@ -1,0 +1,101 @@
+tag,content,x,y,width,height,label,depth
+html body text form span  ,[Date Prev][,8,18,84,17,0,5
+html body text form a span  ,Date Next,92,18,69,17,0,6
+html body text form span  ,][Thread Prev][,161,18,103,17,0,5
+html body text form a span  ,Thread Next,264,18,85,17,0,6
+html body text form span  ,][,349,18,15,17,0,5
+html body text form a span  ,Date Index,364,18,74,17,0,6
+html body text form span  ,][,438,18,15,17,0,5
+html body text form a span  ,Thread Index,453,18,89,17,0,6
+html body text form span  ,],542,18,6,17,0,5
+html body text h1 span  ,Fwd: [reiserfs-list] Viability of Open Source Business Models,8,57,722,73,0,5
+html body text ul li em span  ,To,48,171,19,17,0,7
+html body text ul li span  ,: Debian Consultants <,67,171,152,17,0,6
+html body text ul li a span  ,debian-consultants@lists.debian.org,219,171,236,17,0,7
+html body text ul li span  ,>,455,171,9,17,0,6
+html body text ul li em span  ,Subject,48,189,51,17,0,7
+html body text ul li span  ,: Fwd: [reiserfs-list] Viability of Open Source Business Models,99,189,405,17,0,6
+html body text ul li em span  ,From,48,207,39,17,0,7
+html body text ul li span  ,: Russell Coker <,87,207,116,17,0,6
+html body text ul li a span  ,russell@coker.com.au,203,207,145,17,0,7
+html body text ul li span  ,>,348,207,10,17,0,6
+html body text ul li em span  ,Date,48,225,35,17,0,7
+html body text ul li span  ,": Thu, 6 Dec 2001 02:32:27 +0100",83,225,222,17,0,6
+html body text ul li em span  ,Message-id,48,243,78,17,0,7
+html body text ul li span  ,: <,126,243,21,17,0,6
+html body text ul li a span  ,20011206013228.3C46C331FFD@lyta.coker.com.au,147,243,346,17,0,7
+html body text ul li span  ,>,493,243,9,17,0,6
+html body text ul li em span  ,Reply-to,48,261,58,17,0,7
+html body text ul li span  ,: Russell Coker <,106,261,116,17,0,6
+html body text ul li a span  ,russell@coker.com.au,222,261,146,17,0,7
+html body text ul li span  ,>,368,261,9,17,0,6
+html body text pre span  ,"Is there any chance of us getting something like this going to support our Debian development efforts?What do you think of Hans' ideas?---------- Forwarded Message ----------Subject: [reiserfs-list] Viability of Open Source Business Models Tried Once Again:-)Date: Tue, 04 Dec 2001 19:05:11 +0300From: Hans Reiser",8,310,4938,15,0,5
+html body text pre span reiser  ,"To: reiserfs-list@namesys.comI feel better about it not being my error that the document wasunattached from my email.:-)This is being translated into Russian for publishing, and if you wouldlike to be the first english language publisher let me know.Best,Hans---------------------------------------------------------",8,310,4938,15,0,6
+html body text pre a span  ,++/,4946,310,24,15,0,6
+html body text pre span  ,Bonnie++ hard drive benchmark,4970,310,265,15,0,5
+html body text pre span  ,Postal SMTP/POP benchmark,5235,310,250,15,0,5
+html body text pre span  ,Projects I am working on,5485,310,195,15,0,5
+html body text pre a span  ,~russell/,5680,310,70,15,0,6
+html body text pre span  ,My home page,5750,310,132,15,0,5
+html body text address span  ,Title:,8,338,38,17,1,5
+html body text address strong span  ,The Viability of Free Software Business Models,46,338,314,17,1,6
+html body text h1 span  ,The Viability of Free Software Business Models,8,377,646,36,1,5
+html body text author span  ,by Hans Reiser,8,436,98,17,1,5
+html body text address span  ,reiser@namesys.com,8,454,136,17,0,5
+html body text h1 span  ,Service Contracts,8,493,243,36,1,5
+html body text p span  ,Making your software free might DECREASE your service contractsrevenue.,8,552,498,17,1,5
+html body text p span  ,The free software movement is quick to cite service contracts as thebest way to make money from selling free software. There is a problemwith that.,8,586,767,35,1,5
+html body text p span  ,Companies are quicker to spend money on service contracts forproprietary software.,8,638,541,17,1,5
+html body text p span  ,"The typical Linux software using company will have service contractson its Sun workstations including the software, and a hardware onlyservice contract on its Linux workstatons. It will have servicecontracts on Network Appliance fileservers, and, well, there isexactly one company (Lycos-Europe) with a large service contract onits ReiserFS fileservers.",8,672,750,71,1,5
+html body text p span  ,"If a Linux using company does have service contracts on its Linuxworkstations/appliances, most of the time that money goes to someintermediary company which doesn't give any of the money to theauthors of the software being serviced.",8,760,767,35,1,5
+html body text p span  ,This is not rational economic behavior. The authors of the softwarewill indeed give much more expert advice than anyone else. They willprobably give it cheaper also. It makes no economic sense whatsoeverto be slower to buy a service contract on free software than onproprietary software if you use the free software.,8,812,730,53,1,5
+html body text p span  ,"It is very real behavior though, and it is killing off many freesoftware companies. Sourceforge went proprietary because their salespeople couldn't sell service contracts for free software, and makingthe premiere version of the software proprietary made the servicecontract an easier sale. GFS, Bitkeeper, how many pieces of softwaremight have been free if the service revenues had been there?",8,882,767,71,1,5
+html body text p span  ,This is deeply endangering the free software industry's fiscalviability.,8,970,445,17,1,5
+html body text p span  ,Why are they reluctant to pay for service on something that is free?,8,1004,431,17,1,5
+html body text p span  ,"I get several emails a day from users who want me to tell themsomething in our FAQ, or to diagnose that they didn't really recompilethe kernel module like they thought they did, etc. I am happy to dothis, but I think I should get paid for it quite honestly.",8,1038,763,53,1,5
+html body text p span  ,"We have a support page which has to have the lowest fee in theindustry, $25 a question, and we'll answer any Linux related question(though most of the ones we get are ReiserFS related quite naturally.)This support webpage gets used once every several days.",8,1108,750,53,1,5
+html body text p span  ,"I refer the emailers with user error problems to the support page.(Bug reports not in the FAQ we handle for free, though the proprietaryguys laugh and tell me that they charge for bug reports also.) Maybe40% of those emailers with user errors send me a flame back, angrythat I want money to answer a simple question that I know the answerto. They wouldn't send an email like this to their medical doctorexpecting a free diagnosis.",8,1178,766,71,1,5
+html body text p span  ,"So we have a real problem in our industry. Economically irrationalbehavior by users is killing our industry's revenues, and itdemolished the business plans that all of those Linux VCs funded onceand swore to never fund another one looking like it again.",8,1266,756,53,1,5
+html body text p span  ,Where do we go from here?,8,1336,179,17,1,5
+html body text p span  ,"The advantage that Gnu/Linux has is passion. We need some focusedpassion. If it is not logical, then we need to get going with thepsychological! If you believe in the value of the free softwaremovement, then you need go to the next IT purchases meeting at yourcompany or government lab, and ask if there is a service contract fromthe developers on all of the significantly used free software. It isthat simple.",8,1370,763,71,1,5
+html body text p span  ,"We need to create a cultural norm in which it is considered properbehavior to buy service from free software authors with the samefrequency one buys it from proprietary software authors. The way todo it is to acknowledge we have a problem, and start telling peoplebeing irrational doesn't just leave you losing the cost of your time,it leaves you hurting a movement you care about.",8,1458,762,71,1,5
+html body text p span  ,"There are other ways also, but I don't find them as attractive.",8,1546,388,17,1,5
+html body text p span  ,My guess is that most of the reason the proprietary vendors sell moreservice contracts is that users are more inclined to buy service whenit is one more line on a contract than when it is a new contract.,8,1580,762,35,1,5
+html body text p span  ,"An economist might be tempted to call this a transaction cost, andthink rational behavior is occurring, but beware that temptation!This marketing phenomenom holds true even for customers where the costof service would be hundreds of thousands of dollars. Rationaleconomic behavior for the customer company as a whole it is not.",8,1632,758,53,1,5
+html body text p span  ,"We could for instance modify the license to require users topurchase zero or more dollars worth of service from the softwareauthors (including issuing a purchase order or supply a credit cardeven if the order is for zero dollars). I think that some of thosevendors whose free software business plan seriously depends on servicerevenue should consider experimenting with this. Alternatively, weshould just not depend on service revenue for the support of freesoftware businesses.",8,1702,755,89,1,5
+html body text p span  ,"Perhaps one can better make substantial amounts of money fromservice if one's product is complicated enough. MySQL seems to bemaking that approach work. Namesys plans to add database andhypertext functionality to ReiserFS. It is possible that someday ourfilesystem will offer sufficient functionality that having a Namesysconsultant will be worthwhile for the average fortune 500 company. Inthat case the whole revenue model could snowball, with each consultantcreating more features, each new feature creating more customers, andthe end result could eventually be a company the size of Andersonconsulting advising companies on their information bases. While thereis nothing unique to open source about this, it is possible that opensource could allow a faster initial user adoption rate.",8,1808,768,125,1,5
+html body text p span  ,"It is interesting that free software service revenue at this timeseems to encourage economic concentration. This is not veryencouraging if it holds true for the long term, and we end up withproprietary software locking out competitors from the source code, andfree software vendors either not giving any of the revenue todevelopers (most small vendors) or being highly concentrated largevendors who favor funding software internally developed andcontrolled. The only thing worse than a state controlled economy is amonopoly controlled economy.",8,1950,768,89,1,5
+html body text p span  ,"Keep in mind that this is being written from a perspective in thedepths of the 2001 tech bust in which Namesys is managing ""only"" a100% annual growth rate due to the severity of the economy. WhileReiserFS usage is increasing by one or two orders of magnitude, allnon-governmental sources that were on the verge of increasing revenueby an order of magnitude disappeared as those customers entered intolayoffs.",8,2056,756,71,1,5
+html body text h1 span  ,Free software is very effective as a market sampling methodology.,8,2149,706,73,1,5
+html body text p span  ,"That does imply though that one must segment one's market. One way tosegment the market is according to whether the software is integratedwith proprietary software. Our licensing policy says that if youmake money from charging for usage licenses, then we must make moneytoo. This allows Namesys to sell to fileserver vendors andproprietary software vendors who want to add proprietary improvementsto ReiserFS. All sales that Namesys has made in this area haveresulted from market sampling being very effective. It generates farmore revenue at this time than service does.",8,2244,769,89,1,5
+html body text p span  ,"Sales to proprietary OS vendors have not happened yet, but once theeconomy recovers this could change, and interest has been expressed.It takes just one sale of that size to make 8 years of work on a highrisk technological gamble pay off financially.",8,2350,768,53,1,5
+html body text h1 span  ,Open Sales,8,2426,152,36,1,5
+html body text p span  ,"We could make proprietary optional plugins, with the core filesystemremaining GPL'd. An issue though is how to prevent the poor frombeing locked out of access to software. Software fees are usually setto what an average middle-aged man spending his boss's money at a UScorporation would be willing to pay. Currently the only reasonableoption for the poor for most software is to pirate their software.(Pirating can also serve as a form of anti-trust vigilante action whenthe judicial system is as corrupted as it is in the US.) Makinglicense fees proportional to storage hardware cost is the best way tohandle this.",8,2484,756,107,1,5
+html body text p span  ,"This still leaves us with the economic inefficiency that occurs when auser needs a spreadsheet three times a year, and he would like to usethe best one made, but the best one is priced appropriately for thosewho use it several times a week. I call this the focused taxationinefficiency.",8,2608,768,53,1,5
+html body text p span  ,"Most products are sold for more than their marginal cost because mostreal markets are only semi-competitive. Doing this distorts theeconomy. Software takes this distortion to its greatest extreme, andbest illuminates a longstanding inefficiency in real world semi-freemarket economics.",8,2678,748,53,1,5
+html body text p span  ,"I have an unproven hypothesis to put before you: The amount ofeconomic distortion is a function of not just the total dollar amounttraded and exceeding the marginal cost, but is a function also of theratio of price to marginal cost, and high ratios are ""typically"" moredistorting than low ratios, even if the total number of dollars ismade equal. Persons interested in discussing proving this hypothesisare encouraged to email me at reiser@namesys.com. If the hypothesisis true, then can we choose to defocus the disincentive?",8,2748,761,89,1,5
+html body text p span  ,"Can we avoid the serious disadvantages of a state controlled, ormonopoly controlled, economy, and avoid the focused taxationinefficiency at the same time? How can we lockout neither poorcustomers nor poor startup OS component suppliers?",8,2854,754,53,1,5
+html body text p span  ,"I'd like you to consider the concept of open sales. In an open sale,users pay a fixed percentage of hardware costs as a fee for using asoftware pool. Users may use all software in the pool. The users arepresented with a random sample of those developers who contributed tothe pool, and asked to allocate their fee among the sample inproportion to their perceived utility.",8,2924,750,71,1,5
+html body text ul span  ,Benefits:,48,3012,58,17,1,5
+html body text ul li span  ,A defocused disincentive to use software. You may use the best ofanything in the pool.,48,3030,555,17,1,6
+html body text ul li span  ,Poor people can afford the fee.,48,3048,197,17,1,6
+html body text ul li span  ,More finegrained rewarding of developers in proportion to theirproductivity than traditional copyright law due to reduced transactioncosts.,48,3066,724,35,1,6
+html body text ul li span  ,More accurate rewarding due to assessment of value being madeafter usage.,48,3102,487,17,1,6
+html body text h1 span  ,Conclusion,8,3142,153,36,1,5
+html body text p span  ,"Open source is a niche we at Namesys enjoy inhabiting. Its productionis not motivated mostly by money. It is a gentleman's hobby for most,and a profession for some who aren't in it for the money. It islikely to remain a niche. As long as that is understood, a good timecan be had by all us mutant hairless monkeys. It is amusing to giveaway for free a filesystem faster than what a company worth billionsis able to write despite all their money. Life should be enjoyed.",8,3200,761,71,1,5
+html body text strong span  ,Reply to:,8,3298,63,17,0,5
+html body text ul li a span  ,debian-consultants@lists.debian.org,48,3332,232,17,0,7
+html body text ul li a span  ,Russell Coker (on-list),48,3350,146,17,0,7
+html body text ul li a span  ,Russell Coker (off-list),48,3368,148,17,0,7
+html body text ul li strong span  ,Follow-Ups,48,3420,82,17,0,7
+html body text ul li span  ,:,130,3420,5,17,0,6
+html body text ul li ul li strong a span  ,Re: Fwd: [reiserfs-list] Viability of Open Source Business Models,88,3438,443,17,0,10
+html body text ul li ul li ul li em span  ,From:,128,3456,44,17,0,11
+html body text ul li ul li ul li span  ,Bernhard Reiter,172,3456,103,17,0,10
+html body text ul li span  ,Next by Date:,48,3490,94,17,0,6
+html body text ul li strong a span  ,Re: Fwd: [reiserfs-list] Viability of Open Source Business Models,142,3490,443,17,0,8
+html body text ul li span  ,Next by thread:,48,3508,104,17,0,6
+html body text ul li strong a span  ,Re: Fwd: [reiserfs-list] Viability of Open Source Business Models,152,3508,442,17,0,8
+html body text ul li span  ,Index(es):,48,3526,65,17,0,6
+html body text ul li ul li a strong span  ,Date,88,3544,32,17,0,10
+html body text ul li ul li a strong span  ,Thread,88,3562,50,17,0,10

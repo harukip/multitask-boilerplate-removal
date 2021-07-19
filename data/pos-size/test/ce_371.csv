@@ -1,0 +1,107 @@
+tag,content,x,y,width,height,label,depth
+html body text h1 span  ,Trapping Regulations,8,138,297,36,1,5
+html body text p span  ,More information from this division:,8,197,236,17,1,5
+html body text div a span  ,"Fish, Wildlife and Marine Resources",8,231,235,17,1,6
+html body text div a span  ,Bureau of Wildlife,8,249,120,17,1,6
+html body text p span  ,Trapping,8,283,58,17,1,5
+html body text div a span  ,Trigger Regulations,8,317,132,17,1,6
+html body text div span  ,for body-gripping traps used in the Southern Zone for beaver,140,317,390,17,1,5
+html body text div a span  ,Trapping Seasons,8,335,114,17,0,6
+html body text div a span  ,Trapping Licenses,8,353,118,17,0,6
+html body text div a span  ,Rights of Trappers,8,371,119,17,0,6
+html body text div a span  ,Trapper Education,8,389,119,17,0,6
+html body text div a span  ,Legal Traps,8,407,76,17,0,6
+html body text div a span  ,Legal Trapping Methods,8,425,158,17,0,6
+html body text div a span  ,Checking Traps,8,443,101,17,0,6
+html body text div a span  ,Pelt Sealing,8,461,77,17,0,6
+html body text div a span  ,Coyote Reporting,8,479,114,17,0,6
+html body text div a span  ,Buying and Selling Fur,8,497,150,17,0,6
+html body text h2 span  ,Trapping Regulations,8,545,223,26,1,5
+html body text p strong span  ,Definition of Trapping,8,592,157,17,1,6
+html body text p span  ,"To trap means to take, kill or capture wildlife with traps, deadfalls and other devices commonly used to take wildlife, including the shooting or killing of lawfully trapped animals. It also includes all related activities such as placing, setting, staking or checking traps or assisting another person with these activities.",8,592,768,53,1,5
+html body text h3 a span  ,Rights of Trappers,8,664,150,21,1,6
+html body text ul li span  ,No one may disturb a trap lawfully set by another person.,48,705,368,17,1,6
+html body text ul li span  ,No one may remove a lawfully trapped animal from another person's trap.,48,723,474,17,1,6
+html body text ul li span  ,No one may harass a trapper while he or she is trapping.,48,741,360,17,1,6
+html body text h3 a span  ,Trapper Education Course,8,778,214,21,1,6
+html body text p span  ,"Required for persons who have never possessed a trapping license. The trapping course is at least 8 hours in length and is free. For information on trapper education courses in your area, contact the nearest",8,819,762,35,1,5
+html body text p a span  ,DEC regional Sportsman Ed Coordinator,8,837,731,35,1,6
+html body text p span  ,.,89,855,4,17,1,5
+html body text h3 a span  ,Legal Traps,8,891,95,21,1,6
+html body text ul li a span  ,Trigger Regulations,48,932,132,17,1,7
+html body text ul li span  ,for body-gripping traps used in the Southern Zone for beaver,180,932,390,17,1,6
+html body text ul li span  ,How to,48,950,52,17,1,6
+html body text ul li a span  ,Measure Traps,100,950,94,17,1,7
+html body text ul li span  ,You must put your name and address on all your traps.,48,968,349,17,1,6
+html body text ul li span  ,Foothold traps larger than 4 inches set on land must have a pan tension device and be covered when set.,48,986,664,17,1,6
+html body text ul li span  ,Teeth are not allowed on foothold traps.,48,1004,255,17,1,6
+html body text ul li span  ,"On land, foothold traps must be 5 3/4 inches or smaller.",48,1022,356,17,1,6
+html body text ul li span  ,"During beaver or otter season, foothold traps up to 7 1/4 inches are allowed if set under water.",48,1040,601,17,1,6
+html body text ul li span  ,"When the beaver or otter season is closed, foothold traps set in water for mink or muskrat may not be larger than 5 3/4 inches.",48,1058,720,35,1,6
+html body text ul li span  ,A foothold trap larger than 7 1/4 inches is never legal to use.,48,1094,387,17,1,6
+html body text ul li span  ,Body-gripping traps more than 7 1/2 inches may never be used on land.,48,1112,458,17,1,6
+html body text ul li span  ,Body-gripping traps more than 7 1/2 inches may only be used in water during an open beaver or otter season.,48,1130,699,17,1,6
+html body text ul li span  ,Snares cannot be used for trapping.,48,1148,226,17,1,6
+html body text ul li span  ,Box or cage traps are legal for all species.,48,1166,268,17,1,6
+html body text ul li span  ,You cannot use a cage trap that is designed to take more than one muskrat at a setting.,48,1184,550,17,1,6
+html body text h3 a span  ,Trapping Methods,8,1221,149,21,1,6
+html body text div p strong span  ,Land,8,1261,36,17,1,7
+html body text div ul li span  ,You may not set a trap in such a manner that it causes a captured animal to be fully suspended in the air.,48,1295,665,17,1,7
+html body text div ul li span  ,You may not set a trap on a public road. You are allowed to set a trap in a culvert or ditch unless the property is posted or the landowner does not allow trapping.,48,1313,711,35,1,7
+html body text div ul li span  ,Foothold traps larger than 4 inches must be covered when set on land.,48,1349,447,17,1,7
+html body text div p strong span  ,Water,8,1383,43,17,1,7
+html body text div ul li span  ,"You may set a trap in a permanent body of water only when the mink, muskrat, otter, or beaver season is open.",48,1417,707,17,1,7
+html body text div ul li span  ,"You may not disturb a beaver lodge, beaver dam, or muskrat house or den.",48,1435,476,17,1,7
+html body text div ul li span  ,Traps may not be set on or within 15 feet of a beaver lodge at any time.,48,1453,457,17,1,7
+html body text div ul li span  ,Traps may not be set on or within 15 feet of a beaver dam except during an open otter season.,48,1471,599,17,1,7
+html body text div ul li span  ,You may not set a trap on or within 5 feet of a muskrat house.,48,1489,395,17,1,7
+html body text div p strong span  ,Land or Water,8,1523,102,17,1,7
+html body text div ul li span  ,You may use any legal method to kill a trapped animal. You do not need a hunting license to use a firearm to kill a legally trapped animal.,48,1557,720,35,1,7
+html body text div ul li span  ,You may not set or stake a trap prior to 7:00 a.m. on opening day.,48,1593,419,17,1,7
+html body text div ul li span  ,"You are not allowed to set a trap within 100 feet of a house, school, playground or church unless you have permission from the owner of the land where the trap is set.",48,1611,679,35,1,7
+html body text h3 a span  ,Checking Traps,8,1666,127,21,1,6
+html body text p span  ,Traps must be checked at least once in each 24 hours except:,8,1707,389,17,1,5
+html body text ul li span  ,"If you are trapping in WMUs 5C, 5F, 5G, 5H, 5J, 6F, 6J, or 6N, traps must be checked at least once in each 48 hours.",48,1741,704,35,1,6
+html body text ul li span  ,"If you are trapping for beaver, otter, mink or muskrat in WMUs 5A, 6A, 6C, 6G or 6H, traps set in water must be checked at least once in each 48 hours.",48,1777,723,35,1,6
+html body text ul li span  ,Written descriptions of,48,1813,151,17,1,6
+html body text ul li a span  ,Wildlife Management Units,199,1813,182,17,1,7
+html body text ul li span  ,are available using this link.,381,1813,180,17,1,6
+html body text h3 a span  ,Pelt Sealing,8,1850,94,21,1,6
+html body text p span  ,"Beaver, otter, bobcat, fisher and marten must have a plastic seal attached to the pelt or unskinned animal before:",8,1890,716,17,1,5
+html body text ul li span  ,"It is sold or ownership is transferred to another person, or",48,1924,367,17,1,6
+html body text ul li span  ,"It is mounted or tanned, or",48,1942,170,17,1,6
+html body text ul li span  ,"It leaves New York State, or",48,1960,180,17,1,6
+html body text ul li span  ,10 days have passed since the close of the season where the fur was taken.,48,1978,476,17,1,6
+html body text ul li span  ,"The plastic pelt seals can be removed when the pelt is processed for taxidermy, tanning or manufacturing.",48,2014,676,17,1,6
+html body text p span  ,Here is how you get your pelts sealed. It is a 2 step process.,8,2048,382,17,1,5
+html body text div p strong span  ,Step 1—,8,2082,62,17,1,7
+html body text div p span  ,Filling out your furbearer possession tag,70,2082,263,17,1,6
+html body text div p a span  ,Click for printable tag.,333,2082,146,17,1,7
+html body text div ul li span  ,A possession tag must be filled out for each animal you take.,48,2116,389,17,1,7
+html body text div ul li span  ,"Possession tags must be filled out immediately after you reach your motor vehicle, camp or home, whichever comes first.",48,2134,699,35,1,7
+html body text div ul li span  ,Possession tags must stay with the animal or pelt at all times but they do not need to be attached to the pelt.,48,2170,687,17,1,7
+html body text div p strong span  ,Step 2—,8,2204,62,17,1,7
+html body text div p span  ,Getting your pelt sealed All Species,70,2204,230,17,1,6
+html body text div ul li span  ,A completed furbearer possession tag must be submitted to obtain a plastic pelt seal.,48,2238,539,17,1,7
+html body text div ul li span  ,You can give your pelts to another person (other than a taxidermist) so he or she can get the pelts sealed or get them skinned. You must give that person your trapping license or a copy of your license and your completed possession tags while he or she has your pelts.,48,2256,705,53,1,7
+html body text div p span  ,Beaver,8,2326,45,17,1,6
+html body text div ul li span  ,"Furbearer possession tags for beaver can be submitted by mail, FAX (518) 402-8925 or in person.",48,2360,626,17,1,7
+html body text div ul li span  ,You also may report a beaver using the,48,2378,253,17,1,7
+html body text div ul li a span  ,DECALS,301,2378,67,17,1,8
+html body text div ul li span  ,call-in system. Call 1-866-GAME-RPT.,368,2378,255,17,1,7
+html body text div ul li span  ,Once you have submitted your possession tag(s) for beaver you will be sent or given the plastic pelt seal(s) and instructions.,48,2396,711,35,1,7
+html body text div ul li span  ,"Immediately upon receipt of seal(s), you must attach the seal(s) to the pelt(s).",48,2432,495,17,1,7
+html body text div p span  ,"Otter, Bobcat, Fisher and Marten",8,2466,211,17,1,6
+html body text div ul li span  ,"Only authorized Department representatives can attach the plastic pelt seals to otter, bobcat, fisher or marten.",48,2500,698,17,1,7
+html body text div ul li span  ,Call the regional,48,2518,111,17,1,7
+html body text div ul li a span  ,wildlife office,159,2518,94,17,1,8
+html body text div ul li span  ,"to make arrangements to get your otter, bobcat, fisher, or marten sealed.",253,2518,460,17,1,7
+html body text div ul li span  ,"Prior to having a marten sealed, you must submit the entire carcass.",48,2536,432,17,1,7
+html body text h3 a span  ,Coyote Reporting,8,2573,142,21,1,6
+html body text ul li span  ,Report your coyote by calling the DECALS call-in system. Call 1-866-GAMERPT (1-866-426-3778).,48,2614,654,17,1,6
+html body text ul li span  ,You may use the furbearer Possession Tag to write down the information before you call.,48,2632,570,17,1,6
+html body text h3 a span  ,Buying and Selling Fur,8,2668,186,21,1,6
+html body text ul li span  ,"Species requiring a pelt seal cannot be bought or sold or given to another person unless it has the plastic pelt seal on it. All other species may be bought, sold, and transported without restriction.",48,2709,722,35,1,6
+html body text ul li span  ,Furbearers may be bought or sold either skinned or unskinned.,48,2745,401,17,1,6
+html body text ul li span  ,People who buy fur do not need a fur buyer's license in New York.,48,2763,425,17,1,6
+html body text p a span  ,Back to top of page,8,2797,125,17,0,6

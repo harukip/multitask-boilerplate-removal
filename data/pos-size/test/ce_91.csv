@@ -1,0 +1,978 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,MetaNet - A Metadata Term Thesaurus to Enable Semantic Interoperability Between Metadata Domains,0,0,777,36,0,6
+html body text table tbody tr td p a span  ,Journal of Digital Information,15,29,197,17,0,10
+html body text table tbody tr td p span  ,",",212,29,8,17,0,9
+html body text table tbody tr td p a span  ,Volume 1 Issue 8,220,29,110,17,0,10
+html body text table tbody tr td p span  ,"Article No. 42, 2001-02-08",15,47,175,17,1,9
+html body text table tbody tr td p span  ,To cite this paper please include the details above in the full reference,15,65,447,17,1,9
+html body text table tbody tr td p span  ,Themes:,15,83,59,17,0,9
+html body text table tbody tr td p a span  ,Digital libraries,74,83,105,17,0,10
+html body text table tbody tr td p span  ,",",179,83,8,17,0,9
+html body text table tbody tr td p a span  ,Information discovery,187,83,143,17,0,10
+html body text table tbody tr td p b span  ,Peer reviewed paper,15,119,140,17,1,10
+html body text table tbody tr td p a span  ,Printable version,15,153,113,17,0,10
+html body text table tbody tr td p span  ,available.,128,153,62,17,0,9
+html body text table tbody tr td center h1 span  ,MetaNet - A Metadata Term Thesaurus to Enable,5736,192,675,36,1,10
+html body text table tbody tr td center h1 span  ,Semantic Interoperability Between Metadata Domains,5701,229,745,36,1,10
+html body text table tbody tr td center font span  ,Jane Hunter,6030,288,87,20,1,10
+html body text table tbody tr td center span  ,"DSTC Pty Ltd, University of Queensland, Qld, 4072, Australia",5872,309,403,17,1,9
+html body text table tbody tr td center span  ,Email:,5938,327,47,17,0,9
+html body text table tbody tr td center a span  ,jane@dstc.edu.au,5985,327,117,17,0,10
+html body text table tbody tr td center span  ,Web:,6102,327,37,17,0,9
+html body text table tbody tr td center a span  ,home page,6139,327,70,17,0,10
+html body text table tbody tr td center b span  ,Key features,5864,345,90,17,0,10
+html body text table tbody tr td center a span  ,References,5954,345,75,17,0,10
+html body text table tbody tr td center span  ,; Figures,6029,345,61,17,0,9
+html body text table tbody tr td center a span  ,1,6090,345,12,17,0,10
+html body text table tbody tr td center span  ,",",6102,345,8,17,0,9
+html body text table tbody tr td center a span  ,2,6110,345,12,17,0,10
+html body text table tbody tr td center span  ,",",6122,345,8,17,0,9
+html body text table tbody tr td center a span  ,3,6130,345,12,17,0,10
+html body text table tbody tr td center span  ,",",6142,345,8,17,0,9
+html body text table tbody tr td center a span  ,4,6150,345,12,17,0,10
+html body text table tbody tr td center span  ,; Tables,6162,345,53,17,0,9
+html body text table tbody tr td center a span  ,1,6215,345,12,17,0,10
+html body text table tbody tr td center span  ,",",6227,345,8,17,0,9
+html body text table tbody tr td center a span  ,2,6235,345,12,17,0,10
+html body text table tbody tr td center span  ,",",6247,345,8,17,0,9
+html body text table tbody tr td center a span  ,3,6255,345,12,17,0,10
+html body text table tbody tr td center span  ,",",6267,345,8,17,0,9
+html body text table tbody tr td center a span  ,4,6275,345,8,17,0,10
+html body text table tbody tr td table tbody tr td h3 span  ,Contents,8509,375,72,21,0,13
+html body text table tbody tr td table tbody tr td ul li font span  ,1,8549,418,10,15,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,Introduction,8559,418,64,15,0,16
+html body text table tbody tr td table tbody tr td ul li font span  ,2,8549,436,10,15,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,Definitions of Terms,8559,436,108,15,0,16
+html body text table tbody tr td table tbody tr td ul li font span  ,3,8549,454,10,15,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,Related Work,8559,454,71,15,0,16
+html body text table tbody tr td table tbody tr td ul li font span  ,4,8549,472,10,15,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,Overview of the ABC Underlying MetadataModel,8559,472,262,15,0,16
+html body text table tbody tr td table tbody tr td ul li font span  ,5,8549,490,9,15,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,A Simple Example,8558,490,98,15,0,16
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,Structural Mapping Rules,8589,508,134,15,0,17
+html body text table tbody tr td table tbody tr td ul li font span  ,6,8549,526,9,15,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,An Evaluation of XSLT for MetadataMappings,8558,526,246,15,0,16
+html body text table tbody tr td table tbody tr td ul li font span  ,7,8549,544,10,15,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,Semantic Mapping via a Mapping Matrix,8559,544,215,15,0,16
+html body text table tbody tr td table tbody tr td ul li font span  ,8,8549,562,10,15,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,"Development of MetaNet, a Metadata TermThesaurus",8559,562,280,15,0,16
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,Intrathesaurus and InterthesaurusRelations,8589,580,222,15,0,17
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,Description of MetaNet,8589,598,123,15,0,17
+html body text table tbody tr td table tbody tr td ul li font span  ,9,8549,616,10,15,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,Linking MetaNet to XSLT,8559,616,138,15,0,16
+html body text table tbody tr td table tbody tr td ul li font span  ,10,8549,634,16,15,0,15
+html body text table tbody tr td table tbody tr td ul li font a span  ,"Conclusions, Limitations and FutureWork",8565,634,219,15,0,16
+html body text table tbody tr td table tbody tr td ul li font a span  ,Acknowledgements,8549,652,103,15,0,16
+html body text table tbody tr td table tbody tr td ul li font a span  ,Appendix A,8549,670,63,15,0,16
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,ABC Description of Example Resource,8589,688,206,15,0,17
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,Simple Resource-centric Description of ExampleResource,8589,706,304,15,0,17
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,Dublin Core Description of Simple Example,8589,724,232,15,0,17
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,MPEG-7 Description,8589,742,111,15,0,17
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,ID3 Description,8589,760,84,15,0,17
+html body text table tbody tr td table tbody tr td ul li font a span  ,Appendix B,8549,778,63,15,0,16
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,XSL for Transforming from ABC to DC,8589,796,209,15,0,17
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,XSL for Transforming from ABC to ID3,8589,814,211,15,0,17
+html body text table tbody tr td table tbody tr td ul ul li font a span  ,XSL for Transforming ABC to MPEG-7,8589,832,209,15,0,17
+html body text table tbody tr td h3 span  ,Abstract,15,382,70,21,1,9
+html body text table tbody tr td font span  ,Metadata interoperability is a fundamental requirement foraccess to information within networked knowledge organization systems.The Harmony international digital library project,15,422,946,15,1,9
+html body text table tbody tr td font a span  ,[1],961,422,18,15,0,10
+html body text table tbody tr td font span  ,has developed a common underlying data model (the ABC model) to enablethe scalable mapping of metadata descriptions across domains and mediatypes. The ABC model,979,422,898,15,1,9
+html body text table tbody tr td font a span  ,[2],1877,422,18,15,0,10
+html body text table tbody tr td font span  ,"provides a set of basic buildingblocks for metadata modeling and recognizes the importance of 'events'to describe unambiguously metadata for objects with a complex history.To test and evaluate the interoperability capabilities of this model, weapplied it to some real multimedia examples and analysed the results ofmapping from the ABC model to various different metadata domains usingXSLT",1895,422,2065,15,1,9
+html body text table tbody tr td font a span  ,[3],3960,422,19,15,0,10
+html body text table tbody tr td font span  ,". This work revealed serious limitations in theability of XSLT to support flexible dynamic semantic mapping. To overcomethis, we developed MetaNet",3979,422,788,15,1,9
+html body text table tbody tr td font a span  ,[4],4767,422,18,15,0,10
+html body text table tbody tr td font span  ,", a metadata term thesauruswhich provides the additional semantic knowledge that is non-existent withindeclarative XML-encoded metadata descriptions. This paper describes MetaNet,its RDF Schema",4785,422,1051,15,1,9
+html body text table tbody tr td font a span  ,[5],5836,422,18,15,0,10
+html body text table tbody tr td font span  ,"representation and a hybrid mappingapproach which combines the structural and syntactic mapping capabilitiesof XSLT with the semantic knowledge of MetaNet, to enable flexible anddynamic mapping among metadata standards.",5854,422,1201,15,1,9
+html body text table tbody tr td h2 span  ,1 Introduction,15,458,148,26,1,9
+html body text table tbody tr td span  ,"Networked knowledge organisation systems typically contain objects of mixedmedia types which are described using a multitude of diverse metadata schemas.Hence machine understanding of metadata descriptions which conform to schemasfrom different domains is a fundamental requirement for access to informationwithin networked knowledge organization systems. In particular, there arethree main scenarios in which interoperability among metadata descriptionsis required:",15,505,3084,17,1,8
+html body text table tbody tr td ul li span  ,To enable a single search interface across heterogeneous metadata descriptions;,55,539,508,17,1,10
+html body text table tbody tr td ul li span  ,To enable the integration or merging of descriptions which are based oncomplementary but possibly overlapping metadata schemas or standards;,55,557,927,17,1,10
+html body text table tbody tr td ul li span  ,"To enable different views of the one underlying and complete metadata description,depending on the user's particular interest, perpective or requirements.",55,575,984,17,1,10
+html body text table tbody tr td span  ,Metadata descriptions from different domains are not semantically distinctbut overlap and relate to each other in complex ways. Achieving interoperabilitybetween such metadata descriptions via manually-generated one-to-one crosswalks,15,609,1527,17,1,8
+html body text table tbody tr td a span  ,[6],1542,609,23,17,1,9
+html body text table tbody tr td span  ,"is useful, but this approach does not scale to the many metadata vocabulariesthat will develop. A more scalable and cost-effective approach is to exploitthe fact that many entities and relationships - for example, people, places,creations, organisations, events, etc. - occur across all of the domains.The Harmony project",1565,609,2028,17,1,8
+html body text table tbody tr td a span  ,[1],3593,609,23,17,0,9
+html body text table tbody tr td span  ,has been investigating this moregeneral approach towards metadata interoperability and in the process hasdeveloped the ABC model and vocabulary,3616,609,955,17,1,8
+html body text table tbody tr td a span  ,[2],4571,609,23,17,0,9
+html body text table tbody tr td span  ,.,4594,609,4,17,1,8
+html body text table tbody tr td p span  ,"The hypothesis is that such an approach will lead to more efficient,scalable machine-translations between heterogeneous metadata descriptions.To test this hypothesis and to evaluate the interoperability capabilitiesof the ABC model, we applied it to some real multimedia examples and analysedthe results of mapping from the ABC model to various different metadatadomains using XSLT",15,643,2491,17,1,9
+html body text table tbody tr td p a span  ,[3],2506,643,23,17,0,10
+html body text table tbody tr td p span  ,". This work revealed serious limitationsin XSLT's ability to support flexible dynamic semantic mapping. To overcomethis, we developed MetaNet",2529,643,938,17,1,9
+html body text table tbody tr td p a span  ,[4],3467,643,23,17,0,10
+html body text table tbody tr td p span  ,", a metadata term thesauruswhich provides the additional semantic knowledge that is non-existent withindeclarative XML-encoded metadata descriptions.",3490,643,985,17,1,9
+html body text table tbody tr td p span  ,This paper describes the optimum metadata mapping approach determinedfrom applying the ABC model to a small test set of multimedia examples.This approach combines:,15,677,1110,17,1,9
+html body text table tbody tr td ul li span  ,"the ABC event-aware metadata model, developed within the Harmony project,as the underlying model for scalable generic mappings between domain-specificvocabularies, with;",55,711,1138,17,1,10
+html body text table tbody tr td ul li span  ,"XSLT for parsing XML descriptions and performing structural and syntacticmapping, and;",55,729,579,17,1,10
+html body text table tbody tr td ul li span  ,"MetaNet, a metadata term thesaurus, to provide the semantic knowledge requiredto enable semantic mapping between metadata terms from different domainsor standards.",55,747,1091,17,1,10
+html body text table tbody tr td h2 span  ,2 Definitions of Terms,15,785,226,26,1,9
+html body text table tbody tr td span  ,This section defines the key terms used throughout the remainder of thepaper:,15,832,499,17,1,8
+html body text table tbody tr td ul li i span  ,Metadata,55,866,65,17,1,11
+html body text table tbody tr td ul li span  ,"- data about data - or more commonly ""descriptive informationabout Web resources"". The use of standardized descriptive metadata cansubstantially improve the discovery and retrieval of relevant networkedresources. Different communities or domains have developed their own standardizedmetadata vocaularies to meet their specific needs.",120,866,2181,17,1,10
+html body text table tbody tr td ul li i span  ,Vocabularies,55,884,88,17,1,11
+html body text table tbody tr td ul li span  ,"- shared terminologies with commonly agreed-upon semanticsfor a domain. Common vocabularies enable search engines, agents, authorsand users to communicate within a domain.",143,884,1159,17,1,10
+html body text table tbody tr td ul li i span  ,Schemas,55,902,60,17,1,11
+html body text table tbody tr td ul li span  ,"- provide a standard way of defining standard domain-specificvocabularies by defining a common set of elements, their semantics andthe relationships between the elements.",115,902,1110,17,1,10
+html body text table tbody tr td ul li i span  ,Ontology,55,920,64,17,1,11
+html body text table tbody tr td ul li span  ,"- a formal description of the concepts, roles and relationshipsthat exist for an agent or community of agents. Ontologies provide a sharedand common understanding of a domain that can be communicated across peopleand applications, and play a major role in supporting information exchangeand discovery.",119,920,1967,17,1,10
+html body text table tbody tr td ul li i span  ,Thesaurus,55,938,71,17,1,11
+html body text table tbody tr td ul li span  ,"- the vocabulary of a controlled indexing language, formallyorganized so that the",126,938,522,17,1,10
+html body text table tbody tr td ul li i span  ,a priori,648,938,54,17,1,11
+html body text table tbody tr td ul li span  ,"relationships between concepts (forexample ""broader"" and ""narrower"") are made explicit.",702,938,576,17,1,10
+html body text table tbody tr td ul li a span  ,[7],1278,938,19,17,0,11
+html body text table tbody tr td ul li i span  ,Metadata Thesaurus,55,956,136,17,1,11
+html body text table tbody tr td ul li span  ,- a thesaurus (defined according to ISO 2788standard for monolingual thesauri,191,956,508,17,0,10
+html body text table tbody tr td ul li a span  ,[7],699,956,23,17,0,11
+html body text table tbody tr td ul li span  ,) which defines therelationships between metadata terms from different domain vocabularies.,722,956,597,17,1,10
+html body text table tbody tr td h2 span  ,3 Related Work,15,994,161,26,1,9
+html body text table tbody tr td span  ,"Thesauri have been used to improve the precision and recall of informationretrieval systems for over 30 years. The introduction of automated informationretrieval has caused a dramatic increase in the demand for vocabulary control,particularly in the last decade. Examples of well known thesauri used toprovide authority control over the terms used for indexing documents inthe bibliographic, medical and cultural domains respectively are: the Libraryof Congress Subject Headings (LCSH)",15,1041,3148,17,1,8
+html body text table tbody tr td a span  ,[9],3163,1041,23,17,0,9
+html body text table tbody tr td span  ,", the Medical SubjectHeadings (MeSH)",3186,1041,257,17,1,8
+html body text table tbody tr td a span  ,[10],3443,1041,31,17,0,9
+html body text table tbody tr td span  ,and the Art and Architecture Thesaurus(AAT).,3474,1041,300,17,1,8
+html body text table tbody tr td a span  ,[11],3774,1041,30,17,0,9
+html body text table tbody tr td span  ,"In addition, thesauri have been used withininformation retrieval systems to improve retrieval effectiveness by providingsemantic roadmaps.",3804,1041,898,17,1,8
+html body text table tbody tr td a span  ,[12],4702,1041,31,17,0,9
+html body text table tbody tr td span  ,",",4733,1041,8,17,0,8
+html body text table tbody tr td a span  ,[13],4741,1041,31,17,0,9
+html body text table tbody tr td span  ,",",4772,1041,8,17,0,8
+html body text table tbody tr td a span  ,[14],4780,1041,26,17,0,9
+html body text table tbody tr td p span  ,"Since the emergence of the Internet, a great deal of effort has beeninvested in the development of metadata vocabularies to enable the exchangeand discovery of information across different applications and domains.Metadata vocabularies such as Dublin Core",15,1075,1661,17,1,9
+html body text table tbody tr td p a span  ,[15],1676,1075,30,17,0,10
+html body text table tbody tr td p span  ,", USMARC",1706,1075,80,17,1,9
+html body text table tbody tr td p a span  ,[16],1786,1075,31,17,0,10
+html body text table tbody tr td p span  ,",INDECS",1817,1075,65,17,1,9
+html body text table tbody tr td p a span  ,[17],1882,1075,31,17,0,10
+html body text table tbody tr td p span  ,", MPEG-7",1913,1075,70,17,1,9
+html body text table tbody tr td p a span  ,[18],1983,1075,30,17,0,10
+html body text table tbody tr td p span  ,", FGDC",2013,1075,55,17,1,9
+html body text table tbody tr td p a span  ,[19],2068,1075,31,17,0,10
+html body text table tbody tr td p span  ,",IEEE LOM",2099,1075,82,17,1,9
+html body text table tbody tr td p a span  ,[20],2181,1075,31,17,0,10
+html body text table tbody tr td p span  ,and CIDOC CRM,2212,1075,120,17,1,9
+html body text table tbody tr td p a span  ,[21],2332,1075,31,17,0,10
+html body text table tbody tr td p span  ,"providestandardized sets of descriptive elements to enable the exchange of resourcesfor specific applications or domains. Although these standards enable interoperabilitywithin domains, they introduce the problem of incompatibility between disparateand heterogeneous metadata descriptions or schemas across domains.",2363,1075,2051,17,1,9
+html body text table tbody tr td p span  ,"A literature survey reveals many different proposals for improving interoperabilitybetween domain-specific vocabularies, thesauri and ontologies in the contextof information retrieval and exchange. These range from database schemaintegration",15,1109,1567,17,1,9
+html body text table tbody tr td p a span  ,[22],1582,1109,31,17,0,10
+html body text table tbody tr td p span  ,", to the use of ontologies in organizingand integrating networked information systems (e.g. OBSERVER",1613,1109,671,17,1,9
+html body text table tbody tr td p a span  ,[23],2284,1109,30,17,0,10
+html body text table tbody tr td p span  ,",InfoSleuth",2314,1109,76,17,1,9
+html body text table tbody tr td p a span  ,[24],2390,1109,31,17,0,10
+html body text table tbody tr td p span  ,", OntoSeek",2421,1109,75,17,1,9
+html body text table tbody tr td p a span  ,[25],2496,1109,30,17,0,10
+html body text table tbody tr td p span  ,) tothe merging of monolingual,2526,1109,205,17,1,9
+html body text table tbody tr td p a span  ,[26],2731,1109,31,17,0,10
+html body text table tbody tr td p span  ,and multilingual thesauri.,2762,1109,168,17,1,9
+html body text table tbody tr td p a span  ,[8],2930,1109,22,17,0,10
+html body text table tbody tr td p span  ,Two of the major research issues have been categorizing the complex kindsof interthesaurus semantic relationships which exist,2952,1109,818,17,1,9
+html body text table tbody tr td p a span  ,[27],3770,1109,30,17,0,10
+html body text table tbody tr td p span  ,and automating the detection of these relationships during the mergingprocess.,3800,1109,508,17,1,9
+html body text table tbody tr td p a span  ,[28],4308,1109,27,17,0,10
+html body text table tbody tr td p span  ,More recently the approach to merging thesauri has been to representthem formally using RDF Schemas,15,1143,673,17,1,9
+html body text table tbody tr td p a span  ,[29],688,1143,31,17,0,10
+html body text table tbody tr td p span  ,and to use inferenceengines to automate the merging - such as has been proposed in the OntologyInference Layer (OIL).,719,1143,774,17,1,9
+html body text table tbody tr td p a span  ,[30],1493,1143,27,17,0,10
+html body text table tbody tr td p span  ,In this paper we are not so much concerned with the specific processby which MetaNet is generated or with expressing the complete set of possibleterm relations (as described in ISO 2788) in MetaNet. Our primary objectiveis to generate a thesaurus which specifies (an albeit simplified) set ofsemantic relationships between metadata terms from a number of differentdomain schemas relative to the ABC underlying vocabulary (the preferredterms) and hence also to each other. Our goal is then to demonstrate howthis semantic knowledge can be represented in a machine-readable format(RDF Schema) and extracted and combined with the syntactic and structuralmapping capabilities of XSLT to enable the implementation of flexible dynamicmappings between metadata descriptions from different domains.,15,1177,5184,17,1,9
+html body text table tbody tr td h2 span  ,4 Overview of the ABC Underlying Metadata Model,15,1215,534,26,1,9
+html body text table tbody tr td span  ,The Harmony Project,15,1262,143,17,1,8
+html body text table tbody tr td a span  ,[1],158,1262,22,17,0,9
+html body text table tbody tr td span  ,is investigating a generic approachto metadata interoperability through the development of an event-awaremetadata model. The ABC model,180,1262,900,17,1,8
+html body text table tbody tr td a span  ,[2],1080,1262,23,17,0,9
+html body text table tbody tr td span  ,"defines a set of fundamentalclasses which provide the building blocks for expression (through sub-classing)of application-specific or domain-specific metadata vocabularies. The baseclasses, shown below, were determined by analysing commonalities betweendifferent communities' metadata models (including: Dublin Core",1103,1262,2080,17,1,8
+html body text table tbody tr td a span  ,[15],3183,1262,30,17,0,9
+html body text table tbody tr td span  ,;INDECS,3213,1262,66,17,1,8
+html body text table tbody tr td a span  ,[17],3279,1262,31,17,0,9
+html body text table tbody tr td span  ,; MPEG-7,3310,1262,70,17,1,8
+html body text table tbody tr td a span  ,[18],3380,1262,31,17,0,9
+html body text table tbody tr td span  ,; CIDOC CRM,3411,1262,102,17,1,8
+html body text table tbody tr td a span  ,[21],3513,1262,30,17,0,9
+html body text table tbody tr td span  ,;IFLA,3543,1262,44,17,1,8
+html body text table tbody tr td a span  ,[31],3587,1262,30,17,0,9
+html body text table tbody tr td span  ,.),3617,1262,10,17,1,8
+html body text table tbody tr td ul li span  ,Resources,55,1296,66,17,1,10
+html body text table tbody tr td ul li span  ,Events,55,1314,44,17,1,10
+html body text table tbody tr td ul li span  ,Inputs and Outputs,55,1332,122,17,1,10
+html body text table tbody tr td ul li span  ,Acts,55,1350,29,17,1,10
+html body text table tbody tr td ul ul li span  ,Agents,95,1368,45,17,1,11
+html body text table tbody tr td ul ul li span  ,Roles,95,1386,36,17,1,11
+html body text table tbody tr td ul li span  ,Context,55,1404,51,17,1,10
+html body text table tbody tr td ul ul li span  ,Time,95,1422,33,17,1,11
+html body text table tbody tr td ul ul li span  ,Place,95,1440,35,17,1,11
+html body text table tbody tr td ul li span  ,Event Relations,55,1458,102,17,1,10
+html body text table tbody tr td span  ,"ABC adopts an event-aware view for modeling the relationship between thevarious manifestations of a creation. This event-aware view provides semanticallyclear attachment points for the association of properties among the variousmanifestations, events and contributors (agents) involved in a resource'slifecycle. In addition, ABC provides a multiple views philosophy for metadatamodeling and recipes for inter-conversion between those views. If life-cycleinformation is required, the event model can be used. When single resourcemetadata is needed, a resource-centric state model is used. Figure 1 showsthe UML representation for the ABC metadata model.",15,1492,4241,17,1,8
+html body text table tbody tr td center span  ,Figure 1. UML representation of the ABC metadata model,5886,1542,373,17,0,9
+html body text table tbody tr td h2 span  ,5 A Simple Example,15,1613,206,26,1,9
+html body text table tbody tr td span  ,"To test the ABC model and evaluate XSLT for metadata mapping, we consideredthe following simple illustrative example:",15,1660,785,17,1,8
+html body text table tbody tr td blockquote span  ,"""A resource which is a 130 min audio (MP3) recording of a 'Liveat Lincoln Center' performance. The Orchestra is the New York Philharmonic.The performance was on April 7, 1998 at 8 pm Eastern Time. The musicalscore performed is 'Concerto for Violin'. Copyright for the entire performanceis held by Lincoln Center for the Performing Arts.""",55,1694,2216,17,1,9
+html body text table tbody tr td span  ,"First we describe this resource using the ABC model. We then attempt tomap from the ABC description to Dublin Core, MPEG-7 and ID3",15,1728,889,17,1,8
+html body text table tbody tr td a span  ,[32],904,1728,30,17,1,9
+html body text table tbody tr td span  ,"descriptions respectively, using XSLT. Figure 2 illustrates the two stepsinvolved in mapping from the ABC metadata model to resource-centric modelssuch as Dublin Core, MPEG-7 and ID3:",934,1728,1220,17,1,8
+html body text table tbody tr td ol li span  ,The structural mapping step involves transferring event properties to theoutput resource and creating a relationship between the output and inputresources associated with the event.,55,1762,1153,17,1,10
+html body text table tbody tr td ol li span  ,The semantic mapping step involves mapping the properties attached to theoutput resource to semantically-equivalent properties in the output domain.,55,1780,964,17,1,10
+html body text table tbody tr td a span  ,Appendix A,15,1814,81,17,0,9
+html body text table tbody tr td span  ,"contains the corresponding ABC, Resource-centric,Dublin Core, ID3 and MPEG-7 descriptions.",96,1814,615,17,0,8
+html body text table tbody tr td center p span  ,Figure 2. Transformation from the ABC event-aware model to three differentresource-centric models,5751,1884,645,17,0,10
+html body text table tbody tr td h3 span  ,5.1 Structural Mapping Rules,15,1921,238,21,1,9
+html body text table tbody tr td span  ,"For events which generate an output resource from an input resource, thetransformation from an event-aware metadata model to a simple resource-centricmetadata model consists of the following steps:",15,1962,1289,17,1,8
+html body text table tbody tr td ol li span  ,"The Date, Time and Place properties within the Event's Context node canbe qualified using the Event Type and transferred to the target outputresource, e.g. Date.Performance, Time.Performance, Place.Performance;",55,1996,1374,17,1,10
+html body text table tbody tr td ol li span  ,"The Role property of each Act associated with an event becomes a qualifieron the Agent property which is attached to the target output resource andits value is the Act's Agent Name, e.g. the Agent.Orchestra property hasvalue ""New York Philharmonic"";",55,2014,1618,17,1,10
+html body text table tbody tr td ol li span  ,"A Relation property arc is generated from the event type (e.g. Performance-> Relation.isPerformanceOf) and is attached to the target output resource.The value of this property is the patient input resource of the event (e.g.""comp523"").",55,2032,1497,17,1,10
+html body text table tbody tr td ol li span  ,All other existing properties of the input and output resource remain thesame.,55,2050,497,17,1,10
+html body text table tbody tr td span  ,Other inheritance and metadata derivation rules may be possible but theserequire further investigation.,15,2084,656,17,1,8
+html body text table tbody tr td span  ,"For example, a Description property for the output resource can begenerated from the Event Type and the input resource's Title e.g. ""Performanceof 'Concerto for Violin'"". Or in many cases, the",15,2102,1237,17,1,8
+html body text table tbody tr td i span  ,Title,1252,2102,32,17,1,9
+html body text table tbody tr td span  ,propertycan be inherited by the output resource directly from the Title propertyof either the input resource or the event.,1284,2102,762,17,1,8
+html body text table tbody tr td h2 span  ,6 An Evaluation of XSLT for Metadata Mappings,15,2140,507,26,1,9
+html body text table tbody tr td span  ,The Extensible Style Language (XSL),15,2187,249,17,1,8
+html body text table tbody tr td a span  ,[3],264,2187,23,17,0,9
+html body text table tbody tr td span  ,consists of atransformation language (XSLT) and a formatting language. The transformationlanguage XSLT (which acts independently of the formatting language) provideselements that define rules for how one XML document is transformed intoanother XML document. The transformed XML document may use the markup andDTD of the original document or it may use a completely different set oftags. The ability of XSLT to transform data from one XML representationto another makes it appear to be ideal for metadata interchange applications.,287,2187,3537,17,1,8
+html body text table tbody tr td p span  ,"An XSL document contains a list of templates and rules. A template rulehas a pattern specifying the trees it applies to and a template to be outputwhen the pattern is matched. When an XSL processor formats an XML documentusing an XSL style sheet, it scans the XML document tree looking througheach sub-tree in turn. As each tree in the XML document is read, the processorcompares it with the pattern of each template rule in the style sheet.When the processor finds a tree that matches a template rule's pattern,it outputs the rule's template. This template generally includes some markup,some new data and some data copied out of the tree from the original XMLdocument.",15,2221,4351,17,1,9
+html body text table tbody tr td p span  ,Using XSLT and the Xalan,15,2255,177,17,1,9
+html body text table tbody tr td p a span  ,[33],192,2255,31,17,0,10
+html body text table tbody tr td p span  ,"XSLT processor we developedXSL programs for transforming the ABC description above to DC, ID3 andMPEG-7 descriptions, respectively.",223,2255,909,17,1,9
+html body text table tbody tr td p a span  ,Appendix B,1132,2255,82,17,1,10
+html body text table tbody tr td p span  ,shows the resulting XSL files.,1214,2255,193,17,1,9
+html body text table tbody tr td p span  ,The mapping implementations in,15,2289,215,17,1,9
+html body text table tbody tr td p a span  ,Appendix B,230,2289,82,17,1,10
+html body text table tbody tr td p span  ,"revealedthat although XSLT works well for the structural mapping from an eventmodel to a resource-centric model based on the set of rules described inSection 3.1, it is inadequate for implementing flexible dynamic semanticmappings between metadata vocabularies. This is due to:",312,2289,1807,17,1,9
+html body text table tbody tr td ul li span  ,XSLT's limited capabilities for handling variable input descriptions basedon schemas which are not tightly constrained;,55,2323,764,17,1,10
+html body text table tbody tr td ul li span  ,The non-existence of machine-understandable semantic information in declarativeXML-encoded metadata descriptions;,55,2341,768,17,1,10
+html body text table tbody tr td ul li span  ,Processor-dependent handling of input parameters and procedural code extensions;,55,2359,531,17,1,10
+html body text table tbody tr td ul li span  ,"Limited string manipulation and comparison functions, e.g. it is not possibleto perform case-insensitive string comparisons within XSLT.",55,2377,877,17,1,10
+html body text table tbody tr td span  ,"The mappings revealed that if the input XML descriptions are relativelyfixed and tightly constrained, then the semantic mappings can be hardwiredand XSLT is adequate. But if the input descriptions are at all variableor unpredictable (e.g. undefined domain specific sub-classing and attributes)then XSL simply cannot cope. Cawsey investigated the use of XSLT for customizingRDF descriptions, reaching similar conclusions.",15,2411,2730,17,1,8
+html body text table tbody tr td a span  ,[34],2745,2411,26,17,0,9
+html body text table tbody tr td p span  ,"Below are listed a number of possible approaches to handling the semanticmapping problem. The approach chosen is a balance between simplicity onthe one hand, and flexibility or scalability on the other. The wider thetargeted scope of interoperability, the more difficult it is to achieveaccurate, precise mappings. Below is a list of mapping approaches in increasingorder of both scope and difficulty:",15,2445,2560,17,1,9
+html body text table tbody tr td ol li span  ,"Hardwire crosswalks between metadata terms from specific metadata domains(easy, but only works for fixed input);",55,2479,745,17,1,10
+html body text table tbody tr td ol li span  ,Extract mappings from a pre-defined multiple-domain mapping matrix;,55,2497,457,17,1,10
+html body text table tbody tr td ol li span  ,Determine the semantic mappings from a metadata term ontology;,55,2515,425,17,1,10
+html body text table tbody tr td ol li span  ,Determine the semantic mappings from a generic ontology such as WordNet;,55,2533,493,17,1,10
+html body text table tbody tr td ol li span  ,Determine the semantic mappings from a dynamically generated ontology createdby using inferencing to merge multiple domain-specific ontologies.,55,2551,955,17,1,10
+html body text table tbody tr td span  ,"By reducing the scope of the problem to interoperability between existingmetadata standards, then the fully generic approaches (e.g., 4 and 5 above)become unnecessarily complex. Hence in the remainder of this paper we investigatethe less complex but still moderately flexible approaches (2 and 3) basedon a mapping matrix and a metadata term ontology, respectively.",15,2585,2367,17,1,8
+html body text table tbody tr td h2 span  ,7 Semantic Mapping via a Mapping Matrix,15,2623,444,26,1,9
+html body text table tbody tr td span  ,The second approach in the list above involves linking a mapping matrixto the XSLT processor. The mapping matrix explicitly defines the semanticmappings between a fixed set of metadata vocabularies from a number ofdifferent domains. Figure 3 illustrates such a mapping matrix. If XPath,15,2669,1874,17,1,8
+html body text table tbody tr td a span  ,[35],1889,2669,30,17,1,9
+html body text table tbody tr td span  ,"is used to specify the elements, then to some extent both the structuraland semantic mappings can be defined.",1919,2669,700,17,1,8
+html body text table tbody tr td table caption span  ,Table 1. Metadata mapping matrix,427,2703,220,17,0,10
+html body text table tbody tr td table tbody tr th span  ,ABC Element,49,2726,95,17,0,12
+html body text table tbody tr td table tbody tr th span  ,DC Element,201,2726,84,17,0,12
+html body text table tbody tr td table tbody tr th span  ,ID3 Element,403,2726,86,17,0,12
+html body text table tbody tr td table tbody tr th span  ,MPEG-7 Path,771,2726,97,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Resource/Title,20,2759,94,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Title,179,2759,30,17,0,12
+html body text table tbody tr td table tbody tr td span  ,TIT2,313,2759,33,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"CreationMetaInformation/Creation/Title/TitleText (@TitleType=""original"")",585,2750,320,35,0,12
+html body text table tbody tr td table tbody tr td span  ,Event/Act/Agent,20,2897,108,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Creator,179,2792,48,17,0,12
+html body text table tbody tr td table tbody tr td span  ,TPE1,313,2792,36,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"CreationMetaInformation/Creation/Creator (@role=""creator"")",585,2792,397,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Publisher,179,2816,60,17,0,12
+html body text table tbody tr td table tbody tr td span  ,TPUB,313,2816,41,17,0,12
+html body text table tbody tr td table tbody tr td span  ,UsageMetaInformation/Publication/Publisher,585,2816,292,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Contributor,179,2921,75,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"IPLS(involved People List),",313,2840,180,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"TCOM(Composer),",313,2858,127,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"TENC(Encoder),",313,2876,110,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"TEXT(Lyricist),",313,2894,104,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"TOLY(OriginalLyricist),",313,2912,158,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"TOPE(Original Artist),",313,2930,147,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"TPE2(Band, Orchestra, Accompaniment),",313,2948,150,35,0,12
+html body text table tbody tr td table tbody tr td span  ,"TPE3(Conductor),",313,2984,119,17,0,12
+html body text table tbody tr td table tbody tr td span  ,"TPE4 (Interpreter, Remixer, Modifier)",313,3002,245,17,0,12
+html body text table tbody tr td table tbody tr td span  ,CreationMetaInformation/Creation/Creator (@role),585,2921,331,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Resource/Subject,20,3026,112,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Subject,179,3026,48,17,0,12
+html body text table tbody tr td table tbody tr td span  ,TIT1,313,3026,33,17,0,12
+html body text table tbody tr td table tbody tr td span  ,CreationMetaInformation/Creation/Classification/PackagedType,585,3026,414,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Resource/Description,20,3050,139,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Description,179,3050,75,17,0,12
+html body text table tbody tr td table tbody tr td span  ,TIT3,313,3050,33,17,0,12
+html body text table tbody tr td table tbody tr td span  ,CreationMetaInformation/Creation/CreationDescription,585,3050,358,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Event/Context/Date,20,3098,127,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Date.Creation,179,3074,89,17,0,12
+html body text table tbody tr td table tbody tr td span  ,-,313,3074,5,17,0,12
+html body text table tbody tr td table tbody tr td span  ,CreationMetaInformation/Creation/CreationDate,585,3074,314,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Date.Publication,179,3098,107,17,0,12
+html body text table tbody tr td table tbody tr td span  ,-,313,3098,5,17,0,12
+html body text table tbody tr td table tbody tr td span  ,UsageMetaInformation/Publication/PublicationDate,585,3098,334,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Date.Recording,179,3122,101,17,0,12
+html body text table tbody tr td table tbody tr td span  ,TRDA,313,3122,44,17,0,12
+html body text table tbody tr td table tbody tr td span  ,-,585,3122,5,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Resource/Type,20,3146,96,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Type,179,3146,32,17,0,12
+html body text table tbody tr td table tbody tr td span  ,TCON,313,3146,44,17,0,12
+html body text table tbody tr td table tbody tr td span  ,CreationMetaInformation/Classification/Genre,585,3146,300,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Resource/Format,20,3194,110,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Format,179,3170,46,17,0,12
+html body text table tbody tr td table tbody tr td span  ,TFLT,313,3170,37,17,0,12
+html body text table tbody tr td table tbody tr td span  ,MediaInformation.MediaProfile/MediaFormat/FileFormat,585,3170,373,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Format.length,179,3194,90,17,0,12
+html body text table tbody tr td table tbody tr td span  ,TLEN,313,3194,41,17,0,12
+html body text table tbody tr td table tbody tr td span  ,-,585,3194,5,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Format.size,179,3218,75,17,0,12
+html body text table tbody tr td table tbody tr td span  ,TSIZ,313,3218,34,17,0,12
+html body text table tbody tr td table tbody tr td span  ,-,585,3218,5,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Resource/Identifier,20,3242,124,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Identifier,179,3242,60,17,0,12
+html body text table tbody tr td table tbody tr td span  ,UFID,313,3242,37,17,0,12
+html body text table tbody tr td table tbody tr td span  ,MediaInformation/MediaIdentification/Identifier,585,3242,313,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Event/Input,20,3275,76,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Source,179,3275,44,17,0,12
+html body text table tbody tr td table tbody tr td span  ,TOAL (Title of original recording or source),313,3266,234,35,0,12
+html body text table tbody tr td table tbody tr td span  ,-,585,3275,5,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Event/Context/Place,20,3308,132,17,0,12
+html body text table tbody tr td table tbody tr td span  ,Coverage.Place,179,3308,100,17,0,12
+html body text table tbody tr td table tbody tr td span  ,-,313,3308,5,17,0,12
+html body text table tbody tr td table tbody tr td span  ,-,585,3308,5,17,0,12
+html body text table tbody tr td p span  ,"This approach has certain debilitating limitations, however. A matrixis only capable of specifying mappings which involve fairly simple one-to-onemappings, and a two-dimensional matrix will only work if the mappings aresymmetrical in both directions across all the domains. If the mappingsare asymetrical then the matrix becomes highly complex and multi-dimensional.However, the primary limitation of this approach is that it simply doesnot scale - as the number of domains grows and the mappings become asymmetrical,then the matrix becomes excessively complex and unwieldy.",15,3347,3774,17,1,9
+html body text table tbody tr td h2 span  ,"8 Development of MetaNet, a Metadata Term Thesaurus",15,3385,577,26,1,9
+html body text table tbody tr td span  ,"Rather than limiting the semantic mapping to a fixed number of domains/vocabularies(i.e. the number of columns in the mapping matrix), a more generic approachis to extract the mapping dynamically from a thesaurus of metadata terms,generated by formally defining relationships between metadata terms froma number of different domains' standardized vocabularies.",15,3432,2369,17,1,8
+html body text table tbody tr td h3 span  ,8.1 Intrathesaurus and Interthesaurus Relations,15,3469,385,21,1,9
+html body text table tbody tr td span  ,The ISO2788 standard for the identification and documentation of monolingualthesauri,15,3510,563,17,1,8
+html body text table tbody tr td a span  ,[7],578,3510,23,17,0,9
+html body text table tbody tr td span  ,identifies the following types of intrathesaurusrelations:,601,3510,358,17,1,8
+html body text table tbody tr td ul li span  ,hierarchical,55,3544,76,17,1,10
+html body text table tbody tr td ul li span  ,associative,55,3562,70,17,1,10
+html body text table tbody tr td ul li span  ,equivalence,55,3580,76,17,1,10
+html body text table tbody tr td span  ,"The hierarchical relation occurs between concepts having ""broader/narrower""meanings. This can be further specialized into the generic (BTG/NTG), whole-part(BTP/NTP) and instance (BT/NT) relations. For the sake of simplicity, wehave chosen only to model the BTG/NTG relation (a common practice amongthesauri developers) and the equivalence relation, and not to include associativerelations within MetaNet.",15,3614,2676,17,1,8
+html body text table tbody tr td p span  ,The ISO5964 standard for the documentation and establishment of multilingualthesauri,15,3648,563,17,1,9
+html body text table tbody tr td p a span  ,[8],578,3648,23,17,0,10
+html body text table tbody tr td p span  ,identifies the following types of interthesaurusrelations:,601,3648,358,17,1,9
+html body text table tbody tr td ul li span  ,exact equivalence,55,3682,114,17,1,10
+html body text table tbody tr td ul li span  ,partial equivalence,55,3700,121,17,1,10
+html body text table tbody tr td ul li span  ,single to multiple equivalence,55,3718,192,17,1,10
+html body text table tbody tr td ul li span  ,inexact equivalence.,55,3736,131,17,1,10
+html body text table tbody tr td span  ,"These relations indicate that the semantic relations between terms fromdifferent metadata vocabularies are likely to be much more complex thanone-to-one exact equivalence and that even ""exact equivalence"" will bean approximation. However, because the scope of our problem is limitedto relations between terms in a number of standardized English metadatavocabularies, then we can expect the frequency of more complex mappingsto be less than for general natural language thesauri. For the first draftof MetaNet, we decided only to consider exact and partial equivalence relationsand to combine them in the ET relation which defines equivalent/overlappingterms. If two different domains use two different metadata terms whichare ETs in our thesaurus then we make the assumption that the domains arereferring to semantically equivalent concepts.",15,3770,5474,17,1,8
+html body text table tbody tr td p span  ,"Consequently the metadata term thesaurus which we have developed,",15,3804,449,17,1,9
+html body text table tbody tr td p i span  ,MetaNet,464,3804,59,17,1,10
+html body text table tbody tr td p a span  ,[4],523,3804,23,17,0,10
+html body text table tbody tr td p span  ,",contains only preferred terms (the ABC core vocabulary), equivalent/overlappingterms (ET), narrower terms (NT) and broader terms (BT), and attempts toencompass terms from the most significant and widely-used metadata vocabularies(Dublin Core, IFLA, IEEE LOM, INDECS).",546,3804,1812,17,1,9
+html body text table tbody tr td h3 span  ,8.2 Description of MetaNet,15,3840,215,21,1,9
+html body text table tbody tr td span  ,The objective of the,15,3881,132,17,1,8
+html body text table tbody tr td i span  ,MetaNet,147,3881,59,17,1,9
+html body text table tbody tr td span  ,"thesaurus is to provide the semanticknowledge required to enable machine understanding of equivalence and hierarchical(subtyping) relationships between metadata terms from different domains.The scope of this thesaurus is limited to the most significant metadatamodels/vocabularies used for describing attributes and events associatedwith resources and their life cycles. This encompasses metadata vocabulariesfrom the bibliographic, museum, archival, record keeping and rights managementcommunities. It has been developed by performing WordNet",206,3881,3567,17,1,8
+html body text table tbody tr td a span  ,[36],3773,3881,31,17,0,9
+html body text table tbody tr td span  ,"searches using the core terms from the ABC vocabulary, and extracting thosesynonyms and hyponyms which could conceivably be used in a metadata schemeto represent the original core term. In addition, the results have beencompared with the vocabularies of the DC, INDECS, IFLA, IMS and CIDOC CRMvocabularies to check that the majority of the terms used in these metadatadictionaries have been incorporated into the thesaurus.",3804,3881,2813,17,1,8
+html body text table tbody tr td p span  ,A machine-readable RDF Schema representation of this thesaurus has beendeveloped.,15,3915,555,17,1,9
+html body text table tbody tr td p a span  ,[37],570,3915,30,17,0,10
+html body text table tbody tr td p span  ,"The RDF and RDF Schema elements,",600,3915,246,17,1,9
+html body text table tbody tr td p i span  ,Class,846,3915,40,17,1,10
+html body text table tbody tr td p span  ,",",886,3915,8,17,1,9
+html body text table tbody tr td p i span  ,subClassOf,894,3915,77,17,1,10
+html body text table tbody tr td p span  ,",",971,3915,8,17,1,9
+html body text table tbody tr td p i span  ,property,979,3915,59,17,1,10
+html body text table tbody tr td p span  ,",",1038,3915,8,17,1,9
+html body text table tbody tr td p i span  ,subPropertyOf,1046,3915,98,17,1,10
+html body text table tbody tr td p span  ,are used to define the hierarchical/subtyping andentity/attribute relationships between metadata elements. The RDFS,1144,3915,752,17,1,9
+html body text table tbody tr td p i span  ,label,1896,3915,36,17,1,10
+html body text table tbody tr td p span  ,"element is used to specify semantically equivalent terms which may be used.The ABC core vocabulary is used as the top-level set of preferred terms.Although this thesaurus has been generated manually, it could conceivablybe generated automatically by using inferencing mechanisms to merge RDFSchemas from different domains, as has been proposed in the Ontology InferenceLayer (OIL).",1932,3915,2526,17,1,9
+html body text table tbody tr td p a span  ,[30],4458,3915,27,17,1,10
+html body text table tbody tr td p span  ,"For example, consider ""Agent"", which is a core term of the ABC vocabularyand hence a preferred term in the MetaNet thesaurus. Semantically equivalentterms for ""Agent"", commonly used within other metadata vocabularies, include:",15,3949,1499,17,1,9
+html body text table tbody tr td p i span  ,"actor, contributor, creator, player, doer, worker, performer",15,3967,371,17,1,10
+html body text table tbody tr td p span  ,Possible narrower terms or,15,4001,176,17,1,9
+html body text table tbody tr td p i span  ,hyponyms,191,4001,68,17,1,10
+html body text table tbody tr td p span  ,"for ""Agent"" include:",259,4001,130,17,1,9
+html body text table tbody tr td p i span  ,"author, composer, artist, musician, . . etc.",15,4019,264,17,1,10
+html body text table tbody tr td p span  ,"Table 2 is an excerpt from the RDF Schema which illustrates the representationfor the ""Agent"" metadata term as well as its equivalent terms and a partialhierarchy of its narrower terms.",15,4053,1182,17,1,9
+html body text table tbody tr td center table caption span  ,Table 2. Excerpt from the RDF Schema,5947,4087,254,17,0,11
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class  ,Â Â Â,2448,4123,2692,15,0,17
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:comment  ,"The resources which contribute to or actÂ Â Â Â Â Â Â in an event. Typically agents are people, groups of people,Â Â Â Â Â Â Â Â organisations or instruments.Â Â Â",2448,4123,2692,15,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:comment rdfs:label  ,Actor,2448,4123,2692,15,0,19
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:comment  ,Â Â Â,2448,4123,2692,15,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:comment rdfs:label  ,Contributor,2448,4123,2692,15,0,19
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:comment  ,Â Â Â,2448,4123,2692,15,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:comment rdfs:label  ,Creator,2448,4123,2692,15,0,19
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:comment  ,Â Â Â,2448,4123,2692,15,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:comment rdfs:label  ,Player,2448,4123,2692,15,0,19
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:comment  ,Â Â Â,2448,4123,2692,15,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:comment rdfs:label  ,Doer,2448,4123,2692,15,0,19
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:comment  ,Â Â Â,2448,4123,2692,15,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:comment rdfs:label  ,Worker,2448,4123,2692,15,0,19
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:comment  ,Â Â Â,2448,4123,2692,15,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:comment rdfs:label  ,Performer,2448,4123,2692,15,0,19
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:comment  ,Â Â Â,2448,4123,2692,15,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class  ,Â Â Â,2448,4123,2692,15,0,17
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:label  ,Writer,2448,4123,2692,15,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class  ,Â Â Â,2448,4123,2692,15,0,17
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:label  ,Wordsmith,2448,4123,2692,15,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class  ,Â Â Â,2448,4123,2692,15,0,17
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class  ,Â Â Â,2448,4123,2692,15,0,17
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:label  ,Columnist,2448,4123,2692,15,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class  ,Â Â Â,2448,4123,2692,15,0,17
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class rdfs:label  ,Reporter,2448,4123,2692,15,0,18
+html body text table tbody tr td center table tbody tr td pre tt span rdf:rdf rdfs:class  ,Â Â Â,2448,4123,2692,15,0,17
+html body text table tbody tr td p span  ,A Web search and browse interface to MetaNet has also been developed.,15,4172,469,17,1,9
+html body text table tbody tr td p a span  ,[4],484,4172,23,17,0,10
+html body text table tbody tr td p span  ,"Users can search on any common metadata term and retrieve a list of equivalentterms, broader terms and narrower terms. Figure 3 shows the results ofa search on the term ""author"".",507,4172,1155,17,1,9
+html body text table tbody tr td center p span  ,Figure 3. Results of MetaNet search,5958,4258,231,17,0,10
+html body text table tbody tr td h2 span  ,9 Linking MetaNet to XSLT,15,4296,287,26,1,9
+html body text table tbody tr td span  ,Using XSLT it is possible to parse an input XML description and for eachelement encountered call a Java procedural code extension which determinesthe equivalent term in the output domain from the semantic realtionshipsspecified in the MetaNet thesaurus.,15,4343,1656,17,1,8
+html body text table tbody tr td p span  ,"For example, suppose the Java program, Mapping.java, contains an extensionfunction",15,4377,554,17,1,9
+html body text table tbody tr td p i span  ,readMetaNet,569,4377,87,17,1,10
+html body text table tbody tr td p span  ,". For each element encountered during parsingof the input metadata description, the input element name (e.g. abc:Agent)and the output domain schema definition (e.g. the Dublin Core schema) arepassed to the",656,4377,1342,17,1,9
+html body text table tbody tr td p i span  ,readMetaNet,1998,4377,88,17,1,10
+html body text table tbody tr td p span  ,"function. This function searches the MetaNetRDF Schema file for an element in the output schema definition that isequivalent to the input element name (e.g. dc:contributor), and returnsthis value. XSL creates a new output element with this name in the outputdescription. Figure 4 illustrates the program flowchart.",2086,4377,2013,17,1,9
+html body text table tbody tr td center p span  ,Figure 4. Program flow for metadata description mappings,5886,4461,375,17,0,10
+html body text table tbody tr td p span  ,"The XSL code in Table 3 illustrates how to call a Java extension function,",15,4495,476,17,1,9
+html body text table tbody tr td p i span  ,readMetaNet,491,4495,87,17,1,10
+html body text table tbody tr td p span  ,",from the main XSL file.",578,4495,158,17,1,9
+html body text table tbody tr td center table caption span  ,"Table 3. XSL code to call a Java extension function,",5784,4529,337,17,0,11
+html body text table tbody tr td center table caption i span  ,"readMetaNet,",6121,4529,92,17,0,12
+html body text table tbody tr td center table caption span  ,from the main XSL file,6213,4529,149,17,0,11
+html body text table tbody tr td center table tbody tr td pre tt span  ,Â,2448,4565,2216,15,0,15
+html body text table tbody tr td center table tbody tr td pre tt span xsl:stylesheet  ,"Â Â Â Â Â Â xmlns:lxslt=""""Â Â Â Â Â Â xmlns:mapping=""Mapping""Â Â Â Â Â Â extension-element-prefixes=""mapping""Â Â Â Â Â Â version=""1.0"">Â Â",2448,4565,2216,15,0,16
+html body text table tbody tr td center table tbody tr td pre tt span xsl:stylesheet lxslt:component  ,Â Â Â Â Â Â Â,2448,4565,2216,15,0,17
+html body text table tbody tr td center table tbody tr td pre tt span xsl:stylesheet lxslt:component lxslt:script  ,Â Â,2448,4565,2216,15,0,18
+html body text table tbody tr td center table tbody tr td pre tt span xsl:stylesheet  ,Â Â Â,2448,4565,2216,15,0,16
+html body text table tbody tr td center table tbody tr td pre tt span xsl:stylesheet xsl:template  ,Â Â Â Â Â Â Â Â Â Â Â,2448,4565,2216,15,0,17
+html body text table tbody tr td center table tbody tr td pre tt span xsl:stylesheet xsl:template xsl:apply-templates  ,Â Â Â,2448,4565,2216,15,0,18
+html body text table tbody tr td center table tbody tr td pre tt span xsl:stylesheet  ,Â Â Â,2448,4565,2216,15,0,16
+html body text table tbody tr td center table tbody tr td pre tt span xsl:stylesheet xsl:template  ,Â Â Â Â Â Â Â,2448,4565,2216,15,0,17
+html body text table tbody tr td center table tbody tr td pre tt span xsl:stylesheet xsl:template xsl:element  ,Â Â Â Â Â Â Â Â Â Â,2448,4565,2216,15,0,18
+html body text table tbody tr td center table tbody tr td pre tt span xsl:stylesheet xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â Â,2448,4565,2216,15,0,19
+html body text table tbody tr td center table tbody tr td pre tt span xsl:stylesheet xsl:template  ,Â Â Â,2448,4565,2216,15,0,17
+html body text table tbody tr td center table tbody tr td pre tt span xsl:stylesheet  ,Â Â Â Â Â Â Â Â,2448,4565,2216,15,0,16
+html body text table tbody tr td p span  ,"Below is a high-level, simplistic algorithm describing the mapping processthat is performed within the readMetaNet Java function in Figure 4.",15,4614,912,17,1,9
+html body text table tbody tr td center table caption span  ,Table 4. Algorithm describing the mapping process within the,5750,4648,399,17,1,11
+html body text table tbody tr td center table caption i span  ,readMetaNet,6149,4648,88,17,1,12
+html body text table tbody tr td center table caption span  ,Java function in Figure 4,6237,4648,160,17,1,11
+html body text table tbody tr td center table tbody tr td pre tt span  ,For each element in the input description{Â Â Â Search for the input element name in the output domain schema;Â Â Â if (found) {Â Â Â Â Â Â Map the input element to the equivalent output domain element;Â Â Â }Â Â Â else {Â Â Â Â Â Â Extract the Equivalent Terms (ETs) for the input element from MetaNet;Â Â Â Â Â Â Search the output domain schema for each of the ETs;Â Â Â Â Â Â if (an ET is found)Â Â Â Â Â Â {Â Â Â Â Â Â Â Â Â Map the input element to the equivalent output domain element;Â Â Â Â Â Â }Â Â Â Â Â Â else {Â Â Â Â Â Â Â Â Â Extract the broader terms (BTs) for the input element from MetaNet;Â Â Â Â Â Â Â Â Â Search for each BT in the output domain namespace;Â Â Â Â Â Â Â Â Â if (a BT is found)Â Â Â Â Â Â Â Â Â {Â Â Â Â Â Â Â Â Â Â Â Â Map the input element to the broader output domain element;Â Â Â Â Â Â Â Â Â }Â Â Â Â Â Â Â Â Â else {Â Â Â Â Â Â Â Â Â Â Â Â Extract the narrower terms (NTs) for the input element from MetaNet;Â Â Â Â Â Â Â Â Â Â Â Â Search for each NT in the output domain namespace;Â Â Â Â Â Â Â Â Â Â Â Â if (a NT is found)Â Â Â Â Â Â Â Â Â Â Â Â {Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Map the input element to the narrower output domain element;Â Â Â Â Â Â Â Â Â Â Â Â }Â Â Â Â Â Â Â Â }Â Â Â Â Â }Â Â Â }} endFor,1100,4684,9947,15,0,15
+html body text table tbody tr td h2 span  ,"10 Conclusions, Limitations and Future Work",15,4737,470,26,1,9
+html body text table tbody tr td h3 span  ,10.1 Conclusions and Limitations,15,4784,266,21,1,9
+html body text table tbody tr td span  ,"Our evaluation of XSLT for mapping between metadata descriptions from differentdomains revealed that although XSLT is good for syntactical and structuralmapping, semantic mappings need to be hardwired into the code. Flexiblesemantic mapping is only possible with the assistance of semantic knowledgebases provided by ontologies or thesauruses such as the MetaNet thesaurusdescribed above.",15,4824,2569,17,1,8
+html body text table tbody tr td p span  ,"The MetaNet thesaurus described here is a first draft English version,based on the vocabulary of the ABC model. Although it has only been appliedto a relatively small sample set, some of the limitations of this thesaurusare already evident. These include its inability to support metadata vocabularieswhich use:",15,4858,1984,17,1,9
+html body text table tbody tr td ul li span  ,"Tokens, e.g. ID3 tags such as TPE2, which are semantically meaningless.This limitation can be overcome by either explicitly including such tagsin the thesaurus or searching the definitions (rather than element names)in the output namespace for the input element name or its semanticallyequivalent terms;",55,4892,1954,17,1,10
+html body text table tbody tr td ul li span  ,"Abbreviations, e.g. acc.no.;",55,4910,176,17,1,10
+html body text table tbody tr td ul li span  ,"Qualifers or hybrid words joined by a variety of connectors, e.g. UserClass,Assistant Editor, Art_Director, Time-span. This problem can be solved tosome extent by including ""associated terms"" in the thesaurus and by ignoringtypical ""connectors"".",55,4928,1579,17,1,10
+html body text table tbody tr td span  ,"In addition, the inherently ambiguous nature of language leads to the followingproblems:",15,4962,571,17,1,8
+html body text table tbody tr td ul li span  ,"Metadata terms with multiple possible meanings, e.g.""condition"" - thiscould be the current state of an object or it could be a restriction onthe permissable use of a resource. This can be overcome by the use of unambiguousmetadata terms by schema designers.",55,4996,1655,17,1,10
+html body text table tbody tr td ul li span  ,"Multiple possible spellings for the same word, e.g. artefact/artifact,colour/color.",55,5014,511,17,1,10
+html body text table tbody tr td ul li span  ,"This thesaurus is based on nouns, e.g. ""creator"", ""publisher"", and doesnot search for related verbs, adverbs, adjectives in various tenses whichcould be used to express the same semantics, e.g. ""created_by"", ""published_by"".This problem could, to some extent, be overcome through the use of stemming.",55,5032,1927,17,1,10
+html body text table tbody tr td span  ,"Currently only English is supported. However, we believe that this thesauruscould be extended to provide equivalent or overlapping terms for the ABCvocabulary in other languages by following the recommendations specifiedin ISO5964.",15,5066,1531,17,1,8
+html body text table tbody tr td a span  ,[8],1546,5066,18,17,0,9
+html body text table tbody tr td h3 span  ,10.2 Future Work,15,5103,142,21,1,9
+html body text table tbody tr td span  ,"So far the ABC model has only been tested on a relatively small sampleset. We intend carrying out more extensive evaluation of both the ABC modeland the hybrid mapping approach, by applying them to metadata tranformationsbetween large sets of sample records provided by a number of differentCIMI",15,5144,1963,17,1,8
+html body text table tbody tr td a span  ,[38],1978,5144,31,17,0,9
+html body text table tbody tr td span  ,member organisations. The plan is to builda testbed using multimedia museum resources and metadata descriptions providedby CIMI members and to use this testbed to implement and evaluate metadatainteroperability between different museums' descriptions.,2009,5144,1665,17,1,8
+html body text table tbody tr td p span  ,The Harmony ABC model exhibits many similarities with the CIDOC ConceptualReference Model (CRM),15,5178,690,17,1,9
+html body text table tbody tr td p a span  ,[21],705,5178,31,17,0,10
+html body text table tbody tr td p span  ,", a domain ontology developedby the CIDOC Committee of the International Council of Museums. In thenear future we plan to investigate the possible merging of the Harmonymodel and the CIDOC CRM model into a single ontology. We plan to use theCIMI testbed described above to evaluate the ""super"" ontology resultingfrom harmonization of these two models.",736,5178,2353,17,1,9
+html body text table tbody tr td p span  ,"The mapping implementations above have all involved mapping from anevent-aware metadata model to a resource-centric metadata model. We arealso interested in the rules and mechanisms required for machine translationsbetween metadata descriptions based on different event-aware metadata models,e.g. from ABC to INDECS or CIDOC CRM.",15,5212,2237,17,1,9
+html body text table tbody tr td p span  ,"We would also like to investigate mapping between ""application profiles""or schemas which mix metadata elements imported from multiple differentnamespaces. The test examples considered so far only present the problemof mapping from a single domain's metadata description to another singledomain's metadata description, e.g. pure DC to pure MPEG-7. A situationthat will become increasingly common in the future is the need to map froma schema which imports elements from multiple namespaces to another schemawhich imports a different set of elements from multiple namespaces. Inaddition, each schema may impose its own local",15,5246,4129,17,1,9
+html body text table tbody tr td ul li span  ,"structural constraints, e.g. parent/child relationships",55,5280,331,17,1,10
+html body text table tbody tr td ul li span  ,cardinality/occurrence constraints,55,5298,216,17,1,10
+html body text table tbody tr td ul li span  ,"datatyping, enumeration and formatting constraints on the element values.",55,5316,475,17,1,10
+html body text table tbody tr td span  ,"We believe the approach proposed in this paper will support mapping betweenmixed-domain ""application profiles"", but need to test this through furtherresearch involving machine translations between metadata descriptions whichconform with both complex local usage constraints, (defined by XML Schemas",15,5350,1980,17,1,8
+html body text table tbody tr td a span  ,[39],1995,5350,30,17,0,9
+html body text table tbody tr td span  ,"),as well as namespace-specific semantic definitions (defined by RDF Schemas).",2025,5350,517,17,1,8
+html body text table tbody tr td h2 span  ,Acknowledgements,15,5388,199,26,1,9
+html body text table tbody tr td span  ,"The author acknowledges the valuable contributions which discussions withDan Brickley, Carl Lagoze, Martin Doerr and Sigge Lundberg have made tothis work.",15,5435,1038,17,1,8
+html body text table tbody tr td p span  ,"The work reported in this paper has been funded by the Cooperative ResearchCentre for Enterprise Distributed Systems Technology (DSTC) through theAustralian Federal Government's CRC Programme (Department of Industry,Science and Resources).",15,5469,1624,17,1,9
+html body text table tbody tr td h2 span  ,References,15,5507,112,26,1,9
+html body text table tbody tr td span  ,[,15,5554,9,17,1,8
+html body text table tbody tr td span  ,1]The Harmony Project Home Page,24,5554,230,17,1,8
+html body text table tbody tr td p span  ,[,15,5588,9,17,1,9
+html body text table tbody tr td p span  ,"2] C. Lagoze, J. Hunter and D. Brickley (2000) ""AnEvent-Aware Model for Metadata Interoperability"".",24,5588,666,17,1,9
+html body text table tbody tr td p i span  ,ECDL 2000,690,5588,81,17,1,10
+html body text table tbody tr td p span  ,", Lisbon,September",771,5588,125,17,1,9
+html body text table tbody tr td p span  ,[,15,5622,9,17,1,9
+html body text table tbody tr td p span  ,"3] XSL Transformations (XSLT) Version 1.0 (1999) W3CRecommendation, 16 November",24,5622,582,17,1,9
+html body text table tbody tr td p a span  ,TR/xslt.html,606,5622,82,17,0,10
+html body text table tbody tr td p span  ,[,15,5656,9,17,1,9
+html body text table tbody tr td p span  ,4] MetaNet Search Page,24,5656,160,17,1,9
+html body text table tbody tr td p a span  ,Metanet/Top.html,184,5656,115,17,0,10
+html body text table tbody tr td p span  ,[,15,5690,9,17,1,9
+html body text table tbody tr td p span  ,"5] RDFSchema Specification 1.0 (2000) W3C Candidate Recommendation, 27 March",24,5690,555,17,1,9
+html body text table tbody tr td p a span  ,TR/rdf-schema/,579,5690,101,17,0,10
+html body text table tbody tr td p span  ,[,15,5724,9,17,1,9
+html body text table tbody tr td p span  ,6] Dublin Core/MARC/GILS Crosswalk (1999) November,24,5724,379,17,1,9
+html body text table tbody tr td p span  ,[,15,5758,9,17,1,9
+html body text table tbody tr td p span  ,7] ISO 2788 (1986) Documentation -- Guidelines forthe Development and Establishment of Monolingual Thesauri,24,5758,735,17,1,9
+html body text table tbody tr td p span  ,[,15,5792,9,17,1,9
+html body text table tbody tr td p span  ,8] ISO 5964 (1985) Documentation -- Guidelines forthe Development and Establishment of Multilingual Thesauri,24,5792,732,17,1,9
+html body text table tbody tr td p span  ,[,15,5826,9,17,1,9
+html body text table tbody tr td p span  ,"9] Library of Congress Subject Headings, CatalogingDistribution Service, Library of Congress",24,5826,607,17,1,9
+html body text table tbody tr td p span  ,[,15,5860,9,17,1,9
+html body text table tbody tr td p span  ,10] Medical Subject Headings home page,24,5860,268,17,1,9
+html body text table tbody tr td p span  ,[,15,5894,9,17,1,9
+html body text table tbody tr td p span  ,"11] Art and Architecture Thesaurus Browser, GettyResearch Institute",24,5894,441,17,1,9
+html body text table tbody tr td p span  ,[,15,5928,9,17,1,9
+html body text table tbody tr td p span  ,"12] C. Paice (1991) ""A Thesaural Model of InformationRetrieval"".",24,5928,430,17,1,9
+html body text table tbody tr td p i span  ,Information Processing and Management,454,5928,271,17,1,10
+html body text table tbody tr td p span  ,", 27(5):433-447",725,5928,100,17,1,9
+html body text table tbody tr td p span  ,[,15,5962,9,17,1,9
+html body text table tbody tr td p span  ,"13] A.R. Aronson (1994) ""Exploiting a Large Thesaurusfor Information Retrieval"". RIAO 94, New York, October",24,5962,727,17,1,9
+html body text table tbody tr td p span  ,[,15,5996,9,17,1,9
+html body text table tbody tr td p span  ,"14] W. Bruce Croft and J. Yufeng (1994) ""An AssociationThesaurus for Information Retrieval"". RIAO 94, New York, October",24,5996,807,17,1,9
+html body text table tbody tr td p span  ,[,15,6030,9,17,1,9
+html body text table tbody tr td p span  ,15] Dublin Core Metadata Initiative,24,6030,230,17,1,9
+html body text table tbody tr td p span  ,[,15,6064,9,17,1,9
+html body text table tbody tr td p span  ,"16] MARC Standards, Library of Congress Network Developmentand MARC Standards Office",24,6064,613,17,1,9
+html body text table tbody tr td p span  ,[,15,6098,9,17,1,9
+html body text table tbody tr td p span  ,"17] G. Rust and M. Bide (1999) ""The indecs MetadataSchema Building Blocks"". Indecs Metadata Model, November",24,6098,749,17,1,9
+html body text table tbody tr td p span  ,[,15,6132,9,17,1,9
+html body text table tbody tr td p span  ,18] MPEG-7 Home Page,24,6132,166,17,1,9
+html body text table tbody tr td p a span  ,MPEG7/index.html/,190,6132,130,17,0,10
+html body text table tbody tr td p span  ,[,15,6166,9,17,1,9
+html body text table tbody tr td p span  ,19] Content Standard for Digital Geospatial Metadata(CSDGM),24,6166,412,17,1,9
+html body text table tbody tr td p span  ,[,15,6200,9,17,1,9
+html body text table tbody tr td p span  ,"20] IEEE Learning Technology Standards Committee'sLearning Object Meta-data Working Group, Approved Working Draft WD5 LearningObject Meta-data Scheme",24,6200,1064,17,1,9
+html body text table tbody tr td p span  ,[,15,6234,9,17,1,9
+html body text table tbody tr td p span  ,"21] ICOM/CIDOC Documentation Standards Group (1999)Revised Definition of the CIDOC Conceptual Reference Model, September",24,6234,867,17,1,9
+html body text table tbody tr td p span  ,[,15,6268,9,17,1,9
+html body text table tbody tr td p span  ,"22] C. Batini, M. Lenzerini and S.B. Navathe (1986)""A comparative analysis of methodologies for database schema integration"".",24,6268,831,17,1,9
+html body text table tbody tr td p i span  ,ACM Computing Surveys,855,6268,166,17,1,10
+html body text table tbody tr td p span  ,", 18(4):323-364, December",1021,6268,174,17,1,9
+html body text table tbody tr td p span  ,[,15,6302,9,17,1,9
+html body text table tbody tr td p span  ,"23] E. Mena, V. Kashyap, A. Sheth and A. Illarramendi(1996) ""OBSERVER: An Approach for Query Processing in Global InformationSystems based on Interoperation across Pre-existing Ontologies"".",24,6302,1289,17,1,9
+html body text table tbody tr td p i span  ,Proceedingsof the 1st IFCIS International Conference on Cooperative Information Systems,1313,6302,589,17,1,10
+html body text table tbody tr td p span  ,"(CoopIS'96), Brussels, Belgium, June (IEEE Computer Society Press)",1902,6302,448,17,1,9
+html body text table tbody tr td p span  ,[,15,6336,9,17,1,9
+html body text table tbody tr td p span  ,"24] R. Bayardo,",24,6336,107,17,1,9
+html body text table tbody tr td p i span  ,et al.,131,6336,36,17,1,10
+html body text table tbody tr td p span  ,"(1997) ""InfoSleuth:Agent-based Semantic Integration of Information in Open and Dynamic Environments"".",167,6336,694,17,1,9
+html body text table tbody tr td p i span  ,Proceedings of ACM SIGMOD Conference on Management of Data,861,6336,440,17,1,10
+html body text table tbody tr td p span  ,", Tucson,Arizona, May, pp. 195-206",1301,6336,231,17,1,9
+html body text table tbody tr td p span  ,[,15,6370,9,17,1,9
+html body text table tbody tr td p span  ,"25] N. Guarino, C. Masolo and G. Vetere (1999) ""Ontoseek:Content-based Access to the Web"".",24,6370,614,17,1,9
+html body text table tbody tr td p i span  ,IEEE Intelligent Systems,638,6370,163,17,1,10
+html body text table tbody tr td p span  ,", Vol.14, No. 3, May/June, 70-80",801,6370,209,17,1,9
+html body text table tbody tr td p span  ,[,15,6404,9,17,1,9
+html body text table tbody tr td p span  ,"26] H. Mili and R. Rada (1988) ""Merging Thesauri:Principles and Evalauation"".",24,6404,518,17,1,9
+html body text table tbody tr td p i span  ,IEEE Transactions on Pattern Analysis andMachine Intelligence,542,6404,418,17,1,10
+html body text table tbody tr td p span  ,", 10(2):204-220",960,6404,101,17,1,9
+html body text table tbody tr td p span  ,[,15,6438,9,17,1,9
+html body text table tbody tr td p span  ,"27] M. Doerr and I. Fundulaki (1998) ""A proposal onextended interthesaurus links semantics"". Technical Report TR-215, Instituteof Computer Science-FORTH, March",24,6438,1075,17,1,9
+html body text table tbody tr td p span  ,[,15,6472,9,17,1,9
+html body text table tbody tr td p span  ,"28] M. Sintichakis and P. Constantopoulos (1997) ""AMethod for Monolingual Thesauri Merging"".",24,6472,634,17,1,9
+html body text table tbody tr td p i span  ,Proceedings of the 20th ACMInternational Conference on Research and Development in Information Retrieval,658,6472,713,17,1,10
+html body text table tbody tr td p span  ,"(ACM SIGIR), Philadeplphia, PA, USA, July",1371,6472,291,17,1,9
+html body text table tbody tr td p span  ,[,15,6506,9,17,1,9
+html body text table tbody tr td p span  ,"29] B. Amann and I. Fundulaki (1999) ""IntegratingOntologies and Thesauri to Build RDF Schemas"". In ECDL'99: Research andAdvanced Technologies for Digital Libraries, Paris, France, September,Lecture Notes in Computer Science (Springer-Verlag), pp. 234-253",24,6506,1711,17,1,9
+html body text table tbody tr td p span  ,[,15,6540,9,17,1,9
+html body text table tbody tr td p span  ,30] Ontology Inference Layer,24,6540,192,17,1,9
+html body text table tbody tr td p span  ,[,15,6574,9,17,1,9
+html body text table tbody tr td p span  ,"31] International Federation of Library Associationsand Institutions (IFLA) (1998) Functional Requirements for BibliographicRecords, March",24,6574,916,17,1,9
+html body text table tbody tr td p a span  ,VII/s13/frbr/frbr.pdf,940,6574,130,17,0,10
+html body text table tbody tr td p span  ,[,15,6608,9,17,1,9
+html body text table tbody tr td p span  ,32] ID3 Tag Version 2.3.0,24,6608,167,17,1,9
+html body text table tbody tr td p span  ,[,15,6642,9,17,1,9
+html body text table tbody tr td p span  ,33] Xalan-Java Overview,24,6642,165,17,1,9
+html body text table tbody tr td p span  ,[,15,6676,9,17,1,9
+html body text table tbody tr td p span  ,"34] A. Cawsey (2000) ""Presenting tailored resourcedescriptions: Will XSLT do the job?"".",24,6676,576,17,1,9
+html body text table tbody tr td p i span  ,WWW9 conference,600,6676,126,17,1,10
+html body text table tbody tr td p span  ,", Amsterdam,May",726,6676,119,17,1,9
+html body text table tbody tr td p a span  ,~alison/www9/paper.html,845,6676,166,17,0,10
+html body text table tbody tr td p span  ,[,15,6710,9,17,1,9
+html body text table tbody tr td p span  ,35] XML Path Language (XPath) Version 1.0 (1999) November,24,6710,413,17,1,9
+html body text table tbody tr td p a span  ,TR/xpath,437,6710,61,17,0,10
+html body text table tbody tr td p span  ,[,15,6744,9,17,1,9
+html body text table tbody tr td p span  ,36] WordNet - a Lexical Database for English,24,6744,298,17,1,9
+html body text table tbody tr td p a span  ,~wn/online/,322,6744,77,17,0,10
+html body text table tbody tr td p span  ,[,15,6778,9,17,1,9
+html body text table tbody tr td p span  ,37] RDF Schema Representation of the MetaNet Thesaurus(2000) October,24,6778,480,17,1,9
+html body text table tbody tr td p span  ,[,15,6812,9,17,1,9
+html body text table tbody tr td p span  ,38] CIMI Consortium for Interchange of Museum Information,24,6812,401,17,1,9
+html body text table tbody tr td p span  ,[,15,6846,9,17,1,9
+html body text table tbody tr td p span  ,39] XML Schema Language,24,6846,186,17,1,9
+html body text table tbody tr td p a span  ,XML/Schema,210,6846,91,17,0,10
+html body text table tbody tr td h2 span  ,Appendix A,15,6901,122,26,0,9
+html body text table tbody tr td h3 span  ,A.1 ABC Description of Example Resource,15,6948,341,21,0,9
+html body text table tbody tr td pre font span abc  ,Â,15,6996,2128,11,0,11
+html body text table tbody tr td pre font span abc event  ,Â Â Â,15,6996,2128,11,0,12
+html body text table tbody tr td pre font span abc event title  ,Live At the Lincoln Centre,0,0,156,11,0,13
+html body text table tbody tr td pre font span abc event  ,Â Â Â,15,6996,2128,11,0,12
+html body text table tbody tr td pre font span abc event context  ,Â Â Â Â Â,15,6996,2128,11,0,13
+html body text table tbody tr td pre font span abc event context date  ,7/4/98,15,6996,2128,11,0,14
+html body text table tbody tr td pre font span abc event context  ,Â Â Â Â Â,15,6996,2128,11,0,13
+html body text table tbody tr td pre font span abc event context time  ,20:00,15,6996,2128,11,0,14
+html body text table tbody tr td pre font span abc event context  ,Â Â Â Â Â,15,6996,2128,11,0,13
+html body text table tbody tr td pre font span abc event context place  ,Lincoln Centre,15,6996,2128,11,0,14
+html body text table tbody tr td pre font span abc event context  ,Â Â Â,15,6996,2128,11,0,13
+html body text table tbody tr td pre font span abc event  ,Â Â Â,15,6996,2128,11,0,12
+html body text table tbody tr td pre font span abc event act  ,Â Â Â Â Â,15,6996,2128,11,0,13
+html body text table tbody tr td pre font span abc event act agent  ,New York Philharmonic,15,6996,2128,11,0,14
+html body text table tbody tr td pre font span abc event act  ,Â Â Â Â Â,15,6996,2128,11,0,13
+html body text table tbody tr td pre font span abc event act role  ,Orchestra,15,6996,2128,11,0,14
+html body text table tbody tr td pre font span abc event act  ,Â Â Â,15,6996,2128,11,0,13
+html body text table tbody tr td pre font span abc event  ,Â Â Â,15,6996,2128,11,0,12
+html body text table tbody tr td pre font span abc event  ,Â Â Â,15,6996,2128,11,0,12
+html body text table tbody tr td pre font span abc event output  ,Â Â Â,15,6996,2128,11,0,13
+html body text table tbody tr td pre font span abc event output rights  ,Â Â Â Â Â Â Â Lincoln Center for Performing ArtsÂ Â Â,15,6996,2128,11,0,14
+html body text table tbody tr td pre font span abc event output  ,Â,15,6996,2128,11,0,13
+html body text table tbody tr td pre font span abc  ,Â,15,6996,2128,11,0,11
+html body text table tbody tr td pre font span abc resource  ,Â Â Â Â,15,6996,2128,11,0,12
+html body text table tbody tr td pre font span abc resource type  ,Musical Score,15,6996,2128,11,0,13
+html body text table tbody tr td pre font span abc resource  ,Â Â Â Â,15,6996,2128,11,0,12
+html body text table tbody tr td pre font span abc resource title  ,Concerto for Violin,0,0,114,11,0,13
+html body text table tbody tr td pre font span abc resource  ,Â,15,6996,2128,11,0,12
+html body text table tbody tr td pre font span abc  ,Â,15,6996,2128,11,0,11
+html body text table tbody tr td pre font span abc resource  ,Â Â Â,15,6996,2128,11,0,12
+html body text table tbody tr td pre font span abc resource type  ,audio,15,6996,2128,11,0,13
+html body text table tbody tr td pre font span abc resource  ,Â Â Â,15,6996,2128,11,0,12
+html body text table tbody tr td pre font span abc resource format  ,MP3,15,6996,2128,11,0,13
+html body text table tbody tr td pre font span abc resource  ,Â Â Â,15,6996,2128,11,0,12
+html body text table tbody tr td pre font span abc resource length  ,Â Â Â Â Â Â Â 130Â Â Â,15,6996,2128,11,0,13
+html body text table tbody tr td pre font span abc resource  ,Â,15,6996,2128,11,0,12
+html body text table tbody tr td h3 span  ,A.2 Simple Resource-centric Description of Example Resource,15,7044,497,21,0,9
+html body text table tbody tr td pre font span  ,Â Â,15,7084,2359,11,0,10
+html body text table tbody tr td pre font span resource  ,Â Â Â Â Â Â Â,15,7084,2359,11,0,11
+html body text table tbody tr td pre font span resource title  ,Live At Lincoln Center,0,0,132,11,0,12
+html body text table tbody tr td pre font span resource  ,Â Â Â Â Â Â Â,15,7084,2359,11,0,11
+html body text table tbody tr td pre font span resource date.performance  ,1998-07-04,15,7084,2359,11,0,12
+html body text table tbody tr td pre font span resource  ,Â Â Â Â Â Â Â,15,7084,2359,11,0,11
+html body text table tbody tr td pre font span resource time.performance  ,20:00,15,7084,2359,11,0,12
+html body text table tbody tr td pre font span resource  ,Â Â Â Â Â Â Â,15,7084,2359,11,0,11
+html body text table tbody tr td pre font span resource place.performance  ,Lincoln Centre,15,7084,2359,11,0,12
+html body text table tbody tr td pre font span resource  ,Â Â Â Â Â Â Â,15,7084,2359,11,0,11
+html body text table tbody tr td pre font span resource agent.orchestra  ,New York Philharmonic,15,7084,2359,11,0,12
+html body text table tbody tr td pre font span resource  ,Â Â Â Â Â Â Â,15,7084,2359,11,0,11
+html body text table tbody tr td pre font span resource relation.isperformanceof  ,comp523,15,7084,2359,11,0,12
+html body text table tbody tr td pre font span resource  ,Â Â Â Â Â Â Â,15,7084,2359,11,0,11
+html body text table tbody tr td pre font span resource description  ,Performance of 'Concerto for Violin',15,7084,2359,11,0,12
+html body text table tbody tr td pre font span resource  ,Â Â Â Â Â Â Â,15,7084,2359,11,0,11
+html body text table tbody tr td pre font span resource rights  ,Â Â Â Â Â Â Â Â Â Â Â Â Lincoln Center for Performing ArtsÂ Â Â Â Â Â Â,15,7084,2359,11,0,12
+html body text table tbody tr td pre font span resource  ,Â Â Â Â Â Â Â,15,7084,2359,11,0,11
+html body text table tbody tr td pre font span resource type  ,audio,15,7084,2359,11,0,12
+html body text table tbody tr td pre font span resource  ,Â Â Â Â Â Â Â,15,7084,2359,11,0,11
+html body text table tbody tr td pre font span resource format  ,MP3,15,7084,2359,11,0,12
+html body text table tbody tr td pre font span resource  ,Â Â Â Â Â Â Â,15,7084,2359,11,0,11
+html body text table tbody tr td pre font span resource length  ,Â Â Â Â Â Â Â Â Â Â Â Â 130Â Â Â Â Â Â Â,15,7084,2359,11,0,12
+html body text table tbody tr td pre font span resource  ,Â Â,15,7084,2359,11,0,11
+html body text table tbody tr td h3 span  ,A.3 Dublin Core Description of Simple Example,15,7129,384,21,0,9
+html body text table tbody tr td pre font span rdf:rdf  ,Â Â,15,7170,2094,11,0,11
+html body text table tbody tr td pre font span rdf:rdf rdf:description  ,Â Â Â Â Â Â Â,15,7170,2094,11,0,12
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:title  ,Live At Lincoln Center,15,7170,2094,11,0,13
+html body text table tbody tr td pre font span rdf:rdf rdf:description  ,Â Â Â Â Â Â Â,15,7170,2094,11,0,12
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:date.performance  ,1998-07-04T20:00-05:00,15,7170,2094,11,0,13
+html body text table tbody tr td pre font span rdf:rdf rdf:description  ,Â Â Â Â Â Â Â,15,7170,2094,11,0,12
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:coverage  ,Lincoln Centre,15,7170,2094,11,0,13
+html body text table tbody tr td pre font span rdf:rdf rdf:description  ,Â Â Â Â Â Â Â,15,7170,2094,11,0,12
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:contributor.orchestra  ,New York Philharmonic,15,7170,2094,11,0,13
+html body text table tbody tr td pre font span rdf:rdf rdf:description  ,Â Â Â Â Â Â Â,15,7170,2094,11,0,12
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:relation.isperformanceof  ,comp523,15,7170,2094,11,0,13
+html body text table tbody tr td pre font span rdf:rdf rdf:description  ,Â Â Â Â Â Â Â,15,7170,2094,11,0,12
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:description  ,Performance of 'Concerto for Violin'Â Â Â Â Â Â Â,15,7170,2094,11,0,13
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:description dc:rights  ,Â Â Â Â Â Â Â Â Â Â Â Â Lincoln Center for Performing ArtsÂ Â Â Â Â Â Â,15,7170,2094,11,0,14
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:description  ,Â Â Â Â Â Â Â,15,7170,2094,11,0,13
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:description dc:type  ,audio,15,7170,2094,11,0,14
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:description  ,Â Â Â Â Â Â Â,15,7170,2094,11,0,13
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:description dc:format  ,MP3,15,7170,2094,11,0,14
+html body text table tbody tr td pre font span rdf:rdf rdf:description dc:description  ,Â Â,15,7170,2094,11,0,13
+html body text table tbody tr td h3 span  ,A.4 MPEG-7 Description,15,7215,201,21,0,9
+html body text table tbody tr td pre font span mpeg-7  ,Â,15,7255,2329,11,0,11
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation  ,Â Â Â,15,7255,2329,11,0,12
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation  ,Â Â Â Â Â,15,7255,2329,11,0,13
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation title  ,Live at Lincoln Center,0,0,132,11,0,14
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation  ,Â Â Â Â Â,15,7255,2329,11,0,13
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creator  ,Â Â Â Â Â Â Â,15,7255,2329,11,0,14
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creator role  ,Orchestra,15,7255,2329,11,0,15
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creator  ,Â Â Â Â Â Â Â,15,7255,2329,11,0,14
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creator name  ,New York Philharmonic,15,7255,2329,11,0,15
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creator  ,Â Â Â Â Â,15,7255,2329,11,0,14
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation  ,Â Â Â Â Â,15,7255,2329,11,0,13
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creationdate  ,Â Â Â Â Â Â Â,15,7255,2329,11,0,14
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creationdate day  ,7,15,7255,2329,11,0,15
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creationdate  ,Â Â Â Â Â Â Â,15,7255,2329,11,0,14
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creationdate month  ,4,15,7255,2329,11,0,15
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creationdate  ,Â Â Â Â Â Â Â,15,7255,2329,11,0,14
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creationdate year  ,1998,15,7255,2329,11,0,15
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation creationdate  ,Â Â Â Â Â,15,7255,2329,11,0,14
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation  ,Â Â Â Â Â,15,7255,2329,11,0,13
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation location  ,Â Â Â Â Â Â Â,15,7255,2329,11,0,14
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation location placename  ,Lincoln Center,15,7255,2329,11,0,15
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation location  ,Â Â Â Â Â,15,7255,2329,11,0,14
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation creation  ,Â Â Â,15,7255,2329,11,0,13
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation  ,Â Â Â,15,7255,2329,11,0,12
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation classification  ,Â Â Â Â Â,15,7255,2329,11,0,13
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation classification genre  ,Performance,15,7255,2329,11,0,14
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation classification  ,Â Â Â,15,7255,2329,11,0,13
+html body text table tbody tr td pre font span mpeg-7 creationmetainformation  ,Â,15,7255,2329,11,0,12
+html body text table tbody tr td pre font span mpeg-7  ,Â,15,7255,2329,11,0,11
+html body text table tbody tr td pre font span mpeg-7 mediainformation  ,Â Â Â,15,7255,2329,11,0,12
+html body text table tbody tr td pre font span mpeg-7 mediainformation mediaprofile  ,Â Â Â Â Â,15,7255,2329,11,0,13
+html body text table tbody tr td pre font span mpeg-7 mediainformation mediaprofile mediaformat  ,Â Â Â Â Â Â Â Â,15,7255,2329,11,0,14
+html body text table tbody tr td pre font span mpeg-7 mediainformation mediaprofile mediaformat medium  ,MP3,15,7255,2329,11,0,15
+html body text table tbody tr td pre font span mpeg-7 mediainformation mediaprofile mediaformat  ,Â Â Â Â Â Â Â Â,15,7255,2329,11,0,14
+html body text table tbody tr td pre font span mpeg-7 mediainformation mediaprofile mediaformat length m  ,130,15,7255,2329,11,0,16
+html body text table tbody tr td pre font span mpeg-7 mediainformation mediaprofile mediaformat  ,Â Â Â Â Â,15,7255,2329,11,0,14
+html body text table tbody tr td pre font span mpeg-7 mediainformation mediaprofile  ,Â Â Â,15,7255,2329,11,0,13
+html body text table tbody tr td pre font span mpeg-7 mediainformation  ,Â,15,7255,2329,11,0,12
+html body text table tbody tr td pre font span mpeg-7  ,Â,15,7255,2329,11,0,11
+html body text table tbody tr td pre font span mpeg-7 usagemetainformation  ,Â Â Â,15,7255,2329,11,0,12
+html body text table tbody tr td pre font span mpeg-7 usagemetainformation rights  ,Â Â Â Â Â Â,15,7255,2329,11,0,13
+html body text table tbody tr td pre font span mpeg-7 usagemetainformation rights rightsid  ,Â Â Â,15,7255,2329,11,0,14
+html body text table tbody tr td pre font span mpeg-7 usagemetainformation  ,Â,15,7255,2329,11,0,12
+html body text table tbody tr td h3 span  ,A.5 ID3 Description,15,7300,160,21,0,9
+html body text table tbody tr td pre font span id3  ,Â,15,7341,984,11,0,11
+html body text table tbody tr td pre font span id3 ufid  ,audio821,15,7341,984,11,0,12
+html body text table tbody tr td pre font span id3  ,Â Â Â,15,7341,984,11,0,11
+html body text table tbody tr td pre font span id3  ,Â,15,7341,984,11,0,11
+html body text table tbody tr td pre font span id3 tit2  ,Live At Lincoln Center,15,7341,984,11,0,12
+html body text table tbody tr td pre font span id3  ,Â,15,7341,984,11,0,11
+html body text table tbody tr td pre font span id3 tpe2  ,New York Philharmonic,15,7341,984,11,0,12
+html body text table tbody tr td pre font span id3  ,Â,15,7341,984,11,0,11
+html body text table tbody tr td pre font span id3 tcon  ,Performance,15,7341,984,11,0,12
+html body text table tbody tr td pre font span id3  ,Â,15,7341,984,11,0,11
+html body text table tbody tr td pre font span id3 tmed  ,Audio/MP3,15,7341,984,11,0,12
+html body text table tbody tr td pre font span id3  ,Â,15,7341,984,11,0,11
+html body text table tbody tr td pre font span id3 tdat  ,7/4/98,15,7341,984,11,0,12
+html body text table tbody tr td pre font span id3  ,Â,15,7341,984,11,0,11
+html body text table tbody tr td pre font span id3 time  ,2100,15,7341,984,11,0,12
+html body text table tbody tr td pre font span id3  ,Â,15,7341,984,11,0,11
+html body text table tbody tr td pre font span id3 tlen  ,7800000,15,7341,984,11,0,12
+html body text table tbody tr td pre font span id3  ,Â,15,7341,984,11,0,11
+html body text table tbody tr td pre font span id3 toal  ,comp523,15,7341,984,11,0,12
+html body text table tbody tr td pre font span id3  ,Â,15,7341,984,11,0,11
+html body text table tbody tr td pre font span id3 tcop  ,Lincoln Center of Performing Arts,15,7341,984,11,0,12
+html body text table tbody tr td h2 span  ,Appendix B,15,7387,122,26,0,9
+html body text table tbody tr td h3 span  ,B.1 XSL for Transforming from ABC to DC,15,7434,349,21,0,9
+html body text table tbody tr td pre font span  ,Â,15,7474,6698,11,0,10
+html body text table tbody tr td pre font span xsl:stylesheet  ,Â Â Â,15,7474,6698,11,0,11
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7474,6698,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template rdf:rdf  ,Â Â Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template rdf:rdf rdf:description  ,Â Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template rdf:rdf rdf:description xsl:apply-templates  ,Â Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template rdf:rdf rdf:description xsl:apply-templates xsl:apply-templates  ,Â Â Â Â Â Â Â Â,15,7474,6698,11,0,17
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template rdf:rdf  ,Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7474,6698,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates  ,Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates xsl:apply-templates  ,Â Â Â Â Â Â,15,7474,6698,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates xsl:apply-templates xsl:apply-templates  ,Â Â Â Â Â Â,15,7474,6698,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates xsl:apply-templates xsl:apply-templates xsl:apply-templates  ,Â Â Â Â Â Â,15,7474,6698,11,0,17
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates xsl:apply-templates xsl:apply-templates xsl:apply-templates xsl:apply-templates  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,18
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates xsl:apply-templates xsl:apply-templates xsl:apply-templates xsl:apply-templates xsl:apply-templates  ,Â Â Â,15,7474,6698,11,0,19
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7474,6698,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:attribute  ,Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:attribute xsl:value-of  ,Â Â Â Â Â Â,15,7474,6698,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:copy-of  ,Â Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7474,6698,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates  ,Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates xsl:apply-templates  ,Â Â Â,15,7474,6698,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7474,6698,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â,15,7474,6698,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7474,6698,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â Â Â Â Â,15,7474,6698,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â Â,15,7474,6698,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7474,6698,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â,15,7474,6698,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7474,6698,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â,15,7474,6698,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7474,6698,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if  ,Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if xsl:apply-templates  ,Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if xsl:apply-templates xsl:apply-templates  ,Â Â Â Â Â Â,15,7474,6698,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if  ,Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if xsl:element  ,Â Â Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if xsl:element xsl:value-of  ,ofÂ Â Â Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if xsl:element xsl:value-of xsl:text  ,"""",15,7474,6698,11,0,17
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if xsl:element xsl:value-of  ,Â Â Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if xsl:element xsl:value-of xsl:value-of  ,Â Â Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,17
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if xsl:element xsl:value-of xsl:value-of xsl:text  ,"""",15,7474,6698,11,0,18
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if xsl:element xsl:value-of xsl:value-of  ,Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,17
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if  ,Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7474,6698,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â,15,7474,6698,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7474,6698,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â Â,15,7474,6698,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â,15,7474,6698,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7474,6698,11,0,13
+html body text table tbody tr td h3 span  ,B.2 XSL for Transforming from ABC to ID3,15,7519,352,21,0,9
+html body text table tbody tr td pre font span  ,Â,15,7560,4465,11,0,10
+html body text table tbody tr td pre font span xsl:stylesheet  ,Â Â Â,15,7560,4465,11,0,11
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7560,4465,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template id3:id3  ,Â Â Â Â Â Â Â Â,15,7560,4465,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template id3:id3 xsl:apply-templates  ,Â Â Â Â Â Â Â Â,15,7560,4465,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template id3:id3 xsl:apply-templates xsl:apply-templates  ,Â Â Â Â Â Â,15,7560,4465,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7560,4465,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates  ,Â Â Â,15,7560,4465,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7560,4465,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â Â,15,7560,4465,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â,15,7560,4465,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7560,4465,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template id3:tdat  ,Â Â Â Â Â Â Â Â Â,15,7560,4465,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template id3:tdat xsl:value-of  ,Â Â Â Â Â Â,15,7560,4465,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template id3:time  ,Â Â Â Â Â Â Â Â Â,15,7560,4465,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template id3:time xsl:value-of  ,Â Â Â Â Â Â,15,7560,4465,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7560,4465,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â Â,15,7560,4465,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â Â Â Â Â Â Â,15,7560,4465,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â Â Â Â Â Â Â,15,7560,4465,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â,15,7560,4465,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â Â,15,7560,4465,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7560,4465,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â Â,15,7560,4465,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â,15,7560,4465,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7560,4465,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â Â,15,7560,4465,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â,15,7560,4465,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7560,4465,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if  ,Â Â Â Â Â Â Â Â Â Â,15,7560,4465,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if xsl:apply-templates  ,Â Â Â Â Â Â Â Â Â Â,15,7560,4465,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if xsl:apply-templates xsl:apply-templates  ,Â Â Â Â Â Â Â Â Â,15,7560,4465,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7560,4465,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â Â,15,7560,4465,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,/,15,7560,4465,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of xsl:value-of  ,Â Â Â Â Â Â,15,7560,4465,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7560,4465,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â Â,15,7560,4465,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â,15,7560,4465,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7560,4465,11,0,13
+html body text table tbody tr td h3 span  ,B.3 XSL for Transforming ABC to MPEG-7,15,7604,350,21,0,9
+html body text table tbody tr td pre font span xsl:stylesheet  ,Â Â Â Â Â Â Â Â,15,7645,12117,11,0,11
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template mpeg-7  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template mpeg-7 xsl:apply-templates  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template mpeg-7 xsl:apply-templates xsl:apply-templates  ,Â Â Â Â Â Â,15,7645,12117,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7645,12117,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates creationmetainformation  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates creationmetainformation creation  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates creationmetainformation creation xsl:apply-templates  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,17
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates creationmetainformation creation xsl:apply-templates xsl:apply-templates  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,18
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates creationmetainformation creation xsl:apply-templates xsl:apply-templates xsl:apply-templates  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,19
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates creationmetainformation creation xsl:apply-templates xsl:apply-templates xsl:apply-templates xsl:apply-templates  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,20
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates creationmetainformation  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates creationmetainformation classification  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates creationmetainformation classification xsl:element  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,17
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates creationmetainformation classification xsl:element xsl:value-of  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,18
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates creationmetainformation classification  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates creationmetainformation  ,Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:apply-templates xsl:apply-templates  ,Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7645,12117,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:attribute  ,Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:attribute xsl:value-of  ,Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7645,12117,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7645,12117,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creator  ,Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creator xsl:element  ,Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creator xsl:element xsl:value-of  ,Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creator  ,Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creator xsl:element  ,Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creator xsl:element xsl:value-of  ,Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creator  ,Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â Â,15,7645,12117,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creationdate  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creationdate xsl:variable  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creationdate xsl:variable xsl:variable  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creationdate xsl:variable xsl:variable xsl:element  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,17
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creationdate xsl:variable xsl:variable xsl:element xsl:value-of  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,18
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creationdate xsl:variable xsl:variable  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creationdate xsl:variable xsl:variable xsl:element  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,17
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creationdate xsl:variable xsl:variable xsl:element xsl:value-of  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,18
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creationdate xsl:variable xsl:variable  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creationdate xsl:variable xsl:variable xsl:element  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,17
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creationdate xsl:variable xsl:variable xsl:element xsl:value-of  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,18
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template creationdate xsl:variable xsl:variable  ,Â Â Â Â Â Â,15,7645,12117,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template location  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template location xsl:element  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template location xsl:element xsl:value-of  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template location  ,Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7645,12117,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7645,12117,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template usagemetainformation  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template usagemetainformation rights  ,Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template usagemetainformation rights xsl:element  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template usagemetainformation rights xsl:element xsl:value-of  ,Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,17
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template usagemetainformation rights  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template usagemetainformation  ,Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â,15,7645,12117,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if  ,Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if mediainformation  ,Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if mediainformation mediaprofile  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if mediainformation mediaprofile mediaformat  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,17
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if mediainformation mediaprofile mediaformat xsl:apply-templates  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,18
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if mediainformation mediaprofile mediaformat xsl:apply-templates xsl:apply-templates  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,19
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if mediainformation mediaprofile  ,Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if mediainformation  ,Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:if  ,Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â Â Â Â,15,7645,12117,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template xsl:element xsl:value-of  ,Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â Â Â Â Â,15,7645,12117,11,0,12
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template length  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template length xsl:if  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template length xsl:if xsl:element  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,16
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template length xsl:if xsl:element xsl:value-of  ,Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,17
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template length xsl:if  ,Â Â Â Â Â Â Â Â Â Â,15,7645,12117,11,0,15
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template length  ,Â Â Â Â Â Â Â,15,7645,12117,11,0,14
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output xsl:template  ,Â Â Â Â Â Â,15,7645,12117,11,0,13
+html body text table tbody tr td pre font span xsl:stylesheet xsl:output  ,Â Â Â Â,15,7645,12117,11,0,12

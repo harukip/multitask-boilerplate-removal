@@ -1,0 +1,224 @@
+tag,content,x,y,width,height,label,depth
+html body text center mb:if mb:if table tbody tr td p a span  ,Home delivery,681,113,96,17,0,13
+html body text center mb:if mb:if table tbody tr td p a span  ,Contact us,709,147,68,17,0,13
+html body text center mb:if mb:if table tbody tr td a span  ,Traffic,18,201,48,17,0,12
+html body text center mb:if mb:if table tbody tr td span span  ,|,65,201,6,17,0,12
+html body text center mb:if mb:if table tbody tr td a span  ,Weather,72,201,57,17,0,12
+html body text center mb:if mb:if table tbody tr td span span  ,|,129,201,7,17,0,12
+html body text center mb:if mb:if table tbody tr td a span  ,Your account,136,201,85,17,0,12
+html body text center mb:if mb:if table tbody tr td a span  ,Movies,529,201,52,17,0,12
+html body text center mb:if mb:if table tbody tr td span span  ,|,581,201,8,17,0,12
+html body text center mb:if mb:if table tbody tr td a span  ,Restaurants,588,201,78,17,0,12
+html body text center mb:if mb:if table tbody tr td span span  ,|,667,201,7,17,0,12
+html body text center mb:if mb:if table tbody tr td a span  ,Today's events,674,201,94,17,0,12
+html body text center mb:if mb:if table tbody tr td div div p a span  ,Advanced search,10,240,110,17,0,15
+html body text center mb:if mb:if table tbody tr td div p a span  ,Home,8,277,39,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Local,8,311,36,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Eastside,8,345,53,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Snohomish Co.,8,379,99,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Politics,8,413,48,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Education,8,447,65,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Columnists,8,481,73,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Nicole Brodeur,8,515,99,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Danny Westneat,8,549,105,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,David Postman,8,583,98,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Sherry Grindeland,8,617,119,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Letter from Washington,8,651,76,35,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Inside The Times,8,703,111,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Here and Now,8,737,93,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Nation / World,8,771,95,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Business / Tech,8,805,100,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Editorials / Opinion,8,839,71,35,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Columnists,8,891,73,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Sports,8,925,41,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Entertainment,8,959,91,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Comics / Games,8,993,106,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Living,8,1027,43,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Pacific Northwest Magazine,8,1061,115,35,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Travel / Outdoors,8,1113,113,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Real estate,8,1147,70,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Obituaries,8,1181,67,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Special reports,8,1215,96,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Photography,8,1249,82,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Corrections,8,1283,75,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Archive,8,1317,52,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Alerts / E-mails,8,1351,101,17,0,14
+html body text center mb:if mb:if table tbody tr td div p span  ,Marketplace,8,1385,80,17,0,13
+html body text center mb:if mb:if table tbody tr td div p a span  ,Jobs,8,1419,28,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Autos,8,1453,38,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Homes,8,1487,45,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Rentals,8,1521,48,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Classifieds,8,1555,70,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Shopping,8,1589,61,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,NWsource,8,1623,68,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Personals,8,1657,61,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Post an ad,8,1691,66,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Services,8,1725,54,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Your account,8,1759,85,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Contact us,8,1793,68,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Submit listings,8,1827,96,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Send us news tips,8,1861,114,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Seattle Times store,8,1895,87,35,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Advertise with us,8,1947,113,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,RSS feeds,8,1981,66,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Wireless,8,2015,55,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Newspapers In Education,8,2049,96,35,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,Home delivery,8,2101,96,17,0,14
+html body text center mb:if mb:if table tbody tr td div p a span  ,e-Edition,8,2135,60,17,0,14
+html body text center mb:if mb:if table tbody tr td p span  ,"Sunday, June 19, 2005 - Page updated at 12:00 AM",128,219,328,17,1,12
+html body text center mb:if mb:if table tbody tr td div p span  ,Born gay? How biology may drive orientation,128,253,296,17,1,13
+html body text center mb:if mb:if table tbody tr td div p span  ,By,128,287,23,17,1,13
+html body text center mb:if mb:if table tbody tr td div p a span  ,Sandi Doughton,151,287,104,17,1,14
+html body text center mb:if mb:if table tbody tr td div p span  ,Seattle Times science reporter,128,321,192,17,1,13
+html body text center mb:if mb:if table tbody tr td div table tbody tr td span p a span  ,PREV,0,0,0,0,0,19
+html body text center mb:if mb:if table tbody tr td div table tbody tr td span p span  ,|,0,0,0,0,0,18
+html body text center mb:if mb:if table tbody tr td div table tbody tr td span p span  ,of,0,0,0,0,0,18
+html body text center mb:if mb:if table tbody tr td div table tbody tr td span p span  ,|,0,0,0,0,0,18
+html body text center mb:if mb:if table tbody tr td div table tbody tr td span p a span  ,NEXT,0,0,0,0,0,19
+html body text center mb:if mb:if table tbody tr td div table tbody tr td table tbody tr td div p span  ,MARK HARRISON / THE SEATTLE TIMES,151,497,174,35,0,22
+html body text center mb:if mb:if table tbody tr td div table tbody tr td table tbody tr td div p span  ,"Vincent Healy, a Ballard house appraiser, is gay and has an older brother who also is gay. About 3 percent of American men and 1.5 percent of women describe themselves as gay or bisexual. Those percentages are three to five times higher among people who have a gay brother or sister.",129,549,198,179,0,22
+html body text center mb:if mb:if table tbody tr td div table tbody tr td div div a span  ,E-mail article,147,1300,88,17,0,19
+html body text center mb:if mb:if table tbody tr td div table tbody tr td div div a span  ,Print view,147,1318,66,17,0,19
+html body text center mb:if mb:if table tbody tr td div table tbody tr td div div a span  ,Search,147,1336,44,17,0,19
+html body text center mb:if mb:if table tbody tr td div table tbody tr td div div a span  ,Most e-mailed,148,1354,93,17,0,19
+html body text center mb:if mb:if table tbody tr td div table tbody tr td div div a span  ,Most read,147,1372,64,17,0,19
+html body text center mb:if mb:if table tbody tr td div table tbody tr td div div a span  ,RSS,148,1390,28,17,0,19
+html body text center mb:if mb:if table tbody tr td div table tbody tr td p a span  ,"Faithful split over whether gays can, should change",128,1424,189,35,0,18
+html body text center mb:if mb:if table tbody tr td div table tbody tr td p a span  ,"Animals exhibit ""gay"" behavior",128,1476,161,35,0,18
+html body text center mb:if mb:if table tbody tr td div table tbody tr td p a span  ,Archive: Bible's words become instrument in gay-marriage debate,128,1528,171,53,0,18
+html body text center mb:if mb:if table tbody tr td div div p span  ,"As the culture wars rage over gay rights, a flock of sheep at Oregon State University may help answer a key question behind the controversy: Is homosexuality a matter of choice or biology?",128,1598,469,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"The Corvallis herd includes a group of rams that scientists delicately refer to as ""male-oriented."" These animals consistently ignore females and bestow all their amorous attentions on members of their own sex.",128,1668,473,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Researcher Charles Roselli says a decade of study suggests sexual orientation is largely hard-wired into the sheep's brains before birth. Now, he's trying to figure out how that happens, zeroing in on genes and hormones. In a bold test of his ideas, he hopes to engineer the birth of gay rams by altering conditions in the womb.",128,1738,473,89,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Sheep aren't people, but the Oregon work adds to a growing body of research that bolsters biological explanations for sexual orientation across species — including humans.",128,1844,473,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Despite those scientific findings, some religious groups say homosexuality is a lifestyle that can be treated, if not prevented. One such group, the conservative Christian organization Focus on the Family, is sponsoring a one-day conference in Bothell Saturday.",128,1914,474,71,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"The social and political implications of the research are impossible to ignore, leading to unease on both sides of the gay-rights debate. If science proves homosexuality is innate, is there any basis to deny gays equal treatment — including the right to marry? But if scientists unravel the roots of sexual orientation, will it some day be possible to ""fix"" people who don't fit the norms or abort fetuses likely to be born gay?",128,2002,474,107,1,14
+html body text center mb:if mb:if table tbody tr td div div div p strong strong span  ,Volunteers needed,128,2126,125,17,1,17
+html body text center mb:if mb:if table tbody tr td div div div p strong span  ,Researchers will recruit,128,2155,167,17,1,16
+html body text center mb:if mb:if table tbody tr td div div div p span  ,"gay men with gay brothers in Seattle this summer to participate in a national study on the genetics of sexual orientation. Scientists will analyze blood samples from 1,000 pairs of gay brothers across the country. Representatives will be at the Seattle Pride Festival June 25-26.",128,2155,471,89,1,15
+html body text center mb:if mb:if table tbody tr td div div div p strong span  ,More information,128,2261,127,17,1,16
+html body text center mb:if mb:if table tbody tr td div div div p span  ,on the five-year study is available at,255,2261,232,17,1,15
+html body text center mb:if mb:if table tbody tr td div div div p a span  ,www.gaybros.com,128,2279,120,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Much of the cutting-edge research is being conducted in other countries, because the political pressure cooker in the United States makes it difficult for scientists to get money, said Brian Mustanski, who juggles studies of the genetics of homosexuality with his main work on HIV prevention at the University of Illinois, Chicago.",128,2313,463,89,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"But controversy can't obscure the facts, he said.",128,2419,305,17,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"""It's pretty definitive that biological factors play a role in determining a person's sexual orientation.""",128,2453,456,35,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Austrian scientists reported this month that switching a single gene was enough to make female fruit flies rebuff males and attempt to mate with other females. Swedish researchers recently found the sexual center of gay men's brains lit up when they sniffed a pheromone-like chemical from men's sweat, but didn't respond to a chemical from women.",128,2505,460,89,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"And last fall, Italian scientists offered a possible explanation for the persistence of gay genes — even though evolution tends to weed out traits that discourage reproduction. The team from the University of Padua found that mothers and aunts of gay men had more offspring than female relatives of heterosexuals, suggesting genes that influence homosexuality in men may increase fertility in females.",128,2611,463,107,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,That the evidence comes from such disparate directions leads scientists to suspect several different biological pathways may lead to homosexuality. Both genes and hormones appear to be important. Nor do researchers discount the possibility that social factors may play a role.,128,2735,472,71,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"""I tend not to be a nature-versus-nurture kind of dichotomist,"" said Roselli, of the Oregon Health & Science University School of Medicine in Portland. ""I think there's probably a very complex interaction that's going on between both biology and the environment that is involved in determining these types of behaviors.""",128,2823,461,89,1,14
+html body text center mb:if mb:if table tbody tr td div div p strong strong span  ,"""Shy breeders""",128,2929,107,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p strong em span  ,Gay sheep may show,128,2963,137,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p strong em span  ,whether neurohormones,128,2997,162,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p strong em span  ,fix sexual identity,128,3031,117,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Though they don't talk about it much, ranchers have long known that about 8 percent of rams never father offspring because they only have eyes for other males. Australian sheepherders call them ""shy breeders,"" Roselli said.",128,3065,455,71,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Upbringing doesn't seem to make a difference. Domestication and captivity aren't responsible, because rams with same-sex proclivities occur in the wild.",128,3153,437,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Roselli's rams come from the U.S. Sheep Experiment Station in eastern Idaho, where federal researchers keep a herd of 3,000 to study genetics, breeding and grazing impacts.",128,3223,458,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"They've also been quietly looking into sexual orientation, a subject so touchy the lab's U.S. Department of Agriculture boss won't allow his staff to discuss it with the press.",128,3293,472,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Roselli and his colleagues at OSU are using the gay rams to test what is called the neurohormonal theory of sexual development: that hormones from a developing fetus fix its sexual identity by orchestrating brain organization. Too much or too little of these powerful chemicals, or shifts in timing, may lead to homosexuality, the theory predicts.",128,3363,471,89,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Last year, Roselli found that a brain region linked with sexual behavior was twice as big in heterosexual as homosexual rams. The difference seems to exist even before birth, he said. The gay rams also had lower brain levels of an enzyme that activates testosterone and promotes typical male sexual behavior.",128,3469,471,89,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"A 1991 study reported similar differences in the brains of gay and heterosexual men, but the findings haven't been confirmed. Human brain studies are problematic for another reason: Brain structures can guide behavior, but behavior also can cause brain structures to enlarge or shrink, making it difficult to say which comes first.",128,3575,475,89,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"So in addition to brain studies, Roselli is waiting for a group of lambs born last spring to reach sexual maturity. Their mothers were dosed with drugs to block the action of male hormones in the fetuses. If Roselli's hypothesis is correct, rams born of this experiment will be disproportionately gay.",128,3681,463,89,1,14
+html body text center mb:if mb:if table tbody tr td div div p strong strong span  ,"""I just knew""",128,3787,94,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p strong em span  ,Studies indicate,128,3821,104,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p strong em span  ,sexual orientation is,128,3855,134,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p strong em span  ,set very early in life,128,3889,129,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Hormones have long been suspect in homosexuality. Doctors used to treat gay men with testosterone injections, until it became clear adult homosexuals don't have blood hormone levels that differ significantly from heterosexuals.",128,3923,473,71,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"But rats, hamsters, ferrets and other lab animals flip-flop their sexual behavior when scientists manipulate the hormones they're exposed to before birth. Such experiments would be unethical in people, but some rare medical conditions offer human parallels.",128,4011,452,71,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,A high proportion of girls with a disorder that causes them to secrete male hormones before birth grow up to be lesbian. About 40 case studies have shown boys who are surgically altered and raised as girls because of genital deformities are overwhelmingly attracted to females once they reach puberty — indicating sexual orientation is determined very early in life and is difficult to alter.,128,4099,474,107,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"That view is supported by a series of studies in the 1980s that found nearly 75 percent of young boys who dress up like girls, play with dolls and consistently choose stereotypical female pursuits will grow up to be gay. A similar, though less pronounced, pattern is found in girls who prefer trucks over tea sets.",128,4223,461,89,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Still, most gay people don't have gender-bending childhoods. As in heterosexuals, the majority say they became aware of their orientation at puberty.",128,4329,464,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"""I just knew,"" said Seattle attorney Andrew Kamins, who is gay. ""It's as simple as that.""",128,4399,456,35,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Those who argue homosexuality is a choice haven't been able to dispute that fundamental point, said Michigan State University neuroscientist Marc Breedlove.",128,4451,461,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"""If you're going to say people choose a sexual orientation when they reach puberty, you're going to have to find some people who remember making that choice, and there aren't any,"" he said. ""The evidence is starting to look pretty good that hormones early in life influence the probability of who you will be attracted to 10 years later, when people start to get their first crushes,"" he said.",128,4521,456,107,1,14
+html body text center mb:if mb:if table tbody tr td div div p strong strong span  ,The hand test,128,4645,93,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p strong em span  ,Can the length of,128,4679,115,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p strong em span  ,one's fingers suggest,128,4713,138,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p strong em span  ,sexual orientation?,128,4747,128,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p span  ,Breedlove found support for the neurohormonal theory by photocopying hands at gay street fairs.,128,4781,464,35,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"In heterosexual women, the index and ring fingers are usually about the same length. In heterosexual men, the index finger is shorter, on average, than the ring finger. It's one of several differences between the sexes that seem to be set before birth, based on testosterone exposure.",128,4833,468,71,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Breedlove found lesbians' finger lengths were, on average, more like men's. The same holds true for other traits, like eye-blink patterns and inner-ear function.",128,4921,447,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"""Every time you find a body marker that gives an indication of prenatal testosterone exposure, lesbians on average are more masculine than straight women,"" Breedlove said. ""This can't be a fluke.""",128,4991,457,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Patterns aren't as clear in gay men, with some hints they may be exposed to either less or more testosterone before birth.",128,5061,466,35,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"All of the neurohormonal studies also leave a major puzzle unanswered: If hormones shape the brain and the brain directs behavior, what is controlling the hormone levels in the first place?",128,5113,462,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p strong strong span  ,Slam-dunk proof?,128,5183,125,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p strong em span  ,Twin studies provide evidence that homosexuality runs in the family,128,5217,448,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p span  ,"When Vince Healy finally came out as gay, his disapproving Catholic family was familiar with the story. His older brother had been living with a man for several years. It didn't make things any easier, the 45-year-old Ballard man recalled.",128,5251,469,71,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"""I was very unhappy at the prospect of being gay,"" he said. ""I kept thinking: I must be a late bloomer.""",128,5339,423,35,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"As the youngest of three brothers, one of whom is straight, Healy illustrates the two most robust findings in the science of homosexuality: It runs in families, and the number of older brothers a man has can increase his chances of being gay.",128,5391,474,71,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"About 3 percent of American men and 1.5 percent of women describe themselves as gay or bisexual, according to the National Institutes of Health. Those percentages are three to five times higher among people who have a gay brother or sister.",128,5479,452,71,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Of course, family dynamics might be the reason, not biology.",128,5567,392,17,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,What scientists call slam-dunk proof that genes are part of the equation comes from twin studies.,128,5601,455,35,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Genetically influenced traits are more likely to be shared among the closest relatives, and that pattern holds for homosexuality.",128,5653,435,35,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"For fraternal male twins, the gay-gay concordance rate is about 22 percent. For identical twins, it's 52 percent.",128,5705,424,35,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Based on those results, scientists conservatively estimate homosexuality is about 40 percent due to genes, said Alan Sanders, director of behavior genetics at Northwestern Healthcare Research Institute in Illinois.",128,5757,463,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"But genes clearly are not the only factor, or identical twins would always share the same sexual orientation.",128,5827,467,35,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"""That means there's a significant environmental contribution,"" said Sanders, who is leading a five-year, $2.5 million project for the National Institutes of Health to try to identify the genes involved.",128,5879,464,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Earlier research has pointed to several possible gene regions, but those studies were small and not definitive. With DNA from 1,000 pairs of gay brothers, Sanders' project will be much more powerful.",128,5949,467,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"It's very unlikely to uncover a single ""gay"" gene, he said. As in most complex traits, multiple genes and environmental factors probably work together.",128,6019,462,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"So far, scientists can only speculate how genes linked with sexual orientation might work. Perhaps they dictate the size of brain structures, which in turn regulate hormones before birth. Perhaps genes directly adjust prenatal hormone levels, or merely predispose people to a gay orientation.",128,6089,461,89,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Environmental factors could be exclusively biological, like chemical exposure or infection. One theory, backed by some evidence in rats, is that the chemical and hormonal milieu of the developing fetus can be disrupted when pregnant mothers are stressed.",128,6195,449,71,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Social factors may ultimately prove to play a role as well, Sanders said.",128,6283,458,17,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"None of the psychosocial theories for homosexuality have panned out so far, including Freud's distant-father/domineering-mother dynamic.",128,6317,465,35,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"""There have been psychological and social explanations for homosexuality for 100 years, and they haven't come up with anything concrete,"" said Ray Blanchard, head of Clinical Sexology Services at the Centre for Addiction and Mental Health in Toronto.",128,6369,466,71,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"A few studies suggest a higher rate of childhood sexual abuse in gays and lesbians, though there's no evidence such experiences trigger homosexuality, said Mustanski, the University of Illinois geneticist.",128,6457,471,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p strong strong span  ,Fraternal birth order,128,6527,147,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p strong em span  ,The number of older,128,6561,136,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p strong em span  ,brothers may affect your,128,6595,162,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p strong em span  ,chances of being gay,128,6629,138,17,1,16
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Blanchard's work on gay brothers offers an alternative explanation so odd he originally dismissed it as ""obviously bogus.""",128,6663,472,35,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"But when he looked into scattered reports that many gay men have older brothers, he was astounded. The findings now have been confirmed by more than a dozen studies, including several of his own: Every older brother a man has increases his chances of being gay. A man with four older brothers is three times more likely to be gay than a man with none. Blanchard estimates one out of every seven gay men owes his orientation to this ""fraternal birth order"" effect.",128,6715,470,125,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"It's possible to argue for social explanations — bullying by big brothers, indulgent mothers. But Blanchard believes it's biology. Gay males with older brothers weigh less at birth than heterosexual males with older brothers, hinting that something different is happening to them in the womb.",128,6857,462,89,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"A possible explanation lies in the mother's immune system, which can be activated by cells from a male fetus.",128,6963,468,35,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"For first sons, the effect would be slight. But subsequent boys could cause the immune response to ramp up until it somehow affects a baby's sexual orientation.",128,7015,474,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"The idea is feasible, Blanchard cautioned, but still unproven.",128,7085,389,17,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Not all gay men have older brothers. Not all lesbians have short ring fingers. For some people, genes may be the dominant factor in sexual orientation. For others, it could be hormones. Just as sexual orientation spans a spectrum, scientists suspect there may be a range of mechanisms to explain it.",128,7119,465,89,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"Over the next few years, scientists will begin to fit the divergent lines of evidence into a comprehensive picture of the way sexual orientation arises in both gays and heterosexuals, Mustanski predicts.",128,7225,462,53,1,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,"""We have these converging lines of evidence that are pointing to the importance of biology. Now we have to connect the dots.""",128,7295,435,35,1,14
+html body text center mb:if mb:if table tbody tr td div div p em span  ,Sandi Doughton: 206-464-2491 or,128,7347,227,17,0,15
+html body text center mb:if mb:if table tbody tr td div div p em a span  ,sdoughton@seattletimes.com,355,7347,187,17,0,16
+html body text center mb:if mb:if table tbody tr td div p span  ,Copyright © 2005 The Seattle Times Company,128,7381,303,17,0,13
+html body text center mb:if mb:if table tbody tr td div table tbody tr td p a span  ,E-mail this article,164,7415,114,17,0,18
+html body text center mb:if mb:if table tbody tr td div table tbody tr td p a span  ,Print this article,336,7415,103,17,0,18
+html body text center mb:if mb:if table tbody tr td div table tbody tr td p a span  ,Search archive,490,7415,95,17,0,18
+html body text center mb:if mb:if table tbody tr td div table tbody tr td p a span  ,More local news headlines...,420,7449,183,17,0,18
+html body text center mb:if mb:if table tbody tr td p span  ,Marketplace,615,219,80,17,0,12
+html body text center mb:if mb:if table tbody tr td div table tbody tr td a span  ,Jobs,607,257,28,17,0,17
+html body text center mb:if mb:if table tbody tr td div table tbody tr td a span  ,Autos,658,257,38,17,0,17
+html body text center mb:if mb:if table tbody tr td div table tbody tr td a span  ,Shopping,711,257,61,17,0,17
+html body text center mb:if mb:if table tbody tr td div table tbody tr td a span  ,Homes,607,293,45,17,0,17
+html body text center mb:if mb:if table tbody tr td div table tbody tr td a span  ,Rentals,658,293,48,17,0,17
+html body text center mb:if mb:if table tbody tr td div table tbody tr td a span  ,Post an ad,711,284,47,35,0,17
+html body text center mb:if mb:if table tbody tr td div div p a span  ,NWsource shopping,608,354,111,12,0,15
+html body text center mb:if mb:if table tbody tr td div div div a span  ,Daily find,683,375,50,12,0,15
+html body text center mb:if mb:if table tbody tr td div div div a span  ,Chic New Year's hats,683,387,63,28,0,15
+html body text center mb:if mb:if table tbody tr td div div div span  ,"Romanza's classy toppers will have you singing ""Auld Lang Syne"" at first sight.",608,415,152,70,0,14
+html body text center mb:if mb:if table tbody tr td div div p span  ,More shopping,608,494,81,12,0,14
+html body text center mb:if mb:if table tbody tr td div div div a span  ,Sales & events,608,515,76,12,0,15
+html body text center mb:if mb:if table tbody tr td div div div a span  ,Articles,608,532,37,12,0,15
+html body text center mb:if mb:if table tbody tr td div div div a span  ,Store guides,608,549,64,12,0,15
+html body text center mb:if mb:if div p a b span  ,seattletimes.com home,316,7564,153,17,0,11
+html body text center mb:if mb:if div p a span  ,Home delivery,206,7598,100,17,0,10
+html body text center mb:if mb:if div p span span  ,|,306,7598,7,17,0,10
+html body text center mb:if mb:if div p a span  ,RSS feeds,313,7598,70,17,0,10
+html body text center mb:if mb:if div p span span  ,|,383,7598,7,17,0,10
+html body text center mb:if mb:if div p a span  ,Low-graphic,390,7598,87,17,0,10
+html body text center mb:if mb:if div p span span  ,|,477,7598,7,17,0,10
+html body text center mb:if mb:if div p a span  ,Search archive,484,7598,95,17,0,10
+html body text center mb:if mb:if div p a span  ,Site map,102,7632,61,17,0,10
+html body text center mb:if mb:if div p span span  ,|,163,7632,7,17,0,10
+html body text center mb:if mb:if div p a span  ,webmaster@seattletimes.com,170,7632,195,17,0,10
+html body text center mb:if mb:if div p span span  ,|,365,7632,7,17,0,10
+html body text center mb:if mb:if div p a span  ,Contact us,372,7632,72,17,0,10
+html body text center mb:if mb:if div p span span  ,|,444,7632,7,17,0,10
+html body text center mb:if mb:if div p a span  ,Privacy statement,451,7632,119,17,0,10
+html body text center mb:if mb:if div p span span  ,|,570,7632,6,17,0,10
+html body text center mb:if mb:if div p a span  ,Terms of service,576,7632,107,17,0,10
+html body text center mb:if mb:if div p a span  ,NWclassifieds,57,7666,97,17,0,10
+html body text center mb:if mb:if div p span span  ,|,154,7666,7,17,0,10
+html body text center mb:if mb:if div p a span  ,NWsource,161,7666,73,17,0,10
+html body text center mb:if mb:if div p span span  ,|,234,7666,6,17,0,10
+html body text center mb:if mb:if div p a span  ,Advertise with us,240,7666,117,17,0,10
+html body text center mb:if mb:if div p span span  ,|,357,7666,7,17,0,10
+html body text center mb:if mb:if div p a span  ,The Seattle Times Company,364,7666,186,17,0,10
+html body text center mb:if mb:if div p span span  ,|,550,7666,7,17,0,10
+html body text center mb:if mb:if div p a span  ,Employment opportunities,557,7666,171,17,0,10
+html body text center mb:if mb:if div p a span  ,Back to top,365,7746,73,17,0,10

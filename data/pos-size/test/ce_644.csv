@@ -1,0 +1,233 @@
+tag,content,x,y,width,height,label,depth
+html body text div table tbody tr td div a b span  ,International PHP Magazine,9,149,196,17,0,12
+html body text div table tbody tr td div a span  ,Press Release,9,167,92,17,0,11
+html body text div table tbody tr td div span  ,|,101,167,7,17,0,10
+html body text div table tbody tr td div a b span  ,Click here to download the monthly PHP Magazine PDF Issue,108,167,427,17,1,12
+html body text div table tbody tr td div span  ,|,535,167,8,17,0,10
+html body text div table tbody tr td div a span  ,Price Information,542,167,113,17,0,11
+html body text div table tbody tr td div a span  ,International PHP Conference,9,185,192,17,0,11
+html body text div table tbody tr td div a span  ,Topics Overview,9,203,114,17,0,11
+html body text div table tbody tr td div span  ,|,123,203,7,17,0,10
+html body text div table tbody tr td div a span  ,Login,130,203,42,17,0,11
+html body text div table tbody tr td div span  ,|,172,203,7,17,0,10
+html body text div table tbody tr td div a span  ,Register,179,203,57,17,0,11
+html body text div table tbody tr td div span  ,|,236,203,8,17,0,10
+html body text div table tbody tr td div a span  ,Help & Forum-Tour,244,203,129,17,0,11
+html body text div table tbody tr td div b span  ,Company:,9,221,76,17,1,11
+html body text div table tbody tr td div a span  ,Magazines,85,221,73,17,0,11
+html body text div table tbody tr td div span  ,|,158,221,8,17,0,10
+html body text div table tbody tr td div a span  ,Books,166,221,44,17,0,11
+html body text div table tbody tr td div span  ,|,210,221,8,17,0,10
+html body text div table tbody tr td div a span  ,Online Services,218,221,105,17,0,11
+html body text div table tbody tr td div span  ,|,323,221,8,17,0,10
+html body text div table tbody tr td div a span  ,Conferences & Trainings,331,221,160,17,0,11
+html body text div table tbody tr td div a b span  ,Subscribe here,9,276,101,17,0,12
+html body text div table tbody tr td div a span  ,Subscription Service,9,294,133,17,0,11
+html body text div table tbody tr td div a span  ,FAQ - Print & Digital Edition,9,312,140,35,0,11
+html body text div table tbody tr td div a span  ,Issues,9,365,39,17,0,11
+html body text div table tbody tr td div a span  ,News,9,383,36,17,0,11
+html body text div table tbody tr td div a span  ,Columns,9,401,58,17,0,11
+html body text div table tbody tr td div a span  ,Online Articles,9,419,97,17,0,11
+html body text div table tbody tr td div a span  ,Book Reviews,9,437,94,17,0,11
+html body text div table tbody tr td div a span  ,News,9,472,36,17,0,11
+html body text div table tbody tr td div a span  ,Online Articles,9,490,97,17,0,11
+html body text div table tbody tr td div a span  ,Write for the PHP Magazine,9,525,115,35,1,11
+html body text div table tbody tr td div a span  ,Contact,9,561,50,17,0,11
+html body text div table tbody tr td div a span  ,Imprint,9,579,48,17,0,11
+html body text div table tbody tr td div a span  ,Advertise with the,9,614,118,17,1,11
+html body text div table tbody tr td div a span  ,PHP Magazine,9,632,96,17,1,11
+html body text div table tbody tr td table tbody tr td div span  ,Issue: 06.2004,175,255,93,17,1,14
+html body text div table tbody tr td table tbody tr td div span  ,Guru Speak,175,273,76,17,1,14
+html body text div table tbody tr td table tbody tr td div span  ,"How To Avoid ""Page Has Expired"" Warnings",175,291,290,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,by Chris Shiflett,175,309,104,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,Welcome to the first edition of,175,327,200,17,1,14
+html body text div table tbody tr td table tbody tr td div b span  ,Guru Speak,375,327,87,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,", a new column that I'll be bringing to you every other month right here in",175,327,631,35,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,PHP Magazine,302,345,102,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,". The topics that I'll be writing about will vary, but one recurring topic that I want to focus on is that of providing thorough answers to frequently asked questions. This is a topic that is appropriate for PHP developers of all skill levels, and while some questions are not likely to concern experienced developers, the answers will hopefully lend new insight and provide a deeper understanding to everyone.",175,345,645,89,1,14
+html body text div table tbody tr td table tbody tr td div span  ,"As one of the most active contributors to the PHP-General mailing list for the last few years, I have answered many questions, and it is pretty easy to determine which topics trouble developers the most. While part of the reason for the frequency with which some questions are asked is that people don't search the archives or the Web prior, there are also some questions for which there is no sufficiently complete answer available, because no one feels the need to provide one. In other cases, there are so many RTFM responses that search results become very diluted, making the real answers hard to find.",175,435,642,125,1,14
+html body text div table tbody tr td table tbody tr td div span  ,"It is my sincere hope that this column can begin to address these types of problems, and I would like to thank the fine folks at",175,579,643,35,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,PHP Magazine,335,597,102,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"for agreeing to make my answers freely available on the Web. I am very interested in feedback, so please feel free to leave some on our forums anytime (link provided in the",175,597,642,53,1,14
+html body text div table tbody tr td table tbody tr td div b span  ,Links & Literature,276,633,135,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"section) - perhaps you have new insight to add to one of my answers, a correction to make, a suggestion for the column, or a question of your own.",175,633,619,35,1,14
+html body text div table tbody tr td table tbody tr td div span  ,I hope you enjoy,175,687,112,17,1,14
+html body text div table tbody tr td table tbody tr td div b span  ,Guru Speak,287,687,87,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,.,374,687,4,17,1,14
+html body text div table tbody tr td table tbody tr td div b span  ,"How Can I Avoid ""Page Has Expired"" Warnings?",175,721,340,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"One problem with organizing questions and answers, and in fact a big reason why searching the archives can be difficult for a beginner, is that the same question can be posed in so many different ways. This is especially true when the same problem arises under different circumstances, or when differences in browser behaviour can cause the same error to be reported in numerous ways.",175,739,632,71,1,14
+html body text div table tbody tr td table tbody tr td div span  ,"A good example of this is the warning message declaring that a page has expired. Not only are there two different causes for this warning, but the warning message itself also varies from browser to browser, even under the same circumstances.",175,829,640,53,1,14
+html body text div table tbody tr td table tbody tr td div span  ,"The warning is a result of the user utilizing the browser's history mechanism to access a previously viewed page, usually by clicking the back button or refreshing. One cause of the warning is that the page has expired from the browser's cache, so it wants to inform the user that it must request the page again, just in case this is not something the user wants.",175,901,637,71,1,14
+html body text div table tbody tr td table tbody tr td div span  ,"Luckily, you have some control over what a browser caches. In fact, as long as you don't forbid it, each page that the user visits is cached locally by the browser. There are exceptions to this, such as when the user specifically configures the browser to prevent caching, or when the user sets the maximum cache size too small. These exceptions aren't a big concern, because the user probably does this intentionally and understands the consequences, or the user will have an adverse experience on any site and likely realize that the problem is a local one.",175,991,632,107,1,14
+html body text div table tbody tr td table tbody tr td div span  ,"PHP, by default, does not forbid caching. When you request a simple PHP script, no caching headers are returned, so no Web agent's caching behaviour is modified. You can test this by using the LiveHTTPHeaders extension for Firefox and requesting a script such as the following:",175,1117,643,53,1,14
+html body text div table tbody tr td table tbody tr td div i span span  ,echo ',175,1205,38,17,1,16
+html body text div table tbody tr td table tbody tr td div i span span p  ,Guru Speak!,175,1239,646,18,1,17
+html body text div table tbody tr td table tbody tr td div i span span  ,';,175,1205,38,17,1,16
+html body text div table tbody tr td table tbody tr td div i span span  ,?>,175,1291,19,17,0,16
+html body text div table tbody tr td table tbody tr td div span  ,"Of course, no PHP application has scripts quite this simplistic. In fact, most PHP applications use sessions, and this is where caching becomes a problem. Add",175,1325,623,35,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,session_start(),564,1343,98,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"to the previous example, so that it becomes the following:",175,1343,645,35,1,14
+html body text div table tbody tr td table tbody tr td div i span span  ,session_start();,175,1413,100,17,1,16
+html body text div table tbody tr td table tbody tr td div i span span  ,echo ',175,1431,38,17,1,16
+html body text div table tbody tr td table tbody tr td div i span span p  ,Guru Speak!,175,1465,646,18,1,17
+html body text div table tbody tr td table tbody tr td div i span span  ,';,175,1431,38,17,1,16
+html body text div table tbody tr td table tbody tr td div i span span  ,?>,175,1517,19,17,0,16
+html body text div table tbody tr td table tbody tr td div span  ,"When requesting this new script, three new HTTP headers are included in the response:",175,1551,560,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,"Expires: Thu, 19 Nov 1981 08:52:00 GMT",175,1585,273,17,1,15
+html body text div table tbody tr td table tbody tr td div i span  ,"Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0",175,1603,516,17,1,15
+html body text div table tbody tr td table tbody tr td div i span  ,Pragma: no-cache,175,1621,120,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"These new headers eliminate caching, and this is how a stateful PHP application can so easily encounter ""Page Has Expired"" warnings.",175,1655,599,35,1,14
+html body text div table tbody tr td table tbody tr td div span  ,"What can be done? Before you ask this question, it is good to consider the reasoning behind this behaviour. When you use sessions, it is possible that you customize each page, and these customized pages might contain sensitive information. If an intermediary caches this sensitive information, it might be returned to the wrong user. Consider the series of events illustrated in Figure 1.",175,1709,644,71,1,14
+html body text div table tbody tr td table tbody tr td div center span  ,Fig. 1: Caching can potentially cause problems.,346,1813,304,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"This is obviously unwanted. Luckily, the",175,1867,265,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,Cache-Control,440,1867,99,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,header gives us a way to distinguish between public caches (such as an intermediary) and private caches (such as the browser). The following header allows caching only in private caches:,175,1867,605,53,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,Cache-Control: private,175,1937,150,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,You can use,175,1971,81,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,header(),256,1971,60,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"to set this yourself, but a better approach is to change the",316,1971,364,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,session.cache_limiter,175,1989,142,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"PHP configuration directive, because this also eliminates the",317,1989,392,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,Pragma,709,1989,56,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,header. If you don't have access to,175,1989,635,35,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,php.ini,348,2007,48,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,", you can set this in your scripts with the following:",397,2007,330,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,"ini_set('session.cache_limiter', 'private');",175,2041,264,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"By default,",175,2075,75,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,session.cache_limiter,250,2075,142,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,is set to,392,2075,53,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,nocache,445,2075,58,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,. With it set to,502,2075,94,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,private,597,2075,49,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,", the following",646,2075,98,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,Cache-Control,175,2075,615,35,1,15
+html body text div table tbody tr td table tbody tr td div span  ,header is sent:,228,2093,92,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,"Cache-Control: private, max-age=10800,",175,2127,268,53,1,15
+html body text div table tbody tr td table tbody tr td div i span  ,pre-check=10800,175,2127,268,53,1,15
+html body text div table tbody tr td table tbody tr td div span  ,The,175,2197,29,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,max-age,204,2197,59,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,and,263,2197,27,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,pre-check,290,2197,67,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"directives are given in seconds, and these can be used to limit the amount of time a page is cached. The",175,2197,598,35,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,session.cache_expire,418,2215,139,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"PHP configuration directive, given in minutes, controls these values. The default is 180 minutes (10800 seconds).",175,2215,620,35,1,14
+html body text div table tbody tr td table tbody tr td div span  ,"Now that you can allow your pages to be cached, there is still one other scenario that can cause a ""Page Has Expired"" warning. When a page in history (including the current page) is requested with the POST request method, the browser will warn the user before requesting the page again, because a POST request might perform some action. Most browsers explain this in the warning, and Firefox's warning is displayed in Figure 2. Internet Explorer still gives a ""Page Has Expired"" warning but goes on to explain the situation further:",175,2269,637,107,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,"""The page you requested was created using information you submitted in a form. This page is no longer available. As a security precaution, Internet Explorer does not automatically resubmit your information for you.""",175,2395,630,53,1,15
+html body text div table tbody tr td table tbody tr td div center span  ,Fig. 2: Firefox warns the user before resubmitting a POST request.,284,2481,428,17,1,15
+html body text div table tbody tr td table tbody tr td div b span  ,Note,175,2533,32,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"As a PHP developer, you might be thinking that the request method doesn't really matter to you. You can still perform the exact same actions; the only difference is that you use",175,2551,643,35,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,$_GET,657,2569,50,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,instead of,707,2569,63,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,$_POST,175,2587,58,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"in your programming logic. While this is true, it violates the HTTP specification. Section 9.1.1 of RFC 2616 has the following to say:",175,2587,628,35,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,"""In particular, the convention has been established that the GET and HEAD methods SHOULD NOT have the significance of taking an action other than retrieval. These methods ought to be considered ""safe"". This allows user agents to represent other methods, such as POST, PUT and DELETE, in a special way, so that the user is made aware of the fact that a possibly unsafe action is being requested.""",175,2623,646,89,1,15
+html body text div table tbody tr td table tbody tr td div span  ,This is exactly why browsers treat responses to POST requests differently than responses to GET requests.,175,2713,621,35,1,14
+html body text div table tbody tr td table tbody tr td div span  ,"Luckily, there is an elegant solution to this problem. You can still use the POST request method in your forms, but you hide the target page from the browser's history mechanism. The trick is to have the target page (that processes the form) send a",175,2767,636,53,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,Location,480,2803,61,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"header, which changes the response code from",175,2803,628,35,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,200,210,2821,28,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,to,238,2821,17,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,302,255,2821,28,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"and transparently redirects the user to another page. To illustrate this, consider three PHP scripts:",175,2821,643,35,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,form.php,258,2839,62,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,",",320,2839,8,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,process.php,328,2839,81,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,and,409,2839,27,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,end.php,436,2839,55,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,", shown in Listings 1, 2, and 3, respectively.",491,2839,281,17,1,14
+html body text div table tbody tr td table tbody tr td div b span  ,Listing 1: form.php,175,2875,134,17,1,15
+html body text div table tbody tr td table tbody tr td div b span  ,Listing 2: process.php:,175,2979,156,17,1,15
+html body text div table tbody tr td table tbody tr td div i span span  ,header('Location: ');,175,3031,133,17,1,16
+html body text div table tbody tr td table tbody tr td div i span span  ,/* Form processing here */,175,3049,173,17,1,16
+html body text div table tbody tr td table tbody tr td div i span span  ,?>,175,3067,19,17,0,16
+html body text div table tbody tr td table tbody tr td div b span  ,Listing 3: end.php,175,3119,125,17,1,15
+html body text div table tbody tr td table tbody tr td div i span p  ,Thanks!,175,3153,646,18,0,16
+html body text div table tbody tr td table tbody tr td div span  ,"When a user submits the form, the browser requests",175,3205,336,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,process.php,511,3205,80,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"using a POST request, and all of the form data is included. The response it receives is a",175,3205,624,35,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,302,526,3223,28,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"response, and the",554,3223,114,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,Location,668,3223,61,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,header indicates the URL it needs to request to get the page it seeks. After making the request for,175,3223,597,35,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,end.php,753,3241,55,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,", a message of thanks is displayed in the browser. If the user clicks the back button, the original form is displayed; the intermediate processing script is hidden from the browser's history.",175,3241,638,53,1,14
+html body text div table tbody tr td table tbody tr td div b span  ,Note,175,3311,32,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,The HTTP specification requires that the,175,3329,265,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,Location,440,3329,61,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,header indicate an absolute URL (such as,501,3329,269,17,1,14
+html body text div table tbody tr td table tbody tr td div span  ,). See section 14.30 of RFC 2616 for more information.,175,3329,632,35,1,14
+html body text div table tbody tr td table tbody tr td div b span  ,Recap,175,3381,43,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,"To avoid ""Page Has Expired"" warnings, set session.cache_limiter to",175,3399,438,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,private,613,3399,49,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,", and make sure that any form using the POST method submits to an intermediate processing page that redirects the user to a different URL.",175,3399,643,53,1,14
+html body text div table tbody tr td table tbody tr td div span  ,"I hope you can now avoid these unwanted warnings, and I also hope that I have helped clear up some of the mystery surrounding them. That's all for",175,3471,610,35,1,14
+html body text div table tbody tr td table tbody tr td div b span  ,Guru Speak,515,3489,87,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,. See you next time.,602,3489,128,17,1,14
+html body text div table tbody tr td table tbody tr td div i span  ,Chris Shiflett (,175,3525,98,17,1,15
+html body text div table tbody tr td table tbody tr td div i span  ,") is a frequent contributor to the PHP community and one of the leading security experts in the field. His solutions to security problems are often used as points of reference, and these solutions are showcased in his talks at conferences such as",175,3525,615,53,1,15
+html body text div table tbody tr td table tbody tr td div i a span  ,ApacheCon,593,3561,78,17,1,16
+html body text div table tbody tr td table tbody tr td div i span  ,and the,671,3561,52,17,1,15
+html body text div table tbody tr td table tbody tr td div i a span  ,O'Reilly Open Source Convention,175,3561,639,35,1,16
+html body text div table tbody tr td table tbody tr td div i span  ,", and his articles in publications such as PHP Magazine and",301,3579,391,17,1,15
+html body text div table tbody tr td table tbody tr td div i a span  ,php|architect,692,3579,89,17,1,16
+html body text div table tbody tr td table tbody tr td div i span  ,.,781,3579,4,17,1,15
+html body text div table tbody tr td table tbody tr td div i span  ,Chris is the author of the,175,3597,164,17,1,15
+html body text div table tbody tr td table tbody tr td div i a span  ,HTTP Developer's Handbook,339,3597,194,17,1,16
+html body text div table tbody tr td table tbody tr td div i span  ,"(Sams), a coauthor of the",533,3597,166,17,1,15
+html body text div table tbody tr td table tbody tr td div i a span  ,Zend PHP Certification Study Guide,175,3597,592,35,1,16
+html body text div table tbody tr td table tbody tr td div i span  ,"(Sams), and is currently writing",343,3615,208,17,1,15
+html body text div table tbody tr td table tbody tr td div i a span  ,PHP Security,551,3615,91,17,1,16
+html body text div table tbody tr td table tbody tr td div i span  ,(O'Reilly). As a member of the,175,3615,638,35,1,15
+html body text div table tbody tr td table tbody tr td div i a span  ,Zend PHP Education Advisory Board,199,3633,244,17,1,16
+html body text div table tbody tr td table tbody tr td div i span  ,", he is also one of the authors of the",443,3633,233,17,1,15
+html body text div table tbody tr td table tbody tr td div i a span  ,Zend PHP Certification,175,3633,567,35,1,16
+html body text div table tbody tr td table tbody tr td div i span  ,". In his spare time, he is leading an effort to create a PHP community site at",261,3651,486,17,1,15
+html body text div table tbody tr td table tbody tr td div i a span  ,PHPCommunity.org,175,3669,134,17,1,16
+html body text div table tbody tr td table tbody tr td div i span  ,. You can contact him at,309,3669,158,17,1,15
+html body text div table tbody tr td table tbody tr td div i a span  ,shiflett@php.net,467,3669,110,17,1,16
+html body text div table tbody tr td table tbody tr td div i span  ,or visit his Web site at,577,3669,145,17,1,15
+html body text div table tbody tr td table tbody tr td div i span  ,.,722,3669,4,17,1,15
+html body text div table tbody tr td table tbody tr td div b span  ,Links and Literature,175,3703,144,17,1,15
+html body text div table tbody tr td table tbody tr td div span  ,PHP Magazine Forums:,175,3739,153,17,1,14
+html body text div table tbody tr td table tbody tr td div span  ,LiveHTTPHeaders Extension for Firefox:,175,3757,268,17,1,14
+html body text div table tbody tr td table tbody tr td div span  ,Michael Radwin's Caching Talk:,175,3775,213,17,1,14
+html body text div table tbody tr td table tbody tr td div a span  ,~radwin/talks/http-caching.htm,388,3775,201,17,0,15
+html body text div table tbody tr td table tbody tr td table tbody tr td a div span  ,back,175,3872,30,17,0,19
+html body text div table tbody tr td table tbody tr td table tbody tr td a div span  ,top,240,3868,20,17,0,19
+html body text div table tbody tr td table tbody tr td table tbody tr td a div span  ,print,290,3872,30,17,0,19
+html body text div table tbody tr td table tbody tr td table tbody tr td a div span  ,recommend,335,3872,76,17,0,19
+html body text div table tbody tr td div a span  ,The Results of the,837,415,117,17,1,11
+html body text div table tbody tr td div a span  ,Reader's Survey,837,433,104,17,1,11
+html body text div table tbody tr td div li a span  ,Austria,859,491,47,17,0,12
+html body text div table tbody tr td div li a span  ,Belgium,859,509,55,17,0,12
+html body text div table tbody tr td div li a span  ,Denmark,859,527,60,17,0,12
+html body text div table tbody tr td div li a span  ,France,859,545,44,17,0,12
+html body text div table tbody tr td div li a span  ,India,859,563,33,17,0,12
+html body text div table tbody tr td div li a span  ,Indonesia,859,581,62,17,0,12
+html body text div table tbody tr td div li a span  ,Italy,859,599,29,17,0,12
+html body text div table tbody tr td div li a span  ,"Korea, South",859,617,84,17,0,12
+html body text div table tbody tr td div li a span  ,The Netherlands,859,635,106,17,0,12
+html body text div table tbody tr td div li a span  ,Norway,859,653,52,17,0,12
+html body text div table tbody tr td div li a span  ,Spain,859,671,36,17,0,12
+html body text div table tbody tr td div li a span  ,Sweden,859,689,51,17,0,12
+html body text div table tbody tr td div li a span  ,United Kingdom,859,707,108,17,0,12
+html body text div table tbody tr td div div span  ,Other shops will,837,736,73,12,1,11
+html body text div table tbody tr td div div span  ,follow soon.,837,750,55,12,1,11
+html body text div table tbody tr td center font span  ,-- Advertisement --,874,774,76,11,1,11
+html body text div table tbody tr td center table tbody tr td span  ,Kelkoo price comparison in Germany,847,790,126,24,1,14
+html body text div table tbody tr td center table tbody tr td span  ,-,847,814,7,12,0,14
+html body text div table tbody tr td center table tbody tr td a span  ,Mobiles,854,814,41,12,0,15
+html body text div table tbody tr td center table tbody tr td span  ,-,847,826,7,12,0,14
+html body text div table tbody tr td center table tbody tr td a span  ,Furniture,854,826,48,12,0,15
+html body text div table tbody tr td center table tbody tr td span  ,-,847,838,7,12,0,14
+html body text div table tbody tr td center table tbody tr td a span  ,Notebooks,854,838,57,12,0,15
+html body text div table tbody tr td center table tbody tr td span  ,-,847,850,7,12,0,14
+html body text div table tbody tr td center table tbody tr td a span  ,Hotels,854,850,33,12,0,15
+html body text div table tbody tr td center table tbody tr td span  ,-,847,862,7,12,0,14
+html body text div table tbody tr td center table tbody tr td a span  ,Flights,854,862,36,12,0,15
+html body text div table tbody tr td center table tbody tr td span  ,-,847,874,7,12,0,14
+html body text div table tbody tr td center table tbody tr td a span  ,Digital cameras,854,874,81,12,0,15
+html body text div table tbody tr td table tbody tr td div span  ,Â© 2005,196,3984,52,17,0,14
+html body text div table tbody tr td table tbody tr td div a span  ,Software & Support Verlag GmbH,248,3984,226,17,0,15
+html body text div table tbody tr td table tbody tr td div span  ,. Reproduction has to be permitted by the publisher.,383,3984,355,35,0,14
+html body text div table tbody tr td table tbody tr td div a span  ,Any Questions?,449,4002,102,17,0,15

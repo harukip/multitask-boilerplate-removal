@@ -1,0 +1,1005 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,freshmeat.net: Editorials - Linux Security: It's Not Just About Security,0,0,777,36,0,6
+html body text table tbody tr td font a b span  ,OSTG,10,11,31,11,0,11
+html body text table tbody tr td font span  ,|,41,11,5,11,0,9
+html body text table tbody tr td font a span  ,ThinkGeek,46,11,51,11,0,10
+html body text table tbody tr td font span  ,-,97,11,7,11,0,9
+html body text table tbody tr td font a span  ,Slashdot,104,11,41,11,0,10
+html body text table tbody tr td font span  ,-,145,11,6,11,0,9
+html body text table tbody tr td font a span  ,ITMJ,151,11,25,11,0,10
+html body text table tbody tr td font span  ,-,176,11,7,11,0,9
+html body text table tbody tr td font a span  ,Linux.com,182,11,48,11,0,10
+html body text table tbody tr td font span  ,-,231,11,6,11,0,9
+html body text table tbody tr td font a span  ,NewsForge,237,11,54,11,0,10
+html body text table tbody tr td font span  ,-,291,11,6,11,0,9
+html body text table tbody tr td font a span  ,SourceForge,297,11,61,11,0,10
+html body text table tbody tr td font span  ,-,358,11,6,11,0,9
+html body text table tbody tr td font a span  ,Surveys,364,11,39,11,0,10
+html body text table tbody tr td font span  ,-,403,11,6,11,0,9
+html body text table tbody tr td font a span  ,Jobs,409,11,24,11,0,10
+html body text table tbody tr td font span  ,-,433,11,6,11,0,9
+html body text table tbody tr td font a span  ,PriceGrabber,439,11,59,11,0,10
+html body text div table tbody tr td a font small span  ,"Tue, Dec 26th",13,107,75,15,0,12
+html body text div table tbody tr td b a font span  ,home,117,107,41,17,0,12
+html body text div table tbody tr td b span  ,|,158,107,7,17,0,10
+html body text div table tbody tr td b a font span  ,browse,165,107,53,17,0,12
+html body text div table tbody tr td b span  ,|,218,107,8,17,0,10
+html body text div table tbody tr td b a font span  ,articles,226,107,53,17,0,12
+html body text div table tbody tr td b span  ,|,279,107,8,17,0,10
+html body text div table tbody tr td b a font span  ,contact,287,107,54,17,0,12
+html body text div table tbody tr td b span  ,|,341,107,7,17,0,10
+html body text div table tbody tr td b a font span  ,chat,348,107,33,17,0,12
+html body text div table tbody tr td b span  ,|,381,107,8,17,0,10
+html body text div table tbody tr td b a font span  ,submit,389,107,51,17,0,12
+html body text div table tbody tr td b span  ,|,440,107,8,17,0,10
+html body text div table tbody tr td b a font span  ,faq,448,107,26,17,0,12
+html body text div table tbody tr td b span  ,|,474,107,7,17,0,10
+html body text div table tbody tr td b a font span  ,newsletter,481,107,74,17,0,12
+html body text div table tbody tr td b span  ,|,555,107,8,17,0,10
+html body text div table tbody tr td b a font span  ,about,563,107,43,17,0,12
+html body text div table tbody tr td b span  ,|,606,107,8,17,0,10
+html body text div table tbody tr td b a font span  ,stats,614,107,35,17,0,12
+html body text div table tbody tr td b span  ,|,649,107,7,17,0,10
+html body text div table tbody tr td b a font span  ,scoop,656,107,38,17,0,12
+html body text div table tbody tr td small span  ,15:57 PDT,713,107,59,15,0,10
+html body text div table tbody tr td form label b span  ,Search for,13,150,75,17,0,12
+html body text div table tbody tr td form b span  ,in,88,150,17,17,0,11
+html body text div table tbody tr td form select option  ,projects,0,0,0,0,0,11
+html body text div table tbody tr td form select option  ,articles,0,0,0,0,0,11
+html body text div table tbody tr td form select option  ,comments,0,0,0,0,0,11
+html body text div table tbody tr td form b span  ,Section,336,150,54,17,0,11
+html body text div table tbody tr td form select option  ,Main,0,0,0,0,0,11
+html body text div table tbody tr td form select option  ,Unix,0,0,0,0,0,11
+html body text div table tbody tr td form select option  ,Handhelds,0,0,0,0,0,11
+html body text div table tbody tr td form select option  ,Mac OS X,0,0,0,0,0,11
+html body text div table tbody tr td form select option  ,Themes,0,0,0,0,0,11
+html body text div table tbody tr td a font small span  ,login,733,152,31,15,0,12
+html body text div table tbody tr td span  ,«,764,150,8,17,0,9
+html body text div table tbody tr td a font small span  ,register,721,170,43,15,0,12
+html body text div table tbody tr td span  ,«,764,168,8,17,0,9
+html body text div table tbody tr td a font small span  ,recover password,667,188,97,15,0,12
+html body text div table tbody tr td span  ,«,764,186,8,17,0,9
+html body text div table tbody tr td a font b span  ,[Article],13,215,58,17,0,12
+html body text div table tbody tr td a font span  ,add comment,349,215,86,17,0,11
+html body text div table tbody tr td a font b span  ,[Article],714,215,58,17,0,12
+html body text div table tbody tr td p b font span  ,Linux Security: It's Not Just About Security,41,274,339,20,1,12
+html body text div table tbody tr td p small font span  ,by,41,295,17,15,1,12
+html body text div table tbody tr td p small font a span  ,Jon Lasser,58,295,60,15,1,13
+html body text div table tbody tr td p small font span  ,", in",118,295,20,15,1,12
+html body text div table tbody tr td p small font a span  ,Editorials,138,295,55,15,1,13
+html body text div table tbody tr td p small font span  ,"- Sat, Jan 8th 2000 23:59 PDT",193,295,162,15,1,12
+html body text div table tbody tr td p span  ,"Jon Lasser began the Bastille Linux Project in order to harden thesecurity of Red Hat Linux, the distribution he uses at work. In theprocess, he began looking at the other distributions to see how theyhandle security updates, and he was not at all happy with what hefound. In today's editorial, he shares his concerns and explains whyit matters to you even if you do all your security monitoring foryourself.",13,327,1183,53,1,10
+html body text div table tbody tr td small b span  ,Copyright notice:,13,406,104,15,1,11
+html body text div table tbody tr td small span  ,"All reader-contributed material on freshmeat.net is the property and responsibility of its author; for reprint rights, please contact the author directly.",117,406,784,15,1,10
+html body text div table tbody tr td p span  ,"As a professional Unix systems administrator, I'm concerned aboutsystem security. Keeping unauthorized users off my systems is simplypart of my job; doing this requires vigilance in the form ofmonitoring performance, reading logs, and keeping patches up-to-date.For me, security is about security; it's about keeping my users'projects safe and keeping them comfortable despite a full-timeconnection to the Internet.",13,447,1174,53,1,10
+html body text div table tbody tr td p span  ,As Lead Coordinator of,13,517,156,17,1,10
+html body text div table tbody tr td p a span  ,theBastille Linux Project,169,517,164,17,1,11
+html body text div table tbody tr td p span  ,", a hardening script for Red Hat Linux, Ithought my job was to make Linux more secure so beginning users couldeasily keep their boxes secure. Often, new Linux users have noexperience as system administrators or often even any experience withUnix. I thought the best way to tackle the problem was to make it easyto do the right thing.",13,517,1165,53,1,10
+html body text div table tbody tr td p span  ,"Recently, I've been asked lots of questions about Linux systemsecurity by reporters. Often, I'm put on the defensive right away: DoesLinux have a security problem? Why is Linux less secure than otheroperating systems? Is open-source software inherently less secure thancommercial systems?",13,587,1174,35,1,10
+html body text div table tbody tr td p span  ,I usually begin by explaining that more holes are reported inopen-source software,13,639,528,17,1,10
+html body text div table tbody tr td p em span  ,before,541,639,44,17,1,11
+html body text div table tbody tr td p span  ,"they're exploited, and that thenumber of actually-exploited holes is no greater -- perhaps even less --than commercial software. I explain that one reason there are so manybreak-ins into Linux systems is that there are so many Linux systems onthe Internet, and I explain that Linux can be as secure as any otheroperating system.",13,639,1185,53,1,10
+html body text div table tbody tr td p span  ,"But Linux does have a security problem. It's not a universal problem,but look at the following list of security Web sites, mailing lists, andupdate tools for some common Linux distributions:",13,709,1119,35,1,10
+html body text div table tbody tr td ul li span  ,Red Hat Linux,53,761,95,17,1,11
+html body text div table tbody tr td ul li ul li a span  ,redhat-watch-list-request@redhat.com,93,797,246,17,0,14
+html body text div table tbody tr td ul li ul li span  ,Update Agent available only to purchasers of Red Hat 6.1,93,815,370,17,0,13
+html body text div table tbody tr td ul li span  ,Debian,53,833,46,17,1,11
+html body text div table tbody tr td ul li ul li a span  ,debian-security-announce-REQUEST@lists.debian.org,93,869,355,17,0,14
+html body text div table tbody tr td ul li ul li span  ,apt-get update,93,887,91,17,0,13
+html body text div table tbody tr td ul li span  ,SuSE,53,905,36,17,0,11
+html body text div table tbody tr td ul li ul li a span  ,suse-security-announce-subscribe@suse.com,93,941,290,17,0,14
+html body text div table tbody tr td ul li ul li span  ,No official tool for auto updates -- AutoRPM works on bothSuSE and Red Hat.,93,959,508,17,0,13
+html body text div table tbody tr td ul li span  ,Mandrake,53,977,65,17,0,11
+html body text div table tbody tr td ul li ul li a span  ,symp@linux-mandrake.com,93,1013,182,17,0,14
+html body text div table tbody tr td ul li ul li span  ,MandrakeUpdate,93,1031,111,17,0,13
+html body text div table tbody tr td ul li span  ,Caldera,53,1049,50,17,1,11
+html body text div table tbody tr td ul li ul li a span  ,announce-subscribe@lists.caldera.com,93,1085,253,17,0,14
+html body text div table tbody tr td ul li ul li span  ,"is not just securityupdates but also product announcements, press releases, etc.",346,1085,503,17,0,13
+html body text div table tbody tr td ul li ul li span  ,No official tool for automatic updates,93,1103,241,17,0,13
+html body text div table tbody tr td ul li span  ,Corel,53,1121,36,17,1,11
+html body text div table tbody tr td ul li ul li span  ,No known web page for security,93,1139,209,17,0,13
+html body text div table tbody tr td ul li ul li span  ,No known mail list for security,93,1157,200,17,0,13
+html body text div table tbody tr td ul li ul li span  ,"No known tool for security updates. 'apt-get update'probably works, as it's based on Debian Linux",93,1175,627,17,0,13
+html body text div table tbody tr td ul li span  ,Turbo Linux,53,1193,81,17,1,11
+html body text div table tbody tr td ul li ul li span  ,No known web page for security,93,1211,209,17,0,13
+html body text div table tbody tr td ul li ul li span  ,No known mail list for security,93,1229,200,17,0,13
+html body text div table tbody tr td ul li ul li span  ,No known tool for security updates,93,1247,226,17,0,13
+html body text div table tbody tr td ul li span  ,Slackware Linux,53,1265,109,17,1,11
+html body text div table tbody tr td ul li ul li span  ,No known web page for security,93,1283,209,17,0,13
+html body text div table tbody tr td ul li ul li span  ,No known mail list for security,93,1301,200,17,0,13
+html body text div table tbody tr td ul li ul li span  ,No known tool for security updates,93,1319,226,17,0,13
+html body text div table tbody tr td p span  ,"These are all mainstream Linux distributions, tending towards ageneral audience; at the least, they're not aiming at the router marketor the embedded devices market. These are all products intended to beused by normal people and thrown up on a corporate network or eventhe Internet. Some may be aimed at relatively expert users, but I'ma fairly advanced user myself, and I still expect that my softwaredistributor is watching out for security at least minimally. That'sone of the reasons I don't roll my own distribution.",13,1353,1161,53,1,10
+html body text div table tbody tr td p span  ,"Of the eight common distributions I could think of, three havenothing whatsoever to do with security, and at least one of theothers didn't seem to be doing anything useful. No wonder Linux has asecurity problem: while those four distributions have probably lessthan a quarter of the Linux market, they tend to be high-profiledistributions which garner more than their share of media coverage.",13,1423,1174,53,1,10
+html body text div table tbody tr td p span  ,"These distributions aren't just putting their users at risk; they'redamaging Linux's credibility and its image in the marketplace. Everytime I'm asked by a reporter why Linux is so insecure, I have toconsider Caldera, Corel, Turbo Linux, and Slackware before I can answer.These distributions' total lack of concern with security is anembarrassment to the entire Linux and Open-Source communities.",13,1493,1150,53,1,10
+html body text div table tbody tr td p span  ,"Because of these distributions, I'm forced to admit to reportersthat many Linux installations are insecure, and there's little theaverage user can do about it without dedicating an inordinate amount oftime to security work. Most users aren't paid to worry about security,as I am. For many, computing may be only a small part of their work.These people can't rightly be asked to read Bugtraq; they've got work todo.",13,1563,1184,53,1,10
+html body text div table tbody tr td p span  ,"If only systems were kept up to patch, huge numbers of systemswouldn't be cracked. On the university campus where I work, systems havebeen exploited using the automount daemon bug which is more than a yearold, and which has been patched nearly that long. Being a professional,I know that they shouldn't even be running it, because I know thatthey're not using it. But I can't expect them to know, and I can't evenfix it myself: I didn't know that some of these machines existeduntil I found out that they'd been hacked. Asking these users to read asingle, low-volume, vendor-specific mailing list is a pretty goodsolution -- when those lists exist.",13,1633,1177,71,1,10
+html body text div table tbody tr td p span  ,"Experienced users should abandon Linux distributions which don'tprovide security fixes in a timely manner and post that information to aWeb site, a mailing list, or both. They should abandon thesedistributions not because they necessarily need the security noticesfor themselves, but because these distributions are ruining Linux'simage not only with novice users, but with the reporters and editors whoshape managers' opinions on whether Linux is a viable solution.",13,1721,1182,53,1,10
+html body text div table tbody tr td p span  ,"You may claim that you're a hobbyist, and you couldn't care less ifbusinesses use Linux; that's your right, certainly. However, you losenothing when businesses use Linux, you lose nothing when securityupdates are made available and publicized, and you gain nothing whenbusinesses reject Linux because some vendor couldn't be bothered topackage up an already publicly-available solution to a securityhole.",13,1791,1178,53,1,10
+html body text div table tbody tr td p span  ,"The rest of us do lose. It hurts our professional reputations whenwe stand behind a piece of software with frequent andhighly-publicized security lapses. It wastes our time, tracking downhacked user machines for which we're not responsible and rebuildingthem from the ground up. It wastes our money, when businesses andgovernment agencies buy more expensive hardware and software for theillusion of security.",13,1861,1184,53,1,10
+html body text div table tbody tr td p span  ,"Solving this problem isn't difficult or time consuming; simply pickdistributions which express a basic level of concern for securityissues, and let vendors know -- at trade shows, in e-mail, in lettersto the editor of your favorite publication -- that security isn't justabout security. It's about preserving our reputation for quality, andit's about saving time and money.",13,1931,1165,35,1,10
+html body text div table tbody tr td p font a span  ,Jon Lasser,13,2001,59,15,1,12
+html body text div table tbody tr td p font span  ,"is a Unix SystemsAdministrator, Lead Coordinator for the",72,2001,305,15,1,11
+html body text div table tbody tr td p font a span  ,Bastille Linux Project,377,2001,117,15,1,12
+html body text div table tbody tr td p font span  ,", andauthor of a forthcoming Unix book from",494,2001,240,15,1,11
+html body text div table tbody tr td p font a span  ,Macmillan,734,2001,59,15,1,12
+html body text div table tbody tr td p font span  ,tentatively titled,793,2001,88,15,1,11
+html body text div table tbody tr td p font em span  ,ThinkUnix,881,2001,58,15,1,12
+html body text div table tbody tr td p font span  ,". He's never bothered to take a computer course, except asingle Pascal class in high school. He lives in Baltimore with hiswife Kathleen, and their three cats: Mallet, Dashigara, and Spike. Iffor some reason you want to know more, check out his",13,2001,1177,31,1,11
+html body text div table tbody tr td p font a span  ,home page,1031,2017,60,15,1,12
+html body text div table tbody tr td p font span  ,.,1091,2017,3,15,1,11
+html body text div table tbody tr td h1 span  ,T-Shirts and Fame!,13,2072,266,36,1,10
+html body text div table tbody tr td p span  ,"We're eager to find people interested in writing editorials onsoftware-related topics. We're flexible on length, style, and topic,so long as you know what you're talking about and back up youropinions with facts. Anyone who writes an editorial gets a freshmeatt-shirt from",13,2131,1180,35,1,10
+html body text div table tbody tr td p a span  ,ThinkGeek,558,2149,76,17,1,11
+html body text div table tbody tr td p span  ,"inaddition to 15 minutes of fame. If you think you'd like to try yourhand at it, let",634,2149,515,17,1,10
+html body text div table tbody tr td p a span  ,jeff.covey@freshmeat.net,13,2167,169,17,1,11
+html body text div table tbody tr td p span  ,know what you'd like to write about.,182,2167,235,17,1,10
+html body text div table tbody tr td p small a span  ,[add comment],13,2201,81,15,0,12
+html body text div table tbody tr td table tbody tr td p b font span  ,Referenced categories,41,2233,168,20,1,16
+html body text div table tbody tr td table tbody tr td p a span  ,Topic :: Security,13,2270,106,17,0,15
+html body text div table tbody tr td table tbody tr td p b font span  ,Referenced projects,634,2233,153,20,0,16
+html body text div table tbody tr td table tbody tr td p a span  ,Bastille Linux,606,2270,95,17,0,15
+html body text div table tbody tr td table tbody tr td p span  ,- A comprehensive hardening program for Linux and HP-UX.,701,2270,395,17,0,14
+html body text div table tbody tr td p b font span  ,Comments,41,2304,83,20,1,12
+html body text div table tbody tr td p b span  ,[,13,2341,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,2341,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,2341,10,17,0,11
+html body text div table tbody tr td p b span  ,"RE: RE: Linux and the Common Man(tm), revisited",44,2341,358,17,1,11
+html body text div table tbody tr td p small span  ,by,13,2359,17,15,1,11
+html body text div table tbody tr td p small a span  ,RichD,30,2359,38,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 12th 2000 13:08:28,68,2359,133,15,1,11
+html body text div table tbody tr td p span  ,Andy Wrote:,13,2391,83,17,1,10
+html body text div table tbody tr td pre i span  ,RichD wrote: My premise isn't even that every UNIX user should beresponsible for understanding UNIX security.,13,2425,850,15,1,11
+html body text div table tbody tr td p i span  ,My mistake. I must have misinterpretted the part where you screamed,13,2456,445,17,1,11
+html body text div table tbody tr td p span  ,Go back and read the sentence after that one ...,13,2490,299,17,1,10
+html body text div table tbody tr td pre i span  ,"if you don't know what inetd.conf is for, if you don't knowwhere your startup scripts are [snip] ... then *you* *should* *NOT* *be**using* *UNIX*!!!!!",13,2524,1186,15,1,11
+html body text div table tbody tr td p span  ,"Well, you shouldn't.",13,2555,128,17,1,10
+html body text div table tbody tr td pre i span  ,there's no excuse for that level of incompetence in someonewho's educated enough to be a CEO.,13,2589,741,15,1,11
+html body text div table tbody tr td i span  ,"Everyone who is interested should teach themselves about howcomputers and networks work, how to configure them, etc. But the realityis that in the long run, to use your car analogy, the people who configurecomputers are more like car mechanics, not car drivers. CEOs will not everlearn much, if anything, about how computers work. For them it's a tool, nota hobby. It's much more cost effective to have an expert configure their computer than it is for them to do it themselves.",13,2617,1172,53,1,10
+html body text div table tbody tr td p span  ,"Ok, then, let me take the car analogy one step further that that ...",13,2687,411,17,1,10
+html body text div table tbody tr td p span  ,Windows Vehicle:,13,2721,117,17,1,10
+html body text div table tbody tr td ul li span  ,"You turn on your machine, it boots Windows, you hit the Start button,you chose a program, it runs. If there's a problem, an ""engine problem""indicator lights up on the dashboard.",53,2755,1135,17,1,11
+html body text div table tbody tr td ul li span  ,"You get in your Geo, put the key in the ignition, turn it on, put thegearshift in Drive, step on the gas, and go. If there's a problem, a""General Fault"" message pops up on the screen.",53,2773,1141,17,1,11
+html body text div table tbody tr td span  ,Linux Vehicle:,13,2807,94,17,1,9
+html body text div table tbody tr td ul li span  ,"You turn on your machine, it boots Linux/BSD/Solaris/FooNIX, you watchthe startup messages for any errors, you type in your login and password,you get a shell prompt, maybe you type ""startx"" to get a nice GUI. Younow have your choice of hudreds of commands, tools, utilities, compilers,editors, and apps to bring to bear on the problem at hand. If there's aproblem, a core file and a ton of log messages are spewed out to tell theuser exactly what part broke, and whether or not it's going to compromisethe stability of the rest of the system.",53,2841,1144,71,1,11
+html body text div table tbody tr td ul li span  ,"You step out on the flight line, do a thorough walkaround of your F-22checking for any potential problems, hop in the cockpit, enter yourauthentication code, crank up the turbines, taxi out to the end of therunway, get clearance from the tower, and take off. You now have yourchoice of hundreds of possible maneuvers, and a wide array of avionics,ECM, and weaponry to bring to bear on the problem at hand. If there's aproblem, diagnostic information gets spewed out at the pilot to tell himexactly what part broke, and whether or not it's going to compromise theairworthiness of the aircraft.",53,2913,1128,71,1,11
+html body text div table tbody tr td p span  ,"The driver of the Geo doesn't need to know how the engine works, or how torepair it, in order to get from point A to poing B. That's what themechanic is for. If there's a problem, an ""engine problem"" indicatorlights up on the dashboard.",13,3001,1155,35,1,10
+html body text div table tbody tr td p span  ,"Likewise, the driver of the F-22 doesn't need to know how the radar,avionics, and engine work, or how to repair them, in order to shoot downthe other guy. That's what the ground crew is for.",13,3053,1178,35,1,10
+html body text div table tbody tr td p span  ,"The persond driving F-22, however, must have a great deal more knowledgeof and competence in the physics involved in maneuvering the vehicle thanthe driver of the Geo.",13,3105,1108,17,1,10
+html body text div table tbody tr td p span  ,"The ""driver"" of the Windows box doesn't need to know how files are storedon disk, or how an interrupt vector tells the CPU that the sound cardwants some attention. He does need to know enough to use the Start->ShutDown menu item, instead of just turning off the power. He",13,3139,1164,35,1,10
+html body text div table tbody tr td p b span  ,should,622,3157,49,17,1,11
+html body text div table tbody tr td p span  ,know enough not to run any .exe files or open any word files that haven'tbeen virus scanned.,13,3157,1155,35,1,10
+html body text div table tbody tr td p span  ,"The ""driver"" of the Linux box doesn't need to know what an inode is, orhow System V IPC works. He does need to know how to log on and offproperly, and how to read basic error messages that show up on theconsole, how to use the shutdown command. He",13,3209,1153,35,1,10
+html body text div table tbody tr td p b span  ,should,516,3227,50,17,1,11
+html body text div table tbody tr td p span  ,"know the basicsof configuring and compiling a kernel, and locking down inetd.conf and therc.* files.",13,3227,1164,35,1,10
+html body text div table tbody tr td p span  ,"In a corporate environment, most of the more complicated stuff for eithersystem is handled by the IT staff. They take care of things likefirewalls at the edge of the corporate network, and shutting off telnet,ftp, rpc, and other such things on machines that don't need them up.",13,3279,1162,35,1,10
+html body text div table tbody tr td p span  ,"At home, it's a different story. Someone using a computer at home is mostlikely either dialing a modem in to an ISP, or connecting full time with anISDN or DSL link. (Unless they're a total geek, and have set up their own10.0.0.0 network behind a dedicated NAT-ing/Firewalling box ...)",13,3331,1177,35,1,10
+html body text div table tbody tr td p span  ,"Sadly, most people don't realize the risk they're putting themselves at bydoing this without installing and configuring security tools. Even asimple thing like NukeNabber for Windows can help avert a systemcompromise, if the user is aware enough to yank the phone line out of thewall when a port scan is detected by it. I have little sympathy forpeople who's machines get compromised due to their own ignorance andincompetence.",13,3383,1182,53,1,10
+html body text div table tbody tr td p b span  ,Anyone,423,3419,57,17,1,11
+html body text div table tbody tr td p span  ,"running a computer that's attatched to the'net needs to take the time to learn how to secure it. (By ""running"" Imean being the person responsible for it's maintenance, as in an IT personfor a corporation, or the owner/user of a home machine.)",13,3419,1153,35,1,10
+html body text div table tbody tr td p i span  ,"That's just the way it is. If you want Linux for the masses, it mustbe idiot proof.",13,3471,505,17,1,11
+html body text div table tbody tr td p span  ,There's no such thing.,13,3505,141,17,1,10
+html body text div table tbody tr td p i span  ,"If no distro makes the idiot proof LAN workstation, then each network sys admin will have to cook up their own.",13,3539,717,17,1,11
+html body text div table tbody tr td p span  ,Who's better qualified to cook up a machine config that's suited to thelocal network environment that the local network admin?,13,3573,813,17,1,10
+html body text div table tbody tr td pre i span  ,"Umm ... let's see ... rpm for RedHat,",13,3607,304,15,1,11
+html body text div table tbody tr td p i span  ,"I've used that one. Last time I checked, it did not add or removelinks from the rc.* directories, nor did it do a recursive dependancycheck to install all the packages that the package I want depends on.",13,3638,1162,35,1,11
+html body text div table tbody tr td p span  ,"No, but it will tell you if you need to install another package that thisone depends on. That way, it doesn't install stuff it's not telling youabout ...",13,3690,920,17,1,10
+html body text div table tbody tr td p i span  ,Yet installation programs magically can do this. They seem differentto me.,13,3724,475,17,1,11
+html body text div table tbody tr td p span  ,"If you want Windows' InstallShield Wizard, you know where to find it.",13,3758,454,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,3792,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,3792,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,3841,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,3841,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,3841,10,17,0,11
+html body text div table tbody tr td p b span  ,"RE: Linux for the Common Man(tm), revisited",44,3841,320,17,1,11
+html body text div table tbody tr td p small span  ,by,13,3859,16,15,1,11
+html body text div table tbody tr td p small a span  ,Andy Wiggin,29,3859,75,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 11th 2000 21:29:48,104,3859,133,15,1,11
+html body text div table tbody tr td p span  ,RichD wrote:,13,3891,91,17,1,10
+html body text div table tbody tr td p i span  ,My premise isn't even that every UNIX user should beresponsible for understanding UNIX security.,104,3891,636,17,1,11
+html body text div table tbody tr td p span  ,My mistake. I must have misinterpretted the part where you screamed,13,3925,447,17,1,10
+html body text div table tbody tr td p i span  ,"if you don't know what inetd.conf is for, if you don't know where yourstartup scripts are",13,3959,562,17,1,11
+html body text div table tbody tr td p span  ,[snip],575,3959,41,17,1,10
+html body text div table tbody tr td p i span  ,... then *you* *should* *NOT* *be**using* *UNIX*!!!!!,616,3959,371,17,1,11
+html body text div table tbody tr td p span  ,moving on...,13,3993,81,17,1,10
+html body text div table tbody tr td p i span  ,there's no excuse for that level of incompetence in someone who'seducated enough to be a CEO.,13,4027,616,17,1,11
+html body text div table tbody tr td p span  ,"Everyone who is interested should teach themselves about how computers andnetworks work, how to configure them, etc. But the reality is that in thelong run, to use your car analogy, the people who configure computers aremore like car mechanics, not car drivers. CEOs will not ever learn much,if anything, about how computers work. For them it's a tool, not a hobby.It's much more cost effective to have an expert configure their computerthan it is for them to do it themselves.",13,4061,1174,53,1,10
+html body text div table tbody tr td p span  ,"That's just the way it is. If you want Linux for the masses, it must beidiot proof. If no distro makes the idiot proof LAN workstation, then eachnetwork sys admin will have to cook up their own.",13,4131,1166,35,1,10
+html body text div table tbody tr td p span  ,But I do agree that it would be nice if people understood computersbetter.,13,4183,471,17,1,10
+html body text div table tbody tr td p i span  ,"Umm ... let's see ... rpm for RedHat,",13,4217,230,17,1,11
+html body text div table tbody tr td p span  ,"I've used that one. Last time I checked, it did not add or remove linksfrom the rc.* directories, nor did it do a recursive dependancy check toinstall all the packages that the package I want depends on. Yetinstallation programs magically can do this. They seem different to me.",13,4251,1158,35,1,10
+html body text div table tbody tr td p i span  ,what are you complaining about?,13,4303,215,17,1,11
+html body text div table tbody tr td p span  ,... not complaing. Just floating an idea.,13,4337,248,17,1,10
+html body text div table tbody tr td p span  ,-a,13,4371,12,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,4405,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,4405,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,4454,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,4454,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,4454,10,17,0,11
+html body text div table tbody tr td p b span  ,"Linux for the Common Man(tm), revisited.",44,4454,293,17,1,11
+html body text div table tbody tr td p small span  ,by,13,4472,17,15,1,11
+html body text div table tbody tr td p small a span  ,RichD,30,4472,38,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 11th 2000 18:35:37,68,4472,133,15,1,11
+html body text div table tbody tr td p span  ,Andy wrote:,13,4504,84,17,1,10
+html body text div table tbody tr td p i span  ,"First, I'm glad the discussion has risen from the gutter. I think someof these slackeware types need to starting dealing with their anger...",97,4504,868,17,1,11
+html body text div table tbody tr td p span  ,"Well, some of the statements made in the original article (and many of theresponses) were just bound to start a religious flame war. Welcome to thewonderful world of Linux geeks ...",13,4538,1164,17,1,10
+html body text div table tbody tr td p i span  ,I have to disagree with RichD's premise that every UNIX user must beresponsible for understanding UNIX security.,13,4572,740,17,1,11
+html body text div table tbody tr td p span  ,My premise isn't even that every UNIX user should be responsible forunderstanding UNIX security. My premise is that every,13,4606,808,17,1,10
+html body text div table tbody tr td p u span  ,computer,821,4606,64,17,1,11
+html body text div table tbody tr td p span  ,user should be responsible for understanding basic,13,4606,1159,35,1,10
+html body text div table tbody tr td p u span  ,computer,50,4624,64,17,1,11
+html body text div table tbody tr td p span  ,"security. The state of the general public's computer literacy is,IMNERHO, simply pathetic!",114,4624,582,17,1,10
+html body text div table tbody tr td p span  ,"How many people simply assume it's safe to go into Windows and start uptheir Dialup Networking and connect to the Internet? How many peopleassume that because they use an ISP and have a dynamically assigned IPaddress that they can't get hacked? How many people assume it's ok toopen that Word file without virus scanning it because they ""know"" thatonly .exe files can contain viruses? How many people assume it's safe toget up from their workstation without locking their screen?",13,4658,1169,53,1,10
+html body text div table tbody tr td p span  ,"From my point of view, that's just like driving off in a car not knowingwhere the brake pedal is, and assuming you're not going to crash intoanything. It's just like turning on a band saw and shoving a piece ofwood in the general direction of the blades without wearing safety glassesor knowing where the scram switch is, and assuming you won't get a splinterin your eye or cut your fingers off.",13,4728,1181,53,1,10
+html body text div table tbody tr td p span  ,"A computer is a powerful, complex tool that, if properly applied, canboost productivity in the workplace to a great degree. Like any othertool, however, if it is not used correctly, it has the potential to do agreat deal of damage.",13,4798,1171,35,1,10
+html body text div table tbody tr td p i span  ,"Linux advocates talk about displacing Windows, but it will never happenuntil secrataries and CEOs can be productive on Linux, too.",13,4850,851,17,1,11
+html body text div table tbody tr td p span  ,"The tools are there, it's just a matter of R-ing TFM to learn how to usethem.",13,4884,485,17,1,10
+html body text div table tbody tr td p i span  ,"And believe me, they barely understand what their account name is.",13,4918,434,17,1,11
+html body text div table tbody tr td p span  ,True. And there's no excuse for that level of incompetence in someonewho's educated enough to be a CEO.,13,4952,685,17,1,10
+html body text div table tbody tr td p i span  ,"One person must be able to maintain 10's or 100's of ""secure enough""Linux boxes.",13,4986,529,17,1,11
+html body text div table tbody tr td p span  ,"One person, who has even just a little experience installing and securingLinux boxes, can. It would make a great internship opportunity for a CSstudent looking at getting into network administration ...",13,5020,1172,35,1,10
+html body text div table tbody tr td p span  ,"You don't have to have a PhD in Computer Science to be able to use acomputer safely and effectively, just as you don't need to know thephysics and engineering of an internal combustion engine to drive a carsafely and effectively -- but, as with a car or a bandsaw or any otherpiece of equipment, a",13,5072,1117,35,1,10
+html body text div table tbody tr td p b span  ,basic,799,5090,38,17,1,11
+html body text div table tbody tr td p span  ,level of knowledge and competence isneeded. It is this lack of knowledge of the fundamentals of networks andtheir hazards that causes so many machines to get cracked.,13,5090,1174,35,1,10
+html body text div table tbody tr td p i span  ,"With regards to distro install scripts, one thing I find annoying isthat the scripts (the one's I've used, at least) only run at install time.I think a better way to do it would be to have an install script that detected thehardware, installed the kernel and other non-optional packages, thenrebooted into console mode. Then, use a general purpose tool (one that you could runagain later) to enable and disable services, and install/uninstallsoftware.",13,5142,1157,53,1,11
+html body text div table tbody tr td p span  ,"Umm ... let's see ... rpm for RedHat, pkgtool for Slackware, Debian has apackage manager, FreeBSD has pkg_add pkg_delete and the ports system,linuxconf lets you adjust all your system settings from an easy to use andunderstand GUI (in X) or menu system (on the console) ... what are youcomplaining about?",13,5212,1155,35,1,10
+html body text div table tbody tr td p span  ,"Most distributions even let you select between a Workstation and a Serverinstallation, and adjust what daemons are available by defaultaccordingly. Perhaps they are a bit permissive with things like telnet,ftp, nfs, and other services, but that's only in accordance with the UNIXtradition, where these services are expected to be available. If you havea problem with that, there's always OpenBSD, which shuts everything exceptSSH off by default.",13,5264,1161,53,1,10
+html body text div table tbody tr td p span  ,"Above and beyond that issue, and I'll make this point again and againuntil it's heard,",13,5334,543,17,1,10
+html body text div table tbody tr td p b span  ,it's not that hard,556,5334,119,17,1,11
+html body text div table tbody tr td p span  ,to go and get yourselfinformed enough about your computer and OS to not make a total ass ofyourself on the network!,13,5334,1180,35,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,5386,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,5386,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,5435,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,5435,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,5435,10,17,0,11
+html body text div table tbody tr td p b span  ,Corporate LANs and distro install scripts,44,5435,283,17,1,11
+html body text div table tbody tr td p small span  ,by,13,5453,16,15,1,11
+html body text div table tbody tr td p small a span  ,Andy Wiggin,29,5453,75,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 11th 2000 13:11:39,104,5453,133,15,1,11
+html body text div table tbody tr td p span  ,"First, I'm glad the discussion has risen from the gutter. I think some ofthese slackeware types need to starting dealing with their anger...",13,5485,864,17,1,10
+html body text div table tbody tr td p span  ,"I have to disagree with RichD's premise that every UNIX user must beresponsible for understanding UNIX security. I'm a newer Linux user (lessthan two years), so I don't have the same perspective as the old-timers. Idon't see Linux as a hobbyist's toy, I see it as a tool that I'd like to beable to use at work (much as Mr. Lasser was talking about). In a LANsetting, not everyone is a sysadmin, and in fact, that could never work.People can be perfectly productive UNIX users without understandinganything about inetd.conf. I know I was for years.",13,5521,1171,53,1,10
+html body text div table tbody tr td p span  ,"For Linux to make it in the corporate world, the boxes need to be easyto set up as LAN workstations and easy to keep up to date with softwarepatches. One person must be able to maintain 10's or 100's of ""secureenough"" Linux boxes. In my mind that should be the goal, and tools likeAutoRPM and Bastille Linux are the right approach.",13,5593,1143,35,1,10
+html body text div table tbody tr td p span  ,"Linux advocates talk about displacing Windows, but it will neverhappen until secrataries and CEOs can be productive on Linux, too. Andbelieve me, they barely understand what their account name is.",13,5647,1172,35,1,10
+html body text div table tbody tr td p span  ,"With regards to distro install scripts, one thing I find annoying isthat the scripts (the one's I've used, at least) only run at install time.I think a better way to do it would be to have an install script thatdetected the hardware, installed the kernel and other non-optionalpackages, then rebooted into console mode. Then, use a general purposetool (one that you could run again later) to enable and disable services,and install/uninstall software. That way turning on and off services wouldnot be such a big deal, since they could easily tweeked later using thesame, easy to use, vendor specific tool. This might make it more practicleto turn off more services by default.",13,5701,1167,71,1,10
+html body text div table tbody tr td p span  ,-Andy,13,5791,41,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,5825,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,5825,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,5874,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,5874,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,5874,10,17,0,11
+html body text div table tbody tr td p b span  ,Security? distro independant.,44,5874,202,17,1,11
+html body text div table tbody tr td p small span  ,by,13,5892,17,15,1,11
+html body text div table tbody tr td p small a span  ,digitalunity,30,5892,64,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 11th 2000 02:44:20,94,5892,133,15,1,11
+html body text div table tbody tr td p span  ,"I find fault not with Slackware, or Red Hat's policy on custom packagesbeing included. My issue only is with the install programs from thedistros. A linux install with all of the services turned off is fairlysecure. This is not entirely practical.",13,5924,1180,35,1,10
+html body text div table tbody tr td p span  ,"Anyone intending to use their computer as a server should make it theirresponsibility to keep themselves informed and their server running onlynew software. I find it a little humorous when someone sets up a webserver, and maybe an ftp server, and a portscan reveals 20 open ports.Thats insecure. And that is about right for any default install of mostdistributions. I have always used slackware and yes, I felt it was in abeta-stage until v7.0.",13,5978,1177,53,1,10
+html body text div table tbody tr td p span  ,"My message is only that multiple inetd.conf files should be included withevery distribution, and the user should have the opportunity to choosefrom several options:",13,6050,1053,17,1,10
+html body text div table tbody tr td p span  ,Secure: for single users - no open ports,13,6086,250,17,1,10
+html body text div table tbody tr td p span  ,"Medium: for remote-admin nodes - telnet, ssh, just the 'portant stuff",13,6104,434,17,1,10
+html body text div table tbody tr td p span  ,Insecure: for the hacker who will do it all themself anyways :),13,6122,398,17,1,10
+html body text div table tbody tr td p span  ,I find it discontenting that distributions include soooo many services onby default...,13,6158,535,17,1,10
+html body text div table tbody tr td p span  ,but thats just me...,13,6248,117,17,1,10
+html body text div table tbody tr td p span  ,and I'm just the user,13,6266,129,17,1,10
+html body text div table tbody tr td p span  ,digitalunity aka digitalun aka mike the hacker next door,13,6284,358,17,1,10
+html body text div table tbody tr td p span  ,"bud - bag, can, bottle, keg. itsallgood.",13,6320,241,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,6354,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,6354,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,6403,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,6403,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,6403,10,17,0,11
+html body text div table tbody tr td p b span  ,Out of the box secure distro? One word ...,44,6403,285,17,1,11
+html body text div table tbody tr td p small span  ,by,13,6421,17,15,1,11
+html body text div table tbody tr td p small a span  ,RichD,30,6421,38,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 10th 2000 17:11:39,68,6421,133,15,1,11
+html body text div table tbody tr td p span  ,"OpenBSD. By default, remote access services are disabled until the adminexplicitly goes into inetd.conf and enables them.",13,6453,786,17,1,10
+html body text div table tbody tr td p span  ,"Slimy is correct in saying that I miss the point of the main article in myprevious post. I wasn't aiming for it. I intended the post in contextwith the other replies talking about how there should be a distro that is""secure"" out of the box. (I guess I missed that by a hair, too ;)",13,6487,1169,35,1,10
+html body text div table tbody tr td p span  ,"The simple truth remains that there just is no such thing. The securityof any system, no matter what OS it is running, is a function of thecluefulness of the admin. A well run Linux box will be more secure than apoorly run OpenBSD install. A well run NT server will be more secure thata shoddily maintained Solaris 7 box.",13,6539,1172,35,1,10
+html body text div table tbody tr td p span  ,"Of course, the only way to have a system that is completely secure frombeing hacked on the 'net, is not to have it on the 'net at all. Then allyou have to deal with is the security of physical access to the machineitself ... we've all seen the draconian measures that Hollywood producerscan think of to try and do that, and Tom Cruise was still able to stealdata off of it in",13,6591,1179,53,1,10
+html body text div table tbody tr td p u span  ,Mission Impossible,29,6627,130,17,1,11
+html body text div table tbody tr td p span  ,...,159,6627,12,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,6661,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,6661,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,6710,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,6710,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,6710,10,17,0,11
+html body text div table tbody tr td p b span  ,Missing the point,44,6710,118,17,1,11
+html body text div table tbody tr td p small span  ,by,13,6728,17,15,1,11
+html body text div table tbody tr td p small a span  ,slimy,30,6728,33,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 10th 2000 14:49:17,63,6728,133,15,1,11
+html body text div table tbody tr td p span  ,"While I agree with RickD's comment (especially the first paragraph), Ibelieve it misses the main point of the article.",13,6760,742,17,1,10
+html body text div table tbody tr td p span  ,"Clearly, one must learn Unix if one expects to administer a Linuxmachine. And that includes home users. But still, most LinuxDistributions that I have run across, Slackware and Debian included, makeassuptions about system installations that are not, from a securitystandpoint, logical. For example, installing a telnetd server by defaultis probably not a good idea. Having it installed and configured to acceptremote connections by default is horrific! Yet this was the case when Iinstalled Debian 2.1. Debian 2.2 (Potato) is a little smarter than this,but thats not the official release (yet).",13,6778,1186,71,1,10
+html body text div table tbody tr td p span  ,"As anyone who has delt with security issues for some time will tellyou: the best security policy you can adopt is ""that which is notexplicitly allowed is denied"". More distributions need to take this intoaccount.",13,6850,1178,35,1,10
+html body text div table tbody tr td p span  ,"If I want a telnet server, I will ask for it. And when I install it,I would expect that: at best, it would not aceept connections fromanywhere until I told it otherwise; at worst, it would accept localconnections only, until I told it otherwise.",13,6886,1146,35,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,6938,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,6938,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,6987,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,6987,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,6987,10,17,0,11
+html body text div table tbody tr td p b span  ,"Linux, security, and the Common Man(tm)",44,6987,293,17,1,11
+html body text div table tbody tr td p small span  ,by,13,7005,17,15,1,11
+html body text div table tbody tr td p small a span  ,RichD,30,7005,38,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 10th 2000 13:17:07,68,7005,133,15,1,11
+html body text div table tbody tr td p span  ,"Linux is a UNIX style operating system. UNIX was not originally intendedfor the ""casual"" or ""home"" user ... they just didn't exist in 1969.",13,7037,887,17,1,10
+html body text div table tbody tr td p span  ,"Linux, the BSDs, and any UNIX flavor, for that matter, requires theuser to have a given level of cluefulness. IMNERHO, this is a Good Thing. The plain, simple, ugly truth is that if you don't know what inetd.conf isfor, if you don't know where your startup scripts are and how to edit them,if you don't know how to set up your anonymous FTP server correctly, etc.etc. etc. ... then *you* *should* *NOT* *be* *using* *UNIX*!!!!!",13,7073,1185,53,1,10
+html body text div table tbody tr td p span  ,"The flip side of that is that anyone can easily obtain thedocumentation and learn how to do all of these things, as well as all theother tasks required to keep a UNIX system up and running properly. Thishas the effect (or at least the potential) of raising the computerliteracy level of the general public.",13,7145,1139,35,1,10
+html body text div table tbody tr td p span  ,"Sadly, most people think of their computer the same way they thinkabout their television set, their microwave, and their car. The way I seeit, computers are actually more akin to power tools -- if you don't readthe instructions and/or get proper training in their use, you're gonna gethurt.",13,7199,1177,35,1,10
+html body text div table tbody tr td p span  ,"There are a few simple truths about the Internet as it stands todaythat many, if not most, people overlook:",13,7253,673,17,1,10
+html body text div table tbody tr td p span  ,"1- The Internet, like Downtown(tm), is *NOT* a safe place. Anyone whoattatches a computer or a network to the Internet is placing themselves atrisk. There are malicious people out there who want to steal yourinformation, just like there are malicious people out there who want tosteal your wallet. There are Script Kiddies out there who want to defaceyour website, just as there are Junior Gangbangers out there who want totag your house/car/fence/wall/place of business.",13,7289,1178,53,1,10
+html body text div table tbody tr td p span  ,"2- You gotta cover your own ass. Ultimately, your computer's safetyis your responsibility, just like your personal safety is your ownresponsibility. Companies have sysadmins who get paid to keep the networksecure. They also have security guards and alarm systems and such to keepthe physical premeses physically secured. At home, you have locks on yourdoors, and perhaps an alarm system, to help keep intruders out of yourhome. I say ""help"" because the fact remains that if someone really wantsto break into your house, they will, alarm system notwithstanding. Thesame is true for computers on the 'net. If someone *really* wants to getin, they will. There are, however measures that can be taken to make itmuch more difficult.",13,7361,1184,71,1,10
+html body text div table tbody tr td p span  ,"Yes, there are people out there who are trying to help look out foreverybody's safety, just like there are police patrolling the streetslooking out for everyones safety ... and they're about as effective. Thefact remains that if you don't know how to spot a potential mugger, and ifyou don't bother learning basic personal safety practices (like scanningthe area for potential baddies before unlocking your car door orapproaching your home, or being able to spot the scratches on the lock anddoor frame that indicate forced entry), you're much more likely to getmugged than the person who *has* bothered to learn these things.",13,7451,1169,71,1,10
+html body text div table tbody tr td p span  ,"Similarly, if you don't bother learning basic computer safetypractices (like editing inetd.conf, and configuring firewalling), you'remuch more likely to get cracked that the person who *has* learned thesethings.",13,7541,1164,35,1,10
+html body text div table tbody tr td p span  ,"It doesn't take much. Anyone who has any semblance of intelligencehigher that that of an earthworm can figure out how to edit theirinetd.conf file to turn off unecessary daemons. Configuring IPChains is apiece of cake, if you bother to read the FAQ and HOWTO.",13,7595,1144,35,1,10
+html body text div table tbody tr td p span  ,"I have no sympathy for anyone who whines about how hard it is to setup a Linux/BSD/UNIX system. ""But Windows just works"" is the party line... primarily because most people never actually *do* a Windows install. They buy computers from the local consumer electronics store, which comewith Windows preinstalled (by someone who gets paid to install Windows ondozens or hundreds of computers a day), and have no clue how insecure theyare when they hit that Dialup Networking button to go surfing the net.",13,7649,1180,53,1,10
+html body text div table tbody tr td p span  ,"At least Linux and the other freeware Unices *have* easily accessiblemechanisms like inetd.conf, and firewalling tools like IPChains that allowthem to be made more secure. At least the users of these systems know (orshould know) that there are security issues to be addressed.",13,7721,1166,35,1,10
+html body text div table tbody tr td p span  ,"Most Windows users are blissfully unaware that they are wide open tomany attacks that can crash their machines, and many more attacks thattake advantage of their ignorance to use email attatchments, JavaScript,ActiveX, and other such methods to install backdoors into their systems. Furthermore, most Windows users have no simple method to block suchattacks against their home box that they use to dial directly into the'net.",13,7775,1174,53,1,10
+html body text div table tbody tr td p span  ,"When these users load Linux, without taking the time to learn aboutthe issues involved, they remain just as ignorant of their securitysituation as they were when they were running Windows.",13,7847,1146,35,1,10
+html body text div table tbody tr td p span  ,"People take the time to attend self defense and ""street smarts""seminars, and martial arts classes to learn how to protect themselves inthe Real World(tm). They watch the news to find out if there is a serialrapist in town this week. They lock their doors and windows at night, andturn on the alarm system to keep the burglers out.",13,7901,1185,35,1,10
+html body text div table tbody tr td p span  ,"Is it really to much to expect people to take the time to learn therelatively simple techniques (like editing out unneeded daemons frominetd.conf and their startup scripts, and configuring firewalling likeIPChains) that will lock down their Linux box to keep the Script Kiddiesout?",13,7955,1184,35,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,8007,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,8007,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,8056,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,8056,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,8056,10,17,0,11
+html body text div table tbody tr td p b span  ,ok ok enough bickering,44,8056,160,17,1,11
+html body text div table tbody tr td p small span  ,by,13,8074,17,15,1,11
+html body text div table tbody tr td p small a span  ,Gary the Lineman,30,8074,100,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 10th 2000 12:57:55,130,8074,133,15,1,11
+html body text div table tbody tr td p span  ,"Agreed, the paper did seem like an attack on Slackware do to the completemisconception about Volkerding's view on security. The sites and listshave been pointed out enough in the comments. The man has appologized solets move on.",13,8106,1157,35,1,10
+html body text div table tbody tr td p span  ,"This article was a good one. Unfortunately most people missed the point. I don't think it was intended to tell us what distribution to use, or whoto boycott; rather, it was intended to tell us what we should do aboutsecurity, why we need it, etc. The common quote from most web sitedefacers is ""Security is a Myth"". This is true for the most part, but ifwe all look at security and pay attention to it rather than sloughing itoff, it doesn't have to be a myth.",13,8160,1172,53,1,10
+html body text div table tbody tr td p span  ,"Anyway, I lack sleep and I'm at work...so I hope this made sense...",13,8232,425,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,8266,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,8266,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,8315,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,8315,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,8315,10,17,0,11
+html body text div table tbody tr td p b span  ,Let's get the facts straight,44,8315,177,17,1,11
+html body text div table tbody tr td p small span  ,by,13,8333,17,15,1,11
+html body text div table tbody tr td p small a span  ,Olaf Kirch,30,8333,60,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 10th 2000 12:08:03,90,8333,134,15,1,11
+html body text div table tbody tr td p span  ,"Being the person at Caldera who's responsible for security issues, I feltnot just a little insulted by your claim that Caldera is one of thedistributions that doesn't to anything about security.",13,8365,1130,35,1,10
+html body text div table tbody tr td p span  ,"You write, in trying to apologize for your unfair treatment of Slackware:``In the old days [...] Slackware had huge numbers of security holes.''This sentence enforces my suspicion that your article is based much moreon dated stereotypes than real understading of what goes on in the Linuxsecurity area.",13,8417,1169,35,1,10
+html body text div table tbody tr td p span  ,"If you go back to some time around 95, I grant you that Linuxdistributions used to resemble leaky buckets more than a secure OS. This,and the fact that Linux was ignored both by CERT and (to a large degree)by bugtraq as well lead to the establishment of various Linux securityresources--such as a the linux-security list.",13,8469,1147,35,1,10
+html body text div table tbody tr td p span  ,"Since then, most Linux distributors, including Caldera, have started toput a lot more emphasis on security. There is even a certainamount of information sharing and coordination concerning security issuesamong Linux distributors.",13,8521,1136,35,1,10
+html body text div table tbody tr td p span  ,I have personally audited most if not all setuid applications and anumber of network servers shipped with OpenLinux. Linux as awhole has profited from this. And we're not the only Linux vendortrying to address security problems proactively.,13,8573,1160,35,1,10
+html body text div table tbody tr td p span  ,"Working in the security area myself I can on the other hand understandyour apparent frustration. Making an operating system more secure is anuphill battle you cannot win. Distributors make mistakes in integratingsoftware with their product (or they make choices you consider a mistake).Programmers insist on putting the same bugs into their programs over andover again (do a grep strcpy over the pine sources one day). Many usersexpect things to ""just work"" and don't take security serious until theyget hacked.",13,8625,1182,53,1,10
+html body text div table tbody tr td p span  ,However don't blame distribution maintainers for a problem that has manymore facets--especially if your assignment of blame is based on sloppyresearch.,13,8695,989,17,1,10
+html body text div table tbody tr td p span  ,"On the overall scale, Linux security has improved a lot over the past fewyears--and while I agree that there's a long way to go, progress willdepend at least as much on creating more secure software in the firstplace as on the vendors' timely delivery of patches.",13,8729,1159,35,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,8781,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,8781,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,8830,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,8830,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,8830,10,17,0,11
+html body text div table tbody tr td p b span  ,we all know why he wrote this,44,8830,205,17,1,11
+html body text div table tbody tr td p small span  ,by,13,8848,17,15,1,11
+html body text div table tbody tr td p small a span  ,sanityimp,30,8848,56,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 9th 2000 15:50:34,86,8848,126,15,1,11
+html body text div table tbody tr td p span  ,"it wasnt to get publicity, or for his own ego. we all know he wrote thisarticle for a free tshirt, i know im gonna write one myself.",13,8880,819,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,8914,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,8914,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,8963,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,8963,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,8963,9,17,0,11
+html body text div table tbody tr td p b span  ,Another Slack Flame?,43,8963,152,17,1,11
+html body text div table tbody tr td p small span  ,by,13,8981,17,15,1,11
+html body text div table tbody tr td p small a span  ,KL Davis,30,8981,55,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 9th 2000 09:42:16,85,8981,126,15,1,11
+html body text div table tbody tr td p span  ,Well...,13,9013,42,17,1,10
+html body text div table tbody tr td p span  ,"I read this a few hours ago, but thought it best to hold any commentsfor awhile -- A while has passed.",13,9049,649,17,1,10
+html body text div table tbody tr td p span  ,"First, I do not blame Mr. Lasser for this article. Having experienceas an editor of a small, international law enforcement journal... I knowthat the old adage ""Don't shoot me, I'm just the messenger"" holds no waterin the journalism business. Mr. Covey... shame now, did we not learn atleast one thing from the cinema classic ""Real Genius""? ""Never forget tocheck your references!"" (I think the kids still like it when I ""get down""verbally).",13,9085,1176,53,1,10
+html body text div table tbody tr td p span  ,"Mr Lasser, I note that you have made an attempt, albeit feeble, butwhat appears to be an attempt non the less at saying you are sorry? Ifthis was an apology... then I, as a card carrying Slacker, accept -- Thankyou.",13,9157,1166,35,1,10
+html body text div table tbody tr td p span  ,"Now if I may make a comment or two? I do not claim to know even afraction of what you, MR. Lasser, know about computer security. I onlystarted *tinkering* with computers in 1984 -- The majority of my securityexperience is more with MP5s than MD5. But, as anyone who knows me (or hashad the misfortune of finding my web site) knows, I have made a realdedication towards network security.",13,9211,1181,53,1,10
+html body text div table tbody tr td p span  ,"I seem to have taken a different, I like to think more practical,approach to finding what flavor of Linux I would use for my firewall andsecure OS base. Rather than which distro was the most popular and had themost support, I chose the one that (IMO) needed the least work: Slackware! But that is not why I am writing, I hope to offer a simple explanation thatseems too often missed -- Or, misunderstood. Anyway, this is what I havepicked up in the last couple of decades...",13,9283,1183,53,1,10
+html body text div table tbody tr td p span  ,"The notion that anyone can completely protect something is silly...noble, but silly. There is no security panacea -- and look closely atthose who claim to have it, odds are there little wagons have the words""snake oil"" freshly painted over on the sides. It is this sort ofthinking that drives a company to spend $180,000.00 on a high-tech,laminated steel door - mounted in hardened and reinforced concrete & steelframe and casement - featuring hinges and locksets made of solidunobtanium! Then put that door between two windows made of genuineglass?",13,9355,1175,71,1,10
+html body text div table tbody tr td p span  ,"This is the same rational that has System Administrators walkingaround touting their new mega buck, AI powered, Super-Cyber-Crypt-KeeperSoftware... while EVERY terminal (even the one that customers can use inthe lobby) has a functional floppy drive! (yes, I have seen this).",13,9445,1174,35,1,10
+html body text div table tbody tr td p span  ,"Security (my definition) is a measure of time -- a double ended timeline, separated in the middle by an event... a breach or loss (X). Onethe left side of that event is the time leading up to it, the time beforeit happens -- not if, rather when. To the right of the event, is the timeit will take to recover from the event -- to fully negate the loss.",13,9499,1171,35,1,10
+html body text div table tbody tr td p span  ,|-------------------------------(X)-----------|,13,9553,252,17,1,10
+html body text div table tbody tr td p span  ,"Security is any effort that moves the event (X) further to the right,in fact all effort should be to move the event as far as possible to theright -- in a perfect world, a security compromise is only a threat untilit is discovered, after action and contingency plans are already testedand in place... negation is immediate.",13,9589,1174,35,1,10
+html body text div table tbody tr td p span  ,"Sorry, I have rambled on for far too long now... I do respect you andyour efforts with the Bastille project, thanks! And BTW, there is onefool proof plan for securing something, used every day actually, theGovernment has printed several manuals on how to do it even! ... TotalDestruction.",13,9643,1159,35,1,10
+html body text div table tbody tr td p span  ,KLD,13,9697,33,17,1,10
+html body text div table tbody tr td p span  ,a.k.a Nanux,13,9715,77,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,9749,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,9749,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,9798,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,9798,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,9798,10,17,0,11
+html body text div table tbody tr td p b span  ,a secure distribution,44,9798,140,17,1,11
+html body text div table tbody tr td p small span  ,by,13,9816,17,15,1,11
+html body text div table tbody tr td p small a span  ,Phil Howard,30,9816,71,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 9th 2000 04:15:04,101,9816,126,15,1,11
+html body text div table tbody tr td p span  ,"Different distributions try to address different issues as seen bydifferent kinds of users, all with different experiences and differentgoals. The very fact we have so many distributions attest to thediversity of the user base. This is something that Linux distributions(and their BSD cousins) have over that commercial OS we've heard about.",13,9848,1157,35,1,10
+html body text div table tbody tr td p span  ,"One size does NOT fit all. It never did, and it never will. What ahacker needs, or what a hobbyist needs, or what a web site needs, or whata system administrator needs, or what an office manager needs, or what asalesman needs ... all these things are different.",13,9902,1185,35,1,10
+html body text div table tbody tr td p span  ,"I can certainly says from experience as a system administrator thatthe most secure systems are the result of a skilled administrator takingthe time to get all the necessary information (and keep up to date so youare a moving target) and apply all the necessary upgrades andconfigurations. However, a system administrator is not going to besetting up most machines anymore as Linux begins to bump out that other OSfrom the desktop. Indeed, many server situations fall into that arena. IfI were to set up and configure a Linux desktop for someone, there are a LOTof things I'd be doing to the system AFTER installing the distribution,with security changes being in the lead position, and other things likemanageability being next (for example, cleanup scripts that ensure logsdon't fill up /var).",13,9956,1181,89,1,10
+html body text div table tbody tr td p span  ,"There are a lot of things a distribution could do to make life HELLfor a system administrator, but making EVERYTHING be defaulted to turnedOFF is not one of them. I've used both Slackware and Redhat and I have todo a lot to both (more to Redhat but still a significant amount toSlackware) to make them secure. I don't clean inetd.conf ... I shut offinetd itself ... on many systems. Every distribution should leave everyservice that could listen on a port or pipe turned off, even lpd. Duringinstall, and at any time later, there can be the option to enable specificservices. But unless those actions are taken, the services should beinstalled in such a way they are not running until properly turned on.",13,10064,1184,71,1,10
+html body text div table tbody tr td p span  ,"This would be to the best benefit of end users who have little or notime to keep themselves security aware, and as a system administrator, I'dmuch rather have to go turn things on than have to turn them off. It wouldnot break any distribution to do it this way.",13,10154,1171,35,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,10206,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,10206,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,10255,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,10255,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,10255,10,17,0,11
+html body text div table tbody tr td p b span  ,Oh my.,44,10255,49,17,1,11
+html body text div table tbody tr td p small span  ,by,13,10273,17,15,1,11
+html body text div table tbody tr td p small a span  ,Daniel T. Chen,30,10273,84,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 9th 2000 04:10:57,114,10273,126,15,1,11
+html body text div table tbody tr td p span  ,"Jon Lasser brings up some very good points, and his editorial iswell-suited to the Linux community. As one of several student Unixsysadmins in the computer science department, I have to deal with the sametypes of things he does. One of the reasons we've opted not to go withLinux 100% but instead concentrated on IRIX and Solaris is because (1) wefeel IRIX has a proven track record of being more stable and secure thanLinux; and (2) because Solaris provides a proven environment in which ourCS students can code. This does not prevent many attempts to exploit ourmachines, however. On the average, I spend nearly twenty minutes *perhour* scrounging through logs and checking stats to ensure that my fellowstudents are safe at what they do best (coding).This does not come at an easy price. Since I'm only one of a fewsecurity-minded student sysadmins, I have to make sure that my coworkersare kept current on the latest exploits, security advisories and fixes,etc.[I mean this as no offense to anyone, but I've also noticed that the ircnetwork EFNet seems to split a lot more often now that Linux ircds havepopped up. Things weren't this way when they stuck to *BSD daemons. *sigh*]I simply wish we could all just listen to what Jon Lasser was trying topoint out instead of nitpicking over the details of whether or not aparticular distribution has security lists/pages/whatnot.",13,10305,1182,143,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,10465,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,10465,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,10514,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,10514,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,10514,10,17,0,11
+html body text div table tbody tr td p b span  ,re: 5 minutes a month,44,10514,150,17,1,11
+html body text div table tbody tr td p small span  ,by,13,10532,17,15,1,11
+html body text div table tbody tr td p small a span  ,astro,30,10532,29,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 9th 2000 02:52:14,59,10532,127,15,1,11
+html body text div table tbody tr td p span  ,"I have to chime in on the 30 min/day / 5 min/month issue... If 1000programmers that bill out at $100/hr spend 5 minutes every month checkingfor updates, in a year that's a loss of $100k...",13,10564,1144,35,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,10616,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,10616,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,10665,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,10665,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,10665,10,17,0,11
+html body text div table tbody tr td p b span  ,Re: Linux Religions,44,10665,136,17,1,11
+html body text div table tbody tr td p small span  ,by,13,10683,17,15,1,11
+html body text div table tbody tr td p small a span  ,Jihad,30,10683,31,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 9th 2000 01:50:28,61,10683,127,15,1,11
+html body text div table tbody tr td p span  ,"Its a _natural_ human reaction to defend your favorite [friend|ice creamflavor|car|religion|pet goldfish|child|pez dispenser|whatever], especiallyagainst undue and misleading criticism. When you criticize someonesfavorite thing youre criticizing them for choosing that thing as theirfavorite... pretty elementary principle... why do people have such a hardtime understanding it?",13,10715,1169,53,1,10
+html body text div table tbody tr td p span  ,"P.S.- Dont grow up, grown-ups are uptight mindless beings who worshipwork, stress about taxes, and drink too much coffee :)",13,10787,808,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,10821,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,10821,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,10870,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,10870,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,10870,9,17,0,11
+html body text div table tbody tr td p b span  ,Abandon Slackware 3.0 Instead Use RedHat 4! :P,43,10870,339,17,1,11
+html body text div table tbody tr td p small span  ,by,13,10888,17,15,1,11
+html body text div table tbody tr td p small a span  ,iNarf,30,10888,31,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 22:52:46,61,10888,127,15,1,11
+html body text div table tbody tr td p span  ,"""But I'm really curious as to why everyone took this as an attack onSlackware, specifically. Itcertainly wasn't intended to be that.""",13,10920,830,17,1,10
+html body text div table tbody tr td p span  ,Simple Answer:,13,10956,103,17,1,10
+html body text div table tbody tr td p span  ,"""These distributions aren't just putting their users at risk; they'redamaging Linux's credibility and its image in the marketplace. Every timeI'm asked by a reporter why Linux is so insecure, I have to considerCaldera, Corel, Turbo Linux, and Slackware before I can answer. Thesedistributions' total lack of concern with security is an embarrassment tothe entire Linux and Open-Source communities.""",13,10992,1150,53,1,10
+html body text div table tbody tr td p span  ,"""Experienced users should abandon Linux distributions which don't providesecurity fixes in a timely manner and post that information to a Web site,a mailing list, or both. They should abandon these distributions notbecause they necessarily need the security notices for themselves, butbecause these distributions are ruining Linux's image not only with noviceusers, but with the reporters and editors who shape managers' opinions onwhether Linux is a viable solution.""",13,11064,1182,53,1,10
+html body text div table tbody tr td p span  ,[ Further I found this funny,13,11136,176,17,1,10
+html body text div table tbody tr td p span  ,"""If only systems were kept up to patch, huge numbers of systems wouldn'tbe cracked. On the university campus where I work, systems have beenexploited using the automount daemon bug which is more than a year old,and which has been patched nearly that long""",13,11172,1182,35,1,10
+html body text div table tbody tr td p span  ,"What ""Linux"" Distribution would a university be running? ]",13,11226,384,17,1,10
+html body text div table tbody tr td p span  ,I believe the only thing that is going to hurt your reputation as a linuxprofessional is not collecting the [current] facts before commenting oncontroversial items.,13,11262,1022,17,1,10
+html body text div table tbody tr td p span  ,"Yes of course I am bias towards Slackware. It is in my opinion the bestdistribution. I have used Debian, RedHat and Stampede along some of theBSD flavors. I am not going to say Slackware is the most secure Linux, butthat is only because I agree with the comment about the administratorsbeing the security. As far as getting a distribution secure in a shortamound of time, Slackware is darn good.",13,11298,1181,53,1,10
+html body text div table tbody tr td p span  ,"Recently a RedHat loving (Once Slackware despising) friend of my'n wasamazed at how easy slackware is to configure ( without all the junk in theway ) and has since changed distributions. Slackware is quite offtensmashed and bashed. It seems mostly by people who either haven't used it,or NEED a GUI with pretty pictures to run a computer.",13,11370,1127,35,1,10
+html body text div table tbody tr td p span  ,"You are in the position to influcence people. Obtaining an article on amajor open source / linux site. It is your responsibility to at least knowwhat products / projects you are telling people to ""abandon"".",13,11424,1146,35,1,10
+html body text div table tbody tr td p span  ,"""I certainly hope (and to some degree expect) that this situation's beencleaned up by now, but this made it impossible to audit slackware'ssecurity if you wanted to."" Well why don't you try it out before the nexttime you go publicly trashing it! I certainly hope (and to some degreeexpect) you will go back and review the comments made.",13,11478,1176,35,1,10
+html body text div table tbody tr td p span  ,nuff said,13,11532,56,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,11566,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,11566,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,11615,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,11615,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,11615,10,17,0,11
+html body text div table tbody tr td p b span  ,Missing the point...,44,11615,130,17,1,11
+html body text div table tbody tr td p small span  ,by,13,11633,17,15,1,11
+html body text div table tbody tr td p small a span  ,Bill Duncan,30,11633,68,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 22:10:21,98,11633,126,15,1,11
+html body text div table tbody tr td p span  ,"Unfortunately most people who've responded have missed the whole point. All major distributions which I'm aware of come out of the box with toomany services enabled, and too many potential holes for new users to copewith. They could all use a front-end script or dialogue which would asknew users what actually needs to be enabled, and then disable everythingelse by default. I would rather assume that users who need the serviceswill need to learn enough about the process to be able to enable themthemselves anyway.",13,11665,1186,53,1,10
+html body text div table tbody tr td p span  ,"The author makes a good point that if newbie users start havingsecurity problems all over the place because services they know nothingabout and could care less about are enabled by default, this could have adetrimental impact on the Linux community in general with bad press if,for example, many thousands of these unsuspecting users become mail relaysand stop-over points.",13,11737,1180,53,1,10
+html body text div table tbody tr td p span  ,"I've used a number of the major distributions, and to my knowledgethey are all guilty of this. They should come out of the box with allservices disabled by default.",13,11809,1043,17,1,10
+html body text div table tbody tr td p span  ,"The users who need these services will do the necessary research (itis hoped) to be able to use them in the most secure way possible, and tokeep on top of security advisories etc. But you can't expect everyone whojust wants to use Linux for themselves to be on top of it all.",13,11845,1161,35,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,11897,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,11897,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,11946,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,11946,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,11946,10,17,0,11
+html body text div table tbody tr td p b span  ,Linux Religions,44,11946,108,17,1,11
+html body text div table tbody tr td p small span  ,by,13,11964,17,15,1,11
+html body text div table tbody tr td p small a span  ,NullPainterException,30,11964,119,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 22:00:30,148,11964,126,15,1,11
+html body text div table tbody tr td p span  ,"The feedback gained from this editorial demonstrates one facet of the linuxcommunity that I find tremendously childish and immature - religiousdedication to individual distributions. As much as I am a linux advocate;linux is an operating system, to be used. Some people appear to shift thefocus from the operating system to a particular vendor's own cobblingtogether of software and scream loudly when there's even a",13,11996,1184,53,1,10
+html body text div table tbody tr td p i span  ,hint,340,12032,29,17,1,11
+html body text div table tbody tr td p span  ,that somebody is 'attacking' their pet distribution.,369,12032,315,17,1,10
+html body text div table tbody tr td p span  ,"Grow up, children.",13,12066,121,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,12100,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,12100,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,12149,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,12149,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,12149,10,17,0,11
+html body text div table tbody tr td p b span  ,Security.,44,12149,60,17,1,11
+html body text div table tbody tr td p small span  ,by,13,12167,17,15,1,11
+html body text div table tbody tr td p small a span  ,MaxAttack,30,12167,63,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 20:30:47,93,12167,127,15,1,11
+html body text div table tbody tr td p span  ,"Jon stats that when he used slackware it was way back when the securitywasnt considerd. And that his article was written not in attempt to attackslackware and other distro's but to show the need for security in linux. Hemight not of ment for the attack on slackware but when a nobody, nerverused linux user read's your article and decides to go with linux from thefacts that u offer he will determain to follow redhat when your facts arntuptodate or even fully looked into. Thats why it attacks slackware becausethe pertential users belive what they read. And this lowers the possableusers for slackware to increase. Also i couldnt write a arctile onWindows systems if i had only run win 3.1 and win 98/2000 was latestventure. I would only be showing my lack of facts on that subject.",13,12199,1184,89,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,12305,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,12305,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,12354,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,12354,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,12354,10,17,0,11
+html body text div table tbody tr td p b span  ,"Read the message, not the words",44,12354,222,17,1,11
+html body text div table tbody tr td p small span  ,by,13,12372,17,15,1,11
+html body text div table tbody tr td p small a span  ,Daniel Lawson,30,12372,84,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 20:17:55,114,12372,127,15,1,11
+html body text div table tbody tr td p span  ,I think people are getting a little bit too inflamed over the mistakesconcerning slackware.,13,12404,570,17,1,10
+html body text div table tbody tr td p span  ,"The point being made was, a lot of people use linux that do NOT havetime to, or even understand how to, secure their systems. Its exactly thesame with other more mainstream OSs - I know of several ppl who claim tobe NT admins, and yet dont even know where the MS security websites are.",13,12440,1174,35,1,10
+html body text div table tbody tr td p span  ,"Sure, when I install a linux system I go through and clean out inetd,add a decent ipchains firewall if appicable, and upgrade all the packagesthat I know have security flaws.",13,12494,1101,17,1,10
+html body text div table tbody tr td p span  ,Does Jane Bloggs who just installed a redhat 6.0 (or *any* system) toact as their companies dialup networking server and webserver know how todo this?,13,12530,987,17,1,10
+html body text div table tbody tr td p span  ,"Would she know what cron *was*, much less that the redhat 6.0 rpmhappened to have a buffer overflow in it? (I think it was rh6.0 anyway)",13,12566,894,17,1,10
+html body text div table tbody tr td p span  ,"Would she know what the significance of inetd.conf is, much less howto secure it?",13,12602,528,17,1,10
+html body text div table tbody tr td p span  ,"My take on the original article was not a dig at any particular linuxdistribution - but a point about the level of education out there. And,hand in hand with education, we have ease of accessability.",13,12638,1155,35,1,10
+html body text div table tbody tr td p span  ,"Half an hour a day, or even 5 minutes a day, might be enough to coverthe headlines of bugtraq and a vendor-specific security mailing list, butsomeone telling Jane that she needed to upgrade her cron package becauseof a nasty buffer overflow which could give root access wont mean a thingunless",13,12692,1157,35,1,10
+html body text div table tbody tr td p span  ,1) Jane knows if she uses the package,13,12728,242,17,1,10
+html body text div table tbody tr td p span  ,2) Jane knows if its relevant,13,12746,180,17,1,10
+html body text div table tbody tr td p span  ,"3) Jane knows *how* to upgrade - be it installing a new rpm / deb, orgrabbing a source tarball, applying the relative patches, and compilingit",13,12764,903,17,1,10
+html body text div table tbody tr td p span  ,"I think there are a lot of people who use linux, because of the hypesurrouding it, who dont know what they are doing.",13,12800,750,17,1,10
+html body text div table tbody tr td p span  ,"In my opinion, workstation distributions *should* be more or lesssecure by default - with the exception of unforseen things like bufferoverruns in packages etc. Why do you need to telnet into a workstation?disable it by default. Why do you need ftp? pop3/imap? www? disable it. Ifthe user needs it, they can set it up themselves. They need to learn.",13,12836,1156,35,1,10
+html body text div table tbody tr td p span  ,Similar sort of tactics should be taken on a server distribution.,13,12890,398,17,1,10
+html body text div table tbody tr td p span  ,"Oh no, people will cry, that will make it too hard! No one will uselinux if its too hard!",13,12926,550,17,1,10
+html body text div table tbody tr td p span  ,Education....,13,12962,81,17,1,10
+html body text div table tbody tr td p span  ,"We dont need distributions that do everything for us - unless werolled it ourselves, and know what it does. What we do need is informationon *how* to secure it.",13,12998,1031,17,1,10
+html body text div table tbody tr td p span  ,I thought the Bastille project was a good idea (although i neveractually used it). Things like this need to be fostered and encouraged.,13,13016,847,17,1,10
+html body text div table tbody tr td p span  ,"We currently have screeds of disjoint man pages, HOWTOs which dontagree with your distribution (most of the ones i've read appear to workwith slackware, and bear no relevance to redhat), and package-suppliedreadmes that can also bear no resemblance to your distribution-patchedbinaries.",13,13052,1170,35,1,10
+html body text div table tbody tr td p span  ,"I make a generalisation above, I know. But we need more distributionspecific information on how to do these things.",13,13106,747,17,1,10
+html body text div table tbody tr td p span  ,"And it needs to be centralised, and put in a 'to-do' list so that newusers can *find* it easily enough.",13,13124,631,17,1,10
+html body text div table tbody tr td p span  ,"Hmm. I could have spent the time it took writing this, to insteadwrite a redhat-specific HOWTO's on securing your workstation by lockingdown inetd, and checking for recent rpm updates.",13,13160,1148,35,1,10
+html body text div table tbody tr td p span  ,"Regards,",13,13214,56,17,1,10
+html body text div table tbody tr td p span  ,Daniel,13,13232,43,17,1,10
+html body text div table tbody tr td p span  ,"""Security through Education"", maybe?",13,13268,247,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,13302,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,13302,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,13351,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,13351,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,13351,10,17,0,11
+html body text div table tbody tr td p b span  ,Slackware Linux VS other *nix OSes and Secuirty (a mouth full),44,13351,441,17,1,11
+html body text div table tbody tr td p small span  ,by,13,13369,16,15,1,11
+html body text div table tbody tr td p small a span  ,Adam C.,29,13369,51,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 19:44:24,80,13369,127,15,1,11
+html body text div table tbody tr td p span  ,"As others have I must add my 2 cents, I curently am an administrator for aShell providing business, as you know are normaly the first targets of anyhack, exploit, etc. Personaly I have tried many versions of Linux and*nix systems to find that I personaly prefer Slackware Linux. Not onlyhave I found Slackware to be more secure, with less exploits, I have foundit even easier to get the updates and install them with-in little time. Ido have to state that Jon did make a large accident by stating thatSlackware did not have any mailing lists etc, especially since he is doing so without even using Slackware him self, which at least he washonest about.",13,13401,1185,71,1,10
+html body text div table tbody tr td p span  ,"The Slackware Linux developement team puts a lot of time into makingsure the distribution is as secure as posible before releasing it, andpersonaly I think if Redhat put a little more time into do the same beforereleasing each dist. it might be a bit more secure it's self. Maybe I ambias to Red Hat because I have seen it hacked so many times and at thesame time not very many people can hack Slackware, or maybe it's just myexperiance with Slackware that has drawn me to it, I am not sure. Onethings for certain though, Slackware does have less exploits released foreach of there distributions.",13,13491,1171,71,1,10
+html body text div table tbody tr td p span  ,"Finaly, the only thing I have to say is I appriciate these fourms, itgives us a chance to hear opinions from lots of people on security and notjust one persons views. I think the only reason that Jon has recieved somuch flaming on his editorial is because he didn't take the time to thinkthat before you judge something you should use it your self. Many peopleare opinionated on which Linux system people should use, as hard as thatis to believe, and tend to take things to the extreme when someone makescomment on it. I guess in a sense I am one of those people as well, butas I have used Red Hat, Debian, OpenBSD, SCO, Solaris, and many other *nixoses, I feel that my decision in a *nix OS is an educated decision.",13,13581,1184,71,1,10
+html body text div table tbody tr td p span  ,"Cheers,",13,13671,48,17,1,10
+html body text div table tbody tr td p span  ,The Bug,13,13689,56,17,1,10
+html body text div table tbody tr td p span  ,root@linuxbug.net,13,13707,121,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,13741,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,13741,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,13790,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,13790,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,13790,10,17,0,11
+html body text div table tbody tr td p b span  ,Slackware Linux VS other *nix OSes and Secuirty (a mouth full),44,13790,441,17,1,11
+html body text div table tbody tr td p small span  ,by,13,13808,16,15,1,11
+html body text div table tbody tr td p small a span  ,Adam C.,29,13808,51,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 19:42:47,80,13808,127,15,1,11
+html body text div table tbody tr td p span  ,"As others have I must add my 2 cents, I curently am an administrator for aShell providing business, as you know are normaly the first targets of anyhack, exploit, etc. Personaly I have tried many versions of Linux and*nix systems to find that I personaly prefer Slackware Linux. Not onlyhave I found Slackware to be more secure, with less exploits, I have foundit even easier to get the updates and install them with-in little time. Ido have to state that Jon did make a large accident by stating thatSlackware did not have any mailing lists etc, especially since he is doing so without even using Slackware him self, which at least he washonest about. The Slackware Linux developement team puts a lot of time into making surethe distribution is as secure as posible before releasing it, andpersonaly I think if Redhat put a little more time into do the same beforereleasing each dist. it might be a bit more secure it's self. Maybe I ambias to Red Hat because I have seen it hacked so many times and at thesame time not very many people can hack Slackware, or maybe it's just myexperiance with Slackware that has drawn me to it, I am not sure. Onethings for certain though, Slackware does have less exploits released foreach of there distributions.Finaly, the only thing I have to say is I appriciate these fourms, itgives us a chance to hear opinions from lots of people on security and notjust one persons views. I think the only reason that Jon has recieved somuch flaming on his editorial is because he didn't take the time to thinkthat before you judge something you should use it your self. Many peopleare opinionated on which Linux system people should use, as hard as thatis to believe, and tend to take things to the extreme when someone makescomment on it. I guess in a sense I am one of those people as well, butas I have used Red Hat, Debian, OpenBSD, SCO, Solaris, and many other *nixoses, I feel that my decision in a *nix OS is an educated decision.Cheers,The Bugroot@linuxbug.net",13,13840,1185,197,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,14054,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,14054,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,14103,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,14103,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,14103,10,17,0,11
+html body text div table tbody tr td p b span  ,Linux Security,44,14103,101,17,1,11
+html body text div table tbody tr td p small span  ,by,13,14121,17,15,1,11
+html body text div table tbody tr td p small a span  ,Jochen Striepe,30,14121,81,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 19:34:43,111,14121,127,15,1,11
+html body text div table tbody tr td p span  ,"Hi, just some simple questions.",13,14153,200,17,1,10
+html body text div table tbody tr td p span  ,1a) Can you _really_ make a system secure?,13,14189,285,17,1,10
+html body text div table tbody tr td p span  ,"1b) Can you _really_ build a foolproof out-of-the-box linuxdistribution that is secure without the user knowing what (s)he is doing(""linux for dummies"")?",13,14207,986,17,1,10
+html body text div table tbody tr td p span  ,2a) OpenBSD is AFAIK considered one of the most secure OSs available.How much time do you expect a sys admin to invest in system security tokeep it that way?,13,14243,1053,17,1,10
+html body text div table tbody tr td p span  ,2b) Why do you expect average linux users to act more efficientlythan experienced unix system admins concerning security?,13,14261,800,17,1,10
+html body text div table tbody tr td p span  ,"So long,",13,14297,53,17,1,10
+html body text div table tbody tr td p span  ,Jochen.,13,14315,48,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,14349,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,14349,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,14398,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,14398,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,14398,10,17,0,11
+html body text div table tbody tr td p b span  ,Editorial Correction,44,14398,139,17,1,11
+html body text div table tbody tr td p small span  ,by,13,14416,17,15,1,11
+html body text div table tbody tr td p small a span  ,glyph,30,14416,33,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 19:32:25,63,14416,127,15,1,11
+html body text div table tbody tr td p span  ,"I think that there has been an adequate listing of the incorrect facts inthis article. The author should probably go back, re-think the premise,get his facts straight, and re-write and re-submit this editorial. Idon't think that something so obviously full of omissions and (yes, evenwe Linux people do it) FUD should be left posted in such a high-profilelocation. And Mr. Covey, (or someone from the FM staff) please do alittle fact-checking of your own on these? Thank you.",13,14448,1174,53,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,14518,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,14518,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,14567,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,14567,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,14567,10,17,0,11
+html body text div table tbody tr td p b span  ,5 minutes a month?,44,14567,134,17,1,11
+html body text div table tbody tr td p small span  ,by,13,14585,17,15,1,11
+html body text div table tbody tr td p small a span  ,casphar,30,14585,44,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 18:17:39,74,14585,126,15,1,11
+html body text div table tbody tr td p span  ,"5 minutes a month is bullshit, if users dont want to spend any brain powerperhaps they shouldn't be using computers at all?And as far as bettering the security on the net, im sure most distribs aresecure when they're released, it's just after time that people go lookingfor problems, which is a good thing, but that is also why you should belooking at least once a day, if you want to keep your box secure.And my final comment for the day, when something has a mailing list, suchas slackware, it shows the maintainers are looking out for the problemsand putting them at one central location for the users to look at, see aproblem, then go and get the patch or do whatever needs to be done.",13,14617,1183,71,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,14705,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,14705,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,14754,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,14754,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,14754,10,17,0,11
+html body text div table tbody tr td p b span  ,Research,44,14754,62,17,1,11
+html body text div table tbody tr td p small span  ,by,13,14772,17,15,1,11
+html body text div table tbody tr td p small a span  ,DECula,30,14772,46,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 17:22:41,76,14772,127,15,1,11
+html body text div table tbody tr td p span  ,Come on!,13,14804,64,17,1,10
+html body text div table tbody tr td p span  ,Just because a Linux distribution has a mailing list about security,13,14840,418,17,1,10
+html body text div table tbody tr td p span  ,doesn't mean it's more secure!,13,14858,192,17,1,10
+html body text div table tbody tr td p span  ,Just because Microsoft has a security update webpage for their,13,14894,401,17,1,10
+html body text div table tbody tr td p span  ,products doesn't mean IIS isn't the most hacked web platform on,13,14912,414,17,1,10
+html body text div table tbody tr td p span  ,"earth, either.",13,14930,80,17,1,10
+html body text div table tbody tr td p span  ,As an admin of a primarily slackware site for 3 years and an abuser,13,14966,431,17,1,10
+html body text div table tbody tr td p span  ,"of linux distributions since kernel 1.2.8, one of the keys things you",13,14984,428,17,1,10
+html body text div table tbody tr td p span  ,can do to discover how good your distributions security is:,13,15002,376,17,1,10
+html body text div table tbody tr td p span  ,find / -perm +6000 -print,13,15020,161,17,1,10
+html body text div table tbody tr td p span  ,Another point in the favor of slackwares' security is that the,13,15056,382,17,1,10
+html body text div table tbody tr td p span  ,"number one remote crack on the net for linux distributions,",13,15074,378,17,1,10
+html body text div table tbody tr td p span  ,"'imap', was not defaultly enabled in slackware. This is not to say",13,15092,411,17,1,10
+html body text div table tbody tr td p span  ,"that slackware has not had security holes, but they have normally",13,15110,417,17,1,10
+html body text div table tbody tr td p span  ,been lesser than the red hat or derived red hat distros.,13,15128,342,17,1,10
+html body text div table tbody tr td p span  ,"I am pleased that the slackware community has been vocal here,",13,15164,411,17,1,10
+html body text div table tbody tr td p span  ,"good work, folks! and thank you Patrick Volkerding!",13,15182,338,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,15216,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,15216,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,15265,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,15265,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,15265,9,17,0,11
+html body text div table tbody tr td p b span  ,Tune in next week for,43,15265,148,17,1,11
+html body text div table tbody tr td p small span  ,by,13,15283,17,15,1,11
+html body text div table tbody tr td p small a span  ,PimpSmurf,30,15283,64,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 17:01:10,94,15283,127,15,1,11
+html body text div table tbody tr td p span  ,ok... here goes.,13,15315,97,17,1,10
+html body text div table tbody tr td p span  ,You are wrong. Period.,13,15333,148,17,1,10
+html body text div table tbody tr td p span  ,I am a linux advocate. not a Slackware or Debian or Redhat or *linuxadvocate. Your blatent disregard for the facts is normal . No one seemsto care to research a liltle before going off on some rant about someinformation they know very little about. You aparently didn't even botherto email the heads of the distros to get a little info. You just went offsaying how your selected distro's security was the best... here are a fewexamples.,13,15369,1186,53,1,10
+html body text div table tbody tr td p span  ,"1. You mention ""no official tool for automatic update.""",13,15441,350,17,1,10
+html body text div table tbody tr td p span  ,"By automatic do you mean... gets the patches and installs for you, youget the patches (some format. rpm, deb,slack tgz, whatever) and it autoinstalls? what? If you want a deamon to install patches for you over theinternet, you dont know the first thing about security.",13,15459,1157,35,1,10
+html body text div table tbody tr td p span  ,a: your computer desides its time to check for updates.,13,15513,349,17,1,10
+html body text div table tbody tr td p span  ,"b: I hacked your local nameserver to point (whatever).(whatever) at mybox, and set up an package distrobution server for whatever client is usedin whatever distro. you resolve to me and get a backdoored in.telnetd orwhatever. boom. your rooted.",13,15549,1165,35,1,10
+html body text div table tbody tr td p span  ,"2. ""Slackware Linux """,13,15603,142,17,1,10
+html body text div table tbody tr td p span  ,"a: ""No known web page for security """,13,15621,242,17,1,10
+html body text div table tbody tr td p span  ,try: ftp://ftp.cdrom.com/pub/linux/slackware-7.0/patches/,13,15639,368,17,1,10
+html body text div table tbody tr td p span  ,There are all the patches. the Changelog.txt file tells you what theyare and why you would need them.,13,15657,653,17,1,10
+html body text div table tbody tr td p span  ,"b: ""No known mail list for security""",13,15693,230,17,1,10
+html body text div table tbody tr td p span  ,"Maybe if you went to www.slackware.com and clicked the little ""mailinglists"" link you would see the slackware-security and slackware-anouncelists. even avalible in journal form!",13,15711,1152,17,1,10
+html body text div table tbody tr td p span  ,"c: ""No known tool for security updates""",13,15747,255,17,1,10
+html body text div table tbody tr td p span  ,There are several ways to do it.,13,15765,200,17,1,10
+html body text div table tbody tr td p span  ,installpkg [pkgname],13,15783,136,17,1,10
+html body text div table tbody tr td p span  ,pkgtool,13,15801,49,17,1,10
+html body text div table tbody tr td p span  ,"here again ""Forgive them Father... they know not what they do...""",13,15837,419,17,1,10
+html body text div table tbody tr td p span  ,"You tell people to abandon linux distros based on your lies. Aparentlyyou say... screw everything else... Get Redhat (top of the list), Debian,SuSe or Mandrake.",13,15873,1018,17,1,10
+html body text div table tbody tr td p span  ,"You say those ""other"" distros damage linux's credability... You damagelinux's credability. You make blatently wrong statments out of lack ofknowledge and lack of desire to research an article before making a foolout of yourself.",13,15909,1177,35,1,10
+html body text div table tbody tr td p span  ,OK,13,15945,23,17,1,10
+html body text div table tbody tr td p span  ,Enough,13,15963,50,17,1,10
+html body text div table tbody tr td p span  ,Sorry for the length of this comment. Had to get it out.,13,15999,350,17,1,10
+html body text div table tbody tr td p span  ,"As for the other distros which I am sure our friend Jon Lasserwronged... someone else defend them. I only use slackware, and dont knowmuch about other distros other than redhat, caldera, and mandrake.",13,16017,1152,35,1,10
+html body text div table tbody tr td p span  ,"Thank You... that is all,",13,16089,149,17,1,10
+html body text div table tbody tr td p span  ,PimpSmurf,13,16107,74,17,1,10
+html body text div table tbody tr td p span  ,AkA Joseph Nicholas Yarbrough,13,16125,210,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,16159,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,16159,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,16208,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,16208,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,16208,10,17,0,11
+html body text div table tbody tr td p b span  ,Re: half an hour a day?,44,16208,161,17,1,11
+html body text div table tbody tr td p small span  ,by,13,16226,17,15,1,11
+html body text div table tbody tr td p small a span  ,jwz,30,16226,22,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 16:35:37,52,16226,127,15,1,11
+html body text div table tbody tr td blockquote i span  ,Perhaps half an hour a day was a bit too much for the average person.10minutes would work just aswell,53,16258,670,17,1,11
+html body text div table tbody tr td p span  ,"If it takes more than 5 minutes a month, it's not going to get done. Really, non-hackers just can't be bothered with this kind of stuff. That's why, if you want to improve the overall security of the net and thereputation of Linux as a whole, you need to secure it at the source: thedistributions need to be more secure by default, and it needs to bepossible for installations to remain secure without the end users havingto spend any brainpower on it at all. Because they just won't.",13,16292,1138,53,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,16362,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,16362,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,16411,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,16411,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,16411,10,17,0,11
+html body text div table tbody tr td p b span  ,misinformation,44,16411,105,17,1,11
+html body text div table tbody tr td p small span  ,by,13,16429,17,15,1,11
+html body text div table tbody tr td p small a span  ,karellen,30,16429,46,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 16:12:02,76,16429,127,15,1,11
+html body text div table tbody tr td p span  ,"You have misinformed people. There is a Slackware securitymailing list. Slackware is secure and so is Debian. We're nottalking about 'the old days' here; we're talking `today`.I hope you get a lot of flames on the subject, as you flameda lot of good distributions out there. Even in your sorrymessage you don't stop flaming and make wrong assumptionsabout certain distributions, since these cannot be calledfacts. I don't know/care if you're getting paid to do thisbut it certainly looks that way. Well, you obviously got aname now, Jon Lasser.",13,16461,1166,53,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,16531,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,16531,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,16580,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,16580,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,16580,10,17,0,11
+html body text div table tbody tr td p b span  ,half an hour a day?,44,16580,133,17,1,11
+html body text div table tbody tr td p small span  ,by,13,16598,17,15,1,11
+html body text div table tbody tr td p small a span  ,casphar,30,16598,44,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 15:55:18,74,16598,126,15,1,11
+html body text div table tbody tr td p span  ,"Perhaps half an hour a day was a bit too much for the average person.10minutes would work just as well, quick skim of the headlines on yourlinux site orreading the security mailing list. These are not hard nor time consumingthings to do. And as far as picking out one trivial thing, if he got thiswrong when it's blatently obvious and easy to find on the site (thesecurity list), i was wondering whatelse he had missed or not cared to inform anyone of, in his pursuit ofthis editorial.",13,16630,1162,53,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,16700,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,16700,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,16749,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,16749,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,16749,10,17,0,11
+html body text div table tbody tr td p b span  ,"Slackware, security, and so forth",44,16749,222,17,1,11
+html body text div table tbody tr td p small span  ,by,13,16767,17,15,1,11
+html body text div table tbody tr td p small a span  ,Kobaz,30,16767,38,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 15:44:14,68,16767,126,15,1,11
+html body text div table tbody tr td p span  ,"I noticed about 3 people claiming that Slackware is quote ""the most securedistrobution"" around. This is in fact not true, and neather is saying""Redhat is the most secure"" or Debian or Caldera, or any distrobution orOperating system. Even your linux box in the corner of your office with astatic ip, with just telnet and ftp services running, and all the latestpatches you can think of put on it; is ALOT less secure then if you pullout the ethernet wire. In this day and age there is no ""most secured""linux distrobution. There is always something else you can do to make itjust a little more secure.",13,16799,1182,71,1,10
+html body text div table tbody tr td p span  ,"All the linux distrobutions include programs written by not the peoplewho released the distrobution. Which means in fact, that hundreds ofdifferent programs, written by hundreds of different people are on thesame computer. Thos will also mean that there is a very likely chancethat one or more of those programs will have security problems. And I amnot just talking about Linux, or just Unix in general. Look at Windows 9598 and certan versions of NT: Hundreds of programmers work on them, fromone major company, and there was a mistake in codeing that caused remoteusers to be able to disconnect them from the internet. Something likethat could happen in the linux world also, a popularly used program thathas a tragic flaw.",13,16889,1185,71,1,10
+html body text div table tbody tr td p span  ,"Personally though, as many other people have said, when firstinstalling any distrobution they have to spend time fixing up inetd.confdisableing services that arent needed. Slackware is the same way, alongwith other problems. So you can't say that out of the box Slackware is themost secure, because it just plain isn't. Neather is anything.",13,16979,1175,35,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,17031,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,17031,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,17080,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,17080,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,17080,9,17,0,11
+html body text div table tbody tr td p b span  ,Touche..,43,17080,58,17,1,11
+html body text div table tbody tr td p small span  ,by,13,17098,17,15,1,11
+html body text div table tbody tr td p small a span  ,Jihad,30,17098,31,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 15:26:07,61,17098,127,15,1,11
+html body text div table tbody tr td p span  ,"""But if I can't hold someone to past mistakes, how can I judge currentperformance when I'm measuring the invisible (as good security is)? :-)""",13,17130,909,17,1,10
+html body text div table tbody tr td p span  ,"Ok... maybe you can, but you should at least install and test thelatest version (especially with slack 7.0, since its changed quite a bitsince even 4.0, not to mention slack95) of the OS before stating ""I haveto consider Caldera, Corel, Turbo Linux, and Slackware before I cananswer. These distributions' total lack of concern with security is anembarrassment to the entire Linux and Open-Source communities.""",13,17166,1157,53,1,10
+html body text div table tbody tr td p span  ,"This is not meant to be an attack, its just that slack has improved alot recently :)",13,17238,511,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,17272,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,17272,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,17321,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,17321,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,17321,9,17,0,11
+html body text div table tbody tr td p b span  ,Aha!,43,17321,34,17,1,11
+html body text div table tbody tr td p small span  ,by,13,17339,17,15,1,11
+html body text div table tbody tr td p small a span  ,Jon Lasser,30,17339,60,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 14:43:17,90,17339,126,15,1,11
+html body text div table tbody tr td p span  ,"But if I can't hold someone to past mistakes, how can I judge currentperformance when I'm measuring the invisible (as good security is)?:-)",13,17371,892,17,1,10
+html body text div table tbody tr td p span  ,"Exploits come out for Red Hat first because there are more targets onthe net. Exploits used to come out for SunOS 4.x for precisely the samereason, but that didn't mean that Ultrix was more secure. (Point of fact,it probably wasn't, it was just less tested.) And the fact that Red Hatreleases security fixes fairly promptly means that it's possible to securethe system in a pretty much up-to-date fashion.",13,17405,1177,53,1,10
+html body text div table tbody tr td p span  ,"But that only answers half the question: so now I know why people takeSlackware to be the target (because I made a mistake which gave them afoothold from which to attack me), but why do they think it's all aboutRed Hat? On the basis of the article, it seems clear that SuSE, Debian,and Mandrake are all probably more secure than Red Hat. The fact that I'vegot a whole project just to secure Red Hat seems as much proof as any thatit's not especially secure -- but the fact that they've got some securityresources certainly means they're trying.",13,17475,1173,53,1,10
+html body text div table tbody tr td p span  ,"(And I started Bastille not to secure RH for myself, but because thereare dozens or hundreds of user-administered Red Hat boxes on the campus ofthe university where I work. I need a way to secure those machines when Ihave no direct control over them -- which means I need to secure the OSthey're already running.)",13,17545,1174,35,1,10
+html body text div table tbody tr td p span  ,"At any rate, other than the blurb up top (which I didn't write), Idon't even mention Red Hat in the article except in the list of Linuxdistributions and their security resources. I listed it up top because itseems to have the largest number of users, not because it was thebest.",13,17597,1178,35,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,17649,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,17649,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,17698,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,17698,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,17698,9,17,0,11
+html body text div table tbody tr td p b span  ,A corrected list,43,17698,103,17,1,11
+html body text div table tbody tr td p small span  ,by,13,17716,17,15,1,11
+html body text div table tbody tr td p small a span  ,Matt Brubeck,30,17716,77,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 14:39:59,107,17716,126,15,1,11
+html body text div table tbody tr td p span  ,"While Mr. Lasser makes some important points, the blantant misinformationin his article certainly detracts from its overall impact. He has clearlynever used most of the distributions he disparages.",13,17748,1180,35,1,10
+html body text div table tbody tr td p span  ,"From just my personal knowledge and a few minutes of browsing around,here are corrections to several of the gaps and mistakes in Mr. Lasser'slist:",13,17800,948,17,1,10
+html body text div table tbody tr td ul li span  ,Corel,53,17834,36,17,0,11
+html body text div table tbody tr td ul li ul li span  ,No known web page for security,93,17852,209,17,0,13
+html body text div table tbody tr td ul li ul li span  ,No known mail list for security,93,17870,200,17,0,13
+html body text div table tbody tr td ul li ul li font span  ,"apt-get update, plus a Corel-suppliedgraphical frontend to the Debian dpkg system",93,17888,528,17,0,14
+html body text div table tbody tr td ul li span  ,Turbo Linux,53,17906,81,17,1,11
+html body text div table tbody tr td ul li ul li span  ,No known mail list for security,93,17942,200,17,0,13
+html body text div table tbody tr td ul li ul li font span  ,TurboPkg,93,17960,63,17,0,14
+html body text div table tbody tr td ul li span  ,Slackware Linux,53,17978,109,17,1,11
+html body text div table tbody tr td ul li ul li a font span  ,ftp://ftp.cdrom.com/pub/linux/slackware-7.0/patches/ChangeLog.txt,93,17996,441,17,0,15
+html body text div table tbody tr td ul li ul li font span  ,lists the mostly security-oriented updates in Slackware'swell-publicized patches FTP site,534,17996,567,17,0,14
+html body text div table tbody tr td ul li ul li a font span  ,slackware-security,93,18014,120,17,0,15
+html body text div table tbody tr td ul li ul li span  ,No known tool for security updates,93,18032,226,17,0,13
+html body text div table tbody tr td p small a span  ,[reply],13,18066,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,18066,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,18115,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,18115,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,18115,10,17,0,11
+html body text div table tbody tr td p b span  ,Slackware security again,44,18115,170,17,1,11
+html body text div table tbody tr td p small span  ,by,13,18133,17,15,1,11
+html body text div table tbody tr td p small a span  ,Jihad,30,18133,31,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 14:29:07,61,18133,127,15,1,11
+html body text div table tbody tr td p span  ,"I think people took it as an attack on slack because what was said iswildly untrue, slack may have been a pile of security holes in the past, idont know, as i said ive only been using it since 3.2, but i dont think youshould hold patrick to past mistakes, as slackware now is (IMHO) verystable and secure. Check out any exploit site and see how many exploitsthere are against slackware vs. redhat or any other dists, people mayargue that this doesnt prove much, but it puts me at ease.",13,18165,1163,53,1,10
+html body text div table tbody tr td p span  ,"On a different subject, it takes a good man to admit a mistake, thanksJon :)",13,18237,479,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,18271,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,18271,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,18320,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,18320,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,18320,10,17,0,11
+html body text div table tbody tr td p b span  ,I can't understand,44,18320,126,17,1,11
+html body text div table tbody tr td p small span  ,by,13,18338,17,15,1,11
+html body text div table tbody tr td p small a span  ,BluesMoon,30,18338,65,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 14:03:12,95,18338,127,15,1,11
+html body text div table tbody tr td p span  ,"What I can't understand is how so many people who have beeninvolved with Unix and Linux for so long still use the termhack to refer to a computer break in. Machine's can gethacked, but that's usually a good thing. People gettinghacked? Not too sure about it, but whoever it is might notlike it. Hacking software, now that's something that's areal good thing. There are many other kinds of hacks, someof the more famous ones are listed at of these have to do with computer break in.I agree though, that several distros are not secure to start with, and ittakes a lot of reading to secure a new system.",13,18370,1181,71,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,18458,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,18458,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,18507,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,18507,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,18507,10,17,0,11
+html body text div table tbody tr td p b span  ,Oops,44,18507,35,17,1,11
+html body text div table tbody tr td p small span  ,by,13,18525,17,15,1,11
+html body text div table tbody tr td p small a span  ,Jon Lasser,30,18525,60,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 14:01:16,90,18525,126,15,1,11
+html body text div table tbody tr td p span  ,"Yep, I did somehow manage to miss the Slackware security mailing list. I",13,18557,474,17,1,10
+html body text div table tbody tr td p em span  ,swear,487,18557,43,17,1,11
+html body text div table tbody tr td p span  ,"I went to the site and looked around before claiming not tofind anything, but somehow I still made a mistake.",13,18557,1158,35,1,10
+html body text div table tbody tr td p span  ,"I can't speak to the security or insecurity per se of Slackware 7, asI've not used it, but I'll note that most of the recent security holes inRed Hat and Debian (with the very notable exception of problems with RedHat's usermode tool -- a very, very serious problem) have been bugs in theunderlying code, not particularly related to either of those distributions.If those bugs aren't present in Slackware, that's either because thosepackages weren't included in Slackware (not a bad thing, just a point offact) or because Slackware fixed those bugs before anyone else knew aboutthem and failed to backpropogate the fixes. I don't think it's thelatter.",13,18609,1155,71,1,10
+html body text div table tbody tr td p span  ,"In the old days (pre 7.0, maybe another level back beyond that or so, Ican't remember the last version I used), Slackware had",13,18697,801,17,1,10
+html body text div table tbody tr td p em span  ,huge,814,18697,35,17,1,11
+html body text div table tbody tr td p span  ,"numbers of security holes. They just ignored them. And the sources neverseemed to be able to produce the binaries which were included -- sometimesit was obvious that the included sources were pre-slackware-patches, as thecompiler would spew errors. I certainly hope (and to some degree expect)that this situation's been cleaned up by now, but this made it impossibleto audit slackware's security if you wanted to.",13,18697,1171,53,1,10
+html body text div table tbody tr td p span  ,"But I'm really curious as to why everyone took this as an attack onSlackware, specifically. It certainly wasn't intended to be that. Icertainly think that Slackware's record on security could standimprovement -- I'm more impressed with a large number of found and fixedbugs than an apparent lack of them in a full-featured Linux distribution-- but as far as I'm concerned in the article, this isn't about anyparticular distribution.",13,18767,1151,53,1,10
+html body text div table tbody tr td p span  ,What it is about is why security,13,18837,207,17,1,10
+html body text div table tbody tr td p em span  ,is,220,18837,14,17,1,11
+html body text div table tbody tr td p span  ,"important, even if youpersonally can handle yourself. Claiming otherwise is kind of likeclaiming that ISO9660 filesystem support in Linux isn't worth keeping inthe kernel simply because you personally don't use it: it's a fundamental,enabling feature of the environment for any number of users.",13,18837,1183,35,1,10
+html body text div table tbody tr td p span  ,"It's also about the importance of Linux's image in the media, andsimple things we can do to improve that image. If you personally don'tcare who besides yourself uses Linux, that's fine. But I need Linux tolook good in the media, so that I can push for it in appropriate projectsat work and elsewhere. Also, a good image for Linux in the media makes itmore attractive for companies (ie Creative Labs) to write open-sourcedrivers for hardware which is nice to play with. :-)",13,18889,1179,53,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,18959,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,18959,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,19008,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,19008,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,19008,10,17,0,11
+html body text div table tbody tr td p b span  ,Slackware security,44,19008,129,17,1,11
+html body text div table tbody tr td p small span  ,by,13,19026,17,15,1,11
+html body text div table tbody tr td p small a span  ,Jihad,30,19026,31,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 13:32:01,61,19026,127,15,1,11
+html body text div table tbody tr td p span  ,"Is it just me or does this ""professional"" not know what hes talking about? Ive been using linux since slack 3.2 and ive found that slack is the mostsecure distro, with debian coming in second and redhat coming in somewherenear dead last, being the hackers paradise of buffer overflows and 'enabledby default' services that it is. As far as the security/patches/supportgo, check out slackware.com and see whats at the very top of the page,also slackware.com/lists. While jeff did make some good points and touchon some issues that need to be addressed, he should really take a closerlook at the actual OS next time.",13,19058,1183,71,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,19146,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,19146,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,19195,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,19195,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,19195,9,17,0,11
+html body text div table tbody tr td p b span  ,All people seem to be able to do...,43,19195,226,17,1,11
+html body text div table tbody tr td p small span  ,by,13,19213,17,15,1,11
+html body text div table tbody tr td p small a span  ,Stephen Smoogen,30,19213,100,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 13:30:12,130,19213,126,15,1,11
+html body text div table tbody tr td p span  ,is dis other distributions versus discuss the problem. Are we so insecurethat we have to build a religion around what distro we use and why theothers are evil? Its like watching a Baptist convention talking about theevils of Catholics/Lutherans (and as about as worthwhile).,13,19245,1182,35,1,10
+html body text div table tbody tr td p span  ,"Slackware 7.0 is a very big improvement over earlier versions out there.Patrick seems to be much more in tune with putting out things with the4.0/5.0/6.0 Betas than I have seen him do in years (since the 2.x days). Idont know the reasoning behind it, but once slackware.com came intoexistance... the quality of the Slackware machines I dealt with seemed toincrease also. I dealt with too many people with hacked Slack95 boxes withexploits that had been around way too long. Going to the cdrom.com siteusually had out of date info. Now I see a central site and people findthings rapidly and cleanly.",13,19297,1180,71,1,10
+html body text div table tbody tr td p span  ,"I used to use slackware up until 1996 when I switched to Red Hat because Iwas tired of finding exploits and the Slackware response was ""Well patch itand compile it for yourself. We will put out a fix next release""... whichnever came. When I found them in Red Hat, I saw an RPM at a central spot.",13,19385,1166,35,1,10
+html body text div table tbody tr td p span  ,Now is Red Hat perfect?,13,19437,162,17,1,10
+html body text div table tbody tr td p strong span  ,NO,175,19437,28,17,1,11
+html body text div table tbody tr td p span  ,". There are bugs and it couldalways tighten things up here or there. However I know every time a changeis made to tighten security up... there are howls of ""Why did you changethis/that."" The same is true for SuSE, Caldera, etc. You get slammed nomatter what you do because a) people hate change, and b) people like towhine versus deal.",13,19437,1181,35,1,10
+html body text div table tbody tr td p span  ,Anyway back to the main point.. which is what is the problem. The problemis that Linux is not for System Administrators anymore,13,19489,844,17,1,10
+html body text div table tbody tr td p strong span  ,!GASP!,857,19489,58,17,1,11
+html body text div table tbody tr td p span  ,". Sorry most of the people who are using Linuxprobably know only enough system administration to start a modem and stopa modem... and that may be a stretch. And that is what you get for havingan open community and saying things like ""Stop using Microsoft... usesomething better... also we are a community versus an elitist club likeXYZbsd, etc."" (Not saying BSD is elitist, just a very common argument Ihear about why Linux is better).",13,19489,1162,71,1,10
+html body text div table tbody tr td p span  ,"Most people use computers as an ends to a means as JWZ said. They use themto browse web sites, answer email, write documents and letters, scanpictures in for a family album. The computer to them is nothing more thana tool.. as much as the car gets them to and from work.",13,19577,1164,35,1,10
+html body text div table tbody tr td p span  ,"With this being the case, and being that we are supposed to be a better OSand a better community... we need to make sure that we have a betterattitude towards security. I dont feel boycotts are needed. Tools thathelp home users (not hobbyists) get working with Linux",13,19629,1144,35,1,10
+html body text div table tbody tr td p strong span  ,are,575,19647,26,17,1,11
+html body text div table tbody tr td p span  ,what is needed.,601,19647,99,17,1,10
+html body text div table tbody tr td p span  ,Anyway my 2 cents of many.,13,19681,187,17,1,10
+html body text div table tbody tr td p span  ,Stephen Smoogen,13,19715,116,17,1,10
+html body text div table tbody tr td p span  ,--,13,19749,11,17,1,10
+html body text div table tbody tr td p span  ,Where oh where is Carmen Sandiago?,13,19767,246,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,19801,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,19801,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,19850,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,19850,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,19850,10,17,0,11
+html body text div table tbody tr td p b span  ,Needed to be said.,44,19850,123,17,1,11
+html body text div table tbody tr td p small span  ,by,13,19868,17,15,1,11
+html body text div table tbody tr td p small a span  ,Idcmp,30,19868,37,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 13:03:20,67,19868,127,15,1,11
+html body text div table tbody tr td p span  ,"Defining security without using the word ""secure"" is a task into itself. We've all installed a linux distribution, and we've all gone and cleanedout inetd.conf. All of us. Everyone one of us. Think about it. Howmuch time and energy is wasted to clean out inetd.conf? To turn offportmapper? To do all the rest?",13,19900,1165,35,1,10
+html body text div table tbody tr td p span  ,"This article doesn't compare Linux security t o Microsoft security, itcompares it to being absolutely secured. I'd love to have a pre-securedLinux box, and the way this new market works, if there are other peoplelike me out there, we'll find a distribution that does it, and switch toit. Others will see our choice and begin to follow suit. Being ""secured""and remaining useful at the same time is a thin line to balance on.",13,19954,1177,53,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,20024,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,20024,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,20073,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,20073,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,20073,10,17,0,11
+html body text div table tbody tr td p b span  ,Security,44,20073,57,17,1,11
+html body text div table tbody tr td p small span  ,by,13,20091,16,15,1,11
+html body text div table tbody tr td p small a span  ,The Shadowell,29,20091,84,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 12:13:54,113,20091,127,15,1,11
+html body text div table tbody tr td p span  ,"I think one of the main concepts that is missed here is that the average,non-expert, trying Linux because they're tired of Microsoft user doesn'twant a system that they have to do any real configuration on. They wanteverything to work, even if they have no need at all for the servicethey're running. You'll get users demanding that the ftp daemon work,only for you to find out that they're logging in to the machine from thesame machine, and have no real need for it to be running at all. Tellthem that it's a good idea to disable it, and they'll say that they'might' need it, and want it there. Current distros do seem to haveserver written all over them, but that doesn't really seem to be themarket they're trying to hit lately. Some companies don't have theresources to re-release their software every week. There are deadlins forpressing the CDs, writing the manuals, testing the software, etc.., etc. It's not always very practical to try to include the latest fix everyother day in the released distro. As for security advisories, for Calderago to I love it whenpeople say things don't exist...",13,20123,1185,107,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,20247,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,20247,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,20296,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,20296,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,20296,10,17,0,11
+html body text div table tbody tr td p b span  ,Comments,44,20296,73,17,1,11
+html body text div table tbody tr td p small span  ,by,13,20314,17,15,1,11
+html body text div table tbody tr td p small a span  ,tito,30,20314,21,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 12:04:05,51,20314,126,15,1,11
+html body text div table tbody tr td p span  ,"I have to agree with jwz on monitoring for security patches. That should bethe job of the system administrator(s). End users have more importantthings to do (as far as the company is concerned) than monitoring patchesfor their OS. If the system administrator doesn't know where to look forsecurity advisories and patches, then maybe it's time to find a new systemadministrator. I am not a system administrator. I'm one of those geeks atthe company that brings in money on contracts. I have enough things to doat work that I don't need the added burden of duplicating the work of mycompany's system administrators (no matter how bad they may be).",13,20346,1167,71,1,10
+html body text div table tbody tr td p span  ,"That being said, I also have to agree with Nicko Acks in that Linuxdistrobutions turn too many services on by default. Heaven forbid someoneshould take the better route and leave everything off to begin with (likeOpenBSD) and then let the system admininstrator turn on only the serviceshe needs.",13,20436,1150,35,1,10
+html body text div table tbody tr td p span  ,"Having many distros may be a plus, in some ways, but it's also adefinite minus too, considering that the (potential) user needs toconsider the pros and cons of each (or just run out and buy the newestversion of Red Hat like most people these days :p). And significant energyis wasted duplicating efforts to keep patches up to date.",13,20490,1168,35,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,20542,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,20542,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,20591,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,20591,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,20591,10,17,0,11
+html body text div table tbody tr td p b span  ,Linux is Insecure,44,20591,118,17,1,11
+html body text div table tbody tr td p small span  ,by,13,20609,17,15,1,11
+html body text div table tbody tr td p small a span  ,wabbz,30,20609,38,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 11:54:11,68,20609,125,15,1,11
+html body text div table tbody tr td p span  ,"Okey, First,its not the flavor of Linux that you are ruinning, its theperson behind the computer. Computers don't get hacked, people do. IfAdmins are stupid and don't know how to secure an OS, then certain peoplewill take advantage of them and their computers. Second, Redhat is bad.Everytime a new version of Redhat comes out is because there are tworemote exploits for the previous version. Well, it just depends on theadmin, not the flavor of Linux system.",13,20641,1174,53,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,20711,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,20711,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,20760,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,20760,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,20760,10,17,0,11
+html body text div table tbody tr td p b span  ,Does he get paid for this,44,20760,164,17,1,11
+html body text div table tbody tr td p small span  ,by,13,20778,16,15,1,11
+html body text div table tbody tr td p small a span  ,TGhost,29,20778,44,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 10:56:19,73,20778,126,15,1,11
+html body text div table tbody tr td p span  ,"I can not believe someone that has been in the job area for anytime wouldmake those assumptions about Slackware. It is by far the most secureflavor out there. And there are lists and sites for Slackwarewww.slackware.com and www.linuxmafia.org just to name two. When I do acomparison of changelogs I see RH has about 10+ security fixes and growingfast Slackware only has 2. In the 5.2 vs 4.0 we saw about 30vs3 . Redhat isgood mind you but should be saved for the workstation or webserver with nousers type install. As long as they try and change programs from theoriginal authors intent they will have this problem they taint about 40%of the apps included if you look at the odd ball versions they give them. Slackware on the other hand uses programs as is and does virtually nomodifications which always seems to get RH in trouble. They have thismindset that once they ""brand"" a program the user thinks its going to bebetter I this is almost never the case and alot of this is done by what Icall ""KTWFF"" Kids That Work For Free. As for the others Mandrake isnothing more than a modified RH and falls into the same catagory Debian ispretty good about security but also gets prone to the above but is stillmuch better. Sorry to flame on so much but the public is so miss-informedthat it just scares me sometimes and the RH jaugernaut scares me also. Ihave been in this biz for some years now and when I get hired for consultand I find they are running RH that is the first thing to go I dont knothave the time to try and keep up with it. Flame off",13,20810,1182,161,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,20988,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,20988,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,21037,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,21037,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,21037,10,17,0,11
+html body text div table tbody tr td p b span  ,Slackware again,44,21037,112,17,1,11
+html body text div table tbody tr td p small span  ,by,13,21055,17,15,1,11
+html body text div table tbody tr td p small a span  ,elesar,30,21055,34,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 09:56:20,64,21055,127,15,1,11
+html body text div table tbody tr td p span  ,"I am a bit suprised that such a ""serious"" guy can wrote this on slackware.By experience, it's the most secured linux I know. People before me addcomment on the mailing list, and the repository of patch. You can noticethere are few patches, it's because Patrick Volkerding has always takecare of security in his distribution of linux before releasing it. thereare also less packages than other ones but I sleep better.",13,21087,1174,53,1,10
+html body text div table tbody tr td p span  ,"Your article is interesting, but I have the impression you only tellobviousness : Yes, of course, users concern by security have to look fortools (mailing list web page, etc ...) that give distributions beforemaking a choice. It's obvious !",13,21159,1158,35,1,10
+html body text div table tbody tr td p span  ,"But let's consider an another fact, security is not a goal foreverybody, even if I think it's a bit dangerous. You simply want to bedictator, choosing for everybody the good way...",13,21195,1122,17,1,10
+html body text div table tbody tr td p span  ,"An another point to answer to jwz, if you can't spend half an a hourper day for security issues, security is definitely not a concern for you,sorry. I'm a bit curious, what is your model of security OS ? Windows ? Soyou never had a look on securityfocus (and others).",13,21213,1173,35,1,10
+html body text div table tbody tr td p span  ,I can't see how we can have security actually without spend time forit.,13,21249,449,17,1,10
+html body text div table tbody tr td p span  ,"The power of linux is in distributions, everyone can find his ""good""distribution, so let the people of distributions works, help them, askthem for new features, but don't ban them. You are missing the real enemyand misunderstanding the open software.",13,21267,1164,35,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,21319,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,21319,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,21368,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,21368,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,21368,10,17,0,11
+html body text div table tbody tr td p b span  ,a couple of points,44,21368,119,17,1,11
+html body text div table tbody tr td p small span  ,by,13,21386,17,15,1,11
+html body text div table tbody tr td p small a span  ,Nicko Acks,30,21386,66,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 07:57:56,96,21386,126,15,1,11
+html body text div table tbody tr td p span  ,The bigest problem that I have found with linux distributions is the,13,21418,429,17,1,10
+html body text div table tbody tr td p span  ,same problem that I have faced with many commercial unix's: they,13,21436,429,17,1,10
+html body text div table tbody tr td p span  ,have too many services turned on by default that are not needed.,13,21454,412,17,1,10
+html body text div table tbody tr td p span  ,One of the bigest things that would be a help for security is that,13,21472,407,17,1,10
+html body text div table tbody tr td p span  ,distributions go to a policy where installed software is only turned,13,21490,424,17,1,10
+html body text div table tbody tr td p span  ,on when explicitly asked for rather than on by default. While this,13,21508,417,17,1,10
+html body text div table tbody tr td p span  ,"will not stop everything, it would stop a good portion of the new",13,21526,413,17,1,10
+html body text div table tbody tr td p span  ,machines out there getting broken into right away.,13,21544,322,17,1,10
+html body text div table tbody tr td p span  ,One thing comes to mind. Why does every linux distribution need,13,21580,422,17,1,10
+html body text div table tbody tr td p span  ,to be server oriented? I think there is a real need out there for,13,21598,391,17,1,10
+html body text div table tbody tr td p span  ,a completely client-side distribution. This would take care of,13,21616,389,17,1,10
+html body text div table tbody tr td p span  ,the extra services problem by making sure that servers are not,13,21634,396,17,1,10
+html body text div table tbody tr td p span  ,even an option.,13,21652,98,17,1,10
+html body text div table tbody tr td p span  ,Another issue that I think distributions should look into is finding,13,21688,420,17,1,10
+html body text div table tbody tr td p span  ,a way to more easily distribute patches. While it is a good thing,13,21706,407,17,1,10
+html body text div table tbody tr td p span  ,that to have fixes come out quickly it is entire different problem,13,21724,409,17,1,10
+html body text div table tbody tr td p span  ,with getting users to actually apply them. I think the process of,13,21742,403,17,1,10
+html body text div table tbody tr td p span  ,fixing bugs needs to be as simple as possible so that it can be,13,21760,391,17,1,10
+html body text div table tbody tr td p span  ,as automated as possible (debian's app-get method for updating,13,21778,405,17,1,10
+html body text div table tbody tr td p span  ,software comes to mind). While this introduces even more possible,13,21796,431,17,1,10
+html body text div table tbody tr td p span  ,security risks I think that it should be concidered at least for the,13,21814,407,17,1,10
+html body text div table tbody tr td p span  ,new user.,13,21832,60,17,1,10
+html body text div table tbody tr td p span  ,deffinitly a good editorial Jon...,13,21868,202,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,21902,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,21902,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,21951,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,21951,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,21951,10,17,0,11
+html body text div table tbody tr td p b span  ,Re: no slackware security list?,44,21951,207,17,1,11
+html body text div table tbody tr td p small span  ,by,13,21969,17,15,1,11
+html body text div table tbody tr td p small a span  ,jones,30,21969,31,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 07:22:36,61,21969,127,15,1,11
+html body text div table tbody tr td blockquote i span  ,What you're doing is picking out one trivial error and using it as anexcuse to ignore the very good points he made.,53,22001,733,17,1,11
+html body text div table tbody tr td span  ,"I don't think so.. I think he should concentrate on getting people tochoose the right distribution for their needs, not make stupidinflammatory statements.",13,22035,974,17,1,9
+html body text div table tbody tr td p small a span  ,[reply],13,22087,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,22087,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,22136,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,22136,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,22136,10,17,0,11
+html body text div table tbody tr td p b span  ,Slackware doesn't take half an hour per day to patch,44,22136,360,17,1,11
+html body text div table tbody tr td p small span  ,by,13,22154,17,15,1,11
+html body text div table tbody tr td p small a span  ,Bert Lindner,30,22154,71,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 06:55:24,101,22154,127,15,1,11
+html body text div table tbody tr td p span  ,Slackware security mailing list info can be found at,13,22186,334,17,1,10
+html body text div table tbody tr td p a span  ,www.slackware.com/lists,347,22186,167,17,1,11
+html body text div table tbody tr td p span  ,",brought to you by David Cantrell. This has been in place since October atleast.",514,22186,508,17,1,10
+html body text div table tbody tr td p span  ,You can find all security patches by ftp on,13,22220,274,17,1,10
+html body text div table tbody tr td p a span  ,ftp://ftp.cdrom.com/pub/linux/slackware-7.0/patches/,287,22220,346,17,0,11
+html body text div table tbody tr td p span  ,"(for Slack 7 of course, for Slack 4 you'd find them",633,22220,325,17,0,10
+html body text div table tbody tr td p a span  ,here,958,22220,32,17,0,11
+html body text div table tbody tr td p span  ,). A,990,22220,27,17,1,10
+html body text div table tbody tr td p a span  ,Changelog,1017,22220,73,17,1,11
+html body text div table tbody tr td p span  ,"in that directory tells you the when, why and do-i-need-them about thesepatches.",13,22220,1180,35,1,10
+html body text div table tbody tr td p span  ,"That the author didn't look up the distro's before saying somethingabout them may be a trivial mistake, and I hate to go against jwz foranything, but it does matter for Slackware users and potential Slackwareusers if Slackware security is declared sloppy.",13,22272,1166,35,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,22324,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,22324,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,22373,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,22373,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,22373,10,17,0,11
+html body text div table tbody tr td p b span  ,Re: no slackware security list?,44,22373,207,17,1,11
+html body text div table tbody tr td p small span  ,by,13,22391,17,15,1,11
+html body text div table tbody tr td p small a span  ,jwz,30,22391,22,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 06:22:58,52,22391,127,15,1,11
+html body text div table tbody tr td blockquote i span  ,"i get at least 1 hack attempt a day. And strangely enough none of them seem to have worked. Why? Because i spend half an hour a day checking new email for problems, and checking websites for problems with anything i'm running.",53,22423,1081,35,1,11
+html body text div table tbody tr td p span  ,"It's great for you that you've got the time to do this. But for thevast majority of people, asking them to spend",13,22475,696,17,1,10
+html body text div table tbody tr td p i span  ,half an hour a day,709,22475,123,17,1,11
+html body text div table tbody tr td p span  ,"just looking for security fixes is completely unreasonable. If it takeshalf an hour a day of every user's time to keep their system secure, thenthere is something fundamentally wrong. That's a",13,22475,1096,35,1,10
+html body text div table tbody tr td p i span  ,huge,943,22493,35,17,1,11
+html body text div table tbody tr td p span  ,amount oftime.,978,22493,98,17,1,10
+html body text div table tbody tr td p span  ,"Try to put yourself in the shoes of someone for whom messing withtheir computer is a means to an end, rather than an end in itself. Theyjust won't do it. They have more important things to do. Things that paythe bills.",13,22527,1149,35,1,10
+html body text div table tbody tr td blockquote i span  ,"So if this professional sys admin has misinformed you ofthe slackware side of linux, what else could he be wrongabout? I could be interpreting him wrong, or i might justnot be thinking clearly tonight,",53,22579,1103,35,1,11
+html body text div table tbody tr td p span  ,What you're doing is picking out one trivial error and using it as anexcuse to ignore the very good points he made.,13,22631,731,17,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,22665,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,22665,26,15,0,12
+html body text div table tbody tr td p b span  ,[,13,22714,9,17,0,11
+html body text div table tbody tr td p b font span  ,»,22,22714,12,17,0,12
+html body text div table tbody tr td p b span  ,],34,22714,10,17,0,11
+html body text div table tbody tr td p b span  ,no slackware security list?,44,22714,179,17,1,11
+html body text div table tbody tr td p small span  ,by,13,22732,17,15,1,11
+html body text div table tbody tr td p small a span  ,casphar,30,22732,44,15,1,12
+html body text div table tbody tr td p small span  ,- Jan 8th 2000 05:45:19,74,22732,126,15,1,11
+html body text div table tbody tr td p span  ,"I'm a home and work user of Linux, my flavour of choice is Slackware. I'veused most of the major distributions and am forcedto use a few at work. As far as Slackware goes, it does have a securitymailing list which i am subscribed to, it can easily be found atwww.slackware.comwhich also tells you that all of the current and future versions dir treeswill have a patch dir, with patches for that particular version.I also sit on a 24/7 internet connection, with a static ip, i get at least1 hack attempt a day. And strangely enough none of them seem to haveworked. Why? Because i spend half an hour a day checking new email forproblems,and checking websites for problems with anything i'm running. So if thisprofessional sys admin has misinformed you of the slackware side oflinux,what else could he be wrong about? I could be interpreting him wrong, or imight just not be thinking clearly tonight, but i dont and never have hadproblemswith the slackware distributions.",13,22764,1183,107,1,10
+html body text div table tbody tr td p small a span  ,[reply],13,22888,40,15,0,12
+html body text div table tbody tr td p small a span  ,[top],53,22888,26,15,0,12
+html body text div small font span  ,© Copyright 2005,178,22965,101,15,0,7
+html body text div small font a span  ,OSTG,279,22965,38,15,0,8
+html body text div small font span  ,"Open Source Technology Group, All Rights Reserved.",317,22965,290,15,0,7
+html body text div small font span  ,About,110,22981,37,15,0,7
+html body text div small font a span  ,freshmeat.net,147,22981,76,15,0,8
+html body text div small font span  ,•,223,22981,8,15,0,7
+html body text div small font a span  ,Privacy Statement,231,22981,100,15,0,8
+html body text div small font span  ,•,331,22981,8,15,0,7
+html body text div small font a span  ,Terms of Use,339,22981,75,15,0,8
+html body text div small font span  ,•,414,22981,7,15,0,7
+html body text div small font a span  ,Advertise,421,22981,55,15,0,8
+html body text div small font span  ,•,476,22981,8,15,0,7
+html body text div small font a span  ,Contact Us,484,22981,63,15,0,8
+html body text div small font span  ,•,547,22981,8,15,0,7
+html body text div small font a span  ,Revision,555,22981,51,15,0,8
+html body text div small font span  ,: v2.6.0-pre1,606,22981,69,15,0,7

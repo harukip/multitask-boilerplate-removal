@@ -1,0 +1,113 @@
+tag,content,x,y,width,height,label,depth
+html body text div table tbody tr td span  ,You are here:,8,8,85,17,0,9
+html body text div table tbody tr td a span  ,About,94,8,44,17,0,10
+html body text div table tbody tr td span  ,>,138,8,13,17,0,9
+html body text div table tbody tr td a span  ,Health,151,8,47,17,0,10
+html body text div table tbody tr td span  ,>,198,8,13,17,0,9
+html body text div table tbody tr td a span  ,Breast Cancer,211,8,90,17,0,10
+html body text div table tbody tr td a span  ,Breast Cancer,96,26,90,17,0,10
+html body text div table tbody tr td div div div a span  ,Health,8,548,43,17,0,13
+html body text div table tbody tr td div div div a span  ,Breast Cancer,8,566,90,17,0,13
+html body text div table tbody tr td div div div div a span  ,Essentials,8,584,64,17,0,14
+html body text div table tbody tr td div div div div div a span  ,How to Do a Breast Self-Exam,8,602,203,17,0,15
+html body text div table tbody tr td div div div div div a span  ,Ten Risk Reduction Strategies,8,602,261,35,0,15
+html body text div table tbody tr td div div div div div a span  ,Symptoms to Know,145,620,128,17,0,15
+html body text div table tbody tr td div div div div div a span  ,Risk Factors You Can Control,8,638,196,17,0,15
+html body text div table tbody tr td div div div div div a span  ,Diagnosis and Stages,8,638,261,35,0,15
+html body text div table tbody tr td div div div div a span  ,Topics,8,674,42,17,0,14
+html body text div table tbody tr td div div div div div a span  ,What Is Breast Cancer?,8,692,155,17,0,15
+html body text div table tbody tr td div div div div div a span  ,Risk and Prevention,8,692,212,35,0,15
+html body text div table tbody tr td div div div div div a span  ,Breast Biopsy,81,710,95,17,0,15
+html body text div table tbody tr td div div div div div a span  ,Diagnosis,176,710,64,17,0,15
+html body text div table tbody tr td div div div div div a span  ,Treatments,8,728,75,17,0,15
+html body text div table tbody tr td div div div div div a span  ,Support in Every Way,83,728,146,17,0,15
+html body text div table tbody tr td div div div div div a span  ,Life During Treatment,8,728,248,35,0,15
+html body text div table tbody tr td div div div div div a span  ,Life After Treatment,126,746,133,17,0,15
+html body text div table tbody tr td div div div div div a span  ,Long Term Care,8,764,109,17,0,15
+html body text div table tbody tr td div div div div div a span  ,Breast Cancer Blogs,117,764,136,17,0,15
+html body text div table tbody tr td div div div div div a span  ,Book Reviews,8,764,279,35,0,15
+html body text div table tbody tr td div div div div div a span  ,Breast Cancer Glossary,67,782,151,17,0,15
+html body text div table tbody tr td div div div div a span  ,Buyer's Guide,8,800,91,17,0,14
+html body text div table tbody tr td div div div div div a span  ,Donate to Komen Foundation,8,818,195,17,0,15
+html body text div table tbody tr td div div div div div a span  ,Donate to Inflammatory Breast Cancer Research,8,818,257,35,0,15
+html body text div table tbody tr td div div div div div a span  ,Donate to American Cancer Society,8,854,230,17,0,15
+html body text div table tbody tr td div div div div a span  ,Tools,8,872,35,17,0,14
+html body text div table tbody tr td div div div div div a span  ,About Video Library,8,890,138,17,0,15
+html body text div table tbody tr td div div div div div a span  ,Clinical Trials Finder,146,890,137,17,0,15
+html body text div table tbody tr td div div div div div a span  ,Drug Finder,8,908,83,17,0,15
+html body text div table tbody tr td div div div div div a span  ,Medical Encyclopedia,91,908,143,17,0,15
+html body text div table tbody tr td div div div div a span  ,Forums,8,926,49,17,0,14
+html body text div table tbody tr td div div div div a span  ,Most Popular Articles,8,944,140,17,0,14
+html body text div table tbody tr td div div div div a span  ,Latest Articles,8,962,93,17,0,14
+html body text div table tbody tr td div div div div a span  ,Help,8,980,31,17,0,14
+html body text div table tbody tr td table tbody tr td h2 span  ,Categories,288,44,109,26,1,14
+html body text div table tbody tr td table tbody tr td div p a span  ,What Is Breast Cancer? (19),288,91,182,17,1,16
+html body text div table tbody tr td table tbody tr td div p span  ,"An introductory guide to breast cancer with articles and resources about the definition, types of breast cancer, symptoms, survival statistics, and more.",288,109,414,53,1,15
+html body text div table tbody tr td table tbody tr td div p a span  ,Risk and Prevention (20),288,179,160,17,1,16
+html body text div table tbody tr td table tbody tr td div p span  ,"Know your risk of getting breast cancer. What are the factors you can't control, and what are factors you can control? 10 ways to reduce your risk of breast cancer. How to do your breast self-exam. Reasons to have an annual mammogram, what to expect, and how to prepare.",288,197,412,89,1,15
+html body text div table tbody tr td table tbody tr td div p a span  ,Breast Biopsy (5),288,303,113,17,1,16
+html body text div table tbody tr td table tbody tr td div p span  ,"Is a biopsy needed, or an aspiration? Here are descriptions of types of biopsies: fine-needle aspiration, core needle biopsy, stereotactic biopsy, open surgical biopsy. You can understand the results of a biopsy, and how the results affect treatment decisions.",288,321,415,89,1,15
+html body text div table tbody tr td table tbody tr td div p a span  ,Diagnosis (8),288,427,87,17,1,16
+html body text div table tbody tr td table tbody tr td div p span  ,"Get help for newly diagnosed patients. You can understand your diagnosis, know what disease stages mean and how that affects your treatment and options. More tests might be needed - understand the reasons for the tests and what results will mean for you.",288,445,410,89,1,15
+html body text div table tbody tr td table tbody tr td div p a span  ,Treatments (7),288,551,94,17,1,16
+html body text div table tbody tr td table tbody tr td div p span  ,"There are 4 basic types of treatments for breast cancer. Read about surgery types, radiation therapy, chemotherapy, and follow-up therapies, such as hormone suppression.",288,569,386,53,1,15
+html body text div table tbody tr td table tbody tr td a span  ,7 more Categories below,288,623,160,17,1,14
+html body text div table tbody tr td table tbody tr td h2 span  ,Categories,288,641,109,26,1,14
+html body text div table tbody tr td table tbody tr td div p a span  ,Support in Every Way (11),288,688,172,17,1,16
+html body text div table tbody tr td table tbody tr td div p span  ,"Support strategies for you during and after treatment. Read about support groups, their benefits and drawbacks. Learn about getting help at home, and advice for family and friends.",288,706,411,53,1,15
+html body text div table tbody tr td table tbody tr td div p a span  ,Life During Treatment (13),288,776,176,17,1,16
+html body text div table tbody tr td table tbody tr td div p span  ,"You can work during cancer treatment, read about the Family Medical Leave Act. Motherhood is always a challenge, but now you can ask for more help with the kids. Learn other ways to live during treatment - use humor, write a journal, do some reading, go on a retreat.",288,794,408,89,1,15
+html body text div table tbody tr td table tbody tr td div p a span  ,Life After Treatment (5),288,900,155,17,1,16
+html body text div table tbody tr td table tbody tr td div p span  ,"You completed treatment, now what do you do? Read about living in remission, having regular oncology checkups, making progress during recovery. Rebuild your health and take care of your chemo curls and dry skin. Take charge of changing your diet, start doing regular exercise, take your follow-up medications. How you can make life changes, and how you can give back to the cancer community.",288,918,407,125,1,15
+html body text div table tbody tr td table tbody tr td div p a span  ,Long Term Care (2),288,1060,128,17,1,16
+html body text div table tbody tr td table tbody tr td div p span  ,"Being a Cancer Warrior living with cancer as a chronic disease. Learn about alternative therapies, quality of life, end of life issues, and hospice. Read about talking to children about cancer and death.",288,1078,409,71,1,15
+html body text div table tbody tr td table tbody tr td div p a span  ,Breast Cancer Blogs (7),288,1166,154,17,1,16
+html body text div table tbody tr td table tbody tr td div p span  ,"One way to connect with other breast cancer survivors and to cope with your own feelings is to use blogs. Expressive writing can be very helpful in dealing with your emotions, and reading other people's blogs can help relieve the feelings of isolation that sometimes come with a diagnosis of cancer.",288,1184,406,89,1,15
+html body text div table tbody tr td table tbody tr td div p a span  ,Book Reviews (5),288,1290,116,17,1,16
+html body text div table tbody tr td table tbody tr td div p span  ,"A collection of reviews of books and magazines on the topic of breast cancer, including self-help, survivor stories, general coverage of women's health, cookbooks, and memoirs.",288,1308,404,53,1,15
+html body text div table tbody tr td table tbody tr td div p a span  ,Breast Cancer Glossary (14),288,1378,182,17,1,16
+html body text div table tbody tr td table tbody tr td div p span  ,"Learn the words and phrases to know when understanding this disease and its treatment. Be able to discuss this topic with your health care team, and understand your options for treatment and survival.",288,1396,409,71,1,15
+html body text div table tbody tr td p a span  ,Important disclaimer information about this About site.,288,1484,353,17,1,11
+html body text div table tbody tr td div div h5 span  ,Top Health Videos,703,499,63,31,0,12
+html body text div table tbody tr td div div p a span  ,How to Relax in 2 Minutes,703,553,66,53,0,13
+html body text div table tbody tr td div div p a span  ,Bird Flu 101,703,607,54,35,0,13
+html body text div table tbody tr td div div p a span  ,Cold Medicine & Kids,703,625,60,53,0,13
+html body text div table tbody tr td div div p a span  ,Controlling Food Portions,703,679,74,53,0,13
+html body text div table tbody tr td div div p a span  ,Balancing Family & Self,703,733,65,53,0,13
+html body text div table tbody tr td div div h5 span  ,What's Hot,703,809,65,15,0,12
+html body text div table tbody tr td div div p a span  ,Baked French Toast,703,848,44,53,0,13
+html body text div table tbody tr td div div p a span  ,Radiation Treatments,703,902,71,35,0,13
+html body text div table tbody tr td div div p a span  ,Chemo Primer Tips,703,938,46,53,0,13
+html body text div table tbody tr td div div p a span  ,Lymph nodes,703,992,45,35,0,13
+html body text div table tbody tr td div div p a span  ,BSE and Lumps,703,1010,72,35,0,13
+html body text div table tbody tr td a span  ,All Topics,8,1504,71,17,0,10
+html body text div table tbody tr td span  ,|,79,1504,7,17,0,9
+html body text div table tbody tr td a span  ,Email Article,86,1504,90,17,0,10
+html body text div table tbody tr td span  ,|,176,1504,7,17,0,9
+html body text div table tbody tr td span  ,|,187,1504,7,17,0,9
+html body text div table tbody tr td a span  ,Advertising Info,8,1522,110,17,0,10
+html body text div table tbody tr td span  ,|,118,1522,7,17,0,9
+html body text div table tbody tr td a span  ,News & Events,125,1522,105,17,0,10
+html body text div table tbody tr td span  ,|,230,1522,7,17,0,9
+html body text div table tbody tr td a span  ,Work at About,237,1522,98,17,0,10
+html body text div table tbody tr td span  ,|,335,1522,3,17,0,9
+html body text div table tbody tr td a span  ,SiteMap,8,1540,58,17,0,10
+html body text div table tbody tr td span  ,|,66,1540,7,17,0,9
+html body text div table tbody tr td a span  ,Reprints,73,1540,59,17,0,10
+html body text div table tbody tr td span  ,|,132,1540,7,17,0,9
+html body text div table tbody tr td a span  ,Help,139,1540,31,17,0,10
+html body text div table tbody tr td a span  ,Our Story,377,1531,68,17,0,10
+html body text div table tbody tr td span  ,|,445,1531,7,17,0,9
+html body text div table tbody tr td a span  ,Be a Guide,452,1531,72,17,0,10
+html body text div table tbody tr td a span  ,User Agreement,8,1558,108,17,0,10
+html body text div table tbody tr td span  ,|,116,1558,8,17,0,9
+html body text div table tbody tr td a span  ,Ethics Policy,124,1558,89,17,0,10
+html body text div table tbody tr td span  ,|,212,1558,7,17,0,9
+html body text div table tbody tr td a span  ,Patent Info.,220,1558,78,17,0,10
+html body text div table tbody tr td span  ,|,298,1558,4,17,0,9
+html body text div table tbody tr td a span  ,Corrections,8,1576,79,17,0,10
+html body text div table tbody tr td span  ,|,87,1576,7,17,0,9
+html body text div table tbody tr td a span  ,Privacy Policy,94,1576,94,17,0,10
+html body text div table tbody tr td span  ,"Â©2006 About, Inc., A part of",377,1558,187,17,0,9
+html body text div table tbody tr td a span  ,The New York Times Company,564,1558,208,17,0,10
+html body text div table tbody tr td span  ,. All rights reserved.,377,1558,398,35,0,9

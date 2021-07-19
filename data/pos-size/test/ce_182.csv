@@ -1,0 +1,253 @@
+tag,content,x,y,width,height,label,depth
+html body text div div h1 span  ,U.S. Department of State,8,8,342,36,1,7
+html body text div div form label span  ,Enter Keywords in field and click Go,180,86,240,17,0,8
+html body text div div ul li a span strong span  ,International Travel Home,48,247,183,17,0,11
+html body text div div ul li a span strong span  ,Passports Home,48,265,111,17,0,11
+html body text div div ul li a span strong span  ,Visas Home,48,283,81,17,0,11
+html body text div div ul li a span strong span  ,Children & Family Home,48,301,175,17,0,11
+html body text div div ul li a span strong span  ,News and Updates,48,319,126,17,0,11
+html body text div div ul li a span strong span  ,"Laws, Regulation & Public Policy",48,337,230,17,0,11
+html body text div div ul li a span strong span  ,About The Bureau of Consular Affairs,48,355,263,17,0,11
+html body text div div ul li a span strong span  ,External URLs,48,373,104,17,0,11
+html body text div div div table tbody tr td table tbody tr td ul li a span  ,International Travel Home,48,407,127,35,0,18
+html body text div div div table tbody tr td table tbody tr td ul li a span  ,"Traveling to the Caribbean, Bermuda, Panama, Mexico, or Canada?",48,443,136,71,0,18
+html body text div div div table tbody tr td table tbody tr td ul li a span  ,International Travel Information,48,515,127,35,0,18
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Travel Warnings,88,551,106,17,0,19
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Consular Information Sheets,88,569,76,53,0,19
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Public Announcements,88,623,104,35,0,19
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Avian Flu Fact Sheet,88,659,95,35,0,19
+html body text div div div table tbody tr td table tbody tr td ul li a span  ,Tips for Traveling Abroad,48,695,116,35,0,18
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Registration with Embassies,88,731,111,35,0,19
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Plan Your Trip,88,767,94,17,0,19
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Regional Information,88,785,76,35,0,19
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Safety Issues,88,821,84,17,0,19
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Health Issues,88,839,86,17,0,19
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Emergencies and Crises,88,857,109,35,0,19
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Family and Children's Issues,88,893,108,35,0,19
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,U.S. Embassies and Consulates,88,929,100,35,0,19
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Travel Brochures,88,1055,111,17,0,19
+html body text div div div table tbody tr td table tbody tr td ul li a span  ,Document Requirements,48,1073,89,35,0,18
+html body text div div div table tbody tr td table tbody tr td ul li a span  ,Living Abroad Tips,48,1109,125,17,0,18
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Residing Abroad,88,1127,108,17,0,19
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Drugs Abroad,88,1145,90,17,0,19
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Studying Abroad,88,1163,109,17,0,19
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Teaching Abroad,88,1181,110,17,0,19
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Benefits for Students & Teachers,88,1199,76,53,0,19
+html body text div div div table tbody tr td table tbody tr td ul li a span  ,Additional Resources,48,1253,138,17,0,18
+html body text div div div table tbody tr td table tbody tr td ul li a span  ,About Overseas Citizens’ Services,48,1271,115,35,0,18
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,Who We Are,88,1307,83,17,0,19
+html body text div div div table tbody tr td table tbody tr td ul ul li a span  ,How to Contact Us,88,1325,101,35,0,19
+html body text div div div div div a span  ,Home,8,1377,43,17,0,10
+html body text div div div div div span  ,>,51,1377,13,17,0,9
+html body text div div div div div a span  ,International Travel Home,64,1377,174,17,0,10
+html body text div div div div div span  ,>,238,1377,13,17,0,9
+html body text div div div div div a span  ,Tips for Traveling Abroad,251,1377,167,17,0,10
+html body text div div div div div div div a span  ,print,58,1395,34,17,0,12
+html body text div div div div div div div a span  ,email,148,1395,36,17,0,12
+html body text div div div div div div div div h3 span  ,Human Immunodeficiency Virus (HIV) Testing Requirementsfor Entry into Foreign Countries,8,1432,754,21,1,13
+html body text div div div div div div div div p strong span  ,March 2006,8,1507,82,17,1,14
+html body text div div div div div div div div p span  ,"An increasing number of countries require that foreigners be tested for Human Immunodeficiency Virus (HIV) prior to entry. It is usually required as part of a medical exam for long-term visitors, i.e. students and workers. The following list of country requirements is based on information available as of March 2006 and is subject to change. Before traveling abroad, check with the embassy of the country to be visited to learn about entry requirements and specifically whether AIDS testing is a requirement. If the list indicates U.S. test results are acceptable and the word “Yes” appears with an asterisk beside it (Yes*) in a particular country, prospective travelers should inquire at the embassy of that country for details (e.g. which laboratories in the United States may perform tests and where to have results certified and authenticated) before departing the United States.",8,1541,762,143,1,13
+html body text div div div div div div div div div table tbody tr td p strong span  ,Country,78,1705,58,17,1,19
+html body text div div div div div div div div div table tbody tr td p strong span  ,Test Required For,314,1705,124,17,1,19
+html body text div div div div div div div div div table tbody tr td p strong span  ,U.S Test Accepted?,596,1705,131,17,1,19
+html body text div div div div div div div div div table tbody tr td strong span  ,Algeria,36,1728,51,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Residency permit,183,1728,112,17,1,18
+html body text div div div div div div div div div table tbody tr td span  ,No,574,1728,20,17,1,17
+html body text div div div div div div div div div table tbody tr td p b span  ,Angola,36,1751,49,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,All foreigners applying for work visas and resident permits,183,1751,379,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes,574,1751,23,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Australia,36,1828,64,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,All applicants (15 years of age or older) for permanent Residence. Permanent applicants under 15 years of age must be tested if being adopted or has history of blood transfusions. Temporary applicants need to declare any illness/condition at time of interview. Any temporary applicant who is likely to come in contact with blood must also be tested.,183,1774,375,125,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,1828,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Bahrain,36,1932,56,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,"All foreign citizens (workers, family, etc.) applying for residence permits must submit locally performed medical exams, including HIV tests. Anyone who tested positive is immediately deported.",183,1905,378,71,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,1932,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Belarus,36,1982,52,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,All persons staying longer than 3 months,183,1982,263,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes,574,1982,23,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Belize,36,2005,41,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Residency permit,183,2005,112,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,2005,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Benin,36,2028,40,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Residency permit,183,2028,112,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,2028,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,British Virgin Islands (BVI),36,2051,95,35,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Residency permit,183,2060,112,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes,574,2060,23,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Brunei,36,2092,47,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Work permits,183,2092,87,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,2092,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Bulgaria,36,2124,60,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,All intending immigrants and foreigners staying longer than 1 month for the purpose of study or work.,183,2115,384,35,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,2124,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Canada,36,2210,53,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,"Routine HIV testing is required for all applicants who are 15 years of age and over and are seeking entry to Canada for a period longer than 6 months (I.e. students, workers, visitors, those applying for immigration and refugee status, etc.), and resided in a designated country for 6 consecutive months within a 12 month period immediately preceding entry into Canada.",183,2156,378,125,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,2210,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Central African Republic,36,2287,108,35,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,"Anyone seeking residence, work, or student permits must submit to a medical exam (which includes HIV testing).",183,2287,367,35,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes,574,2296,23,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,"China, People’s Republic Of",36,2346,106,35,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Foreigners planning to stay for more than 6 months (not required for entry or residency in Hong Kong or Macau). Those who are HIV positive are not allowed into China for any purpose.,183,2328,377,71,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,2355,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Colombia,36,2423,67,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Entry is prohibited for HIV positive individuals. HIV positive individuals should request a waiver from a Colombian Embassy.,183,2405,345,53,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,2423,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Comoros,36,2464,62,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Foreigners planning to work,183,2464,182,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes,574,2464,23,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Cuba,36,2487,37,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Foreign students on scholarships.,183,2487,213,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,2487,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Cyprus,36,2510,51,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,All foreigners working or studying.,183,2510,227,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,2510,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Dominica,36,2542,66,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,"No HIV testing requirement for standard entry; students, intending immigrants and anyone seeking employment.",183,2533,362,35,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes,574,2542,23,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Dominican Republic,36,2583,140,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,"Foreigners planning to reside, study, or work.",183,2583,291,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,2583,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Egypt,36,2642,41,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,"All foreigners applying for work, study, or training permit and staying longer than 30 days in requires testing. Dependents are no longer exempt; testing is also a requirement for spouses and children aged 15 or older.",183,2615,371,71,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,2642,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Eritrea,36,2692,49,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Maybe required upon entry.,183,2692,178,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,N/A,574,2692,28,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Fiji,36,2715,24,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Persons staying longer than 6 months,183,2715,240,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes,574,2715,23,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Greece,36,2738,48,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Only persons arriving to work as legal prostitutes.,183,2738,320,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,2738,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Hungary,36,2770,61,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Anyone staying over 1 year and al intending immigrants. Some employers may require workers to be tested.,183,2761,369,35,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,2770,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,India,36,2829,36,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,All students over 18. Anyone between the ages of 18 and 70 with a visa valid for 1 year or more. Anyone extending length of stay to a year or more (excluding accredited journalists and those working in foreign missions).,183,2802,375,71,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,2829,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Iraq,36,2879,30,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Residency/exit permit.,183,2879,145,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,N/A,574,2879,28,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Israel,36,2911,39,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Legal foreign workers; Ministry of Interior reserves the right to deny entry to aliens claiming to be HIV positive.,183,2902,363,35,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,N/A,574,2911,28,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Jordan,36,2943,49,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Anyone staying longer than 6 months.,183,2943,244,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,2943,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Kazakhstan,36,2975,82,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,All visitors staying more than 1 month must present a certificate of an HIV test within 10 days of arrival.,183,2966,344,35,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,2975,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,"Korea, Republic of",36,3025,129,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Persons entering on an E-6 visa to be engaged in performance or entertainment activities at tourist hotels and entertainment places.,183,3007,382,53,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,3025,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Kuwait,36,3075,51,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Foreigners intending to work or reside (Anyone found to be HIV positive will be deported.),183,3066,383,35,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,3075,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Lebanon,36,3107,60,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Persons intending to work and maids.,183,3107,241,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,3107,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Lithuania,36,3139,68,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Residency permits (Migration Dept. reserves right to exclude foreigners who present a public health threat.),183,3130,348,35,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes,574,3139,23,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Malaysia,36,3189,62,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Foreign workers (unskilled and semiskilled) undergo a full medical check up (includes HIV) within 1 month of arrival and on yearly basis.,183,3171,377,53,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,3189,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,"Marshall Islands, Republic of the",36,3248,119,35,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,"Applicants for residence. US Citizens are exempt from obtaining work permits, but may still require medical clearance (including HIV test) by the Immigration Division upon entry.",183,3230,381,71,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,3257,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Mauritius,36,3316,68,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Foreigners planning to reside or work; testing performed upon arrival.,183,3307,363,35,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,N/A,574,3316,28,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Moldova,36,3348,60,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Anyone staying longer than 3 months,183,3348,240,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,3348,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Monserrat,36,3371,73,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,University students and applicants for work and residency.,183,3371,375,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,3371,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Niger,36,3394,38,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Foreigners seeking to marry national of Niger,183,3394,293,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,3394,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Oman,36,3417,43,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Residency permit,183,3417,112,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,3417,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Palau,36,3440,39,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Anyone staying longer than 6 months,183,3440,240,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,3440,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Paraguay,36,3472,66,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Applicants seeking temporary or permanent residency status.,183,3463,346,35,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,3472,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Qatar,36,3513,41,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,"Applicants seeking residency and anyone staying longer than 30 days, including dependents.",183,3504,360,35,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,3513,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Russia,36,3545,45,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Applicants applying for visas valid more than 3 months,183,3545,356,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,3545,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Samoa,36,3586,46,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,"Anyone applying for work, study or staying more than 12 months to submit a medical report, which may include an HIV test.",183,3568,369,53,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,3586,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Saudi Arabia,36,3627,90,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Residency/work permits,183,3627,156,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes,574,3627,23,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,St. Vincent,36,3668,75,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,No HIV testing required for visitors; HIV testing required for applicants seeking temporary and permanent residency visas,183,3650,374,53,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes,574,3668,23,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,St. Kitts & Nevis,36,3709,115,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Residency permit,183,3709,112,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes,574,3709,23,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Saudi Arabia,36,3732,90,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Residency /work permits,183,3732,160,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,3732,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Seychelles,36,3764,69,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,"Foreigners planning to work must under go a medical exam, which includes an HIV test, upon arrival",183,3755,386,35,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,3764,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Singapore,36,3805,69,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,"Employment passes, work permits and permanent resident status (except spouses and children of Singapore citizens)",183,3796,374,35,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,3805,20,17,1,18
+html body text div div div div div div div div div table tbody tr td strong span  ,Slovakia,36,3837,59,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Residency status (as part of a medical exam).,183,3837,290,17,1,18
+html body text div div div div div div div div div table tbody tr td span  ,No,574,3837,20,17,1,17
+html body text div div div div div div div div div table tbody tr td p b span  ,South Africa,36,3860,87,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,All mine workers (irrespective of their positions),183,3860,314,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,3860,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Syria,36,3892,36,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,All foreigners (ages 15 to 60 years) staying more than 15 days,183,3883,365,35,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No*,574,3892,28,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Taiwan,36,3942,50,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,"Anyone staying over 90 days (Foreigners applying for residency/work permit must be tested, at a public hospital in Taiwan within three months of application.)",183,3924,386,53,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,3942,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Tajikistan,36,3983,69,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Anyone staying more than 90 days,183,3983,223,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,3983,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Tonga,36,4006,42,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Anyone staying longer than 6 months,183,4006,240,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,4006,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Turkey,36,4038,49,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Any foreigner immigrating or applying for permanent residence,183,4029,345,35,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,4038,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Turkmenistan,36,4070,96,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,All foreigners staying longer than 3 months,183,4070,279,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,4070,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Ukraine,36,4093,56,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,All foreigners staying longer than 3 months,183,4093,279,17,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,30 days before arrival,574,4093,140,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,United Arab Emirates,36,4116,85,35,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Any one applying for residence. Tests are done upon submission of visa applications.,183,4116,341,35,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,4125,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,United Kingdom,36,4175,114,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Anyone who does not appear to be in good health may be required to undergo a medical exam (including an HIV test) prior to being granted or denied entry,183,4157,383,53,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,4175,20,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Uzbekistan,36,4252,76,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,Anyone staying more than 15 days (long-term visitors must renew HIV certificate after the first 3 months in Uzbekistan and annually thereafter) Foreigners applying for permission to work are required to submit the certificate as proof that they are not HIV infected.,183,4216,382,89,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,Yes*,574,4252,31,17,1,18
+html body text div div div div div div div div div table tbody tr td p b span  ,Yemen,36,4329,46,17,1,19
+html body text div div div div div div div div div table tbody tr td p span  ,"Applicants seeking permanent residence, students over age 16, all foreigners staying longer than one month and foreign spouses.",183,4311,385,53,1,18
+html body text div div div div div div div div div table tbody tr td p span  ,No,574,4329,20,17,1,18
+html body text div div div div div div div div span  ,"* A test performed in the U.S. may be accepted under certain conditions. Check with the destination country’s embassy or representative office in Washington, D.C. for detailed requirements.",8,4405,766,35,1,12
+html body text div div div div div div table tbody tr td h4 span  ,Other Government Websites,11,4468,195,17,0,15
+html body text div div div div div div table tbody tr td ul li a span  ,First Gov Service Locator,51,4507,171,17,0,17
+html body text div div div div div div table tbody tr td ul li a span  ,Department of Homeland Security,51,4544,225,17,0,17
+html body text div div div div div div table tbody tr td ul li a span  ,The White House,51,4581,117,17,0,17
+html body text div div div div div div table tbody tr td ul li a span  ,more >,51,4618,46,17,0,17
+html body text div div div div p span  ,"This site is managed by the Bureau of Consular Affairs, U.S. Department of State. External links to other Internet sites should not beconstrued as an endorsement of the views contained therein.",122,4671,635,35,0,9
+html body text div div div div p a span  ,Copyright Information,122,4707,149,17,0,10
+html body text div div div div p a span  ,Disclaimers,271,4707,77,17,0,10

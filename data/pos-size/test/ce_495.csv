@@ -1,0 +1,50 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,IABC: Members Only Login,0,0,624,18,0,6
+html body text table tbody tr td table tbody tr td a span  ,Members Only,40,203,96,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Member Centre,40,221,101,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,MyComm,40,239,66,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Search for Members,40,257,131,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,MemberSpeak,40,275,93,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,The IABC Buzz,40,293,104,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Member News,40,311,95,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,CW Online,40,329,73,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Online Library,40,347,96,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Other Benefits,40,365,94,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Renew Your Membership,40,383,81,35,0,13
+html body text table tbody tr td table tbody tr td a span  ,Update Your Contact Info,40,419,135,35,0,13
+html body text table tbody tr td table tbody tr td a span  ,Leader Centre,40,455,91,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Member Guides,40,473,104,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Strategic Plan,40,491,89,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Executive Board Motions,40,509,107,35,0,13
+html body text table tbody tr td table tbody tr td a span  ,Get Access to the Member Centre,40,545,112,35,0,13
+html body text table tbody tr td table tbody tr td a span  ,FAQs,40,581,37,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Student Connection,40,599,127,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Join IABC,40,617,69,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Education,40,635,65,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Publications,40,653,79,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Research,40,671,59,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Accreditation,40,689,87,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Awards,40,707,48,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Jobs,40,725,28,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Communities,40,743,86,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Chapters,40,761,57,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,About IABC,40,779,82,17,0,13
+html body text table tbody tr td table tbody tr td h1 span  ,members only,196,333,193,36,1,13
+html body text table tbody tr td table tbody tr td h2 span  ,member log in,196,391,148,26,1,13
+html body text table tbody tr td table tbody tr td p span  ,The content you have requested is for IABC members only. Please log in using your IABC Member ID and Password.,196,438,298,53,1,13
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td table tbody tr td p span  ,Member ID:,222,555,54,35,1,25
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td table tbody tr td p span  ,Password:,210,595,66,17,1,25
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td p a span  ,Forgot your password or member ID?,196,635,242,17,0,22
+html body text table tbody tr td table tbody tr td table tbody tr td table tbody tr td p a span  ,Problems Signing In?,196,671,139,17,0,22
+html body text table tbody tr td div p strong span  ,You are not logged in.,531,469,149,17,1,11
+html body text table tbody tr td table tbody tr td table tbody tr td ul li a span  ,List of Member Benefits,571,529,158,17,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td ul li a span  ,Member Centre,571,547,101,17,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td ul li a span  ,Leader Centre,571,565,91,17,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td ul li a span  ,CW Online,571,583,73,17,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td ul li a span  ,MemberSpeak,571,601,93,17,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td ul li a span  ,MyComm,571,619,66,17,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td ul li a span  ,IABC Student Connection,571,637,169,17,0,19
+html body text table tbody tr td p span  ,ï¿½ 2006 International Association of Business Communicators.,8,802,405,17,0,9
+html body text table tbody tr td p span  ,"One Hallidie Plaza, Suite 600 San Francisco, CA 94102 USA",8,820,393,17,0,9
+html body text table tbody tr td p span  ,+1 415.544.4700,8,838,109,17,0,9
+html body text table tbody tr td p a span  ,Terms of Service,591,819,109,17,0,10

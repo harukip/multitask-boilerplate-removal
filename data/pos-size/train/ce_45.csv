@@ -1,0 +1,209 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Application management solutions with HP OpenView and BEA - HP Dev Resource Central,0,0,785,36,0,6
+html body text table tbody tr td a span  ,Jump to content,0,0,47,53,0,9
+html body text table tbody tr td table tbody tr td span  ,�,20,93,20,17,0,12
+html body text table tbody tr td table tbody tr td a span  ,Contact HP,40,93,74,17,0,13
+html body text table tbody tr td table tbody tr td form table tbody tr td label span  ,Search:,569,80,48,17,0,18
+html body text table tbody tr td table tbody tr td form table tbody tr td div label span span  ,DRC,617,98,36,17,0,20
+html body text table tbody tr td table tbody tr td form table tbody tr td div label span  ,All of HP US,653,98,86,17,0,19
+html body text table tbody tr td h1 span  ,Application management solutions with HP OpenView and BEA,180,171,541,73,1,9
+html body text table tbody tr td span  ,Notes from a presentation given at BEA dev2dev Days 2004.,180,267,391,17,1,8
+html body text table tbody tr td table tbody tr td span  ,�,8,286,16,17,0,12
+html body text table tbody tr td table tbody tr td h2 a span  ,Dev Resource Central,24,285,140,53,0,14
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,�,10,370,16,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Downloads index,26,369,112,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,�,10,389,16,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Topic index,26,388,76,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,�,26,408,16,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,HP OpenView,42,407,92,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,�,26,427,16,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,HP OpenCall,42,426,85,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,�,26,446,16,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Linux,42,445,38,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,�,10,465,16,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Ask the experts,26,464,100,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,�,10,484,16,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Explore management technologies,26,483,82,53,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,�,10,538,16,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Integration stories,26,537,116,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,�,10,557,16,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Forums,26,556,49,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,�,10,576,16,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Blogs,26,575,37,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,�,10,595,16,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Invent Online webcasts,26,594,88,35,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,�,10,652,16,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Get software support,26,651,82,35,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,�,10,709,16,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Newsletter,26,708,69,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,�,10,728,16,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Events,26,727,44,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,�,10,768,16,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,About us,26,767,58,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,�,10,787,16,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Site map,26,786,56,17,0,17
+html body text table tbody tr td table tbody tr td div table tbody tr td div em span  ,by,570,295,15,17,0,19
+html body text table tbody tr td table tbody tr td div table tbody tr td div span  ,"Justin Murray,",570,313,92,17,0,18
+html body text table tbody tr td table tbody tr td div table tbody tr td div span  ,"Chris Peltz, &",570,331,91,17,0,18
+html body text table tbody tr td table tbody tr td div table tbody tr td div span  ,"Claire Rogers, HP",570,349,117,17,0,18
+html body text table tbody tr td table tbody tr td h2 span  ,In this presentation,180,296,200,26,1,13
+html body text table tbody tr td table tbody tr td div span span  ,�,180,344,20,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,Top developer challenges,200,344,163,17,1,14
+html body text table tbody tr td table tbody tr td div span span  ,�,180,363,20,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,Supporting the application in production,200,363,260,17,1,14
+html body text table tbody tr td table tbody tr td div span span  ,�,180,382,19,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,Addressing application performance issues,199,382,275,17,1,14
+html body text table tbody tr td table tbody tr td div span span  ,�,180,401,20,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,Resolving performance problems today,200,401,253,17,1,14
+html body text table tbody tr td table tbody tr td div span span  ,�,180,420,20,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,Common problem resolution approaches,200,420,261,17,1,14
+html body text table tbody tr td table tbody tr td div span span  ,�,180,439,20,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,Key issues in problem resolution today,200,439,250,17,1,14
+html body text table tbody tr td table tbody tr td div span span  ,�,180,458,20,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,How can HP OpenView Transaction Analyzer (OVTA) help?,180,458,314,35,1,14
+html body text table tbody tr td table tbody tr td div span span  ,�,180,495,20,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,Demonstration: isolating performance problems with HP OVTA,180,495,359,35,1,14
+html body text table tbody tr td table tbody tr td div span span  ,�,180,532,19,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,A re-cap of OVTA,199,532,119,17,1,14
+html body text table tbody tr td table tbody tr td div span span  ,�,180,551,20,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,Key OVTA differentiators,200,551,167,17,1,14
+html body text table tbody tr td table tbody tr td div span span  ,�,180,570,20,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,Extended application and platform support,200,570,274,17,1,14
+html body text table tbody tr td table tbody tr td div span span  ,�,180,589,20,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,Moving beyond performance management,200,589,272,17,1,14
+html body text table tbody tr td table tbody tr td div span span  ,�,180,608,20,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,Why is designing for manageability important?,200,608,302,17,1,14
+html body text table tbody tr td table tbody tr td div span span  ,�,180,627,20,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,What can you rely on for manageability?,200,627,262,17,1,14
+html body text table tbody tr td table tbody tr td div span span  ,�,180,646,20,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,What role can you play in manageability?,200,646,267,17,1,14
+html body text table tbody tr td table tbody tr td div span span  ,�,180,665,19,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,Application management solutions with HP OpenView and BEA,180,665,299,35,1,14
+html body text table tbody tr td table tbody tr td div span span  ,�,180,702,20,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,Call to action,200,702,86,17,1,14
+html body text table tbody tr td div table tbody tr td h2 span  ,Top developer challenges,180,720,256,26,1,14
+html body text table tbody tr td div h3 span  ,Supporting the application in production,180,786,327,21,1,10
+html body text table tbody tr td ul li span  ,Developer often called to resolve problems,220,846,276,17,1,10
+html body text table tbody tr td ul li span  ,Difficult to recreate problem outside production,220,864,307,17,1,10
+html body text table tbody tr td ul li span  ,Need to balance support needs with new development,220,882,345,17,1,10
+html body text table tbody tr td div h3 span  ,Addressing application performance issues,180,919,342,21,1,10
+html body text table tbody tr td ul li span  ,Detecting problems is often reactive and post-deployment,220,980,371,17,1,10
+html body text table tbody tr td ul li span  ,Isolating performance bottlenecks can be difficult,220,998,318,17,1,10
+html body text table tbody tr td ul li span  ,"Many distributed, complex layers to analyze",220,1016,284,17,1,10
+html body text table tbody tr td ul li span  ,Developers given vague information on problem,220,1034,311,17,1,10
+html body text table tbody tr td ul li span  ,Increased time to problem resolution,220,1052,235,17,1,10
+html body text table tbody tr td p span  ,"If you are a developer, you probably face a number of development challenges on a daily basis. There's a constant need to keep current on emerging technologies, pressure from your customers to deliver products ahead-of-schedule, and a desire to build robust and scalable architectures.",180,1086,555,71,1,9
+html body text table tbody tr td p span  ,"Despite understanding the importance of performance to the success of any application, and the attempting to design and architect your application to ensure that it's robust and scalable, performance management is probably more of an after-thought and doesn't become a critical issue until production when the customer experiences a problem.",180,1174,555,89,1,9
+html body text table tbody tr td p span  ,"If you had a very simple application, it might not be too difficult to diagnose the problem. But, you're probably using Web services, JMS, Servlets, EJBs, and other distributed technologies. When you're given a support request such as, ""the application is slow"", you're most likely spending countless hours trying to identify and diagnose the performance problem. You won't have enough information to know where to even start, which will make it very difficult to recreate the problem outside of production.",180,1280,555,107,1,9
+html body text table tbody tr td p span  ,"This leads us to the developer's dilemma. If you want to spend more type playing with new technologies such as grid computing or AOP, or you want to build more functionality, you have to balance that with the requirements to support the application.",180,1404,559,53,1,9
+html body text table tbody tr td div table tbody tr td h2 span  ,Resolving performance problems today,180,1474,403,26,1,14
+html body text table tbody tr td table tbody tr td div h3 span  ,Common problem resolution approaches,180,1521,326,21,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Print statements or log files,220,1582,176,17,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Operating system utilities,220,1600,164,17,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Thread dumps,220,1618,92,17,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Simple management tools,220,1636,166,17,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Trial and error!,220,1654,98,17,1,14
+html body text table tbody tr td table tbody tr td div h3 span  ,Key issues in problem resolution today,180,1690,308,21,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Time to resolution is too long,220,1751,189,17,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Developers required to diagnose problems,220,1769,271,17,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Problem may not be code-related,220,1787,212,17,1,14
+html body text table tbody tr td table tbody tr td ul li span  ,Often requires multiple diagnostic tools,220,1805,254,17,1,14
+html body text table tbody tr td table tbody tr td div div span span  ,Time spent troubleshooting and fixing application issues...is time not spent on new functionality,570,1531,156,89,1,15
+html body text table tbody tr td p span  ,"Consider the ""traditional"" approach commonly used to deal with performance issues. We are all familiar with the tried-and-true ""printf"" approach for measuring method call times. This technique can be quite useful, except when you have to correlate individual method times with an end-user experience. Spreadsheets and calculators can be your friend here, but it can be very time consuming.",180,1855,557,89,1,9
+html body text table tbody tr td p span  ,"You might also be able to leverage a variety of operating system tools to help diagnose the problem. If the production machine is hitting 100% CPU utilization, you might leverage a tool such as glance to analyze the problem. Or, if you're experiencing thread contention or Java memory issues, you might leverage specific JVM tools to identify the bottleneck. Often, these techniques are too bottoms-up, making it difficult, if not impossible, to understand how any single component might impact the end user's experience.",180,1961,557,125,1,9
+html body text table tbody tr td p span  ,"If you're lucky, you may have had the opportunity to work with some simple management tools. Maybe you're leveraging the WebLogic administration console to get some application server statistics. Or, you might have even toyed with ARM, JMX, or Log4J. Even in these situations, the tools at your disposal often only provide part of the answer, and you are left to piece the puzzle together to resolve the problem.",180,2103,556,89,1,9
+html body text table tbody tr td p span  ,"Bottom line, many of the current approaches used to diagnose performance problems are often very time-intensive, requiring hours or days to diagnose. Many times, the problem isn't even related to the application. It could be a network issue or a database issue, but you've just wasted three days supporting the application instead of enhancing it.",180,2209,559,89,1,9
+html body text table tbody tr td div table tbody tr td h2 span  ,How can HP OpenView Transaction Analyzer (OVTA) help?,180,2315,556,53,1,14
+html body text table tbody tr td table tbody tr td div strong span  ,OVTA - Transaction level monitoring & analysis,190,2399,330,17,1,14
+html body text table tbody tr td table tbody tr td div span  ,Are my transactions flowing smoothly across tiers?,190,2417,329,17,1,13
+html body text table tbody tr td table tbody tr td div span  ,Where are the performance bottlenecks in my transactions?,190,2435,380,17,1,13
+html body text table tbody tr td table tbody tr td div strong span  ,OVTA-JD - Application/JVM/System Level Monitoring & Analysis,190,2753,457,17,1,14
+html body text table tbody tr td table tbody tr td div span  ,Is my application experiencing memory leaks?,190,2771,299,17,1,13
+html body text table tbody tr td table tbody tr td div span  ,Where are the source code level performance bottlenecks?,190,2789,374,17,1,13
+html body text table tbody tr td p span  ,"OVTA from HP helps you isolate application performance problems in your J2EE applications. Rather than spending the time adding those printf statements, stepping through your code, and trying to identify exactly where your performance bottleneck is occurring, you can now use a tool that can provide you with all kinds of information about your application's performance.",180,2833,558,89,1,9
+html body text table tbody tr td p span  ,"OVTA captures end-to-end transaction information and tells you if your transactions are flowing smoothly across the different application tiers, including the client, the web server, the app server and the database tiers. It will show you right down to the J2EE component, the location of the performance bottlenecks in a given transaction.",180,2939,560,71,1,9
+html body text table tbody tr td p span  ,"Now, we can all make mistakes in our code, especially if we're on a time crunch or are simply on a roll and hammering out code deep into the night. Once we have our code developed, how do we determine whether it contains a memory leak or a thread contention problem? Better still, how do we track the leak back to the source code and fix the issue? With the OVTA Java Diagnostics (JD) tool, we can quickly determine if our application is experiencing any memory leaks, and where any source code level performance bottlenecks are located.",180,3027,553,125,1,9
+html body text table tbody tr td p span  ,"Now you can do all of this in matter of minutes. Instead of spending a half-day stepping through various aspects of your code, trying to piece together the performance puzzle and making guesses on where the performance bottleneck might be, you can use OVTA to quickly diagnose the performance problems in your application.",180,3169,560,71,1,9
+html body text table tbody tr td div table tbody tr td h2 span  ,Demonstration: isolating performance problems with HP OVTA,180,3257,545,53,1,14
+html body text table tbody tr td table tbody tr td h4 span  ,Background,180,3341,84,17,1,13
+html body text table tbody tr td table tbody tr td p span  ,An application performance problem has been detected in HP OpenView Internet Services,180,3380,179,71,1,13
+html body text table tbody tr td table tbody tr td h4 span  ,Demonstration,180,3483,102,17,1,13
+html body text table tbody tr td table tbody tr td p span  ,Isolating the performance problem using HP OpenView Transaction Analyzer,180,3523,164,71,1,13
+html body text table tbody tr td p span  ,Let's take a look at how we can isolate an application performance problem in our application using OVTA.,180,3628,524,35,1,9
+html body text table tbody tr td p span  ,"In this particular scenario, an IT operator or the application owner is monitoring the application for availability and response time. They might be using a product such as HP OpenView Internet Service (OVIS) to monitor the application from end-to-end to determine overall availability and performance. Here, we see a screenshot of this product indicating that the response time of our application is not in an acceptable state. As the operator or support specialist does some quick root cause analysis, he finds that it is your application that isn't performing up to defined service levels. He contacts you immediately and asks you to look at a problem that is occurring with your application. He doesn't tell you much except that your application transaction response time rate is twice the accepted rate. So how are you going to solve this problem? Let's now take a look at this problem through the perspective of OVTA.",180,3680,558,197,1,9
+html body text table tbody tr td div table tbody tr td h2 span  ,A re-cap of OVTA,180,3894,186,26,1,14
+html body text table tbody tr td div h3 span  ,Key OVTA differentiators,180,3960,208,21,1,10
+html body text table tbody tr td ul li span  ,No source code changes required,220,4020,212,17,1,10
+html body text table tbody tr td ul li span  ,Data correlated end-to-end across application tiers,220,4038,322,17,1,10
+html body text table tbody tr td ul li span  ,Very low performance impact on production systems,220,4056,339,17,1,10
+html body text table tbody tr td ul li span  ,"Integrated SLA monitoring, reporting, and alarming",220,4074,332,17,1,10
+html body text table tbody tr td ul li span  ,Closes the loop between operations and development,220,4092,340,17,1,10
+html body text table tbody tr td div h3 span  ,Extended application and platform support,180,4129,347,21,1,10
+html body text table tbody tr td ul li span  ,"HP-UX, Solaris, Windows, Linux, and Itanium",220,4190,301,17,1,10
+html body text table tbody tr td ul li span  ,".NET, J2EE, and web services support",220,4208,245,17,1,10
+html body text table tbody tr td ul li span  ,"Supports WebLogic Portal, JMS and Struts",220,4226,275,17,1,10
+html body text table tbody tr td ul li span  ,JMX metrics to monitor WebLogic Server health,220,4244,313,17,1,10
+html body text table tbody tr td p span  ,"In the demonstration, transaction data was correlated across all of the application tiers. This is particularly important when you are trying to assess the exact component causing the bottleneck, including network or database issues that are beyond your control. This can cut the diagnostic time down to just minutes so that you can quickly address the problem.",180,4278,554,89,1,9
+html body text table tbody tr td p span  ,"HP also offers OVTA Java Diagnostics, a profiling tool that allows you to perform application level analysis on running J2EE applications. The tool enables operations staff and developers to work together effectively in diagnosing performance bottlenecks, helping to diagnose memory leaks, source code performance problems, and other JVM issues.",180,4384,539,89,1,9
+html body text table tbody tr td p span  ,"Additionally, the impact of having OVTA monitoring and tracking the performance of your application is very low. At a high level, the product provides sufficient data to monitor the application with negligible overhead. You can also tune the amount of trace information captured when performing diagnostics. And even then, the overhead can be controlled to stay at very acceptable ranges while the problem is assessed.",180,4490,551,89,1,9
+html body text table tbody tr td p span  ,"OVTA offers broad platform and application support, supporting HP-UX, Solaris, Windows, and Linux, and is capable of supporting both J2EE and .NET platforms. The product is optimized to support the WebLogic platform. Additionally, the product leverages JMX technology to monitor and assess the overall health of the WebLogic server. Metrics such as JVM memory utilization can be used to correlate the health of the server with the performance of your application.",180,4596,556,107,1,9
+html body text table tbody tr td div table tbody tr td h2 span  ,Moving beyond performance management,180,4720,435,26,1,14
+html body text table tbody tr td div h3 span  ,Why is designing for manageability important?,180,4785,377,21,1,10
+html body text table tbody tr td ul li span  ,Ensures high degree of application availability,220,4846,298,17,1,10
+html body text table tbody tr td ul li span  ,Minimizes support demands on the developer,220,4864,292,17,1,10
+html body text table tbody tr td ul li span  ,Enables tighter linkage between business and IT,220,4882,309,17,1,10
+html body text table tbody tr td div h3 span  ,What can you rely on for manageability?,180,4919,327,21,1,10
+html body text table tbody tr td ul li span  ,"Most J2EE platforms, including WebLogic, support JMX",220,4980,366,17,1,10
+html body text table tbody tr td ul li span  ,HP OpenView can monitor JMX-enabled applications,220,4998,345,17,1,10
+html body text table tbody tr td div h3 span  ,What role can you play in manageability?,180,5034,333,21,1,10
+html body text table tbody tr td ul li span  ,Determine requirements for application manageability,220,5095,347,17,1,10
+html body text table tbody tr td ul li span  ,"Select the right management technology (Log4J, JMX)",220,5113,352,17,1,10
+html body text table tbody tr td ul li span  ,"Instrument the application, if required",220,5131,243,17,1,10
+html body text table tbody tr td p span  ,We have just looked at a way to diagnose J2EE application performance problems using OVTA. One way to deal with these issues is to have the right sets of tools on hand to diagnose problems when they occur.,180,5165,529,53,1,9
+html body text table tbody tr td p span  ,"But, what if you could design your application in such a way that it contains sufficient information to be better managed in operations? Today, operations relies on the developer because the information available to them is not sufficient to handle the problem themselves. If you can make your applications more ""management aware"", you can hopefully minimize the demands IT support places on you.",180,5235,552,89,1,9
+html body text table tbody tr td p span  ,"Additionally, designing applications with ""management in mind"" has some clear benefits to your organization. With the right set of management interfaces exposed by an application, and operator can ensure a higher degree of application availability. Manageable application can also be made more flexible and adaptive in production.",180,5341,548,71,1,9
+html body text table tbody tr td p span  ,"What can you do to make applications more manageable? The good news is that many application platforms today provide some amount management out-of-the-box. Almost all J2EE platforms, including WebLogic, expose management interfaces for the platform in the form of JMX MBeans. These interfaces can then leveraged by management systems such as HP OpenView.",180,5429,556,89,1,9
+html body text table tbody tr td p span  ,"In some cases, platform-level management is not sufficient to effectively manage an application in production. Some amount of work might be required by the developer up-front to expose application-level management interfaces.",180,5535,540,53,1,9
+html body text table tbody tr td div table tbody tr td h2 span  ,Application management solutions with HP OpenView and BEA,180,5605,557,53,1,14
+html body text table tbody tr td div span  ,HP OpenView is a BEA preferred priority choice management partner,180,5679,449,17,1,9
+html body text table tbody tr td strong span  ,HP OpenView Internet Services,180,5707,217,17,1,9
+html body text table tbody tr td ul li span  ,Provides a view of the customer experience,220,5741,279,17,1,10
+html body text table tbody tr td ul li span  ,Monitors end-to-end performance and availability,220,5759,320,17,1,10
+html body text table tbody tr td ul li span  ,Supports applications deployed on the BEA platform,220,5777,339,17,1,10
+html body text table tbody tr td ul li span  ,Monitors discrete protocols within J2EE or .NET,220,5795,315,17,1,10
+html body text table tbody tr td strong span  ,HP OpenView Transaction Analyzer,180,5829,247,17,1,9
+html body text table tbody tr td ul li span  ,Drill-down into applications,220,5863,181,17,1,10
+html body text table tbody tr td ul li span  ,Root-cause analysis,220,5881,128,17,1,10
+html body text table tbody tr td ul li span  ,Eliminate performance bottlenecks,220,5899,224,17,1,10
+html body text table tbody tr td ul li span  ,Component-level diagnostics,220,5917,187,17,1,10
+html body text table tbody tr td ul li span  ,Supports BEA WLS and Portal,220,5935,199,17,1,10
+html body text table tbody tr td strong span  ,HP OpenView Operations + Smart Plugs-ins,180,5969,303,17,1,9
+html body text table tbody tr td ul li span  ,Proactively monitor and manage IT environment,220,6003,312,17,1,10
+html body text table tbody tr td ul li span  ,Determine service impacts through service views,220,6021,315,17,1,10
+html body text table tbody tr td ul li span  ,Supports applications running on WLS or WLI,220,6039,301,17,1,10
+html body text table tbody tr td ul li span  ,Extensible through custom JMX MBeans,220,6057,265,17,1,10
+html body text table tbody tr td p span  ,"Your application may be developed in isolation, but it probably won't run in isolation. There are dependencies on the application server, the database, and other IT infrastructure components. This larger ""management ecosystem"" requires the right level of manageability at all layers, and you play an important role here.",180,6091,548,71,1,9
+html body text table tbody tr td p span  ,"The HP OpenView Application Management Solution allows an application owner to comprehensively monitor their business-critical application environment. OVTA provides the insight into the application itself by drilling down to the component or method level, enabling you to quickly find the source of performance bottlenecks. OpenView Internet Services provides a view of the customer experience by monitoring the end-to-end performance and availability of your applications. Additionally, HP offers a set of Rapid Implementation Services which can help you rapidly install and configure OVIS and OVTA in as little as 5 days. HP OpenView Operations provides the ability to map and proactively monitor the underlying infrastructure that supports applications deployed on WebLogic Server or WebLogic Integration.",180,6179,558,179,1,9
+html body text table tbody tr td p span  ,"Obviously, HP can't do this alone. BEA and HP have teamed up to provide you with management solutions that ensure a high degree of stability, efficiency, and agility for the WebLogic platform. HP OpenView is already supporting WLS, WLI, and WLP to varying degrees. As a BEA preferred and priority management partner, HP is committed to further enhancing these management solutions with more robust and unique management capabilities moving forward.",180,6375,549,107,1,9
+html body text table tbody tr td div table tbody tr td h2 span  ,Call to action,180,6499,137,26,1,14
+html body text table tbody tr td p span  ,There are some important next steps you can take to learn more about HP's application management solutions. You can download an evaluation copy of OVTA at the HP Management Software URL listed on this page. It is very easy to install and configure to run against your own applications.,180,6562,555,71,1,9
+html body text table tbody tr td p span  ,"For those of you that are considering application manageability through JMX, you are highly encouraged to visit our HP Developer Resource Central site. This site provides you with a variety of white papers, code samples, and developer tutorials on JMX. One of the tutorials shows how a BEA WebLogic sample application can be instrumented using JMX. Once you're done with this tutorial, you will have the foundation to be able to instrument your own existing applications.",180,6650,559,107,1,9
+html body text table tbody tr td p span  ,"To learn more about HP OpenView and BEA application management solutions, visit the OpenView/BEA web site. You will find that together, BEA and HP OpenView offer you more control and agility, resulting in a greater competitive edge. And finally, don't forget to stop by our booth and take a closer look at OVTA and other HP OpenView management solutions.",180,6774,557,89,1,9
+html body text table tbody tr td div strong span  ,Try out HP OpenView Transaction Analyzer,180,6880,302,17,0,10
+html body text table tbody tr td div span span  ,�,180,6899,20,17,0,10
+html body text table tbody tr td div a span  ,Download,200,6899,67,17,0,10
+html body text table tbody tr td div strong span  ,Gain some experience with JMX technology,180,6927,300,17,0,10
+html body text table tbody tr td div span span  ,�,180,6946,20,17,0,10
+html body text table tbody tr td div a span  ,Visit HP Dev Resource Central,200,6946,199,17,0,10
+html body text table tbody tr td div strong span  ,Complete developer tutorials on JMX,180,6974,257,17,0,10
+html body text table tbody tr td div span span  ,�,180,6993,20,17,0,10
+html body text table tbody tr td div a span  ,Learn more about HP OpenView and BEA application management solutions,200,6993,495,17,0,10
+html body text table tbody tr td div strong span  ,Find more developer events,180,7021,188,17,0,10
+html body text table tbody tr td div span span  ,�,180,7040,20,17,0,10
+html body text table tbody tr td div a span  ,Events,200,7040,44,17,0,10
+html body text table tbody tr td table tbody tr td a span  ,Printable version,42,7040,109,17,0,13
+html body text table tbody tr td a span  ,Privacy statement,13,7095,114,17,0,9
+html body text table tbody tr td a span  ,Using this site means you accept its terms,148,7086,210,35,0,9
+html body text table tbody tr td a span  ,Trademark acknowledgment,394,7086,109,35,0,9
+html body text table tbody tr td a span  ,Feedback to Dev Resource Central,550,7086,171,35,0,9
+html body text table tbody tr td span  ,"� 2006 Hewlett-Packard Development Company, L.P.",194,7127,352,17,0,8

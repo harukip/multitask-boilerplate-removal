@@ -1,0 +1,105 @@
+tag,content,x,y,width,height,label,depth
+html body text table tbody tr td font a font span  ,HOME,11,81,51,17,0,11
+html body text table tbody tr td font font font a font span  ,PRODUCTS,62,81,87,17,0,13
+html body text table tbody tr td font font font font a font span  ,ANNUITIES,149,81,89,17,0,14
+html body text table tbody tr td font font a font span  ,FORMS,238,81,58,17,0,12
+html body text table tbody tr td font font a font span  ,NEWSLETTER,296,81,109,17,0,12
+html body text table tbody tr td font font a font span  ,COMPANY,405,81,79,17,0,12
+html body text table tbody tr td a span  ,Home,19,104,43,17,0,9
+html body text table tbody tr td span  ,> Products >,62,104,86,17,0,8
+html body text table tbody tr td a span  ,Newsletter - Imploding UL's,148,104,184,17,0,9
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,TheUSBroker Home,10,132,133,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td div a font b span  ,Annuity Rate & Commission Info,10,153,117,35,0,20
+html body text table tbody tr td table tbody tr td table tbody tr td b span  ,Products,10,190,61,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,MoneyGuard - UL & LTC,10,210,169,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Allianz Life LTCi,10,230,115,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Refund Term - ROP,10,250,129,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Life Settlements,10,270,105,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Americo Mort Protection,10,290,162,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Senior Protection Life,10,310,142,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Lincoln PRO,10,329,89,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a i span  ,Term,98,329,32,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Lincoln GTO Term,10,349,128,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td font span  ,:,137,354,5,11,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td font font span  ,E-Ticket,142,354,35,11,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,AIG Horizon Fixed Annuities,10,369,125,35,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Chase Insurance Life,10,405,136,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,VA Recovery Program,10,424,149,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td font span  ,NEW,158,429,22,11,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span a b span  ,Annuity Appointment Grid,10,443,150,35,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td span a span  ,SPIAs,10,480,45,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td span font span  ,-,54,485,6,11,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td span font font span  ,hot products!,60,485,53,11,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Aviva Life -,10,500,82,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a font span  ,Top Annuities,91,500,90,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Allianz Life Equity Indexed Annuities,10,519,124,35,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Allianz Life Annuities,10,555,143,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,F&G Life Loyalty Rewards,10,574,117,35,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a font span  ,-,69,597,6,11,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td a font font span  ,12% Bonus & 8% comp,75,597,97,11,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,BonusDex Elite,10,611,102,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,AIG UltraMYG Deferred Annuity,10,630,164,35,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a b span  ,USFMG Annuity Search Engine & Forms,10,666,168,35,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,High Net Worth Clients,10,703,152,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td b span  ,Services,10,723,56,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Lead Generation Services,10,743,165,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Broker Product Kits,10,763,129,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a font b span  ,Licensing & Applications,10,783,172,17,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Insurance Web Links,10,803,135,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Tax Advice: Bean Counter,10,823,170,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td b span  ,Newsletter,10,843,73,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Current Newsletter,10,863,122,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Archived Newsletters,10,883,139,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td b span  ,Company,10,904,67,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,About Us,10,924,62,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Management Team,10,944,123,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Contact Info,10,964,80,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td strong span  ,Imploding UL's - A Big Problem and Big Opportunity for Whole Life,206,138,368,35,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,By:,206,195,27,17,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td i span  ,"Ted Kowal,",233,195,76,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,jtkowal@ftlife.com,309,195,126,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,Farmers and Traders Life Insurance Company of New York,206,213,346,35,1,16
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,see our current BeanCounter CPA info,206,275,246,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td ul li a span  ,How to Avoid Tax Time Problems,246,309,218,17,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td ul li a span  ,Tax Swaps & Exchanges (Code Sec. 1031 & 1035),246,327,327,17,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td ul li a span  ,Irrevocable Election of IRAs (Code Sec. 2039),246,345,301,17,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td ul li a span  ,IRS Adds New Private Debt Collectors,246,363,250,17,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td ul li a span  ,New 401(k) Investment Option,246,381,200,17,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td ul li a span  ,Social Security Number Verification Process,246,399,286,17,0,19
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,The following Case study is an actual case with the names changed for privacy compliance.,206,451,328,35,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Robert, a well respected agent with over thirty-five years in the business and twenty years with Farmers and Traders, had a very worrisome problem. In the late 1980’s he placed a $500,000 Universal Life Policy with another quality company on one of his best client’s, George. George was in his 40’s at the time and owned a very successful business. Robert had also placed $1,000,000 in term on George. The UL policy performed well in the interest rate environment of the time. It was so successful that based upon illustrations, George stopped making premium payments and the cash values still grew.",206,503,370,197,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Fifteen years later, George, who continued to prosper, went to one of the leading Estate Planning Attorneys in town. The lawyer invited Robert to participate in the planning and coordinate any insurance changes if needed. Robert asked for re-proposals on George’s UL policy. Much to his chagrin the NAIC re-proposal showed that, despite the fact that there was still $180,000 in cash in the policy, the values were decreasing and the policy would run out of cash when George was in his 70’s. The combination of George’s age and the low UL interest rates of recent years had created this situation. Paying additional premiums was an option, but not very attractive to George. A 1035 exchange to a no lapse UL was a possibility, but that would basically tie up that cash from any other use. The attorney had recommended that George create an Irrevocable Life Insurance Trust (ILET) as part of a comprehensive estate plan. In addition to the $500,000 of permanent insurance on George’s life, the plan called for a $1,500,000 second to die policy in the trust. The attorney tossed the problem of how to fund this plan to Robert. The client feels he has paid enough life insurance premiums. What does Robert do now?",206,717,371,395,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Robert called Farmers and Traders to see if we could help. After some thought, the best answer appeared to be a 1035 Exchange of the UL to a Whole Life Policy. Whole life in general is a good answer for imploding UL policies, particularly on older clients, because the mortality charge is fixed and does not go up as the client gets older. Farmers and Traders, like some other whole life carriers, also has a “Paid-Up Additions” rider on our Whole Life policies that allows for deposits of cash into Whole Life policies, just like deposits into Universal life policies.",206,1129,364,197,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"We prepared a proposal to replace the UL with a Whole Life policy. We did not use just any policy, but selected our Flagship Life II, which is a high premium, high cash value product. It is a Life Paid up at age 85 policy. The base policy applied for was only $250,000, but with the additional death benefit purchased with the $180,000 dump in, it brought the total death benefit of the policy over the $500,000 mark which allowed for a legal 1035 Exchange. Based upon current dividend projections, no additional premiums were necessary. In addition the cash value seemed to increase at an impressive rate, so seeing this fact we tried one additional step.",206,1343,366,215,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"The premium on the Second-to-Die policy from another carrier was $7,200, so we illustrated that amount of premium coming out of the policy also. The withdrawals for that policy ran to age 100. We even showed the dividend at 75% of current projections and the policy sill supported itself and the Second-to-Die premium until George was in his late 80’s.",206,1575,365,125,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"The framework of the Estate Plan was now set. George applied for the Flagship II policy and once approved the existing UL policy was surrendered under IRC Sec. 1035 to the new policy. The new policy was then transferred to the newly created trust (ILIT). The only risk item was the gifting of the policy to the ILIT, but that was better then just cashing in the UL and paying tax. At Robert’s request, George’s attorney wrote a disclosure letter stating that if George died within three years the policy proceeds would be brought back into the estate for estate tax purposes. Since George was in good health that was deemed an acceptable risk. The Trustee of the ILET applied for the Second-to-Die policy. Once that was approved and issued the procedure was set up for the Trustee to withdraw the amount of the Second-to-Die premium every year.",206,1717,368,287,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Robert advised (in writing) George, his attorney, and the Trustee that the future dividend and interest rate performance of both policies in the trust should be reviewed every few years to see if the plan would perform. The ultimate resolution of the Estate Tax may also change things.",206,2021,361,107,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Robert felt relieved that a serious potential problem (and E&O claim) had not only been avoided, but that things had sorted out into an extremely successful estate plan. Additional commissions on the two new policies were just icing on the cake. Despite all the new things that come down the road in our industry, going back to one of the earliest building blocks in insurance, the Whole Life Policy, can still solve modern problems that newer products cannot.",206,2145,367,161,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,TheUSBroker Representative,206,2323,201,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Van Albanese, CLU, ChFC",206,2341,174,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,877-341-3342 ph,206,2359,111,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,315-655-4784 fax,206,2377,115,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,valbanese@theusbroker.com,206,2395,184,17,0,18
+html body text table tbody tr td table tbody tr td b span  ,Email Newsletter,598,130,118,17,0,13
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,Subscribe to TheUSBroker newsletter to be updated monthly on industry trends and new products.,598,154,160,89,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td form span  ,E-mail:,598,254,48,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td form span  ,Name:,598,272,43,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td form a span  ,Privacy Policy,598,308,94,17,0,18
+html body text table tbody tr td table tbody tr td b span  ,Contracting,598,347,83,17,0,13
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,TheUSBroker provides instant access and full-service capabilities for contracting and future policy utilization. To find out more information complete our online,598,371,163,125,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,form,598,497,35,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td span  ,and one of our agents will contact you.,598,497,152,35,0,16
+html body text table tbody tr td table tbody tr td b span  ,Archived Newsletters,602,538,146,17,0,13
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Long Term Care Annuity: A Marriage of Two Good Ideas,598,562,151,53,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Successful Marketing with MoneyGuard's Long Term Care Life,598,626,139,53,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,MEC/Annuity Alternative - Expanded Inheritance,598,690,149,53,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,MoneyGuard Alternative - Medically Underwritten Immediate Annuity,598,754,160,71,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Long-Term Care - The Brave New World Approaches,598,836,145,53,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,MEC - A Wealth Transfer Product For The Senior Market,598,900,162,53,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Brave New World of Long Term Care Life,598,964,136,35,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Senior Settlements - Sell Your Life Insurance,598,1010,159,35,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td a span  ,Term Wars - Agents Fight Back with Refund Term,598,1056,154,53,0,17
+html body text table tbody tr td span  ,"© 2006 TheUSBroker, All Rights Reserved",249,2495,278,17,0,8
+html body text table tbody tr td a span  ,Contact Info,295,2513,85,17,0,9
+html body text table tbody tr td span  ,|,380,2513,7,17,0,8
+html body text table tbody tr td a span  ,Privacy Policy,387,2513,94,17,0,9

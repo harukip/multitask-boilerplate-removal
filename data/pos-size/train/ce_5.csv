@@ -1,0 +1,501 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Lancaster Data Entry Jobs on CareerBuilder.com,0,0,753,18,0,6
+html body text div ul li div a span  ,Already Registered? Sign In >>,40,0,204,17,0,9
+html body text div div div ul li a b span  ,Employers:,40,34,79,17,0,11
+html body text div div div ul li ul li a span  ,Search Resumes,80,52,105,17,0,12
+html body text div div div ul li ul li a span  ,Post Jobs,80,70,60,17,0,12
+html body text div div div ul li ul li a span  ,Advice,80,88,46,17,0,12
+html body text div div div ul li span strong span  ,Job Seekers:,40,156,87,17,0,11
+html body text div div div ul li a span  ,Home,40,174,39,17,0,10
+html body text div div div ul li a span  ,My CareerBuilder,40,192,117,17,0,10
+html body text div div div ul li a span  ,Find Jobs,40,210,62,17,0,10
+html body text div div div ul li a span  ,Job Recommendations,40,228,145,17,0,10
+html body text div div div ul li a span  ,Post Resumes,40,246,89,17,0,10
+html body text div div div ul li a span  ,Job Alerts,40,264,64,17,0,10
+html body text div div div ul li a span  ,Advice & Resources,40,282,132,17,0,10
+html body text div div div ul li ul li a span  ,Advice & Resources,80,300,132,17,0,12
+html body text div div div ul li ul li a span  ,Career Resources,100,320,112,17,0,12
+html body text div div div ul li ul li a span  ,Career Fairs,100,340,79,17,0,12
+html body text div div div ul li ul li a span  ,Job Seeker Toolkit,100,360,119,17,0,12
+html body text div div div ul li ul li a span  ,Career Advice,100,380,92,17,0,12
+html body text div div div ul li ul li a span  ,CB Bookstore,100,400,91,17,0,12
+html body text div div div ul li ul li a span  ,Salary Calculator,100,420,112,17,0,12
+html body text div div span div table tbody tr td table tbody tr td p b span  ,Location:,6,478,70,17,0,18
+html body text div div span div table tbody tr td table tbody tr td p a span  ,Admin & Clerical,76,478,119,17,0,18
+html body text div div span div table tbody tr td table tbody tr td p span  ,:,195,478,9,17,0,17
+html body text div div span div table tbody tr td table tbody tr td p a span  ,Data Entry,204,478,74,17,0,18
+html body text div div span div table tbody tr td table tbody tr td p span  ,:,278,478,8,17,0,17
+html body text div div span div table tbody tr td table tbody tr td p a span  ,Pennsylvania,286,478,89,17,0,18
+html body text div div span div table tbody tr td table tbody tr td p span  ,:,375,478,9,17,0,17
+html body text div div span div table tbody tr td table tbody tr td p a span  ,Lancaster,384,478,66,17,0,18
+html body text div div span div table tbody tr td table tbody tr td p span  ,: Search Results,450,478,103,17,0,17
+html body text div div span div table tbody tr td table tbody tr td div div div div div p span  ,Sign In,24,533,47,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div div div div div span  ,Email Address or Password is Invalid,10,567,240,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div div div div div div span  ,The feature you requested is only available to members. Please sign in to continue...,6,583,538,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div div div div div a span  ,New user? Register here,6,599,157,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div div div div div b span  ,Email Address:,6,617,105,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div div div div div b span  ,Password:,6,653,71,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div div div div div a span  ,Forgot Password?,6,689,115,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div div div div div label span  ,Automatically sign me in next time.,6,712,146,11,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div div div div div a span  ,What's this?,152,707,78,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div div div p span  ,Sorry!,24,741,41,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div div div span  ,"You must be logged in to use this feature, but Login is currently unavailable while we perform necessary maintenance. Please try again later.",6,775,670,35,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div div p span  ,Authorizing...,23,845,89,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div div div span  ,Thanks for your patience - we'll be done shortly.,6,879,310,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div div p span  ,Save Search,24,987,79,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div div div div span  ,Sign in Successful!,10,1021,124,17,0,23
+html body text div div span div table tbody tr td table tbody tr td div div div div div div span  ,Name your search:,6,1039,121,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div div div span  ,Select your Job Alert email frequency:,6,1093,247,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div div div select option  ,No Job Alert,0,0,0,0,0,23
+html body text div div span div table tbody tr td table tbody tr td div div div div div div select option  ,Daily,0,0,0,0,0,23
+html body text div div span div table tbody tr td table tbody tr td div div div div div div select option  ,Monday only,0,0,0,0,0,23
+html body text div div span div table tbody tr td table tbody tr td div div div div div div select option  ,Tuesday only,0,0,0,0,0,23
+html body text div div span div table tbody tr td table tbody tr td div div div div div div select option  ,Wednesday only,0,0,0,0,0,23
+html body text div div span div table tbody tr td table tbody tr td div div div div div div select option  ,Thursday only,0,0,0,0,0,23
+html body text div div span div table tbody tr td table tbody tr td div div div div div div select option  ,Friday only,0,0,0,0,0,23
+html body text div div span div table tbody tr td table tbody tr td div div div div div div select option  ,Saturday only,0,0,0,0,0,23
+html body text div div span div table tbody tr td table tbody tr td div div div div div div select option  ,Sunday only,0,0,0,0,0,23
+html body text div div span div table tbody tr td table tbody tr td div div div div div p span  ,Save Search - Alert!,26,1147,129,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div div div span span  ,"You have the maximum number of Saved Searches. Before you can save this new search, you need to delete one of your other searches.",6,1182,652,14,0,23
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table thead tr th span  ,Your Searches,22,1197,60,35,0,26
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table thead tr th span  ,Job Alert,118,1215,64,17,0,26
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table tbody tr td span  ,ASP.NET,9,1234,63,17,0,26
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table tbody tr td span  ,Tuesday,99,1234,54,17,0,26
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table tbody tr td a span  ,Delete,156,1234,41,17,0,27
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table tbody tr td span  ,ASP.NET,9,1253,63,17,0,26
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table tbody tr td span  ,Tuesday,99,1253,54,17,0,26
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table tbody tr td a span  ,Delete,156,1253,41,17,0,27
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table tbody tr td span  ,ASP.NET,9,1272,63,17,0,26
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table tbody tr td span  ,Tuesday,99,1272,54,17,0,26
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table tbody tr td a span  ,Delete,156,1272,41,17,0,27
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table tbody tr td span  ,ASP.NET,9,1291,63,17,0,26
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table tbody tr td span  ,Tuesday,99,1291,54,17,0,26
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table tbody tr td a span  ,Delete,156,1291,41,17,0,27
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table tbody tr td span  ,ASP.NET,9,1310,63,17,0,26
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table tbody tr td span  ,Tuesday,99,1310,54,17,0,26
+html body text div div span div table tbody tr td table tbody tr td div div div div div div table tbody tr td a span  ,Delete,156,1310,41,17,0,27
+html body text div div span div table tbody tr td table tbody tr td div div div div div p span  ,Search Saved,24,1348,87,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div div div span  ,Your search has been saved.,6,1382,184,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div div div a span  ,View your saved searches in My CareerBuilder.,190,1382,306,17,0,23
+html body text div div span div table tbody tr td table tbody tr td div div div div div p span  ,Saving this search...,24,1434,128,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div div div span  ,Thanks for your patience - we'll be done shortly.,6,1468,310,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div div p span  ,Sorry!,24,1576,41,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div div div span  ,Saved Search is currently unavailable. Please try again later.,6,1610,386,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div a span  ,Save this search,6,1646,107,17,0,19
+html body text div div span div table tbody tr td table tbody tr td div div a span  ,View saved jobs,113,1646,105,17,0,19
+html body text div div span div table tbody tr td table tbody tr td div h1 span  ,23 Admin & Clerical - Data Entry jobs,6,1664,529,36,0,18
+html body text div div span div table tbody tr td table tbody tr td div form span  ,found within,6,1701,183,36,0,18
+html body text div div span div table tbody tr td table tbody tr td div form select option  ,5 miles,0,0,0,0,0,19
+html body text div div span div table tbody tr td table tbody tr td div form select option  ,10 miles,0,0,0,0,0,19
+html body text div div span div table tbody tr td table tbody tr td div form select option  ,20 miles,0,0,0,0,0,19
+html body text div div span div table tbody tr td table tbody tr td div form select option  ,30 miles,0,0,0,0,0,19
+html body text div div span div table tbody tr td table tbody tr td div form select option  ,50 miles,0,0,0,0,0,19
+html body text div div span div table tbody tr td table tbody tr td div form span  ,"of Lancaster, Pennsylvania",269,1701,366,36,0,18
+html body text div div span div table tbody tr td table tbody tr td div span  ,[,6,1770,9,17,0,17
+html body text div div span div table tbody tr td table tbody tr td div a span  ,Modify this Search,15,1770,127,17,0,18
+html body text div div span div table tbody tr td table tbody tr td div span  ,],142,1770,5,17,0,17
+html body text div div span div table tbody tr td table tbody tr td div ul li a span  ,Search Again,46,1804,86,17,0,20
+html body text div div span div table tbody tr td table tbody tr td div ul li a span  ,Advanced Search,46,1822,112,17,0,20
+html body text div div span div table tbody tr td table tbody tr td div div div form div label span  ,Keywords:,6,1856,70,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div form div label span  ,Location:,6,1874,61,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div form div label span  ,Posted within:,6,1892,96,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div form div select option  ,Last 30 Days,0,0,0,0,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div form div select option  ,Last 7 Days,0,0,0,0,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div form div select option  ,Last 3 Days,0,0,0,0,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div form div select option  ,Last 24 Hours,0,0,0,0,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div h2 span  ,Narrow Search,6,1931,156,26,0,20
+html body text div div span div table tbody tr td table tbody tr td div div div ul li strong span  ,Category:,46,1978,68,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Admin & Clerical (23),86,1996,146,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Customer Service (13),86,2014,145,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Facilities (3),86,2032,81,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Other (2),86,2050,59,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Health Care (2),86,2068,100,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,General Business (1),86,2086,134,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Human Resources (1),86,2104,140,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Sales (1),86,2122,56,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Skilled Labor - Trades (1),86,2140,166,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Business Development (1),86,2158,170,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Strategy - Planning (1),86,2176,146,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Nurse (1),86,2194,61,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Business Opportunity (1),86,2212,162,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li strong span  ,Company:,46,2230,72,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Reading Hospital and... (3),86,2248,173,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Aerotek Professional... (2),86,2266,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,CareersUSA (2),86,2284,103,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Integrity Staffing... (2),86,2302,145,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,confidential (1),86,2320,99,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Westfield Insurance (1),86,2338,150,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,WellSpan Health (1),86,2356,131,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,TempStar Staffing (1),86,2374,140,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Schaller Anderson (1),86,2392,140,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,SHS Staffing Solutions (1),86,2410,172,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Raymour & Flanigan (1),86,2428,159,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,OfficeTeam (1),86,2446,99,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,JPMorgan Chase (1),86,2464,131,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,International Reading... (1),86,2482,174,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Home Business Solutions (1),86,2500,187,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,CNA Insurance (1),86,2518,122,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Allied Barton Security... (1),86,2536,178,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li strong span  ,City:,46,2554,35,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Newark (8),86,2572,73,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Reading (7),86,2590,76,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,York (4),86,2608,54,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Coatesville (1),86,2626,95,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Lancaster (1),86,2644,85,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Lebanon (1),86,2662,79,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Mesa (1),86,2680,57,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li strong span  ,State:,46,2698,40,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Pennsylvania (14),86,2716,116,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Delaware (8),86,2734,84,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div div ul li ul li a span  ,Arizona (1),86,2752,74,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div label span  ,Keyword(s):,6,2786,81,17,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div label span  ,Use:,6,2822,33,17,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,All of these words,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,Any of these words,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div label span  ,Location(s):,6,2841,82,17,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div span  ,(Enter up to 3),88,2841,94,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div label span  ,Include Jobs Within:,6,2895,132,17,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,5 miles,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,10 miles,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,20 miles,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,30 miles,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,50 miles,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div span  ,of these locations,6,2932,112,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div label span  ,Jobs Posted Within:,6,2950,127,17,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,Last 30 Days,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,Last 7 Days,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,Last 3 Days,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,Last 24 hours,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div label span  ,Job Type:,6,2987,62,17,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,- Select a Job Type -,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,Admin,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,Administrative Assistant,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,Clerical,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,Clerk,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,Contracts Administration,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,Data Entry,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,Executive Assistant,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,Office Manager,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,Receptionist,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div label span  ,Degree:,6,3042,51,17,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,Not Specified,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,None,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,High School,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,2 Year Degree,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,4 Year Degree,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,Graduate Degree,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div label span  ,Include all lower degrees,6,3079,161,17,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div label span  ,Employment Type:,6,3097,123,17,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div span  ,Full time,6,3115,62,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div span  ,Contractor,68,3115,69,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div span  ,Part time,6,3133,62,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div span  ,Intern,68,3133,38,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div label span  ,Salary Range:,6,3151,90,17,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,$0,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$10,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$20,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$30,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$40,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$50,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$60,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$70,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$80,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$90,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$100,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$110,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$120,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"> $120,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div span  ,to,100,3169,16,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,$0,0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$10,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$20,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$30,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$40,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$50,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$60,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$70,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$80,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$90,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$100,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$110,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"$120,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div select option  ,"> $120,000",0,0,0,0,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div span  ,Exclude Criteria,6,3188,105,17,0,23
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div label span  ,Exclude Keyword(s):,6,3206,137,17,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div label span  ,Exclude Job Title:,6,3224,116,17,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div label span  ,Exclude Company:,6,3242,123,17,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div label span  ,Exclude national and regional jobs,6,3260,222,17,0,25
+html body text div div span div table tbody tr td table tbody tr td div div form div div div div div label span  ,Exclude jobs that don't include salary information,6,3278,319,17,0,25
+html body text div div span div table tbody tr td table tbody tr td center a span  ,Find Salary Information for these Jobs >>,264,3331,269,17,0,18
+html body text div div span div table tbody tr td table tbody tr td div div div div span span  ,E-mail this job to a friend... Or yourself!,62,3359,264,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div div div div span span  ,Sending...,326,3359,68,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div div div div span span  ,This job was successfully e-mailed.,394,3359,232,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div div div div span span  ,Error. Please check that the e-mails are valid.,6,3359,743,35,0,21
+html body text div div span div table tbody tr td table tbody tr td div div div div span span  ,An unknown error has occurred. Please try again later.,171,3377,349,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div div div div form div span span  ,From (your e-mail),6,3395,128,17,0,23
+html body text div div span div table tbody tr td table tbody tr td div div div div form div span  ,:,134,3395,4,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div form div span span  ,To (recipient's e-mail),6,3413,145,17,0,23
+html body text div div span div table tbody tr td table tbody tr td div div div div form div span  ,:,151,3413,5,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div form div span span  ,Your name,6,3431,74,17,0,23
+html body text div div span div table tbody tr td table tbody tr td div div div div form div span  ,:,80,3431,4,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div form div span span  ,Notes,6,3449,41,17,0,23
+html body text div div span div table tbody tr td table tbody tr td div div div div form div span  ,:,47,3449,5,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div div div div span  ,Sort by,6,3523,51,17,0,20
+html body text div div span div table tbody tr td table tbody tr td div div div div select option  ,Relevancy,0,0,0,0,0,21
+html body text div div span div table tbody tr td table tbody tr td div div div div select option  ,Date,0,0,0,0,0,21
+html body text div div span div table tbody tr td table tbody tr td div div div div select option  ,Title,0,0,0,0,0,21
+html body text div div span div table tbody tr td table tbody tr td div div div div select option  ,Company,0,0,0,0,0,21
+html body text div div span div table tbody tr td table tbody tr td div div div div select option  ,Location,0,0,0,0,0,21
+html body text div div span div table tbody tr td table tbody tr td div div div div span  ,Search Results,6,3542,95,17,0,20
+html body text div div span div table tbody tr td table tbody tr td div div div div span span  ,Page 1 of 1 | Jump to page,6,3560,173,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div div div div span select option  ,1,0,0,0,0,0,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr th span a span  ,Job Title / Description,109,3580,156,17,1,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr th span  ,(,265,3580,9,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr th a span  ,show titles only,274,3580,109,17,0,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr th span  ,),383,3580,6,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr th span a span  ,Company,523,3580,66,17,1,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr th span a span  ,Location,634,3580,60,17,1,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr th span a span  ,Posted,710,3580,46,17,1,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,T-OT-Administrative Assistant,7,3600,197,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Contractor | Pay: $0.00 - $10.00/hour,7,3618,301,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Classification: Temporary Compensation: Pay up to $10.00 per hour Local CPA firm is seeking a qualified Administrative Assistant. The ideal candidate...,7,3636,478,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,3690,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,3690,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,3690,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,OfficeTeam,493,3645,79,17,0,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,PA - READING,621,3636,72,35,0,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,5 Days Ago,709,3636,45,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Customer Service Positions,7,3710,177,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Part time,7,3728,120,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Customer Service Representatives Looking for a career with advancement opportunities? Come work for the best in the furniture retail industry! Raymour...,7,3746,475,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,3800,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,3800,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,3800,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,Raymour & Flanigan,493,3746,82,35,0,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,PA - Reading,621,3755,85,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,5 Days Ago,709,3746,45,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Secretary III,7,3820,80,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time,7,3838,120,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,"Join us for an opportunity of a lifetime for professional and personal growth. The Reading Hospital is a 804-bed tertiary care facility, so you'll...",7,3856,479,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,3892,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,3892,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,3892,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,Reading Hospital and Medical Center,493,3838,119,53,0,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,PA - Reading,621,3856,85,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,6 Days Ago,709,3847,45,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,CODING TECHNICIAN,7,3912,164,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time,7,3930,120,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,CNA has provided essential insurance to businesses for more than 100 years. We are respected worldwide as experts in understanding risks with an...,7,3948,468,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,4002,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,4002,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,4002,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,CNA Insurance,493,3957,106,17,0,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,PA - Reading,621,3957,85,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,1 Week Ago,709,3948,48,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Administrative Assistant - (posted 12/19/06),7,4022,284,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time | Pay: $10.00 - $15.00/hour,7,4040,299,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,"Administrative Assistants Excellent opportunity for Administrative Assistants with all skill sets to work for multiple companies in the Newark, DE...",7,4058,481,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,4112,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,4112,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,4112,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,CareersUSA,493,4067,86,17,0,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,DE - Newark,621,4067,85,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,1 Week Ago,709,4058,48,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Admininstrative Assistant - Full Time,7,4132,242,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time | Pay: $18.00/hour,7,4150,242,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,"Full-time Administrive Consulting Position This excellent opportunity is currently available with our client, who is a highly reputable global...",7,4168,465,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,4204,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,4204,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,4204,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,Integrity Staffing Solutions,493,4159,119,35,1,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,DE - Newark,621,4168,85,17,1,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,1 Week Ago,709,4159,48,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Mail File Clerk Typist,7,4224,142,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time,7,4242,120,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Westfield Insurance- Lancaster PA office Mail and File Clerk Typist Great entry-level opportunity Full-time hours 7:00 AM- 3:30 PM Westfield Group is...,7,4260,475,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,4314,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,4314,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,4314,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,Westfield Insurance,493,4260,68,35,0,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,PA - Lancaster,621,4260,62,35,1,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,1 Week Ago,709,4260,48,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Office Assistant,7,4334,102,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time | Pay: $8.00 - $10.00/hour,7,4352,291,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,OFFICE ASSISTANT- Now accepting applications/resumes for experienced Office Assistant for York area company. This is a front office position and will...,7,4370,471,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,4424,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,4424,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,4424,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong span  ,confidential,493,4379,81,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,PA - York,621,4379,62,17,1,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,1 Week Ago,709,4370,48,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Office Assistant,7,4444,102,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time | Pay: $8.00 - $10.00/hour,7,4462,291,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,"OFFICE ASSISTANT- SHS Staffing Solutions is now accepting applications/resumes for experienced Office Assistant for our Lebanon, Pa. Office location....",7,4480,480,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,4534,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,4534,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,4534,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong span  ,SHS Staffing Solutions,493,4480,88,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,PA - Lebanon,621,4480,56,35,1,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,1 Week Ago,709,4480,48,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Human Resources Generalist,7,4554,187,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time,7,4572,120,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,"We are Delaware Physicians Care, Inc., part of the growing Schaller Anderson family of health care management and consulting services. Serving members...",7,4590,442,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,4644,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,4644,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,4644,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,Schaller Anderson,493,4599,126,17,0,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,DE - Newark,621,4599,85,17,1,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,1 Week Ago,709,4590,48,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Clerical Support,7,4664,105,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time,7,4682,120,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,"Purpose: On a day to day basis, this person will be responsible for answering phones and greeting visitors in the facilities department. This person...",7,4700,461,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,4754,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,4754,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,4754,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,Aerotek Professional Services,493,4691,83,53,0,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,PA - Coatesville,621,4700,72,35,1,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,2 Weeks Ago,709,4691,42,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,"Customer Service, Clerical and Administrative to Work from Home",7,4774,433,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time/Part time | Pay: $0 - $100k/year,7,4792,328,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,"Customer Service, Clerical and Administrative to Work from Home. 6 people needed in your area Established US and Canadian companies are looking for...",7,4810,462,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,4864,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,4864,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,4864,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong span  ,Home Business Solutions,493,4810,104,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,US-Nationwide,621,4810,75,35,1,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,2 Weeks Ago,709,4801,42,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Administrative Support,7,4884,151,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time/Part time,7,4902,183,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,SEVERAL FULL AND PART-TIME OPPORTUNITIES FOR THE FOLLOWING: Clerical ~ Accounting ~ Legal Administrative Support ~ Medical Office ~ Collections ~...,7,4920,464,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,4974,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,4974,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,4974,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong span  ,TempStar Staffing,493,4929,126,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,PA - Reading,621,4929,85,17,1,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,2 Weeks Ago,709,4911,42,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Clerk,7,4994,36,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time,7,5012,120,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,"Join us for an opportunity of a lifetime for professional and personal growth. The Reading Hospital is a 804-bed tertiary care facility, so you'll...",7,5030,479,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,5066,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,5066,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,5066,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,Reading Hospital and Medical Center,493,5012,119,53,0,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,PA - Reading,621,5030,85,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,2 Weeks Ago,709,5012,42,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Administrative Assistant,7,5086,158,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Contractor,7,5104,131,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,"Purpose: A large manufacturing company in York, is seeking a qualified candidate for an immediate opening as an Administrative Assistant. The position...",7,5122,460,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,5176,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,5176,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,5176,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,Aerotek Professional Services,493,5113,83,53,0,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,PA - York,621,5131,62,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,2 Weeks Ago,709,5113,42,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Order Processing Agent,7,5196,153,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Part time | Pay: $10.00 - $12.00/hour,7,5214,299,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,"Temporary position 01-08-07 through 04-05-07 - Seeking Individual to process customer orders, handle customer service issues and respond to mail. AA/...",7,5232,458,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,5286,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,5286,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,5286,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong span  ,International Reading Association,493,5223,91,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,DE - Newark,621,5241,85,17,1,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,3 Weeks Ago,709,5223,42,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Office Clinician (Medical Assistant or LPN),7,5306,284,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time/Part time,7,5324,183,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,"Office Clinician I General Summary: Under the general supervision of the Clinical Coordinator and the Practice Manager, provides safe, therapeutic and...",7,5342,475,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,5396,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,5396,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,5396,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,WellSpan Health,493,5351,116,17,0,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,PA - York,621,5351,62,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,3 Weeks Ago,709,5333,42,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Receptionist,7,5416,80,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time,7,5434,120,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,"AlliedBarton is currently accepting applications for an administrative support person with security experience in the area of York, PA. This person...",7,5452,444,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,5506,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,5506,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,5506,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,Allied Barton Security Services,493,5452,117,35,0,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,PA - YORK,621,5461,76,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,3 Weeks Ago,709,5443,42,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Front Desk / Office Clerk - (posted 12/13/06),7,5526,291,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time | Pay: $11.00 - $14.00/hour,7,5544,299,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,"Front Desk / Office Clerk Medical office in the Newark, DE area is seeking a Front Desk / Office Clerk for its busy medical facility. Responsibilities...",7,5562,484,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,5598,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,5598,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,5598,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,CareersUSA,493,5562,86,17,0,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,DE - Newark,621,5562,85,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,3 Weeks Ago,709,5544,42,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Clerk III,7,5618,56,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time,7,5636,120,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,"Join us for an opportunity of a lifetime for professional and personal growth. The Reading Hospital is a 804-bed tertiary care facility, so you'll...",7,5654,479,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,5690,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,5690,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,5690,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,Reading Hospital and Medical Center,493,5636,119,53,0,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,PA - Reading,621,5654,85,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,3 Weeks Ago,709,5636,42,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Sr. Customer Service Specialist,7,5710,202,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time,7,5728,120,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,"Provide JPM Chase HNW (High Net Worth) customers with a convenient way to satisfy their property and casualty insurance needs with no sales pressure,...",7,5746,472,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,5800,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,5800,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,5800,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,JPMorgan Chase,493,5755,119,17,0,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,DE - Newark,621,5755,85,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,Nov-28,709,5746,33,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Data Entry Specialist,7,5820,136,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Contractor | Pay: $10.00/hour,7,5838,252,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,"Data Entry Specialist Specialist This excellent data entry opportunity is currently available with our client, who is a highly reputable global...",7,5856,457,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,5892,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,5892,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,5892,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td strong a span  ,Integrity Staffing Solutions,493,5847,119,35,0,23
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,DE - Newark,621,5856,85,17,0,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,Nov-27,709,5847,33,35,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td a span  ,Data Entry Handle incoming calls,7,5912,218,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Job type: Full time,7,5930,120,17,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div span  ,Data Entry Handle incoming calls w/excellent phone manners while providing order entry with speed & accuracy Apply Foxfire Printing 750 Dawson Dr...,7,5948,465,53,1,22
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,View full job description,7,6002,163,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Save to MyCareerBuilder,170,6002,169,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td div div a span  ,Email to a friend,339,6002,108,17,0,24
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span  ,DE - Wilmington Region,621,5939,77,53,1,21
+html body text div div span div table tbody tr td table tbody tr td div table tbody tr td span span  ,4 Days Ago,709,5948,45,35,1,22
+html body text div div span div table tbody tr td table tbody tr td table tbody tr td span span  ,Page 1 of 1 |,23,6024,80,17,0,21
+html body text div div span div table tbody tr td table tbody tr td table tbody tr td span span  ,Jump to page:,23,6042,94,17,0,21
+html body text div div span div table tbody tr td table tbody tr td table tbody tr td span select option  ,1,0,0,0,0,0,22
+html body text div div span div table tbody tr td table tbody tr td table tbody tr td a span  ,Click Here to Access Your Saved Searches,9,6067,273,17,0,21
+html body text div div dl dt span  ,CareerBuilder.com:,0,6120,126,17,0,8
+html body text div div dl dd ul li strong span  ,CareerBuilder Job Seeker Customer Service: (866) 438-1485,80,6154,412,17,0,11
+html body text div div dl dd ul li a span  ,Ask CareerBuilder,80,6172,120,17,0,11
+html body text div div dl dd ul li a span  ,Help,80,6190,31,17,0,11
+html body text div div dl dd ul li a span  ,Feedback,80,6208,61,17,0,11
+html body text div div dl dd ul li a span  ,Email this page to a friend,80,6226,169,17,0,11
+html body text div div dl dd ul li a span  ,About Us,80,6244,62,17,0,11
+html body text div div dl dd ul li a span  ,Work at CareerBuilder,80,6262,145,17,0,11
+html body text div div dl dd ul li a span  ,Affiliate Program,80,6280,113,17,0,11
+html body text div div dl dd ul li a span  ,Advertising Info,80,6298,106,17,0,11
+html body text div div dl dd ul li a span  ,Our Partners,80,6316,81,17,0,11
+html body text div div dl dd ul li a span  ,Privacy,80,6334,49,17,0,11
+html body text div div dl dd ul li a span  ,Fraud,80,6352,37,17,0,11
+html body text div div dl dd ul li a span  ,Terms,80,6370,40,17,0,11
+html body text div div dl dt span  ,International Sites:,0,6404,121,17,0,8
+html body text div div dl dd ul li a span  ,CareerBuilder UK,80,6438,118,17,0,11
+html body text div div dl dd ul li a span  ,CareerBuilder Canada,80,6456,143,17,0,11
+html body text div div dl dd ul li a span  ,CareerBuilder Germany,80,6474,154,17,0,11
+html body text div div dl dd ul li a span  ,CareerBuilder India,80,6492,128,17,0,11
+html body text div div dl dt span  ,Partner Sites:,0,6526,86,17,0,8
+html body text div div dl dd ul li a span  ,Freelance & Contract Jobs,80,6560,170,17,0,11
+html body text div div dl dd ul li a span  ,College Scholarships,80,6578,136,17,0,11
+html body text div div dl dd ul li a span  ,Candidate Screening,80,6596,133,17,0,11
+html body text div div dl dd ul li a span  ,Shopping,80,6614,61,17,0,11
+html body text div div dl dd ul li a span  ,Apartments,80,6632,75,17,0,11
+html body text div div dl dd ul li a span  ,Cars,80,6650,29,17,0,11
+html body text div div dl dd ul li a span  ,FSBO,80,6668,40,17,0,11
+html body text div div dl dd ul li a span  ,Real Estate,80,6686,72,17,0,11
+html body text div div dl dd ul li a span  ,News,80,6704,36,17,0,11
+html body text div div dl dd ul li a span  ,Local Newspapers,80,6722,119,17,0,11
+html body text div div dl dd ul li a span  ,Rental Homes,80,6740,91,17,0,11
+html body text div div dl dd ul li a span  ,50+ Lifestyle Guide,80,6758,129,17,0,11
+html body text div div dl dd ul li a span  ,Salary Calculator,80,6776,112,17,0,11

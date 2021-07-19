@@ -1,0 +1,627 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Project Looking Glass: Its Architecture and a Sneak Preview of the API,0,0,785,36,0,6
+html body text div div a span  ,Skip to Content,0,0,104,17,0,7
+html body text div div span a span  ,Java,104,0,33,17,0,8
+html body text div div span a span  ,Solaris,137,0,48,17,0,8
+html body text div div span a span  ,Communities,185,0,91,17,0,8
+html body text div div span a span  ,My SDN Account,276,0,119,17,0,8
+html body text div div span a span  ,Join SDN,395,0,63,17,0,8
+html body text div div div div div div div div form span span  ,�,0,19,20,17,0,14
+html body text div div div div div div div div form a span  ,search tips,20,19,68,17,0,14
+html body text div div div div div div div ul li a span  ,APIs,40,131,32,17,0,14
+html body text div div div div div div div ul li a span  ,Downloads,40,149,73,17,0,14
+html body text div div div div div div div ul li a span  ,Technologies,40,167,85,17,0,14
+html body text div div div div div div div ul li a span  ,Products,40,185,56,17,0,14
+html body text div div div div div div div ul li a span  ,Support,40,203,51,17,0,14
+html body text div div div div div div div ul li a span  ,Training,40,221,55,17,0,14
+html body text div div div div div div div ul li a span  ,Sun.com,40,239,56,17,0,14
+html body text table tbody tr td div a span  ,Developers Home,0,273,120,17,0,10
+html body text table tbody tr td div span  ,>,120,273,13,17,0,9
+html body text table tbody tr td div a span  ,Products & Technologies,133,273,165,17,0,10
+html body text table tbody tr td div span  ,>,298,273,13,17,0,9
+html body text table tbody tr td div a span  ,Java Technology,311,273,112,17,0,10
+html body text table tbody tr td div span  ,>,423,273,13,17,0,9
+html body text table tbody tr td div a span  ,Reference,436,273,69,17,0,10
+html body text table tbody tr td div span  ,>,505,273,12,17,0,9
+html body text table tbody tr td div a span  ,Technical Articles and Tips,517,273,179,17,0,10
+html body text table tbody tr td div span  ,>,696,273,13,17,0,9
+html body text table tbody tr td div a span  ,Developer Technical Articles & Tips,0,273,775,35,0,10
+html body text table tbody tr td div span  ,>,168,291,13,17,0,9
+html body text table tbody tr td div a span  ,Java Technology Open-Source Projects,181,291,255,17,0,10
+html body text table tbody tr td div span  ,>,436,291,9,17,0,9
+html body text div span  ,Article,0,328,44,17,1,5
+html body text div h1 span  ,Project Looking Glass: Its Architecture and a Sneak Preview of the API,0,367,712,73,1,6
+html body text table tbody tr td table tbody tr td div table tbody tr td a span  ,Print-friendly Version,2605,473,140,17,0,18
+html body text table tbody tr td table tbody tr td em span  ,By,10,491,21,17,0,13
+html body text table tbody tr td table tbody tr td em a span  ,Dana Nourie,31,491,84,17,0,14
+html body text table tbody tr td table tbody tr td em span  ,"Hideya Kawahara, November 2004",10,509,228,17,1,13
+html body text table tbody tr td p span  ,"Project Looking Glass (LG3D) exploits Java technology to bring a richer user experience to the desktop and to applications, through 3D windowing and visualization capabilities. This article covers Project Looking Glass' main features and API, its basic organization, and the functionality of important classes. You'll get an understanding of its high level architecture and where further development contributions are needed.",10,561,2711,17,1,9
+html body text table tbody tr td table tbody tr td div span b span  ,Figure 1,103,866,61,17,0,15
+html body text table tbody tr td table tbody tr td div span span  ,: An LG3D Desktop.,164,866,133,17,0,14
+html body text table tbody tr td p span  ,"Project Looking Glass is an open source development project, so you can decide what areas you would like to dig into. The project supports both unmodified existing applications in a 3D space and APIs for 3D window managers and application development.",10,920,1655,17,1,9
+html body text table tbody tr td p span  ,"Because Project Looking Glass is a work in progress, the details specified in this article are subject to change. The APIs are not final but are continuously evolving, improving, and expanding as more developers contribute to this project. Suggestions for improvement are invited via the",10,954,1828,17,1,9
+html body text table tbody tr td p a span  ,LG3D discussion forum,1838,954,158,17,1,10
+html body text table tbody tr td p span  ,.,1996,954,4,17,1,9
+html body text table tbody tr td b span  ,Supported Key Features,10,988,167,17,1,9
+html body text table tbody tr td p span  ,"LG3D breaks past two boundaries in the world of user experience design: the 2D-ness of current desktop environments, and the way in which these desktop environments evolve. At a very high level, the project focuses on providing a solid platform for the exploration of the 3D desktop environment, and exploring creative ideas by developing 3D window managers (SceneManagers) and applications on top of the platform.",10,1026,2716,17,1,9
+html body text table tbody tr td p span  ,"Currently, Sun focuses on providing core functionality to kickstart the 3D exploration and refine the initial platform. The current platform supports the following key features:",10,1060,1116,17,1,9
+html body text table tbody tr td ul li span  ,Existing application (X11 client) initial integration,50,1094,324,17,1,10
+html body text table tbody tr td ul li span  ,Client-server scene graph platform,50,1112,223,17,1,10
+html body text table tbody tr td ul li span  ,Server-side animation execution,50,1130,207,17,1,10
+html body text table tbody tr td ul li span  ,Support for generic event systems,50,1148,218,17,1,10
+html body text table tbody tr td ul li span  ,Initial set of core APIs for building 3D widget sets,50,1166,323,17,1,10
+html body text table tbody tr td ul li span  ,Utilities for animated user feedback,50,1184,229,17,1,10
+html body text table tbody tr td b span  ,Java Technology-based APIs and Implementation,10,1218,338,17,1,9
+html body text table tbody tr td p span  ,"Java technology is the primary development language because of the productivity gains it brings, its language safety features, and the rich set of supporting APIs it provides. These benefits promote more aggressive exploration of the new 3D desktop frontier. In the future, C++ bindings will be provided so that existing native applications can access the features of the LG3D platform.",10,1256,2459,17,1,9
+html body text table tbody tr td p span  ,"The LG3D API leverages the Java 3D API and provides additional features, including an animation system (to simplify writing rich user-experience applications) and APIs for 3D window manager development and interaction. The Java 3D API provides a set of object-oriented interfaces that support a simple, high-level programming model that can be used to build, render, and control the behavior of 3D objects and visual environments. Because LG3D is built on top of the Java 3D API, the platform leverages all these favorable features.",10,1290,2714,35,1,9
+html body text table tbody tr td p span  ,A feature subset of the Java 3D API is exposed to the client side. This enables the future possibility of running the same client application program in a resource-limited environment like a set-top box or car navigation system.,10,1342,1439,17,1,9
+html body text table tbody tr td p b span  ,Client-Server Scene Graphs,10,1376,191,17,1,10
+html body text table tbody tr td p span  ,"The client-server Java 3D Scene Graph software allows multiple processes to share the same virtual 3D universe. This technology allows the platform to execute a LG3D-aware 3D application in a separate process (even on a remote machine), while it displays a 3D user interface integrated within the single virtual universe with which the user interacts. Like the X client-server model, this enables clean isolation among applications and the platform.",10,1410,2687,35,1,9
+html body text table tbody tr td p span  ,The platform provides an abstraction layer for communication protocol. The first developer's release uses RMI for convenience.,10,1462,819,17,1,9
+html body text table tbody tr td p b span  ,Note:,10,1496,41,17,1,10
+html body text table tbody tr td p i span  ,Client-server,51,1496,89,17,1,10
+html body text table tbody tr td p span  ,"here does not imply client and server machines connected through a network but rather processes typically running on the same machine. A client is an application that issues requests to render its user interface. Typically, the machine runs a single server that receives rendering requests from clients and constructs the screen image.",140,1496,2117,17,1,9
+html body text table tbody tr td p b span  ,Server-side Animation Execution,10,1530,225,17,1,10
+html body text table tbody tr td p span  ,"Animation typically operates on a scene graph per frame. A mechanism to execute animation on the server side is provided, so that client and server do not need to communicate per frame. The client specifies types of animation with parameters, such as duration.The platform provides several predefined animations. In addition, animation can be realized by leveraging animation support in model loaders. With those features, the limitations regarding server-side behavior is not considered critical.",10,1564,2721,35,1,9
+html body text table tbody tr td b span  ,Existing Application Integration -- The Abstraction Layer,10,1616,394,17,1,9
+html body text table tbody tr td p span  ,"The abstraction layer can be roughly divided into two major areas: the Foundation Window System (FWS) module, and the Native Window representation module.",10,1654,1045,17,1,9
+html body text table tbody tr td p span  ,"The FWS module provides the integration with the underlying window system, including application visual capture and event delivery integration. The module includes a set of interfaces for implementation of different kind of plug-ins for a native window system.",10,1688,1688,17,1,9
+html body text table tbody tr td p span  ,"Currently there are two implementations, the X11 version and the AWT version. The X Window System (commonly X11 or X) is a windowing system for bitmap displays. It is the standard graphical interface on UNIX and UNIX-like operating systems like Linux, and is available for most modern operating systems. The X11 integration allows X applications to be run and displayed within the LG3D platform. The AWT version allows the platform to run operating systems that support required Java platform and Java 3D extension versions (such as Solaris and Windows), but without support for applications running in the native window system. This module resides under the",10,1722,2695,35,1,9
+html body text table tbody tr td p code span  ,org.jdesktop.lg3d.displayserver.fws,1665,1743,281,15,1,10
+html body text table tbody tr td p span  ,package.,1946,1740,56,17,1,9
+html body text table tbody tr td p span  ,"The Native Window representation module sits on top of the FWS, and provides abstracted representation of the native window application's visual aspects.",10,1774,998,17,1,9
+html body text table tbody tr td b span  ,High Level Architecture,10,1808,165,17,1,9
+html body text table tbody tr td p span  ,"The LG3D platform's high-level architecture is illustrated in Figure 2, showing the X11 integration. An unmodified X Client Application communicates with the X Server, which is enhanced with the X Client Capture functionality. This enhanced X Server captures the client's visual representation and sends it to the LG3D Display Server, which manages rendering of the 3D space, using the Java 3D platform. For LG3D-aware 3D application development, the platform provides LG3D Java libraries that expose the Java API. The libraries communicate with the Display Server for constructing 3D visuals and exchanging events.",10,1846,2698,35,1,9
+html body text table tbody tr td table tbody tr td div span b span  ,Figure 2,90,2165,61,17,0,15
+html body text table tbody tr td table tbody tr td div span span  ,: LDG3 High Level Diagram.,151,2165,189,17,0,14
+html body text table tbody tr td p span  ,The Scene Manager resides in the Display Server process. It communicates with the Display Server control and implements a policy regarding 3D application user interaction and arrangement in the 3D space.,10,2219,1333,17,1,9
+html body text table tbody tr td b span  ,The Client-side API,10,2253,135,17,1,9
+html body text table tbody tr td p span  ,The client-side API can be categorized into the following three areas:,10,2291,443,17,1,9
+html body text table tbody tr td ul li span  ,Java 3D-based scene graph classes,50,2325,222,17,1,10
+html body text table tbody tr td ul li span  ,the LG3D 3D component classes,50,2343,212,17,1,10
+html body text table tbody tr td ul li span  ,the LG3D utility classes,50,2361,155,17,1,10
+html body text table tbody tr td p span  ,"The following diagram shows the relationships among major classes from the first twocategories, a few from the third, and some of the Scene Manager-relatedclasses.",10,2395,1065,17,1,9
+html body text table tbody tr td table tbody tr td div span b span  ,Figure 3,66,2635,61,17,0,15
+html body text table tbody tr td table tbody tr td div span span  ,: Client-Side Classes.,127,2635,137,17,0,14
+html body text table tbody tr td a span  ,Click to enlarge,10,2655,102,17,0,9
+html body text table tbody tr td p b span  ,Java 3D-based Scene Graph Classes,10,2707,246,17,1,10
+html body text table tbody tr td p span  ,The Java 3D Scene Graph API is the primary rendering API for developing a LG3D-aware 3D applications and scene managers. It is located under the,10,2741,968,17,1,9
+html body text table tbody tr td p code span  ,org.jdesktop.lg3d.sg,978,2744,164,15,1,10
+html body text table tbody tr td p span  ,"package, and it exposes a feature subset of the Java 3D API to the client side. The exposed classes are almost the same as those of Java 3D, except that features that complicate implementation, such as",1142,2741,1283,17,1,9
+html body text table tbody tr td p code span  ,SharedGroup node,2425,2744,133,15,1,10
+html body text table tbody tr td p span  ,", have been removed. All the methods deal with type",10,2741,2731,35,1,9
+html body text table tbody tr td p code span  ,double,163,2762,54,15,1,10
+html body text table tbody tr td p span  ,have also been removed or replaced with a float version.,217,2759,362,17,1,9
+html body text table tbody tr td p span  ,"This Scene Graph API is the basis for creating 3D visual effects of 3D applications and windowmanagers. In addition, the",10,2793,784,17,1,9
+html body text table tbody tr td p code span  ,org.jdesktop.lg3d.utils.shape,794,2796,234,15,1,10
+html body text table tbody tr td p span  ,package provides pre-built utility shapes and appearances for convenience.,1028,2793,479,17,1,9
+html body text table tbody tr td p b span  ,LG3D Component Classes,10,2827,180,17,1,10
+html body text table tbody tr td p span  ,The 3D Component API resides in the,10,2861,248,17,1,9
+html body text table tbody tr td p code span  ,org.jdesktop.lg3d.wg,258,2864,164,15,1,10
+html body text table tbody tr td p span  ,"package and provides core functions for developing widgets in the LG3D Glass environment. The design is still in preliminary stages, and will be refined in the near future. The following table shows key classes residing in the package. (These classes are analogous to those of AWT without the tailing ""3D."")",422,2861,1971,17,1,9
+html body text table tbody tr td div b span  ,3D Component Classes,10,2895,157,17,1,10
+html body text table tbody tr td div table tbody tr th div b span  ,Class,10,2913,36,17,1,15
+html body text table tbody tr td div table tbody tr th div b span  ,Description,380,2913,79,17,1,15
+html body text table tbody tr td div table tbody tr td div code span  ,Component3D,10,2952,86,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,The top level superclass of all the LG3D widget components. It supports visual rendering by adding scene graph node children created with the Java 3D-based Scene Graph API. Note that a restriction has been implemented not to allow a,380,2933,1520,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,Component3D,1900,2936,94,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,object to be added to another,1994,2933,189,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,Component3D,2183,2936,94,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,object as a child.,2277,2933,107,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,Container3D,380,2954,94,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,needs to be used as a parent container in such cases. This class is also an event source and implements,474,2951,657,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,LgEventSource,1131,2954,110,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,interface. Details of mouse event handling is described later. This class also includes built-in support for transition animation.,1241,2951,803,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,Container3D,10,3006,86,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Extends,380,2987,56,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,Component3D,436,2990,93,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,. A,529,2987,22,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,Container3D,551,2990,94,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,"object is a component that can hold other components as children, but cannot hold Java 3D-based scene graph objects. Typically, such a raw scene graph object is wrapped by a",645,2987,1128,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,Component3D,1773,2990,94,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,once before being added to a,1867,2987,188,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,Container3D,2055,2990,94,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,object.This class is typically used together with,2149,2987,303,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,LayoutManager3D,380,3008,125,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,.,505,3005,4,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,Frame3D,10,3042,55,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Extends,380,3041,56,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,Container3D,436,3044,93,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,". It is analogous to AWT's Frame class: theroot container for an LG3D-aware 3D application. For example, it interacts with a Scene Manager (3DWindow Manager) for positioning.",529,3041,1154,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,Cursor3D,10,3087,62,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Extends,380,3077,56,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,Component3D,436,3080,93,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,"and is the root class of all 3D cursors.An application can define its own cursor by extending this class, or by using one of theconstructors that takes a",529,3077,956,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,Component3D,1485,3080,94,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,"object as the cursor implementation. It alsoprovides a way to register and retrieve cursors, as well as work with predefined cursors that a SceneManager is required to initialize.",380,3077,2072,35,1,14
+html body text table tbody tr td p span  ,The following code shows a simple example that uses the preceding key LG3D component classes. It displays a colored cube on the screen. Please refer to the,10,3184,1018,17,1,9
+html body text table tbody tr td p a span  ,Javadoc API guide,1028,3184,124,17,0,10
+html body text table tbody tr td p span  ,for details on each method.,1152,3184,174,17,0,9
+html body text table tbody tr td table tbody tr td pre span  ,public class SimpleApp { public SimpleApp() { Frame3D frame3d = new Frame3D(); ColorCube cube = new ColorCube(0.05f); Compnent3D comp = new Component3D(); comp.addChild(cube); comp.setCursor(Cursor3D.SMALL_CURSOR); frame3d.addChild(comp); frame3d.setCapabilities(); frame3d.setActive(true); frame3d.setVisible(true); }},20,3232,2715,15,0,13
+html body text table tbody tr td b span  ,Transition Animation Support,10,3275,207,17,1,9
+html body text table tbody tr td p span  ,The,10,3313,29,17,1,9
+html body text table tbody tr td p code span  ,Component3D,39,3316,94,15,1,10
+html body text table tbody tr td p span  ,class has two sets of methods for transformational change. One is the,132,3313,446,17,1,9
+html body text table tbody tr td p code span  ,set*(),579,3316,55,15,1,10
+html body text table tbody tr td p span  ,"method family, and the other is the",634,3313,226,17,1,9
+html body text table tbody tr td p code span  ,change*(),860,3316,78,15,1,10
+html body text table tbody tr td p span  ,family:,938,3313,46,17,1,9
+html body text table tbody tr td div b span  ,3D Component Class Methods for Change,10,3347,288,17,1,10
+html body text table tbody tr td div table tbody tr th div b code span  ,set*(),10,3368,55,15,1,16
+html body text table tbody tr td div table tbody tr th div b span  ,Family,65,3365,48,17,1,15
+html body text table tbody tr td div table tbody tr th div b code span  ,change*(),557,3368,78,15,1,16
+html body text table tbody tr td div table tbody tr th div b span  ,Family,635,3365,48,17,1,15
+html body text table tbody tr td div table tbody tr td div code span  ,setTranslation(),10,3385,125,15,1,15
+html body text table tbody tr td div table tbody tr td div code span  ,changeTranslation(),557,3385,148,15,1,15
+html body text table tbody tr td div table tbody tr td div code span  ,setRotationAngle(),10,3400,140,15,1,15
+html body text table tbody tr td div table tbody tr td div code span  ,changeRotationAngle(),557,3400,164,15,1,15
+html body text table tbody tr td div table tbody tr td div code span  ,setRotationAngle(),10,3415,140,15,1,15
+html body text table tbody tr td div table tbody tr td div code span  ,changeScale(),557,3415,101,15,1,15
+html body text table tbody tr td div table tbody tr td div code span  ,setVisible(),10,3430,94,15,1,15
+html body text table tbody tr td div table tbody tr td div code span  ,changeVisibility(),557,3430,140,15,1,15
+html body text table tbody tr td p span  ,The,10,3498,29,17,1,9
+html body text table tbody tr td p code span  ,set*(),39,3501,54,15,1,10
+html body text table tbody tr td p span  ,"methods make specified changes immediately, whereas the",93,3498,382,17,1,9
+html body text table tbody tr td p code span  ,change*(),475,3501,78,15,1,10
+html body text table tbody tr td p span  ,"changes may be delayed. For example, invoking",553,3498,313,17,1,9
+html body text table tbody tr td p code span  ,setScale(2.0f),866,3501,117,15,1,10
+html body text table tbody tr td p span  ,"changes the scale to 2.0 immediately, whereas invoking",983,3498,360,17,1,9
+html body text table tbody tr td p code span  ,changeScale(2.0f),1343,3501,140,15,1,10
+html body text table tbody tr td p span  ,may take a few second while showingtransition animation. The transition animation is pluggable. The,1483,3498,655,17,1,9
+html body text table tbody tr td p code span  ,caller,2138,3501,55,15,1,10
+html body text table tbody tr td p span  ,invokes either event based on the situation.,2193,3498,276,17,1,9
+html body text table tbody tr td p span  ,This framework is effective for simplifying the implementation of a component's natural motion shown in LG3D demos.,10,3532,773,17,1,9
+html body text table tbody tr td div b span  ,Model Loader,10,3566,97,17,1,10
+html body text table tbody tr td p span  ,"Support for model loaders is considered a key feature of LG3D technology, as it brings visual designers into the development loop. The",10,3604,871,17,1,9
+html body text table tbody tr td p code span  ,ModelLoader,881,3607,94,15,1,10
+html body text table tbody tr td p span  ,"class provides a simple yet powerful mechanism to load a 3D model from a file, and it supports many formats using the Java 3D loader mechanism.",975,3604,946,17,1,9
+html body text table tbody tr td p span  ,The,10,3638,29,17,1,9
+html body text table tbody tr td p code span  ,ModelLoader,39,3641,94,15,1,10
+html body text table tbody tr td p span  ,class extends,132,3638,87,17,1,9
+html body text table tbody tr td p code span  ,Component3D,220,3641,94,15,1,10
+html body text table tbody tr td p span  ,", and the constructor takes a model file name, a Java 3D model loader class object, and a matrix for static transformation of the model.",314,3638,859,17,1,9
+html body text table tbody tr td div b span  ,Event Adapter and Animation Classes,10,3672,259,17,1,10
+html body text table tbody tr td p span  ,These components are located under the,10,3710,261,17,1,9
+html body text table tbody tr td p code span  ,org.jdesktop.lg3d.utils,271,3713,187,15,1,10
+html body text table tbody tr td p span  ,package and form a major part of the LG3D utility classes.,458,3710,377,17,1,9
+html body text table tbody tr td table tbody tr td div span b span  ,Figure 5,45,3889,61,17,0,15
+html body text table tbody tr td table tbody tr td div span span  ,: Mouse Event Propagation.,106,3889,179,17,0,14
+html body text table tbody tr td a span  ,Click to enlarge,10,3909,102,17,0,9
+html body text table tbody tr td p b span  ,Event Adapter,10,3961,100,17,1,10
+html body text table tbody tr td p span  ,Classes under the,10,3995,116,17,1,9
+html body text table tbody tr td p code span  ,eventadapter,126,3998,101,15,1,10
+html body text table tbody tr td p span  ,subpackage implement the,227,3995,175,17,1,9
+html body text table tbody tr td p code span  ,LgEventListener,402,3998,125,15,1,10
+html body text table tbody tr td p span  ,interface and keep at least one reference to an object that implements the,527,3995,469,17,1,9
+html body text table tbody tr td p code span  ,Action,996,3998,55,15,1,10
+html body text table tbody tr td p span  ,interface.An,1051,3995,84,17,1,9
+html body text table tbody tr td p code span  ,Event Adapter,1135,3998,109,15,1,10
+html body text table tbody tr td p span  ,object is a receiver of events. It predigests the information provided through events and invokes the,1244,3995,640,17,1,9
+html body text table tbody tr td p code span  ,performAction,1884,3998,109,15,1,10
+html body text table tbody tr td p span  ,method of an associated,1993,3995,158,17,1,9
+html body text table tbody tr td p code span  ,Action,2151,3998,55,15,1,10
+html body text table tbody tr td p span  ,or,2206,3995,17,17,1,9
+html body text table tbody tr td p code span  ,Action Adapter,2223,3998,117,15,1,10
+html body text table tbody tr td p span  ,object.,2340,3995,43,17,1,9
+html body text table tbody tr td p b span  ,Action Adapter,10,4029,105,17,1,10
+html body text table tbody tr td p span  ,Classes under the,10,4063,116,17,1,9
+html body text table tbody tr td p code span  ,actionadapter,126,4066,109,15,1,10
+html body text table tbody tr td p span  ,subpackage implement the,235,4063,175,17,1,9
+html body text table tbody tr td p code span  ,Action,410,4066,54,15,1,10
+html body text table tbody tr td p span  ,interface and keep at least one reference to an object that implements the,464,4063,470,17,1,9
+html body text table tbody tr td p code span  ,Action,934,4066,55,15,1,10
+html body text table tbody tr td p span  ,interface. An,989,4063,86,17,1,9
+html body text table tbody tr td p code span  ,Action Adapter,1075,4066,117,15,1,10
+html body text table tbody tr td p span  ,object typically converts one kind of input into another by performing some processing against values propagated by,1192,4063,752,17,1,9
+html body text table tbody tr td p code span  ,performAction,1944,4066,109,15,1,10
+html body text table tbody tr td p span  ,invocation. A action adapter class typically acts as a converter among different action types.,2053,4063,587,17,1,9
+html body text table tbody tr td p b span  ,Action,10,4097,45,17,1,10
+html body text table tbody tr td p span  ,Classes under the,10,4131,116,17,1,9
+html body text table tbody tr td p code span  ,action,126,4134,55,15,1,10
+html body text table tbody tr td p span  ,subpackage implement the,181,4131,174,17,1,9
+html body text table tbody tr td p code span  ,Action,355,4134,55,15,1,10
+html body text table tbody tr td p span  ,interface. These receive predigested information from an,410,4131,367,17,1,9
+html body text table tbody tr td p code span  ,Event Adapter,777,4134,110,15,1,10
+html body text table tbody tr td p span  ,or,887,4131,17,17,1,9
+html body text table tbody tr td p code span  ,Action Adapter,904,4134,117,15,1,10
+html body text table tbody tr td p span  ,object through a,1021,4131,108,17,1,9
+html body text table tbody tr td p code span  ,performAction,1129,4134,109,15,1,10
+html body text table tbody tr td p span  ,method invocation and perform visual feedback. An,1238,4131,337,17,1,9
+html body text table tbody tr td p code span  ,Action,1575,4134,55,15,1,10
+html body text table tbody tr td p span  ,object typically keeps a reference to an,1630,4131,253,17,1,9
+html body text table tbody tr td p code span  ,Action Behavior,1883,4134,125,15,1,10
+html body text table tbody tr td p span  ,object in order to perform visual feedback based on animation.,2008,4131,402,17,1,9
+html body text table tbody tr td p b span  ,Action Behavior,10,4165,112,17,1,10
+html body text table tbody tr td p span  ,Classes under the,10,4199,116,17,1,9
+html body text table tbody tr td p code span  ,behavior,126,4202,70,15,1,10
+html body text table tbody tr td p span  ,subpackage extend the,196,4199,149,17,1,9
+html body text table tbody tr td p code span  ,ActionBehavior,345,4202,117,15,1,10
+html body text table tbody tr td p span  ,abstract class and implement basic animation. An,462,4199,320,17,1,9
+html body text table tbody tr td p code span  ,Action Behavior,782,4202,125,15,1,10
+html body text table tbody tr td p span  ,object typically keeps a reference to a,907,4199,245,17,1,9
+html body text table tbody tr td p code span  ,Component3D,1152,4202,94,15,1,10
+html body text table tbody tr td p span  ,object and a,1246,4199,81,17,1,9
+html body text table tbody tr td p code span  ,TransitionSmoother,1327,4202,149,15,1,10
+html body text table tbody tr td p span  ,", and performs animation using them.",1476,4199,239,17,1,9
+html body text table tbody tr td p b span  ,Transition Smoother,10,4233,141,17,1,10
+html body text table tbody tr td p span  ,Classes under the,10,4267,116,17,1,9
+html body text table tbody tr td p code span  ,smoother,126,4270,70,15,1,10
+html body text table tbody tr td p span  ,subpackage provide reusable natural motion for action implementation. These classes implement the,196,4267,647,17,1,9
+html body text table tbody tr td p code span  ,TransitionSmoother,843,4270,149,15,1,10
+html body text table tbody tr td p span  ,interface and generate reusable natural motion used in,992,4267,350,17,1,9
+html body text table tbody tr td p code span  ,ActionBehavior,1342,4270,117,15,1,10
+html body text table tbody tr td p span  ,implementation.,1459,4267,104,17,1,9
+html body text table tbody tr td p span  ,The following code fragment uses event adapter and animation components. It rotates the,10,4301,577,17,1,9
+html body text table tbody tr td p code span  ,targetComp,587,4304,86,15,1,10
+html body text table tbody tr td p span  ,"object by 180 degrees back and forth in 1,000 milliseconds every time the",673,4301,477,17,1,9
+html body text table tbody tr td p code span  ,sourceComp,1150,4304,86,15,1,10
+html body text table tbody tr td p span  ,object is clicked:,1236,4301,108,17,1,9
+html body text table tbody tr td table tbody tr td pre span  ,"new MouseClickedEventAdapter(sourceComp new ToggleAdapter( new RotateAction(targetComp, (float)Math.PI, 1000)));",20,4345,905,15,1,13
+html body text table tbody tr td p code span  ,MouseClickedEventAdapter,10,4407,195,15,1,10
+html body text table tbody tr td p span  ,"is an Event Adapter class, which extends the",205,4404,288,17,1,9
+html body text table tbody tr td p code span  ,LgEventLister,493,4407,110,15,1,10
+html body text table tbody tr td p span  ,interface and registers itself to listen to,603,4404,252,17,1,9
+html body text table tbody tr td p code span  ,MouseEvent,855,4407,86,15,1,10
+html body text table tbody tr td p span  ,". In the example, the event source to listen to is specified through the argument, which is the",941,4404,594,17,1,9
+html body text table tbody tr td p code span  ,sourceComp Component3D,1535,4407,180,15,1,10
+html body text table tbody tr td p span  ,object. Whenever it receives a,1714,4404,196,17,1,9
+html body text table tbody tr td p code span  ,MouseEvent,1911,4407,86,15,1,10
+html body text table tbody tr td p span  ,"from the object, it invokes the",1997,4404,196,17,1,9
+html body text table tbody tr td p code span  ,performAction,2193,4407,109,15,1,10
+html body text table tbody tr td p span  ,method of an associated,2302,4404,159,17,1,9
+html body text table tbody tr td p code span  ,Action,2461,4407,54,15,1,10
+html body text table tbody tr td p span  ,or,2515,4404,18,17,1,9
+html body text table tbody tr td p code span  ,Action Adapter,2533,4407,117,15,1,10
+html body text table tbody tr td p span  ,"object. In the example, a",10,4404,2723,35,1,9
+html body text table tbody tr td p code span  ,ToggleAdapter,83,4425,110,15,1,10
+html body text table tbody tr td p span  ,object is specified as an argument in the constructor.,193,4422,335,17,1,9
+html body text table tbody tr td p code span  ,ToggleAdapter,10,4459,109,15,1,10
+html body text table tbody tr td p span  ,is an,119,4456,34,17,1,9
+html body text table tbody tr td p code span  ,Action Adapter,153,4459,117,15,1,10
+html body text table tbody tr td p span  ,. It keeps an internal boolean state that gets toggled whenever the,270,4456,422,17,1,9
+html body text table tbody tr td p code span  ,performAction,692,4459,109,15,1,10
+html body text table tbody tr td p span  ,method is invoked. It then invokes the,801,4456,249,17,1,9
+html body text table tbody tr td p code span  ,performAction,1050,4459,109,15,1,10
+html body text table tbody tr td p span  ,"method of an associated object with the boolean state information. In the example, a",1159,4456,543,17,1,9
+html body text table tbody tr td p code span  ,RotateAction,1702,4459,101,15,1,10
+html body text table tbody tr td p span  ,object is specified as an argument in the constructor.,1803,4456,340,17,1,9
+html body text table tbody tr td p code span  ,RotateAction,2142,4459,101,15,1,10
+html body text table tbody tr td p span  ,is an,2244,4456,34,17,1,9
+html body text table tbody tr td p code span  ,Action,2278,4459,54,15,1,10
+html body text table tbody tr td p span  ,class. The,2332,4456,68,17,1,9
+html body text table tbody tr td p code span  ,performAction,2400,4459,109,15,1,10
+html body text table tbody tr td p span  ,method rotates the,2509,4456,122,17,1,9
+html body text table tbody tr td p code span  ,targetComp,2631,4459,78,15,1,10
+html body text table tbody tr td p span  ,"object based on the boolean argument. If it is true, it rotates the object by the given angle duration. In this case, the angle is ? (pi) in radians, which is 180 degrees, within the given duration, which is 1000 milliseconds. If the argument were false, it rotate the object back to the default position, which is 0 degree. By combining this method with the",10,4474,2223,17,1,9
+html body text table tbody tr td p code span  ,ToggleAdapter,2233,4477,109,15,1,10
+html body text table tbody tr td p span  ,"object, the flipping back-and-force motion is achieved.",2342,4474,351,17,1,9
+html body text table tbody tr td p span  ,The,10,4508,29,17,1,9
+html body text table tbody tr td p code span  ,RotateAction,39,4511,101,15,1,10
+html body text table tbody tr td p span  ,object internally creates an instance of the,140,4508,274,17,1,9
+html body text table tbody tr td p code span  ,RotationChanger,414,4511,124,15,1,10
+html body text table tbody tr td p span  ,class and actually performs the rotation animation. It also creates an instance of the,538,4508,537,17,1,9
+html body text table tbody tr td p code span  ,NaturalFloatSmoother,1075,4511,163,15,1,10
+html body text table tbody tr td p span  ,"class passing the duration parameter, 1000 milliseconds. This Transition Smoother object is then given the",1238,4508,684,17,1,9
+html body text table tbody tr td p code span  ,RotationChanger,1922,4511,125,15,1,10
+html body text table tbody tr td p span  ,object through the constructor argument for its use to perform a natural flipping motion.,2047,4508,563,17,1,9
+html body text table tbody tr td p span  ,The,10,4542,29,17,1,9
+html body text table tbody tr td p code span  ,RotationChanger,39,4545,125,15,1,10
+html body text table tbody tr td p span  ,class is one of the predefined behaviors that execute on the server side. The,164,4542,486,17,1,9
+html body text table tbody tr td p code span  ,NaturalFloatSmoother,650,4545,164,15,1,10
+html body text table tbody tr td p span  ,class implements the,814,4542,137,17,1,9
+html body text table tbody tr td p code span  ,TransitionSmoother,951,4545,148,15,1,10
+html body text table tbody tr td p span  ,"interface, which is the key class that implements all of the natural motion you see in the LG3D demo. The implementation algorithm and parameters are defined based on a heuristic approach. The algorithm is a bit expensive â€“ because of its frame-rate conversion. Optimizations can be performed once an area is identified as a hot spot.",10,4542,2710,35,1,9
+html body text table tbody tr td div b span  ,The Scene Manager,10,4594,136,17,1,10
+html body text table tbody tr td p span  ,"The Scene Manager takes over the role of window manager for a 3D scene, since typical LG3D-aware 3D application user interfaces have unique shapes not limited to a window shape. The Scene Manager interacts with the user and applications. It implements management policy for applications running in the environment and is responsible for arranging those in the 3D space.",10,4632,2426,17,1,9
+html body text table tbody tr td table tbody tr td div span b span  ,Figure 6,149,4892,61,17,0,15
+html body text table tbody tr td table tbody tr td div span span  ,: A Visual Set Up.,210,4892,114,17,0,14
+html body text table tbody tr td p span  ,"Scene Manager design is a major area of future exploration. In order to stimulate many ideas, an initial framework for componentized Scene Manager technology has been provided. In the implementation, attention has been paid to two-and-a-half dimension as well as full three dimension experiences under the same abstraction. The following list shows the key Scene Manager components, along with its abstract class or interface name.",10,4946,2702,35,1,9
+html body text table tbody tr td ul li span  ,Application Container (,50,4998,156,17,1,10
+html body text table tbody tr td ul li code span  ,AppContainer,206,5001,101,15,1,11
+html body text table tbody tr td ul li span  ,abstract class),307,4998,91,17,1,10
+html body text table tbody tr td ul li span  ,Taskbar (,50,5016,64,17,1,10
+html body text table tbody tr td ul li code span  ,Taskbar,114,5019,62,15,1,11
+html body text table tbody tr td ul li span  ,abstract class),176,5016,90,17,1,10
+html body text table tbody tr td ul li span  ,Background (,50,5034,92,17,1,10
+html body text table tbody tr td ul li code span  ,Background,142,5037,85,15,1,11
+html body text table tbody tr td ul li span  ,abstract class),227,5034,91,17,1,10
+html body text table tbody tr td ul li span  ,Global Light (,50,5052,96,17,1,10
+html body text table tbody tr td ul li code span  ,GlobalLights,146,5055,101,15,1,11
+html body text table tbody tr td ul li span  ,abstract class),247,5052,90,17,1,10
+html body text table tbody tr td ul li span  ,Cursor Module (,50,5070,111,17,1,10
+html body text table tbody tr td ul li code span  ,CursorModule,161,5073,101,15,1,11
+html body text table tbody tr td ul li span  ,interface),262,5070,61,17,1,10
+html body text table tbody tr td p span  ,These components are located under the,10,5104,261,17,1,9
+html body text table tbody tr td p code span  ,�lg3d.scenemanager.utils,271,5107,200,15,1,10
+html body text table tbody tr td p span  ,package.,471,5104,57,17,1,9
+html body text table tbody tr td p span  ,The following diagram shows the relationships among those Scene Manager components and other related LG3D classes. Note that Application Container is usually invisible.,10,5138,1116,17,1,9
+html body text table tbody tr td table tbody tr td div span b span  ,Figure 7,53,5396,61,17,0,15
+html body text table tbody tr td table tbody tr td div span span  ,: Scene Manager Classes.,114,5396,163,17,0,14
+html body text table tbody tr td a span  ,Click to enlarge,10,5416,102,17,0,9
+html body text table tbody tr td p b span  ,SceneManagerBase,10,5468,133,17,1,10
+html body text table tbody tr td p code span  ,SceneManagerBase,10,5505,133,15,1,10
+html body text table tbody tr td p span  ,is an implementation of,143,5502,155,17,1,9
+html body text table tbody tr td p code span  ,SceneManager,298,5505,102,15,1,10
+html body text table tbody tr td p span  ,that integrates other Scene Manager components. It communicates with,400,5502,462,17,1,9
+html body text table tbody tr td p code span  ,DisplayServerControl,862,5505,163,15,1,10
+html body text table tbody tr td p span  ,through the,1025,5502,78,17,1,9
+html body text table tbody tr td p code span  ,DisplayServerManagerInterface,1103,5505,234,15,1,10
+html body text table tbody tr td p span  ,.,1337,5502,8,17,1,9
+html body text table tbody tr td p code span  ,DisplayServerControl,1345,5505,164,15,1,10
+html body text table tbody tr td p span  ,"is the main body of the LG3D Display Server module that is responsible for all the rendering that happens in the 3D space. The communication includes obtaining display-specific information like the field of view, setting view transform, and specifying the",10,5502,2723,35,1,9
+html body text table tbody tr td p code span  ,CursorModule,424,5523,101,15,1,10
+html body text table tbody tr td p span  ,.,525,5520,8,17,1,9
+html body text table tbody tr td p code span  ,DisplayServerControl,533,5523,164,15,1,10
+html body text table tbody tr td p span  ,in turn communicates with,697,5520,175,17,1,9
+html body text table tbody tr td p code span  ,SceneManagerBase,872,5523,132,15,1,10
+html body text table tbody tr td p span  ,through the,1004,5520,78,17,1,9
+html body text table tbody tr td p code span  ,SceneManager,1082,5523,101,15,1,10
+html body text table tbody tr td p span  ,interface. The communication includes adding and removing a,1183,5520,405,17,1,9
+html body text table tbody tr td p code span  ,Frame3D,1588,5523,62,15,1,10
+html body text table tbody tr td p span  ,object.,1650,5520,43,17,1,9
+html body text table tbody tr td p span  ,When,10,5554,42,17,1,9
+html body text table tbody tr td p code span  ,setActive,52,5557,78,15,1,10
+html body text table tbody tr td p span  ,method of,130,5554,70,17,1,9
+html body text table tbody tr td p code span  ,Frame3D,200,5557,62,15,1,10
+html body text table tbody tr td p span  ,"is invoked with an argument set to true,",262,5554,257,17,1,9
+html body text table tbody tr td p code span  ,DisplayServerControl,519,5557,164,15,1,10
+html body text table tbody tr td p span  ,eventually receives server-side representation of the,683,5554,336,17,1,9
+html body text table tbody tr td p code span  ,Frame3D,1019,5557,63,15,1,10
+html body text table tbody tr td p span  ,object. The,1082,5554,75,17,1,9
+html body text table tbody tr td p code span  ,DisplayServerControl,1157,5557,164,15,1,10
+html body text table tbody tr td p span  ,then in turn passes the object to the,1321,5554,229,17,1,9
+html body text table tbody tr td p code span  ,SceneManagerBase,1550,5557,133,15,1,10
+html body text table tbody tr td p span  ,object. Note that the native window abstraction layer also provides a,1683,5554,443,17,1,9
+html body text table tbody tr td p code span  ,Frame3D,2126,5557,62,15,1,10
+html body text table tbody tr td p span  ,"object as the top level object with which Scene Manager interacts. In this way, there is no difference between an LG3D-aware 3D application and a 3D-mapped native window.",10,5554,2730,35,1,9
+html body text table tbody tr td p b span  ,Application Container,10,5606,153,17,1,10
+html body text table tbody tr td p span  ,The,10,5640,29,17,1,9
+html body text table tbody tr td p code span  ,Application Container,39,5643,172,15,1,10
+html body text table tbody tr td p span  ,is a key foundation for implementing the user interaction and application navigation capabilities of Scene Manager. It is also useful for achieving two-and-a-half dimension desktop experience. The application container is a subclass of,211,5640,1501,17,1,9
+html body text table tbody tr td p code span  ,Container3D,1712,5643,93,15,1,10
+html body text table tbody tr td p span  ,"and is specialized for hosting applications, such as",1805,5640,327,17,1,9
+html body text table tbody tr td p code span  ,Frame3D,2132,5643,62,15,1,10
+html body text table tbody tr td p span  ,objects.,2194,5640,50,17,1,9
+html body text table tbody tr td p span  ,"An application container usually leverages the 3D layout manager to implement easy-to-access application arrangements in the container. It is key to leveraging the 3D space when arranging the applications. Based on a Scene Manager implementation exercise, the 3D layout manager turned out to be a flexible platform for achieving the goal while allowing implementations to be componentized.",10,5674,2539,17,1,9
+html body text table tbody tr td p span  ,A single Scene Manager can host multiple application containers. The Scene Manager implements the concept of the current application container. It receives a,10,5708,1024,17,1,9
+html body text table tbody tr td p code span  ,Frame3D,1034,5711,62,15,1,10
+html body text table tbody tr td p span  ,object when a new LG3D-aware application is activated. The current container can be switched dynamically. This feature is typically used to implement virtual desktop switching.,1096,5708,1144,17,1,9
+html body text table tbody tr td p b span  ,The Background,10,5742,115,17,1,10
+html body text table tbody tr td p span  ,"In the LG3D 3D desktop environment, the background is more than just a static image behind application windows. It actually defines the 3D environment with which the user can interact and where application containers can be positioned.",10,5776,1535,17,1,9
+html body text table tbody tr td p span  ,The Background can comprise any 3D geometry as it is a subclass of,10,5810,446,17,1,9
+html body text table tbody tr td p code span  ,Container3D,456,5813,93,15,1,10
+html body text table tbody tr td p span  ,", to which any geometry can be added and any behavior can be integrated.",549,5810,474,17,1,9
+html body text table tbody tr td p span  ,"In addition to setting up the geometry to render on the background, the",10,5844,457,17,1,9
+html body text table tbody tr td p code span  ,Background,467,5847,86,15,1,10
+html body text table tbody tr td p span  ,object also hosts application containers. The object usually keeps a reference to a,553,5844,523,17,1,9
+html body text table tbody tr td p code span  ,SceneManager,1076,5847,101,15,1,10
+html body text table tbody tr td p span  ,object that is passed through the,1177,5844,210,17,1,9
+html body text table tbody tr td p code span  ,initialize,1387,5847,86,15,1,10
+html body text table tbody tr td p span  ,"method, and invokes the",1473,5844,160,17,1,9
+html body text table tbody tr td p code span  ,SceneManager,1633,5847,102,15,1,10
+html body text table tbody tr td p span  ,object to manage application containers including obtaining and switching current. Since,1735,5844,573,17,1,9
+html body text table tbody tr td p code span  ,Application Container,2308,5847,171,15,1,10
+html body text table tbody tr td p span  ,is just a subclass of,2479,5844,128,17,1,9
+html body text table tbody tr td p code span  ,Container3D,2607,5847,94,15,1,10
+html body text table tbody tr td p span  ,", the background object can place it anywhere in the 3D scene. It also can allow the user to handle multiple application containers by switching the current application container and changing the view so that the current one remains accessible to the user.",10,5844,2718,35,1,9
+html body text table tbody tr td p span  ,"For more details, you may want to check out the",10,5896,313,17,1,9
+html body text table tbody tr td p code span  ,SimpleImageBackground,323,5899,172,15,1,10
+html body text table tbody tr td p span  ,"class, which is a simple example implementation of background with comments.",495,5896,516,17,1,9
+html body text table tbody tr td p b span  ,Global Lights,10,5930,94,17,1,10
+html body text table tbody tr td p span  ,"Light is also componentized. Instead of a static global light that the default implementation provides (StandardGlobalLights), you can develop lights that dynamically change angle and color based on time of the day, for example. Or, a Scene Manager may want to use lighting effects to provide an alert or focus to the user.",10,5964,2060,17,1,9
+html body text table tbody tr td p b span  ,Cursor Module,10,5998,105,17,1,10
+html body text table tbody tr td p span  ,A,10,6032,15,17,1,9
+html body text table tbody tr td p code span  ,CursorModule,25,6035,101,15,1,10
+html body text table tbody tr td p span  ,class implements policies on how cursor is displayed. It provides Scene Manager hooks for the addition and removal of,126,6032,769,17,1,9
+html body text table tbody tr td p code span  ,Cursor3D,895,6035,70,15,1,10
+html body text table tbody tr td p span  ,"objects, and a hook for positioning the current cursor. For example, in the default implementation",965,6032,627,17,1,9
+html body text table tbody tr td p code span  ,StandardCursorModule,1592,6035,164,15,1,10
+html body text table tbody tr td p span  ,", the maximum distance of the current cursor from the user's point of view is limited to a certain value so that the cursor will appear to the user at a reasonable size. Without this policy, a cursor could be drawn so far away on the surface of the background that the user would have difficulty finding it.",10,6032,2686,35,1,9
+html body text table tbody tr td b span  ,Interaction Events Between Frame3D and Scene Manager,10,6084,396,17,1,9
+html body text table tbody tr td p span  ,The generic event system is employed as the main communication method between,10,6122,539,17,1,9
+html body text table tbody tr td p code span  ,Frame3D,549,6125,62,15,1,10
+html body text table tbody tr td p span  ,"and Scene Manager, to achieve both loosely coupled componentization and the interplay of a rich set of user actions and requests between them.",611,6122,923,17,1,9
+html body text table tbody tr td p span  ,"This area needs more investigation. Currently, a few adhoc events have been introduced to achieve the initial demo features.",10,6156,795,17,1,9
+html body text table tbody tr td div b span  ,Existing 2D Application Integration,10,6190,244,17,1,10
+html body text table tbody tr td p span  ,The 2D application integration framework can be roughly divided into two major areas: the Foundation Window System (FWS) module and the Native Window representation module.,10,6228,1177,17,1,9
+html body text table tbody tr td table tbody tr td div span b span  ,Figure 8,55,6486,61,17,0,15
+html body text table tbody tr td table tbody tr td div span span  ,: 2D Integration Classes.,116,6486,159,17,0,14
+html body text table tbody tr td a span  ,Click to enlarge,10,6506,102,17,0,9
+html body text table tbody tr td p span  ,"The FWS module provides the integration with the underlying window system, including application visual capture and event delivery integration. Since these interfaces are not a part of the client API and not visible to client application developers, this document does not cover any details.",10,6558,1854,17,1,9
+html body text table tbody tr td p span  ,"The Native Window representation module sits on top of the FWS, and provides abstracted representation of native window application's visual aspect. It is in the",10,6592,1040,17,1,9
+html body text table tbody tr td p code span  ,org.jdesktop.lg3d.displayserver.nativewindow,1050,6595,351,15,1,10
+html body text table tbody tr td p span  ,package. Its two primary design goals are to,1401,6592,283,17,1,9
+html body text table tbody tr td ul li span  ,Allow a pluggable Look and Feel,50,6626,215,17,1,10
+html body text table tbody tr td ul li span  ,Encapsulate complexity around native window capture and communication,50,6644,482,17,1,10
+html body text table tbody tr td p span  ,"The classes in this package attempt to abstract and hide all the complexity around the native application visual capture, as well as necessary communication with the application side. Figure 8 illustrates the relationships among the major classes.",10,6678,1564,17,1,9
+html body text table tbody tr td p code span  ,NativeWindow3D,1574,6681,117,15,1,10
+html body text table tbody tr td p span  ,is the top level class with which,1691,6678,208,17,1,9
+html body text table tbody tr td p code span  ,SceneManager,1899,6681,102,15,1,10
+html body text table tbody tr td p span  ,interacts. It extends Frame3D and behaves just like another LG3D-aware 3D application. It also implements the methods declared in,10,6678,2707,35,1,9
+html body text table tbody tr td p code span  ,NativeWindowMonitor,143,6699,156,15,1,10
+html body text table tbody tr td p span  ,", which are used for the native 2D window manager to give notifications about status changes, and so on. The implementation, in turn, uses",299,6696,895,17,1,9
+html body text table tbody tr td p code span  ,NativeWindowControl,1194,6699,156,15,1,10
+html body text table tbody tr td p span  ,"interface to communicate back to the native window manager, so that it can perform actions on the 2D applicationassociated with this object.",1350,6696,903,17,1,9
+html body text table tbody tr td p code span  ,NativeWindowLookAndFeel,10,6733,187,15,1,10
+html body text table tbody tr td p span  ,"defines the native window's appearance and visual texture. At this level, typically, window decoration is constructed. The current implementation includes",197,6730,991,17,1,9
+html body text table tbody tr td p code span  ,GlassyNativeWindowLookAndFeel,1188,6733,234,15,1,10
+html body text table tbody tr td p span  ,in the,1422,6730,40,17,1,9
+html body text table tbody tr td p code span  ,lg3d.scenemanager.utils.decoration,1462,6733,273,15,1,10
+html body text table tbody tr td p span  ,package as an example.,1735,6730,151,17,1,9
+html body text table tbody tr td p code span  ,NativeWindowObject,10,6767,148,15,1,10
+html body text table tbody tr td p span  ,and,158,6764,27,17,1,9
+html body text table tbody tr td p code span  ,TiledNativeWindowImage,185,6767,180,15,1,10
+html body text table tbody tr td p span  ,"exist to hide all the complexity related to native window capture support. Texture is used for presenting captured 2D window surfaces in the 3D space, but it has a size limitation that is sometimes smaller than maximum 2D window size. To deal with large 2D window capture, we use composite multiple textures created from a set of",365,6764,2133,17,1,9
+html body text table tbody tr td p code span  ,ImageComponent2Ds,2498,6767,140,15,1,10
+html body text table tbody tr td p span  ,. The details are hidden under these classes.,10,6764,2730,35,1,9
+html body text table tbody tr td div b span  ,Window Decoration Customization,10,6816,241,17,1,10
+html body text table tbody tr td p span  ,By subclassing,10,6855,100,17,1,9
+html body text table tbody tr td p code span  ,NativeWindowLookAndFeel,110,6858,188,15,1,10
+html body text table tbody tr td p span  ,", you can develop your own window decoration. If you want a native window representation this is not on a simple quad � on a wavy sheet, for example &ndash you will need to implement a version of",298,6855,1299,17,1,9
+html body text table tbody tr td p code span  ,NativeWindowObject,1596,6858,148,15,1,10
+html body text table tbody tr td p span  ,that supports the shape you want.,1745,6855,213,17,1,9
+html body text table tbody tr td p span  ,"An API to map multiple native window representations on surfaces of a single object is under development, which will be used to put another view on the back side of the window.",10,6889,1148,17,1,9
+html body text table tbody tr td div b span  ,A Quick Tour of the Project Looking Glass Source Code,10,6923,382,17,1,10
+html body text table tbody tr td p span  ,"Now that you've learned the basic architecture of Project Looking Glass and understand its important classes, you are invited to download the code and to begin contributing your programming skills. To work on this project, you need to be a",10,6961,1542,17,1,9
+html body text table tbody tr td p code span  ,java.net,1552,6964,70,15,1,10
+html body text table tbody tr td p span  ,"member, which is free upon registration. Then you can download and install a working version of the software and the source code.",1622,6961,842,17,1,9
+html body text table tbody tr td p span  ,The Project Looking Glass source code is located in the,10,6995,361,17,1,9
+html body text table tbody tr td p code span  ,lg3d-core/src,371,6998,109,15,1,10
+html body text table tbody tr td p span  ,CVS repository. The following table is an overview of the various files in the the repository.,480,6995,589,17,1,9
+html body text table tbody tr td div b span  ,Repository Files,10,7029,111,17,1,10
+html body text table tbody tr td div table tbody tr th div b span  ,Directory,10,7047,65,17,1,15
+html body text table tbody tr td div table tbody tr th div b span  ,Description,557,7047,79,17,1,15
+html body text table tbody tr td div table tbody tr td div code span  ,build/,10,7068,47,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,The build files are stored in this directory.,557,7067,268,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,build-tools/,10,7086,94,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Tools for building Project Looking Glass.,557,7085,266,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,build.xml,10,7104,70,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,The Ant build control file.,557,7103,168,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,ext/,10,7122,31,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Components released with Project Looking Glass: escher (Java bindings to X11) and a stable build of,557,7121,654,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,lg3d-x11,1210,7124,70,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,.,1281,7121,4,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,ext-unbundled/,10,7140,109,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,"A directory in which you can put components not licensed for distribution with Project Looking Glass (that is, junit, Java3D loaders, and so forth.) You can also install your own build of",557,7139,1190,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,lg3d-x11,1747,7142,70,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,here instead of using,1817,7139,137,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,$LGX11HOME,1954,7142,86,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,.,2040,7139,4,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,src/,10,7158,31,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,The root of the,557,7157,100,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,lg3d-core,657,7160,78,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,source tree.,735,7157,73,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,classes/,10,7176,62,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,All,557,7175,24,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,.java,581,7178,47,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,files. Refer to the Javadocs in the binary bundle in,628,7175,326,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,docs/javadoc/api,954,7178,133,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,for more information.,1087,7175,139,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,devscripts/,10,7194,86,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Various Project Looking Glass development scripts. These utilize classes in the,557,7193,511,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,build/,1068,7196,54,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,directory.,1122,7193,61,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,HelloUniverse,10,7212,101,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Runs the Java3D rotating cube demo in a Project Looking Glass session.,557,7211,465,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,README,10,7230,47,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Documentation for some scripts in this directory.,557,7229,313,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,displayserver,10,7248,101,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Runs the Display Server.,557,7247,159,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,lg3d-dev,10,7266,62,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Runs a Project Looking Glass session in a window (developer or No X mode).,557,7265,502,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,lg3d-session,10,7284,94,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,"Runs a Project Looking Glass session in full screen mode, with X11 support.",557,7283,492,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,setup,10,7302,39,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,A helper script used by the other scripts.,557,7301,258,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,etc/,10,7320,31,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Contains various configuration files.,557,7319,234,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,jz/,10,7338,23,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,An obsolete directory.,557,7337,142,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,lg3d/,10,7355,39,15,1,15
+html body text table tbody tr td div table tbody tr td div code span  ,README,10,7371,47,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Documentation for the various,557,7370,200,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,lgconfig*,757,7373,78,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,files.,835,7370,32,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,lgconfig*,10,7389,70,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Configuration scripts for the various modes in which Project Looking Glass can be run.,557,7388,560,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,logging.properties,10,7407,140,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,"Configuration file that controls the verbosity of logging output to the Display Server log file,",557,7406,598,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,/var/tmp/lgserver.log,1155,7409,164,15,1,15
+html body text table tbody tr td div table tbody tr td div code span  ,displayconfig/,10,7434,109,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,"For the adventurous. Contains files that allow Project Looking Glass to be run in more complex display environments such as multi-screen, stereo, or power walls. The choice of configurations is controlled by the",557,7424,1361,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,lgconfig.xml,1918,7427,93,15,1,15
+html body text table tbody tr td div table tbody tr td div b span  ,WARNING!,557,7442,88,17,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Alternate display configurations have not been extensively tested yet.,645,7442,445,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,native/org/jdesktop/lg3d/displayserver/fws/x11/,10,7461,367,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,The C code for X11 integration.,557,7460,205,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,resources/images/,10,7479,133,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Assorted images used by Project Looking Glass.,557,7478,311,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,scripts/,10,7497,62,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Scripts for running the Project Looking Glass release. These utilize classes from the release JAR files.,557,7496,653,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,displayserver,10,7515,101,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Runs the Display Server (users should not run this directly).,557,7514,384,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,lg3d-dev,10,7533,62,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Runs a Project Looking Glass session in a window (developer or No X mode).,557,7532,502,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,lg3d-session,10,7551,94,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,"Runs a Project Looking Glass session in full screen mode, with X11 support.",557,7550,492,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,setup,10,7569,39,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,A helper script uses by the other scripts. (Users should not run this directly).,557,7568,487,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,tests/,10,7587,47,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,Eventually will hold the test suite for Project Looking Glass.,557,7586,388,17,1,14
+html body text table tbody tr td div table tbody tr td div code span  ,www/,10,7605,31,15,1,15
+html body text table tbody tr td div table tbody tr td div code span  ,java.net,557,7607,70,15,1,15
+html body text table tbody tr td div table tbody tr td div span  ,site pages and various documentation.,627,7604,244,17,1,14
+html body text table tbody tr td div b span  ,Areas That Require Developer Participation,10,7659,302,17,1,10
+html body text table tbody tr td p span  ,The following areas need developer participation:,10,7697,319,17,1,9
+html body text table tbody tr td ul li span  ,"LG3D 3D API refinements, refinements, refinements!",50,7731,345,17,1,10
+html body text table tbody tr td ul li span  ,"Exploration of 3D Window Manager UI design, using the following documents as starting points:",50,7749,625,17,1,10
+html body text table tbody tr td ul li ul li a span  ,Project Looking Glass UI Design Discussions,90,7767,294,17,1,13
+html body text table tbody tr td ul li ul li a span  ,Related Technologies,90,7785,138,17,1,13
+html body text table tbody tr td ul li span  ,Exploration of new 3D applications,50,7803,228,17,1,10
+html body text table tbody tr td ul li span  ,C++ client-side API and implementation,50,7821,260,17,1,10
+html body text table tbody tr td ul li span  ,GNOME/KDE compatibility,50,7839,185,17,1,10
+html body text table tbody tr td p span  ,Also check,10,7873,76,17,1,9
+html body text table tbody tr td p a span  ,the,86,7873,23,17,1,10
+html body text table tbody tr td p a code span  ,lg3d-x11,109,7876,70,15,1,11
+html body text table tbody tr td p a span  ,project page,179,7873,83,17,1,10
+html body text table tbody tr td p span  ,for the topics specific to X11 integration.,262,7873,263,17,1,9
+html body text table tbody tr td div b span  ,For More Information,10,7907,153,17,0,10
+html body text table tbody tr td ul li a span  ,Project Looking Glass,50,7945,143,17,0,11
+html body text table tbody tr td ul li a code span  ,lg3d-core.dev.java.net,50,7966,172,15,0,12
+html body text table tbody tr td ul li a span  ,FAQ - Frequently Asked Questions,50,7981,225,17,0,11
+html body text table tbody tr td ul li a span  ,Getting started with Project Looking Glass,50,7999,274,17,0,11
+html body text table tbody tr td ul ul li a span  ,NVIDIA Driver Installation Tips,90,8017,209,17,0,12
+html body text table tbody tr td ul ul li a span  ,DRI Driver installation for ATI Radeon,90,8035,252,17,0,12
+html body text table tbody tr td ul ul li a span  ,3D Acceleration on a Tadpole Talin JDS Laptop (ATI Radeon M9),90,8053,426,17,0,12
+html body text table tbody tr td ul ul li a span  ,ATI Binary driver installation instructions for non-RPM-based distributions,90,8071,484,17,0,12
+html body text table tbody tr td ul li span  ,Project Looking Glass Tutorials:,50,8089,208,17,0,10
+html body text table tbody tr td ul li ul li a span  ,Tutorial 1 - An introduction to the LG3D framework,90,8107,340,17,0,13
+html body text table tbody tr td ul li ul li span  ,- The basics of creating a 3D application within the LG3D framework,430,8107,447,17,0,12
+html body text table tbody tr td ul li ul li a span  ,Tutorial 2 - Simple manipulations and user interaction,90,8125,350,17,0,13
+html body text table tbody tr td ul li ul li span  ,- Simple manipulations and user interaction with a 3D application.,440,8125,426,17,0,12
+html body text table tbody tr td ul li ul li a span  ,Tutorial 3 - Complex manipulations and user interaction,90,8143,364,17,0,13
+html body text table tbody tr td ul li ul li span  ,- More complex manipulations and user interaction with a 3D application. Create a sphere with the Earth texture and a small handle to move it.,454,8143,916,17,0,12
+html body text table tbody tr td ul li a span  ,Project Looking Glass Developer's Guide,50,8161,266,17,0,11
+html body text table tbody tr td ul li a code span  ,javadesktop.org,50,8182,125,15,0,12
+html body text table tbody tr td ul li a span  ,Forum: Project Looking Glass 3D,175,8179,218,17,0,11
+html body text table tbody tr td ul li a span  ,Issue Tracker Query,50,8197,130,17,0,11
+html body text table tbody tr td ul li a span  ,JavaOne 2004 slides (PDF 900KB),50,8215,226,17,0,11
+html body text table tbody tr td ul li a span  ,DRAFT - LG3D API Design Overview (PDF 330KB),50,8233,346,17,0,11
+html body text table tbody tr td ul li a span  ,Related Technologies,50,8251,138,17,0,11
+html body text table tbody tr td ul li a span  ,UI Design Discussions,50,8269,147,17,0,11
+html body text table tbody tr td ul li a span  ,TWiki.Javadesktop.ProjectLookingGlass,50,8287,262,17,0,11
+html body text table tbody tr td ul li a span  ,"Chat Transcript with Guests Hideya Kawahara, Paul Byrne, and Deron Johnson",50,8305,509,17,0,11
+html body text table tbody tr td form table tbody tr td table tbody tr td b span  ,Rate and Review,15,8369,116,17,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,Tell us what you think of the content of this page.,15,8395,317,17,0,17
+html body text table tbody tr td form table tbody tr td table tbody tr td b span  ,Excellent,15,8421,67,17,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td b span  ,Good,82,8421,41,17,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td b span  ,Fair,123,8421,33,17,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td b span  ,Poor,156,8421,33,17,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td b span  ,Comments:,15,8447,79,17,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td b span  ,Your email address (no reply is possible without an address):,15,8522,414,17,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td a span  ,Sun Privacy Policy,15,8540,123,17,0,18
+html body text table tbody tr td form table tbody tr td table tbody tr td span  ,Note: We are not able to respond to all submitted comments.,15,8576,387,17,0,17
+html body text table tbody tr td table tbody tr td div a span  ,About Sun,200,8667,73,17,0,14
+html body text table tbody tr td table tbody tr td div span  ,|,273,8667,6,17,0,13
+html body text table tbody tr td table tbody tr td div a span  ,About This Site,279,8667,105,17,0,14
+html body text table tbody tr td table tbody tr td div span  ,|,384,8667,7,17,0,13
+html body text table tbody tr td table tbody tr td div a span  ,Newsletters,391,8667,80,17,0,14
+html body text table tbody tr td table tbody tr td div span  ,|,471,8667,7,17,0,13
+html body text table tbody tr td table tbody tr td div a span  ,Contact Us,478,8667,76,17,0,14
+html body text table tbody tr td table tbody tr td div span  ,|,554,8667,3,17,0,13
+html body text table tbody tr td table tbody tr td div a span  ,Employment,200,8685,83,17,0,14
+html body text table tbody tr td table tbody tr td div a span  ,How to Buy,200,8703,82,17,0,14
+html body text table tbody tr td table tbody tr td div span  ,|,282,8703,7,17,0,13
+html body text table tbody tr td table tbody tr td div a span  ,Licensing,289,8703,68,17,0,14
+html body text table tbody tr td table tbody tr td div span  ,|,357,8703,6,17,0,13
+html body text table tbody tr td table tbody tr td div a span  ,Terms of Use,363,8703,90,17,0,14
+html body text table tbody tr td table tbody tr td div span  ,|,453,8703,8,17,0,13
+html body text table tbody tr td table tbody tr td div a span  ,Privacy,461,8703,53,17,0,14
+html body text table tbody tr td table tbody tr td div span  ,|,514,8703,3,17,0,13
+html body text table tbody tr td table tbody tr td div a span  ,Trademarks,200,8721,76,17,0,14
+html body text table tbody tr td table tbody tr td div span  ,"Copyright 1994-2006 Sun Microsystems, Inc.",200,8793,293,17,0,13
+html body text table tbody tr td table tbody tr td div b a span  ,A Sun Developer Network Site,605,8666,115,35,0,15
+html body text table tbody tr td table tbody tr td div span  ,"Unless otherwise licensed, code in all technical manuals herein (including articles, FAQs, samples) is provided under this",605,8703,165,107,0,13
+html body text table tbody tr td table tbody tr td div a span  ,License,673,8793,53,17,0,14
+html body text table tbody tr td table tbody tr td div span  ,.,726,8793,4,17,0,13
+html body text table tbody tr td table tbody tr td div a span  ,Content Feeds,645,8829,92,17,0,14

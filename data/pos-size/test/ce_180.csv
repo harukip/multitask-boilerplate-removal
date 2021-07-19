@@ -1,0 +1,292 @@
+tag,content,x,y,width,height,label,depth
+html body text div div div a span  ,The Library of Congress,8,60,162,17,0,8
+html body text div div div span span  ,>,170,60,12,17,0,8
+html body text div div div a span  ,THOMAS Home,182,60,115,17,0,8
+html body text div div div span span  ,>,297,60,13,17,0,8
+html body text div div div a span  ,Committee Reports,310,60,129,17,0,8
+html body text div div div span  ,> Search Results,439,60,112,17,0,7
+html body text div div table tbody tr td font span  ,THIS SEARCH,11,81,51,31,0,11
+html body text div div table tbody tr td font span  ,THIS DOCUMENT,98,89,106,15,0,11
+html body text div div table tbody tr td font span  ,GOTO,208,89,36,15,0,11
+html body text div div table tbody tr td font span  ,Next Hit,11,125,45,15,0,11
+html body text div div table tbody tr td font span  ,Forward,98,125,44,15,0,11
+html body text div div table tbody tr td font a font span  ,New Search,208,125,63,15,0,13
+html body text div div table tbody tr td font span  ,Prev Hit,11,153,44,15,0,11
+html body text div div table tbody tr td font span  ,Back,98,153,27,15,0,11
+html body text div div table tbody tr td font a font span  ,Home Page,208,153,60,15,0,13
+html body text div div table tbody tr td font span  ,Hit List,11,173,40,15,0,11
+html body text div div table tbody tr td font a font span  ,Full Display,98,173,65,15,0,13
+html body text div div table tbody tr td font a font span  ,Help,208,173,25,15,0,13
+html body text div div table tbody tr td font span  ,Contents Display,98,193,90,15,0,11
+html body text div div center strong span  ,"House Report 107-116 - AGRICULTURE, RURAL DEVELOPMENT, FOOD AND DRUG ADMINISTRATION, AND RELATED AGENCIES APPROPRIATIONS BILL, 2002",84,242,617,35,1,8
+html body text div div center table tbody tr td font span  ,Full Display,188,305,65,15,0,12
+html body text div div center table tbody tr td center font span  ,Related Information,435,305,106,15,0,13
+html body text div div center table tbody tr td center font a span  ,PDF,194,343,23,15,0,14
+html body text div div center table tbody tr td center font a span  ,Printer Friendly Display,238,343,127,15,0,14
+html body text div div center table tbody tr td center font a span  ,Bill Summary and Status,395,335,96,31,0,14
+html body text div div center table tbody tr td center font a span  ,Full Text of Bill,528,335,60,31,0,14
+html body text div div b span  ,Table of Contents,8,430,120,17,1,7
+html body text div div a span  ,Beginning,8,466,67,17,1,7
+html body text div div a span  ,INTRODUCTION,8,484,121,17,1,7
+html body text div div a span  ,CONSTITUTIONAL AUTHORITY,8,502,235,17,1,7
+html body text div div a span  ,TITLE I--AGRICULTURAL PROGRAMS,8,520,279,17,1,7
+html body text div div a span  ,"PRODUCTION, PROCESSING, AND MARKETING",8,538,351,17,1,7
+html body text div div a span  ,OFFICE OF THE SECRETARY,8,556,210,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,574,193,17,1,7
+html body text div div a span  ,EXECUTIVE OPERATIONS,8,592,192,17,1,7
+html body text div div a span  ,OFFICE OF THE CHIEF ECONOMIST,8,610,262,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,628,193,17,1,7
+html body text div div a span  ,NATIONAL APPEALS DIVISION,8,646,228,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,664,193,17,1,7
+html body text div div a span  ,OFFICE OF BUDGET AND PROGRAM ANALYSIS,8,682,350,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,700,193,17,1,7
+html body text div div a span  ,OFFICE OF THE CHIEF INFORMATION OFFICER,8,718,349,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,736,193,17,1,7
+html body text div div a span  ,COMMON COMPUTING ENVIRONMENT,8,754,294,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,772,193,17,1,7
+html body text div div a span  ,OFFICE OF THE CHIEF FINANCIAL OFFICER,8,790,324,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,808,193,17,1,7
+html body text div div a span  ,OFFICE OF THE ASSISTANT SECRETARY FOR ADMINISTRATION,8,826,472,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,844,193,17,1,7
+html body text div div a span  ,AGRICULTURE BUILDINGS AND FACILITIES AND RENTAL PAYMENTS,8,862,518,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,880,193,17,1,7
+html body text div div a span  ,AGRICULTURE BUILDINGS AND FACILITIES AND RENTAL PAYMENTS,8,898,518,17,1,7
+html body text div div a span  ,HAZARDOUS MATERIALS MANAGEMENT,8,916,312,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,934,193,17,1,7
+html body text div div a span  ,DEPARTMENTAL ADMINISTRATION,8,952,265,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,970,193,17,1,7
+html body text div div a span  ,OUTREACH FOR SOCIALLY DISADVANTAGED FARMERS,8,988,419,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1006,193,17,1,7
+html body text div div a span  ,OFFICE OF THE ASSISTANT SECRETARY FOR CONGRESSIONAL RELATIONS,8,1024,560,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1042,193,17,1,7
+html body text div div a span  ,OFFICE OF COMMUNICATIONS,8,1060,230,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1078,193,17,1,7
+html body text div div a span  ,OFFICE OF INSPECTOR GENERAL,8,1096,249,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1114,193,17,1,7
+html body text div div a span  ,OFFICE OF THE GENERAL COUNSEL,8,1132,270,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1150,193,17,1,7
+html body text div div a span  ,"OFFICE OF THE UNDER SECRETARY FOR RESEARCH, EDUCATION, AND ECONOMICS",8,1168,630,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1186,193,17,1,7
+html body text div div a span  ,ECONOMIC RESEARCH SERVICE,8,1204,242,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1222,193,17,1,7
+html body text div div a span  ,NATIONAL AGRICULTURAL STATISTICS SERVICE,8,1240,365,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1258,193,17,1,7
+html body text div div a span  ,AGRICULTURAL RESEARCH SERVICE,8,1276,279,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1294,193,17,1,7
+html body text div div a span  ,BUILDINGS AND FACILITIES,8,1312,212,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1330,193,17,1,7
+html body text div div a span  ,"COOPERATIVE STATE RESEARCH, EDUCATION, AND EXTENSION SERVICE",8,1348,552,17,1,7
+html body text div div a span  ,RESEARCH AND EDUCATION ACTIVITIES,8,1366,308,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1384,193,17,1,7
+html body text div div a span  ,NATIVE AMERICAN INSTITUTIONS ENDOWMENT FUND,8,1402,416,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1420,193,17,1,7
+html body text div div a span  ,EXTENSION ACTIVITIES,8,1438,181,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1456,193,17,1,7
+html body text div div a span  ,INTEGRATED ACTIVITIES,8,1474,191,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1492,193,17,1,7
+html body text div div a span  ,OFFICE OF THE UNDER SECRETARY FOR MARKETING AND REGULATORY PROGRAMS,8,1510,642,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1528,193,17,1,7
+html body text div div a span  ,ANIMAL AND PLANT HEALTH INSPECTION SERVICE,8,1546,390,17,1,7
+html body text div div a span  ,SALARIES AND EXPENSES,8,1564,197,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1582,193,17,1,7
+html body text div div a span  ,BUILDINGS AND FACILITIES,8,1600,212,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1618,193,17,1,7
+html body text div div a span  ,AGRICULTURAL MARKETING SERVICE,8,1636,292,17,1,7
+html body text div div a span  ,MARKETING SERVICES,8,1654,174,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1672,193,17,1,7
+html body text div div a span  ,LIMITATION ON ADMINISTRATIVE EXPENSES,8,1690,340,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1708,193,17,1,7
+html body text div div a span  ,"FUNDS FOR STRENGTHENING MARKETS, INCOME, AND SUPPLY",8,1726,480,17,1,7
+html body text div div a span  ,(SECTION 32),8,1744,98,17,1,7
+html body text div div a span  ,MARKETING AGREEMENT AND ORDERS,8,1762,302,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1780,193,17,1,7
+html body text div div a span  ,PAYMENTS TO STATES AND POSSESSIONS,8,1798,313,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1816,193,17,1,7
+html body text div div a span  ,"GRAIN INSPECTION, PACKERS AND STOCKYARDS ADMINISTRATION",8,1834,513,17,1,7
+html body text div div a span  ,SALARIES AND EXPENSES,8,1852,197,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1870,193,17,1,7
+html body text div div a span  ,LIMITATION ON INSPECTION AND WEIGHING SERVICES EXPENSES,8,1888,500,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1906,193,17,1,7
+html body text div div a span  ,OFFICE OF THE UNDER SECRETARY FOR FOOD SAFETY,8,1924,415,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1942,193,17,1,7
+html body text div div a span  ,FOOD SAFETY AND INSPECTION SERVICE,8,1960,312,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,1978,193,17,1,7
+html body text div div a span  ,FARM ASSISTANCE PROGRAMS,8,1996,235,17,1,7
+html body text div div a span  ,OFFICE OF THE UNDER SECRETARY FOR FARM AND FOREIGN AGRICULTURAL SERVICES,8,2014,666,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2032,193,17,1,7
+html body text div div a span  ,FARM SERVICE AGENCY,8,2050,183,17,1,7
+html body text div div a span  ,SALARIES AND EXPENSES,8,2068,197,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2086,193,17,1,7
+html body text div div a span  ,STATE MEDIATION GRANTS,8,2104,208,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2122,193,17,1,7
+html body text div div a span  ,DAIRY INDEMNITY PROGRAM,8,2140,226,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2158,193,17,1,7
+html body text div div a span  ,AGRICULTURAL CREDIT INSURANCE FUND PROGRAM ACCOUNT,8,2176,491,17,1,7
+html body text div div a span  ,ESTIMATED LOAN LEVELS,8,2194,201,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2212,193,17,1,7
+html body text div div a span  ,AGRICULTURE CREDIT PROGRAMS,8,2230,265,17,1,7
+html body text div div a span  ,ESTIMATED LOAN SUBSIDY AND ADMINISTRATIVE EXPENSES LEVELS,8,2248,532,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2266,193,17,1,7
+html body text div div a span  ,RISK MANAGEMENT AGENCY,8,2284,226,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2302,193,17,1,7
+html body text div div a span  ,CORPORATIONS,8,2320,121,17,1,7
+html body text div div a span  ,FEDERAL CROP INSURANCE CORPORATION FUND,8,2338,376,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2356,193,17,1,7
+html body text div div a span  ,COMMODITY CREDIT CORPORATION FUND,8,2374,325,17,1,7
+html body text div div a span  ,REIMBURSEMENT FOR NET REALIZED LOSSES,8,2392,351,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2410,193,17,1,7
+html body text div div a span  ,OPERATIONS AND MAINTENANCE FOR HAZARDOUS WASTE MANAGEMENT,8,2428,571,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2446,193,17,1,7
+html body text div div a span  ,TITLE II--CONSERVATION PROGRAMS,8,2464,281,17,1,7
+html body text div div a span  ,OFFICE OF THE UNDER SECRETARY FOR NATURAL RESOURCES AND ENVIRONMENT,8,2482,637,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2500,193,17,1,7
+html body text div div a span  ,NATURAL RESOURCES CONSERVATION SERVICE,8,2518,363,17,1,7
+html body text div div a span  ,CONSERVATION OPERATIONS,8,2536,221,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2554,193,17,1,7
+html body text div div a span  ,WATERSHED SURVEYS AND PLANNING,8,2572,294,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2590,193,17,1,7
+html body text div div a span  ,WATERSHED AND FLOOD PREVENTION OPERATIONS,8,2608,396,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2626,193,17,1,7
+html body text div div a span  ,RESOURCE CONSERVATION AND DEVELOPMENT,8,2644,367,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2662,193,17,1,7
+html body text div div a span  ,FORESTRY INCENTIVES PROGRAM,8,2680,262,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2698,193,17,1,7
+html body text div div a span  ,AGRICULTURAL CONSERVATION PROGRAM,8,2716,329,17,1,7
+html body text div div a span  ,(RESCISSION OF FUNDS),8,2734,183,17,1,7
+html body text div div a span  ,TITLE III--RURAL DEVELOPMENT PROGRAMS,8,2752,343,17,1,7
+html body text div div a span  ,OFFICE OF THE UNDER SECRETARY FOR RURAL DEVELOPMENT,8,2770,483,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2788,193,17,1,7
+html body text div div a span  ,RURAL DEVELOPMENT SALARIES AND EXPENSES,8,2806,377,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2824,193,17,1,7
+html body text div div a span  ,RURAL COMMUNITY ADVANCEMENT PROGRAM,8,2842,365,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2860,193,17,1,7
+html body text div div a span  ,RURAL HOUSING SERVICE,8,2878,199,17,1,7
+html body text div div a span  ,RURAL HOUSING INSURANCE FUND PROGRAM ACCOUNT,8,2896,436,17,1,7
+html body text div div a span  ,ESTIMATED LOAN AND GRANT LEVELS,8,2914,297,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2932,193,17,1,7
+html body text div div a span  ,"ESTIMATED LOAN SUBSIDY, GRANTS, AND ADMINISTRATIVE EXPENSES LEVELS",8,2950,606,17,1,7
+html body text div div a span  ,RENTAL ASSISTANCE PROGRAM,8,2968,243,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,2986,193,17,1,7
+html body text div div a span  ,MUTUAL AND SELF-HELP HOUSING GRANTS,8,3004,336,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3022,193,17,1,7
+html body text div div a span  ,FARM LABOR PROGRAM ACCOUNT,8,3040,266,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3058,193,17,1,7
+html body text div div a span  ,RURAL HOUSING ASSISTANCE GRANTS,8,3076,296,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3094,193,17,1,7
+html body text div div a span  ,RURAL BUSINESS-COOPERATIVE SERVICE,8,3112,317,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3130,193,17,1,7
+html body text div div a span  ,RURAL DEVELOPMENT LOAN FUND PROGRAM ACCOUNT,8,3148,435,17,1,7
+html body text div div a span  ,ESTIMATED LOAN LEVEL,8,3166,192,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3184,193,17,1,7
+html body text div div a span  ,ESTIMATED LOAN SUBSIDY AND ADMINISTRATIVE EXPENSES LEVELS,8,3202,532,17,1,7
+html body text div div a span  ,RURAL ECONOMIC DEVELOPMENT LOANS PROGRAM ACCOUNT,8,3220,486,17,1,7
+html body text div div a span  ,ESTIMATED LOAN LEVEL,8,3238,192,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3256,193,17,1,7
+html body text div div a span  ,ESTIMATED LOAN SUBSIDY,8,3274,210,17,1,7
+html body text div div a span  ,RURAL COOPERATIVE DEVELOPMENT GRANTS,8,3292,357,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3310,193,17,1,7
+html body text div div a span  ,RURAL EMPOWERMENT ZONES AND ENTERPRISE COMMUNITIES GRANTS,8,3328,560,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3346,193,17,1,7
+html body text div div a span  ,RURAL UTILITIES SERVICE,8,3364,203,17,1,7
+html body text div div a span  ,RURAL ELECTRIFICATION AND TELECOMMUNICATIONS LOANS PROGRAM ACCOUNT,8,3382,644,17,1,7
+html body text div div a span  ,ESTIMATED LOAN LEVEL,8,3400,192,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3418,193,17,1,7
+html body text div div a span  ,ESTIMATED LOAN SUBSIDY AND ADMINISTRATIVE EXPENSES LEVELS,8,3436,532,17,1,7
+html body text div div a span  ,ESTIMATED LOAN SUBSIDY AND ADMINISTRATIVE EXPENSES LEVELS,8,3454,532,17,1,7
+html body text div div a span  ,RURAL TELEPHONE BANK PROGRAM ACCOUNT,8,3472,363,17,1,7
+html body text div div a span  ,ESTIMATED LOAN LEVEL,8,3490,192,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3508,193,17,1,7
+html body text div div a span  ,ESTIMATED LOAN SUBSIDY AND ADMINISTRATIVE EXPENSES LEVELS,8,3526,532,17,1,7
+html body text div div a span  ,DISTANCE LEARNING AND TELEMEDICINE PROGRAM,8,3544,406,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3562,193,17,1,7
+html body text div div a span  ,TITLE IV--DOMESTIC FOOD PROGRAMS,8,3580,296,17,1,7
+html body text div div a span  ,"OFFICE OF THE UNDER SECRETARY FOR FOOD, NUTRITION AND CONSUMER SERVICES",8,3598,655,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3616,193,17,1,7
+html body text div div a span  ,FOOD AND NUTRITION SERVICE,8,3634,242,17,1,7
+html body text div div a span  ,CHILD NUTRITION PROGRAMS,8,3652,232,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3670,193,17,1,7
+html body text div div a span  ,"SPECIAL SUPPLEMENTAL NUTRITION PROGRAM FOR WOMEN, INFANTS, AND CHILDREN (WIC)",8,3688,713,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3706,193,17,1,7
+html body text div div a span  ,FOOD STAMP PROGRAM,8,3724,182,17,1,7
+html body text div div a span  ,ADMINISTRATIVE COSTS,8,3742,189,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3760,193,17,1,7
+html body text div div a span  ,COMMODITY ASSISTANCE PROGRAM,8,3778,282,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3796,193,17,1,7
+html body text div div a span  ,FOOD DONATIONS PROGRAMS,8,3814,231,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3832,193,17,1,7
+html body text div div a span  ,FOOD PROGRAM ADMINISTRATION,8,3850,267,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3868,193,17,1,7
+html body text div div a span  ,TITLE V--FOREIGN ASSISTANCE AND RELATED PROGRAMS,8,3886,442,17,1,7
+html body text div div a span  ,FOREIGN AGRICULTURAL SERVICE,8,3904,264,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3922,193,17,1,7
+html body text div div a span  ,PUBLIC LAW 480,8,3940,124,17,1,7
+html body text div div a span  ,PROGRAM AND GRANT ACCOUNTS,8,3958,265,17,1,7
+html body text div div a span  ,PUBLIC LAW 480 TITLE I PROGRAM ACCOUNT,8,3976,345,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,3994,193,17,1,7
+html body text div div a span  ,CCC EXPORT LOANS PROGRAM ACCOUNT,8,4012,318,17,1,7
+html body text div div a span  ,ADMINISTRATIVE EXPENSES,8,4030,218,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,4048,193,17,1,7
+html body text div div a span  ,TITLE VI--RELATED AGENCIES AND FOOD AND DRUG ADMINISTRATION,8,4066,541,17,1,7
+html body text div div a span  ,DEPARTMENT OF HEALTH AND HUMAN SERVICES,8,4084,376,17,1,7
+html body text div div a span  ,FOOD AND DRUG ADMINISTRATION,8,4102,271,17,1,7
+html body text div div a span  ,SALARIES AND EXPENSES,8,4120,197,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,4138,193,17,1,7
+html body text div div a span  ,BUILDINGS AND FACILITIES,8,4156,212,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,4174,193,17,1,7
+html body text div div a span  ,INDEPENDENT AGENCIES,8,4192,193,17,1,7
+html body text div div a span  ,COMMODITY FUTURES TRADING COMMISSION,8,4210,357,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,4228,193,17,1,7
+html body text div div a span  ,FARM CREDIT ADMINISTRATION,8,4246,246,17,1,7
+html body text div div a span  ,LIMITATION ON ADMINISTRATIVE EXPENSES,8,4264,340,17,1,7
+html body text div div a span  ,COMMITTEE PROVISIONS,8,4282,193,17,1,7
+html body text div div a span  ,TITLE VII--GENERAL PROVISIONS,8,4300,253,17,1,7
+html body text div div a span  ,TRANSFER OF UNEXPENDED BALANCES,8,4318,306,17,1,7
+html body text div div a span  ,CHANGES IN THE APPLICATION OF EXISTING LAW,8,4336,379,17,1,7
+html body text div div a span  ,STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES,8,4354,510,17,1,7
+html body text div div a span  ,COMPLIANCE WITH CLAUSE 3 OF RULE XIII (RAMSEYER RULE),8,4372,477,17,1,7
+html body text div div a span  ,SECTION 375 OF THE CONSOLIDATED FARM AND RURAL DEVELOPMENT ACT,8,4390,581,17,1,7
+html body text div div a span  ,SEC. 375. NATIONAL SHEEP INDUSTRY IMPROVEMENT CENTER.,8,4408,477,17,1,7
+html body text div div a span  ,APPROPRIATIONS NOT AUTHORIZED BY LAW,8,4426,341,17,1,7
+html body text div div a span  ,RESCISSIONS,8,4444,100,17,1,7
+html body text div div a span  ,COMPARISON WITH BUDGET RESOLUTION,8,4462,322,17,1,7
+html body text div div a span  ,FIVE-YEAR OUTLAY PROJECTIONS,8,4480,261,17,1,7
+html body text div div a span  ,ASSISTANCE TO STATE AND LOCAL GOVERNMENTS,8,4498,391,17,1,7
+html body text div div a span  ,"PROGRAM, PROJECT, AND ACTIVITY",8,4516,274,17,1,7
+html body text div div a span  ,FULL COMMITTEE VOTES,8,4534,194,17,1,7
+html body text div div a span  ,ROLLCALL NO. 1,8,4552,126,17,1,7
+html body text div div a span  ,FULL COMMITTEE VOTES,8,4570,194,17,1,7
+html body text div div a span  ,ROLLCALL NO. 2,8,4588,126,17,1,7
+html body text div div a span  ,FULL COMMITTEE VOTES,8,4606,194,17,1,7
+html body text div div a span  ,ROLLCALL NO. 3,8,4624,126,17,1,7
+html body text div div a span  ,FULL COMMITTEE VOTES,8,4642,194,17,1,7
+html body text div div a span  ,ROLLCALL NO. 4,8,4660,126,17,1,7
+html body text div div a span  ,FULL COMMITTEE VOTES,8,4678,194,17,1,7
+html body text div div a span  ,ROLLCALL NO. 5,8,4696,126,17,1,7
+html body text div div a span  ,ADDITIONAL VIEWS,8,4714,153,17,1,7
+html body text div div a span  ,OVERVIEW,8,4732,84,17,1,7
+html body text div div a span  ,IMPROVING FOOD SAFETY,8,4750,203,17,1,7
+html body text div div a span  ,GLOBAL FOOD FOR EDUCATION INITIATIVE,8,4768,330,17,1,7
+html body text div div a span  ,THE WIC PROGRAM,8,4786,149,17,1,7
+html body text div div a span  ,BIOFUELS,8,4804,76,17,1,7
+html body text div div table tbody tr td font span  ,THIS SEARCH,11,4843,51,31,0,11
+html body text div div table tbody tr td font span  ,THIS DOCUMENT,98,4851,106,15,0,11
+html body text div div table tbody tr td font span  ,GOTO,208,4851,36,15,0,11
+html body text div div table tbody tr td font span  ,Next Hit,11,4887,45,15,0,11
+html body text div div table tbody tr td font span  ,Forward,98,4887,44,15,0,11
+html body text div div table tbody tr td font a font span  ,New Search,208,4887,63,15,0,13
+html body text div div table tbody tr td font span  ,Prev Hit,11,4915,44,15,0,11
+html body text div div table tbody tr td font span  ,Back,98,4915,27,15,0,11
+html body text div div table tbody tr td font a font span  ,Home Page,208,4915,60,15,0,13
+html body text div div table tbody tr td font span  ,Hit List,11,4935,40,15,0,11
+html body text div div table tbody tr td font a font span  ,Full Display,98,4935,65,15,0,13
+html body text div div table tbody tr td font a font span  ,Help,208,4935,25,15,0,13
+html body text div div table tbody tr td font span  ,Contents Display,98,4955,90,15,0,11
+html body text div div a span  ,THOMAS Home,8,4978,115,17,0,7
+html body text div div span  ,|,123,4978,7,17,0,6
+html body text div div a span  ,Contact,130,4978,54,17,0,7
+html body text div div span  ,|,184,4978,6,17,0,6
+html body text div div a span  ,Accessibility,190,4978,88,17,0,7
+html body text div div span  ,|,278,4978,7,17,0,6
+html body text div div a span  ,Legal,285,4978,40,17,0,7
+html body text div div span  ,|,325,4978,7,17,0,6
+html body text div div a span  ,FirstGov,332,4978,57,17,0,7

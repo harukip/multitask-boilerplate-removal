@@ -1,0 +1,421 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,"Practical Guide To Mass Finishing, Methods and Myths",0,0,777,36,0,6
+html body text table tbody tr td div font b font span  ,MASS FINISHING,23,24,133,17,0,12
+html body text table tbody tr td div font b font span  ,TECHNOLOGY,31,42,117,17,0,12
+html body text table tbody tr td table tbody tr td div h1 span  ,Technical Articles,349,17,243,36,0,14
+html body text table tbody tr td table tbody tr td a span  ,Process Technology,25,106,127,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Equipment,53,142,71,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Media & Compounds,19,178,139,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Wastewater Treatment,51,214,75,35,0,13
+html body text table tbody tr td table tbody tr td a span  ,Precious Metal,40,268,97,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Recovery,58,286,61,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Consulting,53,322,71,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Technical Articles,31,358,115,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,About Us,58,394,61,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Contact Us,53,430,71,17,0,13
+html body text table tbody tr td table tbody tr td a span  ,Site Map,59,466,59,17,0,13
+html body text table tbody tr td table tbody tr td div table tbody tr td h1 font span  ,THE PRACTICAL GUIDE TO MASS FINISHING OF PRECIOUS AND COSTUME JEWELRY: METHODS AND MYTHS,240,103,409,31,1,19
+html body text table tbody tr td table tbody tr td p i b span  ,"Steven R. Alviti, Bel Air Finishing Supply Inc",320,178,304,17,1,15
+html body text table tbody tr td table tbody tr td p i span  ,.,624,178,4,17,1,14
+html body text table tbody tr td table tbody tr td table tbody tr th b font span  ,CONTENTS,424,221,100,20,1,18
+html body text table tbody tr td table tbody tr td table tbody tr th p a span  ,I. ABSTRACT,201,254,100,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr th p a span  ,II. INTRODUCTION,201,290,148,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,III. MEDIA AND COMPOUNDS,201,320,218,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,A. DEFINITION,431,320,110,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,B. FUNCTIONS OF MEDIA,431,350,189,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,C. MEDIA TYPES,431,380,123,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,D. MEDIA SIZES AND SHAPES,431,410,219,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,E. FUNCTIONS OF COMPOUNDS,431,440,236,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,F. HOW MEDIA AND COMPOUNDS WORK,431,470,304,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,IV. MACHINES,201,500,106,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,A. TUMBLING FINISHERS,431,500,189,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,B. VIBRATORY BOWL FINISHERS,431,530,244,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,C. VIBRATORY TUB FINISHERS,431,560,229,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,D. HIGH ENERGY BARREL FINISHERS,431,590,279,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,E. HIGH ENERGY DISC FINISHERS,431,620,251,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,F. ROLL BURNISHING FINISHERS,431,650,244,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,G. MAGNETIC PIN FINISHERS,431,680,219,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,V. MACHINE EFFECTIVENESS &,201,710,140,35,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,COST RELATIONSHIPS,201,746,166,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,A. MACHINE COST EFFECTIVENESS,431,710,266,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,B. COMMON FINISHING MYTHS,431,776,236,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,VI. CONSUMER EXPECTATIONS DICTATE TECHNIQUES,201,806,185,53,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,VII. NEW DEVELOPMENTS IN WASTE WATER TREATMENT,201,872,197,53,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,A. RECYCLING METHODS,431,872,192,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p a span  ,B. NEWEST WATER TREATMENT CHEMISTRY,431,938,239,35,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,ABSTRACT,197,1004,87,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"A microscopic and technical view of mass finishing presented in layman's terms. Understanding of mass finishing must start at the very basic level of what happens microscopically to the surface of various materials. All the variables will be discussed, such as the media, compounds and the effect of various types of machinery on the finishing process. Practical techniques and the associated costs will be presented for pre-finishing of precious metal jewelry as well as costume or imitation jewelry",197,1038,464,143,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,INTRODUCTION,197,1216,128,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"This article is an explanation of Mass Finishing from a practical standpoint. The views discussed here are a result of 30 years of experience in manufacturing jewelry, job shop processing for many diverse manufacturing industries as well as experience in designing and manufacturing of finishing equipment. Historically, the mass finishing department of many companies have not received the attention or understanding required to serve the best interests of the manufacturer's finished product. Typically, manufacturers migrate to opposite ends of the spectrum with regards to their finishing department. It is either in the remotest location of their facility and the attitude is ""well that's the way we have always done it"" or they have instituted a sophisticated system without the proper understanding of the economics or the reality of everyday jewelry manufacturing. There is no best way of finishing a product. Before any changes are made to a finishing department, the manufacturer must address the importance of several aspects before making a decision. Most Important Semi Important Least Important Processing Time Quality of Finish Cost of Finishing Training Employees Maintenance Cost of Equipment Loss of Material from Product",197,1250,468,323,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,III MEDIA - COMPOUNDS,197,1608,195,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,A. DEFINITION,197,1642,116,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,The word media is used to describe the material that is used in mass finishing to actually do the work on the surface of the part that is being finished. The compound refers to the different types of chemicals used during wet mass finishing operations.,197,1676,454,71,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,B. FUNCTION OF MEDIA,197,1764,189,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"The functions of media are varied and range from rough cutting to polishing. ROUGH CUTTING of the raw product is to remove all possible surface imperfections. Depending upon the manufacturing process, some hand work may be necessary prior to this mass finishing step. Raw gold casting must have the sprue cut off and ground down to the surface. In the case of a white metal rubber molded piece, usually no hand operation is necessary. However, each case depends on the manufacturing process. The rough cut is to remove the surface imperfections of the material due to its fabrication technique. (i.e. casting, rolling, forming, etc.) This is the stage where mass finishing plays its biggest role in labor savings. Typically, mass finishing can save 50 - 75% of the hand labor used to finish a piece of jewelry. FIG. 1-3",197,1798,464,215,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"The rough cut is almost always done as a wet operation with media, water and compound. The labor savings is most obvious for cast materials due to the inherent roughness of the ""as cast"" surface. PRE-FINISHING is the term used for the operation following the rough cut stage. The pre-finishing step is usually done prior to machine polishing, hand polishing or electroplating. The purpose is to increase the smoothness of the ""rough cut"" surface so as to make the polishing or electroplating procedure more effective. In order for a product to be machine polished or a combination of machine and hand polished, this step is most necessary. If the product is going to be hand polished or electroplated, this step may or may not be necessary. This would depend upon whether the labor saving is worth the time investment. A question quality versus cost must also be taken into consideration. The pre-finishing operation is almost always done as a wet operation with media, water and a compound. MACHINE POLISHING is very economical where applicable. It can save up to 95% of hand finishing labor costs; however, many facto must be considered for this step to be viable. This is usually a dry procedure using a natural carrier and a powdered compound without water. Fig. 4 BURNISHING is used to render the surface of a product bright by J means of rolling over a surface with a non-abrasive media such as steel or porcelain. This method physically peens the surface in order to increase light reflectivity which, in turn, will make the surface appear bright. This media is the heaviest available and is used with water and compound.",197,2975,466,431,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,C. MEDIA TYPES,197,3441,129,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,There are a variety of different media for different applications:,197,3475,407,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Normally, there are two components of CUTTING MEDIA:",197,4631,386,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,1) abrasive grains and,197,4649,141,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,2) carrier or bonding agents,197,4667,178,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,Abrasive grains for cutting media can be any of the following:,197,4701,399,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,Silicone carbide - most aggressive,237,4735,220,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,Aluminum oxide - moderately aggressive,237,4753,266,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,Silica- least aggressive,237,4771,147,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,Bonding materials can be,197,4805,167,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p font span  ,(FIG 8 ),364,4810,35,11,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,:,399,4805,5,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,Ceramic - hard,237,4839,96,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,Plastic - soft,237,4857,80,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,Natural - range soft to hard,237,4875,174,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"PRE-POLISHING MEDIA is much the same as cutting media with exception of the size of the grain that is bound into the media. Pre-finishing media is also used to perform a cutting operation; however, much more gentle and finer than the rough cut media.",197,4909,441,71,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,BURNISHING MEDIA has no abrasive grain. This media is used simply to roll over or hammer away at the surface with the sole purpose of making it bright. This media is typically made from either very heavy lain or solid steel.,197,4997,469,71,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"POLISHING MEDIA is generally made of a natural base material as wood, shell or corn cob. Polishing compounds, very similar to used in hand polishing bars, are bound to the natural base by means wax or oil based product.",197,5085,451,71,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,D. MEDIA SIZES AND SHAPES.,197,5832,231,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"The various types of media are available in many shapes and sizes. When choosing sizes and shapes, one must consider the geometry of the being processed and choose the largest media possible that will fulfill the following criteria: 1. The shape chosen will best be able to touch every part of the surface of the work pieces. 2. The size will facilitate easy separation (i.e. either the media or the piece can be sifted through an existing separating screen).",197,5866,468,125,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,E. FINISHING COMPOUNDS,197,6026,213,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Finishing compounds are either liquid or powder and are as additives to the water being used during any of the mass finishing operations There are three purposes for compounds (1) The compound is form of soap used to suspend the solids being removed from the surface the product (much like dishwashing soap). (2) The prevention of oxidation or discoloration of the metals being processed. (3) The addition lubricity to the process. The proper compounds form a cushion between the media and the work piece, which allows a sliding action which in turn, reduces impingement of the abrasive. Compounds are used both types of processing. The first is called a batch operation where a prescribed amount of media, water and compound are placed in a sealed process chamber. The second is called a flow-thru operation where a prescribed amount of water and compound continuously flow in and out of open processing chamber of media. Theoretically, compounds are most likely to be changed for a particular metal being processed as well as for a particular step (i.e. rough cut, pre-finish etc.) In reality; however, this is less likely to be specifically matched to the purpose. Most manufacturers settle on one ""all purpose compound"" best suited for their needs.",197,6060,467,323,1,17
+html body text table tbody tr td table tbody tr td table tbody tr th span  ,Pre-tumbled Resin Bonded Preformed Media,319,6408,309,17,0,16
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr th p font span  ,PYRAMIDS,306,6558,54,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,SPEC,254,6573,24,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,A,301,6573,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,B,344,6573,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C,384,6573,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,P0,254,6588,11,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,3/8,301,6588,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,5/8,344,6588,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,5/8,384,6588,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,P1,254,6603,11,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-5/8,301,6603,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1,344,6603,5,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1,384,6603,5,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,P2,254,6618,11,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,2,301,6618,5,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/2,344,6618,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1,384,6618,5,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr th p font span  ,TETRAHEDRON,294,6716,78,11,1,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,SPEC,254,6731,24,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,A,290,6731,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,B,334,6731,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C,376,6731,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TH1,254,6746,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,3/4,290,6746,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,3/4,334,6746,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,3/4,376,6746,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TH2,254,6761,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/8,290,6761,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/8,334,6761,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/8,376,6761,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TH3,254,6776,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/4,290,6776,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/4,334,6776,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/4,376,6776,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TH4,254,6791,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-3/8,290,6791,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-3/8,334,6791,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-3/8,376,6791,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr th p font span  ,TRIANGLE,306,6875,54,11,1,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,SPEC,254,6890,24,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,A,292,6890,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,B,330,6890,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C,374,6890,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TR0,254,6905,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1/4,292,6905,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1/4,330,6905,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1/4,374,6905,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TR1,254,6920,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,5/8,292,6920,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1/2,330,6920,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,3/8,374,6920,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TR2,254,6935,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,11/16,292,6935,22,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,7/16,330,6935,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,5/8,374,6935,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TR3,254,6950,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1,292,6950,5,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,5/8,330,6950,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,9/16,374,6950,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TR4,254,6965,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/4,292,6965,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,5/8,330,6965,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,5/8,374,6965,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TR5,254,6980,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-3/4,292,6980,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/4,330,6980,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/4,374,6980,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TR6,254,6995,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,2-1/2,292,6995,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,2-1/2,330,6995,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,2-1/2,374,6995,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr th p font span  ,CONE,468,6516,28,11,1,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,SPEC,436,6531,24,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,A,466,6531,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,B,500,6531,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C1,436,6546,12,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,3/8,466,6546,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,3/8,500,6546,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C2,436,6561,12,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1/2,466,6561,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,9/16,500,6561,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C3,436,6576,12,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,3/4,466,6576,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,3/4,500,6576,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C4,436,6591,12,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1,466,6591,5,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/4,500,6591,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C5,436,6606,12,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/4,466,6606,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/4,500,6606,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C6,436,6621,12,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/4,466,6621,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/2,500,6621,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C7,436,6636,12,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/2,466,6636,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/2,500,6636,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C8,436,6651,12,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-3/4,466,6651,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-3/4,500,6651,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C9,436,6666,12,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,2,466,6666,5,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,2,500,6666,5,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C10,436,6681,17,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,2,466,6681,5,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,2-1/2,500,6681,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C11,436,6696,16,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,2-1/2,466,6696,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,2-1/2,500,6696,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr th p font span  ,ANGLE CUT TRIANGLE,453,6773,60,22,1,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,SPEC,436,6799,24,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,A,478,6799,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,B,500,6799,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,ATR1,436,6814,24,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1,478,6814,5,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/8,500,6814,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr th p font span  ,CYLINDER WEDGE,436,6897,94,11,1,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,SPEC,436,6912,24,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,A,466,6912,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,B,502,6912,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,ATR1,436,6927,24,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/4,466,6927,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/4,502,6927,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,ATR2,436,6942,24,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/2,466,6942,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/2,502,6942,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr th p font span  ,TRI-STARS,597,6508,52,11,1,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,SPEC,552,6523,24,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,A,610,6523,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,B,660,6523,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TS1,552,6538,17,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-3/8,610,6538,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1/2,660,6538,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TS2,552,6553,17,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-3/4,610,6553,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,3/4,660,6553,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TS3,552,6568,17,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,2,610,6568,5,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,3/4,660,6568,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr th p font span  ,WEDGES,602,6648,44,11,1,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,SPEC,552,6663,24,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,A,588,6663,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,B,628,6663,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C,664,6663,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,W1,552,6678,14,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-5/8,588,6678,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1,628,6678,5,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1,664,6678,5,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,W2,552,6693,14,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,2,588,6693,5,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/4,628,6693,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/8,664,6693,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr th p font span  ,ANGLE CUT CYLINDERS,563,6772,120,11,1,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,SPEC,552,6787,24,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,A,606,6787,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,B,632,6787,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C,676,6787,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,AC1,552,6802,19,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1,606,6802,5,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,9/16,632,6802,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr th p font span  ,TRIANGLE,597,6886,54,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,SPEC,552,6901,24,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,A,588,6901,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,B,622,6901,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,C,660,6901,7,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TR0,552,6916,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1/4,588,6916,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1/4,622,6916,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1/4,660,6916,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TR1,552,6931,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,5/8,588,6931,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1/2,622,6931,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,3/8,660,6931,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TR2,552,6946,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,11/16,588,6946,22,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,7/16,622,6946,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,5/8,660,6946,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TR3,552,6961,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1,588,6961,5,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,5/8,622,6961,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,9/16,660,6961,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TR4,552,6976,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/4,588,6976,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,5/8,622,6976,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,5/8,660,6976,13,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TR5,552,6991,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-3/4,588,6991,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/4,622,6991,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,1-1/4,660,6991,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,TR6,552,7006,18,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,2-1/2,588,7006,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,2-1/2,622,7006,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td div table tbody tr td p font span  ,2-1/2,660,7006,21,11,0,23
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,F. HOW MEDIA AND COMPOUNDS WORK,197,7087,318,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,Mass finishing media works basically in the same manner as the materials used in hand finishing. FIG 10 a-d,197,7121,411,35,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"The main difference is that a machine is used to apply the force through the tool to the work piece. The other difference is that a mass of pieces are being processed rather than one piece at a time. Hence, the name Mass Finishing. FIG 11",197,7175,460,71,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"In order to perform the CUTTING OPERATION, we must choose the best combination of abrasive grain, bonding material, size, shape and the proper compound to use during the process. The cutting media works in the same manner as a grinding wheel. A force is required to rub the media across the surface of the work piece. FIG 12",197,7265,466,89,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"At the point of contact of media and the work piece, abrasive grains are exposed at the surface of the media and rubbed across the work piece, microscopically cutting material from its surface. As material is being cut away from the work piece, the abrasive grains are becoming dull as they do their job. FIG 13a,b",197,7373,458,89,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Meanwhile, the bonding material is wearing away so as to rid the media of these dull abrasive grains and to expose new sharp grains to continue the cutting process. The water and compound are used to cushion this effect as well as to remove all of the waste (used abrasive grains, bonding material, work piece surface material) from the operation. Economics now come into play when choosing the proper cutting media.",197,7481,467,107,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"The faster a media cuts, the faster it normally wears which equates to dollars per finishing operation. If the bonding agent of the media does not wear fast enough, the abrasive grains may not perform as effective as they should. There is an optimal wear ratio between the bond and the grain. If this ratio is not correct, the media is less cost effective. Regardless of these microscopic costs, the overall economic scale of labor saving, material loss and overall time savings make mass finishing a sure bet.",197,7607,468,143,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,THE PRE-POLISHING OPERATION,197,10009,270,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"is practically the same as the cutting media except the bonding material is usually harder and the abrasive grain size is smaller. In some cases, the abrasive grain is in the form of slender finer shape. By rubbing over the surface with a greater low of water and a compound that lubricates more effectively, a gentle honing action occurs. The purpose is to reduce the surface to a finer/smoother finish. Typically, the wear of pre-polishing media is much less than that of cutting media. We are less interested in removing metal, than we are in reducing the surface finish.",197,10009,468,161,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,The,197,10189,29,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,POLISHING OPERATION,226,10189,194,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"is normally done as a dry process, the media in this case is either of several natural products like wood round up corn cob or nut shells. In this case, there is no water flow and, the compound is dry and bonded to the carrier. Some typical compounds are alumina and tin oxide, which are the same compounds used for hand polishing In this case, the rubbing action of the media is meant to -plicate the action of a polishing wheel rubbing polishing compound over the surface of the work piece. As long as the surface has previously been rendered smooth and flat, this process will now produce a high luster to the surface. This operation usually takes a much longer time than the rough cut and pre-polish. The finish that is achieved with this method is very good; however, it will never be equal to that of a hand polished finish No mass finishing machine has been able to duplicate the force and action necessary to compare to hand polishing. Hand polishing actually over the surface of the work piece by dragging metal whereas machine polishing only glosses the existing surface. During this operation, due tog the fact that it is a dry process, heat is generated by the friction of the in moving This heat is beneficial to the process because it helps activate it polishing compound itself; therefore, it is helpful to retain as much of the .at generated by covering the process. Unlike cutting and pre-polishing' media, the polishing media has a life span, after which it is no longer effective This is due to the fact that the polishing compound is only bonded to the surface of the media as opposed to the abrasive grain being 81 bound throughout the whole composition. However, once this media has been expended, it can be re-charged for several more cycles before being discarded.",197,10189,465,467,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,BURNISHING MEDIA,197,10675,165,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"is typified by the lack of abrasives and a hard and extremely smooth surface. The purpose of burnishing is to brighten the surface of a material by means of peening the surface. The correlation that we use to explain this is if one took a plain dull piece of brass and a ball peen hammer. After repeatedly hammering the surface, it will then take on brightness imparted by the surface of the ball peen will hammer.",197,10675,468,125,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,Steel or stainless shot as well as porcelain balls are the typical media of choice for burnishing. These are usually the heaviest materials available and they are processed to have a microscopically smooth and shiny surface finish.,197,11581,461,71,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,IV MACHINES,197,11687,110,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"The media is what actually performs the surface finishing. The compound allows this work to be done efficiently but it is the machine that provides the energy to do all the work. There are several different types of mass finishing machines, all of which have a different method of transferring energy from an electric motor to the media to the work piece.",197,11721,453,107,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,The,197,11865,29,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,TUMBLING MACHINE,226,11865,176,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"is the oldest form of mass finishing equipment. A motor is attached to the gear box by means of a pulley and belt. The gear box rotates an octagonal finishing chamber which is either submerged in water or contains water in its chamber. The chamber should be loaded with between 50% and 60% of the total chamber volume. About 15% to 25% of the total mass should be work pieces In this equipment, the pieces are only being worked on as the media and pieces tumble down the incline of the rotating barrel. Meanwhile, as the mass rotates up to the top of the incline, there is no movement of media with respect to workpiece; therefore, no work is (D 83 being done. This type of operation is still effective for limited applications with longer time cycles and a low quality finish.",197,11865,466,215,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,Efficiencies of Tumblers:,197,12507,170,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Good for low cost, low quality finishes Good for cutting & de-burring flat stackable work pieces Good for low cost, low quality burnishing Deficiencies of Tumblers: Labor intense for volume processing Not effective for polishing Not effective to pre-polishing Flow-through compound system not available More apt to get part on part impingement Will not finish parts with deep recesses",197,12541,449,107,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,THE VIBRATORY TUB MACHINE,197,12701,256,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"was the next generation of mass finishing equipment. It took the same basic idea of the tumbling machine but created a new and more efficient means of transferring energy from the motor to the tub. The chamber is ""U"" shaped and suspended on springs. The shaft with eccentric weights is attached to the chamber and is rotated by means of a belt and pulley attached to the motor. There are still some of the same inherent problems in this process as in tumbling but now we have incorporated a flow-through compound system and vibratory action for more efficiency.",197,12701,468,161,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,The,197,13273,29,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,VIBRATORY BOWL,226,13273,152,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,machine was the next generation of mass finishing and remains the most popular and most effective to date. The processing chamber is the shape of a hollowed doughnut laying on its side. A motor is attached to a shaft with eccentric weights which is fixed to the bowl shaped chamber which is suspended on springs. The ensuing action causes the mass to travel in a three dimensional toroidal motion.,197,13273,464,107,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,This type of action allows for the most efficient processing of work pieces. The work chamber can almost be filled to capacity as well as allowing the high concentration of work pieces in relationship to the mass.,197,13641,438,71,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,Efficiencies of Vibratory Bowl:,197,13729,202,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,Highest quality finish,237,13763,139,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,Low maintenance,237,13781,114,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,Allows flow-through operation,237,13799,199,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,Low labor cost for operating,237,13817,183,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td ul li span  ,Minimizes processing load,237,13835,172,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,HIGH ENERGY BARREL MACHINES,197,13887,281,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,operate basically the same as tumbling barrels with one major difference - centrifugal energy is added to the process to dramatically reduce the processing time. This is accomplished by mounting several barrels in a ferris wheel type arrangement and spinning the complete apparatus as each barrel is rotating.,197,13887,467,107,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Except for the extra force applied to the media and work piece, all the draw-backs of tumbling are still inherent. An additional drawback is that the equipment now becomes very expensive as well. Processing time is one positive feature of the apparatus.",197,14503,464,71,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,The HIGH ENERGY DISC,197,14609,192,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,finishing machines have been developed to take advantage of the three dimensional action of a vibratory bowl and the reduced processing time of centrifugal force machines. The energy is transferred from a motor to a gear box in order to rotate a central disc at the bottom of a round stationary chamber. Centrifugal force and the rotating action sends the mass outward towards the stationary wall. The mass then slows down and returns to the center to complete the cycle.,197,14609,469,125,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,This method incorporates the ability to have flow-through processing and high energy. The major drawback to this equipment lies in the disc seal. This is the machine part that lies between the stationary bowl and rotating center. A precision opening must be maintained so as to allow the flow-through water and debris to escape. The inherent problem is that abrasives are constantly flowing through a moving seal. This makes for a maintenance nightmare besides the high initial expense of the equipment. Process time reduction is the benefit derived from this equipment. The latest development in mass finishing equipment is a machine designed for the specific purpose of burnishing.,197,14990,462,179,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,The ROLL BURNISHING machine,197,15204,248,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"is a completely new drive mechanism for the oldest of techniques, burnishing.",197,15204,412,35,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"This new machine is a form of high energy ball burnishing. It operates by rotating a belt in a tub shape configuration while submerged in a rectangular tub of water and compound. Not only does this facilitate a much faster cycle, there is also the point of impingement on all tubs, which has been eliminated because of the roll under effect created by the belt This is also the only tub style burnisher that allows the possibility of a flow-through compound system. Beyond this, the system has a unique unload system that is incredibly labor saving. A specially made sieving basket is emerged into the mass and removed with just the work pieces. No media has to ever be handled by the operator. It takes less than one minute to completely unload work pieces.",197,15565,466,197,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,The,197,15797,29,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,MAGNETIC PIN FINISHER,226,15797,207,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,has been developed to burnish the nooks and crannies and far reaches of jewelry products. The machine uses a motor to spin a magnet beneath a flat table. The finishing chamber contains very fine steel needles or pins with the water and compound mix. The work pieces are placed in the chamber and covered. The cylindrical chamber is placed on top of the table. The magnets are rotated in a circular path that matches the bottom of the chamber. This causes the steel pins to stand up and rotate. The collision of the magnet driven pins with the work piece causes the mass to rotate at the same time as the pins hammer the surface of the work piece.,197,15797,468,179,1,17
+html body text table tbody tr td table tbody tr td p b span  ,V. MACHINE EFFECTIVENESS / COST RELATIONSHIP,267,16337,414,17,1,14
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,A. MACHINE COST EFFECTIVENESS,197,16375,282,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"The main purpose of mass finishing is to economize the finishing operation of all jewelry products. Other reasons vary according to the situation. In Italy and the U.S., hand finishing labor is very costly. In China, the labor is cheap. The worker training and consistency are the issues . In some other countries, the main issue is the loss of gold from the raw casting to the finished product. The type of mass finishing is determined by these and other parameters:",197,16409,452,125,1,17
+html body text table tbody tr td table tbody tr td table tbody tr th font span  ,AVERAGE COSTS PER I CUBIC FOOT (40 LITERS) CHAMBER SIZE,268,16575,411,15,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td div h5 span  ,MACHINE TYPE,268,16597,104,15,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td div h5 span  ,COST,460,16597,36,15,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td div p span  ,Tumbler,268,16641,55,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,$ 1000,616,16641,64,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td div p span  ,Vibratory Bowl,268,16665,100,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,$ 4000,616,16665,64,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td div p span  ,Vibratory Tub,268,16689,90,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,$ 3200,616,16689,64,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td div p span  ,High Energy Barrel,268,16713,126,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,$ 37000,616,16713,64,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td div p span  ,High Energy Disc,268,16737,115,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,$ 24000,616,16737,64,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td div p span  ,Roll Burnishing,268,16761,103,17,0,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,$ 7000,616,16761,64,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,Magnetic Pin,268,16785,86,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,$ 17000,616,16785,64,17,0,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,B. COMMON FINISHING MYTHS,197,16845,249,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,1.,197,16879,16,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p i b span  ,Many customers purchase plastic media based on lowest cost,213,16879,401,17,1,19
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Plastic media is made of two parts, a polyester resin bonding agent and abrasive grain. The most expensive part of the media is the resin bonding agent. In order to decrease the cost of selling plastic media, an increase percentage of abrasive can be mixed into the media. The problem is - the more grain, the faster the media wears, which actually makes it more expensive to operate. Another way to decrease the cost of selling plastic media is to use a less expensive bonding agent. Urea Formaldehyde has been used as a less expensive bonding agent, which again increases the wear rate and hence is more expensive to operate with this media.",197,16913,468,161,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,2.,197,17091,16,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p i b span  ,Urea Formaldehyde bonded plastic media is cheaper to use and easier to settle out in your waste water system,197,17091,434,35,1,19
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Urea Formaldehyde or UF media was developed to fight the increased cost of using the standard polyester based resin bonding agents. Because it obviously wears out faster, some other benefit must have to be touted to over-ride this defect. Actually its initial cost is less. It does not make waste treatment any easier and it is more expensive to operate.",197,17143,464,89,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,3.,197,17249,16,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p i b span  ,Ceramic cutting media costs less and wears longer,213,17249,332,17,1,19
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"This is a true statement. We see this approach quite often in the Far East. The fact is that, because the media is harder and does not wear out, it does not cut the surface. If you are dealing with soft metals, as we often do for jewelry products, ceramic media for cutting is not practical because the surface of the media ""loads up"" with metal before it can wear to the next level of cutting. Therefore, the media only works in a manner of burnishing the surface.",197,17283,465,125,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,4.,197,17425,16,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p i b span  ,High energy disc finishers give a better finish than Vibratory,213,17425,400,17,1,19
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"The action of both a disc finisher and a vibratory finisher is basically the same with respect of the mass traveling in a three dimensional motion. Assuming the media and compound are the same, the only difference is t some added centrifugal force is being used in the operation. That alone cannot produce a better finish. Faster - yes, but not better. The simple fact that a particular grit media is rubbed over a work piece surface is what defines the degree of smoothness achieved. An example would be rubbing a 200 grit sand paper on a surface. No matter how hard or how t it was rubbed, it still remains a fact that you could not get better than 00 grit finish.",197,17459,466,179,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,5.,197,17655,16,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p i b span  ,"""After casting, put your piece in a pin machine and it is finished""",213,17655,433,17,1,19
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"I heard this absurd statement from finished goods manufacturers coming out a seminar at a trade show. The statement may be true for the purpose of cleaning a raw casting; however, it actually deteriorates any broad surface t needs polishing. A pin machine is strictly for pronged and recessed as or the lowest quality bright finish. This is used to finish these hard to reach areas in conjunction with other mass finishing or hand finishing.",197,17689,467,125,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,6.,197,17831,16,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p b i span  ,The European technique saves time,213,17831,236,17,1,19
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"This technique is to use a plain media with no abrasive as a carrier and then to add abrasive grit for .ting. This is done in a batch operation as a slurry. Once the first cycle complete, it is then flushed. The batch is then run with a finer grit led and flushed again. This system saves an unloading operation; however, it sacrifices results. Finishing by this method would be as if one took a piece of paper and a sprinkle of sand and started to rub a piece as posed to using a piece of sandpaper. Although the unloading between finishing steps has been eliminated, the operation itself is very inefficient.",197,17865,465,161,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,7.,197,18043,16,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p i b span  ,The machine does not work,213,18043,182,17,1,19
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Many times, after a manufacturer has purchased a machine and has embarked on mass finishing, they call and say ""the machine does not work"". My response is to ask several questions: a. Did you plug the machine in? b. Did you turn the machine on? c. Does the machine shake? or spin? If they answer yes to all of these questions, my response is ""the machine works"". The problem is that the technique the manufacturer is using is not producing what the manufacturer expected. He may have been misinformed, uninformed or misdirected. It is important to remember, although mass finishing is relatively straightforward once a process has been established, there are many variables to consider. The technology is the most important thing to consider when making a purchase. Just as in making a decision to purchase jewelry software, you should be dealing with a supplier who concentrates in the industry and is always updating their technology.",197,18077,463,251,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,8.,197,18345,16,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p i b span  ,Internal separation in a vibratory machine saves time,213,18345,352,17,1,19
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Some vibratory finishing machines have a built in dam that, when closed, allows the mass to rise and pass over a screen which allows the media to return into the bowl and the work pieces shake across the screen and out of the bowl. The idea seems efficient; however, in reality, there is so much variation in jewelry components that it becomes a laborer's nightmare to change screens and find missing parts that never rise over the screen. internal separation is never 100% effective. It reduces the capacity of the machine and it causes longer down time for the unload cycle. An operator should be able to unload and reload a vibratory bowl up to 3 cubic feet in less than 10 minutes using an external separator.",197,18379,464,197,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,VI CONSUMER EXPECTATIONS DICTATE TECHNIQUES,197,18629,428,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"Ther is no best way to mass finish. The consumer who will eventually purchase the finished jewelry product is the one who actually dictates the finishing technique to be used by the manufacturer. For instance, let's manufacture a pair of gold earrings set with diamonds. The estimated retail value will be $2000 US dollars and it will be sold in an upscale jewelry store. The gold castings would probably be run in some type of mass finishing cutting cycle and then hand polished with several steps: the settings may be hand burnished and then the stones would be hand set and, finally, hand glossed again. Now let's use that same wax model and make a $ 100 US dollar pair of gold earrings with a cast in CZ that will be sold to Wal-Mart Stores. We would probably run that same gold casting through a three step mass finishing process that would give us a ""near"" polished finish. The final operation may be a quick hand gloss with a polishing wheel. Next, let's take the same wax model and make a pair of gold earrings to sell one of the world's latest consumers, a Mainland Chinese laborer. First, we will move the stone and now have a target retail of $40.00 US dollars. The manufacturer now may only have to do a simple burnishing operation to bring up the shine and color of the gold. Each one of the above consumer has a different level of expectation with regards to the product resulting in each product being processed by a different mass finishing technique. The end result is that each consumer is equally pleased with his or her purchase. The same scenario is true for costume jewelry. There is no best way. ere are many techniques developed for varying degrees of quality and economy Whether the product has been stamped, cast, machined or molded be it made from precious metal, base metal, plastic or wood, there are many machines and media available for mass finishing. The most effective to date remains the Vibratory Bowl Finisher.",197,18663,469,503,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,NEW DEVELOPMENTS IN WASTE WATER TREATMENTS,197,19201,433,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"New developments in treating effluent have progressed nicely from the set of jewelry mass finishing. In the early days, environmental restrictions were tremendous hurdles to overcome for many manufacturers. In most recent years, systems have been developed that make it a lot easier for manufacturers to efficiently process their vibratory me. The following are some methods currently used in many systems.",197,19235,455,125,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,1. Polymer Flocculation,197,19377,154,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,2. Filter Presses,197,19411,102,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,3. Ultra Filtration,197,19445,112,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,4. Resin Columns,197,19479,114,17,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,Recycling Methods,197,19513,130,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"The current technology now allows for the effluent to RECYCLE thru vibratory system. This eliminated the need to discharge water while saving in compound cost at the same time. In some parts of the world, the laws are not strict enough to make this necessary but we would hope that manufacturers will be environmentally responsible. Once the effluent has been treated, costume jewelry manufacturers now must deal with the disposal of sludge waste that has been extracted from the water. This sludge has typically been defined as hazardous waste and trucked away at about $200 per drum.",197,19549,463,161,1,17
+html body text table tbody tr td table tbody tr td table tbody tr td p b span  ,The latest development in WATER TREATMENT CHEMISTRY,197,19747,444,17,1,18
+html body text table tbody tr td table tbody tr td table tbody tr td p span  ,"now encapsulates up to 99% of the soluble and insoluble metals from the effluent. The sludge, after air drying, now transforms into cement like material. In most cases, this allows the waste to be classified as non hazardous which allows dumping in land fills. For precious jewelry manufacturers, this simple 15 minute procedure allows them to recover the most gold or platinum ever attainable without waiting for days of natural settling or messy evaporation techniques.",197,19765,467,125,1,17
+html body text table tbody tr td table tbody tr td h5 b font span  ,VIII FUTURE ARTICLES,370,20278,208,20,1,15
+html body text table tbody tr td table tbody tr td p b span  ,Costume Jewelry Finishing Techniques,341,20321,266,17,1,14
+html body text table tbody tr td table tbody tr td p b span  ,Precious Jewelry Finishing Techniques,342,20355,264,17,1,14
+html body text table tbody tr td table tbody tr td p b span  ,New Developments in Waste Water Treatment Technology,276,20389,396,17,1,14
+html body text table tbody tr td div h5 a span  ,Process,58,20555,42,15,0,11
+html body text table tbody tr td div h5 a span  ,Technology,47,20571,64,15,0,11
+html body text table tbody tr td div h5 a span  ,Equipment,138,20563,64,15,0,11
+html body text table tbody tr td div h5 a span  ,Media,244,20547,37,15,0,11
+html body text table tbody tr td div h5 a span  ,&,256,20563,11,15,0,11
+html body text table tbody tr td div h5 a span  ,Compounds,228,20579,69,15,0,11
+html body text table tbody tr td div h5 a span  ,Waste,335,20547,35,15,0,11
+html body text table tbody tr td div h5 a span  ,Water,334,20563,35,15,0,11
+html body text table tbody tr td div h5 a span  ,Treatment,322,20579,59,15,0,11
+html body text table tbody tr td div h5 a span  ,Precious,408,20547,48,15,0,11
+html body text table tbody tr td div h5 a span  ,Metal,416,20563,34,15,0,11
+html body text table tbody tr td div h5 a span  ,Recovery,406,20579,54,15,0,11
+html body text table tbody tr td div h5 a span  ,Consulting,482,20563,61,15,0,11
+html body text table tbody tr td div h5 a span  ,Tech,574,20555,26,15,0,11
+html body text table tbody tr td div h5 a span  ,Articles,565,20571,44,15,0,11
+html body text table tbody tr td div h5 a span  ,About Us,629,20563,54,15,0,11
+html body text table tbody tr td div h5 a span  ,Contact,699,20563,45,15,0,11
+html body text div table tbody tr td h1 strong font span  ,BELAIR FINISHING WEBSITE CATEGORY DIRECTORY,221,20673,343,15,0,12
+html body text div table tbody tr td a font span  ,Home,12,20710,27,11,0,11
+html body text div table tbody tr td a font span  ,Sitemap,39,20710,33,11,0,11
+html body text div table tbody tr td a font span  ,Process Technology,176,20710,80,11,0,11
+html body text div table tbody tr td a font span  ,Finishing Equipment,309,20710,84,11,0,11
+html body text div table tbody tr td a font span  ,Burnishers,471,20710,43,11,0,11
+html body text div table tbody tr td a font span  ,Disc Finishers,616,20710,58,11,0,11
+html body text div table tbody tr td a font span  ,Drag Finishers,12,20732,59,11,0,11
+html body text div table tbody tr td a font span  ,Parts Dryers Cleaners,176,20732,87,11,0,11
+html body text div table tbody tr td a font span  ,Parts Dryers Floor Models,309,20732,106,11,0,11
+html body text div table tbody tr td a font span  ,Parts Dryer Baskets,471,20732,79,11,0,11
+html body text div table tbody tr td a font span  ,Ultrasonic Parts Cleaners,616,20732,102,11,0,11
+html body text div table tbody tr td a font span  ,Parts Separators,12,20754,65,11,0,11
+html body text div table tbody tr td a font span  ,Multilifts,176,20754,38,11,0,11
+html body text div table tbody tr td a font span  ,Parts Separator Screens,309,20754,94,11,0,11
+html body text div table tbody tr td a font span  ,Finishing Tumblers,471,20754,78,11,0,11
+html body text div table tbody tr td a font span  ,Vibratory Tumblers,616,20754,79,11,0,11
+html body text div table tbody tr td a font span  ,Barrel Finishers,12,20776,64,11,0,11
+html body text div table tbody tr td a font span  ,Vibratory Finishers,176,20776,77,11,0,11
+html body text div table tbody tr td a font span  ,Finishing Media,309,20776,66,11,0,11
+html body text div table tbody tr td a font span  ,Wastewater Treatment,471,20776,89,11,0,11
+html body text div table tbody tr td a font span  ,Precious Metal Recovery,616,20776,101,11,0,11
+html body text div table tbody tr td a font span  ,Mass Finishing Consulting,12,20798,108,11,0,11
+html body text div table tbody tr td a font span  ,Technical Articles,176,20798,72,11,0,11
+html body text div table tbody tr td a font span  ,Guide To Mass Finishing,309,20798,101,11,0,11
+html body text div table tbody tr td a font span  ,About BelAir Finishing,471,20798,95,11,0,11
+html body text div table tbody tr td a font span  ,Contact BelAir Finishing,616,20798,101,11,0,11

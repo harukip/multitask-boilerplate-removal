@@ -1,0 +1,277 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Eye on the gel,0,0,531,18,0,6
+html body text noindex table tbody tr td a span  ,Jobs,240,32,33,17,0,10
+html body text noindex table tbody tr td span  ,|,273,32,7,17,0,9
+html body text noindex table tbody tr td a span  ,Cars,280,32,33,17,0,10
+html body text noindex table tbody tr td span  ,|,313,32,7,17,0,9
+html body text noindex table tbody tr td a span  ,Real Estate,320,32,77,17,0,10
+html body text noindex table tbody tr td span  ,|,397,32,6,17,0,9
+html body text noindex table tbody tr td a span  ,Apartments,403,32,79,17,0,10
+html body text noindex table tbody tr td span  ,|,482,32,7,17,0,9
+html body text noindex table tbody tr td a span  ,Shopping,489,32,65,17,0,10
+html body text noindex table tbody tr td span  ,|,554,32,8,17,0,9
+html body text noindex table tbody tr td a span  ,Classified,562,32,68,17,0,10
+html body text noindex table tbody tr td span  ,|,630,32,7,17,0,9
+html body text noindex table tbody tr td a span  ,Customer Service,637,32,118,17,0,10
+html body text noindex table tbody tr td span  ,|,755,32,7,17,0,9
+html body text noindex table tbody tr td a span  ,Phone Book,762,32,83,17,0,10
+html body text noindex table tbody tr td span  ,|,845,32,3,17,0,9
+html body text noindex table tbody tr td a span  ,Dating,681,50,47,17,0,10
+html body text noindex table tbody tr td span  ,|,728,50,7,17,0,9
+html body text noindex table tbody tr td a b span  ,azcentral.com,735,50,100,17,0,11
+html body text noindex table tbody tr td table tbody tr td p span span  ,Phoenix 68°,739,71,79,17,1,15
+html body text noindex table tbody tr td table tbody tr td p span span  ,Tucson 74°,739,89,73,17,1,15
+html body text noindex table tbody tr td table tbody tr td p span span  ,Flagstaff 49°,739,107,83,17,1,15
+html body text noindex table tbody tr td table tbody tr td p span a span  ,Traffic,739,125,48,17,0,16
+html body text noindex table tbody tr td table tbody tr td p span span  ,|,787,125,3,17,0,15
+html body text noindex table tbody tr td table tbody tr td p span a span  ,Weather,739,143,53,17,0,16
+html body text noindex table tbody tr td table tbody tr td div span a span  ,News,17,175,40,17,0,16
+html body text noindex table tbody tr td table tbody tr td div span  ,|,57,175,8,17,0,14
+html body text noindex table tbody tr td table tbody tr td div span a span  ,Sports,65,175,45,17,0,16
+html body text noindex table tbody tr td table tbody tr td div span  ,|,110,175,7,17,0,14
+html body text noindex table tbody tr td table tbody tr td div span a span  ,Money,117,175,49,17,0,16
+html body text noindex table tbody tr td table tbody tr td div span  ,|,166,175,7,17,0,14
+html body text noindex table tbody tr td table tbody tr td div span a span  ,Entertainment,173,175,95,17,0,16
+html body text noindex table tbody tr td table tbody tr td div span  ,|,268,175,7,17,0,14
+html body text noindex table tbody tr td table tbody tr td div span a span  ,Families,275,175,59,17,0,16
+html body text noindex table tbody tr td table tbody tr td div span  ,|,334,175,7,17,0,14
+html body text noindex table tbody tr td table tbody tr td div span a span  ,Health,341,175,47,17,0,16
+html body text noindex table tbody tr td table tbody tr td div span  ,|,388,175,7,17,0,14
+html body text noindex table tbody tr td table tbody tr td div span a span  ,Food/Home,395,175,81,17,0,16
+html body text noindex table tbody tr td table tbody tr td div span  ,|,476,175,6,17,0,14
+html body text noindex table tbody tr td table tbody tr td div span a span  ,Yes,482,175,28,17,0,16
+html body text noindex table tbody tr td table tbody tr td div span  ,|,510,175,7,17,0,14
+html body text noindex table tbody tr td table tbody tr td div span a span  ,Travel,517,175,45,17,0,16
+html body text noindex table tbody tr td table tbody tr td div span  ,|,562,175,3,17,0,14
+html body text noindex table tbody tr td table tbody tr td div span a nobr span  ,Photo/Video,17,193,84,17,0,17
+html body text noindex table tbody tr td table tbody tr td div span  ,|,101,193,7,17,0,14
+html body text noindex table tbody tr td table tbody tr td div span a span  ,Español,108,193,52,17,0,16
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div a span  ,JOBS,36,241,37,17,0,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div a span  ,AUTOS,35,259,53,17,0,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div a span  ,REAL ESTATE,28,277,57,35,0,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div a span  ,RENTALS,36,313,71,17,0,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div a span  ,classified,28,331,60,17,0,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div a span  ,local shopping,28,349,94,17,0,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div a span  ,newspaper ads,28,367,94,17,0,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div a span  ,coupons,28,385,53,17,0,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div a span  ,Valley Scene,28,480,83,17,0,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div a span  ,Clubscene,48,500,67,17,0,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div a span  ,Daily pick,48,520,67,17,0,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div a span  ,Online directory,28,540,64,35,0,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div a span  ,Fashion,28,581,51,17,0,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div a span  ,Fall fashion,48,601,76,17,0,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div a span  ,Fashion shows,28,621,71,35,0,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div a span  ,Fashion directory,28,659,71,35,0,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div a span  ,Fashion picks,28,697,71,35,0,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div a span  ,Celebrity style,28,738,94,17,0,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div a span  ,Style smackdown,28,758,76,35,0,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div a span  ,Hot or not-so-hot?,28,796,91,35,0,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div a span  ,Red carpet,48,834,69,17,0,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div a span  ,Beauty,28,857,45,17,0,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div a span  ,Spa Guide,48,877,67,17,0,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div a span  ,Beauty directory,28,897,65,35,0,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div a span  ,Beauty picks,48,935,83,17,0,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div a span  ,Weddings,28,958,64,17,0,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div a span  ,Checklist,48,978,60,17,0,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div a span  ,Merchants guide,28,998,88,35,0,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div a span  ,Spinning Wheels,28,1039,58,35,0,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span a span  ,Print This,152,246,52,35,0,23
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span a span  ,Email This,230,246,52,35,0,23
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span a span  ,Most Popular,307,246,50,35,0,23
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span a span  ,Subscribe to The Republic,402,246,122,35,0,23
+html body text noindex table tbody tr td table tbody tr td table tbody tr td span span  ,Eye on the gel,151,302,92,17,1,18
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div b span  ,Lara Piu,151,336,61,17,1,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div span  ,azcentral.com,151,354,89,17,1,18
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div span  ,"Jan. 22, 2004 12:00 AM",151,372,155,17,1,18
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div span  ,"If eyes are the window to the soul then the skin around them is the true confession of age, stress, eating habits, and more. This unfortunate fact is the result of the eye's minimal support structure. ""The tissue around the eye is the shallowest tissue on the face. And because it does not have oil glands or a fatty layer, it is more susceptible to wrinkles and the effects of aging,"" says Michelle Ribadeneira, a former Estee Lauder beauty advisor.",151,406,428,143,1,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div span  ,"Skin care professionals agree that products specifically created for the eyes are the only way to treat the delicate area. Says Ribadeneira, ""Traditional face products are too heavy for the eye, as a result they clog pores and create bags and wrinkles.""",151,568,425,71,1,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span b span  ,Beauty counter scope-out,379,713,173,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,"Spas, grocery stores, cosmetics counters, dermatologist offices, and even online stores offer great eye products at a variety of price levels. Keep your eyes peeled for these:",379,731,200,107,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span b span  ,Advanced Night Repair Eye Recovery Complex,379,857,191,35,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,", Estée Lauder $47 for 5 oz",379,875,176,35,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,(LINK),510,893,49,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,This little brown bottle is pack with powerful ingredients promising pretty eyes during the day and healing properties at night.,379,911,196,89,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span b span  ,Age Defying Revitalizing Eye Gel,379,1019,200,35,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,", Oil of Olay $9.29 for 0.5 oz",379,1037,196,35,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,(LINK),398,1055,49,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,"Fragrance and color-free, this classic eye gel is designed to reduce the look of fine lines and wrinkles around the eyes utilizing Pro-Vitamin B5, witch hazel and cucumber extract.",379,1073,189,125,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span b span  ,Eye Soother,379,1217,87,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,", Shisedio",466,1217,63,17,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,"About $50 for 0.49 oz at Dillards, Robinsons and Macy's",379,1235,157,53,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,"This refreshing gel is designed to repair delicate eye skin with Vitamin E, a botanical extract, and pearl pigments. It can also be used over makeup.",379,1289,197,89,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span b span  ,Evolutive Eye Cream,379,1397,149,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,", Pevonia $43 for 0.7 oz at Centre For Well Being",379,1397,161,53,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,(LINK),528,1433,49,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,"With a plethora goodies such as Vitamins A, E, B, and D, Hyaluronic Acid and Vitamin C, this cream smoothes fine lines with a frosting-on-top bonus: UV protection.",379,1451,188,107,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span b span  ,Healthy Skin Eye Cream,379,1577,174,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,", Neutrogena $11.89 for 0.5 oz",379,1577,188,35,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,(LINK),379,1613,49,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,"This ophthalmologist-tested cream is especially popular with contact lens wearers (who constantly tug on precious eye skin) because it's hypo-allergenic, fragrance and oil free.",379,1631,199,125,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span b span  ,Hydrating Eye Gel,379,1775,133,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,", Dermacare Laser & Skin Care Clinics $26 for 1 oz at Dermacare Laser & Skin Care Clinics",379,1775,194,89,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,(LINK),428,1847,49,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,This eye care classic offers high-quality ingredients at a reasonable price.,379,1865,180,53,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span b span  ,Line Eraser,379,1937,85,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,", L'oreal Paris Dermo-Expertise $15.49 for 0.5 oz",379,1937,181,53,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,(LINK),422,1973,49,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,"Through pure retinol and Vitamin A, this serum promises to smooth crows feet in merely two weeks.",379,1991,196,71,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span b span  ,Phyto-Contour,379,2081,107,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,", YonKa $39 for 0.53 oz at Joy Beauty.com",379,2081,191,35,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,(LINK),379,2117,49,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,Aromatic pure rosemary extracts make this light cream rejuvenating in the morning and a brute force against dark circles.An at-home classic,379,2135,192,89,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span b span  ,Low on cash or looking for a natural solution?,379,2243,195,35,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,"Try this classic remedy: After storing two half-inch slices of cucumber in your refrigerator for about an hour, lay down and place slices on closed eye lids. Rest for at least 15 minutes (word has it playing Enya in the background always helps) and viola! dark circles and puffiness are gone.",379,2279,194,179,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span b span  ,Trade Secrets,379,2477,93,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,Dab a spot of vanilla eye shadow under the arch of your brow - it will open up the eyes and make your eyes look less tired.Apply Preparation H under the eyes and wrinkles. It'll decrease puffiness and smooth lines (temporarily).,379,2495,195,143,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span b span  ,Beauty 101:,379,2657,81,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,•,379,2675,9,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,Your first bikini wax,388,2675,133,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,•,379,2693,9,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,Taking care of your skin,388,2693,156,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,•,379,2711,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,Combating dark under-eye circles,379,2711,180,35,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,•,379,2747,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,Guide to kink-free hair,389,2747,147,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,•,379,2765,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,Building better brows,389,2765,139,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span b span  ,Spa guide:,379,2801,72,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,•,379,2819,9,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,Top 20,388,2819,45,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,•,379,2837,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,Day Spas,389,2837,61,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,•,379,2855,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,Nails,389,2855,33,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,•,379,2873,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,Hair,389,2873,28,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,•,379,2891,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,Massage,389,2891,56,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,•,379,2909,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,Skincare,389,2909,56,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span span  ,•,379,2927,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div table tbody tr td span a span  ,Health Clubs,389,2927,84,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div span  ,"A slew of eye care solutions are available, and they generally come in gels and creams. While gels do not pack as much moisturizing power as creams, they're a better choice for some. ""People with oily skin, sensitive skin or acne should look for an eye gel,"" says Christina Cusumeno, aesthetician and skin care specialist for Faline's Skin Boutique in Scottsdale.",151,658,210,215,1,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div span  ,"Consult a skin care expert to determine your skin type, but buyer beware, advises Ribadeneira. ""Don't be limited by the brand a skin care specialist's spa or dermatologist sells; know what your specific needs are,"" she said.",151,892,218,143,1,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div b span  ,What to buy,151,1054,85,17,1,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div span  ,"Cusumeno suggests products with chamomile for tired, puffy eyes and products with kojic (a plant derived acid) to relieve dark circles or create lightning and brightening. But she too adds a second important warning: Stay clear of products containing coal-tar colors (listed as FD & C or D & C on the label); this ingredient is prohibited by the Food and Drug Administration, in large part because it can lead to blindness.",151,1072,218,233,1,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div b span  ,Double dippers beware,151,1324,158,17,1,20
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div span  ,"Once the perfect eye care product is found, learn to apply it correctly for optimal benefits. The first rule, according to Ribadeneira, is to use the product every morning and night. ""Just like a diet, if you only eat well and exercise occasionally, results won't come."" With consistent care, Ribadeneira says, you can expect to see changes within six to nine weeks.",151,1342,215,215,1,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div div span  ,"The eye area is high in bacteria, making sanitary application vital as well. Pop the top off a Q-tip, dab a pin-prick amount on the applicator and pat lightly around the lower eye area (and sometimes the lips but never the lids) from corner to corner in a half-moon shape. ""Some products come with spatulas, but I prefer disposable Q-tips because they don't tempt double-dipping,"" says Ribadeneira.",151,1576,217,233,1,19
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div span  ,more features,151,3018,88,17,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span span  ,•,151,3036,9,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span a span  ,Twinkle toes,160,3036,82,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span span  ,•,151,3054,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span a span  ,Style splits,161,3054,70,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span span  ,•,151,3072,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span a span  ,Eco-fashion goes mainstream,151,3072,120,35,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span span  ,•,151,3108,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span a span  ,Holiday spa hopping,161,3108,133,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span span  ,•,151,3126,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span a span  ,Cozy up to sweater dresses,161,3126,173,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span span  ,•,151,3144,9,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span a span  ,The skinny on pants,160,3144,130,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span span  ,•,151,3162,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span a span  ,Ouch!,161,3162,40,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span span  ,•,151,3180,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span a span  ,Haircuts that suit your face,161,3180,173,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span span  ,•,151,3198,9,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span a span  ,Waxing high and low,160,3198,137,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span span  ,•,151,3216,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span a span  ,IPL lasers: Out damn spot!,161,3216,171,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div span  ,favorites,151,3252,56,17,1,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span span  ,•,151,3270,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span a span  ,Spinning Wheels,161,3270,109,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span span  ,•,151,3288,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span a span  ,Summer spa specials,161,3288,134,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span span  ,•,151,3306,9,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span a span  ,Taking it all off,160,3306,100,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span span  ,•,151,3324,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span a span  ,Combating dark eye circles,161,3324,175,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span span  ,•,151,3342,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span a span  ,Rachel Zoe makes an image,161,3342,180,17,1,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span span  ,•,151,3360,10,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td span a span  ,Knockoffs -- who is it?,161,3360,148,17,0,25
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div table tbody tr td div span b span  ,"Dec. 26, 2006",443,3044,90,17,0,31
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div table tbody tr td div span span a span  ,Flip Boot,443,3062,61,17,0,32
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div table tbody tr td div span i span  ,"$625.00, Lolli",443,3080,90,17,0,31
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div table tbody tr td div span span b span  ,more,443,3098,39,17,0,32
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div table tbody tr td div span span b a span  ,fashion,482,3098,54,17,0,33
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div table tbody tr td div span span b span  ,|,536,3098,4,17,0,32
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div table tbody tr td div span span b a span  ,beauty,443,3116,50,17,0,33
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div table tbody tr td div span span b span  ,|,493,3116,8,17,0,32
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div table tbody tr td div span span b a span  ,home,501,3116,41,17,0,33
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div table tbody tr td div span span b span  ,|,542,3116,8,17,0,32
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div table tbody tr td div span span b a span  ,gift,550,3116,23,17,0,33
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div table tbody tr td div span span b span  ,picks,361,3134,36,17,0,32
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div table tbody tr td div span span a span  ,online sales,361,3170,79,17,0,32
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div table tbody tr td div span span span  ,|,440,3170,7,17,0,31
+html body text noindex table tbody tr td table tbody tr td table tbody tr td div noindex table tbody tr td div table tbody tr td div span span a span  ,shopping directory,447,3170,121,17,0,32
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,advertisement,589,301,90,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td b a span  ,SITE MAP,151,3451,80,17,0,23
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,azcentral.com main,231,3451,129,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,360,3451,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,news,367,3451,37,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,404,3451,8,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,sports,412,3451,42,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,454,3451,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,money,461,3451,48,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,509,3451,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,entertainment,516,3451,92,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,608,3451,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,families,615,3451,55,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,670,3451,8,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,health,678,3451,43,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,721,3451,3,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,food & home,151,3469,89,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,240,3469,8,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,photo/video,248,3469,80,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,328,3469,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,shopping,335,3469,63,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,398,3469,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,español,405,3469,53,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,458,3469,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,weather,465,3469,55,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,520,3469,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,classified,527,3469,64,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,591,3469,8,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,jobs,599,3469,30,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,629,3469,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,autos,636,3469,38,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,674,3469,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,real estate,681,3469,65,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td b a span  ,CUSTOMER SERVICE,151,3509,171,17,0,23
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,terms of service,322,3509,106,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,428,3509,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,contact The Republic,435,3509,141,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,576,3509,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,subscribe to The Republic,151,3509,537,35,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,213,3527,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,Newspapers in Education,220,3527,163,17,1,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,The Republic in your community,151,3545,217,17,1,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,368,3545,8,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,about The Republic,376,3545,129,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,505,3545,8,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,jobs at The Republic,513,3545,136,17,1,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,649,3545,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,jobs at KPNX-TV,151,3545,548,35,1,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,225,3563,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,about KPNX-TV,232,3563,110,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td b span  ,PARTNERS,151,3603,88,17,1,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,USA Today,239,3603,79,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,318,3603,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,Gannett Co. Inc.,325,3603,110,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,435,3603,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,Jobs:,442,3603,37,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,CareerBuilder.com,479,3603,125,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,604,3603,8,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,Cars:,612,3603,37,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,cars.com,649,3603,62,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,711,3603,3,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,Apartments:,151,3621,83,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,apartments.com,234,3621,106,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,340,3621,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,Shopping:,347,3621,70,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,ShopLocal.com,417,3621,105,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td span  ,|,522,3621,7,17,0,21
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td a span  ,Network Member,581,3621,114,17,0,22
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td font b a span  ,Copyright,151,3658,74,17,0,24
+html body text noindex table tbody tr td table tbody tr td table tbody tr td table tbody tr td font b span  ,"© 2006, azcentral.com. All rights reserved.",225,3658,290,17,0,23

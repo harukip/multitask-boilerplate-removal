@@ -1,0 +1,257 @@
+tag,content,x,y,width,height,label,depth
+html body text div div span span  ,.,8,8,4,17,0,7
+html body text div div span span  ,.,8,26,4,17,0,7
+html body text div div span span  ,.,8,44,4,17,0,7
+html body text div div div div ul li a span  ,home,48,179,36,17,0,11
+html body text div div div div ul li a span  ,comic,48,197,39,17,0,11
+html body text div div div div ul li a span  ,cast,48,215,25,17,0,11
+html body text div div div div ul li a span  ,about,48,233,36,17,0,11
+html body text div div div div ul li a span  ,abridged,48,251,56,17,0,11
+html body text div div div div ul li a span  ,gallery,48,269,44,17,0,11
+html body text div div div div ul li a span  ,links,48,287,31,17,0,11
+html body text div div div div a span span  ,Overcaffeinated buttons,8,321,154,17,0,10
+html body text div div div a span span  ,My Amazon wishlist,8,339,137,17,0,9
+html body text div div div a span span  ,Hosted by Rednaranja,145,339,143,17,0,9
+html body text div div div h1 span  ,Rants and Articles.,8,378,260,36,0,8
+html body text div div h2 span  ,"August 29, 2004",8,437,163,26,1,7
+html body text div div div p span span span  ,I,8,484,9,17,1,10
+html body text div div div p span span  ,was eight,17,484,65,17,1,9
+html body text div div div p span  ,"when I got my very first,",82,484,163,17,1,8
+html body text div div div p i span  ,honest-to-god,245,484,93,17,1,9
+html body text div div div p span  ,computer. It was a,338,484,121,17,1,8
+html body text div div div p a span  ,Commodore 64,459,484,104,17,1,9
+html body text div div div p span  ,", which I’d been ogling for the better part of a year, ever since I became mistyfied by my first encounter with a computer mouse. Computers were going to change the face of the Earth back then, you see? We were all going to become millionaires if we got into computing.",8,484,751,71,1,8
+html body text div div div p span  ,"It was bullshit, but it was very appealing bullshit, and we all bought it. Liked it, too.",8,606,537,17,1,8
+html body text div div div p span  ,Mothers drove in hordes to enroll their kids in computer classes. I begged my parents to get me in on the digital revolution that was going to shape the future.,8,640,715,35,1,8
+html body text div div div p span  ,Of course they couldn’t refuse.,8,692,198,17,1,8
+html body text div div div p span  ,The school’s name was “Galileo Center”. They had small branches strewn all over the country and a cheap tie-in TV programme that aired Saturday mornings and featured kids competing in games of,8,726,746,35,1,8
+html body text div div div p a span  ,manic miner and jetpac,539,744,154,17,1,9
+html body text div div div p span  ,"for paltry prizes and promotions. Considering the air of campiness that surrounded it, it was surprisingly competent as a programming school. I did",8,744,745,53,1,8
+html body text div div div p a span  ,Karel,183,780,39,17,1,9
+html body text div div div p span  ,. I did,222,780,42,17,1,8
+html body text div div div p a span  ,LOGO,264,780,48,17,1,9
+html body text div div div p span  ,. I did,312,780,42,17,1,8
+html body text div div div p a span  ,BASIC,354,780,51,17,1,9
+html body text div div div p span  ,", Graphic BASIC and Pascal.",405,780,187,17,1,8
+html body text div div div p span  ,"Many years later I found myself using an utterly new thing called the internet. Unlike computers themselves, the world-changing potential of this newfangled stuff wasn’t that apparent. Its main purpose seemed to be allowing anti-social geeks like myself to download the full script to all of",8,814,767,53,1,8
+html body text div div div p a span  ,Monty Python,351,850,96,17,1,9
+html body text div div div p span  ,"’s movies, ASCII porn (",447,850,156,17,1,8
+html body text div div div p span span  ,"yes, there",603,850,65,17,1,9
+html body text div div div p span i span  ,was,668,850,29,17,1,10
+html body text div div div p span a span  ,such a thing,697,850,78,17,1,10
+html body text div div div p span  ,) and engage in virtual text battles inside,8,868,264,17,1,8
+html body text div div div p a span  ,imaginary worlds,272,868,116,17,1,9
+html body text div div div p span  ,.,388,868,4,17,1,8
+html body text div div div p span  ,But it changed things all right. It started a new dialogue among like minded individuals. A truly remarkable feat if I’ve ever seen one. I’m not talking about your grandmother who emails her niece and sends pictures via the mail thingie in her home computer. I’m talking about those of us who work with the very infrastructure of this new beast. Those who couldn’t possibly conceive a day without the internet. We. The compulsive,8,902,758,71,1,8
+html body text div div div p a span  ,Slashdot,490,956,59,17,1,9
+html body text div div div p span  ,"refreshers, the",549,956,94,17,1,8
+html body text div div div p a span  ,boingboing,643,956,77,17,1,9
+html body text div div div p span  ,"ers, the acronym-gobblers, the architects and designers and programmers whose very livelihood is dependent on the flow of ones and zeroes.",8,956,759,53,1,8
+html body text div div div p span  ,Our words are bits and our statements are programs. We have come to know each other’s,8,1026,574,17,1,8
+html body text div div div p a span  ,bugs,582,1026,34,17,1,9
+html body text div div div p span  ,and learned to cope with them. We have resisted authority. We have,8,1026,765,35,1,8
+html body text div div div p a span  ,lost,283,1044,27,17,1,9
+html body text div div div p span  ,and we have,310,1044,84,17,1,8
+html body text div div div p a span  ,won,394,1044,32,17,1,9
+html body text div div div p span  ,. We have found ways to beat the system and we have developed altogether,8,1044,762,35,1,8
+html body text div div div p a span  ,new systems,146,1062,85,17,1,9
+html body text div div div p span  ,"to cope with our ever-increasing desire for information. Because information, its free flow and its sharing is what will ultimately make a difference in this",8,1062,767,35,1,8
+html body text div div div p i span  ,Big Old World™,448,1080,112,17,1,9
+html body text div div div p span  ,.,560,1080,4,17,1,8
+html body text div div div p span  ,"That, and",8,1114,64,17,1,8
+html body text div div div p a span  ,porn,72,1114,34,17,1,9
+html body text div div div p span  ,.,106,1114,4,17,1,8
+html body text div div div p span  ,—,8,1148,20,17,0,8
+html body text div div div p a span  ,sergio,28,1148,43,17,1,9
+html body text div div div p span  ,at 11:46 PM,71,1148,82,17,1,8
+html body text div div div p a span  ,Comments (16),238,1148,104,17,1,9
+html body text div div div p a span  ,TrackBack (0),342,1148,92,17,0,9
+html body text div div h2 span  ,"August 17, 2004",8,1186,163,26,1,7
+html body text div div div p span span span  ,T,8,1267,13,17,1,10
+html body text div div div p span span  ,"rue to form,",21,1267,80,17,1,9
+html body text div div div p span  ,I’ve taken,101,1267,69,17,1,8
+html body text div div div p i span  ,eons,170,1267,33,17,1,9
+html body text div div div p span  ,to actually post the translation for my article in the,203,1267,328,17,1,8
+html body text div div div p a span  ,Sensacional de blogs,531,1267,138,17,1,9
+html body text div div div p span  ,magazine. Here it is now:,8,1267,762,35,1,8
+html body text div div div h2 span  ,The dark one,8,1322,137,26,1,8
+html body text div div div p b span  ,July 10. 2003,8,1369,89,17,1,9
+html body text div div div p span  ,"Torrential rain pounded the city all through the day. The unbearable traffic drove drivers crazy, and while their cars stranded I watched with delight and enjoyed cold nutrition (",8,1403,735,35,1,8
+html body text div div div p span span  ,Vanilla ice cream from Bing,395,1421,185,17,1,9
+html body text div div div p span  ,). Cold. Like my soul.,580,1421,141,17,1,8
+html body text div div div p span  ,The whole spectacle was depressing. It was as if the weather knew of my arrival. The arrival of… THE DARK ONE!!!,8,1455,763,17,1,8
+html body text div div div p span  ,That will be my identity for this blog. This will avoid endangering those close to me when my opinions make the people in the high spheres of power nervous.,8,1489,724,35,1,8
+html body text div div div p span  ,The dark one says goodbye for today. Have horrible dreams… MUAHAAHHAAHA!,8,1541,550,17,1,8
+html body text div div div p b span  ,July 12. 2003,8,1575,89,17,1,9
+html body text div div div p span  ,As I meditated about the best ways of torturing and upsetting a squirrel (,8,1609,468,17,1,8
+html body text div div div p span span  ,"but I just meditated, because it’s not good killing squirrels, heehehehee",8,1609,735,35,1,9
+html body text div div div p span  ,") I came upon the realization that my voice now carries tremendous power. Having an online influence like mine begets responsibility. Although I can’t deny that my influence would be ultimately benefical for society, which definitely needs guidance.",8,1627,760,53,1,8
+html body text div div div p span  ,"I have decided, therefore, to reveal my vote for the upcoming elections, amply convinced that thousands of loyal followers will feel relieved from the pressure of having to think by themselves.",8,1697,721,35,1,8
+html body text div div div p span  ,"Vote for the Rooster party. One of the Dark One’s friends is involved in it, and I assure you that any guy that plays The Masquerade and is in the process of becoming a Vampire by means of arcane rituals that involve huge amounts of garlic knows what he’s doing.",8,1749,768,53,1,8
+html body text div div div p span  ,I bid farewell!,8,1819,92,17,1,8
+html body text div div div p b span  ,July 15. 2003,8,1853,89,17,1,9
+html body text div div div p span  ,"The Rooster party didn’t win anything. Frankly, loyal readers, I’m disappointed. I can only attribute this failure to your lack of commitment. Although I have to admit that I, the Dark One, couldn’t attend the voting booth either, I assure you that there are ample and powerful reasons of great importance for that.",8,1887,766,53,1,8
+html body text div div div p span  ,"Besides, the booth was too far away and my sister wouldn’t take me there in the car. Puerile woman. When the Dark One’s mother allows him use of the car your only use will cease!",8,1957,744,35,1,8
+html body text div div div p b span  ,July 18. 2003,8,2009,89,17,1,9
+html body text div div div p span  ,Great news! I’ve found the way to allow comments in my blog! Now you can tell the Dark One what you think!,8,2043,717,17,1,8
+html body text div div div p span  ,"I’m going to sleep, but I have high hopes for this. I hope my server can take the load.",8,2077,544,17,1,8
+html body text div div div p b span  ,July 19. 2003,8,2111,89,17,1,9
+html body text div div div p span  ,3 comments in yesterday’s post! Allow me to answer each:,8,2145,376,17,1,8
+html body text div div div p i span  ,Vi.Agr.a On-li.ne:,8,2179,117,17,1,9
+html body text div div div p span  ,The Dark One does not need such things. I assure you that my sexual prowess is equiparable to that of a rhinoceros.,8,2179,755,35,1,8
+html body text div div div p i span  ,Sexxy-Debbie:,8,2231,97,17,1,9
+html body text div div div p span  ,"I visited your site, as per your suggestion. I don’t know if you’re aware of this, but in most of your pictures you’re shown with very little clothing. Please contact me by email.",8,2231,728,35,1,8
+html body text div div div p i span  ,John:,8,2283,40,17,1,9
+html body text div div div p span  ,Thanks. I think my site is very nice and pretty too (,48,2283,332,17,1,8
+html body text div div div p span span  ,"I made a big effort choosing special colors for the template, and even had to learn eichteeemel, which is a l33t programming language for the internet",8,2283,754,35,1,9
+html body text div div div p span  ,"). Curious, that your name is linked to a porn site. Are you that site’s wesmaster?",8,2301,757,35,1,8
+html body text div div div p b span  ,July 20. 2003,8,2353,89,17,1,9
+html body text div div div p span  ,"Debbie, John, Vi.Agr.a and hu.GeCock.s, please stop leaving comments. I believe you’ve said your peace and we don’t need more reaffirmation.",8,2387,762,35,1,8
+html body text div div div p b span  ,July 21. 2003,8,2439,89,17,1,9
+html body text div div div p span  ,"I find myself in the distressing necessity of closing comments in the blog, due to the fact that I’ve attracted obsessive commenters who leave more than 100 comments a day (",8,2473,749,35,1,8
+html body text div div div p span span  ,"curiously enough, all of them appear to be wesmasters of pr0n sites",8,2491,764,35,1,9
+html body text div div div p span  ,).,40,2509,10,17,1,8
+html body text div div div p span  ,The price of fame.,8,2543,118,17,1,8
+html body text div div div p b span  ,July 22. 2003,8,2577,89,17,1,9
+html body text div div div p span  ,"Today I received my very first hate mail from an envious individual who spews lots of silliness. In here, I transcribe my 20-page dissertation wherein I completely obliterate his arguments. I’m sure he’ll seat to cry in a dark corner of his lonely room when he reads this.",8,2611,766,53,1,8
+html body text div div div p span  ,[…],8,2681,27,17,0,8
+html body text div div div p b span  ,July 23. 2003,8,2715,89,17,1,9
+html body text div div div p span  ,"To Billy Baker, who sent me the hate mail and subsequently had so much fun showing my answer around the classroom at the UNI: Drop dead.",8,2749,767,35,1,8
+html body text div div div p span  ,"I want to leave irrevocable record here in the Interweb, that I saw Billy Baker peeing on the bushes outside the UNI the other day.",8,2801,764,35,1,8
+html body text div div div p span  ,"That’ll teach you to make fun of my trenchcoat and eyeshadow, Billy Baker!",8,2853,491,17,1,8
+html body text div div div p b span  ,July 25. 2003,8,2887,89,17,1,9
+html body text div div div p span  ,"Rejoice! Today I have decided to share an unpublished piece of poetry by the Dark One! Although I don’t want to point accusatorial fingers, I am aware that many would love to steal my poetry, so I’ve decided to send it only to those who request it to my email address (",8,2921,765,53,1,8
+html body text div div div p span span  ,thedarkone1524@hotmail.com,213,2957,202,17,1,9
+html body text div div div p span  ,),415,2957,5,17,1,8
+html body text div div div p b span  ,July 26. 2003,8,2991,89,17,1,9
+html body text div div div p span  ,I think there’s something wrong with my email address. Since apparently I’m not getting your requests for the poem I’ve decided to share it here:,8,3025,743,35,1,8
+html body text div div div p b span  ,THE SHADOW,8,3095,111,17,1,9
+html body text div div div p span  ,A menacing shadow creeps,8,3129,175,17,1,8
+html body text div div div p span  ,and much terror it reaps,8,3147,153,17,1,8
+html body text div div div p span  ,That shadow that scares you,8,3181,181,17,1,8
+html body text div div div p span  ,"that shadow,",8,3199,80,17,1,8
+html body text div div div p span  ,is,8,3217,11,17,1,8
+html body text div div div p span  ,me.,8,3235,24,17,1,8
+html body text div div div p b span  ,August 5. 2003.,8,3287,105,17,1,9
+html body text div div div p span  ,Billy Baker printed copies of my blog and handed them out at the UNI. Everybody laughed.,8,3321,589,17,1,8
+html body text div div div p span  ,…,8,3355,16,17,0,8
+html body text div div div p span  ,This blogging thing fucking sucks.,8,3389,223,17,1,8
+html body text div div div p span  ,———————————-,8,3423,181,17,0,8
+html body text div div div p span span  ,THIS DOMAIN NAME (www.darkone-James-Howard-at-the-UNI.com) HAS EXPIRED AND IS AVAILABLE FOR PURCHASE FROM Internic - FOR INFO PLEASE CONTACT US AT…,8,3457,758,35,1,9
+html body text div div div p span  ,—,8,3509,20,17,0,8
+html body text div div div p a span  ,sergio,28,3509,43,17,1,9
+html body text div div div p span  ,at 11:24 AM,71,3509,84,17,1,8
+html body text div div div p a span  ,Comments (7),240,3509,96,17,1,9
+html body text div div div p a span  ,TrackBack (0),336,3509,92,17,0,9
+html body text div div h2 span  ,"August 10, 2004",8,3547,163,26,1,7
+html body text div div div p span span span  ,A,8,3594,15,17,1,10
+html body text div div div p span span  ,s much as I talk,23,3594,104,17,1,9
+html body text div div div p span  ,here about my,127,3594,96,17,1,8
+html body text div div div p a span  ,gruesome habits,223,3594,108,17,1,9
+html body text div div div p span  ,or,331,3594,17,17,1,8
+html body text div div div p a span  ,obsessive,348,3594,66,17,1,9
+html body text div div div p a span  ,compulsive,414,3594,77,17,1,9
+html body text div div div p span  ,"behavior, I rarely touch upon what is actually happening in my life at any one time, as I have no interest in turning this place into a “dear diary” kind of thing.",8,3594,730,53,1,8
+html body text div div div p i span  ,Howeveeer…,8,3664,86,17,1,9
+html body text div div div p span  ,So many things have happened lately that it’s time for an update.,8,3732,415,17,1,8
+html body text div div div p span  ,Firstly: New job —,8,3766,129,17,1,8
+html body text div div div p i span  ,fucking awesome.,137,3766,118,17,1,9
+html body text div div div p span  ,"I’ll be developing a number of websites for a corporate group that dates back as far as 1908, as well as working out rules of engagement for all web related company endeavours. This fills me with no small amount of glee. I constantly catch myself browsing web design related sites and thinking",8,3766,758,53,1,8
+html body text div div div p span i span  ,Mmmhh… I should stop wasting time and get to work…,8,3802,765,35,1,10
+html body text div div div p span  ,", only to realize that now",212,3820,163,17,1,8
+html body text div div div p b span  ,this is my work!!!,375,3820,124,17,1,9
+html body text div div div p span  ,". Lovely, huh?",499,3820,91,17,1,8
+html body text div div div p span  ,"The work site is Apple only. Now, on first notice, you may peg me as a",8,3854,458,17,1,8
+html body text div div div p a span  ,Mac hater,466,3854,68,17,1,9
+html body text div div div p span  ,"of sorts, but I assure you that is a common misconception. I actually love the little buggers ever since they slapped a lickable interface over Unix. Opening a terminal to type “",8,3854,738,53,1,8
+html body text div div div p code span  ,ls,195,3893,23,15,1,9
+html body text div div div p span  ,” every once in a while has become one of my new,218,3890,331,17,1,8
+html body text div div div p a span  ,rituals,549,3890,44,17,1,9
+html body text div div div p span  ,.,593,3890,4,17,1,8
+html body text div div div p span  ,Regarding the ‘puter at work: Used to be a 450 Mhz G4 with 640 Mb Ram and an 80 Gb,8,3924,572,17,1,8
+html body text div div div p acronym span  ,HD,580,3924,27,17,1,9
+html body text div div div p span  ,running,607,3924,54,17,1,8
+html body text div div div p a span  ,Panther,661,3924,53,17,1,9
+html body text div div div p span  ,(,714,3924,5,17,1,8
+html body text div div div p a span  ,Sekhmet,8,3942,60,17,1,9
+html body text div div div p span  ,"). I don’t know if it was my PC karma, but it crapped out in a week. Apps crashed, kernel extensions bonkered and even Flash and Java went",8,3942,766,35,1,8
+html body text div div div p acronym span  ,awol,203,3960,35,17,1,9
+html body text div div div p span  ,(,238,3960,9,17,1,8
+html body text div div div p span span  ,"On hindsight, it may have been an ill-fated decision to name her after a goddess of destruction",8,3960,767,35,1,9
+html body text div div div p span  ,). So she has been replaced by,83,3978,197,17,1,8
+html body text div div div p a span  ,Hathor,280,3978,49,17,1,9
+html body text div div div p span  ,", a 733 Mhz G4 with the 21” Apple CRT (",329,3978,272,17,1,8
+html body text div div div p span span  ,“turtle”,601,3978,52,17,1,9
+html body text div div div p span  ,). The package includes one of those nifty buttonless rodents Apple makes (,8,3978,740,35,1,8
+html body text div div div p span span  ,I keep fighting the urge to take a bite from it,398,3996,288,17,1,9
+html body text div div div p span  ,).,686,3996,10,17,1,8
+html body text div div div p span  ,"Hathor is running beautifully, and has already been subjected to the addition of",8,4030,509,17,1,8
+html body text div div div p a span  ,Quicksilver,517,4030,79,17,1,9
+html body text div div div p span  ,",",596,4030,8,17,1,8
+html body text div div div p a span  ,Desktop Manager,604,4030,118,17,1,9
+html body text div div div p span  ,"and, of course,",8,4030,758,35,1,8
+html body text div div div p a span  ,Firefox,58,4048,51,17,1,9
+html body text div div div p span  ,". Unlike Sekhmet, this one has a video card that supports",109,4048,367,17,1,8
+html body text div div div p a span  ,Quartz Extreme,476,4048,106,17,1,9
+html body text div div div p span  ,(,582,4048,9,17,1,8
+html body text div div div p span span  ,that would be the,591,4048,115,17,1,9
+html body text div div div p span a span  ,flim flam velocinator,8,4048,758,35,1,10
+html body text div div div p span  ,"). It feels like running through fields full of candy coated strippers, I shit you not.",84,4066,520,17,1,8
+html body text div div div p span  ,"At home, my lowly GeForce 2 has been replaced with a sleek ATI All In Wonder 9700 PRO. After a false start in which I almost burned my processor due to overheating (",8,4100,765,35,1,8
+html body text div div div p span span  ,"note to self: Always check how tight cabling is around the processor fan, and",8,4118,763,35,1,9
+html body text div div div p span b span  ,never,64,4136,41,17,1,10
+html body text div div div p span span  ,ignore screeching sounds coming from the ‘puter,105,4136,319,17,1,9
+html body text div div div p span  ,"), I find myself selling my soul to",424,4136,218,17,1,8
+html body text div div div p a span  ,Far Cry,642,4136,54,17,1,9
+html body text div div div p span  ,", and enjoying every minute of it. Whereas in the Geforce it looked like regurgitated dogshit, now it looks like what can only be described as a visual handjob of the most prurient persuasion. I had already become pretty good at getting headshots on the 4 pixel tall squiggly lines that I figured out were soldiers, but now the little buggers are actually",8,4136,763,71,1,8
+html body text div div div p i span  ,scary,668,4190,39,17,1,9
+html body text div div div p span  ,. I won’t discuss the,8,4190,752,35,1,8
+html body text div div div p a span  ,trigens,82,4208,47,17,1,9
+html body text div div div p span  ,save to assure you that they are the stuff that fills my nightmares.,129,4208,417,17,1,8
+html body text div div div p span  ,Other news: Read,8,4242,119,17,1,8
+html body text div div div p a span  ,Neverwhere,127,4242,82,17,1,9
+html body text div div div p span  ,. Fucking loved it. Reading,209,4242,178,17,1,8
+html body text div div div p a span  ,Stranger in a Strange Land,387,4242,176,17,1,9
+html body text div div div p span  ,. Grokking it. Doing major rehaul of room furniture and life habits. Thinking seriously about restarting work on the comic.,8,4242,726,35,1,8
+html body text div div div p span  ,Oh… and we have free coffee at work. freecoffee freecoffee freecoffee freecoffee. Right now theworldisablur and I’m standinginthemiddleofitall.,8,4294,756,35,1,8
+html body text div div div p i span  ,It’s beautiful.,185,4312,84,17,1,9
+html body text div div div p span  ,And that’s about it.,8,4346,123,17,1,8
+html body text div div div p span  ,—,8,4380,20,17,0,8
+html body text div div div p a span  ,sergio,28,4380,43,17,1,9
+html body text div div div p span  ,at 12:50 PM,71,4380,83,17,1,8
+html body text div div div p a span  ,Comments (21),239,4380,104,17,1,9
+html body text div div div p a span  ,TrackBack (0),343,4380,92,17,0,9
+html body text div div h2 span  ,"August 01, 2004",8,4418,163,26,1,7
+html body text div div div p span span span  ,A,8,4465,15,17,1,10
+html body text div div div p span span  ,ficionados que viven,23,4465,137,17,1,9
+html body text div div div p span  ,la emoción del Blog!,160,4465,135,17,1,8
+html body text div div div p span  ,"A partir de este momento, sumérgete en la emoción de un auténtico encontronazo entre algunos de los bloggers made-in-mexico más aventados, dándose con todo para demostrar a una de tres caídas, quien es quien en eso de la blogueada.",8,4499,764,35,1,8
+html body text div div div p span  ,"7 Estetas del hipertexto enfrentándose encarnizadamente con espectaculares lances, llaves, mordidas, piquetes de ojos… Corre por tu ejemplar del espectacular, único, increíble, sofisticado y quizá irrepetible…",8,4551,724,35,1,8
+html body text div div div p b span  ,Sensacional de Blogs #2,8,4569,757,35,1,9
+html body text div div div p a span  ,Pídelo a tu voceador,8,4655,131,17,1,9
+html body text div div div p span  ,_________________,8,4689,136,17,0,8
+html body text div div div p b span  ,For english speakers:,8,4723,149,17,1,9
+html body text div div div p span  ,This is an announcement for a humorous,157,4723,266,17,1,8
+html body text div div div p acronym span  ,PDF,423,4723,33,17,1,9
+html body text div div div p span  ,"magazine that a few mexican bloggers and me have put together, and which sports wondrous graphic design skills by",8,4723,745,35,1,8
+html body text div div div p a span  ,Armando Sosa,461,4741,98,17,1,9
+html body text div div div p span  ,.,559,4741,4,17,1,8
+html body text div div div p span  ,The magazine title is a jab on seedy serials that are all the rage in México (,8,4775,483,17,1,8
+html body text div div div p span span  ,the #2 is just to fuck with people’s minds,491,4775,267,17,1,9
+html body text div div div p span  ,"). Sadly, the mag is Spanish only, but I’ll translate my article later and republish it here for non-spanish speakers.",8,4775,759,35,1,8
+html body text div div div p i span  ,Enjoy!,8,4827,43,17,1,9
+html body text div div div p span  ,—,8,4861,20,17,0,8
+html body text div div div p a span  ,sergio,28,4861,43,17,1,9
+html body text div div div p span  ,at 09:21 PM,71,4861,83,17,1,8
+html body text div div div p a span  ,Comments (12),239,4861,104,17,1,9
+html body text div div div p a span  ,TrackBack (0),343,4861,92,17,0,9
+html body text div div div h1 span  ,News from the 'net,8,4934,258,36,0,8
+html body text div div div h1 span  ,Shout. Let it all out.,8,4993,272,36,0,8
+html body text div div span span  ,?,8,5051,11,17,0,7
+html body text div div a span  ,XHTML,19,5051,60,17,0,7
+html body text div div span span  ,|,79,5051,8,17,0,7
+html body text div div a span  ,CSS,87,5051,32,17,0,7
+html body text div div span span  ,|,119,5051,7,17,0,7
+html body text div div a span  ,508,126,5051,24,17,0,7
+html body text div div span span  ,.,8,5069,4,17,0,7
+html body text div div span span  ,.,8,5087,4,17,0,7

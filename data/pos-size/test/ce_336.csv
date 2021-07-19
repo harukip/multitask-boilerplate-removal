@@ -1,0 +1,134 @@
+tag,content,x,y,width,height,label,depth
+html body text div div p a span  ,UC Home,8,8,69,17,0,8
+html body text div div p span  ,|,77,8,8,17,0,7
+html body text div div p a span  ,Courses,85,8,55,17,0,8
+html body text div div p span  ,|,140,8,7,17,0,7
+html body text div div p a span  ,Departments,147,8,86,17,0,8
+html body text div div p span  ,|,233,8,7,17,0,7
+html body text div div p a span  ,Library,240,8,52,17,0,8
+html body text div div p span  ,|,292,8,7,17,0,7
+html body text div div p a span  ,Teaching,299,8,63,17,0,8
+html body text div div p span  ,|,362,8,7,17,0,7
+html body text div div p a span  ,Research,369,8,62,17,0,8
+html body text div div p span  ,|,431,8,8,17,0,7
+html body text div div p a span  ,Students,439,8,59,17,0,8
+html body text div div p span  ,|,498,8,7,17,0,7
+html body text div div p a span  ,Contacts,505,8,60,17,0,8
+html body text div div p span  ,|,565,8,7,17,0,7
+html body text div div p a span  ,Search,572,8,44,17,0,8
+html body text div p a acronym span  ,UC,8,214,26,17,0,8
+html body text div p a span  ,Home,34,214,43,17,0,7
+html body text div p span  ,>,77,214,13,17,0,6
+html body text div p a span  ,Departments,90,214,86,17,0,7
+html body text div p span  ,>,176,214,13,17,0,6
+html body text div p a span  ,College of Engineering,189,214,153,17,0,7
+html body text div p span  ,>,342,214,13,17,0,6
+html body text div p a span  ,Civil Engineering,355,214,115,17,0,7
+html body text div table tbody tr td span  ,Civil Engineering,8,361,114,17,0,9
+html body text div div div div div h4 span  ,Study,8,400,40,17,0,10
+html body text div div div div div ul li a span  ,Earthquake,48,440,73,17,0,12
+html body text div div div div div ul li a span  ,Environmental,48,458,95,17,0,12
+html body text div div div div div ul li a span  ,Fire,48,476,26,17,0,12
+html body text div div div div div ul li a span  ,Fluids,48,494,40,17,0,12
+html body text div div div div div ul li a span  ,Geotechnical,48,512,84,17,0,12
+html body text div div div div div ul li a span  ,Natural Resources,48,530,118,17,0,12
+html body text div div div div div ul li a span  ,Structural,48,548,63,17,0,12
+html body text div div div div div ul li a span  ,Transportation,48,566,94,17,0,12
+html body text div div div div div h4 span  ,For,8,605,25,17,0,10
+html body text div div div div div ul li a span  ,Prospective Students,48,644,134,17,0,12
+html body text div div div div div ul li a span  ,Undergraduate Students,48,662,154,17,0,12
+html body text div div div div div ul li a span  ,Postgraduate Students,48,680,142,17,0,12
+html body text div div div div div ul li a span  ,Visitors and Community,48,698,157,17,0,12
+html body text div div div div div h4 span  ,About,8,737,43,17,0,10
+html body text div div div div div ul li a span  ,Department,48,777,76,17,0,12
+html body text div div div div div ul li a span  ,Contact,48,795,50,17,0,12
+html body text div div div div div ul li a span  ,People,48,813,44,17,0,12
+html body text div div div div div ul li a span  ,Courses,48,831,52,17,0,12
+html body text div div div div div ul li a span  ,Research,48,849,59,17,0,12
+html body text div div div div div ul li a span  ,Publications,48,867,79,17,0,12
+html body text div div div div div ul li a span  ,Seminars,48,885,60,17,0,12
+html body text div div div div div ul li a span  ,News and Events,48,903,111,17,0,12
+html body text div div div div div ul li a span  ,Scholarships and Prizes,48,921,152,17,0,12
+html body text div div div div div div h3 span  ,Search,8,957,55,21,0,11
+html body text div div div div div div form p span  ,Entire University,8,1016,111,17,0,12
+html body text div div div div div div form p span  ,Civil Engineering,8,1034,114,17,0,12
+html body text div div div div div h4 span  ,Contact,8,1306,54,17,0,10
+html body text div div div div div p strong span  ,+64 3 364 2250,8,1346,101,17,0,11
+html body text div div div div div p a span  ,enquiries,8,1380,59,17,0,11
+html body text div div div div div p a span  ,@civil.canterbury.ac.nz,8,1398,152,17,0,11
+html body text div div div div div p span  ,Civil Engineering,8,1432,114,17,0,10
+html body text div div div div div p span  ,Canterbury University,8,1450,144,17,0,10
+html body text div div div div div p span  ,Private Bag 4800,8,1468,111,17,0,10
+html body text div div div div div p span  ,"Christchurch, 8140",8,1486,123,17,0,10
+html body text div div div div div p a span  ,Contacts Page,8,1520,91,17,0,11
+html body text div div div div div div h1 span  ,Peter Moss (Retired),8,1559,283,36,1,11
+html body text div div div div div div h3 span  ,Position,8,1617,64,21,1,11
+html body text div div div div div div p span  ,Associate Professor in Civil Engineering,8,1658,261,17,1,11
+html body text div div div div div div h3 span  ,Qualifications,8,1695,112,21,1,11
+html body text div div div div div div p span  ,"PhD (London), BE(Hons)(Civil)(NZ), D.I.C., C.Eng., FIPENZ, MICE",8,1736,451,17,1,11
+html body text div div div div div div h3 span  ,Contact Details,8,1772,123,21,1,11
+html body text div div div div div div p strong span  ,Phone,8,1813,47,17,1,12
+html body text div div div div div div p span  ,: +64 3 364 2245 Internal: 6245,55,1813,207,17,1,11
+html body text div div div div div div p strong span  ,Fax,8,1831,30,17,1,12
+html body text div div div div div div p span  ,: +64 3 364 2758,38,1831,109,17,1,11
+html body text div div div div div div p strong span  ,Email,8,1849,45,17,1,12
+html body text div div div div div div p span  ,:,53,1849,8,17,1,11
+html body text div div div div div div p a span  ,peter.moss@civil.canterbury.ac.nz,61,1849,220,17,1,12
+html body text div div div div div div h3 span  ,Research,8,1886,73,21,1,11
+html body text div div div div div div p span  ,"Timber Engineering, Earthquake Engineering, Seismic Isolation, Structural Dynamics, Mechanics of wool yarns",8,1926,720,17,1,11
+html body text div div div div div div h3 span  ,Adminstrative Responsibilities,8,1963,245,21,1,11
+html body text div div div div div div p strong span  ,Department:,8,2004,92,17,1,12
+html body text div div div div div div p span  ,Member of the Consultative Committee; Convenor of the Computer Developments Committee; Member of the Academic Developments Committee; and Counsellor to 2nd Professional Direct Entry Students,8,2004,762,35,1,11
+html body text div div div div div div p strong span  ,Faculty:,8,2040,61,17,1,12
+html body text div div div div div div p span  ,Member of the Computing (CAD policy) Committee,69,2040,339,17,1,11
+html body text div div div div div div p strong span  ,University:,8,2058,80,17,1,12
+html body text div div div div div div p span  ,"Member, Academic Board",88,2058,169,17,1,11
+html body text div div div div div div p strong span  ,Professional:,8,2076,93,17,1,12
+html body text div div div div div div p span  ,"Member of the Management Committee of the New ZealandNational Society for Earthquake Engineering; Member of the Physical and EngineeringSciences Advisory Committee; Foundation for Research, Science and Technology",8,2076,767,53,1,11
+html body text div div div div div div h3 span  ,"Professional affliations, activities and achievements (last 5 years)",8,2149,515,21,1,11
+html body text div div div div div div ul li span  ,"Fellow, IPENZ",48,2189,97,17,1,12
+html body text div div div div div div ul li span  ,"Fellow, NZNSEE",48,2207,113,17,1,12
+html body text div div div div div div ul li span  ,"Member, Institution of Civil Engineering",48,2225,263,17,1,12
+html body text div div div div div div ul li span  ,"Member, NZ Geotechnical Society,",48,2243,226,17,1,12
+html body text div div div div div div ul li span  ,"Member, NZ Concrete Society,",48,2261,200,17,1,12
+html body text div div div div div div ul li span  ,"Member, NZ Society on Large Dams,",48,2279,241,17,1,12
+html body text div div div div div div ul li span  ,"Member, NZ Timber Design Society",48,2297,234,17,1,12
+html body text div div div div div div ul li span  ,Editor of the Bulletin of the NZ National Society for Earthquake Engineering and ex officio member of the Management Committee.,48,2315,685,35,1,12
+html body text div div div div div div ul li span  ,Co-editor of a book on guidelines for the design of low-rise buildings subjected to lateral forces and the proceedings of a conference on the full-scale behaviour of wood-framed buildings in earthquakes and high winds.,48,2351,729,35,1,12
+html body text div div div div div div h3 span  ,Recent Publications,8,2406,158,21,1,11
+html body text div div div div div div p span  ,"Bernhart, D, Buchanan, A., Dhakal, R.P., and Moss, P.J., Effect of top reinforcing on the fire performance of continuous reinforced concrete beams,",8,2447,767,35,1,11
+html body text div div div div div div p i span  ,"8th Intl Symposium on Fire Safety Science, Beijing,",185,2465,332,17,1,12
+html body text div div div div div div p span  ,", 2005: 259-70",517,2465,94,17,1,11
+html body text div div div div div div p span  ,"Lim L, A H Buchanan, Moss P J., Analysis and Design of Reinforced Concrete Slabs Exposed to Fires,",8,2501,663,17,1,11
+html body text div div div div div div p i span  ,"Proceedings SiF 04 - Structures in Fire Symposium, Ottawa, Canada,",8,2501,768,35,1,12
+html body text div div div div div div p span  ,", 2004: 353-68",349,2519,93,17,1,11
+html body text div div div div div div p span  ,"Lane W, Buchanan A H, Moss P J., Fire Performance of Laminated Veneer Lumber (LVL),",8,2555,584,17,1,11
+html body text div div div div div div p i span  ,"Proc of 18th Australasian Conf on the Mechanics of Structures and Materials, Perth, Australia,",8,2555,749,35,1,12
+html body text div div div div div div p span  ,", 2004:",455,2573,44,17,1,11
+html body text div div div div div div p span  ,"Wang, J., Carr, A., Cooke, N., & Moss, P., Effects of Spatial Variations of Seismic Inputs on Bridge Longitudinal Response,",8,2609,723,35,1,11
+html body text div div div div div div p i span  ,"Proc of 13th World Conference on Earthquake Eng, Vancouver Canada (accepted to conf.),",77,2627,590,17,1,12
+html body text div div div div div div p span  ,", 2004:",667,2627,44,17,1,11
+html body text div div div div div div p span  ,"Wang, J., Carr, A., Cooke, N., & Moss, P., Inelastic Responses of Long Bridges to Ashynchronous Seismic Inputs,",8,2663,734,17,1,11
+html body text div div div div div div p i span  ,"Proc of 13th World Conference on Earthquake Eng, Vancouver Canada (accepted to conf.),",8,2663,765,35,1,12
+html body text div div div div div div p span  ,", 2004:",563,2681,44,17,1,11
+html body text div div div div div div p span  ,"Moss P J, Buchanan A H, Seputro J, Wastney C, Welsh R, Effect of Support Conditions on the Fire Behaviour of Steel and Composite Beams,",8,2717,756,35,1,11
+html body text div div div div div div p i span  ,"Fire and Materials,",160,2735,129,17,1,12
+html body text div div div div div div p span  ,"v28no2-4, 2004: 159-76",289,2735,155,17,1,11
+html body text div div div div div div p span  ,"Lim L, Buchanan A H, Moss P J, Franssen J-M., Numerical Modelling of Two-way Reinforced Concrete Slabs in Fire,",8,2771,759,17,1,11
+html body text div div div div div div p i span  ,"Engineering Structures,",8,2789,156,17,1,12
+html body text div div div div div div p span  ,"v26, 2004: 1081-91",164,2789,126,17,1,11
+html body text div div div div div div p span  ,"Moss P J, Buchanan A H, Seputro J, Welsh R., Effect of Support Conditions on the Behaviour of Steel Beams in Fire,",8,2825,751,17,1,11
+html body text div div div div div div p i span  ,"Australian Journal of Structural Eng,",8,2843,244,17,1,12
+html body text div div div div div div p span  ,"v5no2, 2004: 89-98",252,2843,126,17,1,11
+html body text div div div div div div p span  ,"Lim L, Buchanan A H, Moss P J., Restraint of Fire-Exposed Concrete Floor Systems,",8,2879,550,17,1,11
+html body text div div div div div div p i span  ,"Fire and Materials,",558,2879,129,17,1,12
+html body text div div div div div div p span  ,"v28no2-4, 2004: 95-126",8,2879,745,35,1,11
+html body text div div div div div div p span  ,"Lane W, Buchanan A H, Moss P J., Fire Performance of Laminated Veneer Lumber (LVL),",8,2933,584,17,1,11
+html body text div div div div div div p i span  ,"Proc. of World Conf on Timber Engineering, Lahti, Finland,",8,2933,733,35,1,12
+html body text div div div div div div p span  ,"v3, 2004: 473-78",245,2951,110,17,1,11
+html body text div div div div span  ,"Â© University of Canterbury - Christchurch, New Zealand",8,3003,367,17,0,8
+html body text div div div div a span  ,Feedback,8,3021,65,17,0,9
+html body text div div div div span  ,|,73,3021,8,17,0,8
+html body text div div div div a span  ,Help and Accessibility,81,3021,148,17,0,9
+html body text div div div div span  ,|,229,3021,8,17,0,8
+html body text div div div div a span  ,Copyright and Disclaimer,237,3021,166,17,0,9

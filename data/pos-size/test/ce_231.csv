@@ -1,0 +1,737 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Muppets: Information from Answers.com,0,0,706,18,0,6
+html body text div div p span  ,Browse,8,24,49,17,0,7
+html body text div div div p a span  ,Business,8,58,57,17,0,9
+html body text div div div p a span  ,Entertainment,8,92,91,17,0,9
+html body text div div div p a span  ,Health,8,126,43,17,0,9
+html body text div div div p a span  ,People,8,160,44,17,0,9
+html body text div div div p a span  ,Places,8,194,41,17,0,9
+html body text div div div p a span  ,Reference,8,228,65,17,0,9
+html body text div div div p a span  ,Science,8,262,50,17,0,9
+html body text div div div p a span  ,Shopping,8,296,61,17,0,9
+html body text div div div p a span  ,Words,8,330,41,17,0,9
+html body text div div div p a span  ,More...,8,364,47,17,0,9
+html body text div div p span  ,Just for:,8,398,52,17,1,7
+html body text div div div p a span  ,Teachers,8,432,57,17,1,9
+html body text div div div p a span  ,Librarians,8,466,66,17,1,9
+html body text div div div p a span  ,Journalists,8,500,68,17,1,9
+html body text div div div p a span  ,Webmasters,8,534,78,17,1,9
+html body text div div div p a span  ,Bloggers,8,568,58,17,1,9
+html body text div div div p a span  ,Small Businesses,8,602,112,17,1,9
+html body text div div a span  ,Home,8,652,43,17,0,7
+html body text div div a span  ,Business,51,652,61,17,0,7
+html body text div div a span  ,Entertainment,112,652,95,17,0,7
+html body text div div a span  ,Games,207,652,48,17,0,7
+html body text div div a span  ,Health,255,652,47,17,0,7
+html body text div div a span  ,People,302,652,47,17,0,7
+html body text div div a span  ,Places,349,652,45,17,0,7
+html body text div div a span  ,Reference,394,652,69,17,0,7
+html body text div div a span  ,Science,463,652,54,17,0,7
+html body text div div a span  ,Shopping,517,652,65,17,0,7
+html body text div div a span  ,Words,582,652,45,17,0,7
+html body text div div a span  ,More...,627,652,47,17,0,7
+html body text div div div div h1 dnt span  ,Muppets,8,691,121,36,1,10
+html body text div div div div p span  ,On this page:,8,750,89,17,1,9
+html body text div div div div p select option  ,Select Item,0,0,0,0,0,10
+html body text div div div div p select option  ,AnswerNotes,0,0,0,0,0,10
+html body text div div div div p select option  ,Wikipedia,0,0,0,0,0,10
+html body text div div div div p select option  ,Mentioned In,0,0,0,0,0,10
+html body text div div div div p select option  ,---------------,0,0,0,0,0,10
+html body text div div div div p select option  ,Or search:,0,0,0,0,0,10
+html body text div div div div p select option  ,- The Web,0,0,0,0,0,10
+html body text div div div div p select option  ,- Images,0,0,0,0,0,10
+html body text div div div div p select option  ,- News,0,0,0,0,0,10
+html body text div div div div p select option  ,- Blogs,0,0,0,0,0,10
+html body text div div div div p select option  ,- Shopping,0,0,0,0,0,10
+html body text div div div div h1 dnt span  ,Muppets,8,790,121,36,1,10
+html body text div div p span b span  ,Or did you mean:,8,849,125,17,1,9
+html body text div div p a span  ,The Muppets,133,849,89,17,1,8
+html body text div div p span  ,"(Children Band),",222,849,112,17,1,7
+html body text div div p a span  ,the Muppet Show,334,849,118,17,1,8
+html body text div div p span  ,"(TV Show),",452,849,80,17,1,7
+html body text div div p a span  ,Muppets Tonight,532,849,114,17,1,8
+html body text div div p span  ,",",646,849,7,17,1,7
+html body text div div p a span  ,The Muppet Movie,8,849,724,35,1,8
+html body text div div p span  ,"(1979 Musical Film),",54,867,140,17,1,7
+html body text div div p a span  ,The Muppets Take Manhattan,194,867,196,17,1,8
+html body text div div p span  ,",",390,867,8,17,1,7
+html body text div div p a span  ,The Muppets' Wizard of Oz,398,867,181,17,1,8
+html body text div div p a span  ,More...,579,867,47,17,1,8
+html body text div div div div a span span  ,AnswerNotes,116,920,87,17,0,10
+html body text div div div span a span  ,Directory,8,938,65,17,0,9
+html body text div div div span span  ,>,73,938,13,17,0,8
+html body text div div div span a span  ,Reference,86,938,69,17,0,9
+html body text div div div span span  ,>,155,938,12,17,0,8
+html body text div div div span a span  ,AnswerNotes,167,938,87,17,0,9
+html body text div div div div table tbody tr td table tbody tr td a small span  ,View Poster,655,1076,65,15,0,18
+html body text div div div div span span  ,Muppets,8,956,56,17,1,9
+html body text div div div div p span  ,The Muppets are a family of puppet/,8,990,239,17,1,9
+html body text div div div div p a span  ,marionette,247,990,72,17,1,10
+html body text div div div div p span  ,characters created by,319,990,139,17,1,9
+html body text div div div div p a span  ,Jim Henson,458,990,80,17,1,10
+html body text div div div div p span  ,"in the 1950's. The first, and most, famous Muppet is """,8,990,566,35,1,9
+html body text div div div div p a span  ,Kermit the Frog,316,1008,107,17,1,10
+html body text div div div div p span  ,""", created in 1955 for a daily two-minute puppet show called, ""Sam and Friends."" Kermit had feet instead of flippers and no collar, becoming ""Kermit the Frog"" later, in a show called ""Hey Cinderella."" In 1969, the Children's Television Workshop began televising",8,1008,589,71,1,9
+html body text div div div div p i a span  ,Sesame Street,406,1062,92,17,1,11
+html body text div div div div p span  ,", starring Muppet characters, """,8,1062,548,35,1,9
+html body text div div div div p a span  ,"Bert"" and ""Ernie""",145,1080,117,17,1,10
+html body text div div div div p span  ,", """,262,1080,19,17,1,9
+html body text div div div div p a span  ,Oscar the Grouch,281,1080,116,17,1,10
+html body text div div div div p span  ,""", """,397,1080,25,17,1,9
+html body text div div div div p a span  ,Cookie Monster,422,1080,108,17,1,10
+html body text div div div div p span  ,""", """,530,1080,21,17,1,9
+html body text div div div div p a span  ,Grover,8,1098,49,17,1,10
+html body text div div div div p span  ,""", and """,57,1098,52,17,1,9
+html body text div div div div p a span  ,Big Bird,109,1098,60,17,1,10
+html body text div div div div p span  ,".""",169,1098,11,17,1,9
+html body text div div div div span  ,"The Muppets got their own television series, a variety show hosted by ""Kermit"", in 1976. It ran for five years and reached audiences in more than 100 countries. Among the characters created for the show were """,8,1132,725,35,1,8
+html body text div div div div a span  ,Miss Piggy,632,1150,76,17,1,9
+html body text div div div div span  ,""", """,708,1150,25,17,1,8
+html body text div div div div a span  ,Fozzie the Bear,8,1150,768,35,1,9
+html body text div div div div span  ,","" """,66,1168,25,17,1,8
+html body text div div div div a span  ,Gonzo,91,1168,46,17,1,9
+html body text div div div div span  ,","" """,137,1168,26,17,1,8
+html body text div div div div a span  ,Dr. Bunsen Honeydew,163,1168,149,17,1,9
+html body text div div div div span  ,","" ""Beaker,"" and """,312,1168,117,17,1,8
+html body text div div div div a span  ,The Swedish Chef,429,1168,123,17,1,9
+html body text div div div div span  ,""". The Muppets also ""starred"" in a string of films, including,",8,1168,760,35,1,8
+html body text div div div div i span  ,The Muppet Movie,175,1186,125,17,1,9
+html body text div div div div span  ,",",300,1186,8,17,1,8
+html body text div div div div i span  ,The Muppets Take Manhattan,308,1186,195,17,1,9
+html body text div div div div span  ,", and",503,1186,35,17,1,8
+html body text div div div div i span  ,The Great Muppet Caper,538,1186,166,17,1,9
+html body text div div div div span  ,.,704,1186,4,17,1,8
+html body text div div div div p span  ,"There were two other Muppet TV series, one called,",8,1220,338,17,1,9
+html body text div div div div p i span  ,Fraggle Rock,346,1220,91,17,1,10
+html body text div div div div p span  ,", and the other,",437,1220,99,17,1,9
+html body text div div div div p i span  ,The Storyteller,536,1220,99,17,1,10
+html body text div div div div p span  ,.,635,1220,4,17,1,9
+html body text div div div div a span span  ,Wikipedia,149,1275,66,17,0,10
+html body text div div div span a span  ,Directory,8,1293,65,17,0,9
+html body text div div div span span  ,>,73,1293,13,17,0,8
+html body text div div div span a span  ,Reference,86,1293,69,17,0,9
+html body text div div div span span  ,>,155,1293,13,17,0,8
+html body text div div div span a span  ,Wikipedia,168,1293,66,17,0,9
+html body text div div div div div span span  ,the Muppets,8,1311,80,17,1,10
+html body text div div div div div p b span  ,The Muppets,8,1363,95,17,1,11
+html body text div div div div div p span  ,"are a group of puppets and costume characters, and the company created by",103,1363,488,17,1,10
+html body text div div div div div p a span  ,JimHenson,591,1363,76,17,1,11
+html body text div div div div div p span  ,". Individually, a Muppet is properly one of the puppets made by",8,1363,759,35,1,10
+html body text div div div div div p a span  ,Jim Henson,315,1381,80,17,1,11
+html body text div div div div div p span  ,orhis,395,1381,36,17,1,10
+html body text div div div div div p a span  ,Creature Shop,431,1381,96,17,1,11
+html body text div div div div div p span  ,â€“ though the term is often used erroneously to refer to anypuppet that resembles the distinctive style of,8,1381,731,35,1,10
+html body text div div div div div p i a span  ,The Muppet Show,467,1399,120,17,1,12
+html body text div div div div div p span  ,and,587,1399,27,17,1,10
+html body text div div div div div p i a span  ,Sesame Street,614,1399,92,17,1,12
+html body text div div div div div p span  ,"characters, the term is both an informal name and legal",8,1399,768,35,1,10
+html body text div div div div div p a span  ,trademark,291,1417,69,17,1,11
+html body text div div div div div p span  ,linked to the characters created by,360,1417,223,17,1,10
+html body text div div div div div p a span  ,The JimHenson Company,583,1417,171,17,1,11
+html body text div div div div div p span  ,". After frequently changing hands since the death of creator Jim Henson in 1990, The Muppets have been ownedby",8,1417,749,35,1,10
+html body text div div div div div p a span  ,The Walt Disney Company,8,1435,757,35,1,11
+html body text div div div div div p span  ,", through the",157,1453,86,17,1,10
+html body text div div div div div p a span  ,Muppets Holding Company,243,1453,182,17,1,11
+html body text div div div div div p span  ,", since early 2004.",425,1453,117,17,1,10
+html body text div div div div div p span  ,"The word ""Muppet"" itself was said by Henson to have been created by combining the words """,8,1487,605,17,1,10
+html body text div div div div div p a span  ,marionette,613,1487,72,17,1,11
+html body text div div div div div p span  ,""" and ""puppet""; however, Henson was also known to have stated that it was just something he likedthe sound of, and he made up the ""marionette/puppet"" story while talking to a journalist because it sounded plausible.",8,1487,765,53,1,10
+html body text div div div div div p a span  ,[1],592,1523,18,17,1,11
+html body text div div div div div p span  ,Muppets are distinguished from,8,1557,208,17,1,10
+html body text div div div div div p a span  ,ventriloquist,216,1557,85,17,1,11
+html body text div div div div div p span  ,"""dummies"", which are typically animatedonly in the head and face, in that their arms or other features are also mobile and expressive. Muppets are typically made ofsofter materials. They are also presented as being independent of the puppeteer, who is usually not visible, hidden behind a setor outside of the camera frame.",8,1557,767,71,1,10
+html body text div div div div div h2 span  ,Appearance,8,1649,124,26,1,10
+html body text div div div div div p span  ,The most common design for a Jim Henson Muppet is a character with a very wide mouth and large protruding eyes. The puppetsare often molded or carved out of,8,1696,748,35,1,10
+html body text div div div div div p a span  ,foam rubber,305,1714,82,17,1,11
+html body text div div div div div p span  ,", and then covered with fleece. Yarn, nylonstring, or (most commonly) ostrich feathers are used to create hair. As there is no ""eye store"" from which they can be purchased,Muppet eyes are often made (as in the case of the original Kermit) from",8,1714,767,53,1,10
+html body text div div div div div p a span  ,ping-pong,418,1750,70,17,1,11
+html body text div div div div div p span  ,"balls,from fishing floats, or from a hemispherical toy called a Wacky Stax. Muppets may represent humans,",8,1750,701,35,1,10
+html body text div div div div div p a span  ,anthropomorphic,476,1768,114,17,1,11
+html body text div div div div div p span  ,"animals, realistic animals, robots or anthropomorphic objects, extra-terrestrialcreatures, mythical beings or other unidentified, newly imagined creatures.",8,1768,748,53,1,10
+html body text div div div div div h2 span  ,Operation,8,1841,105,26,1,10
+html body text div div div div div p span  ,"The puppeteer typically holds the puppet above his head or in front of his body, with one hand operating the head and mouthand the other manipulating the hands and arms, either with two separate control rods or by ""wearing"" the hands like gloves. Oneconsequence of this design is that most Muppets are left handed as the puppeteer uses his right hand to operate the head whileoperating the arm rod with his left hand. There are many other common designs and means of operation. In advanced puppets,several puppeteers may control a single character; the performer who controls the mouth usually provides the voice for thecharacter. As technology has evolved, the Jim Henson team and other puppeteers have developed an enormous variety of means tooperate puppets for film and television, including the use of suspended rigs, internal motors, remote radio control, and computerenhanced and superimposed images. Creative use of a mix of technologies has allowed for scenes in which Muppets appear to beriding a bicycle, rowing a boat, and even dancing onstage with no puppeteer in sight.",8,1888,769,179,1,10
+html body text div div div div div h2 span  ,Famous Muppets,8,2088,178,26,1,10
+html body text div div div div div div div div span  ,The Muppets in,8,2323,105,17,1,12
+html body text div div div div div div div div a span  ,Weezer,113,2323,52,17,1,13
+html body text div div div div div div div div span  ,"'s 'Keep Fishin'""",8,2323,206,35,1,12
+html body text div div div div div p span  ,Famous Muppets include,8,2375,166,17,1,10
+html body text div div div div div p a span  ,Kermit the Frog,174,2375,107,17,1,11
+html body text div div div div div p span  ,",",281,2375,8,17,1,10
+html body text div div div div div p a span  ,MissPiggy,289,2375,72,17,1,11
+html body text div div div div div p span  ,",",361,2375,8,17,1,10
+html body text div div div div div p a span  ,Fozzie Bear,369,2375,81,17,1,11
+html body text div div div div div p span  ,",",450,2375,8,17,1,10
+html body text div div div div div p a span  ,Gonzo,458,2375,47,17,1,11
+html body text div div div div div p span  ,",",505,2375,8,17,1,10
+html body text div div div div div p a span  ,Big Bird,513,2375,59,17,1,11
+html body text div div div div div p span  ,",",572,2375,8,17,1,10
+html body text div div div div div p a span  ,Bert and Ernie,580,2375,98,17,1,11
+html body text div div div div div p span  ,",",678,2375,8,17,1,10
+html body text div div div div div p a span  ,Elmo,686,2375,38,17,1,11
+html body text div div div div div p span  ,", and",724,2375,31,17,1,10
+html body text div div div div div p a span  ,Oscar the Grouch,8,2393,117,17,1,11
+html body text div div div div div p span  ,. The most widely known television shows featuring Muppets are,125,2393,422,17,1,10
+html body text div div div div div p i a span  ,Sesame Street,547,2393,93,17,1,12
+html body text div div div div div p span  ,",",640,2393,8,17,1,10
+html body text div div div div div p i a span  ,Fraggle Rock,648,2393,91,17,1,12
+html body text div div div div div p span  ,", and",739,2393,32,17,1,10
+html body text div div div div div p i a span  ,The Muppet Show,8,2411,120,17,1,12
+html body text div div div div div p span  ,. A recurring adult-oriented cast of Muppets (in a setting knownas the â€œLand of Gortchâ€?) were part of the first season of,8,2411,755,35,1,10
+html body text div div div div div p i a span  ,Saturday NightLive,172,2429,128,17,1,12
+html body text div div div div div p span  ,". Other, less popular series have included",300,2429,266,17,1,10
+html body text div div div div div p i a span  ,The Jim Henson Hour,566,2429,146,17,1,12
+html body text div div div div div p span  ,and,712,2429,23,17,1,10
+html body text div div div div div p i a span  ,Muppets Tonight,8,2447,111,17,1,12
+html body text div div div div div p span  ,. The puppet characters of,119,2447,171,17,1,10
+html body text div div div div div p i a span  ,Farscape,290,2447,64,17,1,12
+html body text div div div div div p span  ,",",354,2447,8,17,1,10
+html body text div div div div div p i a span  ,The Storyteller,362,2447,100,17,1,12
+html body text div div div div div p span  ,",",462,2447,8,17,1,10
+html body text div div div div div p i a span  ,The Hoobs,470,2447,73,17,1,12
+html body text div div div div div p span  ,", and",543,2447,36,17,1,10
+html body text div div div div div p i a span  ,Dinosaurs,579,2447,70,17,1,12
+html body text div div div div div p span  ,", as well as from the films",8,2447,747,35,1,10
+html body text div div div div div p i a span  ,Labyrinth,68,2465,68,17,1,12
+html body text div div div div div p span  ,",",136,2465,8,17,1,10
+html body text div div div div div p i a span  ,Teenage MutantNinja Turtles,144,2465,191,17,1,12
+html body text div div div div div p span  ,", and",335,2465,35,17,1,10
+html body text div div div div div p i a span  ,The Dark Crystal,370,2465,116,17,1,12
+html body text div div div div div p span  ,", are not considered Muppets,although they were also made by",8,2465,754,35,1,10
+html body text div div div div div p a span  ,Jim Henson's Creature Shop,132,2483,185,17,1,11
+html body text div div div div div p span  ,. For a history of,317,2483,111,17,1,10
+html body text div div div div div p b span  ,Jim Henson's Muppets,428,2483,160,17,1,11
+html body text div div div div div p span  ,",",588,2483,8,17,1,10
+html body text div div div div div p i span  ,see,596,2483,25,17,1,11
+html body text div div div div div p i a span  ,Jim Henson,621,2483,80,17,1,12
+html body text div div div div div p i span  ,.,701,2483,4,17,1,11
+html body text div div div div div p span  ,"After earlier unsuccessful attempts,",8,2517,230,17,1,10
+html body text div div div div div p a span  ,The Walt Disney Company,238,2517,178,17,1,11
+html body text div div div div div p span  ,finally boughtthe Muppets in 2004. Exceptions include characters appearing on,8,2517,761,35,1,10
+html body text div div div div div p i span  ,Sesame Street,164,2535,93,17,1,11
+html body text div div div div div p span  ,(as they were previously sold to,257,2535,208,17,1,10
+html body text div div div div div p a span  ,Sesame Workshop,465,2535,122,17,1,11
+html body text div div div div div p span  ,"), the Fraggles of",587,2535,113,17,1,10
+html body text div div div div div p a span  ,Fraggle Rock,8,2535,741,35,1,11
+html body text div div div div div p span  ,",along with the above-mentioned non-""Muppet""-brand characters.",46,2553,421,17,1,10
+html body text div div div div div p span  ,"The show's popularity has been so expansive that Muppet characters have been treated as celebrities in their own right,including presenting at the",8,2587,722,35,1,10
+html body text div div div div div p a span  ,Academy Awards,216,2605,116,17,1,11
+html body text div div div div div p span  ,", making",332,2605,60,17,1,10
+html body text div div div div div p a span  ,cameos,392,2605,52,17,1,11
+html body text div div div div div p span  ,in,444,2605,17,17,1,10
+html body text div div div div div p i a span  ,Rocky III,461,2605,63,17,1,12
+html body text div div div div div p span  ,and,524,2605,27,17,1,10
+html body text div div div div div p i a span  ,An American Werewolf in London,551,2605,220,17,1,12
+html body text div div div div div p span  ,", and being interviewed on the",8,2605,767,35,1,10
+html body text div div div div div p a span  ,newsmagazine,198,2623,98,17,1,11
+html body text div div div div div p i a span  ,60 Minutes,296,2623,75,17,1,12
+html body text div div div div div p span  ,.,371,2623,8,17,1,10
+html body text div div div div div p a span  ,Kermit the Frog,379,2623,108,17,1,11
+html body text div div div div div p span  ,was interviewed early on in,487,2623,180,17,1,10
+html body text div div div div div p a span  ,Jon Stewart,667,2623,79,17,1,11
+html body text div div div div div p span  ,'s run on,8,2623,748,35,1,10
+html body text div div div div div p i a span  ,The Daily Show,53,2641,107,17,1,12
+html body text div div div div div p span  ,", and",160,2641,35,17,1,10
+html body text div div div div div p a span  ,Michael Parkinson,195,2641,124,17,1,11
+html body text div div div div div p span  ,once famously interviewed,319,2641,177,17,1,10
+html body text div div div div div p a span  ,Miss Piggy,496,2641,77,17,1,11
+html body text div div div div div p span  ,on his UK chatshow.,573,2641,133,17,1,10
+html body text div div div div div p span  ,Muppet-like and Muppet-inspired puppets star in the 2004,8,2675,377,17,1,10
+html body text div div div div div p a span  ,Tony Award,385,2675,82,17,1,11
+html body text div div div div div p span  ,-winning,467,2675,62,17,1,10
+html body text div div div div div p a span  ,Broadway,529,2675,70,17,1,11
+html body text div div div div div p span  ,musical,599,2675,54,17,1,10
+html body text div div div div div p i a span  ,Avenue Q,653,2675,65,17,1,12
+html body text div div div div div p span  ,(which disavows anyrelationship with Sesame Workshop or the Jim Henson Company).,8,2675,755,35,1,10
+html body text div div div div div h2 span  ,America's Next Muppet,8,2731,245,26,1,10
+html body text div div div div div p span  ,In,8,2778,17,17,1,10
+html body text div div div div div p a span  ,2005,25,2778,36,17,1,11
+html body text div div div div div p span  ,",",61,2778,7,17,1,10
+html body text div div div div div p a span  ,ABC,68,2778,37,17,1,11
+html body text div div div div div p span  ,announced it was purchasinga six-episode mini-series titled,105,2778,386,17,1,10
+html body text div div div div div p i a span  ,America's Next Muppet,491,2778,154,17,1,12
+html body text div div div div div p span  ,. The mini-series isgoing to be produced by,8,2778,744,35,1,10
+html body text div div div div div p a span  ,The Jim Henson Company,178,2796,175,17,1,11
+html body text div div div div div p span  ,"for Disney, and is going to be adirect parody of",353,2796,306,17,1,10
+html body text div div div div div p i a span  ,America's Next Top Model,8,2796,748,35,1,12
+html body text div div div div div p span  ,. The show is going to featuremany famous Muppets holding a talent contest to find the next Muppet to add to their famous group. The show was tentativelyscheduled to air in spring or summer of,8,2814,761,35,1,10
+html body text div div div div div p a span  ,2006,573,2832,36,17,1,11
+html body text div div div div div p span  ,", but there has been no public mention in recentmonths.",8,2832,745,35,1,10
+html body text div div div div div h2 span  ,Regional usage,8,2888,154,26,1,10
+html body text div div div div div p span  ,In Great Britain and in Ireland the word,8,2935,259,17,1,10
+html body text div div div div div p i span  ,muppet,267,2935,51,17,1,11
+html body text div div div div div p span  ,"has come to be used as a mild term of abuse, meaning a stupid,incompetent, or moronic person, or the obvious interpretation of someone who is inanimated or somehow not there. It can also beapplied (in the",8,2935,744,53,1,10
+html body text div div div div div p a span  ,United Kingdom,229,2971,112,17,1,11
+html body text div div div div div p span  ,but not in,341,2971,66,17,1,10
+html body text div div div div div p a span  ,Ireland,407,2971,49,17,1,11
+html body text div div div div div p span  ,) to anaesthetically displeasing individual.,456,2971,270,17,1,10
+html body text div div div div div p span  ,The,8,3005,29,17,1,10
+html body text div div div div div p a span  ,Swedish,37,3005,58,17,1,11
+html body text div div div div div p span  ,translation,95,3005,72,17,1,10
+html body text div div div div div p i span  ,mupp,167,3005,39,17,1,11
+html body text div div div div div p span  ,is often used in a similar manner.,206,3005,212,17,1,10
+html body text div div div div div p span  ,The term,8,3039,62,17,1,10
+html body text div div div div div p i span  ,muppetry,70,3039,65,17,1,11
+html body text div div div div div p span  ,"is also rapidly gaining popularity as a description for an individual, or group of peoplecollectively behaving in a",8,3039,753,35,1,10
+html body text div div div div div p i span  ,muppet,98,3057,51,17,1,11
+html body text div div div div div p span  ,"like fashion. The origins are believed to have come from workers in large organisations,who were unhappy with the low to non-existent level of thought or application, that other colleagues put into their work. Forexample - ""I'm sorry the figures will be late this quarter, due to the high amount of",8,3057,767,53,1,10
+html body text div div div div div p i span  ,muppetry,562,3093,64,17,1,11
+html body text div div div div div p span  ,"going on in the accountsdepartment"", or ""Gregory's",8,3093,714,35,1,10
+html body text div div div div div p i span  ,muppetry,241,3111,64,17,1,11
+html body text div div div div div p span  ,"appears to have been infectious.""",305,3111,212,17,1,10
+html body text div div div div div h2 span  ,Cultural references,8,3149,198,26,1,10
+html body text div div div div div ul li span  ,In,48,3196,17,17,1,11
+html body text div div div div div ul li i a span  ,The Simpsons,65,3196,93,17,1,13
+html body text div div div div div ul li span  ,"episode 3F15: """,158,3196,104,17,1,11
+html body text div div div div div ul li a span  ,A FishCalled Selma,262,3196,132,17,1,12
+html body text div div div div div ul li span  ,""", actor",394,3196,50,17,1,11
+html body text div div div div div ul li a span  ,Troy McClure,444,3196,95,17,1,12
+html body text div div div div div ul li span  ,stars in the fictional film,539,3196,162,17,1,11
+html body text div div div div div ul li i span  ,The Muppets GoMedieval,48,3196,676,35,1,12
+html body text div div div div div ul li span  ,. Kermit and Miss Piggy are shown as well.,190,3214,283,17,1,11
+html body text div div div div div ul li a span  ,Homer,473,3214,49,17,1,12
+html body text div div div div div ul li span  ,"tries to explain what amuppet is with ""It's not quite a mop, and it's not quite a puppet, but man...",48,3214,710,35,1,11
+html body text div div div div div ul li i span  ,(laughs),426,3232,57,17,1,12
+html body text div div div div div ul li span  ,"...So to answer your question, Idon't know."" Later in the episode, Selma and Troy McClure are watching the movie on a drive-in movie screen, and before kissing,they speak right along with the characters.",48,3232,715,53,1,11
+html body text div div div div div ul li span  ,The film,48,3286,60,17,1,11
+html body text div div div div div ul li i a span  ,"Lock, Stock and Two Smoking Barrels",108,3286,246,17,1,13
+html body text div div div div div ul li span  ,": ""Hatchet""Harry: ""I don't want to know who you use, as long as they're not complete muppets.""",48,3286,718,35,1,11
+html body text div div div div div ul li span  ,The,48,3322,29,17,1,11
+html body text div div div div div ul li a span  ,music video,77,3322,82,17,1,12
+html body text div div div div div ul li span  ,for the,159,3322,46,17,1,11
+html body text div div div div div ul li a span  ,Weezer,205,3322,51,17,1,12
+html body text div div div div div ul li span  ,"song """,256,3322,45,17,1,11
+html body text div div div div div ul li a span  ,Keep Fishin',301,3322,85,17,1,12
+html body text div div div div div ul li span  ,", is premised on the band performing on",386,3322,260,17,1,11
+html body text div div div div div ul li i a span  ,The MuppetShow,646,3322,111,17,1,13
+html body text div div div div div ul li span  ,and features appearances by several characters.,48,3340,302,17,1,11
+html body text div div div div div ul li span  ,On,48,3358,24,17,1,11
+html body text div div div div div ul li a span  ,September 28,72,3358,92,17,1,12
+html body text div div div div div ul li span  ,",",164,3358,8,17,1,11
+html body text div div div div div ul li a span  ,2005,172,3358,36,17,1,12
+html body text div div div div div ul li span  ,", the",208,3358,32,17,1,11
+html body text div div div div div ul li a span  ,United States Postal Service,240,3358,184,17,1,12
+html body text div div div div div ul li span  ,released a,424,3358,68,17,1,11
+html body text div div div div div ul li i span  ,Jim Henson and the Muppets,492,3358,191,17,1,12
+html body text div div div div div ul li a span  ,postage stamp,683,3358,91,17,1,12
+html body text div div div div div ul li span  ,series.,48,3380,44,17,1,11
+html body text div div div div div ul li sup a span  ,[1],92,3376,16,15,1,13
+html body text div div div div div ul li span  ,The 1987 film,48,3398,96,17,1,11
+html body text div div div div div ul li i a span  ,Dragnet,144,3398,57,17,1,13
+html body text div div div div div ul li span  ,": As a car chase crashes through a carnival display of stuffedanimals: Friday: ""Look out! Muppets!""",48,3398,718,35,1,11
+html body text div div div div div ul li span  ,A skit on the,48,3434,85,17,1,11
+html body text div div div div div ul li a span  ,MTV,133,3434,40,17,1,12
+html body text div div div div div ul li span  ,series,173,3434,40,17,1,11
+html body text div div div div div ul li a span  ,The State,213,3434,65,17,1,12
+html body text div div div div div ul li span  ,"involveddinner guests luring generic Muppets to their window, catching them and eating them.",48,3434,726,35,1,11
+html body text div div div div div ul li span  ,In the 2005 animated,48,3470,139,17,1,11
+html body text div div div div div ul li a span  ,Teen Titans,187,3470,78,17,1,12
+html body text div div div div div ul li span  ,"episode ""Bunny Raven... or How To Make ATitanimal Disappear"", the final scene takes place in a theatre that resembles the set of",48,3470,700,35,1,11
+html body text div div div div div ul li a span  ,TheMuppet Show,396,3488,119,17,1,12
+html body text div div div div div ul li span  ,. There is a puppet Amazing Mumbo stage manager that mimics,48,3488,701,35,1,11
+html body text div div div div div ul li a span  ,Kermit,223,3506,49,17,1,12
+html body text div div div div div ul li span  ,'s mannerismsand a pithy one-liner joke is delivered by two Mumbos that look like,48,3506,727,35,1,11
+html body text div div div div div ul li a span  ,Statler &Waldorf,76,3524,114,17,1,12
+html body text div div div div div ul li span  ,.,190,3524,4,17,1,11
+html body text div div div div div ul li span  ,"In """,48,3542,28,17,1,11
+html body text div div div div div ul li a span  ,The Goodies,76,3542,86,17,1,12
+html body text div div div div div ul li span  ,""" episode titled """,162,3542,111,17,1,11
+html body text div div div div div ul li span span  ,Earthanasia,273,3542,78,17,1,12
+html body text div div div div div ul li span  ,""", Tim, Bill and Graeme are waiting for the end of the world. As Tim does some ironing, heexplains that there will be no more Muppets when the world ends. Graeme then explains that they are just puppets and even takessome",48,3542,713,53,1,11
+html body text div div div div div ul li a span  ,socks,401,3578,40,17,1,12
+html body text div div div div div ul li span  ,and imitates the voices of,441,3578,167,17,1,11
+html body text div div div div div ul li a span  ,Kermit the Frog,608,3578,107,17,1,12
+html body text div div div div div ul li span  ,and,715,3578,28,17,1,11
+html body text div div div div div ul li a span  ,Miss Piggy,48,3578,725,35,1,12
+html body text div div div div div ul li span  ,", which causes Tim to go insane.",89,3596,208,17,1,11
+html body text div div div div div ul li span  ,"Originating from Australia, ""Muppet"" is used as a derogatory and racist term describing someone of African descent who iscommonly viewed as an incompetent immigrant worker.",48,3614,691,35,1,11
+html body text div div div div div ul li span  ,In a,48,3650,28,17,1,11
+html body text div div div div div ul li i a span  ,Family Guy,76,3650,80,17,1,13
+html body text div div div div div ul li span  ,"episode, in one of Peter's visions, he was watching",156,3650,328,17,1,11
+html body text div div div div div ul li i a span  ,Lost,484,3650,32,17,1,13
+html body text div div div div div ul li span  ,"on TV, and there was a balcony with",516,3650,233,17,1,11
+html body text div div div div div ul li deadilnk span  ,Statler & Waldorf,48,3668,118,17,1,12
+html body text div div div div div ul li span  ,"saying ""Lost? I'll say! I couldn't follow any of it!""",166,3668,319,17,1,11
+html body text div div div div div ul li span  ,"In ""Worms 3D"", a certain voice box of worms has a death sentence that says ""You Muppet!""",48,3686,590,17,1,11
+html body text div div div div div ul li span  ,On an episode of,48,3704,113,17,1,11
+html body text div div div div div ul li i a span  ,Saturday Night Live,161,3704,132,17,1,13
+html body text div div div div div ul li span  ,in which pop singer,293,3704,131,17,1,11
+html body text div div div div div ul li a span  ,Justin Timberlake,424,3704,118,17,1,12
+html body text div div div div div ul li span  ,"hosted, one sketch featured Timberlake and Kermit the Frog performing a duet of",48,3704,668,35,1,11
+html body text div div div div div ul li i a span  ,Rainbow Connection,395,3722,139,17,1,13
+html body text div div div div div ul li span  ,.,534,3722,4,17,1,11
+html body text div div div div div h2 span  ,Some Muppets and their performers,8,3760,374,26,1,10
+html body text div div div div div p span  ,"The only major, unretired characters that have always been portrayed by one puppeteer are Dr. Bunsen Honeydew, Gonzo, Floyd,Pepe, Rizzo the Rat, Robin, and Zoot.",8,3807,733,35,1,10
+html body text div div div div div ul li b a span  ,Animal,48,3859,55,17,0,13
+html body text div div div div div ul li span  ,-,103,3859,9,17,0,11
+html body text div div div div div ul li a span  ,Frank Oz,112,3859,64,17,0,12
+html body text div div div div div ul li span  ,"(1975 -1999),",176,3859,92,17,1,11
+html body text div div div div div ul li a span  ,Eric Jacobson,268,3859,93,17,0,12
+html body text div div div div div ul li span  ,(2002 - ),361,3859,56,17,1,11
+html body text div div div div div ul li b a span  ,Beaker,48,3877,53,17,0,13
+html body text div div div div div ul li span  ,-,101,3877,9,17,0,11
+html body text div div div div div ul li a span  ,Richard Hunt,110,3877,91,17,0,12
+html body text div div div div div ul li span  ,"(1977 - 1990),",201,3877,96,17,1,11
+html body text div div div div div ul li a span  ,Steve Whitmire,297,3877,104,17,0,12
+html body text div div div div div ul li span  ,(1992 - ),401,3877,56,17,1,11
+html body text div div div div div ul li b a span  ,Bobo,48,3895,40,17,0,13
+html body text div div div div div ul li span  ,-,88,3895,9,17,0,11
+html body text div div div div div ul li a span  ,Bill Barretta,97,3895,83,17,0,12
+html body text div div div div div ul li span  ,(???? - 2006),180,3895,85,17,1,11
+html body text div div div div div ul li b a span  ,Crazy Harry,48,3913,92,17,0,13
+html body text div div div div div ul li span  ,-,140,3913,10,17,0,11
+html body text div div div div div ul li a span  ,Jerry Nelson,150,3913,81,17,0,12
+html body text div div div div div ul li b a span  ,Clifford,48,3931,59,17,0,13
+html body text div div div div div ul li span  ,-,107,3931,9,17,0,11
+html body text div div div div div ul li a span  ,Kevin Clash,116,3931,80,17,0,12
+html body text div div div div div ul li b a span  ,Dr. Bunsen Honeydew,48,3949,156,17,0,13
+html body text div div div div div ul li span  ,-,204,3949,9,17,0,11
+html body text div div div div div ul li a span  ,Dave Goelz,213,3949,76,17,0,12
+html body text div div div div div ul li b a span  ,Dr. Teeth,48,3967,67,17,0,13
+html body text div div div div div ul li span  ,-,115,3967,9,17,0,11
+html body text div div div div div ul li a span  ,Jim Henson,124,3967,80,17,0,12
+html body text div div div div div ul li span  ,"(? - 1990),",204,3967,71,17,1,11
+html body text div div div div div ul li a span  ,Bill Barretta,275,3967,83,17,0,12
+html body text div div div div div ul li span  ,(1991 - ),358,3967,56,17,1,11
+html body text div div div div div ul li b a span  ,Sgt. Floyd Pepper,48,3985,126,17,0,13
+html body text div div div div div ul li span  ,-,174,3985,9,17,0,11
+html body text div div div div div ul li a span  ,JerryNelson,183,3985,78,17,0,12
+html body text div div div div div ul li b a span  ,Fozzie Bear,48,4003,84,17,0,13
+html body text div div div div div ul li span  ,-,132,4003,9,17,0,11
+html body text div div div div div ul li a span  ,Frank Oz,141,4003,64,17,0,12
+html body text div div div div div ul li span  ,"(? - 2000),",205,4003,72,17,1,11
+html body text div div div div div ul li a span  ,Eric Jacobson,277,4003,93,17,0,12
+html body text div div div div div ul li span  ,(2001 - ),370,4003,56,17,1,11
+html body text div div div div div ul li b a span  ,Gonzo,48,4021,48,17,0,13
+html body text div div div div div ul li span  ,-,96,4021,10,17,0,11
+html body text div div div div div ul li a span  ,Dave Goelz,106,4021,76,17,0,12
+html body text div div div div div ul li b a span  ,Janice,48,4039,48,17,0,13
+html body text div div div div div ul li span  ,-,96,4039,9,17,0,11
+html body text div div div div div ul li a span  ,RichardHunt,105,4039,87,17,0,12
+html body text div div div div div ul li span  ,"(1974 - 1992),",192,4039,96,17,1,11
+html body text div div div div div ul li a span  ,Brian Henson,288,4039,92,17,0,12
+html body text div div div div div ul li span  ,(1992 - ),380,4039,56,17,1,11
+html body text div div div div div ul li b a span  ,Johnny Fiama,48,4057,102,17,0,13
+html body text div div div div div ul li span  ,-,150,4057,10,17,0,11
+html body text div div div div div ul li a span  ,Bill Barretta,160,4057,83,17,0,12
+html body text div div div div div ul li span  ,(???? -2006),243,4057,81,17,1,11
+html body text div div div div div ul li b a span  ,Kermit the Frog,48,4075,116,17,0,13
+html body text div div div div div ul li span  ,-,164,4075,9,17,0,11
+html body text div div div div div ul li a span  ,Jim Henson,173,4075,80,17,0,12
+html body text div div div div div ul li span  ,"(? - 1990),",253,4075,71,17,1,11
+html body text div div div div div ul li a span  ,Steve Whitmire,324,4075,105,17,0,12
+html body text div div div div div ul li span  ,(1990 - ),429,4075,56,17,1,11
+html body text div div div div div ul li b a span  ,Lew Zealand,48,4093,93,17,0,13
+html body text div div div div div ul li span  ,-,141,4093,10,17,0,11
+html body text div div div div div ul li a span  ,Jerry Nelson,151,4093,81,17,0,12
+html body text div div div div div ul li b a span  ,Link Hogthrob,48,4111,107,17,0,13
+html body text div div div div div ul li span  ,-,155,4111,10,17,0,11
+html body text div div div div div ul li a span  ,Jim Henson,165,4111,80,17,0,12
+html body text div div div div div ul li span  ,(? - 1990),245,4111,67,17,1,11
+html body text div div div div div ul li i span  ,(character has been semi-retired since Henson's death),312,4111,353,17,1,12
+html body text div div div div div ul li b a span  ,Marvin Suggs,48,4129,100,17,0,13
+html body text div div div div div ul li span  ,-,148,4129,9,17,0,11
+html body text div div div div div ul li a span  ,Frank Oz,157,4129,64,17,0,12
+html body text div div div div div ul li span  ,(? - 2000),221,4129,67,17,1,11
+html body text div div div div div ul li i span  ,(character has been semi-retired),288,4129,214,17,1,12
+html body text div div div div div ul li b a span  ,Miss Piggy,48,4147,78,17,0,13
+html body text div div div div div ul li span  ,-,126,4147,10,17,0,11
+html body text div div div div div ul li a span  ,Frank Oz,136,4147,64,17,0,12
+html body text div div div div div ul li span  ,"(? - 2000),",200,4147,71,17,1,11
+html body text div div div div div ul li a span  ,Eric Jacobson,271,4147,93,17,0,12
+html body text div div div div div ul li span  ,(2001 - ),364,4147,56,17,1,11
+html body text div div div div div ul li b a span  ,Pepe the Prawn,48,4165,112,17,0,13
+html body text div div div div div ul li span  ,-,160,4165,9,17,0,11
+html body text div div div div div ul li a span  ,Bill Barretta,169,4165,79,17,0,12
+html body text div div div div div ul li b a span  ,Rizzo the Rat,48,4183,96,17,0,13
+html body text div div div div div ul li span  ,-,144,4183,10,17,0,11
+html body text div div div div div ul li a span  ,Steve Whitmire,154,4183,100,17,0,12
+html body text div div div div div ul li b a span  ,Robin,48,4201,46,17,0,13
+html body text div div div div div ul li span  ,-,94,4201,9,17,0,11
+html body text div div div div div ul li a span  ,Jerry Nelson,103,4201,81,17,0,12
+html body text div div div div div ul li b a span  ,Rowlf the Dog,48,4219,102,17,0,13
+html body text div div div div div ul li span  ,-,150,4219,9,17,0,11
+html body text div div div div div ul li a span  ,Jim Henson,159,4219,80,17,0,12
+html body text div div div div div ul li span  ,"(? - 1990),",239,4219,71,17,1,11
+html body text div div div div div ul li a span  ,Bill Barretta,310,4219,84,17,0,12
+html body text div div div div div ul li span  ,(1991 - ),394,4219,56,17,1,11
+html body text div div div div div ul li b a span  ,Sam the Eagle,48,4237,102,17,0,13
+html body text div div div div div ul li span  ,-,150,4237,9,17,0,11
+html body text div div div div div ul li a span  ,Frank Oz,159,4237,64,17,0,12
+html body text div div div div div ul li span  ,"(? - 2000),",223,4237,71,17,1,11
+html body text div div div div div ul li a span  ,Kevin Clash,294,4237,84,17,0,12
+html body text div div div div div ul li span  ,"(2001 - 2005 ),",378,4237,100,17,1,11
+html body text div div div div div ul li a span  ,Eric Jacobson,478,4237,93,17,0,12
+html body text div div div div div ul li span  ,(2005 -),571,4237,52,17,1,11
+html body text div div div div div ul li b a span  ,Scooter,48,4255,55,17,0,13
+html body text div div div div div ul li span  ,-,103,4255,10,17,0,11
+html body text div div div div div ul li a span  ,Richard Hunt,113,4255,90,17,0,12
+html body text div div div div div ul li span  ,"(1976 - 1990),",203,4255,95,17,1,11
+html body text div div div div div ul li span span  ,Adam Hunt,298,4255,79,17,1,12
+html body text div div div div div ul li span  ,(1992 - ?) [voice only],377,4255,149,17,1,11
+html body text div div div div div ul li a span  ,BrianHenson,526,4255,89,17,0,12
+html body text div div div div div ul li span  ,"(2002 - 2003), Rickey Boyd (2005 - )",48,4255,708,35,1,11
+html body text div div div div div ul li b a span  ,Statler,48,4291,50,17,0,13
+html body text div div div div div ul li span  ,-,98,4291,9,17,0,11
+html body text div div div div div ul li a span  ,RichardHunt,107,4291,87,17,0,12
+html body text div div div div div ul li span  ,"(? - 1992),",194,4291,71,17,1,11
+html body text div div div div div ul li a span  ,Jerry Nelson,265,4291,85,17,0,12
+html body text div div div div div ul li span  ,"(? - ?),",350,4291,47,17,1,11
+html body text div div div div div ul li a span  ,SteveWhitmire,396,4291,100,17,0,12
+html body text div div div div div ul li span  ,(currently),497,4291,69,17,1,11
+html body text div div div div div ul li b a span  ,Swedish Chef,48,4309,97,17,0,13
+html body text div div div div div ul li span  ,-,145,4309,9,17,0,11
+html body text div div div div div ul li a span  ,Jim Henson,154,4309,80,17,0,12
+html body text div div div div div ul li span  ,(? -1990)/,234,4309,68,17,1,11
+html body text div div div div div ul li a span  ,Frank Oz,302,4309,64,17,0,12
+html body text div div div div div ul li span  ,"(? - 2000),",366,4309,71,17,1,11
+html body text div div div div div ul li a span  ,Bill Barretta,437,4309,83,17,0,12
+html body text div div div div div ul li span  ,(1992 -)/,520,4309,61,17,1,11
+html body text div div div div div ul li a span  ,Eric Jacobson,581,4309,93,17,0,12
+html body text div div div div div ul li span  ,(2001 - ),674,4309,56,17,1,11
+html body text div div div div div ul li b a span  ,Sweetums,48,4327,72,17,0,13
+html body text div div div div div ul li span  ,-,120,4327,10,17,0,11
+html body text div div div div div ul li a span  ,Jerry Nelson,130,4327,85,17,0,12
+html body text div div div div div ul li span  ,(? - ?),215,4327,42,17,1,11
+html body text div div div div div ul li a span  ,Richard Hunt,257,4327,91,17,0,12
+html body text div div div div div ul li span  ,"(? - 1992),",348,4327,71,17,1,11
+html body text div div div div div ul li a span  ,John Henson,419,4327,87,17,0,12
+html body text div div div div div ul li span  ,(1993- ),506,4327,52,17,1,11
+html body text div div div div div ul li b a span  ,Waldorf,48,4345,61,17,0,13
+html body text div div div div div ul li span  ,-,109,4345,9,17,0,11
+html body text div div div div div ul li a span  ,Jim Henson,118,4345,80,17,0,12
+html body text div div div div div ul li span  ,"(? - 1990),",198,4345,71,17,1,11
+html body text div div div div div ul li a span  ,Dave Goelz,269,4345,80,17,0,12
+html body text div div div div div ul li span  ,(1991 - ),349,4345,56,17,1,11
+html body text div div div div div ul li b a span  ,Zoot,48,4363,36,17,0,13
+html body text div div div div div ul li span  ,-,84,4363,9,17,0,11
+html body text div div div div div ul li a span  ,Dave Goelz,93,4363,76,17,0,12
+html body text div div div div div h2 span  ,Films and Specials,8,4401,191,26,1,10
+html body text div div div div div dl dt span  ,Jim Henson films,8,4448,113,17,1,11
+html body text div div div div div dl dd i a span  ,Sam and Friends,48,4466,113,17,1,13
+html body text div div div div div dl dd span  ,"(1955) (Regarded as the ""Birth of the Muppets"").",161,4466,315,17,1,11
+html body text div div div div div dl dd i a span  ,Frog Prince,48,4484,82,17,0,13
+html body text div div div div div dl dd span  ,(1971),130,4484,43,17,0,11
+html body text div div div div div dl dd i a span  ,The Muppet Musicians of Bremen,48,4502,220,17,1,13
+html body text div div div div div dl dd span  ,(1972),268,4502,43,17,1,11
+html body text div div div div div dl dd i a span  ,A Muppet Family Christmas,48,4520,185,17,1,13
+html body text div div div div div dl dd span  ,(TV) (1987),233,4520,79,17,1,11
+html body text div div div div div dl dd i a span  ,Emmet Otter's Jug Band Christmas,48,4538,231,17,1,13
+html body text div div div div div dl dd span  ,(1977),279,4538,42,17,1,11
+html body text div div div div div dl dd i a span  ,The Great Muppet Caper,48,4556,166,17,1,13
+html body text div div div div div dl dd span  ,(1981),214,4556,42,17,1,11
+html body text div div div div div dl dd i a span  ,Jim Henson's MuppetVision 3D,48,4574,206,17,1,13
+html body text div div div div div dl dd span  ,(Walt Disney 3D Film) (1991),254,4574,194,17,1,11
+html body text div div div div div dl dt span  ,Frank Oz films,8,4608,97,17,1,11
+html body text div div div div div dl dd i a span  ,The Muppets Take Manhattan,48,4626,195,17,1,13
+html body text div div div div div dl dd span  ,(1984),243,4626,43,17,1,11
+html body text div div div div div dl dt span  ,Brian Henson films,8,4660,125,17,1,11
+html body text div div div div div dl dd i a span  ,The Muppet Christmas Carol,48,4678,191,17,1,13
+html body text div div div div div dl dd span  ,(1992),239,4678,43,17,1,11
+html body text div div div div div dl dd i a span  ,Muppet Treasure Island,48,4696,157,17,1,13
+html body text div div div div div dl dd span  ,(1996),205,4696,42,17,1,11
+html body text div div div div div dl dt span  ,Jim Frawley films,8,4730,116,17,1,11
+html body text div div div div div dl dd i a span  ,The Muppet Movie,48,4748,125,17,1,13
+html body text div div div div div dl dd span  ,(1979),173,4748,43,17,1,11
+html body text div div div div div dl dt span  ,Tim Hill films,8,4782,92,17,1,11
+html body text div div div div div dl dd i a span  ,Muppets from Space,48,4800,135,17,1,13
+html body text div div div div div dl dd span  ,(1999),183,4800,43,17,1,11
+html body text div div div div div dl dt span  ,Kirk Thatcher films,8,4834,127,17,1,11
+html body text div div div div div dl dd i a span  ,It's a Very Merry Muppet Christmas Movie,48,4852,278,17,1,13
+html body text div div div div div dl dd span  ,(2002)(TV),326,4852,75,17,1,11
+html body text div div div div div dl dd i a span  ,The Muppets' Wizard of Oz,48,4870,178,17,1,13
+html body text div div div div div dl dd span  ,(2005)(TV),226,4870,74,17,1,11
+html body text div div div div div dl dt span  ,Other major Muppet productions,8,4904,211,17,1,11
+html body text div div div div div dl dd i a span  ,John Denver and the Muppets: A ChristmasTogether,48,4922,341,17,1,13
+html body text div div div div div dl dd span  ,(TV) (1979),389,4922,79,17,1,11
+html body text div div div div div dl dd i a span  ,The Muppets at Walt Disney World,48,4940,227,17,1,13
+html body text div div div div div dl dd span  ,(TV) (1990),275,4940,79,17,1,11
+html body text div div div div div dl dd i a span  ,Kermit's Swamp Years,48,4958,147,17,1,13
+html body text div div div div div dl dd span  ,(Direct-to-Video) (2002),195,4958,159,17,1,11
+html body text div div div div div h2 span  ,See also,8,4995,81,26,1,10
+html body text div div div div div ul li a span  ,List of Muppets based on celebrities,48,5042,232,17,1,12
+html body text div div div div div ul li a span  ,Sesame Street,48,5060,90,17,1,12
+html body text div div div div div h2 span  ,References,8,5098,112,26,1,10
+html body text div div div div div ol li b a span  ,^,48,5145,13,17,1,13
+html body text div div div div div ol li span  ,"United States Postal Service (September 28, 2005).",61,5145,332,17,1,11
+html body text div div div div div ol li i a span  ,"Jim Henson, Muppets, getstamps of approval",393,5145,293,17,1,13
+html body text div div div div div ol li span  ,. Press Release.,48,5145,680,35,1,11
+html body text div div div div div h2 span  ,External links,8,5201,145,26,1,10
+html body text div div div div div ul li a span  ,Wikia,48,5248,42,17,1,12
+html body text div div div div div ul li span  ,has a wiki about:,90,5248,113,17,1,11
+html body text div div div div div ul li span span  ,The Muppets,203,5248,85,17,1,12
+html body text div div div div div ul li a span  ,Muppets.com,48,5266,92,17,1,12
+html body text div div div div div ul li span  ,- Official site,140,5266,85,17,1,11
+html body text div div div div div ul li a span  ,The Walt Disney Company,48,5284,178,17,1,12
+html body text div div div div div ul li span  ,- Current owners of TheMuppets,226,5284,210,17,1,11
+html body text div div div div div ul li a span  ,The Jim Henson Company,48,5302,175,17,1,12
+html body text div div div div div ul li span  ,- Original creators of TheMuppets,223,5302,219,17,1,11
+html body text div div div div div ul li a span  ,The Jim Henson Legacy,48,5320,160,17,1,12
+html body text div div div div div ul li span  ,- The Legacy of the Makerof the Muppets Jim Henson,208,5320,348,17,1,11
+html body text div div div div div table tbody tr th span  ,Films and television specials by,238,5409,217,17,1,13
+html body text div div div div div table tbody tr th b strong span  ,The Muppets,455,5409,91,17,1,15
+html body text div div div div div table tbody tr td table tbody tr td b span  ,Feature films,352,5434,82,16,1,18
+html body text div div div div div table tbody tr td table tbody tr td p i a span  ,The Muppet Movie,65,5465,113,16,1,20
+html body text div div div div div table tbody tr td table tbody tr td p span  ,(1979) |,177,5465,48,16,1,18
+html body text div div div div div table tbody tr td table tbody tr td p i a span  ,TheGreat Muppet Caper,226,5465,145,16,1,20
+html body text div div div div div table tbody tr td table tbody tr td p span  ,(1981) |,371,5465,49,16,1,18
+html body text div div div div div table tbody tr td table tbody tr td p i a span  ,The Muppets Take Manhattan,419,5465,175,16,1,20
+html body text div div div div div table tbody tr td table tbody tr td p span  ,(1984) |,595,5465,49,16,1,18
+html body text div div div div div table tbody tr td table tbody tr td p i a span  ,Jim Henson's MuppetVision 3D,54,5465,666,33,1,20
+html body text div div div div div table tbody tr td table tbody tr td p span  ,(1991) |,158,5482,48,16,1,18
+html body text div div div div div table tbody tr td table tbody tr td p i a span  ,The Muppet Christmas Carol,207,5482,173,16,1,20
+html body text div div div div div table tbody tr td table tbody tr td p span  ,(1992) |,379,5482,48,16,1,18
+html body text div div div div div table tbody tr td table tbody tr td p i a span  ,MuppetTreasure Island,428,5482,137,16,1,20
+html body text div div div div div table tbody tr td table tbody tr td p span  ,(1996) |,565,5482,49,16,1,18
+html body text div div div div div table tbody tr td table tbody tr td p i a span  ,Muppets from Space,613,5482,118,16,1,20
+html body text div div div div div table tbody tr td table tbody tr td p span  ,(1999),373,5499,38,16,1,18
+html body text div div div div div table tbody tr td table tbody tr td b span  ,Television specials,337,5520,112,16,1,18
+html body text div div div div div table tbody tr td table tbody tr td p i a span  ,A Muppet Family Christmas,35,5551,167,16,1,20
+html body text div div div div div table tbody tr td table tbody tr td p span  ,(1987) |,202,5551,49,16,1,18
+html body text div div div div div table tbody tr td table tbody tr td p i a span  ,The Muppets at Walt Disney World,250,5551,204,16,1,20
+html body text div div div div div table tbody tr td table tbody tr td p span  ,(1990) |,455,5551,49,16,1,18
+html body text div div div div div table tbody tr td table tbody tr td p i a span  ,It's a Very Merry Muppet Christmas Movie,503,5551,247,16,1,20
+html body text div div div div div table tbody tr td table tbody tr td p span  ,(2002) |,269,5568,48,16,1,18
+html body text div div div div div table tbody tr td table tbody tr td p i a span  ,The Muppets' Wizard of Oz,318,5568,160,16,1,20
+html body text div div div div div table tbody tr td table tbody tr td p span  ,(2005),477,5568,38,16,1,18
+html body text div div div div div table tbody tr th table tbody tr td i b a font span  ,SesameStreet,348,5647,88,17,1,21
+html body text div div div div div table tbody tr td b span  ,General:,11,5672,60,17,1,14
+html body text div div div div div table tbody tr td i a span  ,The Adventures of Elmo in Grouchland,100,5672,255,17,1,15
+html body text div div div div div table tbody tr td span  ,|,354,5672,7,17,1,13
+html body text div div div div div table tbody tr td i a span  ,Elmo's World,362,5672,90,17,1,15
+html body text div div div div div table tbody tr td span  ,|,452,5672,7,17,1,13
+html body text div div div div div table tbody tr td i a span  ,FollowThat Bird,459,5672,110,17,1,15
+html body text div div div div div table tbody tr td span  ,|,569,5672,8,17,1,13
+html body text div div div div div table tbody tr td i a span  ,Global Grover,577,5672,98,17,1,15
+html body text div div div div div table tbody tr td span  ,|,675,5672,7,17,1,13
+html body text div div div div div table tbody tr td a span  ,Healthy Habits for Life,100,5672,632,35,1,14
+html body text div div div div div table tbody tr td span  ,|,199,5690,7,17,1,13
+html body text div div div div div table tbody tr td a span  ,History,206,5690,52,17,1,14
+html body text div div div div div table tbody tr td span  ,|,258,5690,7,17,1,13
+html body text div div div div div table tbody tr td strong span  ,The Muppets,265,5690,96,17,1,14
+html body text div div div div div table tbody tr td span  ,|,361,5690,7,17,1,13
+html body text div div div div div table tbody tr td i a span  ,Play with Me Sesame,368,5690,141,17,1,15
+html body text div div div div div table tbody tr td span  ,|,509,5690,7,17,1,13
+html body text div div div div div table tbody tr td i a span  ,Sesame Beginnings,516,5690,128,17,1,15
+html body text div div div div div table tbody tr td span  ,|,644,5690,8,17,1,13
+html body text div div div div div table tbody tr td i a span  ,Sesame StreetUnpaved,100,5690,599,35,1,15
+html body text div div div div div table tbody tr td span  ,|,198,5708,8,17,1,13
+html body text div div div div div table tbody tr td i a span  ,Sesame Workshop,206,5708,115,17,1,15
+html body text div div div div div table tbody tr td b a span  ,Characters,11,5730,76,17,1,15
+html body text div div div div div table tbody tr td b span  ,:,11,5748,5,17,1,14
+html body text div div div div div table tbody tr td a span  ,Humans,100,5730,57,17,1,14
+html body text div div div div div table tbody tr td span  ,|,157,5730,8,17,1,13
+html body text div div div div div table tbody tr td a span  ,Celebrity guest stars,165,5730,134,17,1,14
+html body text div div div div div table tbody tr td span  ,|,299,5730,7,17,1,13
+html body text div div div div div table tbody tr td a span  ,From international versions,306,5730,181,17,1,14
+html body text div div div div div table tbody tr td span  ,|,487,5730,7,17,1,13
+html body text div div div div div table tbody tr td a span  ,Ordered by date of debut,494,5730,164,17,1,14
+html body text div div div div div table tbody tr td span  ,/,658,5730,9,17,1,13
+html body text div div div div div table tbody tr td a span  ,last known appearance,100,5730,636,35,1,14
+html body text div div div div div table tbody tr td span  ,|,176,5748,7,17,1,13
+html body text div div div div div table tbody tr td a span  ,Exclusive to books or movies,183,5748,189,17,1,14
+html body text div div div div div table tbody tr td b span  ,Production:,11,5770,81,17,1,14
+html body text div div div div div table tbody tr td a span  ,Puppeteers,100,5770,74,17,1,14
+html body text div div div div div table tbody tr td span  ,|,174,5770,7,17,1,13
+html body text div div div div div table tbody tr td a span  ,Crew,181,5770,39,17,1,14
+html body text div div div div div table tbody tr td span  ,|,220,5770,6,17,1,13
+html body text div div div div div table tbody tr td a span  ,Animators,226,5770,72,17,1,14
+html body text div div div div div table tbody tr td span  ,|,298,5770,7,17,1,13
+html body text div div div div div table tbody tr td a span  ,Emmy awards and nominations,305,5770,206,17,1,14
+html body text div div div div div table tbody tr td span  ,|,511,5770,8,17,1,13
+html body text div div div div div table tbody tr td a span  ,Songs,519,5770,43,17,1,14
+html body text div div div div div table tbody tr td span  ,|,562,5770,7,17,1,13
+html body text div div div div div table tbody tr td a span  ,Episodes,569,5770,62,17,1,14
+html body text div div div div div table tbody tr td span  ,|,631,5770,7,17,1,13
+html body text div div div div div table tbody tr td a span  ,Fiction bibliography,638,5770,131,17,1,14
+html body text div div div div div table tbody tr td span  ,|,100,5788,7,17,1,13
+html body text div div div div div table tbody tr td a span  ,Discography,107,5788,82,17,1,14
+html body text div div div div p span  ,"This entry is from Wikipedia, the leading user-contributed encyclopedia. It may not have been reviewed by professional editors (see",8,5859,767,35,1,9
+html body text div div div div p a span  ,full disclaimer,85,5877,97,17,1,10
+html body text div div div div p span  ,),182,5877,6,17,1,9
+html body text div div div div div p a span  ,Donate to Wikimedia,8,5911,103,14,1,11
+html body text div div div div span  ,Mentioned In,208,5911,87,17,1,8
+html body text div div div div i span  ,the muppets,8,5929,81,17,1,9
+html body text div div div div span  ,is mentioned in these AnswerPages:,89,5929,230,17,1,8
+html body text div div div div table tbody tr td a span  ,the muppets wizard of oz,11,5950,138,15,1,13
+html body text div div div div table tbody tr td span span  ,(Shopping),149,5950,60,15,1,13
+html body text div div div div table tbody tr td a span  ,Muppet Holding Company,394,5950,144,15,1,13
+html body text div div div div table tbody tr td a span  ,Muppets on the Go,11,5978,106,15,1,13
+html body text div div div div table tbody tr td span span  ,(Sega Pico Game),117,5978,97,15,1,13
+html body text div div div div table tbody tr td a span  ,"It's the Muppets, Vol. 2: More Muppets...",394,5970,223,15,1,13
+html body text div div div div table tbody tr td span span  ,(1992 Children's/Family Film),394,5970,352,31,0,13
+html body text div div div div table tbody tr td a span  ,John Henson,11,6006,73,15,0,13
+html body text div div div div table tbody tr td span span  ,(Muppet performer),84,6006,107,15,1,13
+html body text div div div div table tbody tr td a span  ,"Muppets from Space, film score",394,6006,175,15,1,13
+html body text div div div div table tbody tr td span span  ,(Film Classical Work),569,6006,118,15,1,13
+html body text div div div div table tbody tr td a span  ,"Muppets from Space, film score",11,6026,175,15,1,13
+html body text div div div div table tbody tr td span span  ,(Film Classical Work),186,6026,118,15,1,13
+html body text div div div div table tbody tr td a span  ,Take 2,394,6026,39,15,1,13
+html body text div div div div table tbody tr td span span  ,(1994 Album by The Muppets),433,6026,166,15,1,13
+html body text div div div div table tbody tr td a span  ,The Muppet Christmas Carol [Anniversary Edition],11,6046,280,15,1,13
+html body text div div div div table tbody tr td span span  ,(2005 Album by The Muppets),11,6046,367,31,1,13
+html body text div div div div table tbody tr td a span  ,"It's the Muppets, Vol. 1: Meet the Muppets",394,6046,231,15,1,13
+html body text div div div div table tbody tr td span span  ,(1992 Children's/Family Film),394,6046,361,31,1,13
+html body text div div div div table tbody tr td a span  ,More>,394,6082,44,17,0,13
+html body text div div div p span b span  ,Or did you mean:,8,6119,125,17,1,10
+html body text div div div p a span  ,The Muppets,133,6119,89,17,1,9
+html body text div div div p span  ,"(Children Band),",222,6119,112,17,1,8
+html body text div div div p a span  ,the Muppet Show,334,6119,118,17,1,9
+html body text div div div p span  ,"(TV Show),",452,6119,80,17,1,8
+html body text div div div p a span  ,Muppets Tonight,532,6119,114,17,1,9
+html body text div div div p span  ,",",646,6119,7,17,1,8
+html body text div div div p a span  ,The Muppet Movie,8,6119,724,35,1,9
+html body text div div div p span  ,"(1979 Musical Film),",54,6137,140,17,1,8
+html body text div div div p a span  ,The Muppets Take Manhattan,194,6137,196,17,1,9
+html body text div div div p span  ,",",390,6137,8,17,1,8
+html body text div div div p a span  ,The Muppets' Wizard of Oz,398,6137,181,17,1,9
+html body text div div div p a span  ,More...,579,6137,47,17,1,9
+html body text div div div div div div div div div div p span  ,Copyrights:,8,6205,76,17,0,15
+html body text div div div div div div div div div div table tbody tr td span span  ,AnswerNotes information about,170,6242,210,17,0,19
+html body text div div div div div div div div div div table tbody tr td span b span  ,Muppets,380,6242,61,17,0,20
+html body text div div div div div div div div div div table tbody tr td span  ,© 1999-2006 by,170,6260,109,17,0,18
+html body text div div div div div div div div div div table tbody tr td a span  ,Answers Corporation,279,6260,141,17,0,19
+html body text div div div div div div div div div div table tbody tr td span  ,. All rights reserved.,420,6260,134,17,0,18
+html body text div div div div div div div div div div table tbody tr td span span  ,More from,554,6260,73,17,0,19
+html body text div div div div div div div div div div table tbody tr td span a span  ,AnswerNotes,627,6260,87,17,0,20
+html body text div div div div div div div div div div table tbody tr td span span  ,Posters information about,170,6282,169,17,0,19
+html body text div div div div div div div div div div table tbody tr td span b span  ,Muppets,339,6282,61,17,0,20
+html body text div div div div div div div div div div table tbody tr td span  ,Copyright © 1998-2003,170,6300,158,17,0,18
+html body text div div div div div div div div div div table tbody tr td a span  ,"AllPosters.com, Inc.",328,6300,133,17,0,19
+html body text div div div div div div div div div div table tbody tr td span  ,All rights reserved.,461,6300,123,17,0,18
+html body text div div div div div div div div div div table tbody tr td span span  ,Wikipedia information about,170,6322,189,17,0,19
+html body text div div div div div div div div div div table tbody tr td span b span  ,Muppets,359,6322,61,17,0,20
+html body text div div div div div div div div div div table tbody tr td span  ,This article is licensed under the,170,6340,211,17,0,18
+html body text div div div div div div div div div div table tbody tr td a span  ,GNU Free Documentation License,381,6340,228,17,0,19
+html body text div div div div div div div div div div table tbody tr td span  ,. It uses material from the,609,6340,164,17,0,18
+html body text div div div div div div div div div div table tbody tr td a span  ,"Wikipedia article ""The Muppets""",170,6358,216,17,0,19
+html body text div div div div div div div div div div table tbody tr td span  ,.,386,6358,8,17,0,18
+html body text div div div div div div div div div div table tbody tr td span span  ,More from,394,6358,73,17,0,19
+html body text div div div div div div div div div div table tbody tr td span a span  ,Wikipedia,467,6358,66,17,0,20
+html body text div div div div div div p span  ,On this page:,203,6418,90,17,0,11
+html body text div div div div div div p select option  ,Select Item,0,0,0,0,0,12
+html body text div div div div div div p select option  ,AnswerNotes,0,0,0,0,0,12
+html body text div div div div div div p select option  ,Wikipedia,0,0,0,0,0,12
+html body text div div div div div div p select option  ,Mentioned In,0,0,0,0,0,12
+html body text div div div div div div p select option  ,---------------,0,0,0,0,0,12
+html body text div div div div div div p select option  ,Or search:,0,0,0,0,0,12
+html body text div div div div div div p select option  ,- The Web,0,0,0,0,0,12
+html body text div div div div div div p select option  ,- Images,0,0,0,0,0,12
+html body text div div div div div div p select option  ,- News,0,0,0,0,0,12
+html body text div div div div div div p select option  ,- Blogs,0,0,0,0,0,12
+html body text div div div div div div p select option  ,- Shopping,0,0,0,0,0,12
+html body text div div div div div div p a span  ,Print,512,6418,36,17,0,12
+html body text div div div div div div p a span  ,Link,552,6418,30,17,0,12
+html body text div div div div table tbody tr td a span  ,Your Ad Here,0,0,0,0,0,13
+html body text div div div div div div form nobr span span  ,Tell me about:,355,6496,75,15,0,13
+html body text div div div a span  ,Home,8,6648,43,17,0,8
+html body text div div div a span  ,Webmasters,51,6648,82,17,0,8
+html body text div div div a span  ,Site Map,133,6648,61,17,0,8
+html body text div div div a span  ,About,194,6648,44,17,0,8
+html body text div div div a span  ,Help,238,6648,34,17,0,8
+html body text div div div a span  ,Advertise,272,6648,66,17,0,8
+html body text div div div a span  ,RSS,338,6648,33,17,0,8
+html body text div div div p span  ,Copyright © 2006 Answers Corporation. All rights reserved.,8,6682,391,17,0,8
+html body text div div div p a span  ,Terms of Use,399,6682,90,17,0,9
+html body text div div div p a span  ,Privacy Policy,489,6682,98,17,0,9
+html body text div div div p a span  ,IP Issues,587,6682,61,17,0,9
+html body text div div div p a span  ,Disclaimer,648,6682,70,17,0,9

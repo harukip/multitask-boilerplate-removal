@@ -1,0 +1,98 @@
+tag,content,x,y,width,height,label,depth
+html body text title span span  ,Michael Greer's Keeping Things Moving checklist,0,0,763,18,0,6
+html body text table tbody tr td font p b a i span  ,Contact Greer,25,691,106,17,0,13
+html body text table tbody tr td font h1 font span font span  ,KEEPINGTHINGS MOVING:,172,8,242,20,1,13
+html body text table tbody tr td font h1 font span font span  ,"A �To Do� List and Items to Help YouExecute, Control, and Close Out Your Project",172,30,586,17,1,13
+html body text table tbody tr td font p font span  ,(This is a sample tool from,172,69,156,15,1,11
+html body text table tbody tr td font p font b i a span  ,TheProject Manager's Partner,328,69,187,15,1,14
+html body text table tbody tr td font p font span  ,", by Michael Greer.)",515,69,114,15,1,11
+html body text table tbody tr td font p font span  ,(Get here by mistake?,189,101,131,15,0,11
+html body text table tbody tr td font p font a span  ,Return to Michael Greer's Project Management Resourceshome page.,320,101,409,15,0,12
+html body text table tbody tr td font p font span  ,),729,101,5,15,0,11
+html body text table tbody tr td font p font b i span  ,Instructions,172,158,78,15,1,13
+html body text table tbody tr td font p font span  ,": After your project plan isapproved and you are up and running, you can use the checklist below and relateditems to help you keep things moving according to your plan. Go through thislist at least weekly for each project you are managing.",172,158,594,45,1,11
+html body text table tbody tr td font p font b span  ,CHECK YOUR PROJECT�S SCOPE.,172,219,227,15,1,12
+html body text table tbody tr td font p font span  ,"Refresh your memory about your project�s goals andboundaries. In particular, make sure you have a clear picture of what thedesired results should be at this point relative to deliverables, schedulecosts, quality, and so on.",172,250,586,45,1,11
+html body text table tbody tr td font p font span  ,(See,172,311,31,15,1,11
+html body text table tbody tr td font p font i span  ,Worksheet: Project Scope Statement*,203,311,222,15,1,12
+html body text table tbody tr td font p font span  ,under ActionItem: Describe Project Scope if you don�t already have a formal scopestatement.*),172,311,570,30,1,11
+html body text table tbody tr td font p font b span  ,CHECK YOUR DELIVERABLES.,172,357,195,15,1,12
+html body text table tbody tr td font p font span  ,Analyze the status of each project deliverable. Are theyevolving as planned? If appropriate:,172,388,523,15,1,11
+html body text table tbody tr td font p font span  ,1. Locate lists of quality criteria that may be applied toinspect the quality and completeness of the deliverables at this stage of theproject.,172,419,559,30,1,11
+html body text table tbody tr td font p font span  ,2. Check contractors� proposals or contracts to make sureyou know what they should be supplying at this point.,172,465,590,30,1,11
+html body text table tbody tr td font p font span  ,3. Inspect all project deliverables.,172,511,192,15,1,11
+html body text table tbody tr td font p font span  ,4. Decide whether to accept inspected deliverables or torequire rework.,172,542,410,15,1,11
+html body text table tbody tr td font p font span  ,(See,172,573,31,15,1,11
+html body text table tbody tr td font p font i span  ,Worksheet: Project Deliverables Status Analyzer,203,573,283,15,1,12
+html body text table tbody tr td font p font span  ,.*),486,573,13,15,1,11
+html body text table tbody tr td font p font b span  ,CHECK YOUR SCHEDULE.,172,604,166,15,1,12
+html body text table tbody tr td font p font span  ,"Examine your milestones, key dates, and critical path. Are youwhere you need to be?",172,635,490,15,1,11
+html body text table tbody tr td font p font b span  ,ANALYZE VARIANCES (DEVIATIONS FROM PLAN) BY COMPARING�ESTIMATED� TO �ACTUAL.�,172,666,538,30,1,12
+html body text table tbody tr td font p font span  ,1. Are activities taking longer than planned? (Are youexceeding estimates of duration?),172,712,499,15,1,11
+html body text table tbody tr td font p font span  ,2. Are you using more resource hours than you planned?,172,743,327,15,1,11
+html body text table tbody tr td font p font span  ,3. Are your actual costs exceeding your estimated costs?,172,774,328,15,1,11
+html body text table tbody tr td font p font span  ,"4. If minor variances are discovered (variances that can beresolved easily without changing the plan or scope), then resolve them.",172,805,590,30,1,11
+html body text table tbody tr td font p font span  ,"5. If major variances are discovered (variances that changethe scope or constitute significant project issues), then handle them asdescribed in the steps below.",172,851,576,30,1,11
+html body text table tbody tr td font font span  ,(See,172,897,31,15,1,10
+html body text table tbody tr td font font i span  ,Worksheet: Variance Analyzer,203,897,178,15,1,11
+html body text table tbody tr td font font span  ,.*),381,897,13,15,1,10
+html body text table tbody tr td font p font b span  ,ADDRESS SCOPE CHANGES.,172,928,185,15,1,12
+html body text table tbody tr td font p font span  ,"1. Identify changes in scope (changes in deliverables,schedule, costs, etc.).",172,959,434,15,1,11
+html body text table tbody tr td font p font span  ,"2. Handle scope changes, if necessary.",172,990,226,15,1,11
+html body text table tbody tr td font p font span  ,(See,172,1021,31,15,1,11
+html body text table tbody tr td font p font i span  ,Guidelines: Handling Scope Change,203,1021,213,15,1,12
+html body text table tbody tr td font p font span  ,* and,416,1021,34,15,1,11
+html body text table tbody tr td font p font i span  ,Worksheet:Project Scope Change Order,450,1021,237,15,1,12
+html body text table tbody tr td font p font span  ,.*),687,1021,13,15,1,11
+html body text table tbody tr td font p font b span  ,"LIST, TRACK, AND TRY TO RESOLVE OPEN ISSUES.",172,1052,325,15,1,12
+html body text table tbody tr td font p font span  ,"1. Make a list of all the unresolved issues, or",172,1083,256,15,1,11
+html body text table tbody tr td font p font span  ,2. Revisit the list of open issues from the last inspectionperiod and try to resolve them.,172,1114,495,15,1,11
+html body text table tbody tr td font p font span  ,(See,172,1145,31,15,1,11
+html body text table tbody tr td font p font i span  ,Worksheet: Project Issue Tracker,203,1145,195,15,1,12
+html body text table tbody tr td font p font span  ,.*),398,1145,13,15,1,11
+html body text table tbody tr td font p font b span  ,REVISIT POTENTIAL PROJECT RISKS.,172,1176,240,15,1,12
+html body text table tbody tr td font p font span  ,"1. Locate the Risk Management Plan, if one has been created.",172,1207,360,15,1,11
+html body text table tbody tr td font p font span  ,2. Note particularly whether any of the ongoing events orupcoming events are identified in the risk management plan as particularlyvulnerable to risk.,172,1238,562,30,1,11
+html body text table tbody tr td font p font b span  ,REPORT PROJECT STATUS.,172,1284,176,15,1,12
+html body text table tbody tr td font p font span  ,"1. After completing the checks above, if you haven�t alreadydone so, talk to your team members and determine their perspective on projectstatus.",172,1315,585,30,1,11
+html body text table tbody tr td font p font span  ,2. Create and circulate a project status report.,172,1361,264,15,1,11
+html body text table tbody tr td font p font span  ,(See,172,1392,31,15,1,11
+html body text table tbody tr td font p font i span  ,Worksheet: The Project Status Report,203,1392,223,15,1,12
+html body text table tbody tr td font p font span  ,.*),426,1392,13,15,1,11
+html body text table tbody tr td font p font b span  ,DRIVE FOR CLOSE-OUT OF ACTIVITIES AND SIGN-OFF OFDELIVERABLES AS APPROPRIATE.,172,1423,587,15,1,12
+html body text table tbody tr td font p font span  ,"1. Ask yourself, �What activities can I close out? Whichdeliverables can I get formally approved and signed-off?�",172,1454,578,30,1,11
+html body text table tbody tr td font p font span  ,2. Prepare and get signatures on sign-off forms asappropriate.,172,1500,358,15,1,11
+html body text table tbody tr td font p font span  ,(See,172,1531,31,15,1,11
+html body text table tbody tr td font p font i span  ,Worksheet: Sample Project Sign-off Form,203,1531,244,15,1,12
+html body text table tbody tr td font p font span  ,* underAction Item: Close Out Project Activities.*),447,1531,283,15,1,11
+html body text table tbody tr td font p font b span  ,"DECIDE WHETHER IT�S NECESSARY TO KILL THE PROJECT, THENDO SO IF APPROPRIATE.",172,1562,585,15,1,12
+html body text table tbody tr td font p font span  ,(See,172,1577,31,15,1,11
+html body text table tbody tr td font p font i span  ,Appendix E: Guidelines�When to Kill theProject.,203,1577,287,15,1,12
+html body text table tbody tr td font p font span  ,*),490,1577,9,15,1,11
+html body text table tbody tr td font p font b span  ,CREATE A LIST OF LESSONS LEARNED.,172,1608,254,15,1,12
+html body text table tbody tr td font p font span  ,Create a list of lessons learned that describes the wayssubsequent project activities must be modified in order to prevent thedifficulties encountered up to this point.,172,1639,598,30,1,11
+html body text table tbody tr td font p font b span  ,COMPLETE APPROPRIATE EVALUATION CHECKLISTS.,172,1685,345,15,1,12
+html body text table tbody tr td font font span  ,"Complete evaluation checklists, if applicable, and file them aspart of the official project records.",172,1716,545,15,1,10
+html body text table tbody tr td font p span  ,*,172,1773,11,17,0,10
+html body text table tbody tr td font p font span  ,This item is located in,183,1775,128,15,0,11
+html body text table tbody tr td font p font b i a span  ,TheProject Manager's Partner,311,1775,188,15,0,14
+html body text table tbody tr td font p font span  ,", by Michael Greer",499,1775,106,15,0,11
+html body text table tbody tr td font p font span  ,Do you like this tool? The latest edition of,172,1833,244,15,0,11
+html body text table tbody tr td font p font b i a span  ,The Project Manager's Partner: A Step-by-StepGuide to Project Management,172,1833,584,30,0,14
+html body text table tbody tr td font p font span  ,"contains 57 tools, checklists, andguidelines to help project managers. For more information, click on the link above or phone",172,1848,586,30,0,11
+html body text table tbody tr td font p font a span  ,HRD Press,429,1863,69,15,0,12
+html body text table tbody tr td font p font span  ,at(800) 822-2801.,498,1863,103,15,0,11
+html body text table tbody tr td font p font span  ,Would you like a,172,1894,99,15,0,11
+html body text table tbody tr td font p font b i span  ,"custom-tailored, on-site PM workshop",271,1894,239,15,0,13
+html body text table tbody tr td font p font span  ,for your organization?,510,1894,129,15,0,11
+html body text table tbody tr td font p font a span  ,Click here to check out thepossibilities,172,1894,599,30,0,12
+html body text table tbody tr td font p font span  ,or send an e-mail to,260,1909,119,15,0,11
+html body text table tbody tr td font p font a span  ,info@michaelgreer.com,379,1909,140,15,0,12
+html body text table tbody tr td font p font span  ,.,519,1909,4,15,0,11
+html body text table tbody tr td font p font i span  ,(C) Copyright 2004 from,172,1966,143,15,0,12
+html body text table tbody tr td font p font strong i span  ,MichaelGreer's Project Management Resources,315,1966,297,15,0,13
+html body text table tbody tr td font p font i span  ,web site. The URL is,612,1966,124,15,0,12
+html body text table tbody tr td font p font i span  ,".For more information, send e-mail to",172,1966,586,30,0,12
+html body text table tbody tr td font p a font i span  ,info@michaelgreer.com,362,1981,141,15,0,13
+html body text table tbody tr td font p font i span  ,. -- Feel free to copy and distribute forinformational (not-for-profit) purposes.,172,1981,528,30,0,12
+html body text table tbody tr td font p a font span  ,Return to Michael Greer's Project Management Resourceshome page.,189,2028,405,15,0,12

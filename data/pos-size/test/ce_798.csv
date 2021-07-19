@@ -1,0 +1,332 @@
+tag,content,x,y,width,height,label,depth
+html body text div div div div div span  ,Hello,8,50,36,17,0,9
+html body text div div div div div a span  ,Change Preferences,8,68,132,17,0,10
+html body text div div div div div span  ,|,140,68,7,17,0,9
+html body text div div div div div a span  ,Sign Out,147,68,57,17,0,10
+html body text div div div div div b a span  ,Sign In,8,86,53,17,0,11
+html body text div div div div div span  ,|,61,86,8,17,0,9
+html body text div div div div div a span  ,Register Now,69,86,88,17,0,10
+html body text div div div a span  ,Print Edition,8,124,94,17,0,8
+html body text div div div span  ,|,102,124,4,17,0,7
+html body text div div div a span  ,Subscribe,8,142,68,17,0,8
+html body text div div div table tbody tr td a span  ,Politics,8,109,48,17,0,12
+html body text div div div table tbody tr td a span  ,Business,57,109,57,17,0,12
+html body text div div div table tbody tr td a span  ,Education,148,109,65,17,0,12
+html body text div div div table tbody tr td a nobr span  ,Real Estate,243,109,72,17,0,13
+html body text div div div table tbody tr td a span  ,Nation,8,127,44,17,0,12
+html body text div div div table tbody tr td a span  ,Technology,57,127,75,17,0,12
+html body text div div div table tbody tr td a span  ,KidsPost,148,127,58,17,0,12
+html body text div div div table tbody tr td a span  ,Obituaries,243,127,67,17,0,12
+html body text div div div table tbody tr td a span  ,World,8,145,40,17,0,12
+html body text div div div table tbody tr td a span  ,Entertainment,57,145,91,17,0,12
+html body text div div div table tbody tr td a span  ,Religion,148,145,55,17,0,12
+html body text div div div table tbody tr td a span  ,Corrections,243,145,75,17,0,12
+html body text div div div table tbody tr td a span  ,Metro,8,163,39,17,0,12
+html body text div div div table tbody tr td a span  ,Health,57,163,43,17,0,12
+html body text div div div table tbody tr td a nobr span  ,Post Magazine,148,163,95,17,0,13
+html body text div div div table tbody tr td a span  ,Archives,243,163,58,17,0,12
+html body text div div div table tbody tr td a nobr span  ,Politics Blog,51,109,83,17,0,13
+html body text div div div table tbody tr td a span  ,Congress,135,109,60,17,0,12
+html body text div div div table tbody tr td a span  ,Polls,262,109,32,17,0,12
+html body text div div div table tbody tr td a span  ,Elections,51,127,60,17,0,12
+html body text div div div table tbody tr td a nobr span  ,House/Senate Votes,135,127,127,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Federal Page,262,127,83,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Key Races,51,145,69,17,0,13
+html body text div div div table tbody tr td a nobr span  ,White House,135,145,84,17,0,13
+html body text div div div table tbody tr td a nobr span  ,In Depth,262,145,56,17,0,13
+html body text div div div table tbody tr td a span  ,Columns & Blogs,109,109,74,35,0,12
+html body text div div div table tbody tr td a span  ,Feedback,203,118,61,17,0,12
+html body text div div div table tbody tr td a span  ,Cartoons & Videos,109,145,74,35,0,12
+html body text div div div table tbody tr td a span  ,Outlook,203,154,52,17,0,12
+html body text div div div table tbody tr td a span  ,Editorials,109,181,62,17,0,12
+html body text div div div table tbody tr td a nobr span  ,Message Boards,203,181,105,17,0,13
+html body text div div div table tbody tr td a span  ,Redskins,170,109,59,17,0,12
+html body text div div div table tbody tr td a nobr span  ,D.C. United,232,109,78,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Columns/Blogs,319,109,100,17,0,13
+html body text div div div table tbody tr td a span  ,NBA,427,109,34,17,0,12
+html body text div div div table tbody tr td a span  ,Nationals,170,127,61,17,0,12
+html body text div div div table tbody tr td a span  ,Capitals,232,127,52,17,0,12
+html body text div div div table tbody tr td a nobr span  ,College Football,319,127,107,17,0,13
+html body text div div div table tbody tr td a span  ,NHL,427,127,33,17,0,12
+html body text div div div table tbody tr td a span  ,Wizards,170,145,53,17,0,12
+html body text div div div table tbody tr td a nobr span  ,High Schools,232,145,87,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Local Colleges,319,145,96,17,0,13
+html body text div div div table tbody tr td a span  ,NFL,427,145,30,17,0,12
+html body text div div div table tbody tr td a span  ,Style,220,109,33,17,0,12
+html body text div div div table tbody tr td a span  ,Movies,352,109,48,17,0,12
+html body text div div div table tbody tr td a span  ,Travel,450,109,41,17,0,12
+html body text div div div table tbody tr td a nobr span  ,Fashion & Beauty,513,109,116,17,0,13
+html body text div div div table tbody tr td a span  ,Horoscopes,630,109,76,17,0,12
+html body text div div div table tbody tr td a nobr span  ,City Guide,220,127,71,17,0,13
+html body text div div div table tbody tr td a span  ,Television,352,127,66,17,0,12
+html body text div div div table tbody tr td a span  ,Books,450,127,41,17,0,12
+html body text div div div table tbody tr td a nobr span  ,Home & Garden,513,127,107,17,0,13
+html body text div div div table tbody tr td a span  ,Comics,630,127,49,17,0,12
+html body text div div div table tbody tr td a nobr span  ,Entertainment News,220,145,131,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Food & Dining,352,145,98,17,0,13
+html body text div div div table tbody tr td a span  ,Museums,450,145,62,17,0,12
+html body text div div div table tbody tr td a nobr span  ,Theater & Dance,513,145,110,17,0,13
+html body text div div div table tbody tr td a span  ,Crosswords,630,145,76,17,0,12
+html body text div div div table tbody tr td a span  ,Ad: Click here for Travel Specials & Deals,220,168,276,17,0,12
+html body text div div div table tbody tr td span  ,"Tues., Jan. 2, All Times ET",319,109,174,17,0,11
+html body text div div div table tbody tr td a nobr span  ,"K Street, 1",319,127,69,17,0,13
+html body text div div div table tbody tr td a nobr span  ,"NFL Insider, 11",457,127,101,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Today's Schedule,569,127,112,17,0,13
+html body text div div div table tbody tr td a nobr span  ,"Life at Work, 11",319,145,104,17,0,13
+html body text div div div table tbody tr td a nobr span  ,"Post Politics, 11",457,145,103,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Weekly Schedule,569,145,111,17,0,13
+html body text div div div table tbody tr td a nobr span  ,"Media Backtalk, 12",319,163,126,17,0,13
+html body text div div div table tbody tr td a nobr span  ,"Opinion, 1",457,163,68,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Transcripts,569,163,71,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Multimedia: Being A Black Man,392,109,210,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Day in Photos,602,109,91,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Photos: Eye On Entertainment,392,127,195,17,0,13
+html body text div div div table tbody tr td a nobr span  ,News Video,602,127,78,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Videos: A Living HIV Quilt,392,145,178,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Documentary Video,602,145,129,17,0,13
+html body text div div div table tbody tr td a span  ,Search D.C.-area events and locations.,485,109,182,35,0,12
+html body text div div div table tbody tr td a span  ,"Find movies, restaurants, bars and clubs.",485,145,192,35,0,12
+html body text div div div table tbody tr td a span  ,Merchandise,566,118,83,17,0,12
+html body text div div div table tbody tr td a span  ,Pets,649,118,27,17,0,12
+html body text div div div table tbody tr td a span  ,Death Notices,697,109,49,35,0,12
+html body text div div div table tbody tr td a span  ,Personals,566,145,61,17,0,12
+html body text div div div table tbody tr td a span  ,Rentals,649,145,48,17,0,12
+html body text div div div table tbody tr td a nobr span  ,Legal Notices,697,145,89,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Find a Job,639,109,67,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Post a Job,742,109,65,17,0,13
+html body text div div div table tbody tr td a nobr span  ,News & Advice,639,127,102,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Employer Login,742,127,105,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Buy a Car,678,109,65,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Experts & Advice,743,109,115,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Dealer Specials,858,109,100,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Sell a Car,678,127,63,17,0,13
+html body text div div div table tbody tr td a span  ,Coupons,743,127,57,17,0,12
+html body text div div div table tbody tr td a nobr span  ,Buy a Home,639,173,81,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Sell a Home,726,173,79,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Property Values,830,173,101,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Find a Rental,639,191,86,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Rent Your Place,726,191,104,17,0,13
+html body text div div div table tbody tr td a nobr span  ,Rentals Section,830,191,100,17,0,13
+html body text div div div div span  ,SEARCH:,8,236,68,17,0,8
+html body text div div div form div span  ,washingtonpost.com,8,254,132,17,0,9
+html body text div div div form div span  ,Web,9,272,29,17,0,9
+html body text div div div div span span  ,|,14,328,7,17,0,9
+html body text div div div div a span  ,Search Archives,27,328,105,17,0,9
+html body text div div span a span  ,washingtonpost.com,14,349,136,17,0,8
+html body text div div span span  ,>,150,349,13,17,0,7
+html body text div div span a span  ,Politics,163,349,52,17,0,8
+html body text div div span span  ,>,215,349,13,17,0,7
+html body text div div span a span  ,Elections,228,349,64,17,0,8
+html body text div div span span  ,>,292,349,13,17,0,7
+html body text div div span a span  ,2004 Election,305,349,93,17,0,8
+html body text div div span span  ,>,398,349,13,17,0,7
+html body text div div span a span  ,Debates,411,349,52,17,0,8
+html body text div div div div a span  ,Print This Article,8,367,111,17,0,9
+html body text div div div div a span  ,E-Mail This Article,8,385,125,17,0,9
+html body text div div div h2 span  ,RSS News Feeds,8,423,169,26,0,8
+html body text div div div div div a span  ,Top News,8,470,65,17,0,10
+html body text div div div div div a span  ,Debates,8,488,52,17,0,10
+html body text div div div div a span  ,What is RSS?,8,506,93,17,0,9
+html body text div div div div span  ,|,101,506,6,17,0,8
+html body text div div div div a span  ,All RSS Feeds,107,506,94,17,0,9
+html body text div div div div h1 span  ,Debate Leads to Shifts in Strategy,8,545,465,36,1,9
+html body text div div div div h2 span  ,Advisers Predict Tightening Race,8,604,343,26,1,9
+html body text div div div div div font span  ,By Dan Balz,8,651,67,15,1,10
+html body text div div div div font span  ,Washington Post Staff Writer,8,667,152,15,1,9
+html body text div div div div font span  ,"Sunday, October 3, 2004; Page A01",8,683,186,15,1,9
+html body text div div div div div p nitf span  ,"A newly energized battle for the White House heads into a crucial two-week period with John F. Kerry planning to capitalize on the momentum from a strong debate performance by shifting the focus to President Bush's economic record, while the president revives his attack on Kerry's foreign policy credentials, according to officials with both campaigns.",8,715,733,71,1,11
+html body text div div div div div p nitf span  ,"Thursday's debate produced a dramatic psychological shift in the presidential race, but strategists said it is less clear how much impact the 90-minute encounter would have on a lead that Bush has enjoyed since his convention in New York a month ago.",8,803,745,53,1,11
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td div font sup span  ,___,45,884,24,15,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td div font b span  ,Debate Coverage,69,890,110,15,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td div font sup span  ,___,179,884,20,15,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font a strong span  ,Full Debate Video:,107,914,87,11,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font span  ,"The final presidential debate, held at Arizona State University in Tempe, Ariz.",107,925,116,44,0,22
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font span  ,•,19,988,8,15,0,23
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font a b span  ,Complete Debate Transcript,27,991,133,11,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font div font b sup span  ,_____,76,1012,25,10,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font div font b span  ,Analysis,101,1015,44,11,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font div font b sup span  ,_____,145,1012,23,10,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font span  ,•,19,1035,8,15,0,23
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font b a span  ,Debate Referee:,27,1038,76,11,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font span  ,The Washington Post and washingtonpost.com examine the accuracy of the claims and charges leveled in the final presidential debate by President Bush and Sen. John F. Kerry.,19,1050,157,66,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font b sup span  ,_____,43,1156,25,10,0,28
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font b span  ,Thursday Discussions,68,1160,110,11,0,27
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font b sup span  ,_____,178,1156,23,10,0,28
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,•,19,1180,8,15,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font b a span  ,Transcript:,27,1183,55,11,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font span  ,Post Associate Editor Robert G. Kaiser analyzes the third presidential debate.,19,1183,203,23,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,•,19,1206,8,15,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font b a span  ,Transcript:,27,1209,55,11,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font span  ,"PBS ""Washington Week"" host and moderator of the vice presidential debate Gwen Ifill.",19,1209,200,34,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,•,19,1243,8,15,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font b a span  ,Transcript:,27,1246,55,11,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font span  ,washingtonpost.com's Chief Political Correspondent Terry M. Neal on the latest election news.,19,1246,196,34,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font b sup span  ,_____,67,1289,26,10,0,28
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font b span  ,Latest News,93,1292,61,11,0,27
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font b sup span  ,_____,154,1289,23,10,0,28
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,•,19,1307,8,15,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font b a span  ,Full Coverage of Debates,27,1310,120,11,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,•,19,1322,8,15,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font b a span  ,Latest Blogs on the Debate,27,1325,129,11,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td div font sup span  ,___,39,1395,23,15,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td div font b span  ,Compare Bush and Kerry,62,1404,123,11,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td div font sup span  ,___,185,1395,20,15,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font a font b span  ,Candidate Positions,104,1424,96,11,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font span  ,A side-by-side comparison of the stands taken by,104,1435,117,22,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font b span  ,President Bush,104,1457,76,11,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font span  ,and,180,1457,20,11,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font b span  ,Sen. John F. Kerry,104,1457,116,22,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font span  ,.,170,1468,3,11,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font sup span  ,___,49,1503,16,10,0,27
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font b span  ,More Election Coverage,65,1506,117,11,0,27
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font div font sup span  ,___,182,1503,13,10,0,27
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,•,16,1526,8,15,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font b a span  ,Electoral College Map:,24,1529,110,11,0,27
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,"Post analysis, polls and recent voting history from 16 swing states.",16,1529,206,23,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,•,16,1561,8,15,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font b a span  ,Live Discussions:,24,1564,88,11,0,27
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,"Q&A With Post Reporters, Newsmakers and Pundits",16,1564,212,23,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font font span  ,•,16,1596,8,15,0,26
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font b a span  ,News From the Trail:,24,1599,101,11,0,27
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font font font font span  ,"Updates and Analysis on Presidential, Senate and House Races",16,1599,206,23,0,25
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font b span  ,Friday's Question:,19,1705,87,11,0,23
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font form span  ,It was not until the early 20th century that the Senate enacted rules allowing members to end filibusters and unlimited debate. How many votes were required to invoke cloture when the Senate first adopted the rule in 1917?,19,1716,199,66,0,23
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font form strong span  ,51,19,1782,11,11,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font form strong span  ,60,19,1793,11,11,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font form strong span  ,64,19,1804,11,11,0,24
+html body text div div div div div table tbody tr td table tbody tr td table tbody tr td font form strong span  ,67,19,1815,11,11,0,24
+html body text div div div div div table tbody tr td div h2 span  ,Free E-mail Newsletters,8,1888,246,26,0,15
+html body text div div div div div table tbody tr td div div div ul li b span  ,Daily Politics News & Analysis,48,1934,209,17,0,19
+html body text div div div div div table tbody tr td div div div ul li a b span  ,See a Sample,48,1952,94,17,0,20
+html body text div div div div div table tbody tr td div div div ul li span  ,|,142,1952,7,17,0,18
+html body text div div div div div table tbody tr td div div div ul li a b span  ,Sign Up Now,149,1952,90,17,0,20
+html body text div div div div div table tbody tr td div div div ul li b span  ,Federal Insider,48,1970,105,17,0,19
+html body text div div div div div table tbody tr td div div div ul li a b span  ,See a Sample,48,1988,94,17,0,20
+html body text div div div div div table tbody tr td div div div ul li span  ,|,142,1988,7,17,0,18
+html body text div div div div div table tbody tr td div div div ul li a b span  ,Sign Up Now,149,1988,90,17,0,20
+html body text div div div div div table tbody tr td div div div ul li b span  ,Breaking News Alerts,48,2006,148,17,0,19
+html body text div div div div div table tbody tr td div div div ul li a b span  ,See a Sample,48,2024,94,17,0,20
+html body text div div div div div table tbody tr td div div div ul li span  ,|,142,2024,7,17,0,18
+html body text div div div div div table tbody tr td div div div ul li a b span  ,Sign Up Now,149,2024,90,17,0,20
+html body text div div div div div p nitf span  ,"Yesterday found the candidates in the nation's two most important battlegrounds, with Bush campaigning in Ohio and Kerry rallying supporters in Florida. Bush hammered Kerry as someone who would turn over decisions about the use of U.S. military power to other countries, and Kerry said middle-class Americans cannot afford another four years of a Bush administration.",8,2075,767,71,1,11
+html body text div div div div div p nitf span  ,"Bush advisers were described as stunned by how negative the reviews were of the president's performance, which many of them regarded as not his best but not so bad. Bush was portrayed as upbeat while acknowledging to supporters that he knew he could have done better. His aides indicated they plan some retooling before Friday's debate, but they maintained a sense of outward confidence.",8,2163,767,71,1,11
+html body text div div div div div p nitf span  ,"Advisers to both candidates predicted that the race would tighten when the debates end on Oct. 13, if not before, but Bush strategists say that will have less to do with the debates than on a natural tightening as the election nears. The first poll since Thursday night to measure the debate's impact, taken by Newsweek, showed Kerry leading Bush 49 percent to 46 percent -- a reversal from a series of polls over the past month.",8,2251,765,71,1,11
+html body text div div div div div p nitf span  ,"On Tuesday, Vice President Cheney and Democratic vice presidential nominee John Edwards will meet in Cleveland for a 90-minute debate -- a session some Republicans believe may have more relevance as a result of what happened in Florida. On Friday, Bush and Kerry will attend a town hall meeting with voters in St. Louis. The final presidential debate will take place in Tempe, Ariz., on Oct. 13.",8,2339,762,71,1,11
+html body text div div div div div p nitf span  ,Democratic and GOP strategists said both candidates face new challenges as a result of the first debate.,8,2427,660,17,1,11
+html body text div div div div div p nitf span  ,"For Bush, the immediate objective is to wipe away impressions of that debate, in which he appeared annoyed and irritated by Kerry's criticism. But just as significant may be how well he passes the test of explaining why he believes his policies in Iraq are working at a time when conditions on the ground suggest that the insurgency is stronger than ever. The longer the focus is on Bush's record, these strategists said, the more trouble he may have.",8,2461,752,71,1,11
+html body text div div div div div p nitf span  ,"Republicans said Bush must avoid debating Kerry on the details of micromanaging foreign policy and return to statements of principle with which most voters agree, from the threat of Saddam Hussein to the need to stay in Iraq. And, said one GOP strategist, Bush needs to keep reminding voters about Sept. 11, 2001, and the impact of the terrorist attacks on the country.",8,2549,764,71,1,11
+html body text div div div div div p nitf span  ,"For Kerry, the test will be to translate a positive debate performance into sustained and consistent performance on the campaign trail, continuing to undo the damage Bush has inflicted on him as someone who lacks core convictions or clear positions, particularly on Iraq. The first debate may have helped, but even Democrats say that it was not enough to solve the problem. Beyond that, Democrats said, he must tie together his critiques of Bush's foreign and domestic records more effectively than he has so far.",8,2637,768,89,1,11
+html body text div div div div div p nitf span  ,"The aftermath of the debate produced a strategic change for the Kerry campaign, which had used the two weeks before it to launch an argument about Bush's record in Iraq that was designed to take the pressure off Kerry's often-contradictory statements on the subject. Heading toward the final two debates that will dwell on domestic policy, Kerry advisers said they will use a big advertising buy to help put the focus on Bush's economic record.",8,2743,764,71,1,11
+html body text div div div div div p nitf span  ,"Kerry strategist Tad Devine said voters want to know that the president can deal with Iraq and domestic needs at the same time and that Kerry would offer that assurance. ""This represents a very aggressive move to the domestic agenda,"" Devine told reporters yesterday as he described a 15-state, $7.7 million ad buy.",8,2831,763,53,1,11
+html body text div div div div div p nitf span  ,"Bush's team indicated they plan to stick to the strategy that has guided their campaign by redoubling efforts to portray Kerry as a flip-flopper. ""While Senator Kerry was very articulate, I don't think he cleared up what voters believed to be a central flaw in his candidacy, which is that in response to very serious threats, his response is very often to vacillate with the politics of the moment,"" Bush's campaign manager Ken Mehlman said.",8,2901,762,71,1,11
+html body text div div div div div p nitf span  ,"Bush has seized on a statement the Massachusetts Democrat made in the debate that U.S. decisions to launch military action needed to meet a ""global test"" of acceptability among major allies, and the campaign launched a new TV ad on the same theme. Kerry immediately responded with an ad describing the charge as a willful distortion of Kerry's position.",8,2989,752,71,1,11
+html body text div div div div div p nitf span  ,"Publicly, the Bush campaign team maintained a sense of confidence about the outcome of the election and argued that, despite Kerry's attractive appearance, Thursday's debate had provided openings they will exploit. They also said they believe any Kerry gains from the debate will prove to be transitory.",8,3077,758,53,1,11
+html body text div div div div div p nitf span  ,"""I remember the swoon everybody was in at the time of their convention and immediately afterward, and it turned out to be missed opportunity for him and a great opportunity for us,"" White House senior adviser Karl Rove said yesterday.",8,3147,764,35,1,11
+html body text div div div div div p nitf span  ,"Other Republicans were privately less optimistic about the race, fearing that Kerry's debate performance could erase much of the impact of months of Bush-Cheney ads portraying the Democratic nominee as a flip-flopper. They said they were surprised by Bush's lackluster performance, even granting that the president is not the most skilled of debaters.",8,3199,765,53,1,11
+html body text div div div div div p nitf span  ,"Asked whether he worried that Bush was on the defensive over his record in Iraq, one GOP strategist said: ""I'm far less worried about that than that we had [Kerry] firmly pinned down as a wishy-washy flip-flopper and that's now not nearly as pinned down as I wish it were."" The strategist, who declined to be identified to speak freely about the president's campaign, indicated that the debates offer Bush the opportunity to drive home that argument decisively and that in the Coral Gables debate he failed to do so.",8,3269,768,89,1,11
+html body text div div div div div p nitf span  ,Kerry advisers and Democratic strategists said the debate provided them with much-needed momentum and marked a potential turning point that would take Kerry off the defensive and shift the focus onto Bush in an effort to capitalize on what polls show is continuing public disapproval of his policies in Iraq and at home.,8,3375,766,53,1,11
+html body text div div div div div p nitf span  ,"""The Kerry campaign and the Democrats are very realistic in knowing they did not win the election Thursday night,"" strategist Anita Dunn said. ""The Republicans were the only ones who thought they could win the election Thursday night.""",8,3445,748,53,1,11
+html body text div div div div div p nitf span  ,"Other Democratic strategists said the debate guarantees that Kerry will get a fresh look from some voters, but they noted that more work remains if he hopes to make the gains permanent. ""I think he has opened people's eyes and ears to him, and in the next debates he still needs to take advantage of the opportunity,"" Democratic pollster Geoffrey Garin said. ""But the opportunity is very, very real at this point.""",8,3515,767,71,1,11
+html body text div div div div div p nitf span  ,"Democrats said the sequence of debates may work to Kerry's advantage, since foreign policy and national security have been Bush's perceived strengths, and the Kerry campaign's new ad strategy underscores their confidence. But Bush advisers said they are prepared to go toe-to-toe with Kerry on those issues, saying Bush can win the debate over taxes and regulatory issues and can hold down Kerry's advantage on health care. ""We feel comfortable debating on either turf,"" a Bush adviser said.",8,3603,765,89,1,11
+html body text div div div div div p nitf span  ,"The real battle may still come over foreign policy, with Kerry advisers confident that the senator's performance in the debate demonstrated not only deep knowledge of foreign policy but the strength of someone voters would trust to be commander in chief.",8,3709,750,53,1,11
+html body text div div div div div p nitf span  ,"Bush advisers, however, remain equally confident that voters already have come to the conclusion that, whatever their fears are about Iraq, they have more confidence in Bush as the one to lead the country in a war on terrorism.",8,3779,756,35,1,11
+html body text div div div div div p nitf span  ,"""It's going to be more of a substantive slog, and there Kerry gave us some openings,"" Rove said. ""This global test thing was very big. This was shorthand for all the questions people have about the guy.""",8,3831,762,35,1,11
+html body text div div div div div p nitf span  ,"Beyond the ""global test"" issue, another Bush adviser said they will challenge Kerry for suggesting that he has a workable plan to stabilize Iraq and get U.S. troops home. ""The notion that Kerry is hanging his hopes on this plan opens up a whole new avenue of discussion,"" the adviser said. ""What is Kerry's plan? What are the specifics? What nations does he think will join a colossal mistake? In the end, I don't think this is going to help Kerry at all.""",8,3883,737,71,1,11
+html body text div div div div div p nitf span  ,"Bush's campaign is banking on the fact that rarely has a single debate turned around an election, and they express confidence that, in a highly polarized electorate, many judgments about the candidates have been locked away. Kerry's team sees the debates as pivotal in regaining ground lost in the past two months, and the team believes Iraq and the domestic environment provide them with the ammunition to win the election.",8,3971,759,71,1,11
+html body text div div div div div a span  ,Print This Article,8,4077,111,17,0,10
+html body text div div div div div a span  ,E-Mail This Article,8,4095,125,17,0,10
+html body text div div div div div a span  ,RSS Feed,0,0,0,0,0,10
+html body text div div div div div a span  ,Permission to Republish,8,4113,156,17,0,10
+html body text div div div div span  ,© 2004 The Washington Post Company,265,4131,255,17,0,8
+html body text div div div h2 span  ,Featured Advertiser Links,8,4168,372,26,0,8
+html body text div div div div div p a span  ,Refinance Rates As Low As 2.9% - FREE QUOTES!,8,4215,342,17,0,11
+html body text div div div div div p a span  ,"$200,000 Loan for only $896?mo. Bad Credit OK.",8,4249,324,17,0,11
+html body text div div div div div p a span  ,"$200,000 Loan for only $667?mo. Bad Credit OK.",8,4283,324,17,0,11
+html body text div div div div div p a span  ,"$40,000 Home Equity Loan for only $287?mo fixed.",8,4317,338,17,0,11
+html body text div div div div div p a span  ,Redskins Tickets,8,4351,113,17,0,11
+html body text div div div div div p span  ,",",121,4351,8,17,0,10
+html body text div div div div div p a span  ,Wizards Tickets,129,4351,107,17,0,11
+html body text div div div div div p span  ,",",236,4351,8,17,0,10
+html body text div div div div div p a span  ,BCS Championship,244,4351,127,17,0,11
+html body text div div div div div p a span  ,Malpractice Lawyer,8,4385,133,17,0,11
+html body text div div div div div p span  ,",",141,4385,8,17,0,10
+html body text div div div div div p a span  ,Birth Defect Lawsuit,149,4385,139,17,0,11
+html body text div div div div div p span  ,",",288,4385,8,17,0,10
+html body text div div div div div p a span  ,Trasylol,296,4385,53,17,0,11
+html body text div div div div div p a span  ,Promotional Pens,8,4419,117,17,0,11
+html body text div div div div div p span  ,",",125,4419,8,17,0,10
+html body text div div div div div p a span  ,T-shirts,133,4419,52,17,0,11
+html body text div div div div div p span  ,",",185,4419,8,17,0,10
+html body text div div div div div p a span  ,Custom Hats,193,4419,84,17,0,11
+html body text div div div div div p a span  ,"Cool Gadgets, Great Deals, Visit CircuitCity.com",8,4453,316,17,0,11
+html body text div div div div div p a span  ,7 Funds at Vanguard to BUY; 10 to SELL--Free!,8,4487,312,17,0,11
+html body text div div div div div p a span  ,Travel downtown to downtown only on Acela.,8,4521,298,17,0,11
+html body text div div div div span  ,SEARCH:,8,4555,68,17,0,8
+html body text div div div form div span  ,washingtonpost.com,8,4573,132,17,0,9
+html body text div div div form div span  ,Web,9,4591,29,17,0,9
+html body text div div div div a span  ,NEWS,8,4647,49,17,0,9
+html body text div div div div span span  ,|,57,4647,8,17,0,9
+html body text div div div div a span  ,OPINIONS,65,4647,78,17,0,9
+html body text div div div div span span  ,|,143,4647,7,17,0,9
+html body text div div div div a span  ,SPORTS,150,4647,62,17,0,9
+html body text div div div div span span  ,|,212,4647,6,17,0,9
+html body text div div div div a span  ,ARTS & LIVING,218,4647,120,17,0,9
+html body text div div div div span a span  ,Discussions,352,4647,80,17,0,10
+html body text div div div div span span  ,|,432,4647,8,17,0,9
+html body text div div div div a span  ,Photos & Video,440,4647,105,17,0,9
+html body text div div div div span span  ,|,545,4647,8,17,0,9
+html body text div div div div a span  ,City Guide,553,4647,74,17,0,9
+html body text div div div div span a span  ,CLASSIFIEDS,641,4647,104,17,0,10
+html body text div div div div span span  ,|,745,4647,3,17,0,9
+html body text div div div div a span  ,JOBS,8,4665,41,17,0,9
+html body text div div div div span span  ,|,49,4665,8,17,0,9
+html body text div div div div a span  ,CARS,57,4665,45,17,0,9
+html body text div div div div span span  ,|,102,4665,8,17,0,9
+html body text div div div div a span  ,REAL ESTATE,110,4665,101,17,0,9
+html body text div div p span a span  ,washingtonpost.com:,8,4699,140,17,0,9
+html body text div div p nobr a b span  ,Help,148,4699,37,17,0,10
+html body text div div p span  ,|,185,4699,8,17,0,7
+html body text div div p a span  ,Contact Us,193,4699,75,17,0,8
+html body text div div p span span  ,|,268,4699,6,17,0,8
+html body text div div p a span  ,About Us,274,4699,66,17,0,8
+html body text div div p span span  ,|,340,4699,7,17,0,8
+html body text div div p a span  ,Advertisers,347,4699,77,17,0,8
+html body text div div p span span  ,|,424,4699,7,17,0,8
+html body text div div p a span  ,Site Index,431,4699,70,17,0,8
+html body text div div p span span  ,|,501,4699,7,17,0,8
+html body text div div p a span  ,Site Map,508,4699,62,17,0,8
+html body text div div p span span  ,|,570,4699,7,17,0,8
+html body text div div p a span  ,Make Us Your Homepage,577,4699,171,17,0,8
+html body text div div p span span  ,|,748,4699,3,17,0,8
+html body text div div p a span  ,mywashingtonpost.com,8,4717,156,17,0,8
+html body text div div p span span  ,|,164,4717,7,17,0,8
+html body text div div p a span  ,Work for Us,171,4717,84,17,0,8
+html body text div div p span span  ,|,255,4717,7,17,0,8
+html body text div div p a span  ,Mobile,262,4717,50,17,0,8
+html body text div div p span span  ,|,312,4717,8,17,0,8
+html body text div div p a span  ,RSS,320,4717,28,17,0,8
+html body text div div p span span  ,The Washington Post:,8,4735,145,17,0,8
+html body text div div p a b span  ,Subscribe,153,4735,71,17,0,9
+html body text div div p span span  ,|,224,4735,7,17,0,8
+html body text div div p a span  ,Subscriber Services,231,4735,131,17,0,8
+html body text div div p span span  ,|,362,4735,6,17,0,8
+html body text div div p a span  ,Advertisers,368,4735,78,17,0,8
+html body text div div p span span  ,|,446,4735,7,17,0,8
+html body text div div p a span  ,Electronic Edition,453,4735,121,17,0,8
+html body text div div p span span  ,|,574,4735,7,17,0,8
+html body text div div p a span  ,Online Photo Store,581,4735,127,17,0,8
+html body text div div p span span  ,|,708,4735,7,17,0,8
+html body text div div p a span  ,The Washington Post Store,8,4735,732,35,0,8
+html body text div div p span span  ,|,157,4753,7,17,0,8
+html body text div div p a span  ,About The Post,164,4753,104,17,0,8
+html body text div div p span span  ,|,268,4753,7,17,0,8
+html body text div div p a span  ,National Weekly,275,4753,107,17,0,8
+html body text div div p span span  ,The Washington Post Company:,8,4771,211,17,0,8
+html body text div div p a span  ,Information and Other Post Co. Websites,219,4771,263,17,0,8
+html body text div div p span a span  ,© Copyright,18,4805,85,17,0,9
+html body text div div p span span  ,1996-,103,4805,41,17,0,8
+html body text div div p span span  ,The Washington Post Company,144,4805,207,17,0,8
+html body text div div p span span span  ,|,351,4805,7,17,0,9
+html body text div div p span a span  ,User Agreement and Privacy Policy,358,4805,233,17,0,9
+html body text div div p span span span  ,|,591,4805,7,17,0,9
+html body text div div p span a span  ,Rights and Permissions,598,4805,150,17,0,9
