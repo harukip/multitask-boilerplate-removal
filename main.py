@@ -229,7 +229,8 @@ def train(args, myDataLoader, myModel):
                     best_loss = val_loss.result()
                     if not os.path.isdir(FOLDER):
                         Path(FOLDER + "/best_val/").mkdir(parents=True, exist_ok=True)
-                        Path(FOLDER + "/best_val/tag_encoder/").mkdir(parents=True, exist_ok=True)
+                        if args.tag_rep == 1:
+                            Path(FOLDER + "/best_val/tag_encoder/").mkdir(parents=True, exist_ok=True)
                     myModel.save_weights(FOLDER + "/best_val/")
                     if args.tag_rep == 1:
                         myModel.tag_encoder.save_weights(FOLDER + "/best_val/tag_encoder/")
@@ -256,7 +257,8 @@ def train(args, myDataLoader, myModel):
                     best_macro_f1 = macro_f1
                     if not os.path.isdir(FOLDER):
                         Path(FOLDER + "/best_macro_f1/").mkdir(parents=True, exist_ok=True)
-                        Path(FOLDER + "/best_macro_f1/tag_encoder/").mkdir(parents=True, exist_ok=True)
+                        if args.tag_rep == 1:
+                            Path(FOLDER + "/best_macro_f1/tag_encoder/").mkdir(parents=True, exist_ok=True)
                     myModel.save_weights(
                         FOLDER + "/best_macro_f1/")
                     if args.tag_rep == 1:
